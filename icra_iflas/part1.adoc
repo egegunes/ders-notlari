@@ -1,0 +1,87 @@
+== İCRA TEŞKİLATI
+
+. İcra Dairesi
+. İcra Mahkemesi
+. Bölge Adliye Mahkemesi
+. Yargıtay'ın icra ve iflas işleri ile görevli daireleri
+
+=== İCRA DAİRESİ
+
+Neredeyse bütün icra takiplerinin başlaması bir icra dairesine başvurulması
+suretiyle gerçekleşir. İcra daireleri hemen her ilçede kurulur ve o ilçenin
+adıyla anılır (örn. Sarıyer 1. İcra Dairesi). _Her asliye mahkemesinin yargı
+çevresinde yeteri kadar icra dairesi bulunur._
+
+==== İCRA MEMURLARI
+
+İcra takibi icra dairesinde icra memuruna başvurulmak suretiyle başlatılır.
+İcra takibi talebini alan icra memuru borçluya bir ödeme emri gönderir.
+
+İcra memuru, yargı çevresi içinde görev yaptığı icra mahkemesinin emir ve
+talimatını almaz. Gerektiği takdirde kolluk kuvvetlerinden faydalanabilir.
+
+İcra ve iflas daireleri yaptıkları işlemleri ve kendilerine gelen talep ve
+beyanları tutanağa kaydederler. Aksi ispat edilinceye kadar bu tutanaklar doğru
+kabul edilir (İİK 8).
+
+İcra ve iflas dairelerince yapılacak her türlü icra ve iflas iş ve işlemlerinde
+Ulusal Yargı Ağı Bilişim Sistemi kullanılır; her türlü veri, bilgi, belge ve
+karar, Ulusal Yargı Ağı Bilişim Sistemi vasıtasıyla işlenir, kaydedilir ve
+saklanır.
+
+Usulüne göre güvenli elektronik imza ile oluşturulan elektronik veriler senet
+hükmündedir. Güvenli elektronik imza, elle atılan imza ile aynı ispat gücünü
+haizdir. Güvenli elektronik imza, kanunlarda güvenli elektronik imza ile
+yapılamayacağı açıkça belirtilmiş olan işlemler dışında, elle atılan imza
+yerine kullanılabilir (İİK 8/a).
+
+WARNING: Elektronik ortamda yapılan işlemlerde süre gün sonunda biter.
+
+İcra ve iflas işlerine bakan memur
+
+. Kendisinin,
+. Karı veya kocasının, nişanlısının yahut kan ve sıhri usul ve füruunun veya
+üçüncü derece dahil olmak üzere bu dereceye kadar olan kan ve sıhri civar
+hısımlarının,
+. Kanuni mümessili veya vekili yahut müstahdemi bulunduğu bir şahsın,
+Menfaati olan işleri göremeyip derhal icra mahkemesine haber vermeye mecburdur.
+
+İcra mahkemesi müracaatı yerinde görürse o işi diğer bir memura, bulunmıyan
+yerlerde katiplerinden birine verir (İİK 10).
+
+Tetkik vazifesini gören hakimler ve icra ve iflas memurları, dairelerince takip
+edilmekte olan bir alacak veya satılmakta bulunan bir şey hakkında kiminle
+olursa olsun kendileri veya başkaları hesaplarına bir akit yapamazlar.
+Yaparlarsa hükümsüzdür (İİK 11).
+
+NOTE: Tetkik mercii İcra Mahkemesidir.
+
+İcra ve İflas Dairesi görevlilerinin kusurlarından doğan tazminat davaları,
+ancak idare aleyhine açılabilir. Devletin, zararın meydana gelmesinde kusuru
+bulunan görevlilere rücu hakkı saklıdır.Bu davalara asliye mahkemelerinde
+bakılır (İİK 5).
+
+İcra dairesine tevdi veya bu dairece tahsil olunan veya muhafaza altına alınan
+paraların,ilgili memur tarafından zimmete geçirilmesi halinde, zimmete
+geçirilen miktar, cezai takibat sonucu beklenmeden ve tazmin yolunda bir hükme
+hacet kalmaksızın hazine tarafından derhal icra veznesine yatırılır. Devletin
+asıl sorumlulara rücu hakkı saklıdır (İİK 6).
+
+İcra ve iflâs dairelerinin muamelelerine karşı yapılan şikâyetlerle itirazların
+incelenmesi icra mahkemesi hâkimi yahut kanun gereğince bu görev kendisine
+verilmiş olan hâkim tarafından yapılır. İş durumunun gerekli kıldığı yerlerde
+Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü ile Adalet Bakanlığınca
+icra mahkemesinin birden fazla dairesi kurulabilir. Bu durumda icra mahkemesi
+daireleri numaralandırılır. İcra mahkemesinin birden fazla dairesi bulunan
+yerlerde iş dağılımı ve buna ilişkin esaslar, Hâkimler ve Savcılar Yüksek
+Kurulunca belirlenir. Her icra mahkemesi hâkimi, kendisine Adlî Yargı Adalet
+Komisyonu Başkanlığınca dönüşümlü olarak bağlanan icra ve iflâs dairelerinin
+muamelelerine yönelik şikâyetleri ve itirazları inceler, bu dairelerin gözetim
+ve denetimlerini yapar, idarî işlerine bakar.  İcra yetkisini haiz sulh
+mahkemelerinin muamelelerine karşı vuku bulacak şikayet ve itirazların icra
+mahkemesi o mahkemenin hakimidir (İİK 4).
+
+İcra ve iflâs daireleri, 4 üncü maddedeki esaslara göre icra mahkemesi
+hâkiminin daimî gözetimi ve denetimi altındadır. Bu daireler Cumhuriyet
+savcıları ve adalet müfettişleri vasıtası ile denetime tabi tutulur. Cumhuriyet
+savcıları bu daireleri yılda en az bir defa denetlerler (İİK 13).
