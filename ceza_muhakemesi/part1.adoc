@@ -1,0 +1,48 @@
+== GENEL SÜREÇ
+
+Suç şüphesiyle başlayıp iddianamenin kabulüyle biten evreye *soruşturma* denir.
+Soruşturma evresine başlanabilmesi için mutlaka bir şüpheliye ihtiyaç yoktur.
+Soruşturma evresinde suç şüphesi altında olan birisi varsa buna *şüpheli*,
+şüpheliyi temsil eden avukata da *müdafi* adı verilir. Soruşturma evresi
+bakımından asıl yetkili **Cumhuriyet Savcısı**dır. Dolayısıyla bütün işlemler
+cumhuriyet savcısının talimatıyla gerçekleşir. Bu süreçte hakim kararına
+ihtiyaç duyulması halinde karar verecek olan hakim CMK 162 uyarınca **Sulh Ceza
+Hakimi**dir.
+
+Soruşturma aşamasında suçun oluşup oluşmadığına, farklı şüphelilerin olup
+olmadığına yönelik araştırma yapılır ve bu araştırmalar neticesinde şüphe belli
+bir düzeye gelince cumhuriyet savcısı bir iddianame düzenler. Bu iddianame
+kabul veya reddedilmesi için mahkemeye gönderilir. _İddianamenin kabulüyle,
+kamu davası açılmış olur ve kovuşturma evresi başlar._ (CMK 175). 
+
+İddianamenin kabulünden olağan kanun yolları evresinin bitmesine (verilen
+kararın kesinleşmesine) kadar olan sürece *kovuşturma* evresi denir. Kovuşturma
+evresinde şüpheli, *sanık* haline gelir.
+
+Kovuşturma evresi üç ana bölümden oluşur:
+
+. İddianamenin kabulü ile duruşma günü arasındaki duruşma hazırlığı
+. Duruşma ve hüküm
+. Kanun yolları ve kesinleşme
+
+== NORMLARIN ZAMAN BAKIMINDAN UYGULANMASI
+
+Ceza muhakemesi kuralları yürürlüğe girdikleri tarihten itibaren şüphelinin,
+sanığın, suçtan zarar görenin, katılanın veya herhangi bir başka öznenin
+durumunu olumlu ya da olumsuz etkilemesine bakılmaksızın *derhal* uygulanırlar
+ve hiçbir şekilde geriye yürümezler. Her işlem yapıldığı tarihteki norma göre
+hukuka uygunluk hususunda değerlendirmeye tabi tutulur.
+
+== KIYAS SERBESTİSİ
+
+Kanun koyucu bir hukuki soruna ilişkin iradesini açıkça ortaya koymamışsa
+hakim, ilk olarak diğer usul kanunlarından, ikinci olarak ana ilkelerle
+çatışmamak kaydıyla kanunun içindeki diğer hükümlerden, üçüncü olarak da yine
+ana ilkelerle çatışmamak kaydıyla ve gerekçelendirmek koşuluyla normatif
+düzlemden bağımsız olarak sorunu çözmek zorundadır.
+
+Ancak bu kıyas serbestisinin iki istisnası vardır:
+
+. *Temel hak ve özgürlüklerle ilgili sınırlayıcı hükümler kıyasa tabi
+olamazlar.*
+. *İstisnai hükümlerde kıyasa başvurulamaz.*
