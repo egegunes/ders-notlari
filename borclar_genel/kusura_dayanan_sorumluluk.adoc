@@ -1,0 +1,1604 @@
+= KUSURA DAYANAN SORUMLULUK
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== 1- KUSURA DAYANAN SORUMLULUĞUN ŞARTLARI
+
+.TBK m. 49
+....
+f.1 - Kusurlu ve hukuka ayrkırı bir fiille başkasına zarar veren, bu zararı
+gidermekle yükümlüdür.
+....
+
+Bu maddeye göre haksız fiilin şartları:
+
+. Hukuka aykırı fiil 
+. Bu fiille bir kişiye verilen zarar 
+. Fiilin işlenmesinde failin kusurlu olması
+
+=== I. HUKUKA AYKIRI FİİL
+
+==== A. FIIL
+
+Kendisinden tazminat istenen şahsın bir fiili yoksa sorumluluğu da söz konusu
+olmaz.
+
+Hukukta fiil, bir insanın yapma veya yapmama tarzında iradi davranışıdır.
+
+Hareketsiz kalmanın (olumsuz davranışın) bir fiil teşkil etmesi ve sorumluluğa
+yol açabilmesi için failin o davranışta bulunması gerekirken hareketsiz kalmış
+olması aranır. Bu tarz fiilerin “ihmal suretiyle icra edildiği” söylenebilir.
+
+==== B. FIILIN HUKUKA AYKIRI OLMASI
+
+Hukuka aykırılık, zarar gören değeri korumak için hukuki düzenin yasakaldığı
+bir davranışta bulunmaktır.
+
+Haksız fiil sourmluluğunda fiilin hukuka aykırılığı bu fiilin bir genel
+davranış kuralını ihlal etmesi demektir.
+
+===== 1. Genel davranış kuralları ve hukuka aykırılık bağı
+
+Toplum içinde kişilerin yapmaları gerekli davranışlar (emirler) ile yapmamaları
+gerekli davranışları (yasaklar) belirten kurallar genel davranış kurallarıdır.
+
+Hukuka aykırı bir fiil sonucu zarara uğrayan kişinin haksız fiil hükümlerine
+göre tazminat isteyebilmesi için, ihlal edilen kuralın amacının kapsamına o
+kişinin zarardan korunması da girmesi gerekir. Diğer bir ifade ile mağdurun
+zarara uğraması ile ihlal edilen kural arasında hukuka aykırılık bağı
+bulunmalıdır.
+
+.. Bir şahsın diğer birinin bir mutlak hakkını ihlale yönelik fiili, bu ihlal
+bakımından hukuka aykırılığı engelleyen bir sebep bulunmadıkça hukuka aykırı
+olduğu gibi, davranış mutlak hakkı ihlale yönelik olmasa bile böyle bir hakkı
+ihlal sonucuna yol açmışsa gene de bu sebeple hukuka aykırıdır. Zira hakkın
+niteliği gereği, herkes mutlak hak sahibinin bu hakkını ihlal etmemekle
+yükümlüdür.
+
+.. Bir fiille zarar arasında nedensellik bağı bulunmasına rağmen şayet hukuka
+aykırılık bağı yoksa failin haksız fiil sorumluluğu olmaz.
+
+.Örnek
+TIP: Otobüse alınacak yolcu sayısı Belediye Yönetmeliği ile
+sınırlandırılmıştır. Sınırlamanın üstünde yolcu alınan bir otobüsteki
+sıkışıklıktan istifade eden bir yankesici birinin parasını çalarsa, otobüs
+işletmesi bu kişinin uğradığı tazminle yükümlü olmaz. Otobüse sınırlamanın
+üstünde yolcu alınması, sınırlamayı koyan kurala aykırıdır. Ancak sınırlama
+hükmünün amacının kapsamına yankesiciliği önleme girmez. Dolayısıyla bu fiille
+paranın çaldırılması arasında hukuka aykırılık bağı yoktur.
+
+.. Bir kişiye yönelmiş bir haksız fiilden yansıma yolu ile mutlak hakkı ihlal
+edilmeden malvarlığı azalarak zarara uğrayanların zararlarını faile tazmin
+ettirebilmeleri için, zararla fiil arasında nedensellik bağı bulunması dışında,
+fiile, yansıma zarara uğraması olgusu arasında hukuka aykırılık bağı
+bulunmalıdır.
+
+.Örnek
+TIP: Ses sanatçısı (A)'yı (B) öldürmüştür. (A)'nın ölümü yüzünden, eşi ve
+çocukları (A)'nın gelirinden mahrum kalarak yoksulluğa düşmüşler; (A)'ya 50.000
+TL borç vermiş olan (C) parasını tahsil edemez duruma düşmüş; (A)'nın bağlı
+olduğu gazino sahibi (D) de müşteri kaybederek kazançtan mahrum kalmıştır.
+
+Bunların hepsi (B)'nin hukuka aykırı fiilinden yansıma yolu ile zarara
+uğramışlardır.
+
+TBK m.53/b.3, (A)'nın eşi ve çocuklarının destekten yoksun kalma sonucu
+uğradıkları zararı (B) tarafından tazminini öngördüğü için bunların zarara
+uğraması ile (B)'nin fiili arasında hukuka aykırılık bağı kanunen kurulmuştur.
+
+Buna karşılık, ne (C)'nin ne de (D)'nin, (B)'den tazminat istemesi mümkündür.
+(B)'nin fiili ile (C) ve (D)'nin zarara uğraması arasında hukuka aykırılık bağı
+yoktur.
+
+===== 2. Hukuka aykırılığı önleyen sebepler
+
+.TBK m. 63
+....
+f.1 - Kanunun verdiği yetkiye dayanan ve bu yetkinin sınırları
+içinde kalan bir fiil, zarara yol açsa bile, hukuka aykırı sayılmaz.  +
+f.2 - Zarar görenin rızası, daha üstün nitelikteki özel veya kamusal yarar,
+zarar verenin davranışının haklı savunma niteliği taşıması, yetkili kamu
+makamlarının müdahelesinin zamanında sağlanamayacak olması durumunda kişinin
+hakkını kendi gücüyle koruması veya zorunluluk hallerinde de fiil, hukuka
+aykırı sayılmaz.
+....
+
+====== a) Zarar görenin (mağdurun) rızası
+
+Mağdurun failin davranışına razı olması, kural olarak failin davranışının
+hukuka aykırı sayılmasına engel olur.
+
+Mağdurun rızasının ona karşı işlenen fiilin hukuka aykırılığını önleyebilmesi,
+razı olma işleminin geçerli olmasına bağlıdır. Ehliyetsizlik, irade beyanındaki
+sakatlık, kişilik haklarına aykırılık gibi bir sebeple mağdurun razı olma
+işlemi hükümsüz ise, bu halde mağdurun rızası failin davranışının hukuka aykırı
+sayılmasını önlemez.  Hastanın rızası, vücut bütünlüğüne yönelik tıbbi
+müdahelelerin hukuka aykırılığını önleyen başlıca sebeptir. Ancak bunun için
+tıbbi müdahele gerekli olmalı ve tıbbi gereklere uygun olarak
+gerçekleştirilmelidir. Ancak, vucüt bütünlüğüne müdaheleye rıza, kişinin
+yaşamını kaybetmesine veya sakat kalmasına yol açacak bir davranış söz
+konusuysa, gerçersizdir.
+
+Tedavi amacına yönelik müdahelelerde de, eğer hekim hastayı müdahelenin
+taşıdığı risk ve sonuçları konusunda yeterince aydınlatmamışsa, verilen rızanın
+gene de hukuka aykırılığı kaldırmayacağı kabul edilmektedir. Aynı zamanda,
+tıbbi müdahelenin tıbbi gereklere aykırı olması halinde rıza müdahelenin hukuka
+aykırılığını kaldırmaz.
+
+Rızanın kişilik hakkına aykırılık sebebiyle geçersiz olduğu bir durumun
+bulunması, bu rızanın tazminat miktarı belirlenirken “birlikte kusur” olarak
+gözönüne alınmasına engel değildir. 
+
+Rızanın arandığı durumlarda, hasta beyanda bulunamayacak durumda ise veya
+ehliyetsizse, müdahelenin zorunlu olduğu durumlarda, rıza alınmadan yapılacak
+müdahelenin hukuka aykırı sayılmayacağı kabul edilmektedir.
+
+Mağdurun rızası, doğrudan doğruya diile ilişkin olabileceği gibi, bir olaydaki
+riski kabullenme tarzında da gerçekleşebilir.
+
+Rıza açık olabileceği gibi örtülü de olabilir. Rızanın yazılı olması şart
+olmayan hallerde bir davranışın rıza sayılıp sayılmayacağı güven prensibi
+çerçevesinde değerlendirilir.
+
+.Örnek
+TIP: Foto muhabirine poz veren kişinin, bu fotoğrafın yayınlanmasına razı
+olduğu kabul edilir.
+
+Kişiliğe tecavüz riski taşıyan bir faaliyete katılan kimsenin, bu risk
+kapsamına giren muhtemel tecavüzlere uğramaya rızası var sayılır. Buradaki
+rıza, belirli bir tecavüze değil, muhtemel tecavüzleredir.
+
+.Örnek
+TIP: Bir gösteri yürüyüşüne katılan kimse, isminin ve resminin yayınlanmasına
+razı olmuş sayılır.
+
+Zarar verici davranışa gerçekleştikten sonra razı olma (icazet), fiilin
+haksızlığını ortadan kaldırmaz (geçmişe etkili olmaz). Sadece, doğan tazminat
+alacağının ibra ile ortadan kalkması sonucunu doğrabilir.
+
+====== b) Kamu hukukuna dayanan bir yetkinin kullanılması
+
+Bir kimse, başkasına bir zarar verirken kamu hukukuna dayanan yetkisini
+kullanıyorsa, fiil hukuka aykırı değildir. Bu yetki fiilin hukuka aykırı
+sayılmasını önler.
+
+.Örnek
+TIP: Ölüme mahkum edilen kişiyi asan celladın, bir haciz kararını uygulayan
+icra memurunun fiillleri, bir kimsenin kişilik hakkını veya mülkiyet hakkını
+ihlal ettiği halde hukuka aykırı değildir.
+
+Fakat yetkinin aşılması ve özellikle yetkinin kullanılmasına ilişkin kurallara
+uyulmaması davranışın hukuka aykırı sayılmasına yol açar.
+
+====== c) Özel hukuka dayanan bir yetkinin kullanılması
+
+Başkasına zarar veren kişinin davranışı özel hukuka dayanan bir yetkinin
+kullanılması ise, fiil hukuka aykırı değildir.
+
+.Örnek
+TIP: Öndeki arsaya mevzuata uygun şekilde yaptığı bina ile arkadaki evin
+manzarasını kapatan malikin; velayet hakkına dayanarak çocuğun elinden zararlı
+bir şeyi zorla alan ana veya babanın; borcunu ödemeyen borçlunun malı üzerinde
+hapis hakkını kullanan alacaklının davranışı hukuka aykırı değildir.
+
+Şayet yetki sınırı aşılırsa ve özellikle hakkın kötüye kullanılması söz konusu
+olursa fiil hukuka aykırı sayılır. 
+
+====== d) Meşru müdafaa
+
+.TBK m.64
+....
+f.1 - Haklı savunmada bulunan, saldıranın şahsına veya mallarına
+verdiği zararlardan sorumlu tutulamaz.
+....
+
+Bir fiilin meşru müdafaa oluşturabilmesi için:
+
+. _Bir kişinin hukuka aykırı bir saldırısı/tecavüzü bulunmalıdır._
++
+Şayet kendisine karşı haklı savunmada bulunulacak kişinin fiili hukuka aykırı
+değilse, haklı savunmadan söz edilemez. Görevini yapan veya bir hakkını
+kullanan kimseye karşı haklı savunma imkanı yoktur. Fakat hukuka aykırı saldırı
+varsa, buna karşı haklı savunma için tecavüzde bulunanın kusurlu olması şart
+değildir.
++
+. _Saldırı savunmada bulunanın veya üçüncü bir kişinin şahsına veya mallarına
+yönelmiş olmalıdır._
+
+. _Meşru müdafaa, ancak gerçekte mevcut veya başlaması kesinklikle çok yakın
+saldırılara karşı söz konusu olabilir._
++
+Gerçekten mevcut olmayan fakat mavcut sanılan bir saldırıya karşı haklı savunma
+olmaz.
++
+Saldırı sona erdikten sonra da meşru müdafaadan söz edilemez.
++
+. _Meşru müdafaa ancak saldırıda bulunana karşı yapılabilir._ 
++
+Bir kişinin saldırısından kurtulmak için başka birine zarar verilmesi meşru
+müdafaa kapsamına girmez.
++
+. _Saldırıya karşı savunma amacı aşılmamalıdır._
+
+====== e) Iztırar hali
+
+.TBK m.64
+....
+f.2 - Kendisini veya başkasını açık ya da yakın bir zarar tehlikesinden
+korumak için diğer bir kişinin mallarına zarar verenin, bu zararı giderim
+yükümlülüğünü hakim hakkaniye göre belirler.
+....
+
+Burada, hukuka aykırı olmayan bir fiilden “fedakarlığın denkleştirilmesi”
+esasına dayanan bir sorumluluk kabul edilmiştir. 
+
+Iztırar halinden söz edilebilmesi için: 
+
+. Bir kimsenin kendisinin veya bir başkasının şahsı ya da malları için zarar
+verici bir olgu veya derhal vuku bulacak bir tehlike mevcut olmalıdır.
+
+. Fiilin ıztırar halinde işlendiğini kabul edebilmek için bu fiil zarar veya
+tehlikeyi önlemek hususunda zorunlu ve buna elverişli olmalıdır.
+
+. Önlenmek istenen zararın verilen zarardan daha büyük olması gerekir.
+
+. Iztırar hali, ancak başkasının malına zarar veren fiiller için söz
+konusudur. Üçüncü şahsın kişilik değerlerine zarar veren fiiller hukuka
+aykırıdır.
+
+====== f) Hakkını kendi gücüyle koruma
+
+.TBK m.64
+....
+f.3 - Hakkını kendi gücüyle koruma durumunda kalan kişi, durum ve koşullara
+göreo sırada kolluk gücünün yardımını zamanında sağlayamayacak ise ve hakkının
+kayba uğramasını ya da kullanılmasının önemli ölçüde zorlaşmasını önleyecek
+başka bir yol da yoksa, verdiği zarardan sorumlu tutulamaz.
+....
+
+Bir kişinin hakkını korumak için kuvvet kullanmasının hukuka aykırı sayılmaması
+için:
+
+. Kuvvete başvurmadığı takdirde hak sahibinin hakkını kaybetmesi veya hakkını
+kullanmasının çok güçleşmesi tehlikesi bulunmalıdır. Bu tehlike, hak sahibinin
+şahsına veya malına yönelmiş bir tehlike değil, bir hakkı elde edememe
+tehlikesidir.
+
+. Hakkın kaybı veya elde edilmesinin çok güçleşmesi tehlikesini önlemek için
+devlet organlarının müdahelesi temin edilememeli ve kuvvete başvurmaktan başka
+çare bulunmamalıdır.
+
+. Kuvvet kullanma hakkı koruma hususunda elverişli ve dengeli olmalıdır.
+
+Kuvvet kullanmada meşru sınır içinde kalacak şekilde yardımcıdan yararlanmanın
+mümkün olduğu kabul edilmelidir. 
+
+Haklı savunma ve ıztırar halinden farklı olarak, üçüncü kişinin hakkını korumak
+için kuvvet kullanılamaz.
+
+====== g) Üstün kamu yararı
+
+Üstün nitelikte kamu yararı bulunan hallerde de bir kimsenin şahsiyetine
+tecavüz hukuka aykırı değildir.
+
+Doğrudan doğruya kanunun tanıdığı bir yetki ile kişilik unsurlarına yönelik
+müdahalelerin çoğu üstün kamu yararına dayanır.
+
+Bir kişiyle ilgili olarak yayınlanan bir haber veya eleştiri, küçük düşürücü
+nitelikte olsa dahi, kamu yararı bulunan bir gerçeği yansıtıyor ve kamuoyunu
+aydınlatma fonksiyonunun çerçevesi içinde kalıyorsa, hukuka aykırılık söz
+konusu olmaz.
+
+Yargıtay kararlarına göre “haber verme hakkı, gerçeklik, kamu yararı ve
+toplumsal ilgi, güncellik, konu ile ifade arasında düşünsel bağlılık temel
+kuralları ile sınırlıdır.”
+
+Yargıtay'a göre gerçeklik, somut gerçeğe değil, olayın haberin verildiği andaki
+veriliş biçimine uygunluk şeklinde anlaşılmalıdır. Her halde gazetecinin, bir
+haberi yayınlamadan önce kendisinden beklenen özeni gösterip ne ölçüde doğru
+olduğunu araştırdıktan sonra o haberi yayınlaması gerekir. Tamamen gerçek dışı
+olay açıklamaları ise daima hukuka aykırıdır.
+
+Herhangi bir haber, ne derece gerçeğe uygun olursa olsun, haberin verilişinin
+gerektirmediği aşağılayıcı bir dilin kullanılması, hukuka aykırı tecavüz teşkil
+eder. 
+
+Güncellikten kastedilen ise, haber veya yorum konusu olayın o sıralarda
+gerçekleşmiş olması değil, bu olayın sonuçlarının haber veya yorum sırasında
+hala canlı ve taze olmasıdır.
+
+Keza, kamu yararı ve toplumsal ilgi unsuru da geniş yorumlanmakta, gerçekte
+kamuya hiçbir yararı olmayacak haberler ve yorumlar bile, eğer kamuoyunun buna
+geniş bir  ilgisi varsa, hukuka uygun sayılmaktadır.
+
+Bir kimsenin özel hayatına ilişkin gerçek bir olayın açıklanması kişilik
+hakkına tecavüz teşkil ederse de, o kimsenşn topluma mal oluş derecesi farklı
+sonuca ulaşılmasına yol açabilir. Siyaset adamlarının, artistlerin,
+futbolcuların vs. gerek özel hayatlarının, gerek resimlerinin yayınlanmasında,
+diğer şahıslara nazaran daha geniş bir imkan bulunduğu kabul edilmektedir.
+Fakat bu davranışlarda kamuyu aydınlatma fonksiyonu dışına taşılması, özellikle
+o şahsı küçük düşürme amacı güdülmesi, davranışın hukuka aykırı sayılmasına yol
+açar. 
+
+====== h) Üstün özel yarar
+
+Üstün nitelikte bir özel yararın varlığı halinde zarar veremn fiil hukuka
+aykırı sayılmayacaktır.
+
+Bu üstün nitelikte yarar, bizzat zarar görene veya faile veya bir üçüncü kişiye
+ait olabilir.
+
+Örnek: Hayatının kurtulması için ameliyat edilmesi zorunluluğu bulunan kimseden
+rıza alınamıyorsa, rıza alınmadan ameliyatın yapılabilmesi hastanın üstün
+nitelikteki yararına dayanır.
+
+=== II. HUKUKA AYKIRI FİİLLE ZARAR VERİLMESİ
+
+Bir kimsenin hukuka aykırı davranışı ancak başkasına zarar verirse tazminat söz
+konusu olur. Fiilin hukuka aykırılığına rağmen herhangi bir zarar meydana
+gelmemişse, failin ceza sorumluluğu olsa bile, haksız fiil sorumluluğu yoktur.
+
+Bir haksız fiilin faili ancak fiilinin doğurduğu zararlardan sorumludur.
+
+==== A. Zarar
+
+Zarar bir kimsenin malvarlığında rızası dışında meydana gelen azalmadır.
+Malvarlığının zarar verici fiil olmasa idi bulunacağı durumla fiil sonucu
+aldığı durum arasındaki fark, zararı oluşturur.
+
+Bir kimsenin maruz kaldığı bir haksız fiil sebebiyle yapmak zorunda olduğu
+masraf, yüklendiği borç zarardır.
+
+===== 1. Zarar bakımından çeşitli ayrımlar
+
+====== a) Fiili zarar – Makrum kalınan kar – Normatif zarar
+
+Fiili zararda ya malvarlığının aktifinde fiili bir azalma (bir malın tahrip
+edilmiş olması, yaralanan kişinin tedavi masrafları) veya malvarlığının
+pasifinde fiili bir çoğalma (üçüncü kişinin aldatması sonucu yüklenilen borç)
+söz konusudur.
+
+Kar mahrumiyeti, elde edilebilecek bir kazançtan yoksun kalmayı ifade eder. Bu
+zarar, daha çok, malvarlığının aktifinin artmasına engel olunmasından
+kaynaklanır ancak pasifinin azalmasına engel olma tarzında da ortaya çıkabilir.
+
+Alman öğretesindeki bir görüş, malvarlığında herhangi bir azalma olmasa dahi,
+sırf bazı malları kullanma imkanından veya bir tatil yapma imkanından bir
+haksız fiil sonucu yoksun kalınmasının da zarar olarak göz önüne alınmasını,
+normatif zarar adı verdikleri bu zararların da tazmin edilmesi gerektiğini
+savunmaktadır.
+
+Bu teorinin, özellikle kullanımından yoksun kaldığı malın yerine başka mal
+ikame etmek için masraf yapamayacak durumda olanların da tazminat istemesine
+olanak verdiği için, daha adil olduğu ileri sürülmektedir.
+
+====== b) Doğrudan zarar – Dolaylı zarar – Yansıma zarar
+
+Doğrudan zarar, bir hukuka aykırı fiile maruz kalan kimsenin bu fiil yüzünden
+kendisinin araya eklenen bir sebep girmeden uğradığı zarardır.
+
+Dolaylı zarar, hukuka aykırı fiilin mağdura verdiği doğrudan zarara bağlı
+olarak eklenen bir sebeple mağdurun uğradığı zarardır.
+
+Örnek: A'nın B'nin kamyonunu yakması halinde, kamyonun değerinin B'nin
+malvarlığından çıkması, B'nin uğradığı doğrudan zarardır. Bu kamyonun
+taşıyacağı yükleri taşıyamaması yüzünden B'nin yük sahibine ödemek zorunda
+kalacağı tazminat, dolaylı zarardır.
+
+Yansıma zarar ise, bir hukuka aykırı fiile maruz kalan kimseden başka bir
+kişinin de bu fiil yüzünden uğradığı zarardır. 
+
+Yansıma zararlardan failin sorumlu tutulabilmesi için, hem fiille uygun
+nedensellik bağı; hem de hukuka aykırılık bağı bulunması gerekir.
+
+====== c) Mevcut zarar – Müstakbel zarar – Muhtemel zarar
+
+Zararın hesap edildiği tarihe kadar gerçekleşmiş olan zarar, mevcut zarardır.
+Bu tarihte gerçekleşmiş olmayan fakat başka bir unsurun eklenmesine gerek
+olmaksızın normal olarak gerçekleşmesi beklenen zarar, müstakbel zarardır.
+
+Örnek: Sağ kolu kesilen kişinin ekonomik geleceğinin sarsılması yüzünden
+uğrayacağı zararlar, ölen bir kişinin desteğinden yoksun kalanların
+uğrayacakları zararlar, müstakbel zararlardır.
+
+Müstakbel zararın miktarını ispat imkansızdır. Bunu hakim TBK m.50/f.2 uyarınca
+takdir edecektir.
+
+.TBK m.50
+....
+f.2 - Uğranılan zararın miktarı tam olarak ispat edilemiyorsa hakim, olayların
+olağan akışını ve zarar görenin aldığı önlemleri göz önünde tutarak, zararın
+miktarını hakkaniyete uygun olarak belirler.
+....
+
+Henüz mevcut olmayan, eklenecek bir riskin gerçekleşmesi halinde doğması
+ihtimali bulunan zarar, muhtemel zarardır. Risk gerçekleşmedikçe muhtemel
+zararın tazmini söz konusu olmaz.
+
+==== B. Zararla fiil arasında nedensellik bağı
+
+===== 1. Mantıki nedensellik
+
+Hukuka aykırı bir fiil işleyen kimse ancak bu fiilin sebep olduğu zararları
+tazminle yükümlüdür. Zarar ile fiil arasında mantıki nedensellik bulunmayan bir
+zararın tazmini istenemez.
+
+“Şart teorisi” denilen görüş, davranışı zararın gerçekleşmesi bakımından
+“olmasa olmaz” (conditio sine qua non) olan herkesi sorumlu tutar. Mantıki
+nedensellik bağının götüreceği aşırı ve adil olmayan sonuçları önlemek için
+bugün öğretide ve mahkeme içtihatlarında hakim görüş, “uygun nedensellik bağı”
+aranması yolundadır.
+
+===== 2. Uygun nedensellik
+
+Yaşam deneyimlerine göre, bir fiilin, olayların normal akışında meydana
+getirebileceği zararlarla olan mantıki nedensellik bağına uygun nedensellik
+bağı denmektedir. Mantıki nedensellik zinciri içinde bir sebebin zararı meydana
+getirmeye uygun bir sebep olup olmadığı araştırılacaktır.
+
+===== 3. Birden çok sebep ve nedensellik bağı
+
+.. Şayet bir olgunun zararla uygun nedensellik bağı yoksa, o olgunun sebepler
+arasında alınması söz konusu olamaz.
+.. Şayet, birden çok olgu aynı zararı meydana getirmeye elverişli olmasına
+rağmen, zararı olgulardan sadece birisi meydana getirmişse, olgulardan etkili
+olanın diğer olgunun nedensellik bağını kestiği ifade edilir.
+.. Şayet bir zararın meydana gelmesinde birden çok olgunun mantıki nedensellik
+bağı varsa, birbirine eklenen sebeplerin uygun nedensellik bağınının
+kurulmasına mı yol açtığını, bir sebeple uygun nedensellik bağının hiç mi
+mevcut olmadığını, yoksa bir sebebin diğerinin uygun nedensellik bağını kesecek
+derecede yoğun etki mi gösterdiğini hakim takdir edecektir.
+
+===== 4. Birden çok sebep ve nedensellik bağının çeşitleri
+
+.. Birden çok sebep, tek başlarına meydana getiremeyecekleri bir sonuca ancak
+birlikte ulaşıyorlarsa, ortak nedensellik söz konusu olur.
+.. Her biri tek başına sonucu meydana getirebilecek birden çok sebep birlikte
+etkili olmuşsa, yarışan nedensellikten söz edilir.
+.. Zararı birden çok fiilden biri meydana getirmiş olmasına rağmen, gerçekte
+bunlardan hangisinin zarara yol açtığı tespit edilemiyorsa seçimlik nedensellik
+söz konusu olur.
+
+=== III. KUSUR
+
+Hukuka aykırılık, fiilin bir hukuk kuralına aykırı olduğunu, kusur ise, bu
+hukuk kuralına aykırı fiile ilişkin iradesi sebebiyle failin davranışının
+kınanabilir bir davranış olmasını ifade eder.
+
+==== 1. Kusurun çeşitleri
+
+Fail, hukuka aykırı sonucu isteyerek davranmışsa kasdı, hukuka aykırı sonucu
+istemiş olmayıp bu hukuka aykırı sonuçtan kaçınmak için iradesini yeteri
+derecede kullanmamışsa ihmali söz konusu olur.
+
+.. Kast, kusurun en ağır derecesidir. Kast, failin hukuka aykırı sonucun
+bilincinde olduğunu ve bu sonucu istediğini ifade eder. 
++
+Şayet fail, sonucu doğrudan doğruya istememekle beraber bu sonucun meydana
+gelmesi ihtimalini göze alarak hareket etmişse olası kasttan söz edilmektedir.
++
+.. İhmal, hukuka aykırı sonucu arzu etmemesine rağmen, bu sonucun meydana
+gelmemesi için iradesini yeter derecede kullanmamak, hal ve şartların
+gerektirdiği dikkat ve özeni göstermektedir.
++
+Ağır ihmal, hukuka aykırı sonucu meydana getiren fiil işlenirken, böyle bir
+fiil işleyen kişinin şartlarına sahip herkesin göstereceği dikkat ve özeni
+göstermemektir.
++
+Hafif ihmal ise, hukuka aykırı fiil işlenirken böyle bir fiili işleyen herkesin
+değil, dikkatli ve tedbirli bir kimsenin göstereceği dikkat ve özeni
+göstermemiş olmaktır.
+
+==== 2. Kusur açısından fiil ehliyeti
+
+===== a) Ayırt etme gücünü geçici olarak kaldıranlar için
+
+Eğer bir kimse ayırt etme gücünü kendi iradesi ile geçici olarak kaldırmışsa,
+örneğin aşırı alkol veya uyuşturucu almışsa, bu durumda işlediği haksız
+fiillerden sorumlu olur.
+
+===== b) Tüzel kişiler için
+
+Tüzel kişilerde kusur, fiili işleyen organlarda aranır. Organın fiili tüzel
+kişinin fiili sayılır.
+
+=== IV. AHLAKA AYKIRI FİİLDEN SORUMLULUK
+
+.TBK m.49
+....
+f.2 - Zarar verici fiili yasaklayan bir hukuk kuralı bulunmasa bile, ahlaka
+aykırı bir fiille başkasına kasten zarar veren de, bu zararı gidermekle
+yükümlüdür.
+....
+
+==== 1. Ahlaka aykırı fiil
+
+Şayet hukuka aykırı fiil, aynı zamanda hukuka da aykırı ise sorumluluk için
+m.49/f.2'ye dayanmaya gerek yoktur. Hukuka aykırı fiilden sorumluluğu
+düzenleyen m.49/f.1 uygulanır ve sorumluluk için kast gerekmez.
+
+Kanunun özel şekilde korumadığı, fakat herhangi bir kişi tarafından zarara
+uğratılan diğer her türlü çıkarın korunması için ise, m.49/f.2 çerçevesinde
+“ahlaka aykırı kast” şartının gerçekleşmesi aranacaktır.
+
+Uygulamada gözönüne alınan ahlak, bireysel ve sübjektif ahlaki düşünce değil,
+genel ahlaktır. m.49/f.2'nin en çok uygulandığı alan, bir sözleşmenin tarafını
+borcunu ihlal etmeye teşvik ederek alacaklıya zarar verme halleri ile kanunda
+düzenlenmemiş yansıma zarar halleridir.
+
+==== 2. Bilerek zarar verme
+
+Hukuka aykırı fiilden dolayı sorumluluktan farklı olarak, ahlaka aykırı fiille
+verilen zarardan failin sorumlu olması için kusurunun kast derecesinde olması
+gereklidir. Esasen bir çok halde, fiili ahlaka aykırı kılan, failin zarar verme
+amacıdır.
+
+.Örnek
+TIP: Yargıtay bir kararında alacaklıya kendi malı gibi gösterip başkasının
+malına haciz koydurtan kimsenin davranışını ahlaka aykırı bir fiille başkasına
+bilerek zarar verme olarak kabul etmiştir. Burada failin asıl maksadının kendi
+malını kurtarmak olduğu düşünülse bile, bunun malı zarar gören kişiye yönelik
+olası kast içerdiği kabul edilerek m.49/f.2 uygulanabilir.  Fiilin şahsına veya
+malvarlığına yönelmediği kişinin kasten zarara uğratıldığı kabul
+edilmemektedir.
+
+.Örnek
+TIP: Daha önce başkasına satıldığını bildiği veya bilmesi gerektiği malı
+satın alan kişinin davranışı kural olarak m.49/f.2 uyarınca sorumluluk
+doğurmaz. Burada ilk alıcı aralarındaki sözleşme uyarınca sadece satıcısını
+sorumlu tutabilecektir. Ancak, bu ikinci alıcının amaçları arasında ilk
+alıcının bu malı elde edememesi de varsa; bu takdirde m.49/f.2 uyarınca
+sorumluluktan söz edilebilir.
+
+== 2- KUSURA DAYANAN SORUMLULUKTA MADDİ ZARARIN TAZMİNİ
+
+Bir haksız fiil sonucu zarar uğrayan kimse, uğradığı zararın tazminini bu
+haksız fiilden sorumlu olan kimseden veya kimselerden talep edebilir.
+
+Tazminat alacağı zararın meydana gelmesi ile doğarsa da, tazminatın tarzı ve
+miktarı ya tarafların anlaşması ile ya da hakimin kararı ile belirli hale
+gelir. Bu belirlemeden sonra ise artık bir tazminat talebi değil, anlaşmaya
+veya mahkeme ilamına dayanan bir alacak hakkı söz konusudur.
+
+Tazminatı belirlemek hususundaki tarafların anlaşması, sözleşmelere ilişkin
+kurallara tabidir. Bu anlaşmanın geçerliliği bir şekle bağlı değildir.
+
+Tazminatın tarzı ve miktarı üzerinde anlaşma olmamışsa, mağdurun zararının
+giderilmesi için başvuracağı yol tazminat davasıdır.
+
+=== I. TAZMİNAT DAVASININ KONUSU
+
+Tazminat davasının konusu, haksız fiilden sorumlu olan kişinin veya kişilerin,
+mağdurun uğradığı zararı tazmine mahkum edilmesidir. Tazminat davası bir eda
+davasıdır.
+
+Tazminat davası konusu bakımından tecavüzün önlenmesi ve tecavüze son verilmesi
+davalarından ayrılır.
+
+Tecavüzün önlenmesi veya son verilmesi davaları kişiliğe tecavüzde (MK m.25)
+mülkiyete tecavüzde (MK m.683) taşınmaz malikinin mülkiyet hakkının
+sınırlandırmalarını ihlal etmesinde (MK m.730) zilyedliğe tecavüzde (MK m.983)
+haksız rekabette (TBK m.57) kanunda öngörülmüştür.
+
+Tecavüzün önlenmesi davası, henüz gerçekleşmemiş fakat gerçekleşeceği veya sona
+ermesine rağmen tekrarlanacağı konusunda güçlü deliller bulunan tecavüzler için
+açılır. Gerçekleşmiş bir tecavüzün doğurduğu zararların tazmini ile birlikte
+yeni tecavüzün önlenmesi davası da açılabilir. Fakat henüz zarar meydana
+gelmedikçe tazminat davası açılamazsada da tecavüzün önlenmesi davası
+açılabilir.
+
+Tecavüze son verilmesi davası, devam etmekte olan tecavüzlere karşı açılır.
+Tecavüzün devamı süresince uğranılan zararın tazmini davası ile birlikte
+tecavüze son verilmesi davası da açılabilir.
+
+Tazminat davası ile genellikle zararın nakden giderilmesi talep edilir. Fakat
+zararın başka tarzda giderilmesi mümkün ise, bu tarzda tazminata karar
+verilmesi de talep edilebilir. 
+
+Nakden tazmin talebi, toplu bir meblağın ödenmesine veya irat ödenmesine
+yönelik olabilir.
+
+Hakim davacının tazminatın tarzına ilişkin talebi ile bağlı değildir.
+
+.TBK m.51
+....
+f.1 - Hakim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve
+özellikle kusurun gereğini göz önüne alarak belirler.
+....
+
+=== II. TAZMİNAT DAVASINDA TARAFLAR
+
+==== 1. Davacı
+
+Tazminat davasında davacı, haksız fiilden zarara uğradığını iddia eden
+kimsedir. Kural olarak ancak doğrudan zarara uğrayanların dava hakkı vardır.
+Yansıma zarara uğrayanların hukuka aykırılık bağı bulunmadığı takdirde tazminat
+isteme hakları yoktur.
+
+Haksız fiil sonucu adam ölmesi halinde ölenin desteğinden yoksun kalanlara, bu
+yansıma zararları için tazminat isteme hakkı tanınmıştır. Keza, ölüm ve ağır
+bedensel zarar hallerinde, zarar görenin veya ölenin yakınlarına manevi
+tazminat isteme hakkı tanınmıştır.
+
+Haksız fiilden zarara uğrayan kimse tazminat isteme hakkını başkasına temlik
+edebilir veya ölümü halinde hakkı mirasçılarına geçer. Tazminat isteme hakkına
+bu yollarla sahip olanlar da dava açabilirler.
+
+==== 2. Davalı
+
+Tazminat davası, haksız fiilin yol açtığı zararı tazminle  yükümlü kişiye karşı
+açılmak gerekir. Birden çok sorumlu varsa, dava müteselsil sorumlulardan
+birine, birkaçına veya hepsine karşı açılabilir.
+
+Tazminat yükümlülüğü, sorumlu kişinin ölümünde mirasçılarına geçer.
+
+=== III. YETKİLİ MAHKEME 
+Hukuk mahkemesinde açılacak tazminat davalarında yetkili mahkeme, genel kural
+uyarınca davalının yerleşim yeri mahkemesidir. Ayrıca; fiilin işlendiği veya
+zararın meydana geldiği yahut gelme ihtimalinin bulunduğu ya da zarar görenin
+yerleşim yerinin bulunduğu yer mahkemeleri de yetkilidir.
+
+=== V. TAZMİNAT DAVASININ ZAMANAŞIMI
+
+==== 1. TBK m.72'de öngörülen zamanaşımı süreleri
+
+.TBK m.72
+....
+f.1 - Tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği
+tarihten başlayarak iki yılın ve her halde fiilin işlendiği tarihten başlayarak
+on yıl geçmesiyle zamanaşımına uğrar. Ancak, tazminat ceza kanunlarının daha
+uzun bir zamanaşımı öngördüğü cezayı gerektiren bir fiilden doğmuşsa, bu
+zamanaşımı uygulanır.
+....
+
+===== a) Normal süre 
+Haksız fiil sebebiyle tazminat davası açma hakkı, mağdurun, zararını ve
+tazminat yükümlüsünü öğrendiği tarihten itibaren işlemeye başlayan iki yıllık
+zamanaşımına tabidir.
+
+Devam eden zararlarda, zararın niteliğinden kapsamını tayin etmek mümkün ise
+zamanaşımı işlemeye başlayabilir. Bir kimsenin bir haksız fiil sonucı sakat
+kalması halinde sakatlığın derecesi ve meydana getireceği kazanç kaybı oranı
+anlaşılır hale gelince zararın öğrenilmesi tamamlnamış olur. Bu zararın her gün
+devam etmesi sebebiyle her günkü zarar için yeni zamanaşımı başlayacağını
+savunan görüşler bulunmakla birlikte m.72'ye göre zararın miktarını kesin
+olarak bilmek gerekli değildir. Kaldı ki devam eden zarar ayrı ayrı zararların
+toplamı değil, bir bütün halinde tek zarardır.
+
+Şayet gelişen duruma göre zararın kapsamını belirlemek mümkün değilse, örneğin
+bir haksız fiil sonucu hastanede yatan kimsenin sağlık durumunda ne gibi bir
+gelişme olacağı, sakat kalıp kalmayacağı, kalacaksa sakatlık derecesi belli
+değilse, gelişme tamamlanıp dava açmaya elverişli bilgiler elde edilinceye
+kadar zamanaşımı işlemeye başlamaz.
+
+Şayet haksız fiil süreklilik taşıyorsa fiil sona ermeden, iki yıllık zamanaşımı
+da on yıllık zamanaşımı da işlemeye başlamaz.
+
+Şayet haksız fiil sürekli olmayıp, aralıklarla tekrarlanıyorsa ve tazminat
+yükümlüsü öğrenilmişse, her fiile ilişkin zarar açısından o zararın
+öğrenilmesinden itibaren ayrı bir zamanaşımı işlemeye başlar.  
+
+===== b) Azami süre
+
+On yıl içinde zarar veya tazminat yükümlüsü öğrenilmediği için iki yıllık
+zamanaşımı süresi işlemeye başlamamış olsa bile, haksız fiilin işlendiği
+tarihten itibaren on yıl geçmiş ise tazminat davası açma hakkı zamanaşımına
+uğramış olur.
+
+On yıllık süre içinde, zararın ve tazminat yükümlüsünün öğrenilmesinden
+itibaren iki yıllık süre dolmuş ise, artık ın yıllık üst sürenin bir rolü
+kalmaz. İki yıllık sürenin dolması ile tazminat davası açma hakkı zamanaşımına
+uğramış olur.
+
+On yıllık zamanaşımı bakımından önemli olan tarih, haksız fiilin işlendiği
+tarihtir. Bununla kastedilen, zararın gerçekleştiği tarih değil, zarara yol
+açan fiilin tamamlandığı tarihtir. Zarar daha sonra gerçekleşmiş olabilir.
+
+===== c) İstisnai süre 
+TBK m.72'de belirtildiği üzere, tazminat aynı zamanda ceza kanunlarının daha
+uzun bir zamanaşımını öngördüğü cezayı gerektiren bir fiilden doğmuşsa;
+tazminat davası da ceza davası zamanaşımı süresine tabi olur. Bu süre suç
+sayılması gereken fiilin işlendiği tarihten itibaren işlemeye başlar.
+
+Ceza davası zamanaşımı süresi on yıldan fazla ise, bu zamanaşımı hem iki yıllık
+normal zamanaşımı süresinin hem de on yıllık zamanaşımı süresinin yerini alır.
+
+Ceza davası zamanaşımı süresi on yıldan kısa, iki yıllık normal zamanaşımı
+süresi ceza davası zamanaşımı sona ermeden önce etkili olmaz. On yıllık azami
+süre etkisini sürdürür.
+
+Ceza davası zamanaşımı süresinin uygulanması için fiilin suç oluşturması yeter,
+takibat yapılmamış olması önem taşımaz. Fakat ceza mahkemesi fiilin suç teşkil
+etmediğine karar vermiş ise, artık hukuk mahkemesinde ceza davası zamanaşımı
+dikkate alınamaz.
+
+Ceza davası zamanaşımı ancak suç teşkil eden fiili işleyenler hakkında
+uygulanır. Aynı fiil yüzünden başka bir hukuki sebep gereği tazminatla sorumlu
+olmakla beraber kendi fiilleri suç teşkil etmeyen kimseler (örneğin TBK m.66
+uyarınca adam çalıştıranlar) için ceza davası zamanaşımı uygulanamaz.
+
+===== 3. Zamanaşımının durması veya kesilmesi
+
+.TBK m.153
+....
+f.1 - Aşağıdaki durumlarda zamanaşımı işlemeye başlamaz, başlamışsa durur: 
+    1. Velayet süresince, çocukların ana ve babalarından olan alacakları için 
+    2. Vesayet süresince, vesayet altında bulunanların vasiden veya vasiyet
+    işlemleri sebebiyle devletten olan alacakları için 
+    3. Evlilik devam ettiği sürece, eşlerin diğerinden olan alacakları için 
+    4. Hizmet ilişkisi süresince, ev hizmetlilerinin onları çalıştıranlardan
+    olan alacakları için
+    5. Borçlu, alacak üzerinde intifa hakkına sahip olduğu sürece
+    6. Alacağı, Türk mahkemelerinde ileri sürme imkanının bulunmadığı sürece 
+    7. Alacaklı vei borçlu sıfatının aynı kişide birleşmesinde, birleşmenin ileride
+    geçmişe etkili olarak ortadan kalkması durumunda, bu durumun ortaya çıkmasına
+    kadar geçecek sürede 
+
+f.2 - Zamanaşımını durduran sebeplerin ortadan kalktığı günün bitiminde
+zamanaşımı işlemeye başlar veya durmadan önce başlamış olan işlemesini
+sürdürür.
+....
+
+.TBK m.154
+....
+f.1 - Aşağıdaki durumlarda zamanaşımı kesilir: 
+    1. Borçlu borcu ikrar etmişse, özellikle faiz ödemiş veya kısmen ifada bulunmuşsa ya da rehin
+    vermiş veya kefil göstermişse 
+    2. Alacaklı, dava veya def'i yoluyla mahkemeye veya hakeme başvurmuşsa,
+    icra takibinde bulunmuşsa ya da iflas masasına başvurmuşsa
+....
+
+===== 4. Daimi def'i
+
+.TBK m.72
+....
+f.2 - Haksız fiil dolayısıyla zarar gören bakımından bir borç doğmuşsa zarar
+gören, haksız fiilden doğan tazminat istemi zamanaşımına uğramış olsa bile, her
+zaman bu borcu ifadan kaçınabilir. 
+....
+
+Bu def'i aldatma veya korkutma sonucu borç altına girme hallerinde sözleşmeyi
+iptal hakkı sona erdikten sonra önem taşıyacaktır. Zira aldatmanın
+öğrenilmesinden veya korkutmanın sona ermesinden itibaren bir yıl (TBK m.39)
+geçmemiş ise daimi def'iye ihtiyaç yoktur. İptal hakkını kullanması mağdurun
+borcunun geçerli hale gelmesini önlemeye yeter.
+
+=== IV. SORUMLULUK ŞARTLARININ İSPATI
+
+Davacı davalının sorumluluğu için aranan şartların varlığını ispatla
+yükümlüdür. Sorumluluğu gerektiren fiili davacı ispat edecektir.
+
+Öğretide ve uygulamada baskın görüş uyarınca, “Hakim Türk Hukukunu resen
+uygular” diyen HMK m.33, hukuki sebebi hakimin belirleyeceği tarzında
+anlaşılırsa, gerek fiilin hukuka aykırılığına yol açan davranış kuralı, gerek
+hukuka aykırılığa engel bir sebebin varlığı hakim tarafından re'sen
+belirlenecektir. Fakat hakim bu konularda kendiliğinden araştırma yapamaz.
+Davaya esas teşkil eden olayların açıklaması davacıya, savunmaya esas olan
+olayların açıklması davalıya düşer. Hakim ancak dosyada mevcut bilgiyi
+kendiliğinden değerlendirebilir.
+
+=== VII. CEZA MAHKEMESİ KARARININ ETKİSİ
+
+.TBK m.74
+....
+f.1 - Hakim, zarar verenin kusurunun olup olmadığı, ayırt etme gücünün bulunup
+bulunmadığı hakkında karar verirken, ceza hukukunun sorumlulukla ilgili
+hükümleriyle bağlı olmadığı gibi, ceza hakimi tarafından verilen beraat
+kararıyla bağlı değildir.  
+f.2 - Aynı şekilde, ceza hakiminin kusurun değerlendirilmesine ve zararın
+belirlenmesine ilişkin kararı da, hukuk hakimini bağlamaz.
+....
+
+.. Bir haksız fiilin aynı zamanda suç teşkil etmesi sebebiyle ceza mahkemesinde
+açılan davada ceza mahkemesince verilen beraat kararının aynı fiil sebebiyle
+hukuk mahkemesinde görülen tazminat davasında hukuk hakimini bağlamayacağı, TBK
+m.74'te ifade edilmiştir.
++
+Bu ifade, fiilin suç oluşturmadığı veya nedensellik bağı bulunmadığı
+gerekçeleri ile verilen beraat kararları bakımından uygundur. Zira fiil suç
+teşkil etmese dahi tazminat açısından hukuka aykırı olabilir ve tazminat
+konusunda nedensellik bağı ceza verme bakımından aranan nedensellik bağından
+farklıdır.
++
+Buna karşılık, sanığın isnat olunan fiili işlemediği gerekçesiyle ceza
+mahkemesinde verilen beraat kararının hukuk hakimini bağlayıp bağlamayacağı
+tartışmalıdır. Yargıtay, sanığın fiili işlemediği gerekçesiyle verdiği beraat
+kararında tesbit edilen maddi olgunun hukuk hakimini bağlayacağını kabul
+etmektedir.
++
+.. Faili cezaya mahkum eden ceza mahkemesi kararının, fiilin suç teşkil ettiği
+ve sanık tarafından işlendiği konularında tazminat davasına bakan hukuk
+hakimini bağlayacağı kabul edilmektedir.
++
+Fakat mahkumiyet kararının, kararda kabul edilen kusur ve derecesi açısından
+hukuk hakimini bağlamayacağı kabul edilmektedir.
++
+.. Ceza mahkemesi kararında zarar konusunda bir kısım varsa, bu açıdan da karar
+tazminat davasına bakan hukuk hakimini bağlamaz.
++
+Fakat, mağdur CMUK hükümlerine göre ceza davasında tazminat talep etmiş ve ceza
+mahkemesi tazminat ödenmesine veya talebin reddine karar vermişse, bu karar
+kesin hüküm teşkil eder ve hukuk mahkemesinde tazminat davası açılmasına engel
+olur. Hatta, mağdur ceza davasında tazminat talep etmiş, ceza hakimi ise
+duruşmayı uzatmamak için tazminat bakımından hukuk mahkemesine müracaat
+edilmesine karar vermişse, ceza mahkemesinin bu aşamaya kadar yaptığı tesbitler
+ile hukuk hakiminin bağlı olacağı kabul edilmektedir.
++
+.. Aynı zamanda suç teşkil eden haksız fiilden doğan zararın tazmini için suç
+bakımından ceza mahkemesinin karar vermesi beklenmeden, hukuk mahkemesinde
+tazminat davası açılmışsa, hukuk hakimi tazminat konusunda karar vermek için
+ceza mahkemesinin kararını beklemek zorunda değildir.
+
+=== VIII. ZARARIN BELİRLENMESİ
+
+==== 1. Genel olarak
+
+Tazminat davasında önemli noktalardan biri zararın miktarının belirlenmesidir.
+Zira zararın miktarı hükmedilecek tazminatın üst sınırını oluşturur. Zarar
+miktarını aşan bir tazminata hükmedilemez.
+
+Şayet haksız fiil zarara uğrattığı kimseye bazı yararlar da sağlamışsa bu
+yararların zarara mahsubu gerekir. Bu işleme denkleştirme denmektedir. Bu
+yararların varlığını ve miktarını ispat etmekle davalı yükümlüdür.
+
+Zarar ve yarar miktarlarını ispatın mümkün olmadığı hallerde, hakim takdir
+yetkisini kullanacaktır.
+
+===== a) Zararın miktarının takdiri
+
+Zararın gerçek miktarını davacının ispat etmesi özellikle kazanç mahrumiyeti
+gibi hallerde mümkün değildir. 
+
+.TBK m.50
+....
+f.2 - Uğranılan zararın miktarı tam olarak ispat edilemiyorsa hâkim, olayların
+olağan akışını ve zarar görenin aldığı önlemleri göz önünde tutarak, zararın
+miktarını hakkaniyete uygun olarak belirler.
+....
+
+Her tazminat davasında zararın miktarını hakim tayin edecek değildir. İspatı
+mümkün olan zararları davacı ispatla yükümlüdür. Ancak ispatı mümkün olmayan
+zararlar için hakim takdir yetkisini kullanacaktır.
+
+Hakim, takdir yetkisini kullanacağı olaylarda, olayların olağan akışını ve
+zarar görenin aldığı önlemleri dikkate alacaktır.
+
+Olayların olağan akışının dikkate alınmasından maksat davacının ortya koyduğu
+delillere göre haksız fiilin işlendiği şartlarda, hayatın normal akışına göre
+meydana gelebilecek zararların hesaba katılmasıdır.
+
+Zarar görenin aldığı önlemlerin dikkate alınmasından maksat, yoksun kalınacağı
+ileri sürülen kazançların elde edilmesini güçlü olasılık olarak gösteren
+unsurlardır.
+
+===== b) Zararın miktarında esas alınacak tarih
+
+Zarar miktarının belirlenmesinde hangi tarihin esas alınacağı tartışmalıdır.
+Öğretide hakim olan görüş, hüküm tarihinin esas alınmasını savunmaktadır.
+Yargıtay kararlarında ise, zararın meydana geldiği tarih esas alınmaktadır.
+Konu, mala verilen zararlar açısından önem taşır. Beden bütünlüğünün ihlalinden
+doğan zararlarda hüküm tarihinin esas alınacağı TBK m.75'ten anlaşılmaktadır.
+
+.TBK m.75
+....
+Bedensel zararın kapsamı, karar verme sırasında tam olarak belirlenemiyorsa
+hâkim, kararın kesinleşmesinden başlayarak iki yıl içinde, tazminat hükmünü
+değiştirme yetkisini saklı tutabilir.
+....
+
+Şayet zarar hükümden önceki bir tarih esas alınarak belirlenirse, bu tarihle
+hüküm tarihi arasında geçen süredeki bu zarar miktarının faizi de zarar
+miktarına ilave edilmelidir.
+
+===== c) Yararların mahsubu (Denkleştirme)
+
+Haksız fiil mağdura bir taraftan zarar verirken diğer taraftan bazı ekonomik
+yararlar sağlamışsa, bu yararlar tesbit edilen zarar miktarından düşülecektir.
+
+Belirlenen zarar miktarından, haksız fiilin mağdura sağladığı yararların
+düşülmesi işlemine, yararın zarara mahsubu veya yararla zararın
+denkleştirilmesi denilmektedir.
+
+Ancak, dava konusu haksız fiil sonucunda mağdurun malvarlığında gerçekleşmiş
+bir artış mahsuba esas olabilir. Mağdurun malvarlığındaki artış malvarlığının
+aktifinin artması veya pasifinin azalması tarzında olabileceği gibi, aktifinin
+azalmasına veya pasifinin artmasına engel olma tarzında da olabilir.
+
+Ancak, dava konusu haksız fiile uygun nedensellik bağı bulunan yararlar dikkate
+alınır.  Mağdurun zarara uğraması sebebiyle alacağı sigorta tazminatının veya
+bir kişinin ölümünde destekten yoksun kalma tazminatı isteyen kimseye ölen
+kişiden intikal eden mirasın mahsup konusu olup olmayacağı tartışmalıdır.
+
+Şayet mal sigortalarında olduğu üzere sigortacı mağdura ödediği sigorta bedeli
+için ona halef oluyorsa ve mağdur haksız fiil sorumlusundan sadece sigorta
+bedelinin zararı karşılamayan kısmı için tazminat istiyorsa esasen ortada
+mahsup edilecek bir yarar yoktur.
+
+Fakat mağdur, sigortacıya başvurmadan, tüm zararının tazmini için haksız fiil
+sorumlusuna karşı dava açmışsa, sigorta alacağı zarara mahsup edilmek gerekir.
+
+Buna karşılık şayet mağdur sigortacının yaptığı ödeme ile karşılanan zararı
+için haksız fiil sorumlusuna başvuruyorsa, sigortacının halefiyeti sebebiyle
+esasen bu tazminat alacağına artık sahip olmadığından, bu talebi ileri
+süremeyecektir.
+
+Mağdura, hem sigorta bedelini alma hem de zararını haksız fiil sorumlusuna
+tazmin ettirme hakkının tanındığı kaza sigortalarında ise, sorumlu şahıs
+“sigorta ettirenin sigortası nazara alınmaksızın bütün zarar ve ziyanı tazminle
+mükellef tutulur.” Böylece bir mahsup söz konusu değildir.
+
+Destekten yoksun kalma tazminatı bakımından, haksız fiil sonucu ölen kimseden
+veya bir başka şahıstan mağdura intikal eden miras, kendisine bağlanan dul ve
+yetim maaşı, destek ihtiyacını kaldırdığı veya azalttığı oranda dikkate alınır.
+Böyle hallerde zarardan mahsup değil, doğurdan doğruya zarar şartının
+gerçekleşmesi ile ilgili bir sorun vardır.
+
+.TBK m.55
+....
+f.1 - Destekten yoksun kalma zararları ile bedensel zararlar, bu Kanun
+hükümlerine ve sorumluluk hukuku ilkelerine göre hesaplanır. Kısmen veya
+tamamen rücu edilemeyen sosyal güvenlik ödemeleri ile ifa amacını taşımayan
+ödemeler, bu tür zararların belirlenmesinde gözetilemez; zarar veya tazminattan
+indirilemez. Hesaplanan tazminat, miktar esas alınarak hakkaniyet düşüncesi ile
+artırılamaz veya azaltılamaz.
+....
+
+TBK m.55/f.1 hükümlerinde mahsubu yasaklanan bu kazançlardan, sosyal güvenlik
+kurumlarınca yapılan ödemeler, mevzuatına göre ödemeyi yapan kurumun sorumluya
+rücu edemeyeceği, ödemekle kalacağı miktarlardır. İfa amacnını taşımayan
+ödemeler ile ise, üçüncü kişilerce mağdura yardım ve iyilik saikiyle yapılan,
+başta bağışlama olmak üzere, karşılıksız kazandırmalar ifade edilmiştir.
+
+Zararın tespitinde hangi tarih esas alınırsa, mahsup edilecek yararın miktarı
+açısından da aynı tarih esas alınmak gerekir. O tarihte gerçekleşmiş
+yararlarla, henüz gerçekleşmiş olmayan fakat gerçekleşmesi normal olarak
+beklenen yararlar zarara mahsup edilecektir.
+
+Mahsup edilecek yararın varlığını ve miktarını davalı iddia ve ispat etmelidir.
+Burada da hakimin TBK m.50/f.2 uyarınca takdir yetkisi bulunmaktadır. Yararın
+varlığı dosyadan anlaşılırsa hakim bunu re'sen gözönüne alır. Fakat bir yarar
+bulunup bulunmadığını re'sen araştıramaz.
+
+==== 2. Bedensel zararlar ve ölüm
+
+===== a) Beden bütünlüğünün ihlali halinde zararın kapsamı
+
+Beden bütünlüğünün ihlali halinde zarar ifadesiyle, bu ihlal yüzünden mağdurun
+malvarlığında meydana gelen azalma kastedilmektedir.
+
+.TBK m.54
+....
+Bedensel zararlar özellikle şunlardır: 
+    1. Tedavi giderleri.  
+    2. Kazanç kaybı.  
+    3. Çalışma gücünün azalmasından ya da yitirilmesinden doğan kayıplar.  
+    4. Ekonomik geleceğin sarsılmasından doğan kayıplar.
+....
+
+====== aa) Tedavi giderleri
+
+Beden bütünlüğünün ihali halinde zararın kapsamına, beden bütünlüğünü eski
+haline getirmeye yani iyileştirmeyi sağlamaya veya hastalık ya da sakatlığın
+artmasını önlemeye yönelik masraflar girer. Bunlara tedavi masrafları denir. 
+
+Bunlardan başka, ihlalin tedavi dışında yol açtığı masraflar da zarar kapsamına
+girer. Hastaneye gelip gitme masrafları, devamlı bir kişinin yardımına muhtaç
+olmanın gerektirdiği masraflar bu kategoriye girer.
+
+Tazminat davasına hüküm tarihine kadar yapıldığı sabit olan masraflar dikkate
+alınacağı gibi, tespiti mümkün olan müstakbel masraflar da dikkate alınacaktır.
+
+Şayet hüküm verileceği tarihte bu masrafları belirlemek mümkün değilse, TBK
+m.75 uyarınca, hakim kararın kesinleşmesi tarihinden itibaren iki sene içinde
+konuyu inceleme ve tazminat hükmünü değiştirme yetkisini saklı tutabilir.
+
+====== bb) Kazanç kaybı
+
+Beden bütünlüğü ihlal edilen kimse, bu yüzden tamamen veya kısmen çalışamama
+durumuna düşmüşse, bundan doğan zararın tazminini de isteyebilir.
+
+Davacı hüküm tarihine kadar yoksun kaldığı kazancı ispat edecektir. Ücretle
+çalışanlarda bunun kapsamına sadece ücret değil, yan ödemeler de girer.
+Davacının çalışabilmiş olsa ide yararlanabileceği ücret artışları da gözönüne
+alınır. 
+
+Yoksun kalınan kazancın artmasında mağdurun da kusuru rol oynamışsa, “birlikte
+kusur” (TBK m.52/f.1) uyarınca tazminattan indirim yapılacaktır.
+
+Kazanç kaybının her zaman çalışamamaktan kaynaklanan bir ücret, maaş veya
+ticari mesleki gelir kaybı şeklinde olması gerekmez. Beden bütünlüğü ihlalinin
+sebep olduğu bazı masraflar sebebiyle gelir kayıpları da bu kapsama girebilir.
+
+.Örnek
+TIP: Beden bütünlüğü ihlal edilen ev kadının, kocasını hizmetçi tutmaktan
+kurtarmak suretiyle aile bütçesine yaptığı katkıdan mahrum kalması da bir
+kazanç yoksunluğu sayılabilir.
+
+====== cc) Çalışma gücünün azalmasından ya da yitirilmesinden doğan kayıplar
+
+Çalışma gücünün tamamen kaybının veya azalmasının gelecekte yol açacağı kazanç
+yoksunluğu müstakbel zarardır. Çalışma gücünün kaybı bakımından, geçici kayıp,
+sürekli kayıp ayrımı yapılır.
+
+Çalışma gücünün geçici kaybında kazanç kaybının hesabı, çalışma gücünün
+muhtemel kayıp süresi dikkate alınarak yapılır.  Çalışma gücünün devamlı
+kaybında ise, mağdurun kayba uğramasa idi çalışabileceği süre dikkate alınır.
+Yargıtay, çalışma süresi sınırı olarak olağan işlerde 60-65 yaşı, ağır işlerde
+50 yaşı kabul etmektedir.
+
+Diğer taraftan yoksun kalınacak hesabında dikkate alınacak diğer bir unsur,
+çalışma gücündeki kayıp oranıdır. Bu oran haksız fiilden etkilenen organa,
+etkilenme derecesine ve mağdurun mesleğine göre değişir.
+
+Yoksun kalınacak kazancın hesabında dikkate alınacak üçüncü unsur mağdurun
+yıllık kazanç miktarıdır. Yıllık kazanç olarak mağdurun haksız fiile maruz
+kaldığı sıradaki kazancı esas alınır ve bu kazançtaki artma ihtimalleri de
+gözönünde tutulur. Mağdurun yaşının küçüklüğü, öğrenci olması gibi sebeplerle
+henüz kazancı bulunmaması halinde ilerideki kazanç ihtimaline göre hesap
+yapılır.
+
+Yargıtay, çalışma gücünü bir oranda kaybedenin ücretinde bir azalma olmasa
+dahi, aynı işi daha fazla efor sarfederek yapma zorunluluğunun da zarar teşkil
+ettiğini kabul etmiştir.
+
+Mağdurun yıllık kazancının, çalışma gücü kayıp oranına çarpımı yıllık kazanç
+kaybı tutarını belirler. Bu miktarın çalışma gücünün kaybı süresi ile çarpımı
+çalışma gücünün tamamen kaybı veya azalmasının yol açacağı gelecekteki kazanç
+kaybı miktarını belirleyecektir.
+
+Hakim, tazminat kararı verirken, yukarıdaki esaslar çerçevesinde kazanç
+mahrumiyeti hususunda kesin bir sonuca varamazsa, kararın kesinleşmesinden
+itibaren iki yıl içinde hükmünü gözden geçirme yetkisini saklı tutarak karar
+verebilir (TBK m.75). Bu iki yıl içinde davacı veya davalı kararın gözden
+geçirilmesini talep edebilir.  Hakim iki yıl içinde kararını gözden geçirme
+yetkisini saklı tutmuş olmasa dahi, haksız fiilin yol açtığı yeni zararlar
+için, zamanaşımı süresi içinde yeni tazminat davaları açılabilir. Fakat bu
+zararlar ilk dava açılırken mevcut olmamalı ve kazanç yoksunluğu gibi ileride
+gerçekleşmesi beklenen zarar niteliği taşımamalıdır.
+
+====== dd) Ekonomik geleceğin sarsılmasından doğan kayıplar
+
+Bu haller de müstakbel bir zarar söz konusudur ve bu zarar çalışma gücünde bir
+azalma olmamasına rağmen meydana gelmektedir. Bu zararın belirlenmesi açısından
+da yukarıdaki kazanç kaybında belirtilen esaslar uygulanır ve hakimin Tbk
+m.74'deki yetkisi burada da mevcuttur.
+
+===== b) Ölüm halinde zararın kapsamı
+
+Bir haksız fiilin bir kişinin ölümüne yol açması halinde, ölüm sebebiyle
+gerçekleşen zararlar öldürülen kişinin dışında meydana gelir. Ölen kimse ölümle
+kişi olmaktan çıktığı için zarar ölenin mirasçıları ve bakıp gözettiği kimseler
+için söz konusu olabilir. TBK m.53, bu özel durumu düzenlemekte ve ölümün
+derhal gerçekleşmemiş olması halinde ölüme kadar ölen kişinin uğradığı zararı
+da dikkate almaktadır.
+
+.TBK m.53
+....
+Ölüm hâlinde uğranılan zararlar özellikle şunlardır: 
+    1. Cenaze giderleri
+    2. Ölüm hemen gerçekleşmemişse tedavi giderleri ile çalışma gücünün
+    azalmasından ya da yitirilmesinden doğan kayıplar.  
+    3. Ölenin desteğinden yoksun kalan kişilerin bu sebeple uğradıkları
+    kayıplar.
+....
+
+.. Ölüm hemen gerçekleşmemiş ise ölüme yol açan haksız fiilin vücut
+bütünlüğünün ihali sebebiyle doğurduğu zararlar (m.54) için ölen kimsenin
+ölümünden önce doğan tazminat isteme hakkı mirasçılarına geçer.
+.. Ölüm ister hemen gerçekleşmiş olsun, isterse bir süre sonra gerçekleşsin,
+ölümün yol açtığı masrafların başında cenaze giderleri gelir ve kanunda bu,
+masraflara örnek olarak özellike zikredilmiştir.
+.. Haksız fiil sonucu ölüm ister hemen ister bir süre sonra gerçekleşsin ölen
+kimsenin yardımından yoksun kalanların tazminat isteyebilmeleri TBK m.53/b.3'de
+özel olarak düzenlenmiştir.
+
+====== aaa) Destek kavramı
+
+Bir kimseye fiilen sürekli ve düzenli bir şekilde bakan ve olayların olağan
+akışına göre ona bu tarzda ileride bakması kuvvetle tahmin edilen kimse o
+kişinin desteğidir.
+
+Destekte, ölenin baktığı kişinin, aynı ailenin bireyleri, kan hısmı veya
+birinin diğerinin mirasçısı olması şart değildir. Desteğin, bu yardımı yapmaya
+hukuken mecbur olup olmaması da desteğin varlığının kabulü açısından önem
+taşımaz. Bir kişinin bir başkasının desteği olup olmadığı fiili duruma göre
+belirlenir.
+
+Medeni evlenme merasimi yapılmaksızın karı koca gibi birarada yaşama durumunda
+ise, kadının veya erkeğin başkası ile evli olmaması şartıyla, yarımda bulunanın
+diğerinin desteği sayılması gerektiği genellikle kabul edilmektedir.
+
+Ancak sürekli ve düzenli yardımların ölümden sonra da devam edeceği kabul
+edilebilir. Yardımın sürekli ve düzenli sayılması için mutlaka belirli
+aralıklarla yapılması şart değildir. Fakat, süreklilik arz etmesi söz konusu
+olmayan, hediye verme, geçici yardımda bulunma, destek olma durumu yaratmaz.
+Yapılan yardımın, yardım görenin geçimini sağlayıcı veya geçimine katkıda
+bulunucu yardım olması gerekir.  Ölümün gerçekleştiği dönemde davacıya fiilen
+destek olana “fiili destek” denilir. O dönemde bunu sağlamamasına rağmen,
+ölmese idi ileride büyük ihtimalle davacıya destek sağlaması beklenen kimseye
+“müstakbel destek” denilmektedir.
+
+Müstakbel destekten yoksun kalanların da TBK m.53/b.3'den yararlanacağına,
+fakat hakimin bunların dava haklarını kabulde ve zararlarının belirlenmesinde
+takdir yetkisini kullanırken hükmün uygulanma alanını dar tutması gerektiğine
+dikkat çekilmektedir.
+
+Müstakbel destek olma açısından, ana baba için küçük çocukların, bir nişanlı
+için diğer nişanlının durumu, üzerinde en çok durulan konulardır. Yargıtay,
+çocukların ileride destek olmaları ihtimalini hayat tecrübelerine ve olayların
+tabii akışına uygun görmektedir.
+
+====== bbb) Destekten yoksun kalma zararının belirlenmesi
+
+Destekten yoksun kalma zararının varlığını kabul edebilmek için ölüm yüzünden
+davacının yaşam düzeyinin düşmüş olması gerekir. Böylece, ölüm yüzünden mahrum
+kaldığı ölenin yardımına olan ihtiyacını bertaraf edecek şekilde ölüm sayesinde
+veya başka sebeple davcının elde ettiği yararlar, destek ihtiyacını etkilediği
+ölçüde, destek yoksun kalma zararının azalmasına veya tamamen ortadan
+kalkmasına yol açar. Bu bir mahsup sorunu değil, destek ihtiyacının devam edip
+etmemesi sorunudur. Bu sebeple, davacıya sadece haksız fiil sonucu ölen
+kimseden kalan miras değil, üçüncü bir kişiden kalan miras da dikkate alınır.
+Ancak TBK m.55 hükümleri bu konuda da uygulanacaktır.
+
+.TBK m.55
+....
+f.1 - Destekten yoksun kalma zararları ile bedensel zararlar, bu Kanun
+hükümlerine ve sorumluluk hukuku ilkelerine göre hesaplanır. Kısmen veya
+tamamen rücu edilemeyen sosyal güvenlik ödemeleri ile ifa amacını taşımayan
+ödemeler, bu tür zararların belirlenmesinde gözetilemez; zarar veya tazminattan
+indirilemez. Hesaplanan tazminat, miktar esas alınarak hakkaniyet düşüncesi ile
+artırılamaz veya azaltılamaz.  
+f.2 - Bu Kanun hükümleri, her türlü idari eylem ve işlemler ile idarenin
+sorumlu olduğu diğer sebeplerin yol açtığı vücut bütünlüğünün kısmen veya
+tamamen yitirilmesine ya da kişinin ölümüne bağlı zararlara ilişkin istem ve
+davalarda da uygulanır.
+....
+
+Destekten yoksun kalma tarzında bir zararın varlığının kabul ed,lmesi için ölüm
+yüzünden davacının hayat düzeyinin düşmüş olup olmadığı üzerinde durulurken
+davacının sosyal durumu gözönünde tutulacaktır. Davacının eski hayat kalitesini
+sürdüremeyecek olması, zararın varlığını kabul etmek için yeter.
+
+Varlığı kabul edilen zararın miktarının belirlenmesinde, haksız fiil sonucu
+ölen kimse yaşamaya devam etse idi davacıya ne miktarda yardımı hangi sürede
+sağlayacağının araştırılması gerekir.  Bu hususta, önce, fiili desteğin ölüm
+tarihindeki, müstakbel desteğin ise ileride gelir elde etmeye başlayacağı
+tarihteki muhtemel geliri dikkate alınır. Kanuna aykırı şekilde elde edilecek
+gelirler devam etmeyeceği için dikkate alınmamalıdır. Buna karşılık sadece
+ahlaka aykırı olup kanuna aykırı olmayan gelirlerin dikkate alınması kabul
+edilebilir.  Gelirin tespitinden sonra bu gelirden olaydaki şartlarda davacıya
+tahsis edileceği düşünülen miktar veya oran tespit edilecektir. Şayet ölenin
+desteğinden yoksun kalanlar birden çok ise, her birine gelirden tahsis
+edileceği düşünülen kısmın ayrı ayrı belirlenmesi gerekir.
+
+Yardımın devam edeceği farzedilen süre bakımından da, bir yandan ölenin yardım
+sağlayacağı süre, diğer yandan davacının destek ihtiyacının devam edeceği süre
+tespit edilecektir.
+
+Yardım yapma ve destek ihtiyacı süreleri dikkate alınarak hesaplanacak yoksun
+kalınan yardımın değeri, davacının uğradığı zararı ifade edecektir.
+
+Davacının ölüm sebebiyle bir tasarrufu varsa örneğin ölen desteğe yapmakta
+olduğu bazı masraflardan kurtulmuşsa bunların hesaplanacak tutarını zarardan
+mahsup edilmek gerekir. 
+
+Destekten yoksun kalma tazminatına ilişkin mahkeme hükmü kesinleştikten sonra,
+beklenmedik şekilde davacı ölürse, hesapların yanlış çıktığına dayanılarak
+tazminat hükmünün değiştirilemeyeceği kabul edilmektedir. Fakat destekten
+yoksun kalma tazminatı irat şeklinde tayin edilmişse, alacaklının ölümü üzerine
+irat ödeme borcu sona erer.
+
+Gerek destekten yoksun kalma zararının gerekse ölüme yol açmayan bedensel
+zararların tazmini halleri için m.55'de “hesaplanan tazminat, miktar esas
+alınarak hakkaniyet düşüncesi ile arttırılamaz veya azaltılamaz” hükmü
+getirilmiştir. “Azaltılamaz” ifadesi sebebi ile, m.52/f.2 hükmü bu tür
+zararlarda uygulanamayacaktır. Buna karşılık m.52/f.1 hükmündeki indirim
+imkanları burada da söz konusu olabilecektir.
+
+.TBK m.52
+....
+f.1 - Zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında ya
+da artmasında etkili olmuş yahut tazminat yükümlüsünün durumunu ağırlaştırmış
+ise hâkim, tazminatı indirebilir veya tamamen kaldırabilir.  
+f.2 - Zarara hafif kusuruyla sebep olan tazminat yükümlüsü, tazminatı
+ödediğinde yoksulluğa düşecek olur ve hakkaniyet de gerektirirse hâkim,
+tazminatı indirebilir.
+....
+
+==== 3. Bir malın tamamen telef olması veya kısmen hasara uğraması
+
+===== a) Değer kaybı
+
+Bir malın tamamen telef olması veya kısmen hasara uğraması, her şeyden önce bir
+değer kaybı demektir. Zarar, mağdurun malvarlığının aktifinde bir azalma
+tarzında ortaya çıkar.
+
+====== aa) Değer kaybının belirlenmesinde esas alınacak tarih
+
+Değer kaybının belirlenmesi bakımından öğretide hüküm tarihindeki zararın
+dikkate alınması görüşü hakim ise de, Yargıtay'ın yerleşmiş içtihadı, haksız
+fiilin işlendiği tarihteki değer kaybını dikkate almaktadır. Bu tarzda, haksız
+fiilin işlendiği tarihteki değer kaybı esas alınınca, bu zarara hüküm tarihine
+kadar faiz eklenmesi suretiyle zarar miktarı tespit edilerek hüküm verilmek
+gerekir. Bu durum TBK m.117/f.2'de açıkça düzenlenmiştir. Bu hükme göre, haksız
+fiilde fiilin işlendiği tarihte borçlu temerrüde düşmüş olur. Böylece, zarar
+hangi tarihe göre hesaplanırsa hesaplansın, fiilin işlendiği tarihten itibaren
+yasal faiz oranında temerrüt faizi işletilecektir.
+
+.TBK m.117
+....
+f.2 - Borcun ifa edileceği gün, birlikte belirlenmiş veya sözleşmede saklı
+tutulan bir hakka dayanarak taraflardan biri usulüne uygun bir bildirimde
+bulunmak suretiyle belirlemişse, bu günün geçmesiyle; haksız fiilde fiilin
+işlendiği, sebepsiz zenginleşmede ise zenginleşmenin gerçekleştiği tarihte
+borçlu temerrüde düşmüş olur. Ancak sebepsiz zenginleşenin iyiniyetli olduğu
+hâllerde temerrüt için bildirim şarttır.
+....
+
+====== bb) Değer kaybının hesabında objektif ve sübjektif sistemler
+
+Objektif sistem, malın mübadele değerini esas alır ve haksız fiilin bu malda
+meydana getirdiği değer azalmasını zarar olarak kabul eder.
+
+Subjektif sistem, malın mağdur için taşıdığı değeri esas alır ve haksız fiilin
+bu değerde meydana getirdiği azalmanın zararı belirleyeceğini kabul eder. Bu
+değer kaybı, malın objektif değer kaybından fazla olabilir.
+
+Fakat, sübjektif sistem de malın sahibinin manevi sebeplerle malına özel olarak
+verdiği değerin dikkate alınmasına imkan vermez. Şartları varsa bunlar
+açısından manevi tazminat davası açılabilir.
+
+Ancak bazı manevi sebepler bir malın piyasa değerini etkileyebilir. Bu takdirde
+piyasa değerinin etkilenmesi sebebiyle manevi değer dikkate alınmış olur.
+
+Şayet bir malın sahibi için subjektif değeri piyasa değerinden az ise, piyasa
+değerinin esas alınması gerektiği savunulmaktadır.
+
+====== cc) Telef olma ve hasara uğrama hallerindeki özellikler
+
+Mal madde olarak yok olmuşsa veya artık hiç yararlanılamaz hale gelmişse ya da
+tamir masrafı malın değerini aşıyorsa, malın tamamen telef olduğu kabul edilir.
+
+Tamamen telef olan malın yerine yenisinin ikame edilmesi için gereken tutar,
+zararı teşkil eder. Fakat eskime sebebiyle amortismana uğramış olan mallarda bu
+amortisman miktarı yenisinin satın alınma değerinden düşülür.
+
+Bir malın çalınması halinde malı hırsızdan veya bir üçüncü kişiden istihkak
+davası ile talep edebilme imkanı devam ettikçe, malvarlığında bu malın değeri
+kadar azalma gerçekleşmiş sayılmaz. Malik ancak mülkiyeti hırsıza geçirmeye
+veya üçüncü kişiye karşı açma hakkını kazandığı taşınır davasını hırsıza
+devretmeye hazır olduğunu bildirerek, malın değerinin tazminini talep edebilir.
+
+Malın hasara uğramış olması halinde, bu malın onarımı mümkün değilse veya
+onarılmasından sonra mal sahibinin bu malı kullanması kendisinden beklenemez
+ise veya onarım masrafı malın değerinden yüksek ise, mal tamamen telef olmuş
+gibi zarar tespit edilecektir. Bu durumda, mağdura malın yenisinin değeri
+tazmin edilecek fakat hasara uğramış olan mal davalıya verilecektir.
+
+Onarımı mümkün bulunan bir hasar söz konusu ise, zarar herşeyden önce onarım
+masrafından oluşur. Fakat, malın onarım görmüş bir mal durumuna girmesi
+sebebiyle değerinde bir düşme meydana geliyorsa bu düşme tutarı da hesaba
+katılmalıdır.
+
+=== IX. TAZMİNATIN BELİRLENMESİ
+
+==== 1. Zararın üst sınır olması
+
+Tazminat davasında yukarıda açıklanan kurallara göre tespit edilen zarar,
+hükmedilebilecek tazminatın üst sınırını belirler. Bu sınrın üzerinde tazminata
+hükmedilmesi söz konusu olamaz.
+
+Tazminat miktarı zarar sınırını aşamazsa da, çeşitli sebeplerle, tazminatın
+zararın altında bir miktar olarak tayini mümkündür.
+
+==== 2. Tazmin tarzını tayin
+
+Zararın para ödenerek giderilmesi söz konusu ise, bu tarzdaki tazmine “nakden
+tazmin”, para ödenmesi dışında bir yolla giderilmesi söz konusu ise bu tarzdaki
+tazmine “aynen tazmin” denilmektedir.
+
+Nakden tazmin, mağdurun malvarlığında meydana gelen azalmanın değer olarak
+giderilmesi, aynen tazmin, mağdurun malvarlığının eski haline getirilmesi
+yoluyla zararın giderilmesi amacını güder.
+
+Hakim TBK m.51/f.1'de kendisine tanınan yetki uyarın, “durumun gereğini” göz
+önüne alarak uygun bulduğu tazmin tarzını belirleyecektir. Hakimin zararın
+kısmen nakden, kısmen aynen tazminine karar vermesi de mümkündür. Hakim
+tazminatın tarzını belirlerken davacının talep ettiği tazmin tarzı ile bağlı
+değilse de talepten farklı olarak kabul ettiği çözümün gerekçesini belirtmek
+zorundadır.
+
+.TBK m.51
+....
+f.1 - Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve
+özellikle kusurun ağırlığını göz önüne alarak belirler.
+....
+
+===== a) Nakden tazmin
+
+Zararın para ödenerek giderilmesi kararı esas itibariyle toplu bir meblağın
+ödenmesini öngörür. Şayet gelecekteki zararların karşılanması söz konusu ise
+irat şeklindeki tazminat uygun bulunabilir.
+
+İrat şeklinde ödenecek tazminat, belirli aralıklarla uzun sürede, bazen ömür
+boyunca ödeneceği için ileride alacaklının hakkını elde etmesi tehlikeye
+düşebilir. Bu tehlikeyi önlemek için m.51/f.2, irat şeklinde tazminata karar
+verilmesi halinde borçludan teminat alınmasını zorunlu kılmıştır.
+
+.TBK m.51
+....
+f.2 - Tazminatın irat biçiminde ödenmesine hükmedilirse, borçlu güvence
+göstermekle yükümlüdür.
+....
+
+Sermaye şeklinde ödenecek tazminatın takside bağlanması hususunda kanunda bir
+hüküm yoktur. Bazı yazarlar, takside bağlamaya, borçlu toptan ödemede zor
+duruma düşecekse m.52/f.2 uyarınca imkan tanımaktadırlar.
+
+===== b) Aynen tazmin
+
+Mağdurun malvarlığının eski haline getirilmesi için para ödenmesi dışında bir
+yolla zararın giderilmesi, çeşitli şekillerde gerçekleşebilir.
+
+Örnek: Yok edilen bir malın bir eşinin verilmesi, tahrip edilen bir malın
+davalı tarafından tamir edilmesi, failin aldtması sonucu mağdurun başkasına
+karşı yüklendiği borcu davalının devralması, kirletilen bir alanın
+temizlettirilmesi vb.
+
+Mala gelen zararlardan aynen tazmin ifadesiyle kastedilen, tazminatın herhangi
+bir eşya verilmesi suretiyle gerçekleşmesi değil, mağdurun zarar gören
+malvarlığı değerinin yenisinin verilmesi veya onarılması suretiyle eski hale
+getirilmesidir. Bu mümkün değilse, nakden tazmin yoluna gidilecektir. Yoksa,
+mağdurun zarar gören eşyasından farklı bir şeyin fail tarafından verilmesi
+şeklinde aynen tazmin olmaz.
+
+Aynen tazmin bazen bir sözleşmeyi yapmaktan ahlaka aykırı şekilde kaçınan
+kişinin bu sözleşmeyi yapma mecburiyetinde bırakılması şeklinde de olabilir.
+
+==== 3. Tazminat miktarının belilerlenmesi
+
+===== a) Genel kural 
+
+.TBK m.51
+....
+f.1 - Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve
+özellikle kusurun ağırlığını göz önüne alarak belirler.
+....
+
+TBK m.51/f.1, tazminat tutarı belirlenirken bir taraftan failin “kusurunun
+ağırlık derecesinin”, diğer taraftan “durumun gereğinin” yani, olayın
+özelliklerinin dikkate alınması gerektiğini belirtmektedir. Buna göre, failin
+kusurunun ağır olmaması, zararı karşılayacak tam tazminattan daha düşük
+miktarda tazminatı haklı kılacağı gibi, olayın özellikleri de tazminatın
+miktarında indirim yapılmasına yol açabilir. Bu etkenlere, zararın indirilmesi
+(tenkisi) sebepleri denilmektedir.
+
+Bu sebeplerden, “mağdurun rızası”, “mağdurun birlikte kusuru ve sorumlu olduğu
+diğer etkenler” ile “failin yoksulluğa düşecek olması” TBK m.52'de özel olarak
+belirtilmiştir. Ancak, indirim sebepleri bunlardan ibaret değildir.
+
+.TBK m.52
+....
+f.1 - Zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında ya
+da artmasında etkili olmuş yahut tazminat yükümlüsünün durumunu ağırlaştırmış
+ise hâkim, tazminatı indirebilir veya tamamen kaldırabilir.  
+f.2 - Zarara hafif kusuruyla sebep olan tazminat yükümlüsü, tazminatı
+ödediğinde yoksulluğa düşecek olur ve hakkaniyet de gerektirirse hâkim,
+tazminatı indirebilir.
+....
+
+Ayrıca, dikkate alınacak özellikler, mutlaka tazminatın indirilmesine yol
+açmayabilir. Hatta olayın özelliği bir indirim sebebinin dikkate alınmamasını
+gerektirebilir.
+
+===== b) TBK m.52'de belirtilen tenkis sebepleri 
+
+====== aa. Mağdurun rızası
+
+Mağdurun geçerli şekilde önceden zarara razı olması, fiilin hukuka aykırılığını
+engellediği için esasen sorumluluk söz konusu değildir. Şu halde TBK m.52
+çerçevesinde tazminattan indirim sebebi olan mağdurun rızası, ancak, hukuka
+uygunluk sebebi olarak geçerli sayılmayan rızalar ile verilen rızanın
+çerçevesini aşan zararlarda uygulama alanı bulur.
+
+Zarar rıza beyanının uygun sonucu olmalıdır. Sadece rıza beyanı ile uygun
+nedensellik bağı içinde bulunan zararların tazmini taleplerinde tazminattan bu
+sebeple indirim yapılabilir. Şayet somut olayda zarar rızanın sonucu değilse,
+bu rıza zarar doğuran fiilin işlenmesine yol açacak nitelikte olsa bile,
+tazminattan indirim sebebi olmamalıdır.
+
+Mağdurun geçersiz sayılan rızası da bir birlikte kusur oluşturabilir ve bu
+sebeple tazminatın indirilmesine yol açabilir. 
+
+====== bb. Mağdurun birlikte kusuru 
+Mağdurun, makul bir insandan beklenen davranışta bulunmayarak zararın meydana
+gelmesinde veya artmasında etkili olmasına birlikte kusur denilmektedir.
+
+Mağdurun birlikte kusuru, zararın meydana gelmesinde başlıca etken ise failin
+sorumluluğunun kalkmasını haklı kılabilir. Bu durumda davalının sorumluluğu
+için gerekli olan, fiille zarar arasında uygun nedensellik bağının bulunmadığı
+veya kesildiği de söylenebilir.
+
+Birlikte kusurun zararın artmasında etkili olmasının örneklerine daha çok beden
+bütünlüğünün ihlalinde zararın artmasını önleyecek tedbirlerin alınmamasında
+rastlanmaktadır. Alınacak tedbir kendisi için tehlike arz etmiyorsa ve makul
+bir insandan bu tedbire başvurması beklenirse, mağdurun aksine davranışı
+birlikte kusur oluşturur.  
+
+====== cc. Mağdurun sorumlu olduğu diğer etkenler
+
+Mağdurun zararın doğmasına veya artmasına yardımcı olan davranışı kusursuz
+sorumluluk hükümlerinden birinin kapsamına girecek nitelikteyse, bu takdir de
+TBK m.52/f.1 uyarınca tazminattan indirim yapılacağı kabul edilmektedir. Bu
+durumda kusurların derecesi değil, mağdurun kusursuz sorumlu tutulduğu
+davranışının veya olayın zararın gerçekleşmesine nedensellik bağı bakımından
+katkı derecesi esas alınacaktır.
+
+Mağdurun herhangi bir kusursuz sorumluluk hükmünün kapsamına girmeyen kusursuz
+davranışı, zararın doğumuna veya artmasına ne denli katkıda bulunmuş olursa
+olsun failin davranışıyla zarar arasındaki uygun nedensellik bağı kesilmedikçe
+TBK m.52 hükümlerine göre tazminatı etkilemez ve indirim sebebi de olmaz.
+
+====== dd. Failin yoksulluğa düşecek olması
+
+TBK m.52/f.2 genel olarak, hükmedilecek tazminatın davalıyı yoksulluğa
+düşüreceği hallerde şayet failin kusuru hafif ise (kası veya ağır ihmal değil
+ise), bu durumun tazminatın indrilmesine yol açabileceğini belirtmektedir.
+İndirimin sz konusu olabilmesi için iki şartın, yani hem yoksulluğa düşürecek
+olma hem hafif kusur şartının bulunması gerekir. 
+
+Fail esasen yoksul olup zararı tam olarak tazmin etmesinin hakkaniyete aykırı
+olmasında  da fail yoksul olmamakla birlikte şayet zararı tam olarak tazmin
+ederse yoksulluğa düşmesinde de, tazminattan indirim mümkündür.
+
+Hatta TBK m.51/f.1 uyarınca yapılacak bir indirime rağmen fail yoksulluğa
+düşecek, TBK m.52/f.2 uyarınca daha fazla bir indirim yapılabilir.
+
+===== c) Diğer indirim sebepleri
+
+====== aa. Beklenmedik durum 
+Bir olayın meydana gelmesinde etkisi irade dışı olgular beklenmedik durum
+oluşturur. Böyle bir olgu uygun nedensellik bağının kurulmasına engel olursa
+sorumluluk söz konusu olmaz. Şayet beklenmedik durum uygun nedensellik bağını
+keserse fail bundan sonraki zararlardan sorumlu olmaz.  Beklenmedik durum,
+zararın meydana gelmesinde veya artmasında, yukarıda belirtilen ölçüde
+olmamakla beraber, etkili olmuşsa, bu durum tazminatın indirilmesini adil
+kılabilir.
+
+====== bb. Mağdurun bünyesinden kaynaklanan etkenler
+
+Mağdurun bünyesinden kaynaklanan ve zararın artmasına yol açan etkenler de
+indirime yol açabilir.
+
+====== cc. Failin, mağdura yardımı sırasında zarar vermiş olması
+
+Failin, mağdura bir konuda yardım ederken zarara vermiş olması da TBK m.51
+uyarınca indirim sebebi olabilir.
+
+===== d) İndirim yasağı
+
+.TBK m.55
+....
+f.1 - Destekten yoksun kalma zararları ile bedensel zararlar, bu Kanun
+hükümlerine ve sorumluluk hukuku ilkelerine göre hesaplanır. Kısmen veya
+tamamen rücu edilemeyen sosyal güvenlik ödemeleri ile ifa amacını taşımayan
+ödemeler, bu tür zararların belirlenmesinde gözetilemez; zarar veya tazminattan
+indirilemez. Hesaplanan tazminat, miktar esas alınarak hakkaniyet düşüncesi ile
+artırılamaz veya azaltılamaz.  
+f.2 - Bu Kanun hükümleri, her türlü idari eylem ve işlemler ile idarenin
+sorumlu olduğu diğer sebeplerin yol açtığı vücut bütünlüğünün kısmen veya
+tamamen yitirilmesine ya da kişinin ölümüne bağlı zararlara ilişkin istem ve
+davalarda da uygulanır.
+....
+
+Buna göre, bedensel zararı için veya destekyen yoksun kalma zararı için
+tazminat isteyen mağdura karşı, hafif kusurlu failin tüm zararı tazmin etmesi
+halinde yoksulluğa düşeceğinden söz edilerek hakim tarafından TBK m.52/f.2
+uyarınca hakkaniyet gerekçesiyle indirim yapılamayacaktır.
+
+İndirim yasağı getiren TBK m.55/f.1 hükmünde tazminatın “hakkaniyet düşüncesi
+ile azaltılamayacağı” belirtilmiştir. İndirim, “hakkaniyetin gerektirmesi”
+şartına sadece TBK m.52/f.2 hükmünde bağlandığından geri kalan tenkis sebepleri
+açısından indirim yasağı uygulanmamalıdır.
+
+==== 4. Temerrüt faizi
+
+.TBK m.117
+....
+f.2 - Borcun ifa edileceği gün, birlikte belirlenmiş veya sözleşmede saklı
+tutulan bir hakka dayanarak taraflardan biri usulüne uygun bir bildirimde
+bulunmak suretiyle belirlemişse, bu günün geçmesiyle; haksız fiilde fiilin
+işlendiği, sebepsiz zenginleşmede ise zenginleşmenin gerçekleştiği tarihte
+borçlu temerrüde düşmüş olur. Ancak sebepsiz zenginleşenin iyiniyetli olduğu
+hâllerde temerrüt için bildirim şarttır.
+....
+
+Bu açık düzenleme karşısında, artık haksız fiil failinin daima ihtarsız
+temerrüde düşeceği kesin olduğu gibi; temerrüt faizinin de, zararın
+gerçekleştiği veya gerçekleşeceği tarihten değil, fiilin işlendiği tarihten
+itibaren hesaplanacağı da anlaşılmaktadır. 
+
+Böylece, sadece failin kusurlu olarak sorumlu olduğu hallerde değil, kusursuz
+sorumluluk hallerinde de, tazminat yükümlüsünün sorumluluğunu doğuran fiil veya
+olaydan itibaren hesaplanacak temerrüt faizi de zararı tazmin borcuna
+eklenecektir. Ancak, haksız fiil sayılmayıp fedakarlığın denkleştirilmesinden
+doğan taleplerde bu hüküm uygulanmayıp, borçlu alacaklının ihtarı ile temerrüde
+düşmelidir.
+
+Ayrıca, TBK m.114/f.2, “haksız fiil sorumluluğuna ilişkin hükümler kıyas
+yoluyla borca aykırılık hallerine de uygulanır” dediğine göre; bu hüküm
+yardımıyla da borca aykırılıktan doğan tazminat taleplerine de TBK m.117/f2
+uygulanarak, ihtar aranmaksızın, borca aykırılıktan itibaren yasal temerrüt
+faizi işleyeceği savunulabilir.
+
+=== X. MAHKEME KARARI
+
+==== 1. Beden bütünlüğünün ihalinde tazminat hükmünün değiştirilmesi
+
+Beden bütünlüğünün ihlali sebebiyle uğranılan zararların tazmini davalarında
+TBK m.75 hakime, kararını iki yıl içinde gözden geçirme yatkisini saklı tutar
+tarzda karar verebilmesi imkanı tanımaktadır.
+
+.TBK m.75
+....
+Bedensel zararın kapsamı, karar verme sırasında tam olarak belirlenemiyorsa
+hâkim, kararın kesinleşmesinden başlayarak iki yıl içinde, tazminat hükmünü
+değiştirme yetkisini saklı tutabilir. 
+....
+
+Hakim kararında bu yetkiyi saklı tutmamışsa verilen hükmün değiştirilmesi için
+dava açılamaz. Yeni zararların tazmini istenemez.
+
+Hakim kararında bu yetkisini saklı tutmuş olmasa dahi, haksız fiilin dava
+açıldığı sırada tahmin edilemeyen gelişmeler sonucu yol açtığı yeni zararlar
+için yeni tazminat davası açılabilir.
+
+Keza yaralama sebebiyle tazminat davası karara bağlandıktan sonra gerçekleşen
+ölüm üzerine, ölümün yol açtığı zararlar için ve destekten yoksun kalma
+açısından tazminat davası açılabilir.
+
+İleride gerçekleşmesi beklenen zararın örneğin çalışma gücünün kaybının yol
+açacağı zararın kapsamını tazminat kararını verirken yeterince tayin imkanı
+yoksa, örenğin çalışma gücünün kayıp oranını o sırada belirlemek mümkün
+değilse, davacı ister talep etmiş olsun ister olmasın hakim kararı gözden
+geçirme yetkisini saklı tutmalıdır.
+
+Gözden geçirme yetkisini saklı tutularak verilen karar, zararda artış olursa
+davacıya, zararda azalma olursa davalıya, hükmün değiştirilmesine yönelik yeni
+bir dava açma hakkı verir. Bu dava, önceki kararı veren mahkemede açılmalıdır.
+Böyle bir dava açılmadıkça, hakim önceki kararını kendiliğinden gözden
+geçiremez ve değiştiremez.
+
+==== 2. Geçici ödemeye hükmedilmesi 
+
+.TBK m.76
+....
+f.1 - Zarar gören, iddiasının haklılığını gösteren inandırıcı kanıtlar sunduğu
+ve ekonomik durumu da gerektirdiği takdirde hâkim, istem üzerine davalının
+zarar görene geçici ödeme yapmasına karar verebilir.
+....
+
+Bu hükümle açılan davada hakim henüz uyuşmazlığı çözmeden önce, bazı özel
+şartlarla, davacıya davalının miktar ödeme yapmasına karar verebilecek ve
+davalının da bunu derhal yerine getirmesi gerekecektir.  
+
+.. Zarar gören davayı açarken ve bunu takiben, mahkemeye haklılığını gösteren
+inandırıcı kanıtlar sunmuş olmalıdır. Bunların kesin delil niteliği taşıması
+gerekmez.
+.. Zarar görenin ekonomil durumu geçici ödemeyi gerektirmelidir. Elbette bu
+duruma dava konusu haksız fiil sebebiyle düşmüş olmalıdır. 
+.. Zarar gören hakimden geçici ödeme talebinde bulunmalıdır. Hakim bu kararı
+re'sen veremez.
+
+.TBK m.76
+....
+f.2 - Davalının yaptığı geçici ödemeler, hükmedilen tazminata mahsup edilir;
+tazminata hükmedilmezse hâkim, davacının aldığı geçici ödemeleri, yasal faizi
+ile birlikte geri vermesine karar verir. 
+....
+
+Geçici ödemeye ilişkin TBK m.76 hükümleri, sadece haksız fiil davalarında
+değil, TBK m.114/f.2 yollaması sonucu borca aykırılıktan doğan tazminat
+davalarında da uygulanacaktır.

@@ -1,0 +1,2889 @@
+= BORCUN İFA EDİLMEMESİNİN SONUÇLARI
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== 1- BORCUN İFA EDİLMEMESİNİN GENEL OLARAK SONUÇLARI
+
+=== I- GENEL BAKIŞ
+
+Borcun ifa edilmemesi hallerinin çeşidine göre sonuçları da değişmektedir.
+
+İfa imkansızlaşmışsa veya borç kötü ifa edilmişse bunun sonucu, bu yüzden doğan
+zararı borçlunun tazmin yükümlülüğünün doğması yani alacaklının, zararının
+tazminini talep ve dava edebilmesidir.
+
+Buna karşılık konusu belli bir edim borcu bulunup da bu borcun ifası mümkün
+oldukça, alacaklı gecikmiş ifayı talep ve dava etmek ve cebri icra yolu ile
+edimi elde etmek imkanına sahiptir. Böylece, ifada gecikmenin sonucu, bu
+gecşkme temerrüt şekline ister girmiş olsun ister olmasın, alacaklıya ifayı
+dava edip, edimi cebri icra yolu ile elde etmek imkanı vermesidir.
+
+Şayet gecikme temerrüt şekline girmiş ise, bu takdirde alacaklı sadece gecikmiş
+ifayı dava ve cebri icra yolu ile elde etmek değil, gecikme yüzünden uğradığı
+zararı da talep ve dava etmek imkanına sahiptir.
+
+Temerrüt karşılıklı edimler içeren sözleşmelerde gerçekleşirse, kanun
+alacaklıya, gecikmiş ifa ve gecikme tazminatı isteme hakkının yanında, ifadan
+vazgeçip, borcun ifası yerine tazminat isteme veya sözleşmeden dönme haklarını
+da tanımaktadır.
+
+Böylece borcun ifa edilmemesi kavramına giren çeşitli hallere genel hükümlerde
+bağlanan sonuçlar üç grupta toplanmaktadır: İfa davası ve cebri icra; tazminat
+davası; sözleşmeden dönme.
+
+=== II- İFA DAVASI VE CEBRİ İCRA
+
+Alacaklı muaccel ve mümkün olan bir borcun ifasını her zaman talep ve dava
+edebilir ve elde edeceği ilama dayanarak ifanın cebri icra yolu ile
+gerçekleştirilmesini sağlayabilir.
+
+==== 1- İfa davası (Eda davası)
+
+===== _a) Prensip_
+
+İfa davası ile alacaklı borçlunun ifaya mahkum edilmesini talep eder.
+
+İfa davası açılması için, borcun muaccel ve ifanın mümkün olması gerekir ve bu
+iki şartın bulunması ilke olarak yeterlidir. Gerçekten, ifa davasının açılması
+için borçlunun ne kusuru ne de temerrüde düşmüş olması şarttır.
+
+Kural olarak, ifası mümkün olan her türlü edim için ifa davası açılabilir ve
+hatta bu, alacaklının başvurabileceği biricik yoldur. Zira ifa mümkün olduğu
+süre alacaklı, ifa yerine tazminat istemek veya sözleşmeden dönmek hakkına
+kural olarak sahip değildir. İfa mümkün iken tazminat davası açan alacaklıya
+karşı borçlu ifayı arz etmek veya borcun ifa edileceğini ileri sürmek suretiyle
+itiraz edebilir. Bununla birlikte, ifa mümkün ilen tazminat davası açan
+alacaklıya karşı, borçlu, ifanın mümkün olduğu itirazını yapmazsa veya ispat
+edemezse, ifa yerine tazminata mahkum edilecektir.
+
+===== _b) İstisnalar_
+
+İfa mümkün oldukça, alacaklının ifa davası açabilmesi prensibinin iki yönde
+istisnaları vardır. Şöyle ki:
+
+Tarafların anlaşması veya bir kanun hükmü, alacaklıya, ifa yerine tazminat
+isteme veya sözleşmeden dönme hakkı tanımış ise, alacaklı, isterse ifayı talep
+eder; isterse kendisine tanınmış olan hakkı kullanır.
+
+Buna karşılık, ifanın mümkün olmasına rağmen ifa davasına izin verilmeyen bazı
+haller vardır ki bunlar da, kuralın diğer yönden istisnalarını teşkil ederler.
+
+====== aa- _Alacaklının ifa yerine tazminat isteyebilme veya sözleşmeden dönme yetkisi_
+
+Böyle bir yetki ya tarafların anlaşması ile tanınmış olabilir veya bir kanun
+hükmüne dayanır.
+
+Bu yetkinin kanun tarafından alacaklıya tanındığı hal, karşılıklı edimler
+içeren sözleşmelerde borçlu temerrüdüdür.
+
+====== bb- _Alacaklının ifa davası açamayacağı haller_
+
+Bu hallerde alacaklının ifa yerine tazminat isteme yetkisi değil, ifa yerine
+tazminatla yetinme zorunluluğu söz konusudur.
+
+... Maddi bakımdan ifa mümkün olmakla beraber, borçlunun ifaya mahkum
+edilmesini istemek dürüstlük kuralına (MK m.2), aykırı düştüğü takdirde,
+alacaklının sanki ifa imkansızlaşmış gibi ancak tazminat talep edebileceği
+kabul edilmektedir.
++
+Özellikle, borçlunun hayatını veya sağlığını, durumunun veya mesleğinin makul
+gösterdiğinden fazla bir tehlikeye sokan şahsi edimlerin ifasının
+beklenemeyeceği hallerde; ifa ile alacaklının elde edeceği çıkara karşılık, ifa
+için yapılacak masraf veya katlanılacak zararların aşırı derecede fazla olduğu
+hallerde ifayı beklemek ve ifaya mahkumiyeti istemek dürüstlüğe aykırı
+sayılmaktadır.
+... İfa yerine tazminat istemek veya sözleşmeden dönmek yetkisi bulunan
+hallerde, alacaklı, bu yetkilerinden birini kullandıktan sonra artık ifa talep
+edemez.
+... Sözleşmeden doğan bazı yan borçlar için ifa davası açılamayıp, ancak asli
+borcun kötü ifası sebebiyle tazminat talep edilebileceği ifa edilmektedir.
+
+==== 2- Cebri icra
+
+İstisnalar bir tarafa bırakılırsa, alacaklının açtığı ifa davasında hakim,
+borçluyu ifaya mahkum edecektir. Bu ilam üzerine borçlu borcu ifa ederse, sorun
+kalmaz. Aksi halde alacaklı cebri icra yoluna başvuracaktır.
+
+.. _Para borçlarının_ ifasında imkansızlık söz konusu olmaz. Hakim borçluyu
+ifaya mahkum edince bu ilam, borçlunun mallarının haciz veya iflas yolu ile
+paraya çevrilmesi suretiyle alacaklının para alacağının temini tarzında icra
+edilir. Şayet alacak rehinle teminat altına alınmışsa, rehnin paraya çevrilmesi
+suretiyle alacaklının alacağını elde etmesi sağlanır.
+.. Alacaklıya iadesi gerekip de borçlunun zilyedliğindeki _bir taşınır malın
+iadesi_ hususundaki ilamlar cebri icra teşkilatı tarafından malın borçludan
+alınıp alacaklıya teslim edilmesi suretiyle icra edilir (İc. İf. K. m.24).
++
+Taşınır bir malın mülkiyetini nakil borcuna ait ilamlar bakımından da malın
+teslimi kıyasen aynı hükme tabi olmak gerekir. Şu farkla ki, malın teslimi
+dışında ayrıca bir mülkiyetin geçmesi bakımından ilamın rolü vardır. Bu
+bakımdan ilam borçlunun rızasının yerini tutar.
++
+İlamda teslim edilmesi hüküm altına alınan mal borçlunun zilyedliğinde
+bulunmazsa, bu takdirde ifa imkansızlığı ile karşılaşılmış olmaktadır. Bu
+sebeple İcra ve İflas Kanunu, malın bedelinin tahsil edilmesini öngörmektedir
+(İc. İf. K. m.24/4). Bu, ifa imkansızlığı yüzünden alacaklının zararının
+tazmini anlamını taşır.
+.. _Taşınmaz mülkiyetinin nakli_ veya taşınmaz üzerinde _bir irtifak hakkı veya
+taşınmaz yükü kurulması_ hususunda verilen ilamların ayrıca cebri icrası söz
+konusu olmaz. Zira, mahkemenin hükmünün kesinleşmesi ile mülkiyet alacaklıya
+geçmiş veya söz konusu sınırlı ayni hak kurulmuş olur (MK m.716,780,795,840).
++
+Mahkeme ilamının icraya gerek kalmadan sonucu sağlaması _alacağın devrinde_ de
+görülür.
+.. _Yapma borçları_ için kanımızca cebri icra imkanı yoktur. Her ne kadar İcra
+ve İflas Kanununun 343. maddesi yalnız kendisi tarafından yapılacak olan bir
+işin yapılması hakkındaki ilam hükmüne makul mazerete dayanmaksızın uymayan
+borçlunun üç aya kadar hafif hapisle tazyik edilmesi imkanını öngörmüş ise de,
+bu, borcun cebre icrası demek değildir. Zira, borçlu hapisle tazyike rağmen
+borcu gene de ifa etmemiş ise, edim cebri icra vasıtasıyla elde edilmiş olmaz.
++
+[, Oğuzman & Öz]
+""
+Yapma borcunun mutlaka borçlu tarafından ifası gerekli değilse, bu takdirde İc.
+İf. K. m.30 ve TBK m.113, masrafı borçluya ait olmak üzere başkasına
+yaptırılması imkanını düzenliyor. Bu hükümlerde bir cebri icra niteliği gören
+fikre katılmıyoruz. Kanımızca bu halde alacaklının zararının tazmininin özel
+olarak düzenlenmiş bir şekli söz konusudur.
+""
+.. Yapma borçları içinde özellik arzeden bir grup borç vardır ki, o da _bir
+irade beyanında bulunma borcudur_.
++
+Şayet irade beyanına mahkumiyet hükmünün beyanın yerine geçeceği kabul
+edilirse, ilamın cebri icrası ihtiyacı ile karşılaşılmayacaktır. Aksi halde
+ise, diğer yapma borçlarında olduğu gibi, irade beyanına mahkumiyet ilamı da
+cebren icra edilmek imkanından yoksun bulunduğu için, alacaklı tazminat
+istemekle yetinmek zorunda kalacaktır.
++
+Bir ön sözleşmeden doğan borcun ihlali üzerine irade beyanına mahkumiyet asıl
+sözleşmenin yapılması anlamına gelecektir. Ancak taşınmaz satış vaadinde, bunun
+ötesinde sonuçlar doğacağı ileri sürülmektedir.
++
+Ön sözleşmeden doğan asıl sözleşmeyi yapma borcunun yerine getirilmemesi
+üzerine hakimin vereceği kararın, asıl sözleşmeyi kuran irade beyanının yerine
+geçeceği savunulabilir. Fakat, asıl sözleşmeden doğan borcun, ifası için de
+hukuki işlem yapılması gerekiyorsa, karar işlemin yerine geçmez. Ancak,
+Yargıtay, taşınmaz satış vaadinden doğan borcun ihlali üzerine, hakimin, sadece
+asıl sözleşmenin kurulmasına değil, MK m.716 uyarınca mülkiyetin geçmesine de
+karar verebileceğini kabul etmiştir.
++
+.MK m.716
+....
+Mülkiyetin kazanılmasına esas olacak bir hukukî sebebe dayanarak malikten
+mülkiyetin kendi adına tescilini istemek hususunda kişisel hakka sahip olan
+kimse, malikin kaçınması hâlinde hâkimden, mülkiyetin hükmen geçirilmesini
+isteyebilir.
+....
+.. _Yapmama borçlarının_ da cebri icrası mümkün değildir. Esas itibariyle,
+yapmama borcuna aykırı davranış bir imkansızlık yaratır. Bu sebeple alacaklının
+ifa davası açması söz konusu olmaz; o ancak borcun ihlali yüzünden uğradığı
+zararın tazminini talep edebilir (TBK m.113/2). Borcun ihlali yüzünden ortaya
+çıkan durumun ortadan kaldırılması mümkünse, tazminat, söz konusu durumun
+bertaraf edilmesi tarzında tespit edilir (TBK m.113/3).
++
+.TBK m.113
+....
+f.1 - Yapma borcu, borçlu tarafından ifa edilmediği takdirde alacaklı, masrafı
+borçluya ait olmak üzere edimin kendisi veya başkası tarafından ifasına izin
+verilmesini isteyebilir; her türlü giderim isteme hakkı saklıdır.
+f.2 - Yapmama borcuna aykırı davranan borçlu, bu aykırı davranışının doğurduğu
+zararı gidermekle yükümlüdür.
+f.3 - Alacaklı, ayrıca borca aykırı durumun ortadan kaldırılmasını veya bu
+konuda masrafı borçluya ait olmak üzere kendisinin yetkili kılınmasını
+isteyebilir.
+....
+
+=== III- TAZMİNAT DAVASI
+
+==== 1- Genel Bakış
+
+.TBK m.112
+....
+Borç hiç veya gereği gibi ifa edilmezse borçlu, kendisine hiçbir kusurun
+yüklenemeyeceğini ispat etmedikçe, alacaklının bundan doğan zararını gidermekle
+yükümlüdür.
+....
+
+.. _Borç hiç ifa edilmemiş veya gereği gibi ifa edilmemiş olmalıdır_.
+
+... Borcun hiç ifa edilmemiş olması _ifa imkansızlığını_ ifade eder. Çünkü ifa
+mümkün ise, borçlunun gecikmiş olarak arz edeceği ifayı alacaklı kural olarak
+kabule mecburdur ve alacağın malvarlığında yer almaya devam etmesi, bunun
+yerine tazminat istemeye engeldir. Bu halde alacaklının yapabileceği şey,
+temerrüdün şartları çerçevesinde, gecikme yüzünden uğradığı zararın tazminini
+istemektir.
++
+Şu halde alacaklı, borcun ifa edilmemiş olması halinde ancak borcun ifası
+imkansızlaşmışsa ifa yerine tazminat davası açabilir.
++
+Fakat alacaklı açacağı tazminat davasında borcun imkansızlaştığını ispatla
+yükümlü değildir. O, davasını borcun ifa edilmediği esasına dayandırmakla
+yetinebilir. Borcun ifa edildiğini veya ifanın arz edildiğini veya ifanın
+mümkün bulunduğunu ileri sürmek borçluya düşer. Borçlu, bu yolda bir itirazda
+bulunmadığı veya borcu ifa ettiğini veya ifasını arz ettiğini ispat edemediği
+takdirde, borcun ifa edilmemiş olması yüzünden alacaklının uğradığı zararı
+tazmine mahkum edilecektir.
++
+İfa mümkün olmasına rağmen alacaklıya ifadan vazgeçip tazminat isteyebilme
+hakkı, istisnaen karşılıklı edimler içeren sözleşmelerde borçlu temerrüdünde
+tanınmıştır (TBK m.125). Bu halde artık borçlu, ifayı arz etmek suretiyle
+alacaklının tazminat davasını bertaraf edemez.
++
+Buna karşılık, iki tarafa borç yükleyen sözleşmelerde, borçlu temerrüdü
+sebebiyle sözleşmeden döndüğü zaman (TBK m.125/2) alacaklının isteyeceği
+tazminat (TBK m.125/3) farklı esasa dayanır.
+... _Borcun gereği gibi ifa edilmemiş olması_ sebebiyle alacaklının tazminat
+isteyebilmesi bakımından,geç ifa ile diğer haller farklı esaslara tabidir.
++
+Borcun geç ifa edilmesi halinde alacaklının gecikme tazminatı isteyebilmesi,
+borçlunun temerrüde düşmüş olmasına bağlıdır. Halbuki borcun gereği gibi ifa
+edilmemiş olduğu diğer hallerde alacaklının tazminat isteyebilmesi ayrıca
+temerrüt şartına bağlı değildir.
+... _Sözleşme görüşmesinde kusurlu davranış_ (culpa in contrahendo) görüşme
+sırasında dürüstlük kuralından doğan borca aykırı davranışın da TBK m.112'nin
+uygulanmasına yol açacağı savunulmaktadır.
+
+.. Borcun hiç ifa edilmemesi veya gereği gibi ifa edilmemesinden _alacaklı bir
+zarara uğramış olmalıdır_.
++
+Alacaklı ancak, borcun hiç ifa edilmemesi veya gereği gibi ifa edilmemesi ile
+_uygun nedensellik bağı bulunan zararlarının_ tazminini isteyebilir.
+Nedenselliğin varlığını alacaklı ispat edecektir. İspat, işlerin normal
+gidişine ve yaşam deneyimlerine göre, söz konusu borca aykırı davranışın, söz
+konusu zararı yol açmaya elverişli olduğu hakkında hakimin ikna edilmesi ile
+olur. Borcun hiç ifa edilmemesi veya gereği gibi ifa edilmemesiyle uygun
+nedensellik bağı bulunan bütün zararlar tazminatın kapsamına girecektir.
+
+==== 2- Zarar şartı
+
+Maddi zarar, bir kimsenin malvarlığında rızası dışında meydana gelen azalmadır.
+
+Alacaklının borçludan, borcun hiç veya gereği gibi ifa edilmemesi sebebiyle
+tazminat isteyebilmesi için, bu yüzden bir zarara uğramış olması şarttır.
+
+Borç gereği gibi ifa edilse idi alacaklının uğramayacağı zarar, ifadan elde
+edeceği çıkara karşılık gelir ve buna *olumlu (müsbet) zarar* denilir. Bu
+zararın kapsamına alacaklının malvarlığında meydana gelen azalma (fiili zarar)
+ile yoksun kaldığı kar girer. Kötü ifa halinde korunan çıkarın ihlali de fiili
+zarardır.
+
+===== _a) Kavramlar_
+
+====== aa- _Olumlu zarar ve olumsuz zarar ayrımı_
+
+Olumlu (müsbet) zarar alacaklının, borcun ifasındaki çıkarının gerçekleşmemesi
+yüzünden uğradığı zararı ifade eder. Diğer bir deyişle, alacaklının
+malvarlığının borcun ifası halinde alacağı durum ilse, borcun ifa edilmemiş
+olması halindeki durumu arasındaki fark olumlu zarardır.
+
+Olumsuz zarar, hüküm doğurduğuna güvenilen bir sözleşmenin geçersiz olması veya
+kurulacağına güvenilen bir sözleşmenin kurulmaması yüzünden uğranılan zarardır.
+Güvenen kimsenin sözleşmenin hüküm ifade etmemesi veya kurulmaması halinde
+malvarlığının aldığı durum ile, bu olay hiç gerçekleşmese idi malvarlığının
+içinde bulunacağı durum arasındaki fark, olumsuz zararı ifade eder.
+
+Bir sözleşme ilişkisinde bir taraf diğer tarafın borcunu ifa etmemesi halinde
+ifadaki çıkarının tazminini isteyebilirken, bu sözleşmenin hükümsüzlüğü halinde
+ise, artık ifadaki çıkarının değil, sözleşmeye güvenmesi yüzünden uğradığı
+zararın tazminini isteyebilir.
+
+Hiçbir zaman ve hiçbir sebeple hem olumlu zararın hem de olumsuz zararın
+tazmini birlikte istenemez. Zira, olumlu zararın (ifaya olan çıkarın) tazminini
+isteyen, borç doğru dürüst ifa edilmiş olsaydı olumsuz zarar kapsamında yer
+alan kayıplara katlanacaktı. Öte yandan, olumsuz zararın tazmini
+istenebiliyorsa borç hükümsüz sayılıyor demektir ki hüküm ifade etmeyen borcun
+ifasına ilişkin çıkarın tazmini istenemez.
+
+Fakat kanun bazı hükümsüzlük hallerinde, olumsuz zararı aşan olumlu zararın
+tazmini için hakime yetki vermiş olabilir.
+
+====== bb- _Fiili zarar ve yoksun kalınan kar ayrımı_
+
+Fiili zarar malvarlığında meydana gelen azalmayı, yoksun kalınan kar ise
+malvarlığının artma imkanının kaybını ifade eder. Fiili zarar olumlu zarar
+tarzında da olumsuz zarar tarzında da ortaya çıkabilir. Malvarlığının azalması
+(fiili zarar), ya malvarlığının aktifinin azalması veya pasifinin artması
+şeklinde gerçekleşir.
+
+Kardan yoksun kalma tarzındaki zarar ise, alacaklının malvarlığının aktifinde
+çoğalma veya pasifinde azalma imkanının kaybedilmiş olmasıdır.
+
+TIP: Satın aldığı mal teslim edilse idi bunu başkasına 100.000 lira fazlasına
+satabilecek olan kimsenin, satıcının borcunu ifa etmemesi yüzünden elde etme
+imkanı kaybettiği 100.000 lira, onun yoksun kaldığı kardır. Kiralanan bir malı
+kiracının telef ederek iade edememesi halinde, kiralayanın o malın yerine başka
+bir mal koyuncaya (ikame edinceye) kadar yoksun kalacağı kira bedeli bu
+niteliktedir. Birisine ait borcu üzerine alacağını borçluya taahhüt edenin
+bunun gereğini yapmaması, borçtan kurtulma imkanının kaybedilmesi şeklinde bir
+kar kaybıdır. Her üç örnekte de olumlu zarar söz konusudur.
+
+TIP: (A), (B)'ye malını 120.000 liraya sattıktan sonra (C) malı (A)'dan 150.000
+liraya satın almaya talip olmuş fakat (A), (B) ile bağlandığını düşünerek
+teklifi reddetmişse ve (B) bu sözleşmeyi kendi kusuru ile düştüğü hata
+sebebiyle iptal ederse, (A) bundan sonra malı (Ü)'ye 140.000 liraya satarsa
+(A)'nın sözleşmeye güveni sebebiyle kaçırdığı 150.000 - 140.000 = 10.000
+liralık fark, kar kaybı tarzında bir olumsuz zarardır.
+
+====== cc- _Manevi zarar_
+
+Borca aykırı davranış bir manevi zarara da yol açmış olabilir. Manevi zarar,
+malvarlığında bir azalmayı değil, kişilik haklarına tecavüz dolayısıyla bir
+kimsenin duyduğu cismani ve manevi acı ve ızdırabı, elemi ve böylece yaşama
+zevkinde bir azalmayı ifade eder. İşte borca aykırı davranış, alacaklının
+kişilik haklarını ihlal ederek bu tarz bir zarara yol açmış olabilir.
+
+TBK m.114/2'de "Haksız fiil sorumluluğuna ilişkin hükümler, kıyas yoluyla
+sözleşmeye aykırılık hallerine de uygulanır" tarzında yapılan atfın kapsamına
+manevi zararın tazmini de girmektedir. Bu husus öğretide ve mahkeme
+içtihatlarında kabul edilmektedir. Böylece, haksız fiillerde manevi zararın
+tazminini düzenleyen genel hüküm niteliğindeki TBK m.58 ve bedensel zarar veya
+adam ölmesi halinde manevi zararı düzenleyen TBK m.56, kıyasen borca aykırılık
+yüzünden uğranılan manevi zararlar için de uygulanacaktır.
+
+Fakat tazminat talebine, haksız fiil zamanaşımı (TBK m.72) değil, borca
+aykırılıktaki zamanaşımı (TBK m.146 vd.) uygulanacaktır. Zira borca
+aykırılıktan sorumluluk söz konusudur.
+
+===== _b) Zararın ispatı ve hsap tarzı_
+
+====== aa- _Zararın ispatı ve miktarının belirlenmesi_
+
+Borçlunun tazminata mahkum edilebilmesi için kural olarak alacaklı borca
+aykırılık yüzünden uğradığı _zararı ispatla yükümlüdür_.
+
+Fakat çoğu zaman alacaklı ancak zarara uğradığını ispat edebilirse de bu
+zararın gerçek miktarını ispat etmesi zor hatta bazen imkansız olabilir.
+
+Bu takdirde hakim, TBK m.114/2'de yapılan yollama gereğince, haksız fiillerde
+zararın miktarını belirlemeye ilişkin esası uygulayacaktır. Bu hususta TBK
+m.50/2 "Uğranılan zararın miktarı tam olarak ispat edilemiyorsa hakim,
+olayların olağan akışını ve zarar görenin aldığı önlemleri göz önünde tutarak,
+zararın miktarını hakkaniyete uygun olarak belirler" demektedir. 
+
+WARNING: Hakim ancak, alacaklı tarafından varlığı ispat edilen zararın, ispat
+edilemeyen miktarını takdir edecektir. Bir zarara uğradığı konusunda inandırıcı
+delillerle ispat yükünü yerine getirmek alacaklıya düşer.
+
+====== bb- _İfa imkansızlığında (TBK m.112) ve borçlu temerrüdünde ifa yerine tazminat istenen durumlarda (TBK m.125/2) zararın hesabı, değişim ve fark teorileri_
+
+Zararın hesabı tek tarafa borç yükleyen sözleşmeler bakımından daha basit bir
+iş olduğu halde, iki tarafa borç yükleyen --özellikle karşılıklı edimler
+içeren-- sözleşmeler bakımından tartışma konusu bazı sorunlar ortaya
+çıkarmaktadır. Bunların başında, bir tarafın borcunu ifa etmemesi halinde,
+zararın alacaklının kendi edimi de gözönünde tutularak mı, yoksa sadece
+borçlunun ifa edilmeyen edimi gözönünde tutularak mı hesap edileceği sorusu
+gelmektedir.
+
+... Bu hususta, _mübadele (değişim) teorisi_, her iki edimi ayrı ele almakta,
+zararın sadece ifa edilmeyen edim gözönüne alınarak hesaplanacağını ve
+hükmedilecek tazminatla alacaklının ediminin değiş tokuş (mübdaele) edileceğini
+kabul etmektedir. Buna karşılık, _fark teorisine_ göre, alacaklının zararı, ifa
+edilmeyen edimin değeri ile kendi karşı ediminin değeri arasındaki fark olarak
+kabul edilmelidir.
+... Fark teorisi ile değişim teorisini uzlaştırmaya çalışan görüşler de vardır.
+Örnek olarak, alacaklıya fark veya değişim teorilerine göre yapılacak
+hesaplamalardan dilediğini seçme hakkı tanımak; karşı taraf (tazminat
+alacaklısı) henüz kendi edimini ifa etmemişse fark teorisini, ifa etmişse
+değişim teorisini uygulamak şeklindeki görüşler böyledir.
+... Fark teorisinin yararlı yanı, işlemleri basitleştirmesi ve tazminat
+alacaklısını kendi borcunu ifadan kurtarması olarak görünmektedir. Buna
+karşılık, fark teorisinin sakıncalı yanı, tazminat alacaklısının vermekten
+kurtulduğu kendi edimini esasen ifa edemeyecek durumda olmasına yahut çok daha
+karlı şekilde değerlendirmesine rağmen, bunu gizleyerek tazminat
+isteyebilmesidir. Değişim teorisi uygulanırsa, bu tehlike önlenmiş olacaktır.
++
+TIP: Her iki teorinin farkı şu örnekte görülür: Bir mal değişimi (trampa)
+sözleşmesi uyarınca, (A) sahibi olduğu apartman dairesinin mülkiyetini (B)'ye
+geçirecek, buna karşı (B) de son model otomobilinin mülkiyetini (A)'ya
+devredecektir. Dairenin değeri 300.000 TL, otomobilin değeri 400.000 TL'dir.
+(B) otomobilinin teslimini kusuruyla imkansızlaştırmışsa veya kusuruyla
+temerrüde düştüğü için (A) TBK m.125/2 uyarınca ifadan vazgeçerek tazminat
+istemişse; (B), (A)'nın olumlu zararını tazmin borcu altına girmiştir. Değişim
+teorisi uygulanırsa, (A) otomobilin değeri olan 400.000 TL'yi (B)'den
+isteyebilecek, buna karşılık kendi dairesini (B)'ye devretme borcu devam
+edecektir. Fark teorisi uygulanırsa, (A) artık dairesini (B)'ye devretme
+borcundan kurtulacak, buna karşılık (B)'den sadece otomobilin değerinin
+dairenin değerinden fazla kısmı olan 400.000 - 300.000 = 100.000 TL tazminat
+isteyebilecektir.
++
+Belirtilmesi gereken bir başka nokta, tazminat isteyecek tarafın ediminin daha
+değerli olması durumunda, değişim teorisinin uygulanmasındaki sorundur.
++
+TIP: Yukarıdaki örnekte, (B)'nin 400.000 liralık otomobilinin değil de (A)'nın
+300.000 liralık dairesinin kusurlu imkansızlığa uğradığı veya (A)'nın temerrüdü
+üzerine (B)'nin ifa yerine tazminat istediği kabul edilirse; fark teorisinin
+uygulanması halinde, tazminat istemeye kalkan (B) aleyhine edimler arasında bir
+fark bulunmadığından (tersine, (B) lehine bir fark bulunduğundan), (A)'nın borç
+ihlalinden (B) zarar görmemiş demektir ve tazminat isteyemez. (B), 400.000
+liralık otomobilini vermekten kurtulmakla yetinecektir (Bu (B) için kötü bir
+sözleşmeden kurtulma fırsatı olarak da değerlendirilebilir). Oysa, buraya
+değişim teorisini uygulanınca, (B)'nin, alacağı daire yerine 300.000 lira
+tazminat isterken kendi 400.000 liralık otomobilini (A)'ya teslim borcunun
+devam ettiği sonucuna varılır. Bunun, karsız bir sözleşmeden kurtulamadığı
+gibi, amaçladığından tamamen farklı bir şey almak zorunda kalacak olan (B) için
+isabetli bir sonuç olduğu söylenemez.
++
+Tazminat talep edenin kendi edimini ifa ettikten sonra bu talebi ileri sürdüğü
+durumlarda da fark teorisi uygulanmak istenirse; edimler arasındaki değer
+farkının istenmesi yanında, yerine getirilen edimin iadesi de gerekecektir. Bu
+takdirde, bu edimi iade yükümüne, TBK m.136/2 hükümlerine kıyasen sebepsiz
+zenginleşme kuralları uygulanmalıdır.
++
+.TBK m.136/2
+....
+Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan kurtulan
+borçlu, karşı taraftan almış olduğu edimi sebepsiz zenginleşme hükümleri
+uyarınca geri vermekle yükümlü olup, henüz kendisine ifa edilmemiş olan edimi
+isteme hakkını kaybeder. Kanun veya sözleşmeyle borcun ifasından önce doğan
+hasarın alacaklıya yükletilmiş olduğu durumlar, bu hükmün dışındadır.
+....
++
+Fark teorisinin bu şekilde ifadan sonra dahi uygulanması görüşü kabul edilse
+bile; eğer tazminat talep edenin vaktiyle yerine getirdiği edim aynen iade
+edilemez nitelikte ise veya sonradan aynen iadesi imkansızlaşmışsa, burada
+kaçınılmaz şekilde değişim teorisinin sonuçları uygulanacaktır.
+... Borçlar Kanununda fark teorisinin açıkça benimsendiği iki hal, satım
+sözleşmesinde alıcının veya satıcının borçlu temerrüdüne düşmesinde olumlu
+zararın tazmini halleridir (TBK m.213 ve 236).
++
+.TBK m.213
+....
+f.1 - Borcunu ifa etmeyen satıcı, alıcının bu yüzden uğradığı zararı gidermekle
+yükümlüdür.
+f.2 - Satıcı borcunu ifa etmezse alıcı, satış bedeli ile kendisine
+devredilmeyen satılanın yerine, bir başkasını satın almak için dürüstlük
+kurallarına uygun olarak ödediği bedel arasındaki farka göre hesaplanacak
+zararın giderilmesini isteyebilir.
+f.3 - Satılan, borsada kayıtlı veya piyasa fiyatı bulunan mallardan ise alıcı,
+onun yerine bir başkasını satın alma zorunda olmaksızın, satış bedeli ile
+belirlenmiş ifa günündeki piyasa fiyatı arasındaki farka göre hesaplanacak
+zararın giderilmesini isteyebilir.
+....
++
+.TBK m.236
+....
+f.1 - Borcunu ifa etmeyen alıcı, satıcının bu yüzden uğradığı zararı gidermekle
+yükümlüdür.
+f.2 - Satıcı, satış bedelini ödemede temerrüde düşmüş olan alıcıdan, bu bedel
+ile satılanın başkasına dürüstlük kurallarına uygun olarak satışından elde
+ettiği bedel arasındaki farka göre hesaplanacak zararın giderilmesini
+isteyebilir.
+f.3 - Satılan, borsada kayıtlı veya piyasa fiyatı bulunan mallardan ise satıcı,
+böyle bir satışa gerek kalmaksızın alıcıdan, satış bedeli ile malın belirlenmiş
+ödeme günündeki fiyatı arasındaki farka göre hesaplanacak zararın giderilmesini
+isteyebilir.
+....
++
+Bu hükümlere göre, bir taraf temerrüde düşerse, diğer taraf borçlunun ediminin
+değeri ile kendi ediminin değeri arasındaki farkın tazminini talep
+edebilmektedir.
++
+Kanun, farkın tespiti için satıcının ediminin değerinin tespiti bakımından iki
+ayrı metodu öngörmüş bulunmaktadır.
++
+Birinci metod, _somut (müşahhas) metod_ olarak ifade edilmektedir. Buna göre
+satıcının temerrüdünde alıcının, satış konusu mal yerine başkasından satın
+aldığı mala ödediği bedel satıcının ediminin değeri olarak kabul edilmekte ve
+sözleşmede kararlaştırılmış bedelle bu değer arasındaki farkın tazminini alıcı
+talep edebilmektedir (TBK m.213/2). Alıcının bedeli ödemede temerrüdü sebebiyle
+ifa yerine istenecek tazminatta ise, satıcının malı başkasına satarak elde
+ettiği bedel kendi ediminin değeri olarak kabul edilmekte ve sözleşmede
+kararlaştırılan bedelle bu değer arasındaki farkın tazminini satıcı talep
+edebilmektedir (TBK m.236/2). Somut metodla hesaplanan zarara _somut (müşahhas)
+zarar_ denilmektedir.
++
+İkinci metod _soyut (mücerret) metod_ olarak anılmaktadır. Buna göre, satılan
+mal borsada kayıtlı olan veya cari fiyatı bulunan mallardan ise, satıcının
+temerrüdünde alıcı, yeni mal stın alma zorunda kalmadan; alıcının temerrüdünde
+satıcı, malı satmaya mecbur kalmadan, vadedeki cari fiyatı satılan malın değeri
+olarak kabul edip, satış sözleşmesindeki bedelle malın değeri arasında lehine
+olan farkı talep edebilir (TBK m.213/3, 236/3). Soyut metodla hesaplanan
+_zarara soyut (mücerret) zarar_ denilmektedir.
++
+Alacaklının, zararının somut veya soyut metoda göre hesaplanandan fazla olduğu
+ispat etmesi veya borçlunun gerçek zararın somut veya soyut metoda göre
+hesaplanandan az olduğunu ispat etmesi halinde, ispat olunan zarar esas alınır.
+Zarar fark teorisi uyarınca tespit edilemiyorsa genel hükümler (TBK m.114/2
+yollamasıyla m. 50/2) uygulanır.
++
+Karşılıklı edimleri içeren sürekli borç ilişkilerinde, gerek değişim teorisi
+gerekse fark teorisine ilişkin somut ve soyut metodlar, sadece, borcun
+borçlunun kusuruyla imkansızlaştığı veya alacaklının ifadan vazgeçerek tazminat
+istediği andan sonraki edimler için söz konusu olur.
+
+====== cc- _Zararın hesabında esas alınacak tarih_
+
+Fark teorisinin uygulanması bakımından imkansızlıkta, sözleşmede karşılıklı
+edimlerin değer farkına ait zarar, ifa edilmeyen borcun ifasının
+imkansızlaştığı tarih esas alınarak hesap edilmektedir.
+
+[, Oğuzman & Öz]
+""
+Diğer zararların, hakimin karar vereceği tarih esas alınarak, hesaplanması
+bizde de uygun gözükmektedir. Şüphesiz ki ancak, borca aykırılıkla uygun
+nedensellik bağı bulunan zararlar gözönüne alınacaktır.
+""
+
+Hüküm tarihinde henüz gerçekleşmemiş olup da, sonra gerçekleşeceği belli
+bulunan zararlar da hesaba katılır. Fakat önceden tespit edilemeyen gelecekteki
+zararlar gözönüne alınmaz. Şayet borca aykırılık bedensel bir zarara yol
+açmışsa hakim TBK m.114/2'nin yollaması uyarınca TBK m.75'deki yetkisini
+kullanabilir.
+
+.TBK m.75
+....
+Bedensel zararın kapsamı, karar verme sırasında tam olarak belirlenemiyorsa
+hâkim, kararın kesinleşmesinden başlayarak iki yıl içinde, tazminat hükmünü
+değiştirme yetkisini saklı tutabilir.
+....
+
+====== dd- _Mahsup_
+
+Borcun ifa edilmemesinden veya kötü ifasından alacaklı bir taraftan zarara
+uğrarken diğer taraftan bazı menfaatler elde etmişse, _bu menfaatlerin_ zarar
+hesap edilirken, gözönüne alınarak, _zarardan mahsup edilmesi (denkleştirme)_
+gerekir. Şu kadar ki, elde edilen menfaatle borcun ifa edilmemesi veya kötü
+ifası arasında uygun nedensellik bağı bulunmalıdır.
+
+===== _c) Zararın tazmini yerine *kaim değerin* istenmesi_
+
+Alman Hukukundan esinlenen bir görüş, imkansızlaşan edimin borçlusu bu sayede
+bir kaim değer (telef olan malın sigorta bedeli; malın üçüncü kişiye satılıp
+teslim edilmesi karşılığı alınan bedel; haksız fiille edimi imkansızlaştıran
+üçüncü kişiden elde edilen tazminat alacağı vb.) elde ederse, alacaklının
+tazminat yerine bunu isteyebileceği şeklindedir. Ayrıca, alacaklı zararının bu
+kaim değerden fazla olduğunu ispat ederse, kaim değerin yanı sıra bu fazla
+kısmın tazminini de isteyebileceği kabul edilmektedir. Gene, karşılıklı edimler
+içeren sözleşmelerde fark teorisinin uygulanmayıp (imkansızlaşan edimin kaim
+değeri ile alacaklının kendi ediminin değeri arasındaki fark istenmeyip)
+değişim teorisinin uygulanması (kaim değerin tam olarak istenmesine karşılık
+alacaklının kendi ediminin ifası gerektiği) kabul edilmekte, bunun talebin
+niteliğine daha uygun düştüğü belirtilmektedir.
+
+WARNING: Kaim değerin talep edilmesi daha çok *borçlunun sorumlu olmadığı
+(kusursuz) ifa imkansızlığı* (TBK m.136) bakımından incelenmiştir.
+
+==== 3- Borcun ifa edilmemesinden sorumluluk
+
+Alacaklının, borcun ifa edilmemesi yüzünden uğradığı zararın tazminini
+borçludan talep edebilmesi için, borçlunun borcun ifa edilmemesinden sorumlu
+olması gerekir.
+
+.TBK m.112
+....
+Borç hiç veya gereği gibi ifa edilmezse borçlu, kendisine hiçbir kusurun
+yüklenemeyeceğini ispat etmedikçe, alacaklının bundan doğan zararını gidermekle
+yükümlüdür.
+....
+
+Kanun, borçlunun sorumluluğu için, kusuru bulunmasını aramış fakat kusurun
+varlığında da karine olarak kabul etmiştir. Borçlu bu karineyi çürütmedikçe
+kusurlu sayılacak ve kusurlu sayıldığı için de sorumlu olacaktır.
+
+Haksız fiillerdeki durumun tersine, borçlunun kusursuzluğunu ispatla yükümlü
+tutulmasının hukuksal matığı, borcun ifasını engelleyen olay ve durumlar kendi
+faaliyet alanında gerçekleştiği için borçlunun bunları daha iyi bilecek durumda
+olmasıyla açıklanmaktadır.
+
+Sorumluluk prensip olarak kusura bağlanmış olmakla beraber, prensibin iki yönde
+de, istisnaları bulunmaktadır. Gerçekten, bir taraftan borçlunun kusuru
+bulunmasına rağmen sorumlu olmadığı haller vardır, diğer taraftan da borçlunun
+kusuru bulunmadığı ve bunu ispat edebileceği halde sorumlu tutulduğu haller
+mevcuttur. Nihayet borçlu sadece kendi borca aykırı davranışlarında değil,
+yardımcılarının fiilinden de sorumlu tutulmuştur.
+
+Borçluyu kusursuzluğunu ispat ile yükümlü tutan hüküm emredici değildir.
+Taraflar ispat yükünü değiştirerek alacaklının borçlunun kusurunu
+ispatlamadıkça tazminat isteyemeyeceğini kararlaştırabilirler.
+
+Cezai şart kararlaştırılan sözleşmelerde ceza tutarını aşan zararın tazmini
+istenirken TBK m.180/2 uyarınca ispat yükü kendiliğinden yer değiştirir ve
+alacaklı borçlunun kusurunu ispatla yükümlü olur.
+
+===== _a) Prensip_
+
+Prensip, borçlunun kusursuzluğunu ispat edememesi hakinde sorumlu olmasıdır.
+Böylece, borçlu kusuru bulunduğu hallerde sorumlu olduğu gibi, kusuru bulunmasa
+bile kusursuzluğunu ispat edemediği hallerde de sorumludur. Kusursuzluk
+karinesini çürütemediği için kusurlu sayılacaktır.
+
+Şu halde sorumluluğa ait prensip bakımından, bir taraftan kusur kavramı, diğer
+taraftan da kusursuzluğun nasıl ispat edilebileceği önem taşımaktadır.
+
+====== aa- _Kusur kavramı_
+
+Borçlu, borca aykırı sonucu tasarlayarak ve arzu ederek veya bu sonucu göze
+alarak hareket ettiği yahut borca aykırı sonucu önlemek için gerekli özeni
+göstermediği takdirde kusurludur.
+
+Borca aykırı sonucu tasarlayarak ve arzu ederek veya sonucu göze alarak hareket
+ettiği zaman *kastı*, gerekli özeni göstermediği zaman da *ihmali* söz konusu
+olur.
+
+Kusurdan söz edebilmek için failin ayırt etme gücü bulunmalıdır. Ancak, ayırt
+etme gücünün nisbi (göreceli) olduğu unutulmamalı, her borç ihlalinin niteliği
+bakımından ayrıca incelenmelidir.
+
+Borçlunun sorumluluğu için kusurun derecesi önemli değildir. Her tür ve
+derecede kusur borçlunun sorumlu tutulmasına yeter (TBK m.114). Bununla
+birlikte TBK m.114/1'de ifade edildiği üzere "... İş özellikle borçlu için bir
+yarar sağlamıyorsa, sorumluluk daha hafif olarak değerlendirilir". Kaldı ki,
+sorumluluk için istisnaen bazı hallerde borçlunun kasdını veya ağır kusurunu
+şart kılmıştır. Bunun dışında kusur derecesi, tazminat miktarının belirlenmesi
+ve sorumluluğu daraltan anlaşmaların geçerliliği bakımından önem taşır.
+
+Borçlunun gerekli özeni göstermiş olup olmadığı kanun ve sözleşme hükümleri
+ile, dürüstlük kuralı ve bu gibi işlerde kabul edilmiş davranışlar göz önünde
+tutularak her olayın özelliklerine göre fakat objektif olarak tayin
+edilecektir.
+
+Bununla birlikte; kanun bazı hallerde gösterilecek özeni, borçlunun kendi
+işlerinde gösterdiği özen olarak subjektif bir esasa tabi tutmuştur (MK m.368,
+TBK m.628). Çok zaman bu ölçü, borçlunun objektif olarak kusurlu sayılacakken
+subjektif olarak kusurlu sayılmamasına yol açar.
+
+Bu hükümlerden de esinlenerek, bütün borç ihlallerinde, borç ilişkisi
+kurulurken alacaklının bilmesi gereken borçlunun subjektif özellikleri dikkate
+alınarak kusurlu bulunup bulunmadığına karar verilmesi, genellikle benimsenen
+görüştür.
+
+Buna karşılık TTK m.18/2, "Her tacirin, ticaretine ait bütün faaliyetlerinde
+basiretli bir iş adamı gibi hareket etmesi gerekir." demektedir. Böylece
+tacirler için özen ölçüsü ağırlaştırılmış olmaktadır.
+
+====== bb- _Borçlunun kusursuzluğunu ispat etmesi_
+
+Alacaklı, borcu ifa etmeyen borçlunun kusurlu olduğunu ispatla yükümlü
+değildir. Borcun ifa edilmediğini veya kötü ifa edildiğini ispat eden
+alacaklıya karşı borçlu sorumlu olmamak için borcun ifa edilmemesinde kusuru
+bulunmadığını ispata mecburdur. Borçlu bunu ispat edemezse, aslında kusuru
+bulunmasa dahai sorumlu olacaktır.
+
+Borçlu aşağıdaki hususlardan birini ispat ederek kusuru bulunmadığını ispat
+etmiş olur:
+
+... Borçlu borcun ifa edilmemesinde _ayırt etme gücü bulunmadığı için kusurlu
+sayılamayacağını ispat edebilir_. Fakat borçlu kendi kusuruyla geçici olarak
+ayırt etme gücünü kaybetmişse ve bu sırada borca aykırı davranmışsa, kıyasen
+uygulanacak TBK m.59 uyarınca sorumlu olur. Keza, ayırt etme gücünden devamlı
+olarak mahrum kimsenin borçlarının kanuni temsilcisi tarafından ifası gerekir.
+Kanuni temsilcinin borcu ifa etmemesinden ayırt etme gücü bulunmayan borçlu
+sorumludur. Fakat ödeyeceği tazminat için kanuni temsilciye rücu edebilir.
+... _Borçlu, borcun varlığını bilmediğini ve bilmemekte mazur olduğunu ispat
+ederse_ gene borcun ifa edilmemesinde kusurlu olmadığı kabul edilir.
+... Borcun ifa edilmemesinin, _fevkalade halden, mücbir sebepten veya alacaklı
+yüzünden ileri geldiğini ispat ederse_, borçlu kusuru bulunmadığını ispat etmiş
+olur ve borcun ifa edilmemesinden sorumlu tutulmaz.
++
+Mücbir sebep veya beklenmedik hal ifayı imkansız kılmışsa borçlu imkansızlıktan
+sorumlu değildir. Fakat mücbir sebep veya beklenmedik hal borcun zamanında
+ifasına engel olmuş ise ve artık ifa mümkünse, borçlu, gecikmeden sorumlu
+olmaz, fakat halen ifası mümkün olan borcu ifa ile yükümlüdür.
++
+Fevkalade hal ve mücbir sebep farklı kavramlar olmakla beraber, kusursuzluğun
+ispatı bakımından farkın önemi yoktur. Ancak tarafların anlaşması veya kanun
+icabı borçlunun fevkalade halden de sorumlu olduğu ve borcun ifa edilmemesinin
+mücbir sebepten ileri geldiğini ispatla sorumluluktan kurtulabildiği hallerde,
+fevkalade hal ve mücbir sebep ayrımı önem taşır.
++
+_Fevkalade hal_ borçlunun kaçınamayacağı şekilde borcu ihlal etmesine sebep
+olan bir olaydır.
++
+Buna karşılık _mücbir sebep_ ise borçlunun borcu ihlal etmesine mutlak olarak
+kaçınılmaz şekilde sebep olan dışsal bir olaydır.
+... Borçlu, _gerekli bütün özeni gösterdiğini ispat etmek suretiyle de_ kusuru
+bulunmadığını ortaya koyabilir. Mesleki bir faaliyete ilişkin bir edimi taahhüt
+eden kişinin şahsi bilgi ve görgüsünün ifa içn gereken özeni göstermeye
+eleverişli olmadığını bilmesine rağmen borç altına girmesi, başlı başına
+özensiz bir davranış sayılabilir.
+
+===== _b) Kusura bağlı sorumluluğun daraltılması_
+
+====== aa- _Kanun tarafından daraltma_
+
+Kanun bazı borca aykırı davranışlardan borçlunun sorumlu tutulmasını, ağır
+kusuru bulunmasına bağlamıştır.
+
+Bunun tipik örneğini bağışlayanın sorumluluğunu düzenleyen TBK m.294 teşkil
+etmektedir. Bu hükme göre, bağışlayan bağışlamadan bağışlanan tarafın uğradığı
+zararları ancak ağır kusuru (kastı veya ağır ihmali) varsa sorumlu olur.
+
+====== bb- _Anlaşma ile daraltma_
+
+Taraflar yapacakları anlaşma ile borçlunun sorumluluğunu daraltabilirler. Buna
+*sorumsuzluk anlaşması* denmektedir. Gerçekten TBK m.115/1, tersten ifade
+ederek, borçlunun hafif kusuru halinde borca aykırılıktan sorumlu olmayacağı
+yolunda sözleşmeye kayıt konulabileceğini kabul etmektedir. Taraflar borcu
+doğuran sözleşmeye daha yapılırken bu yolda bir kayıt koyabilecekleri gibi,
+sonradan da bu hususta anlaşabilirler.
+
+Asıl borç ilişkisini kuran sözleşme kanunen bir şekle tabi ise, borçlunun
+sorumsuzluğuna ilişkin anlaşma, sözleşme yapılırken söz konusu olursa,
+sübjektif esaslı nokta teşkil ettiği için, sonradan söz konusu olursa
+sözleşmede değişiklik teşkil ettiği için, asıl sözleşmenin şekline tabi olmak
+gerekir. Bu çözüm, şeklin amacına ve sorumsuzluk anlaşmalarında alacaklının
+korunması gereğine de uygundur. Asıl sözleşme bir şekle tabi değilse,
+sorumsuzluk anlaşması da kanunen bir şekle tabi değildir.
+
+Fakat ancak borca aykırı davranıştan önce yapılan anlaşmalar bu niteliktedir.
+Borca aykırı davranışla sorumluluk doğduktan sonra, borçlunun tazminat
+yükümlülüğünü bertaraf etmek veya azaltmak için tarafların yapacağı anlaşma,
+sorumsuzluk anlaşması değil, bir sulh veya ibra teşkil eder ve böyle bir
+anlaşma sadece hafif kusur için değil, her türlü kusuru kapsayacak şekilde de
+yapılabilir.
+
+Halbuki, sorumluluğu önceden daraltan anlaşmalarla, borçlunun ağır kusurundan,
+yani kasdı veya ağır ihmalinden sorumlu olmayacağının kararlaştırılması,
+sözleşmeye bu yolda kayıt konulması hükümsüzdür.
+
+.TBK m.115/1
+....
+Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşma
+kesin olarak hükümsüzdür.
+....
+
+Bir sözleşmedeki bu tarz bir kaydın geçersizliği halinde, borçlunun TBK
+m.27/2'ye dayanarak sözleşmenin tümünün geçersizliğini ileri sürmesine izin
+verilmemekte, sadece sorumluluğu daraltan kayıt hükümsüz sayılmaktadır.
+
+Sözleşmelere konulan kayıt genellikle borçlunun ağır kusurundan sorumlu
+olmayacağı biçiminde değil de, borçlunun hiçbir kusurundan sorumlu olmayacağı
+tarzında ifade edilir. Bu takdirde böyle bir kayıt sadece hafif kusurda
+sorumluluğu bertaraf etmek üzere hüküm ifade edecektir, fakat ağır kusurda
+sorumluluğa etkisi olmayacaktır. Ağır kusurda sadece sorumluluğu bertaraf eden
+değil, tazminatı sınırlandıran veya talep şartlarını ağırlaştıran anlaşmalar da
+TBK m.115/1 uyarınca hükümsüzdür.
+
+Kanun, borçlunun hafif kusurundan sorumlu olmamasına dair anlaşmalar için de
+iki sınırlama koymuştur. Bu hallerde hafif kusurdan sorumluluğu kaldıran
+anlaşma kesin hükümsüz sayılacaktır (TBK m.115/2,3):
+
+... _Alacaklı, hafif kusurdan borçlunun sorumlu olmayacağını kabul ettiği
+sırada borçlunun hizmetinde idiyse_, borçlunun hafif kusurundan sorumlu
+olmayacağına dair anlaşma hükümsüzdür (TBK m.115/2).
++
+.TBK m.115/2
+....
+Borçlunun alacaklı ile hizmet sözleşmesinden kaynaklanan herhangi bir borç
+sebebiyle sorumlu olmayacağına ilişkin olarak önceden yaptığı her türlü anlaşma
+kesin olarak hükümsüzdür.
+....
+... _Sorumluluk, kanun ya da yetkili makamlar tarafından verilen izinle
+yürütülen bir hizmet, meslek veya sanat faaliyetinden doğuyorsa_, gene
+borçlunun hafif kusurundan sorumlu olmayacağına dair anlaşmalar geçersiz
+sayılacaktır (TBK m.115/3).
++
+.TBK m.115/3
+....
+Uzmanlığı gerektiren bir hizmet, meslek veya sanat, ancak kanun ya da yetkili
+makamlar tarafından verilen izinle yürütülebiliyorsa, borçlunun hafif
+kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşma kesin olarak
+hükümsüzdür.
+....
+
+===== _c) Kusuru bulunmadığı halde borçlunun sorumluluğu_
+
+====== aa- _Kanun gereği_
+
+... Borçlunun kusuru bulunmadan kanun tarafından sorumlu tutulduğu hallerin bir
+kısmı, aslında daha önceki _borca aykırı davranışının beklenmeyen sonuçlarından
+sorumluluktan ibarettir_. 
++
+TIP: Ödünç aldığı şeyi başkasına kullandırmak suretiyle borcuna aykırı davranan
+kimse malın kaza sonucu hasara uğramasından sorumludur (TBK m.380/3). Keza
+kendisine emanet edilen malı, emanet edenin onayı olmadan kullanan kimse
+beklenmedik halden gerçekleşen zararlardan da sorumludur (TBK m.563/2). Nihayet
+daha genel hüküm olarak, borcunu ifada temerrüde düşen borçlu beklenmedik hal
+sebebiyle doğacak zaradan da sorumludur. Borçlu ancak beklenmedik halden doğan
+zararla daha önceki borca aykırı davranışı arasında nedensellik bağı
+bulunmadığını ispat ederek sorumluluktan kurtulabilir. Kanunun bu hususta
+kullandığı formül, borca aykırı davranmasaydı dahi alacaklının aynı zarara
+uğrayacağını borçlunun ispat etmesidir (TBK m.119/2, 380/3, 563/2).
+... Yukarıda belirtilenlere karşılık _kanun, borçluyu, daha önce borca aykırı
+davranışı bulunmayan bazı hallerde de sorumlu tutmuştur_. Bunların bir kısmı
+borçlunun beklenmedik hal sonucu doğan zarardan sorumluluğudur. Borçlu ancak
+zararın mücbir sebepten veya alacaklı yüzünden veya malın niteliğinden
+doğduğunu ispat ederek sorumluluktan kurtulabilir.
+... Satım sözleşmesinde TBK m.229/b.3 ve eser (istisna) sözleşmesinde TBK
+m.472/1 hükümleri, bazı şartlarla, _verilen veya yapılan şeydeki (edimdeki)
+ayıpların doğrudan doğruya verdiği zararlardan satıcının veya yüklenicinin
+(müteahhidin) kusursuz olarak sorumlu olacağını düzenlemiştir_.
+... Nihayet hakimin _hakkaniyet gerektirince_, ayırt etme gücü bulunmadığı için
+kusuru söz konusu olmayan borçluyu, --TBK m.114/2'deki yollama dolayısıyla
+kıyasen uygulanacak TBK m.65 uyarınca-- borca aykırı davranışından doğan
+zarardan sorumlu tutması mümkündür.
+... _Borçlunun_, kendi kusurlu davranışı bulunmamasına rağmen, _yardımcılarının
+fiilinden sorumluluğu_ da kusura dayanmayan sorumluluk olarak zikredilebilir.
+
+====== bb- _Anlaşma sonucu_
+
+Kusuru bulunmasa dahi borçlunun borcun ifa edilmemesinden sorumlu olacağı
+hususunda _tarafların anlaşmış olmaları halinde_, sorumluluk için kusur
+aranmayacaktır. Gerçi bu gibi sözleşmelerde çok zaman, borçlunun, beklenmedik
+halden doğan zarardan sorumlu olacağı fakat zarar mücbir sebepten doğmuş ise
+sorumlu olmayacağı kararlaştırılır.
+
+Borçlunun her türlü zarardan sorumluluğu_ hususundaki anlaşmalar için, kanun
+herhangi bir hüküm ve bu arada TBK m.27 dışında herhangi bir sınırlama
+koymamıştır. Şu kadar ki, yapılan anlaşma dürüstlük kuralına aykırı
+düşmemelidir.
+
+===== _d) Yardımcıların fiilinden borçlunun sorumluluğu_
+
+TBK m.116, bir borcun ifasına yardımcı olarak katılan kişilerin borçlunun
+borcuna aykırı davranarak alacaklıya verdikleri zarardan da borçlunun sorumlu
+olacağını ifade etmektedir. Aynı esas, borçluya ait bir hakkın kullanılmasına
+katılanların yol açtıkları zararlar için de kabul edilmiştir.
+
+.TBK m.116
+....
+f.1 - Borçlu, borcun ifasını veya bir borç ilişkisinden doğan hakkın
+kullanılmasını, birlikte yaşadığı kişiler ya da yanında çalışanlar gibi
+yardımcılarına kanuna uygun surette bırakmış olsa bile, onların işi
+yürüttükleri sırada diğer tarafa verdikleri zararı gidermekle yükümlüdür.
+f.2 - Yardımcı kişilerin fiilinden doğan sorumluluk, önceden yapılan bir
+anlaşmayla tamamen veya kısmen kaldırılabilir.
+f.3 - Uzmanlığı gerektiren bir hizmet, meslek veya sanat, ancak kanun veya
+yetkili makamlar tarafından verilen izinle yürütülebiliyorsa, borçlunun
+yardımcı kişilerin fiillerinden sorumlu olmayacağına ilişkin anlaşma kesin
+olarak hükümsüzdür.
+....
+
+Böyle bir sorumluluğun söz konusu olması için:
+
+.. _Borçlu borcun ifasında veya borç ilişkisinden doğan bir hakkın
+kullanılmasında yardımcı kişi kullanmış olmalıdır_
+
+... _Borcun ifasında_
++
+Yardımcı kişi kavramının kapsamına, borcun ifasında borçluya yardım edenler
+girdiği gibi, borçlunun borcun ifasını tamamen kendilerine bıraktığı ve *ikame
+edilen şahıs* adı verilen kimseler de girer. Bir kimsenin yardımcı kişi
+sayılması için, borçlunun emri altında olması veya borçluya bir sözleşmeyle
+bağlı bulunması şart değildir.
++
+Yardımcı kişi bir gerçek kişi olabileceği gibi bir tüzel kişi de olabilir.
+Ayrıca, yardımcı kişinin yardımcı kişi kullandığı durumlarda da borçlu TBK
+m.116 uyarınca sorumlu olmalıdır. Zira, borçlunun izni ve bilgisi dışında tayin
+edilmiş olsa da, ikinci yardımcı kişinin verdiği zarar ilk yardımcı kişinin
+tayininin bir sonucudur.
++
+Bir kimsenin yardımcı kişi sayılması için, bunun borcun ifasına katılmasının
+borçlunun onayına dayanması hem zorunlu hem de yeterlidir. Borçlunun onayı
+dışında borcun ifasına katılan kimse yardımcı şahıs sayılmaz ve bu şahsın
+fiiline TBK m.116 uygulanmaz. Fakat yardımcı kişiyle borçlu arasında bir
+sözleşme bulunması şart değildir. Keza, borçlunun onayı olmaksızın ifaya
+karışan kişiye borçlu zarara yol açan davranışından sonra *fiilini
+onayladığını* bildirse de, TBK m.116'ya göre kusursuz sorumlu olmaz. Yardımcı
+kişiye onay en geç zarar doğuran fiilinden önce verilmiş olmalıdır (Burada TBK
+m.46 uyarınca yetkisiz temsilcinin işleminin sonradan onanmasındaki gibi bir
+geçmişe etkili hukuki sonuç doğmaz).
++
+Bazı hallerde borcu doğuran sözleşme, ifayı gerçekleştiren yardımcı tarafından
+yapılmış olabilir.
++
+Bir kimse tamamen rastlantı sonucu bir borcun ifasına katılmış olsa bile bu
+yardım borçlunun onayına dayandığı takdirde, o kimse yardımcı kişi sayılır.
+Hatta borçlunun onayı ile borcun ifasına yardım eden kişi, alacaklının emrinde
+çalışan bir kimse de olabilir.
++
+TIP: Alacaklının ikametgahında ifa edilecek bir mal teslimi borcunun ifasını
+talep için alacaklı bir çalışanı ile borçluya haber gönderse, borçlu da eşyayı
+götürmesini gelen kişiden rica etse, alacaklınınçalışanı olan bu kişi, malın
+alacaklının yerleşim yerine götürülmesi bakımından borçlunun yardımcısı
+durumundadır. Bu malı yolda düşürüp kırarsa, bu zarardan borçlu sorumludur.
++
+[, Oğuzman & Öz]
+""
+Şu kadar ki, yardımcı kişi, alacaklının tek başına seçip ifada rol almasını
+borçluya sözleşme ile kabul ettirdiği bir kişi ise, kanımızca artık onun
+fiillerinden borçlu TBK m.116 uyarınca kusursuz sorumlu olmamalıdır. Aksine
+sonuç, bu maddenin konuluş sebebi ve amacı ile çelişir.
+""
+... _Hakkın kullanılmasında_
++
+Kanun, borç ilişkisinde bir tarafa ait bir hakkın kullanılmasına veya bu haktan
+yararlanmaya o tarafın onayı ile katılan kimselerin verdikleri zarardan da
+hakkı kullandıranı sorumlu tuttuğu için; sözü geçen kimseler de hakkın
+kullanılması bakımından yardımcı kişi sayılırlar. Fakat hak sahibinin onayı
+dışında hakkı kullananlar yardımcı kişi sayılmazlar. 
++
+Gerekli davranış bakımından da yardımcı kişiden sorumluluk hükmünün uygulanması
+kabul edilmektedir. 
++
+TIP: Borca aykırılıktan veya haksız fiilden doğan bir zararı mağdurun
+arttırmama yükümünün, yardımcı kişi tarafından ihlali halinde, tazminat
+alacaklısının (mağdurun) kusursuz olmasına rağmen bu artan zarar kısmının
+tazminini isteyemeceği kabul edilmektedir. Burada bir borcun ifası veya hakkın
+kullanılması değil, bir *gerekli davranış* yardımcı kişiye bırakılmıltır.
+... _Organların ve kanuni temsilcilerin durumu_
++
+Tüzel kişiler bakımından gerek borcun ifasında gerek hakkın kullanılmasında,
+tüzel kişinin organları yardımcı kişi değildir. Bunların fiili doğrudan tüzel
+kişinin fiili sayılır. Fakat tüzel kişinin organları dışındaki personeli, ifası
+kendileri bırakılan borçlar veya kullanılmasına katıldıkları haklar bakımından
+yardımcı kişidir.
++
+Borçlunun borcunu ifa eden veya hakkın kullanılmasına katılan kanuni temsilcisi
+de, borçlunun onayı dışında hareket eden bir kimse olarak yardımcı kişi
+sayılmaz. Fakat kanuni temsilcinin davranışları için de kıyasen TBK m.116'nın
+uygulanması savunulmaktadır. Buna karşı, bu kıyas yapılırken, kusursuz
+sorumluluğun kanunumuzda istisnai bir durum olduğu gözönünde tutularak dar
+yorumla kıyas yapılması, sadece kanuni temsilcinin kusursuzluğu ispat
+edilemezse temsil olunanın sorumlu tutulması düşünülebilir. Zira ehliyetsiz
+kişi kendi iradesiyle kanuni temsilcisini seçmemiştir. Onu mutlak şekilde
+kusursuz sorumlu tutmak yerine hiç olmazsa temsilcinin kusurundan dolayı
+(temsilciye rücu edebileceği durumlarda) sorumlu tutmak daha adil sayılabilir.
+.. _Borcun ifasında yardımcı kişi kullanılması borca aykırı olmamalıdır_.
++
+Şayet yardımcı kişi kullanılması borca aykırı ise borçlu, yardımcının ika
+ettiği zarardan esasen TBK m.112 uyarınca sorumlu olur. Zira borçlu kendisinin
+borca aykırı davranışı ile uygun nedensellik bağı bulunan bütün zararlardan
+sorumludur. Borçlunun borca aykırı şekilde kullandığı yardımcının alacaklıya
+verdiği zarar bu niteliktedir.
++
+Borçlunun yardımcı kullanmasının borca aykırılığı, ye esasen yardımcı
+kullanmaya izin bulunmamasından veya yardımcı kullanmaya izin bulunmakla
+beraber yardımcı kullanmakta gerekli özeni göstermemiş olmasından ileri
+gelebilir. Bu hallerde borçlu TBK m.112 uyarınca sorumludur.
++
+Buna karşılık, yardımcı kullanılması hukuka uygun olup da, borçlu gerekli özeni
+de göstermişse, artık yardımcının verdiği zarardan borçluyu TBK m.112 uyarınca
+sorumlu tutmak mümkün olmaz. İşte TBK m.116 bu eksikliği tamamlamakta ve borcun
+ifasında *kanuna uygun surette* kullanılan yardımcının verdiği zarardan
+borçlunun sorumlu olacağını kabul etmektedir.
++
+Aynı esas, borçluya ait hakkın kullanılmasına katılanlar için de söz konusudur.
+Şayet borçluya ait hakkın başkalarına kullandırılmasına izin yoksa, borçlu,
+hakkı başkalarına kullandırmakla borcuna aykırı davranmış olur ve TBK m.112
+uyarınca sorumludur. Fakat başkalarının hakkı kullanmaları borca aykırı
+değilse, bu kişilerin hakkı kullanırken verdikleri zarardan borçlunun
+sorumluluğu TBK m.116'ya tabidir.
+.. _Yardımcı kişi, borçlunun borcuna aykırı bir davranışla alacaklıya zarar
+vermiş olmalıdır_.
++
+Borçlu, yardımcının alacaklıya verdiği her türlü zararlardan değil, ancak
+kendisi için borcunun ihlali niteliği taşıyan fiillerle verilen zararlardan
+sorumludur.
++
+Buna göre, bir borç ilişkisinde borcun kapsamının bilinmesi ve bir davranışın
+borcun ihlali (borca aykırılık) sayılıp sayılmayacağının tespiti gerekir. Şayet
+zarar verici fiil, borcun ihlali niteliğinden olmayıp da, sadece borcun ifası
+vesilesiyle işlenmiş olan ve fakat borç ilişkisi dışında kalan bir fiil ise,
+borçlu zarardan TBK m.116'ya göre sorumlu olmaz.
++
+Yardımcı kişinin alacaklıya verdiği zarar, borçlunun borcunu ihlal teşkil
+etmemekle beraber TBK m.66'nın kapsamına giriyorsa, borçlu borç ilişkisi
+dolayısıyla değil, haksız fiil hükümlerine göre sorumlu olur.
++
+Mesafe satımlarında satıcının üzerindeki hasar sorumluluğu malı göndermekle
+sona erdiğinden (TBK m.208/3) taşıyıcının bundan sonraki davranışından dolayı
+TBK m.116 uyarınca kusursuz sorumluluk söz konusu olmaz. Taşıma faaliyetleri
+borcun kapsamı dışındadır ve taşıyıcı ifa yardımcısı değildir. Borçlu sadece
+taşıyıcıyı seçmede kusurlu ise sorumlu tutulabilir.
++
+Culpa in contrahendo sorumluluğu çerçevesinde yardımcı kişinin verdiği zararda
+da sorumluluğun temelinin borca aykırılık olduğu kabul edilirse TBK m.116
+uyarınca kusursuz sorumluluk bulunduğu sonucuna varılır.
++
+Borçluya ait hakkın kullanılmasında yardımcının verdiği zarar da borç
+ilişkisinin ihlali niteliği taşıdığı takdirde, borçlu TBK m.116'ya göre sorumlu
+olur.
+.. _Borçlu, borç bizzat kendisi tarafından ifa edilse ve zarar verici
+davranışta bizzat bulunsa idi, sorumlu tutulabilecek olmalıdır_
++
+Bunun anlamı, TBK m.116'nın borçlunun kusuruna bağlı bir sorumluluk olması
+demek değildir. Yardımcı kişinin verdiği zararda borçlunun bir kusuru bulunmasa
+dahi, o bu zarardan sorumludur.
++
+Keza TBK m.116'nın uygulanması, yardımcı kişinin kusuru bulunmasına da bağlı
+değildir.
++
+Bir kimsenin emrinde çalışan kişinin o kimsenin işlerini görürken işlediği
+haksız fiilden adam çalıştıranın TBK m.66'da düzenlenen sorumluluğundan farklı
+olarak, borcun ifasında yardım kişi kullanan kinmse, yardımcıyı seçmede, ona
+talimat vermede ve gözetimde denetimde gereken özeni gösterdiğini ispat etmek
+suretiyle de TBK m.116'ya dayanan sorumluluktan kurtulamaz.
++
+Fakat şayet borç bizzat borçlu tarafından ifa edilse idi, zarara yol açan
+fiilde borçlu kusurlu sayılmayacak ve sorumlu olmayacak idiyse, sırf bir
+yardımcıya başvurdu diye sorumlu tutulması için sebep yoktur.
++
+TIP: (A)'ya ait eşyaları taşımak borcu altındaki (B), şoförü (Ş) idaresindeki
+kamyonla borcunu ifa ederken bu kamyon (Ü) idaresindeki başka bir kamyonla
+çarpışmış ve kamyondaki eşyalar hasara uğramışsa, şayet çarpışmada kusur
+tamamen (Ü)'ye aitse, kamyonunu bizzat (B) idare etse idi kusurlu sayılması ve
+sorumlu olması söz konusu olamayacağından, kamyonu (Ş) kullandığı için sorumlu
+tutulması makul karşılanamaz.
++
+Bu durumda alacaklının daha fazla korunması için bir sebep yoktur. Fakat borcu
+bizzat kendisi ifa etseydi davranışının kusurlu sayılmayacağını ispat etmekle
+borçlu yükümlüdür.
++
+Fakat bu farazi değerlendirme yapılırken, borçlunun mevcut kişisel bilgi ve
+yetenekleri değil, yardımcı kişiye bıraktığı iş için gerekli bilgi ve
+yetenekler esas alınacaktır. Aksi takdirde, uzmanlık alanına girmeyen bir işi
+yardımcı kişiye yaptıran borçlu, bu yardımcısının verdiği zararları tazminden
+rahatça kurtulabilirdi.
++
+Şu halde, yardımcı kişinin kusuru bulunmaması harici ve nesnel sebeplere
+dayanıyorsa, borçlu sorumlu olmayacaktır. Buna karşılık borca aykırı davranışta
+yardımcının kusuru bulunmaması onun şahsına has sebeplerle dayanıyorsa borçlu
+sorumlu olacaktır. Zira borcun yardımcı şahsa bırakılmasının riskine borçlu
+katlanmalıdır.
++
+Yukarıda açıklanan esas, bugün öğretide baskın olan ve İsviçre Federal
+Mahkemesince de uygulanan görüşe dayanmaktadır. Bununla birlikte öğretide, TBK
+m.116'da kusurdan hiç bahsedilmediği gerekçesiyle, borcun ifasında yardımcı
+şahsın fiilinden doğan zarardan borçlunun her durumda istisnasız sorumlu
+tutulması gerektiği görüşünü savunanlar da mevcuttur.
++
+Bu görüş yardımcı kişinin kusurlu olması halinde borçlunun her halde sorumlu
+tutulacağı hususu ile karıştırılmamalıdır.
++
+Eğer borçlu tüzel kişi ise, baskın görüş doğrultusunda bu tüzel kişinin
+yardımcı kişisinden dolayı sorumlu olup olmayacağı araştırılırken, bu tüzel
+kişinin yetkili organlarını oluşturan gerçek kişilerim bizzat ifada bulunmaları
+halinde sorumluluğun söz konusu olup olmayacğına bakılacaktır.
+.. _Yardımcıların fiilinden borçlunun sorumluluğunu kaldıran veya daraltan
+anlaşma bulunmamalıdır_.
++
+Borçlunun kendi fiilinden sorumluluğunu daraltan anlaşmadan (TBK m.115/1)
+farklı olarak burada, yardımcının ağır kusurundan borçlunun sorumlu olmayacağı
+kararlaştırılabilmektedir.
++
+Fakat TBK m.116/3 uyarınca artık hükümde sayılan özel durumlarda yardımcının
+her tülü kusurundan borçlunun sorumlu olmayacağını ifade eden anlaşmalar hafif
+kusur için dahi geçersiz sayılacaktır.
++
+TBK m.115/2'de *hizmet sözleşmesi* bakımından getirilen istisnaya ise TBK
+m.116/3'de yer verilmemiştir.
++
+Alacaklının borçlu dışında ayrıca ifa yardımcısına da borca aykırılık veya
+haksız fiil hükümlerine göre başvurabildiği durumlarda, ifa yardımcısının
+kendisinin taraf olmadığı sorumsuzluk anlaşmasına hafif kusurlu da olsa
+dayanamayacağı baskın görüştür. Buna karşılık sosyal düşüncelerden hareketle,
+özellikle işçi olan ifa yardımcıları bakımından, kendisinden tazminat istenen
+ifa yardımcısının da sorumsuzluk kaydına dayanmasını savunanlar vardır.
+
+==== 4- Hükmedilecek tazminat
+
+===== _a) Genel olarak_
+
+Borçlu sorumluluk şartları gerçekleştiği takdirde, borcun hiç veya gereği gibi
+ifa edilmemesinden alacaklının uğradığı zararı tazmin edecektir. Tazminatın
+tarzını ve miktarını taraflar kararlaştırmış olabilirler. Bu husustaki anlaşma
+borca aykırılıktan önce yapılırsa cezai şart anlaşması, borca aykırılıktan
+sonra yapılırsa sulh anlaşması niteliğindedir.
+
+Tarafların anlaşması yoksa, tazminatın tarzını ve miktarını hakim tayin
+edecektir. Zararı aşan bir tazminat söz konusu olamaz. Meğer ki kanun zarara
+bağlı olmaksızın bir götürü tazminat esasına yer vermiş olsun.
+
+TIP: Para borçlarında borçlu temerrüdü halinde gecikme tazminatını ifade eden
+temerrüt faizi alacaklının zararı daha az olsa da ödenecektir.
+
+Tazminatın miktarı zarar miktarından daha az olabilir. Zira TBK m.114/2'deki
+yollama uyarınca kıyasen uygulanacak haksız fiil tazminatı kurallarına göre
+borçlunun kusur derecesini gözönüne alarak hakim, tazminat miktarını belirler
+(TBK m.51). Ayrıca, hakim *işin özel niteliğini* dikkate alacak ve özellikle
+*iş borçlu için bir yarar sağlamıyorsa* tazminat miktarını daha düşük olarak
+tayin edecektir (TBK m.114/1). Nihayet hakim, alacaklının birlikte kusuru
+varsa, buna göre tazminatı indirecektir (TBK m.52).
+
+Tazminatın biçimini de hakim tayin eder. Genellikle tazminat, bir miktar para
+olarak tayin edilir. Fakat durumun özelliğine göre başka bir tazmin tarzına da
+hükmedilebilir. 
+
+===== _b) Yapma borçlarında_
+
+.TBK m.113/1
+....
+Yapma borcu, borçlu tarafından ifa edilmediği takdirde alacaklı, masrafı
+borçluya ait olmak üzere edimin kendisi veya başkası tarafından ifasına izin
+verilmesini isteyebilir; her türlü giderim isteme hakkı saklıdır.
+....
+
+Böylece, alacaklı dilerse, yerine getirilmemiş bir yapma borcunun borçlusuna
+karşı ifa davası açar ve alacağı ilamı icraya koyar. Borçlu borcu ifa ederse
+sorun kalmaz. İfa etmezse, artık yeni bir ilama gerek kalmaksızın İc. İf. K.
+m.30'a göre alacaklının zararı tazmin ettirilir. Yani işin başkasına
+yaptırılması masrafları borçludan tahsil edilir.
+
+Alacaklı dilerse, borçluya karşı TBK m.113 uyarınca tazminat davası açar.
+Borçlu ancak borcu ifa etmek suretiyle ifanın mümkün olduğunu ispat ederek bu
+maddeye göre karar verilmesine engel olabilir. Aksi halde borçlu TBK m.113
+uyarınca işin başkasına yaptırılması masraflarını tazmine mahkum edilecektir.
+Bu mahkumiyet alacaklının işi başkasına yaptırma iznini de kapsayacaktır.
+Alacaklının bu masraf dışında, borçlunun borcu ifa etmemiş olmasından doğan
+başka zararı varsa, borçlu bu zararı da tazmine mecburdur.
+
+Yapma borçlarına ilişkin TBK m.113/1 hükmünün kıyasen bazı verme borçları
+ihlallerinde de uygulanması önerilmiştir. Özellikle, kendisine ait olmayan şeyi
+satan ve bu yüzden teslim edemeyen borçludan, bu malı sahibinden satın alma
+bedelinin TBK m.113/1 hükmüne kıyasen istenmesi, mümkün görülmüştür.
+
+Alacaklı TBK m.113/1 uyarınca hakimden karar almadan işi başkasına yaptırırsa,
+bu hükme dayanarak tazminat isteyemeyecekse de, borçlunun, borca aykırı
+davrandığını ve zararının miktarını tespit ederek TBK m.112 uyarınca (veya
+şartları varsa TBK m.125/2 uyarınca) tazminat isteyebilir.
+
+===== _c) Yapmama borçlarında_
+
+.TBK m.113
+....
+f.2 - Yapmama borcuna aykırı davranan borçlu, bu aykırı davranışının doğurduğu
+zararı gidermekle yükümlüdür.
+f.3 - Alacaklı, ayrıca borca aykırı durumun ortadan kaldırılmasını veya bu
+konuda masrafı borçluya ait olmak üzere kendisinin yetkili kılınmasını
+isteyebilir.
+....
+
+Görüldüğü üzere, 2. fıkrada nakdi bir tazminatın söz konusu olmasına karşılık, 
+3.fıkrada, borca aykırılığın ortaya çıkardığı zararın yani *taahhüde aykırı
+olarak yapılan şeyin* fiilen bertaraf edilmesi tarzında bir tazmin şekli
+düzenlenmiştir. Ancak, üçüncü kişilerin taraf olduğu işlemlerin bu hükme
+dayanarak iptali istenemez.
+
+==== 5- Üçüncü kişinin zararını tazmin
+
+Kural olarak borç ilişkisinin alacaklı ile borçlu arasında bir bağ teşkil
+ettiği fikri, üçüncü kişinin zararının tazmininin borçludan istenmesine engel
+oluşturur. Meğer ki, üçüncü kişi yararına bir sözleşme veya üçüncü kişiyi
+koruyucu etkili sözleşme söz konusu olsun.
+
+Bazı hallerde ise kanun, bir sözleşmeye taraf olmayan kimselere, borçlunun
+sözleşmeye aykırı davranışından uğradıkları zararları için borca aykırılık
+esaslarına göre tazminat isteme hakkı tanımıştır.
+
+TIP: TBK m.417/3 uyarınca, işçinin ölümü halinde, yakınlarının destekten yoksun
+kalma tazminatı ve manevi tazminat talepleri, borca aykırılık hükümlerine tabi
+olacaktır.
+
+==== 6- Tazminat talebinin zamanaşımı
+
+Tazminatın, imkansızlaşan borcun biçim değiştirmiş bir devamı olduğunu kabul
+edenler, bu tazminat talebinin, asıl borcun zamanaşımına tabi olduğunu ifade
+etmektedirler.
+
+[, Oğuzman & Öz]
+""
+Bize göre borca aykırılığın her şeklinde tazmin yükümlülüğü, borcun ihalinden
+doğan yeni bir boçtur ve ayrı bir hüküm bulunmadıkça, TBK m.146 uyarınca 10
+yıllık zamanaşımına tabidir ve zamanaşımı borca aykırılığın gerçekleştiği
+tarihten itibaren işlemeye başlar.
+""
+
+Şayet borç, muacceliyetinden önce imkansızlaşmışsa tazminat alacağının
+zamanaşımı imkansızlık tarihinden itibaren işlemeye başlar. Yapmama borçlarında
+borca aykırılık olmadıkça borç ifa eidliyor demektir ve zamanaşımı söz konusu
+olmaz. Borca aykırı davranılırsa, ihlal tarihinden itibaren zamanaşımı işlemeye
+başlar.
+
+==== 7- Sözleşmeden doğan sorumlulukla haksız fiil sorumluluğunun yarışması (telâhuku)
+
+===== _a) Sorunun çözümü_
+
+Zarar veirici fiil aynı zamanda hem borca aykırılık hem de haksız fiil teşkil
+ettiği takdirde, mağdurun faile karşı hangi sorumluluk esasına dayanabileceği
+sorusu ile karşılaşılır.
+
+TIP: (A)'dan otomobilini kiralayan (B) bu otomobili bir ağaca çarparak hasara
+uğratırsa, hem kira sözleşmesinden doğan özen borcuna aykırı davranmış, hem de
+kiralayan (A)'nın malını tahrip etmekle haksız fiil işlemiş olur. (A)'nın hangi
+esasa dayanarak zararını (B)'ye tazmin ettirebileceği tartışmalı bir konudur.
+
+Kuşkusuz olan nokta mağdurun aynı zararı iki ayrı esasa dayanarak iki defa
+tazmin ettiremeyeceğidir. Tartışmalı olan nokta, mağdurun, borca aykırılık veya
+haksız fiil sorumluluğundan dilediğine dayanıp dayanamayacağıdır.
+
+Bazı yazarların borca aykırılık esasına dayanma imkanı varken haksız fiil
+sorumluluğuna dayanılamayacğını savunmalarına, bazılarının ise haksız fiil
+esaslarına üstünlük tanımalarına karşılık, hakim oan görüş, şartları
+gerçekleşen iki sorumluluğun yarışacağını (telahuk edeceğini) ve mağdurun
+dilediği esasa dayanabileceğini kabul etmektedir. Fakat kısmen bir esasa kısmen
+diğer esasa dayanılmasına izin yoktur. Faile karşı hangi sorumluluk esasına
+dayanılmışsa, o esasın bütün hükümleri uygulanır.
+
+===== _b) Haksız fiil sorumluluğu ile borca aykırılıktan doğan sorumluluğun farkları_
+
+Kural olarak, haksız fiil sorumluluğunda mağdur failin kusurunu ispata mecbur
+olduğu halde (TBK m.49), borca aykırılıkta sorumluluktan kurtulmak için borçlu
+kusursuzluğunu ispat zorundadır (TBK m.112).
+
+Şayet her iki tip sorumluluğa yol açan zarar borçluya bağımlı olarak çalışan
+bir yardımcısı tarafından verilmişse, onu çalıştıran TBK m.66'ya dayanan
+sorumluluktan, böyle bir zararın doğmaması için *çalışanını seçerken, işiyle
+ilgili talimat verirken, gözetim ve denetimde bulunurken gerekli objektif özeni
+gösterdiğini, ayrıca işletmenin çalışma düzeninin de böyle bir zararın
+doğmasını önlemeye elverişli olduğunu* veya *bunlardan birinin eksikliği ile
+doğan zarar arasında nedensellik bağı bulunmadığını* ispat ederek kurtulabilir.
+Halbuki TBK m.116'ya dayanan sorumlulukta bu mümkün değildir.
+
+Borca aykırılıkta, işin borçlu için bir yarar sağlamaması sorumluluğun *daha
+hafif olarak değerlendirilmesine* sebep oluştururken (TBK m.114/1), haksız fiil
+sorumluluğunda böyle bir hüküm yoktur.
+
+Borca aykırılık halinde tazminat davası, kural olarak on senelik zamanaşımına
+(TBK m.146) tabi iken, haksız fiil sorumluluğunda tazminat davası, zararı ve
+faili öğrenmeden itibaren iki senede ve fiilin işlenmesinden itibaren on senede
+zamanaşımına uğramaktadır (TBK m.72). Fakat suç oluşturan bir haksız fiilden
+doğan tazminat davasının zamanaşımı TBK m.72/1 uyarınca on seneden fazla ise,
+bu takdirde haksız fiil zamanaşımı borca aykırılıktakinden daha uzundur.
+
+Borca aykırılıkta sorumluluğun sözleşmeyle daraltılması mümkün iken (TBK m.115,
+116/2), haksız fiil sorumluluğunda buna izin yoktur. Haksız fiilde ancak,
+mağdurun önceden zarara razı olmasının, duruma göre fiilin hukuka aykırılığını
+kaldırması veya birlikte kusur sayılarak tazminatı azaltması, söz konusu
+olabilir. Fakat aynı fiilin hem borca aykırılık hem haksız fiil oluşturması
+halinde, sorumluluğu daraltmak için sözleşmeye konulmuş kayıtların, haksız fiil
+sorumluluğu açısından da hüküm ifade edeceği ve alacaklının seçiminin bu
+hususta borçlunun durumunu ağırlaştıramayacağı çoğunlukla kabul edilmektedir.
+
+Görüldüğü üzere, alacaklı için borçlusunu borca aykırılık hükümlerine göre
+sorumlu tutmak haksız fiil hükümlerine göre sorumlu tutmaktan çoğu kez daha
+elverişlidir. Zira borca aykırılıkta borçlu kusursuzluğunu ispat zorunda
+kalmakta, zamanaşımı çoğu kez daha uzun olmakta ve yardımcı kişiden
+sorumlulukta kurtuluş kantı getirememektedir.
+
+=== IV- SÖZLEŞMEDEN DÖNME
+
+Sözleşmeden dönme hakkı, borcun ifa edilmemesi bakımından karşılıklı edimleri
+içeren (tam iki taraflı) sözleşmelerde ifanın borçlunun ifa güçsüzlüğü
+sebebiyle tehlikeye düşmesi üzerine TBK m.98'de ve borçlu temerrüdü üzerine TBK
+m.106/2,3'de bu borcun alacaklısına tanınmış; bazı şartlarla alacaklı temerrüdü
+üzerine TBK m.110'da ve borcun ifasına engel bazı sebeplerle TBK m.111'de
+borçluya tanınmıştır. Ancak, bu hükümler arasında sözleşmeden dönmenin
+sonuçları sadece borçlu temerrüdündeki sözleşmeden dönmeye ilişkin TBK m.125/3
+hükmünde düzenlendiğinden, buradaki sonuçlar niteliğine ters düşmedikçe diğer
+hükümlere göre sözleşmeden dönme durumlarında da uygulanacaktır.
+
+Bu hakkın tanınması ile, sözleşmenin kurulduğu andaki durumun tekrar sağlanması
+amaçlanmıştır. Böylece, her iki taraf kendi edimini yerine getirmekten
+kurtulacak, yerine getirmişse --duruma göre-- aynen veya nakden geri
+isteyebilecektir.
+
+Sürekli edimler içeren borç ilişkilerinde ise, sözleşmeden dönmenin o ana kadar
+yerine getirilmiş edimleri geri verdirici etkisi hem pratik değildir hem de
+adalete ters düşer. Bu yüzden, sürekli edimler içeren sözleşmelere ilişkin bazı
+özel hükümlerde ve borçlu temerrüdüne ilişkin TBK m.126 hükmünde, bir
+sözleşmeyi sona erdirme hakkının şartları gerçekleştiğinde, bu tür borç
+ilişkilerinin sona erdirme bildiriminden itibaren ileriye etkili olarak sona
+ermeleri düzenlenmiştir.
+
+Böylece, sözleşmeyi sona erdirme beyanına kadarki döneme ilişkin edim yükümleri
+geriye etkili olarak ortadan kalkmayacak ve bunlar ifa edilmişse geri
+istenemeyecektir. İşte bu ileriye etkili bozma bildirimine *sözleşmenin feshi*
+veya kısaca *fesih* denilmektedir. Feshe ilişkin genel hüküm niteliğindeki TBK
+m.126, ifasına başlanmış sürekli edimli sözleşmelerde fesih halinde sözleşmenin
+ileriye etkili sona ermesiyle tutarlı olarak, olumlu zarar niteliğindeki
+zararların tazminini öngörmektedir. Sözleşmeden dönmede ise sadece olumsuz
+zararın tazmini istenebilecektir. Feshin sonucu bu bakımdan da dönmeden
+ayrılmaktadır.
+
+Borcun hiç veya gereği gibi ifa edilmediği hallerin bir çoğunda alacaklı
+tazminat davasının güçlükleri ile uğraşmak yerine, sözleşmeden kurtulmayı
+tercih edebilir. Hatta bazen, sadece tazminat davasının güçlükleri açısından
+değil esas itibariyle çıkarına uygun olması örneğin kendi ediminin daha değerli
+olması bakımından da alacaklı, borcunu ifa etmeyen borçlu ile olan sözleşme
+bağından kurtulmak isteyebilir. Zira bu takdirde kendi edimini ifa etmekten de
+kurtulacaktır. İşte sözleşmeden dönme bu ihtiyacı karşılar.
+
+== 3- BORCUN İFA EDİLMEMESİ KAVRAMINA GİREN DURUMLAR
+
+=== I- BORÇLUNUN SORUMLU OLDUĞU İFA İMKANSIZLIĞI
+
+==== 1- İfa imkansızlığı kavramı
+
+Borçlar Kanununda borçlunun sorumlu olduğu ifa imkansızlığı özel olarak ve
+açıkça düzenlenmemiştir. Borçlu temerrüdü üzerine ve satım ile eser
+sözleşmesinde ayıplı ifa üzerine doğacak talepler için özel hükümler bulunması
+karşısında; TBK m.112, borçlunun sorumlu olduğu ifa imkansızlığı ile hakkında
+özel hüküm bulunmayan kötü ifa hallerine uygulanacak hükümdür. Eğer borçlu
+imkansızlıktan sorumlu değilse, TBK m.136 hükümlerine göre borcundan kurtulur.
+
+==== 2- İfa imkansızlığının borç ilişkisine etkisi
+
+_Öğretide baskın olan görüşe göre_, ifa imkansızlığı borçlunun kusurundan
+ileri gelmiş değilse, imkansızlık borcu sona erdirir ve bu durum TBK m.116'da
+düzenlenmiştir. İfa imkansızlığı borçlunun kusurundan ileri gelmişse, borç sona
+ermez, sadece borcun içeriği değişikliğe uğrar, ifası imkansızlaşan edimin
+yerinii alacaklının zararını tazmin yükümlülüğü alır. Bu durum ise TBK m.112'de
+düzenlenmiştir. Hakim fikre göre tazminat borcu, ifası imkansızlaşan borcun
+sadece içeriğinin değişik şekilde devamı olduğu içindir ki, bu borca ait
+teminatlar (rehin, kefalet) devam eder. Bu borca ait zamanaşımı cereyan eder ve
+bu borçla ilgili savunmalar tazminat alacağına karşı da ileri sürülebilir.
+
+Bu görüşün karşılıklı edimler içeren sözleşmelerde doğal sonucu da ifası
+imkansızlaşan edimin alacaklısının, bu edimin yerini alan tazminat talebine
+karşılık kendi edimini ifa etmekle yükümlü olmasıdır. Edim değişimi, tazminat
+alacağı ile karşı edim arasında cereyan edecektir ve vadelerin beklenmesi
+gerekir.
+
+[, Oğuzman & Öz]
+""
+Biz baskın görüşe katılmıyoruz. Kanımızca, borçlunun kusuru ister bulunsun
+ister bulunmasın, ifası imkansızlaşan borç sona erer. Bu açıdan kusurlu ve
+kusursuz imkansızlık arasında bir fark yoktur. Fark, kusurlu imkansızlık
+yüzünden borcun düşmesi halinde borçlunun, alacaklının uğradığı zararı tazminle
+yükümlü olmasına (TBK m.112) karşılık, kusursuz imkansızlıkta böyle bir tazmin
+yükümlülüğünün söz konusu olmamasında (TBK m.136) görülür.
+""
+
+.. _Borcun sona erdiğini kabul etmek mantıklıdır_. Zira hiç kimsenin mümkün
+olmayan bir şeyi ifa ile yükümlü kalmasının anlamı yoktur. TBK m.136, borçlunun
+sorumlu olmadığı imkansızlık için borcun istisnaen sona ermesini öngören bir
+hüküm olarak değil, borcun borçlunun sorumluluğundan bağımsız olarak sona
+ermesinin sonuçlarını düzenleyen bir hüküm olarak anlaşılmak gerekir.
+
+.. Karşılıklı edimler içeren sözleşmelerde, kusursuz imkansızlık yüzünden borcu
+düşen tarafın bu yüzden karşı alacağını kaybedeceği Borçlar Kanununda
+öngörüldüğüne (TBK m.136/2) göre, kusurlu imkansızlık yüzünden borçtan kurtulan
+borçlunun karşı alacağını kaybedeceğini kabul etmek öncelikle doğrudur. Fakat
+kusursuz imkansızlıktan farklı olarak, borcunu kusuru ile imkansızlaştıran
+borçlu, karşılıklı borçların sona ermesi yüzünden alacaklının uğradığı zararı
+tazmin etmekle yükümlüdür. Bu kanundan doğan yeni bir borçtur. Bu tazminatı
+talep etmek için eski borcun (ve sona eren karşı borcun) vadesini beklemek de
+söz konusu olmayacaktır, imkansızlık anından itibaren tazminat alacağı talep
+edilebilir. Halbuki klasik görüşe göre, tazminat, imkansızlaşan edimin yerini
+alacak ve tazminat ile karşı edim değişime tabi olacaktır.
++
+TIP: (A)'nın bir arap atına, (B)'nin de bir hollanda ineğine ihtiyacı vardır.
+Buna karşılık (B) arap atına (A) da bir hollanda ineğine sahiptir. (A) ile (B),
+atla ineği trampa için TBK m.282 anlamında bir *mal değişimi sözleşmesi*
+yaptıktan sonra ve borçlar ifa edilmeden (B)'nin kusuru ile at ölmüşse, _klasik
+görüşe göre_ (B) atın yerine tazminat vermek (A) da ineğin mülkiyetini (B)'ye
+geçirmek borcu altındadır. İneğin 50.000 lira değerinde olmasına karşılık atın
+40.000 veya 60.000 lira değerinde olması sonucu etkilemeyecek, her halde
+değişim ilişkisi devam edecek ve tazminat ödemeyi teklif eden (B), (A)'dan
+ineği talep edebilecektir. Böyle bir sonucu asla etmeyebilecek olan (A),
+sözleşmeden dönme hakkına da sahip olmadığı için, istemediği halde ineği verip
+tazminatı almak zorunda kalacaktır. Ayrıca, para karşılığı ineğin verildiği bu
+sözleşme ilişkisinin *mal değişimi sözleşmesi* olduğunu söylemek her halde bir
+hayli güçtür. Halbuki _tazminat borcunun yeni bir borç olduğunu savunan
+görüşte_, (B)'nin kusuru ile atın teslimi imkansızlaşınca, (B)'nin atı verme
+(A)'nın da ineği verme borçları sona erer. Atın değeri ineğin değerinden fazla
+olduğu takdirde (_aksi takdirde esasen ortada zarar yok demektir_) (A) aradaki
+değer farkını, (B)'den tazminat olarak talep edebilecektir. Zira bu fark,
+(B)'nin borcunun kusuru ile imkansızlaşması yüzünden, (A)'nın uğradığı bir
+zarardır. İnek daha önce teslim edilmişse, atın teslimi imkansızlaşınca, inek,
+(A) tarafından TBK m.136/2'deki gibi sebepsiz zenginleşme hükümlerine kıyasen
+ileri sürülecek bir taleple geri istenir.
+
+.. Borçlunun kusuru ile borcun ifasının imkansızlaşması halinde borcun sona
+ereceği fikrinin _kabulünün sakıncası da yoktur_. Klasik görüşte tazminat
+alacağı, asıl borcun zamanaşımına tabi tutulurken, bu alacağın yeni bir alacak
+olduğu kabul edilince, tazminat için yeni bir zamanaşımı işlemeye
+başlayacaktır. Bu sonuç borçlunun aleyhine ise de, buna sebep olan kendi
+kusurlu davranışıdır.
++
+Asıl borç zamanaşımına uğradıktan sonra kusurlu imkansızlık ortaya çıkarsa veya
+asıl borca karşı başka savunma imkanları borcun ifası zorunluluğunu
+kaldırıyorsa, bu takdirde, bu savunmalar, imkansızlıktan alacaklının zararı
+bulunmadığını gösterme hususunda tazminat talebine karşı da ileri sürülebilir.
++
+Borç henüz muaccel olmadan imkansızlaşmışsa, alacaklının zararı ancak
+muacceliyet tarihinde gerçekleşeceği için bu hususun tazminat açısından
+gözönüne alınacağı da tabiidir. Zarar bu husus gözönünde tutularak hesaplanır.
+Fakat tazminat için vadeyi beklemek gerekmez.
++
+İmkansızlaşan borç için verilen kefalet ve rehinlere gelince: Kefaletin bu
+tazminatı da kapsayacağı esasen TBK m.589/b.1 hükmü gereğidir. Taşınmaz rehni
+ise ancak miktarı kural olarak, Türk parası ile gösterilecek bir alacak için
+tesis olunabilir (MK m.851). Yapma veya verme borcu için Türk parası karşılığı
+ipotek konulduğunda, zaten ipotek bu doğacak tazminat borcu için verilmiş
+demektir. Taşınır rehninde para miktarı belirtilmese de, bu tür rehinde
+alacağın parasal miktarını belirleme zorunluluğu bulunmadığından, rehin gene
+sonradan doğacak tazminat miktarı için verilmiş sayılabilir. Şayet teminata
+konu asıl borç bir para borcu ise, esasen imkansızlaşma bahis konusu olmaz.
+Eğer asıl borç bir yapma, yapmama ve paradan gayri bir şey verme borcu ise bu
+takdirde aslında rehin, borcun ifa edilmemesi yüzünden istenecek tazminatı
+karşılamak için tesis edilmiştir.
++
+Nihayet, karşılık edimler içeren sözleşmelerde, şayet bir tarafın borcunun
+ifası imkansızlaşmadan önce alacaklı kendi edimini ifa etmiş ise, alacağı
+imkansızlaşınca, TBK m.136'daki esas uyarınca dilerse kendi edimini geri
+isteyebilir. Fakat geri almanın kendisi için bir değer taşımadığı hallerde
+tazminatın bu husus gözönünde tutularak hesaplanması isteyebilmelidir. Hatta
+alacaklının kendi edimini henüz ifa etmeden karşı tarafın borcunun
+imkansızlaşması halinde, edimini muhafaza etmek kendisi için bir değer
+taşımıyorsa, tazminatın tayininde bu durumun da gözönüne alınması gerekir. Bu
+hallerde, bu edimin borçluya bırakılması ve tazminat olarak imkansızlaşan
+edimin değerine karar verilmesi doğru olur.
+
+İfa imkansızlığının, borç ilişkisine etki yapması konusunda yukarıda yapılan
+açıklama aslolarak _edimin bütünü için devamlılık gösteren imkansızlığı_
+gözönünde tutmaktadır.
+
+Şayet _imkansızlık geçici nitelikte_ ise, prensip olarak bu imkansızlık borcun
+sona ermesine yol açmaz. Sadece ifanın gecikmesine sebep olur. Fakat ifa ancak
+belirli bir zamanda yapılabilecekse veya ifa zamanı alacaklı için önem
+taşıyorsa, o zaman için meydana gelecek imkansızlık, ileride ortadan kalkacak
+da olsa, borcu sona erdirir. Keza, geçici bir imkansızlığın ne kadar
+süreceğinin önceden bilinmediği hallerde de, kesin imkansızlık hükümlerinin
+uygulanacağı ve borcun sona ermiş sayılacağı kabul edilmektedir. Bununla
+birlikte, şayet imkansızlık ortadan kalkıncaya kadar alacaklı imkansızlık
+hükümlerine dayanmamış ise, imkansızlık ortadan kalktıktan sonra borç
+ilişkisinin normal hükümlerini icra edeceğini kabul etmek uygun olur.
+
+_Kısmi imkansızlığa gelince_, prensip itibariyle alacaklı kısmi ifayı kabule
+mecbur olmadığı için (TBK m.84), borcun bütününün ifası mümkün olmadığı
+gerekçesiyle, imkansızlık hükümlerinin uygulanmasını isteyebilir.
+
+Fakat alacaklı bölünebilen edimin mümkün olan kısmi ifasını kabul edeceğini
+beyan ederek, kısmi ifa ile birlikte, imkansızlaşan kısım için borcun gereği
+gibi ifa edilmemiş olması sebebiyle tazminat isteyebilir. Şayet alacaklı,
+alacağının bir kısmını aldıktan sonra geri kalan kısım imkansızlaşmışsa, ancak
+o kısım için tazminat isteyebilir. Şayet önceden aldığı kısım, geri kalan ifa
+edilmediği için alacaklı için değer taşımıyorsa, tazminatın hesabında bu durum
+gözönüne alınacaktır. Bu takdirde ifa edilen kısmın iadesi ile, edimin tamamı
+için tazminata karar verilmesi mümkündür.
+
+Karşılıklı sözleşmelerde, bir tarafın borcunun ifası kısmnen imkansızlaşınca,
+şayet bu imkansızlık bütünün imkansızlığı olarak nazara alınıyorsa biraz önce
+açıklanan esaslar uygulanır. Şayet kısmen ifa dolayısıyla borç gereği gibi ifa
+edilmediği için tazminat isteniyorsa, alacaklı kendi karşı edimini ifa
+zorundadır.
+
+Sürekli edim içeren borç ilişkilerinde sürekli edimin ifası başladıktan bir
+süre sonra imkansızlaşması üzerine, yerine getirilmiş edim kısmının ve karşı
+edimin buna ilişkin kısmının etkilenmesi söz konusu olmaz. İmkansızlıktan
+sonrası için karşılıklı edim yükümü sona erer ve borçlu kusurluysa tazminat
+buna göre hesaplanır.
+
+==== 3- İfa imkansızlığından borçlunun sorumlu olduğu haller
+
+İfa imkansızlığından borçlunun sorumluluğu kural olarak kusuruna bağlıdır.
+Fakat, kanun borçlu aleyhine bir kusur karinesi kabul etmiştir. Ancak borçlu
+kusursuzluğunu ispat ederek karineyi çürütürse, sorumluluk için gerekli kusur
+şartının bulunmadığı ve imkansızlıktan borçlunun sorumlu olmadığı anlaşılır.
+Gerçekten TBK m.112, "Borç hiç veya gereği gibi ifa edilmezse _borçlu kendisine
+hiçbir kusurun yüklenemeyeceğini ispat etmedikçe_ alacaklının bundan doğan
+zararını gidermekle yükümlüdür" demektedir.
+
+Böylece, alacaklının borçlunun kusurunu ispat ile değil, tam aksine
+sorumluluktan kurtulması için kusurlu bulunmadığını borçlunun ispatla yükümlü
+tutulması, ispat imkanlarının alacaklıya göre borçlu için daha kolay olması
+fikriyle açıklanabilir. Zira normal olarak imkansızlık borçlunun hakimiyet
+alanında gerçekleşir ve çok zaman alacaklı, bu imkansızlığın borçlunun kusuruna
+dayanıp dayanmadığı bilecek durumda dahi değildir.
+
+Kanun, kusursuzluğunu ispat yükümünü borçluya yüklemiş olduğu için, borçlu
+aslında kusurlu olmamakla beraber, kusursuzluğunu ispat edemediği takdirde,
+yine de imkansızlıktan sorumlu olacaktır.
+
+Diğer taraftan prensip kusura dayanan sorumluluk ise de bazı hallerde borçlu,
+kusuru bulunmamasına ve bunu ispat edecek durumda olmasına rağmen,
+imkansızlıktan sorumlu tutulmuştur. Buna karşılık borçlunun kusurlu bulunmasına
+rağmen imkansızlıktan sorumlu olmadığı haller de vardır.
+
+=== II- İFADA GECİKME VE BORÇLUNUN TEMERRÜDÜ
+
+==== 1- Gecikmenin temerrüt veya imkansızlık yaratması
+
+İfası mümkün ve muaccel bir borcu zamanında ifa etmeyen borçlu, ifada gecikmiş
+durumdadır. Bu gecikme bazı şartların gerçekleşmesi halinde borçlu temerrüdü
+olarak nitelendirilir. Şu halde borçlu temerrüdü, borçlunun ifada nitelikli bir
+gecikmesidir.
+
+Buna karşılık ifa zamanının geçmiş olması, bazen bundan sonra borcun ifası
+imkanını da ortadan kaldırabilir. Bu takdirde, ifada gecikme artık borçlu
+temerrüdüne yol açmaz; bir ifa imkansızlığı söz konusu olur. Şayet bir borç
+için tayin edilen ifa zamanı, borcun ifasının gerçekleştirilebileceği yegane
+zaman parçasını ifade ediyorsa, bu zamanın geçirilmesi halinde borcun ifası
+imkansızlaşmış olur. Bu halde temerrüt hükümleri değil, imkansızlık hükümleri
+uygulanır ve imkansızlıktan borçlunun sorumlu olup olmamasına göre uygulanacak
+hükümler tayin edilir.
+
+Bu bakımdan, borcun ifasındaki her gecikme, borçlu temerrüdü oluşturmaz. Her
+şeyden önce, gecikmiş ifanın mümkün olması gerekir. İfanın mümkün olduğu
+hallerde de gecikmenin temerrüt niteliğini taşıması için bazı şartların
+gerçekleşmesi gerekir.
+
+==== 2- Borçlu temerrüdünün şartları
+
+.TBK m.117
+....
+f.1 - Muaccel bir borcun borçlusu alacaklının ihtarı ile temerrüde düşer.
+f.2 - Borcun ifa edileceği gün birlikte belirlenmiş veya sözleşmede saklı
+tutulan bir hakka dayanarak taraflardan biri usulüne uygun bir bildirimde
+bulunmak suretiyle belirlemişse, bu günün geçmesiyle; haksız fiilde fiilin
+işlendiği, sebepsiz zenginleşmede ise zenginleşmenin gerçekleştiği tarihte
+borçlu temerrüde düşmüş olur. Ancak sebepsiz zenginleşenin iyi niyetli olduğu
+hallerde temerrüt için bildirim şarttır.
+....
+
+Böylece kanun, temerrüt için *borcun muaccel olması* ve *bildirim* olmak üzere
+iki şart aramış gözükmektedir. Fakat şimdiye kadar yapılan açıklama gözönünde
+tutulursa, buna borcun ifasının mümkün olması şartını eklemek, bir de
+alacaklının ifayı kabule hazır olması şartına yer vermek gerekir. Nihayet,
+kanunun temerrüt için borçlunun kusurundan bahsetmemesine rağmen, kusurun
+temerrüdün bir şartı sayılıp sayılmayacağı konusu üzerinde de durulması uygun
+olur.
+
+===== _a) Borcun muaccel olmasına rağmen ifa edilmemesi_
+
+Borcun ifasında bir gecikmeden bahsedilebilmesi için, ifa zamanının gelmiş
+olmasının zorunlu olduğu kendiliğinden anlaşılır. Bu açıdan ifa zamanı,
+alacaklının borcun ifasına talep yetkisine sahip olacağı zamanı ifade eder. 
+
+Ancak, borç muaccel olmasına rağmen, borçlu, alacaklının ifa talebine karşı bir
+defi hakkına sahip bulunduğu takdirde borçlunun bu def'i kullanması temerrüde
+engel olur. Fakat def'i kullanılmadıkça sadece varlığı temerrüde engel olmaz.
+Fakat kullanılan defi, kullanıldığı tarihten değil, defi hakkının şartlarının
+gerçekleştiği andan itibaren hüküm ifade eder.
+
+Borç muaccel olmasına rağmen henüz ifa edilmemiş bulunmalıdır. Bölünebilir
+edimlerde edimin bir kısmının ifa edilmiş olması, henüz ifa edilmemiş kısım
+için borçluyu temerrüde düşürmeye ve bu kısım hakkında temerrüt hükümlerine
+başvurmaya engel oluşturmaz. Borçlunun ayıplı ifa teklifini reddeden
+alacaklının da onu temerrüde düşürmesi mümkündür. Yeter ki özel bir kanun hükmü
+veya dürüstlük kuralı ayıplı ifayı kabul zorunluluğu getirmesin.
+
+===== _b) Alacaklının ihtarı_
+
+====== aa- _Prensip_
+
+Kanun borçlunun temerrüde düşmüş sayılması için, borcun muaccel olmasını
+yeterli bulmamakta ve kural olarak alacaklının, borcu muaccel olan borçluya
+borcu ödemesini ihtar etmesini aramaktadır. Kanunun ifadesinden anlaşıldığı
+üzere, ihtarın borcun muaccel olmasında sonra yapılması gerekir.
+
+İhtar, alacaklının borçluya borcunu ifa etmesi hususunda yönelttiği bir irade
+beyanıdır. Bu beyan hüküm ifade ettiği anda borçluyu temerrüde düşürür. Borcun
+ifasını isteyen beyanının temerrüdü sağlaması için, alacaklının bu beyanda
+bulunurken borçluyu temerrüde düşürmek istemesine ve beyanı bu maksatla yapmış
+olmasına gerek bulunmadığı; beyanının temerrüde yol açacağını düşünmüş olup
+olmamasının önem taşımadığı öğretide ifade edilmektedir. Bu sebepledir ki
+ihtarın bir hukuki işlem değil, hukuki işlem benzeri bir fiil olduğu söylenir.
+Böylece, alacaklı ihtarı ne niyetle yapmış olursa olsun, kanun bu beyana hukuki
+sonuç olarak borçlunun temerrüdünü bağlamıştır.
+
+Fakat alacaklının borçla ilgili herhangi bir beyanının mutlaka ihtar niteliği
+taşıyacağı gibi bir anlam çıkarılmamalıdır. Zira alacaklının, ancak borcun
+ifasını isteyen beyanı ihtar niteliği taşır.
+
+TIP: Borcun ifası için dava açılmasında, dava açma, ihtar niteliğindedir. Zira
+alacaklının borcun ifasını isteyen bir beyanı vardır. Alacaklı dava açmakla
+borçluyu temerrüde düşürmeyi düşünmüş olmasa bile, davanın açılması ihtar
+niteliğindedir. Buna karşılık alacaklının alacağını tespit ettirmek için tespit
+davası açması, ifa talebi bulunmadığı için, ihtar niteliği taşımaz.
+
+Öğretide kabul edildiği üzere ihtarın geçerliliği bir şekle tabi değildir.
+Borcun şekle bağlı bir hukuki işlemden doğmuş olup olmaması bu hususta bir fark
+yaratmaz. Fakat bir tacirin diğer bir taciri temerrüde düşürebilmesi için
+ihtarın TTK m.18/b.3 uyarınca "Tacirler arasında, diğer tarafı temerrüde
+düşürmeye, sözleşmeyi feshe, sözleşmeden dönmeye ilişkin ihbarlar veya ihtarlar
+noter aracılığıyla, taahhütlü mektupla, telgrafla veya güvenli elektronik imza
+kullanılarak kayıtlı elektronik posta sistemi ile yapılır". Bu şeklin gerektiği
+hallerde şekil, ihtar için muteberlik şartıdır.
+
+İhtarın uygun bir yer ve zamanda yapılması gerektiği ifade edilmektedir. Bu,
+dürüstlük kuralı icabıdır. Fakat ihtar, uygun olmayan yer veya zamanda, örneğin
+iş saatleri dışında bir aile toplantısında yapıldığı takdirde, hükümsüz olmaz;
+olsa olsa dürüstlük kuralına göre yapılabileceği ilk andan itibaren hüküm ifade
+eder.
+
+İhtar, alacaklı veya yetkili temsilcisi tarafından yapılmalıdır. Temsilcinin
+ihtar için özel yetki sahibi olması gerekmez; genel temsil yetkisi de
+yeterlidir. İhtarın geçerliliği için, ihtarı yapanın ayırt etme gücüne sahip
+olması aranır; fakat tam ehliyetli olması şart değildir.
+
+İhtar, borçluya veya ihtarı kabule yetkili temsilcisine, şayet borçlu
+ehliyetsiz ise kanuni temsilicisine yapılmalıdır. İhtarın muhataba ulaşmakla
+hükmünü doğuracağı ifade edilmektedir. Amacı ve işlevi göz önünde tutulursa,
+ihtarın öğrenme ile hüküm ifade edeceği söylenebilir. Şayet kusuru yüzünden
+veya kendi hukuki alanını ilgilendiren bir sebeple beyan boçlunun bilgisine
+sunulamıyorsa, alacaklının, borçlunun öğrenebilmesi için gerekli önlemi alması
+ile de ihtar hüküm ifade eder.
+
+İhtarda bir süre tanınmış ise sürenin sonunda, ihtar bir şarta bağlanmışsa
+şartın gerçekleşmesi üzerine borçlu temerrüde düşer. Gerçi şartla ihbar
+yapılması ancak borçlunun şartın gerçekleştiğini bilmesinin mümkün olması
+halinde ve bu andan itibaren hüküm ifade eder.
+
+====== bb- _İhtara gerek bulunmayan haller_
+
+Prensip olarak, borçlunun temerrüde düşmesi için alacaklının ihtarını şart
+kılan TBK m.117, bu prensibin dışında kalan ve ihtara gerek bulunmayan halleri
+ikinci fıkrada belirtmiştir. Şöyle ki:
+
+...  _Borcun ifa edileceği gün tarafların anlaşması ile belirlenmişse ihtara
+gerek yoktur_. Vade belirli bir tarih olarak kararlaştırılmış olduğu zaman söz
+konusu esas uygulanacağı ve vadede borç ifa edilmiş olmadığı takdirde, bu günün
+sona ermesi ile bir ihtara gerek olmadan borçlu temerrüde düşmüş olacağı gibi,
+vadenin takvime göre bir tarih olarak değil de, borçlunun kesin şekilde hesap
+edebileceği bir gün olarak kararlaştırıldığı hallerde de uygulanır. Şayet
+ifanın belirli bir süre içinde yapılması kararlaştırılmışsa, sürenin sonuncu
+günü dahi borç ifa edilmiş değilse, ihtara gerek bulunmaksızın borçlu temerrüde
+düşer.
++
+Diğer taraftan kanunda açıkça ifade edildiği üzere, ancak taraflarca
+kararlaştırılan vade, temerrüt için ihtara gerek bırakmaz. Şayet vade
+taraflarca kararlaştırılmış olmayıp da, kanunen belirlenmiş ise, borçlunun
+temerrüde düşmesi için ihtar şarttır. 
++
+Temerrüt ihtarı daha çok, herhangi bir vade bulunmadığı için TBK m.90 uyarınca
+derhal muaccel olan borçlarda borçluyu temerrüde düşürmek için gerekli
+olacaktır.
+
+... _Vade tayin edilmiş olmayıp, tarafların anlaşması bunun bir muacceliyet
+bildirimi ile belirlenmesi hakkını taraflardan birine vermiş ise_, muacceliyet
+bildirimi ile belirlenen vadede borcunu ifa etmeyen borçlu, ihtara lüzum
+bulunmaksızın temerrüde düşer.
++
+Muacceliyet bildiriminin, tarafların anlaşmasına değil, kanunun tanıdığı hakka
+dayanarak yapıldığı hallerin TBK m.117/2'deki istisnanın kapsamına girmeyeceği
+görüşü hükmün metnine daha uygun bulunmaktadır. Ancak baskın görüş bu
+durumlarda da ihtara gerek kalmayacağı yolundadır.
+
+... Sözleşme dışı doğan borçlardan haksız fiilden doğan zararı tazmin borcu ve
+sebepsiz zenginleşmede zenginleşmenin iadesi borcu için TBK m.117/2'de özel bir
+temerrüt düzenlemesi getirilmiştir: Haksız fiil işlendiğinde tazminat borcu
+doğar doğmaz muaccel olduğu gibi aynı anda fail temerrüde de düşmüş
+sayılacaktır. Sözleşmeden doğan bir borcu ihlal sebebiyle doğan tazminat
+borçlarında da, TBK m.114/2 hükmünden de yararlanılarak, aynı sonuç
+benimsenmeli burada da tazminat borcuna doğar doğmaz temerrüt faizi
+yürütülmelidir.
++
+Sebepsiz zenginleşmeden doğan borçlarda ise bir ayrım yapılmış, şayet sebepsiz
+zenginleşen iyi niyetli ise iade borcunda ancak ihtarla temerrüde düşeceği
+belirtilirken; şayet iyi niyetli değil ise, haksız fiildekine benzer şekilde,
+zenginleşmenin gerçekleştiği anda ihtarsız tenerrüde düşeceği düzenlenmiştir.
+
+... TBK m.117/2'de açıklanmış olmamakla beraber, _ihtar yapılmasının dürüstlük
+kuralına göre beklenemeyeceği hallerde_ de borçlunun ihtara gerek kalmadan
+temerrüde düşeceği kabul edilmektedir.
++
+TIP: Borcun ifa edilmesi gereken zamanı alacaklı değil, borçlu bilmek zorunda
+ise, zamanında borcu ifa etmeyen böyle bir borçlu, ihtara lüzum kalmadan
+temerrüde düşer.
+
+===== _c) Borcun ifasının mümkün olması_
+
+Borçlar Kanununda, temerrüt için bu şart açıkça öngörülmüş değilse de, işin
+niteliği icabı mevcut olan bir şarttır. Şayet borç henüz muaccel olmadan önce
+imkansız hale gelmişse, borcun ifa edilmemesi, temerrüt olarak
+nitelendirilemez. İmkansızlık yüzünden borç ifa edilmemiştir ve bu durumun
+sonuçları, temerrüt hükümlerine göre değil, imkansızlıktan borçlunun sorumlu
+olup olmadığına göre belirlenecektir.
+
+Vadeden önce borcun ifasının imkansızlığı söz konusu olmamakla beraber, ifa
+zamanının kaçırılması yüzünden ifa imkansızlaşıyorsa, gene temerrüt değil,
+imkansızlık hükümleri uygulanacaktır. Temerrüt için ihtar gereken durumlarda
+borç muaccel olduktan sonra fakat ihtardan önce edim imkansızlaşmışsa, gene
+temerrüt değil, imkansızlık hükümleri uygulanır.
+
+İmkansızlık, borçlu temerrüde düştükten sonra meydana gelirse, imkansızlığa
+kadar geçen devre için temerrüt hükümleri uygulanır. İmkansızlıktan sonrası
+için imkansızlık hükümleri uygulanır. 
+
+WARNING: Borçlu temerrüt sırasında gerçekleşen imkansızlıktan eğer temerrüde
+düşmede kusuru bulunmadığını ispat edemezse imkansızlıktan kusurlu olmasa da
+sorumludur (TBK m.119). Bu, temerrüt halinde olmanın bir sonucudur ve borçlu
+imkansızlığa kadar olan devre için temerrüdün diğer sınuçlarına da tabidir.
+
+===== _d) Alacaklının ifayı kabule hazır olması_
+
+Gene kanunda ayrıca belirtilmiş olmamakla beraber, borçlunun temerrüde düşmesi
+için, alacaklının ifayı kabule hazır olması gerekir. Şayet alacaklı, alacaklı
+temerrüdünde ise kararlaştırılmış vadenin geçmesine rağmen, borçlu temerrüde
+düşmüş olmaz. Keza aranılacak borçlarda alacaklı borçluya borcun ifasını ihtar
+etmiş olmasına rağmen, edimi almaya gelmezse, borçlu temerrüde düşmez.
+
+Buna karşılık, verilecek şey ne alacaklıya ne de alacaklıya yüklenebilecek
+şahsi bir sebeple temsilcisine arz edilemez veya borçlunun kusuru olmaksızın
+alacaklının şahsında tereddüt olunursa borçlunun temerrütten kurtulması için
+borç konusu şeyi TBK m.111 uyarınca tevdi etmesi gerekir. Bu yola başvurmayan
+borçlu, kararlaştırılan vadenin geçmesi ile temerrüde düşer.
+
+===== _e) Borçlu temerrdünde kusurun rolü_
+
+Borçlunun temerrüde düşmesi için yukarıda açıklanan şartların bulunması yeter.
+Ayrıca kusuru şart değildir. Borçlunun mütemerrit sayılması için gecikmede
+kusurunun bulunup bulunmamasının önemi yoktur. Fakat temerrüdün bazı sonuçları
+borçlunun temerrüde düşmekte kusurlu olmasına bağlıdır. Şöyle ki, temerrüt
+yüzünden gecikme tazminatı (TBK m.118) veya karşılıklı sözleşmelerde bir
+tarafın temerrüdü halinde ifa yerine kanunun öngördüğü tazminatın (TBK m.125/2)
+ya da karşılıklı borç içeren sözleşmelerde temerrüt yüzünden sözleşmeden dönme
+halinde tazminatın (TBK m.125/3) istenebilmesi için borçlunun temerrüde düşmede
+kusurlu olması gerekir. Buna karşılık temerrüdün bazı sonuçları, borçlu
+temerrüde düşmede kusurlu olmasa da meydana gelir. Örneğin, para borcunda
+temerrütte borçludan temerrüt faizi istenmesi (TBK m.120) veya karşılıklı
+borçlar içeren sözleşmelerde bir tarafın borçlu temerrüdüne düşmesi halinde
+diğer tarafın sözleşmeden dönebilmesi (TBK m.125/2) için, temerrüde düşmede
+borçlunun kusurlu olması şart değildir.
+
+==== 3- Borçlu temerrüdünün sona ermesi
+
+Temerrüde düşmüş olan borçlu, sonradan borcunu ifa ederse, borçla birlikte
+temerrüt de sona erer. Mütemerrit borçlu ancak edimle birlikte gecikme yüzünden
+sorumlu olduğu tazminatı da alacaklıya arz ederse, alacaklı ifayı kabule
+mecburdur. Borçlunun bu tarzda usulüne uygun olarak yaptığı ifa teklifini
+alacaklı kabul etmezse, borçlu gene temerrütten kurtulur ve alacaklı ifayı
+kabul etmemekle haklı bir sebebe dayanmıyorsa, alacaklı temerrüdüne düşer.
+Fakat usulüne uygun ifa teklifini alacaklının kabul etmemesi için haklı bir
+sebep bulunsa ve alacaklı temerrüde düşmese bile borçlu, ifayı usulüne uygun
+şekilde arz etmekle temerrütten kurtulur.
+
+Borcun ifa dışında sona ermesi ve özellikle borcun imkansızlaşması halinde de
+temerrüt sona erer. Karşılıklı edimleri içeren sözleşmelerde temerrüt üzerine,
+alacaklı TBK m.125/2 uyarınca ifadan vazgeçtiğini bildirerek ifa yerine
+tazminat isterse, bu andan itibaren de temerrüt durumu sona erer. Sözleşmeden
+dönme üzerine ise, esasen borç ilişkisi baştan itibaren ortadan kalkmış
+sayılacağından, diğerlerinden farklı olarak, temerrüdün o ana kadar doğmuş olan
+sonuçları da ortadan kalkar.
+
+Alacaklı ile borçlunun yapacağı bir tecil anlaşması da temerrüdü sona erdirir.
+
+WARNING: Burada söz konusu olan, alacaklının borçludan borcun bir mehil içinde
+ifasını talep etmesi değil, borcun vadesinin uzatılması hakkında alacaklı ile
+borçlunun anlaşmasıdır.
+
+Borçlunun temerrüdü devam ederken, borçlu lehine bir def'i ortaya çıkar ve
+borçlu bu def'i ileri sürerse, def'in ileri sürülebilme şartlarının
+gerçekleştiği andan itibaren temerrüt sona erer.
+
+Temerrüt sona erince, artık temerrütten doğan sonuçların cereyan etmesi de söz
+konusu olmaz. Temerrüdün sona ermesine kadar geçen zamanla ilgili sonuçlar,
+yani gecikme yüzünden tazminat veya faiz isteme hakkı prensip olarak temerrüt
+sona erdi diye ortadan kalkmaz. Fakat alacaklı gecikmiş ifayı kabul ederken,
+işlemiş temerrüt faizlerini talep hakkını saklı tuttuğunu beyan etmiş olmadıkça
+veya bu hakkın saklı tutulduğu halin icabından anlaşılmadıkça, temerrüt
+faizlerini içermeyen bir ifayı kabul etmekle temerrüt faizi alacağı da sona
+erer. Aynı sonuç ceza koşulu alacağı için de geçerlidir (TBK m.131/2). Asıl
+alacağın ibra ile sona erdirilmesinde de durum böyledir. Ancak, bu sonuç
+temerrüt faizinin ve ceza koşulunun fer'i bir alacak olmasından ileri gelir.
+Bunlar dışındaki temerrüt sonuçları ayrıca kapsam içine alınmadıkça asıl borcun
+ibrası ile ortadan kalkmaz.
+
+=== III- BORCUN KÖTÜ İFA EDİLMİŞ OLMASI
+
+==== 1- Kavram
+
+Borçlu borcunu ifa etmiş olmakla beraber; ifa gereği gibi yapılmış olmayabilir.
+Şüphesiz ki alacaklı, kural olarak borca uygun olmayan bir ifayı reddedebilir.
+Fakat ifanın kötülüğüne rağmen alacaklı ifayı ret imkanına sahip olmayabilir
+veya ihtiyacı sebebiyle reddetmek istemeyebilir. Alacaklının gereği gibi
+yapılmayan ifayı kabul etmiş olması, mutlaka borçlunun sorumluluğuna
+dayanmaktan feragati anlamına da gelmez. Nihayet bazı hallerde ifanın kötülüğü
+ve alacaklıya zarar vermesi ifadan sonra ortaya çıkabilir. İşte bütün bu
+hallerde borcun gereği gibi ifa edilmemesinden borçlunun sorumluluğu sorunu
+ortaya çıkar. 
+
+Borcun kötü ifa edilmiş olduğu hallerin bazılarında temerrüt hükümleri
+uygulanırsa da, bir kısım kötü ifa hallerinin temerrüt veya imkansızlık olarak
+nitelendirilmesi mümkün değildir. Gerçekten, borcun geç ifa edilmiş olması,
+ancak şartları gerçekleştiği takdirde temerrüt hükümlerine tabidir. Borcun
+kısmen ifa edilmiş, kısmen ifa edilmemiş olması halinde de, geciken kısım için
+temerrüt hükümleri uygulanır. Buna karşılık borçlunun yaptığı ifanın edimde
+aranan niteliğe uygun olmaması (ayıplı ifa); alıcıya teslim edilen mal üzerinde
+üçüncü kişinin üstün bir hak ileri sürmesi (zapt); vasfa uygun olmayan edimin
+ifasının ayrıca alacaklıya zarar vermesi; bazı yan borçlara aykırı davranılmış
+olması gibi hallerde temerrüt veya imkansızlıktan bahsedilemez.
+
+==== 2- Borca aykırı davranıştan sorumluluk
+
+Borca aykırı davranışın temerrüt veya imkansızlık olarak belirdiği haller, o
+husustaki hükümlere tabidir.
+
+Ayıplı ifa bakımından da Borçlar Kanununun çeşitli sözleşmelerde düzelediği
+ayıba karşı tekeffül hükümleri:
+
+* satım sözleşmesi için TBK m.219 vd.
+* eser (istisna) sözleşmesi için TBK m.474 vd.
+* kira sözleşmesi için TBK m.301
+
+ve bir mal veya hizmetten tüketici olarak yararlanmak için yapılan
+sözleşmelerde TKHK m.8 uygulanır. Alıcıya teslim edilen malın üstün hak sahibi
+kişi tarafından talep edebilmesi ise satım sözleşmesinde zapta karşı tekeffül
+hükümlerinin (TBK m.215-218) uygulanmasına yol açacaktır.
+
+Diğer hallerde (ayıplı ifa dışındaki kötü ifa hallerinde, hakkında özel hüküm
+bulunmayan ayıplı ifa ve zarara yol açan yan borca aykırılık hallerinde) ise,
+TBK m.112 uygulanacaktır. Bu hükme göre, borcun gereği gibi ifa edilmemiş
+olmasından doğan zararı, kusuru bulunmadığını ispat edemeyen borçlu tazminle
+yükümlüdür.
+
+Kural olarak borçlu, kusuru varsa, sorumludur. Fakat kanun kusuru karine olarak
+kabul etmektedir. Ancak borçlu kusursuzluğunu ispat ederse sorumluluk
+gerçekleşmez.
+
+=== IV- SÖZLEŞME GÖRÜŞMELERİ SIRASINDA KUSURLU DAVRANIŞ (_Culpa in contrahendo_)
+
+==== 1- Kavram
+
+Dürüstlük kuralı, bir sözleşme görüşmesine girişen taraflara bir takım
+yükümlülükler yükler.
+
+Bir taraf, bu yükümlülüklerine aykırı davranarak açıklaması gereken hususları
+açıklamama, yanlış bilgi verme, gereken dikkati göstermeme, sözleşme yapma
+niyeti bulunmaksızın, görüşmeye girişme veya görüşme sürdürme yüzünden karşı
+tarafa bir zarar verirse; 
+
+[TIP]
+====
+* Edimin imkansız olduğunu bildiği halde sözleşme yaparsa,
++
+karşı tarafı sözleşmeye razı etmek için onu aldatırsa,
++
+kendi kusuru ile yanılırsa,
++
+ve bu sebeplerle sözleşmenin geçersizliği veya iptal edilmesi üzerine bu
+sözleşmeye güvenen karşı taraf zarara uğrarsa,
+* veya kurulmayan sözleşmenin görüşmeleri sırasında bir taraf karşı tarafa veya
+sözleşmenin konusu olacak şeye zarar verirse,
+* bir kimse yetkisizliğine rağmen temsilci olarak hukuki işlem yapar ve
+* kendisine onay verilmezse ve bu yüzden karşı taraf zarara uğrarsa
+====
+
+sözleşmenin görüşmeleri sırasında kusurlu davranan tarafın, diğerinin zararını
+tanzim etmesi gerekeceği kabul edilmektedir. Fakat tartışmalı olan nokta bu
+sorumluluğun hangi esasa dayanacağıdır.
+
+==== 2- Sorumluluğun dayanağı
+
+Bir fikre göre, sözleşme görüşmeleri sırasında kusurlu davranışı ile karşı
+tarafa zarar veren kimse haksız fiil esasına göre sorumlu tutulabilir. Buna
+karşılık, İsviçre Federal Mahkemesi _culpa in contrahendo_ 'dan doğan
+sorumluluğun borca aykırılık esaslarına tabi olacağını kabul etmekte idi. Alman
+Hukukundan kaynaklanan ve Öğretide de çoğunlukla benimsenen bu görüşü
+Yargıtayın da uyguladığı anlaşılmaktadır. Fakat sonradan, İsviçre Federal
+Mahkemesi _culpa in contrahendo_ olarak nitelendirdiği bir durumda sorumluluğun
+daha uzun zamanaşımına tabi olmasının hukuki güvenliğe aykırı düşeceği
+gerekçesiyle haksız fiil zamanaşımının uygulanmasını kabul etmiş ve önceki
+tutumundan farklı olarak davranışın niteliğinin borca aykırılık olduğunu ifade
+etmekten kaçınmıştır.
+
+Borca aykırılık görüşünün dayandığı ana fikir şöyle özetlenebilir:
+Bir sözleşme görüşmesine girişenler arasında, hiçbirisi tarafından ihlal
+edilmemesi gereken bir hukuki ilişki meydana gelir ve bu ilişki taraflara
+dürüstlük kuralı uyarınca bazı yükümlülükler yükler. Kusuru ile bu ilişkiyi
+ihlal eden, yükümlülüklere riayet etmeyen tarafın bu davranışı, bir haksız
+fiilden çok, mevcut bir ilişkinin ihlali olması dolayısıyla borca aykırılık
+esasına tabi tutulmak gerekir.
+
+_Culpa in contrahendo_ 'dan sorumluluk, borca aykırılık esasına tabi tutulunca,
+Borçlar Kanununun borçların ifa edilmemesi hususundaki hükümleri (TBK m.112
+vd.) uygulanacaktır.
+
+WARNING: Bunun sonucu olarak, zarara sebep olan kusursuzluğunu ispat zorunda kalacak,
+yardımcı kişinin verdiği zararı tazminden gerekli özenin gösterildiği ispat
+edilerek kurtulamayacak ve zamanaşımı zarar veren davranıştan itibaren 10 yıl
+olacaktır.
+
+Ancak, _culpa in contrahendo_ sorumluluğu yukarıda açıklanan bakımlardan borca
+aykırılık hükümlerine tabi tutulsa bile, burada sözleşme geçerli olarak ve
+böyle bir kusur işlenmeden kurulsa idi karşı tarafın ele edecek iken kaybettiği
+kazancının tazmini istenemez. Diğer deyişle, doğmamış veya geçersiz sayılan
+borca aykırılıktan bahisle olumlu zararın tazminine yer olmamalıdır. Burada,
+sadece olumsuz zarar niteliğinde zararların yani bu sözleşme görüşmeleri hiç
+yapılmasaydı karşı tarafın uğramayacak olduğu zararın tazmini istenebilmelidir.
+
+=== V- BORCA AYKIRI DAVRANILACAĞININ ÖNCEDEN BELLİ OLMASI
+
+Bir borcun ihlal edildiğinden, hiç veya gereğince ifa edilmediğinden söz
+edebilmek için, önce o borcun ifasının istenebilmesi (mauccel olması) gerekir.
+Kural olarak, muacceliyetten önce alacaklının borçluya karşı yönelteceği bir
+talep, kullanabileceği bir hak söz konusu olmaz.
+
+Ne var ki, henüz borcun muaccel olmadığı dönemde, borçlunun içinde bulunduğu
+durum, takındığı tavır veya bazı favranışları, ileride gerçekleşecek ifayı
+tehlikeye düşürebilir.
+
+İfayı tehlikeye düşüren bu tür durumların bazıları için alacaklıyı koruyan özel
+hükümler vardır:
+
+* Kiracının iflas etmesi üzerine kiralayana teminat verilmediği takdirde fesih
+hakkı tanıyan TBK m.332
+* Para ödüncü sözleşmesinde ödünç alan kişinin ödeme güçsüzlüğüne düşmesi
+üzerine ödünç verme borçlusunun şeyi teslimden kaçınmasını düzenleyen TBK m.390
+* Hizmet sözleşmesinde işverenin ödeme güçsüzlüğü halinde işçiye fesih hakkı
+veren TBK m.436
+
+TBK m.98 hükmünde de, alacaklının ifa güçsüzlüğüne düşmesi üzerine borçlunun bu
+alacaklıdan bir karşı alacağı varsa kendi borcunu ifadan kaçınabileceği, genel
+olarak düzenlenmiştir.
+
+.TBK m.98
+....
+f.1 - Karşılıklı borç yükleyen bir sözleşmede, taraflardan birinin borcunu
+ifada güçsüzlüğe düşmesi ve özellikle iflas etmesi ya da hakkındaki haciz
+işleminin sonuçsuz kalması sebebiyle diğer tarafın hakkı tehlikeye düşerse bu
+taraf, karşı edimin ifası güvence altına alınıncaya kadar kendi ediminin
+ifasından kaçınabilir.
+f.2 - Hakkı tehlikeye düşen taraf, ayrıca uygun bir sürede istediği güvence
+verilmezse sözleşmeden dönebilir.
+....
+
+Ne var ki bu hükümler sadece borçlunun ifa güçsüzlüğü durumlarını
+düzenlemektedir. Alacaklıya borçlunun ifa güçsüzlüğü dışında bir sebeple
+muacceliyetten önce başvurabileceği bir imkan tanıyan tek hüküm, eser
+sözleşmesine ilişkin TBK m.47 hükmüdür. Buna göre, yüklencinin her ne sebeple
+olursa olsun, işe geç başlaması, işi yavaş yürütmesi veya --vade günü belli
+ise-- işin vadeye yetişmeyeceğinin anlaşılması üzerine, iş sahibi muacceliyeti
+(eseri teslim zamanını) beklemeden sözleşmeden dönebilecek, eserin ayıplı
+olacağı önceden anlaşılıyorsa gene muacceliyeti beklemeden işi başkasına
+yaptırabilecektir.
+
+Yukarıda belirtilen hükümlerden hiçbirine girmeyen ve ifayı tehlikeye düşüren
+durumlarda alacaklının ne yapabileceği, ona hangi hakların tanınabileceği ve bu
+hakların dayanağı son derece tartışmalıdır.
+
+_Baskın görüş_, bu gibi durumların bir tür *borca olumlu aykırılık*
+saymaktadır. Böylece, *sözleşmenin amacını tehlikeye sokma* şeklinde
+değerlendirilen bu durumlarda, daha önce açıkladığımız kötü ifanın sonuçları
+uygulanacaktır. Bu ise, vadeyi beklemeden TBK m.112 uyarınca tazminat istemeye
+götürür.
+
+_İkinci bir görüş_, bu durumu, kıyasen borçlu temerrüdü hükümlerine tabi
+tutmaktadır. Böylece, borçlunun ifada bulunmayacağını ortaya koyması üzerine,
+vade gelmemiş olsa bile, sanki vade gelmiş de ifa yapılmamış gibi, alacaklı
+borçlu temerrüdü hükümlerine (karşılıklı edimleri içeren sözleşmelerde TBK
+m.123-126 hükümlerine), başvurabilecek ve oradaki şartlar çerçevesinde gene
+orada tanınan hakları kullanabilecektir.
+
+_Üçüncü bir görüş ise_, borçlunun bu tür davranışını taraflar arasındaki güven
+ilişkisinden doğan ve edim yükümünden bağımsız olan bir borç ilişkisinin ihlali
+olarak görmektedir. Söz konusu görüş açısından, burada bir edim borcuna
+aykırılık yoktur, güven ilişkisine dayanan (dürüstlük kuralından kaynaklanan)
+bir borca aykırılık vardır ve bunun sonucu artık alacaklı için sözleşme
+katlanılmaz hale gelmiştir. Bu görüş uyarınca, alacağı tehlikeye düşen tarafa
+dürüstlük kuralından kaynaklanan bir sözleşmeden dönme hakkı tanınacaktır.
+Ayrıca bunun yanında, güveni ihlal sebebiyle, alacaklının güvenden kaynaklanan
+zararının tazminini istemesi de mümkün görülmektedir.
+
+[, Oğuzman & Öz]
+""
+Cebri icrası mümkün olmayan edim borçlarında borçlunun ifada bulunmayacağını
+ortaya koyması üzerine borç ilişkisinin imkansızlık sebebiyle sona ererek
+yerine TBK m.112 uyarınca tazminat ödeme borcunun doğacağı şeklindeki
+görüşümüzün kabulü, söz konusu durumların büyük çoğunluğunda da en isabetli
+çözümü sağlayacaktır. Böylece, bir yapma ediminin borçlusu vadeden önce borcunu
+ifa etmeyeceğini --irade beyanıyla veya tutumutla-- açıkça ortaya koyarsa,
+alacaklı beklemek zorunda kalmadan TBK m.112 uyarınca (kusurlu ifa
+imkansızlığından dolayı), uğradığı zararın tazminini isteyebilecektir. Buna
+karşılık, özellikle verme borçlarında, borçlunun ifada bulunmayacağını ortaya
+koymasına rağmen edimin cebri icrası mümkünse, alacaklının vadeye kadar
+beklemekten başka çaresi olmayacaktır. Fakat bu şıkta, edim imkansızlaşmadığı
+(cebri icra yoluyla elde edilmesi mümkün olduğu) ve borçlu da ifa güçsüzlüğü
+durumuna düşmediği için, alacaklıyı bekletmekte büyük bir sakınca yoktur.
+""
+
+== 4- BORÇLU TEMERRÜDÜNÜN GENEL SONUÇLARI
+
+Genel olarak borçlu temerrüdünün sonuçları, borçlunun gecikme tazminatı ödeme
+borcu doğması ve temerrütten sonra beklenmedik halden doğacak zararlardan
+sorumlu olmasıdır.
+
+.TBK m.118
+....
+Temerrüde düşen borçlu, temerrüde düşmekte kusuru olmadığını ispat etmedikçe,
+borcun geç ifasından dolayı alacaklının uğradığı zararı gidermekle yükümlüdür.
+....
+
+.TBK m.119
+....
+f.1 - Temerrüde düşen borçlu, beklenemdik hal sebebiyle doğacak zarardan
+sorumludur.
+f.2 - Borçlu temerrüde düşmekte kusuru olmadığını veya borcunu zamanında ifa
+etmiş olsaydı bile beklenmedik halin ifa konusu şeye zarar vereceğini ispat
+ederek bu sorumluluktan kurtulabilir.
+....
+
+=== 1- Gecikme tazminatı
+
+TBK m.118'de düzenlenen gecikme tazminatı, alacaklının borcun geç ifa
+edilmesinden uğradığı zararı karşılamayı amaçlar ve alacaklının borcun
+gecikmeden ifa edilmesindeki çıkarını sağlmaya yöneliktir.
+
+Gecikme tazminatı, ifa ile birlikte talep edilebileceği gibi, ifa temerrütten
+sonra yerine getirilmiş ve bir çekince (ihtizari kayıt) ileri sürülmemiş olsa
+bile ifadan sonra talep ve dava edilebilir. İfa davasında talep edilmemiş olsa
+dahi gecikme tazminatı ayrıca dava edilebilr. Tazmin edilecek zarar bir tür
+olumlu zarardır ve alacaklının malvarlığının, temerrüde düşülmeden borcun ifa
+edilmesi halinde içinde bulunacağı durumla, gecikmeli ifa sonucunda içinde
+bulunduğu durum arasındaki farkı ifade eder. Bu zararın kapsamına, gecikme
+yüzünden alacaklının yaptığı masraflar, borçlunun gecikmesi yüzünden
+alacaklının başkalarına ödemek zorunda kaldığı tazminatlar, temerrüt süresinde
+malın değerinin düşmesi yüzünden alacaklının uğradığı zarar gibi alacaklının
+malvarlığının azalması tarzında fiili zararlardan başka borcun ifasının
+gecikmesi yüzünden alacaklının yoksun kaldığı kâr da girer.
+
+Gecikmeden doğan zararın hesabında hangi sürenin gözönüne alınacağı konusunda
+kanunda bir açıklık yoktur.
+
+Fakat gecikme tazminatının, basit bir gecikmenin değil, temerrüdün bir sonucu
+olduğu gözönünde tutulursa, gecikme tazminatının hesabında ancak temerrütten
+sonraki gecikme süresinin gözönüne alınacağında tereddüt edilmemelidir.
+Muacceliyetten sonraki bütün sürenin dikkate alınması söz konusu değildir.
+
+TIP: Taraflar arasındaki sözleşmede vade belirlenmemişse borç kural olarak
+doğar doğmaz muaccel olur. Bu şekilde, 1 Ocak 2012 tarihinde muaccel olan bir
+borç ilişkisinde, bundan 2 ay sonra 1 Mart 2012 tarihinde alacaklının ifa
+talebi üzerine borçlu temerrüde düşmüş ve 2 ay daha gecikmeyle 1 Mayıs 2012
+tarihinde ifa gerçekleşmiştir. Gecikme tazminatı hesaplanırken, alacaklının
+malvarlığının 1 Mayıs'taki ifa üzerine içinde bulunduğu durum ile ifa 1 Mart'ta
+gerçekleşseydi içinde bulunacak olduğu durum arasındaki fark esas alınacaktır.
+Yoksa, ifa 1 Ocak'ta (borç muaccel olduğunda) yapılsaydı durumun ne olacağına
+bakılmaycaktır.
+
+Gecikme tazminatı, borcun gereği gibi ifa edilmemesinden doğan bir tazminat
+olduğu için, TBK m.112 vd. hükümleri, temerrüdün gerektirdiği ek şartlar ve
+zararın özelliği gözönüne alınmak kaydıyla, burada da uygulanacaktır. Gene,
+sorumluluğun kusur esasına dayanması, yardımcıların fiilinden sorumluluk,
+sorumluluğun anlaşma ile daraltılması, tazminatın belirlenmesinde hakimin
+yetkisi konusunda açıklanan esaslar gecikme tazminatı için de gözönüne
+alınacaktır.
+
+Borçlu temerrüde düşmekte kusuru bulunmadığını ispat etmedikçe, alacaklının
+gecikme yüzünden uğradığı zararı tazmin edecektir. Şu halde burada temerrüdün
+kusura bağlı bir sonucu söz konusudur. Fakat borçlu karine olarak kusurlu
+sayılır. Ancak kusuru bulunmadığını ispat ederek tazminat yükümlülüğünden
+kurtulabilir.
+
+Gecikme tazminatı yalnızca aynen ifanın istenebildiği süre için talep
+edilebilir. TBK m.112 uyarınca kusurlu imkansızlık sebebiyle tazminat istendiği
+veya borçlu temerrüdünde TBK m.125/2 uyarınca ifadan vazgeçerek tazminat
+istendiği durumlarda, ayrıca gecikme tazminatı istenemez. Ancak, imkansızlık
+temerrütten sonra gerçekleşmişse, aradan geçen süre için uğranılan gecikme
+zararının TBK m.118 uyarınca tazmini imkansızlıktan sonra da istenebilir. Bu
+şıkta, ayrıca, TBK m.118 uyarınca tazmini imkansızlaşan edimin değerine ilişkin
+alacaklının zararının da tazmini istenebilecektir. Karşılıklı edimler içeren
+sözleşmelerde borçlu temerrüdünde, alacaklı TBK m.125/2 uyarınca ifadan
+vazgeçerek olumlu (müspet) zararının tazminini istediğinde, bunu bildirdiği ana
+kadarki temerrüt süresine ait gecikme zararı ise, esasen zamanında ifaya olan
+çıkar hesaplanırken gözönünde tutulacaktır.
+
+=== 2- Kazara vukua gelecek zarardan sorumluluk
+
+TBK m.119/1 hükmüne göre, temerrüde düşen borçlu, bundan sonra beklenmedik hal
+sebebiyle doğacak zarardan da sorumludur. Böylece borçlu, temerrüde düşerek
+borca aykırı davranmasının beklenmeyen sonuçlarından ve borcun ifasının kusuru
+bulunmadan imkansızlaşmasından sorumlu tutulmaktadır. Bu durum, temerrütten
+itibaren hasarın borçluya ait olması tarzında da ifade edilmektedir.
+
+TBK m.119/2 uyarınca, borçlu bu sorumluluktan, ya sorumluluğa yol açan borca
+aykırı davranışta (temerrüde düşmede) kusuru bulunmadığını, ya da borca aykırı
+davranışı ile meydana gelen zarar arasında nedensellik bağı bulunmadığını ispat
+ederek kurtulabilir.
+
+WARNING: Borçlu edimin beklenmedik hal sebebiyle zarar görmesinde (kazaya
+uğramasında) --kaza anında bunu önlemek bakımından-- kusuru bulunmadığını ispat
+ederek sorumluluktan kurtulamaz. Temerrüde düşmekte kusursuzluğunu ispat
+etmelidir.
+
+İkinci noktanın ispatı ise, kanuna göre, borç temerrüde düşülmeden ifa edilse
+idi dahi beklenmedik halin yarattığı kazanın alacaklı zararına borcun konusuna
+isabet edeceğinin ispat edilmesiyle sağlanır. 
+
+TBK m.119/2'de yer alan "... temerrüde düşmekte kusuru olmadığını..."
+ifadesinden anlaşıldığı üzere, borç muaccel olmakla beraber henüz temerrüt
+şartları gerçekleşmeden uğranan kazadan (beklenmedik halden) borçlu esasen
+sorumlu değildir. Her ne kadar TBK m.119 hükümlerinde "beklenmedik hal" ifadesi
+yer almakta ise de, burada aslında borçlunun özellikle ve münhasıran
+beklenmedik halden sorumluluğu değil, kusuru ile temerrüde düşmenin sonuçlarına
+katlanması bahis konusu olduğu için, zarara yol açan olayın beklenmedik hal
+veya mücbir sebep teşkil etmesi önem taşımaz. Gene aynı sebeple, zarara yol
+açan olayda borçlunun bir kusuru bulunup bulunmamasının veya kusurunun
+derecesinin bir önemi yoktur. Borçlunun hafif kusurundan sorumlu olmaycağı
+yolunda sözleşmedeki bir kaydın da bu hususta rolü olmaz. Fakat temerrüde düşme
+bakımından borçlunun kusurunun varlığı ve derecesi önem taşır. Hiç kusuru
+bulunmaması sorumluluğu kaldırır.
+
+== 5- PARA BORÇLARINDA TEMERRÜDÜN SONUÇLARI
+
+Borçlar Kanunu para borçlarında temerrütte, gecikme tazminatını karşılamak ve
+tazminatın alt sınırını teşkil etmek üzere temerrüt faizi ödenmesi gerekeceğini
+kabul etmiştir (TBK m.120). Şayet zararı temerrüt faizinden fazla ise alacaklı,
+aşan kısmın tazmin edilmesini de istemek hakkını haizdir (TBK m.122).
+
+=== 1- Temerrüt faizi
+
+==== _a) Niteliği ve şartları_
+
+Temerrüt faizi ödeme borcunun doğması, borçlunun kusurunun ve zararının
+varlığını gerektirmez.
+
+Para borçlarında temerrüt halinde borçlu, gecikme tazminatı olarak temerrüt
+faizi ödemek yükümlülüğü altındadır. Diğer borçlarda borçlu, temerrüde düşmede
+kusuru bulunmadığını ispat ederek gecikme tazminatı ödemekten kurtulabilirken,
+aynı imkan temerrüt faizi için söz konusu değildir. Borçlu temerrüde düşmede
+kusuru bulunmasa da, para borcu için temerrüt faizi ödemekle yükümlüdür.
+
+Alacaklının temerrüt faizi istemesi için bir zararı bulunduğunu ispat etmesi de
+gerekmez. Zira temerrüt faizi, alacaklının kanunen var farzedilen zararını
+tazmin için kanunun kabul ettiği bir götürü tazminatı niteliğindedir.
+
+==== _b) Temerrüt faizi miktarı_
+
+Temerrüt faizi miktarı, faizin oranı ile, faizin işleyeceği süreye göre belli
+olacaktır.
+
+... _Temerrüt faizinin oranı_, ticari olan ve olmayan işler ayırımı yapılmadan,
+TBK m.120 uyarınca, "...sözleşmede kararlaştırılmışsa, faiz borcunun doğduğu
+tarihte yürürlükte olan mevzuat hükümlerine göre belirlenir."
+... _Temerrüt faizi, prensip itibariyle borçlunun temerrüde düştüğü günü takip
+eden günden itibaren işlemeye başlar_ ve borcun ifası tarihine kadar devam
+eder.
++
+.TBK m.120
+....
+f.1 - Uygulanacak yıllık temerrüt faizi oranı, sözleşmede kararlaştırılmamışsa,
+faiz borcunun doğduğu tarihte yürürlükte olan mevzuat hükümlerine göre
+belirlenir.
+f.2 - Sözleşme ile kararlaştırılacak yıllık temerrüt faizi oranı, birinci fıkra
+uyarınca belirlenen yıllık faiz oranının yüzde yüz fazlasını aşamaz.
+f.3 - Akdî faiz oranı kararlaştırılmakla birlikte sözleşmede temerrüt faizi
+kararlaştırılmamışsa ve yıllık akdî faiz oranı da birinci fıkrada belirtilen
+faiz oranından fazla ise, temerrüt faizi oranı hakkında akdî faiz oranı geçerli
+olur.
+....
++
+Fakat istisnaen faizlerin, işlemiş irat taksitlerinin ve bağışlanmış paranın
+ödenmesinde temerrütte, temerrüt faizi icraya veya mahkemeye gününden itibaren
+işlemeye başlar (TBK m.104/1). Bu hükmün aksine anlaşma yapılması yani söz
+konusu hallerde temerrüt faizinin temerrüt tarihinden itibaren işleyeceğinin
+taraflarca kararlaştırılması mümkündür. Fakat TBK m.121/2 böyle bir anlaşmanın
+ceza koşulları hükümleri uyarınca hakimin tenkis yetkisine (TBK m.182/3) tabi
+olacağını düzenlemiştir. Faize temerrütten önceki bir tarihten faiz
+yürütülmesine ilişkin bir anlaşma ise hükümsüzdür.
++
+.TBK m.121
+....
+f.1 - Faiz veya irat borcunu ya da bağışladığı bir miktar parayı ödemekte
+temerrüde düşen borçlu, icra takibine girişildiği veya dava açıldığı günden
+başlayarak, temerrüt faizi ödemekle yükümlüdür.
+f.2 - Buna aykırı olarak yapılan anlaşmalar, ceza koşulu hükümlerine tabi olur.
+f.3 - Temerrüt faizine, ayrıca temerrüt faizi yürütülemez.
+....
++
+TBK m.121/1'de söz konusu faiz, temerrüt dışındaki işlemiş faizlerdir. Temerrüt
+faizine, mahkemeye veya icraya başvurma tarihinden itibaren de ayrıca temerrüt
+faizi yürütülmez. 
+
+==== _c) Talep şartı_
+
+Temerrüt faizi, kural olarak temerrütten ve istisnaen mahkemeye veya icraya
+başvurulmasından itibaren işlerse de, alacaklı temerrüt faizi talep etmedikçe,
+hakim kendiliğinden borçluyu temerrüt faizi ödemeye mahkum edemez veya icra
+takibi temerrüt faizini kapsamaz. Fakat alacaklı temerrüt faizi talebinde
+bulunmuş ise, faizin yukarıda belirtilen esaslara göre hesaplanması gerekir.
+
+Temerrütte gecikme tazminatı ifa ile birlikte veya ifadan sonra talep
+edilebildiği halde, alacaklı, ihtirazi kayıt ileri sürmeden ifayı kabul
+etmişse, temerrüt faizi alacağı bir fer'i alacak olduğu için asıl alacakla
+birlikte sona erer (TBK m.131/2). Fakat henüz asıl borç sukut etmeden gecikme
+faizi ayrı bir dava ile talep edilebilir. Ancak, sözleşmede kayıtsız şartsız
+kabul edilen ifaya rağmen temerrüt faizinin sona ermeyeceği
+kararlaştırılabileceği gibi, açık bir saklı tutma olmasa bile durum ve
+koşullardan faizin saklı tutulduğu anlaşılıyorsa, ifaya rağmen temerrüt faizi
+alacağı düşmez (TBK m.131/2).
+
+=== 2- Temerrüt faizi ile karşılanmayan zararın tazmini
+
+Temerrüt faizi, götürü şekilde gecikme tazminatı işlevi görürse de, kanun,
+alacaklının zararının temerrüt faizi ile karşılanamaması halinde munzam zararın
+tazmininin talep edilmesi imkanını da kabul etmiştir.
+
+.TBK m.122
+....
+f.1 - Alacaklı, temerrüt faizini aşan bir zarara uğramış olursa, borçlu
+kendisinin hiçbir kusuru bulunmadığını ispat etmedikçe, bu zararı da gidermekle
+yükümlüdür.
+f.2 - Temerrüt faizini aşan zarar miktarı görülmekte olan davada
+belirlenebiliyorsa, davacının istemi üzerine hâkim, esas hakkında karar
+verirken bu zararın miktarına da hükmeder.
+....
+
+Temerrüt faizinden farklı olarak artık alacaklı, zararının bu faizle
+karşılanmadığını ispatla yükümlüdür.
+
+[TIP]
+====
+* Alacaklı, 
+
+** para alacağı ödense idi elde edeceği para ile karşılayacağı bir ihtiyacı
+için temerrüt faizinden yüksek oranda bir faizle başkasından ödünç almak
+zorunda kaldığını
+** vaktinde ifa edilmeyen borç yüzünden kendi alacaklısına sözleşme cezası
+ödemesi gerektiğini
+** almayı planladığı bir malı veya yakaladığı bir iş fırsatını kaçırdığını
+
+ispat edebilir.
+====
+
+Diğer taraftan borçlu da, temerrüde düşmede kusuru bulunmadığını ispat ederek
+zararı tazmin yükümlülüğünden kurtulabilir.
+
+=== 3- Yabancı para borçlarında alacaklının kuru seçme hakkı
+
+.TBK m.99/3
+....
+Ülke parası dışında başka bir para birimiyle belirlenmiş ve sözleşmede aynen
+ödeme ya da bu anlama gelen bir ifade de bulunmadıkça, borcun ödeme gününde
+ödenmemesi üzerine alacaklı, bu alacağının aynen veya vade ya da fiilî ödeme
+günündeki rayiç üzerinden Ülke parası ile ödenmesini isteyebilir.
+....
+
+Aksi kararlaştırılmadıkça yabancı para borçlusu borcunun vade günündeki kur
+üzerinden Türk parası karşılığını ödeyebilir. İşte bu durumda, borçlu geç ifada
+bulunduğu takdirde Türk parasının değeri yabancı paraya göre düştüğü için
+alacaklı zararlı çıkabilecektir. Bu yüzden söz konusu yeni hükümle alacaklıya
+dilerse borçluyu aynen (yabancı parayla) ödemeye zorlama, dilerse ülke parası
+ile ödeme isteyip işine gelene göre vade veya ödeme tarihindeki kur üzerinden
+hesap yapılmasını talep hakki tanınmıştır.
+
+TBK m.99/3 metninde vadede ödememeye sonuç bağlandığından, alacaklının seçim
+hakkının doğması için borçlunun temerrüde düşmesinin şart olmadığı
+belirtilmektedir. Ne var ki, taraflar arasında kararlaştırılmış veya bir
+tarafın gene kendisine tanınan yetkiyle kararlaştırdığı bir vadenin gelmesi,
+diğer şartlar da varsa, esasen TBK m.117/2 uyarınca temerrüt sonucunu doğurur.
+Şu halde, TBK m.99/3 hükmü vade belirlenmemiş ve böylece kural olarak doğar
+doğmaz muaccel olan borçlarda da uygulanmalı; alacaklı dilerse aynen ödemeyi
+dilerse ödeme zamanındaki kurdan dilerse muacceliyet zamanındaki kurdan hesap
+yapılmasını isteyebilmelidir. Bu gibi durumlarda, ihtar yapılmadığından
+temerrüdün gerçekleşmemiş olması veya sonradan gerçekleşmiş (ihtar yapılmış)
+olması, alacaklının seçimlik imkanını engellemeyeceği gibi, ihtar (temerrüt)
+anındaki kurun uygulanması da söz konusu olmayacaktır.
+
+[, Oğuzman & Öz]
+""
+Ancak, ister vade belirlenmiş ister belirlenmemiş bir borç olsun, kanımızca,
+temerrüdün ihtar dışundaki şartlarından biri gerçekleşmemişse, artık alacaklı
+bu seçim haklarına sahip olmamalı, borçlu Türk parasıyla ifada bulunuyorsa vade
+günündeki kur uygulanmalıdır. Aksi sonuç kanunun amacına ve adalete ters düşer.
+""
+
+== 6- KARŞILIKLI EDİM BORÇLARI İÇEREN SÖZLEŞMELERDE TEMERRÜDÜN SONUÇLARI
+
+=== 1- Genel bakış
+
+.TBK m.123
+....
+Karşılıklı borç yükleyen sözleşmelerde, taraflardan biri temerrüde düştüğü
+takdirde diğeri, borcun ifa edilmesi için uygun bir süre verebilir veya uygun
+bir süre verilmesini hâkimden isteyebilir.
+....
+
+.TBK m.125
+....
+f.1 - Temerrüde düşen borçlu, verilen süre içinde, borcunu ifa etmemişse veya
+süre verilmesini gerektirmeyen bir durum söz konusu ise alacaklı, her zaman
+borcun ifasını ve gecikme sebebiyle tazminat isteme hakkına sahiptir.
+f.2 - Alacaklı, ayrıca borcun ifasından ve gecikme tazminatı isteme hakkından
+vazgeçtiğini hemen bildirerek, borcun ifa edilmemesinden doğan zararın
+giderilmesini isteyebilir veya sözleşmeden dönebilir.
+f.3 - Sözleşmeden dönme hâlinde taraflar, karşılıklı olarak ifa yükümlülüğünden
+kurtulurlar ve daha önce ifa ettikleri edimleri geri isteyebilirler. Bu durumda
+borçlu, temerrüde düşmekte kusuru olmadığını ispat edemezse alacaklı,
+sözleşmenin hükümsüz kalması sebebiyle uğradığı zararın giderilmesini de
+isteyebilir.
+....
+
+Görülüyor ki, TBK m.125, alacaklıya ifa ve gecikme tazminatı isteme dışında
+borcun ifasından vazgeçip, ifa etmeme sebebiyle tazminat isteme veya
+sözleşmeden dönme haklarını tanımaktadır. Fakat alacaklı bu ek imkanlardan
+yararlanabilmek için kural olarak borçluya bir süre vermek zorundadır.
+
+Verilen sürenin sonunda alacaklı, hala ifa ve gecikme tazminatı isteme hakkında
+sahiptir. Bu bakımdan süre verilmiş olmasının bir rolü yoktur. Süre
+verilmesinin önemi, bu sürenin sonunda alacaklıya, ifa isteme hakkından
+vazgeçerek, borcun ifa edilmemesi sebebiyle tazminat isteme veya sözleşmeden
+dönme haklarını kullanma imkanı sağlamasındadır. Alacaklı bu seçimi ancak
+derhal yapacağı bir beyanla kullanabilir.
+
+Kanun bazı hallerde süre tayinine gerek kalmadan alacaklıya borcun ifa
+edilmemesi sebebiyle tazminat isteme veya sözleşmeden dönme hakkı tanımıştır.
+
+=== 2- Ek süre (önel = mehil) tayini
+
+Süre verme, alacaklının mütemerrit borçluya borcunu ifa etmesi için bir süre
+tanımasıdır.
+
+Böylece alacaklı borçluyu bu süre içinde borcunu yerine getirmeye davet etmiş
+olur. Sözleşmeden dönebilmek veya ifa yerine tazminat talep edebilmek için süre
+vermeye mecbur olan alacaklı, çok kere süreyi bu amaçla verirse de, süre
+verilmesinin TBK m.125'de öngörülen hukuki sonuçları doğurması, beyanın bu
+sonuçları sağlamak maksadı ile yapılmış olmasına bağlı sayılmamaktadır.
+Çoğunlukla benimsenen bir fikre göre süre verilmesi de tıpkı borçluyu temerrüde
+düşüren ihtar gibi hukuki işlem benzeri bir fiil niteliğinde görülmektedir.
+
+Verilen süre, borçlunun, borcunu ifa etmek ve böylece sözleşmeden dönme veya
+ifa yerine tazminat ödeme halleri ile karşılaşmamak için yararlanabileceği son
+bir imkandır. Verilen önel süresince temerrüt devam eder; borçlu bu süre için
+gecikme tazminatı ödemek zorundadır ve beklenmedik hal ile mücbir sebepten
+doğacak zarardan sorumludur. Fakat borçlu önel içinde borcu gecikme tazminatı
+ile birlikte teklif ederek temerrütten kurtulabilir.
+
+Önel süresi, borçlu temerrüde düşmeden verilemez. Fakat borçluyu temerrüde
+düşürecek ihtar bir süreyi de içerebilir. Bu takdirde ihtar süre verme beyanı
+da oluşturur.
+
+Kanun, verilecek sürenin *uygun* olmasını aramıştır. Bundan maksat, dürüstlük
+kuralı çerçevesinde borçlunun borcu ifa etmesine imkan verecek bir süre
+tanınmasıdır. Zira kanun, borçlunun, sözleşmeden dönmeyi ve ifa yerine
+tazminatla yükümlü olmayı önleyebilmek üzere son bir imkana sahip olmasını
+aramaktadır. Fakat bu imkan her iki tarafın da dürüstlük kuralı çerçevesinde
+çıkarları gözönünde tutularak belirlenecektir.
+
+Süreyi alacaklı kendisi tayin edebileceği gibi, bunun belirlenmesini hakimden
+de isteyebilir. Sürenin hakim tarafından belirlenmesi, uygun olup olmadığı
+konusundaki uyuşmazlığı önler. Diğer yandan, taraflar sözleşmede, olası borca
+aykırılıklar karşısında verilecek süreyi kararlaştırmış da olabilir.
+
+[, Oğuzman & Öz]
+""
+Kanımızca, uygun olmayan süre, alacaklıya TBK m.125'deki hakları kullanma
+imkanı vermez. Alacaklı hatasını düzeltip yeniden (bu kez uygun) bir ek süre
+vermeli ve bunun geçmesini beklemelidir. Şu kadar ki, temerrüt üzerine
+kendisine verilen ek sürenin uygun olmadığını anlayacak durumda olan borçlu,
+bunu alacaklıya ilk uygun zamanda bildirmezse (süreye itiraz etmezse), artık
+sürenin yetersizliğini ileri sürememelidir. Meğer ki borçlu, alacaklının
+bildirimde bulunurken bu sürenin yetersiz olduğunu bildiğini veya bilmesi
+gerektiğini ispat etsin.
+""
+
+Ek sürenin ne kadar olduğu bildirimden anlaşılmalıdır. Sadece "ilk uygun sürede
+ifada bulununuz" veya benzeri ifadelerle yapılan bildirimin, sonuç
+doğurmayacağı kabul edilmektedir.
+
+Borcun kaynaklandığı sözleşme şekle bağlı olsa bile, süre tayinine ait beyan
+kural olarak bir şekle tabi değildir. Fakat tacirler arasında süre verme
+beyanının TTK m.18/b.3 uyarınca "...noter aracılığıyla, taahhütlü mektupla,
+telgrafla veya güvenli elektronik imza kullanılarak kayıtlı elektronik posta
+sistemi ile..." yapılması gerekir. Niteliği gözönünde tutulursa süre tayin eden
+beyanın, muhatabın öğrenmesi ile hüküm ifade edeceğini yani sürenin o tarihtan
+itibaren işleyeceğini kabul etmek uygun olur.
+
+Verilen süre içinde borçlu ifa etmek suretiyle borcu sona erdirerek temerrütten
+kurtulabilir. Borçlunun usulüne uygun tarzda sunduğu ifayı alacaklı kabul
+etmezse, borç sona ermiş olmamakla beraber temerrüt sona ermiş olur.
+
+=== 3- Sürenin sonunda alacaklının hakları
+
+==== _a) Alacaklının seçme imkanı_
+
+Verilen süre içinde borcun ifa edilmesi ile veya diğer bir sebeple temerrüt
+sona ermiş olmadıkça alacaklı, sürenin bitmesi üzerine eskiden beri mevcut ifa
+ve gecikme tazminatı isteme hakkından başka yeni iki hakkı kullanma imkanına
+sahip olur.
+
+Böylece alacaklı sürenin sonunda üç imkana sahiptir:
+
+. İfa ve gecikme tazminatı talep etmek
+. Borcun ifa edilmemesi sebebiyle tazminat (olumlu (müsbet) zararın tazminini)
+talep etmek
+. Sözleşmeden dönmek (ve olumsuz (menfi) zararının tazminini istemek)
++
+WARNING: Satım sözleşmesinde, mal alıcıya teslim edilmiş ise, alıcı bedeli
+ödemede temerrüde düşerse, kanun satıcıya sözleşmeden dönme hakkını
+tanımamaktadır. Satıcı bu halde dönme hakkını, açıkça saklı tutmuşsa
+kullanabilir (TBK m.235/3).
+
+TBK m.125 hükmünde siçimlik haklar bu şekilde belirtilmişse de; eğer borçlu
+temerrüde düşmekten sorumlu tutulamayacağını ispat eders, durum değişir. Zira
+bu takdirde, ifa yerine olumlu (müsbet) zararın tazmini istenemeyeceği gibi,
+diğer iki seçenekteki tazminat talepleri de söz konusu olmyacaktır. Böylece,
+temerrütten sorumlu olmayan borçluya karşı alacaklı süre sonunda şu iki imkana
+sahiptir:
+
+. İfayı talep etmek
+. Sözleşmeden dönmek
+
+Alacaklı hala ifa ve gecikme tazminatı istemek niyetinde ise herhangi bir
+beyanda bulunmasına ihtiyaç yoktur. Fakat, ifa edilmeme sebebiyle tazminat
+istemek veya sözleşmeden dönmek arzusunda ise, sürenin sonunda hangi hakkını
+kullandığını derhal borçluya beyan etmek zorundadır.
+
+Alacaklının hangi yolu seçtiğini beyan etmesi bir yenilik doğuran işlemdir.
+Beyan en geç sürenin sonunda derhal yapılmalıdır. Derhalden maksat beyanın hal
+ve şartlara göre vakit geçirmeksizin yapılmasıdır. Fakat beyan önceden daha
+süre verilirken de yapılabilir.
+
+Beyan borçluya ulaşmakla hüküm ifade eder. Fakat hükümlerini yöneltildiği andan
+itibaren yürütür (TBK m.11'e kıyasen). Borçlu, öğreninceye kadar beyan geri
+alınabilir (TBK m.10'a kıyasen). Fakat borçlu öğrendikten sonra alacaklı
+beyanından geri dönemez.
+
+Alacaklı ifa yerine tazminat talep ettiğini veya sözleşmeden döndüğünü beyan
+ettikten sonra artık borçlunun arz edeceği ifayı kabule mecbur değildir. Buna
+karşılık alacaklı, ya ifayı tercih ettiği için veya diğer hakları kullandığını
+zamanında beyan etmeyi ihmal ettiği için sadece ifa ve gecikme tazminatını
+talep ile yetinmek zorunda ise, borçluya yeniden süre verip, bu süre sonunda
+diğer hakları kullanma imkanını tekrar sağlayabilir. Alacaklının ifayı tercih
+ettiğini beyan ve hatta ifayı dava etmiş olması, bu imkana etki yapmaz. Fakat
+borçlu da yeni sürenin sonuna kadar borcu ifa ederek borçtan kurtulmak imkanını
+kazanır.
+
+Alacaklı ifa yerine tazminat istemiş fakat borçlu kusuru olmadığını ispat
+ederek tazminat borcu doğmadığını ortaya koymuşsa, alacaklı doğmayan bir hakkı
+seçmiş duruma düşer. Bu takdirde, _bir görüşe göre_ alacaklı hiç bir hakkını
+henüz kullanmamış gibi hala ifayı ister durumda sayılmalı, eğer sözleşmeden
+dönmek isterse yeniden ek süre vererek bu sürenin sonunda sözleşmeden
+dönebilmelidir.
+
+==== _b) Seçilen imkanın sonuçları_
+
+===== aa- _İfa ve gecikme tazminatı_
+
+Alacaklı tercih ettiği için veya zamanında diğer haklarını kullanmadığı için
+ifa ve gecikme tazminatı talep ederse temerrüdün genel sonuçları açıklanırken
+belirtilen esaslar uygulanacaktır.
+
+===== bb- _İfadan vazgeçerek olumlu (müsbet) zararın tazmini_
+
+Alacaklı ifadan vazgeçip borcun ifa edilmemesi sebebiyle tazminat talep ederse,
+ifa imkansızlığında olumlu zararın tazminindeki esaslar kural olarak burada da
+uygulanacaktır. Aslında ifa imkansız bulunmamakla beraber, alacaklının ifadan
+vazgeçme beyanı üzerine, borcun ifası imkansızlaşmış gibi borçlu alacaklının
+zararını tazmin edecektir. Tazmin yükümlülüğü borçlunun borcu ifa etmemede
+kusurlu olmasına bağlıdır. Fakat alacaklı borçlunun kusurunu ispatla yükümlü
+değildir. Borçlu sorumlu olmaktan kurtulmak için kusuru bulunmadığını ispat
+zorundadır.
+
+İfadan vazgeçip tazminat istenildiği ana kadar devam eden temerrüt süresi için
+gecikme zararının tazmini de istenebilecektir. Zira, bildirim anına kadar
+doğmuş temerrüt sonuçları, bundan sonra da saklıdır.
+
+Alacaklının zararı hesap edilirken, bu zararın mübadele (değişim) teorisine
+göre mi, yoksa fark teorisine göre mi hesap edileceği tartışmalı bir meseledir.
+TBK'da fark teorisinin açıkça benimsendiği iki hal, satım sözleşmesinde
+satıcının veya alıcının borçlu temerrüne düşmesinde olumlu zararın tazmini
+halleridir (TBK m.213 ve 236).
+
+[, Oğuzman & Öz]
+""
+Biz, imkansızlıkta karşılıklı borçların sona erdiğini ve ancak karşılıklı
+edimlerin değer farkında edemeyişinin alacaklı için bir zarar oluşturduğunu
+kabul ettiğimizi belirtmiştik. Bu ise fark teorisinin uygulanması demektir.
+""
+
+_Baskın görüş_, fark teorisi denilen bu metodun borçlu temerrüdünde TBK m.125/2
+uyarınca ifa yerine tazminat talep edildiğinde de uygulanması yolundadır.
+
+Fakat alacaklının olumlu zararı, fark teorisi kabul edilirse sadece edimlerin
+değeri arasındaki farktan, değişim teorisi kabul edilirse ifa edilmeyen edimin
+değerinden, ibaret olmayabilir.
+
+TIP: Teslimde temerrüt edilen malın vadede değeri düşük iken temerrüt
+devresinde yükselmiş ve sonra gene düşmüş ise, borçlu temerrüde düşmeden ifa
+etse idi alacaklının malı satarak bu fiyat yükselmesinden istifade edeceği
+sabit olursa, borçlunun temerrüdü yüzünden alacaklının yoksun kaldığı bu kazanç
+da onun zararını oluşturur. Tazminatın kapsamına bu zarar da girer.
+
+İfasına başlanmış olan sürekli borç ilişkilerinde, geçmişe etkili olarak
+sözleşmeden dönme mümkün olmadığı gibi, ifadan vazgeçerek tazminat talebine de
+yer yoktur. Burada TBK m.126 hükmündeki fesih hakkı kullanıldığında esasen borç
+ilişkisi ileriye etkili şekilde sona erecek ve fesih anından itibaren yerine
+getirilmeyen edim kısmının ifasına olan alacaklının çıkarının (olumlu
+zararının) tazmini mümkün olacaktır. Yerine getirilmiş edim kısmına
+dokunulmaması ve bunun karşılığının da ifasının gerekmesi adil bir sonuçtur. 
+
+.TBK m.126
+....
+İfasına başlanmış sürekli edimli sözleşmelerde, borçlunun temerrüdü hâlinde
+alacaklı, ifa ve gecikme tazminatı isteyebileceği gibi, sözleşmeyi feshederek,
+sözleşmenin süresinden önce sona ermesi yüzünden uğradığı zararın giderilmesini
+de isteyebilir.
+....
+
+===== cc- _Sözleşmeden dönme ve sonuçları_
+
+Alacaklı ifadan vazgeçip sözleşmeden döndüğünü beyan ederse, borç ilişkisi
+geriye etkili olarak ortadan kalkmış olur.
+
+Böylece her iki tarafın borcu da sona erer. Böylece artık borçlu için borcun
+ifası ve alacaklı için ifayı kabul zorunluluğu söz konusu olmadığı gibi,
+alacaklı da kendi karşı borcundan kurtulur ve sona erme geriye etkilidir.
+Şayet, o borcunu daha önce ifa etmişse edimini geri isteyebilir.
+
+.TBK m.125/3
+....
+Sözleşmeden dönme hâlinde taraflar, karşılıklı olarak ifa yükümlülüğünden
+kurtulurlar ve daha önce ifa ettikleri edimleri geri isteyebilirler. Bu durumda
+borçlu, temerrüde düşmekte kusuru olmadığını ispat edemezse alacaklı,
+sözleşmenin hükümsüz kalması sebebiyle uğradığı zararın giderilmesini de
+isteyebilir.
+....
+
+Bu sonuç borçlunun kusuruna bağlı değildir. Fakat ayrıca olumsuz zararın
+tazmininin talep edilmesi borçlunun kusursuzluğunu ispat edememesi şatına
+bağlıdır.
+
+Sözleşmeden dönme üzerine doğacak hukuki sonuçlar öğretide tartışmalıdır.
+Dönmenin borç ilişkisine etkisi bakımından bazısının kendi içinde de alt
+ayrımları olan, başlıca üç teori vardır:
+
+. _Klasik teori_ olarak adlandırılan, İsviçre ve Türk Hukuklarında _baskın olan
+görüşe_ göre, dönme bildirimi sözleşmeyi kurulduğu andan itibaren ortadan
+kaldırır. Bu bildirim bozucu yenilik doğuran bir hakkın kullanılmasıdır.
+Kurulduğu andan itibaren ortadan kalkan bu sözleşmeden doğan haklar ve borçlar
+da doğduklarından itibaren ortadan kalkmış sayılırlar. TBK m.125/3 açıkça
+"sözleşmenin hükümsüz kalması sebebiyle uğradığı zarrın giderilmesini..."
+demektedir. Böylece, artık ifa istenemeyeceği gibi vaktiyle verilen veya
+yapılan şeyler de hukuki sebepten yoksun hale dönüşmüştür. Önceki ifa sonucu
+tarafların edindikleri (iktisap ettikleri) bütün haklar ve malvarlıklarında
+doğan her artış, onlar için bir sebepsiz zenginleşmedir. Bu kazanımların geri
+verilmesi talepleri, TBK m.77 vd. sebepsiz zenginleşme hükümlerine tabi olacak,
+iade borcunun kapsamı da TBK m.79-81 hükümlerine göre belirlenecektir. İade
+taleplerinin bağlı olduğu zamanaşımı da TBK m.82 uyarınca dönme bildiriminin
+ulaşmasından itibaren 2 yıl olacaktır. Buradaki davanın, *sonradan ortadan
+kalkan sebebe dayanan zenginleşmenin iadesi davası* olduğu belirtilmektedir.
++
+Ancak, klasik görüş yanlıları burada bir hususta ikiye ayrılmıştır. İçlerinden
+büyük kısmı, dönülen sözleşme uyarınca vaktiyle yapılan kazandırmalar *sebebe
+bağlı* (illi) bir tasarruf işlemiyle yapılmış olsa bile, devredilen hakkın
+kendiliğinden eski sahibine dönmeyeceği, tasarruf işleminin dönmeden
+etkilenmeyeceği, sebebin sonradan sona ermesine dayanılarak iadenin sebepsiz
+zenginleşme talebiyle istenmesi gerektiği görüşündedir.
++
+TIP: Dönülen sözleşme uyarınca vaktiyle bir taşınmaz mülkiyeti nakledilmiş olsa
+bile (bu işlemin sebebe bağlı olmasına karşılık), sözleşmeden dönme üzerine,
+devereden taşınmazı sebepsiz zenginleşmenin iadesi talebiyle (buna dayanan bir
+tescile zorlama davası ile) isteyecektir. Zira tasarruf işlemi yapılırken
+sebebini teşkil eden işlemin geçerliliğini etkileyen bir durum yoktur. İptalden
+farklı olarak dönmede, sebebin sona ermesi, sonraki bir olguya dayanmaktadır.
++
+Buna karşılık bir başka grup klasik görüş yanlısı, sebebe bağlı tasarruf
+işleminin sözleşmeden dönme üzerine gerçmişe etkili olarak hükümsüzleşeceği ve
+bu yolla verilen şeyleri iadesinin ayni hakka dayanacağı görüşündedir.
++
+TIP: Taşınmaz mülkiyeti geçiren bir sözleşmeden dönülünce, mülkiyet el
+değiştirmemiş ve yapılan tescil yolsuz hale gelmiş sayılacaktır.
++
+Bu görüşe karşı, sözleşmeden dönme anına kadar verilen şey üzerinde hak iktisap
+eden üçüncü kişilierin durumu ve bazen karşılıklı iade taleplerinin farklı
+hükümlere tabi olmasına yol açması bakımından eleştiriler yöneltilmiştir.
+
+. _Yasal borç ilişkisi teorisi_ olarak adlandırılan ikinci görüşe göre,
+sözleşmeden dönme üzerine borç ilişkisi ortadan kalkar fakat bu kurulduğu andan
+itibaren hükümsüzleşmesi anlamına gelmez. Vaktiyle tarafların yerine
+getirdikleri edimler de sebepten yoksun kalmış değildir. Ortada gerçek bir
+sebepsiz zenginleşme bulunmamakta, vaktiyle yerine getirilmiş edimleri iade
+yükümü doğrudan TBK m.125/3 hükmünün bunu düzenlemesinden doğmaktadır. Bu
+hükmün, taraflar arasında tasfiyeye yönelik *yasal borç ilişkisi* kurduğu kabul
+edilmektedir. Bu sayede, iade talebine sebepsiz zenginleşmeye ilişkin TBK m.82
+uyarınca (dönme bildiriminden itibaren 2 yıllık) kısa zamanaşımı
+uygulanmayacak, genel zamanaşımı hükmü olan TBK m.146 uyarınca -- dönme
+bildiriminden itibaren -- 10 yıllık zamanaşımı uygulanacaktır. Bununla
+birlikte, iade yükümünün kapsamını belirlemek bakımından sebepsiz zenginleşme
+hükümlerinin (TBK m.79-80) kıyasen uygulanması kabul edilmektedir. Böylece,
+iadenin kapsamının belirlenmesi hususunda TBK m.125/3'deki boşluk
+doldurulacaktır.
++
+Görüldüğü üzere, yasal borç ilişkisi teorisi ile klasik teori arasında, iade
+taleplerinin daha uzun zamanaşımı süresine tabi tutulmaları dışında, pratik bir
+fark yoktur.
+
+. _Yeni dönme teorisi_ olarak adlandırılan ve taraftarı artan üçüncü görüşe
+göre, dönme işlemi borç ilişkisini ne geçmişse etkili ne de ileriye etkili sona
+erdirir. Dönme işlemi sözleşmenin geçerliliğine dokunmayıp onu bir tasfiye
+ilişkisi haline getirir. Bu tasfiye ilişkisinde sözleşmeden doğan borçlar
+tersine dönerek devam ederler. Bu görüş bakımından sözleşmeden dönme, bir
+*değiştirici yenilik doğuran hakkın kullanılmasıdır*.
++
+Sözleşmeden dönme üzerine henüz ifa edilmemiş borçlar, bu görüş yanlılarından
+bazısına göre ileriye etkili olarak ortadan kalkacak, bazısına göre ise ortadan
+kalkmayacak sadece borçlunun ifadan kaçınmasını sağlayan bir def'i hakkı
+doğacaktır.
++
+Yerine getirilmiş edimler ise gene aynı sözleşmeden doğan borçlar olarak, iade
+borçları haline gelecektir. Burada sözleşmenin içerik değiştirerek sürmesi söz
+konusudur. İade yükümü ve buna aykırılık, sebepsiz zenginleşme kurallarına (TBK
+m.79-81) değil, sözleşmeden doğan borçlara uygulanacak kurallara (TBK m.112
+vd.) tabidir.
++
+TIP: İade yükümlüsü ne kadar iyiniyetli olursa olsun zenginleşmenin azaldığı
+veya son bulduğu savunmasını yapamayacak ve zamanaşımı da 10 yıl (TBK m.146)
+olacaktır.
++
+Gene bu görüş uyarınca, asıl borçlar için verilmiş rehin ve kefalet ile
+kararlaştırılmış cezai şartın sözleşmeden dönme üzerine iade borçları için de
+geçerli olacağı ileri sürülmüştür.
+
+Dönme üzerine talep edilecek tazminat konusu da tartışmalıdır. _Klasik görüş
+çerçevesinde_, borçlu temerrüde düşmekte kusursuz olduğunu ispat edemediği
+takdirde, sözleşmeden dönme üzerine ödeyeceği tazminat alacaklının olumsuz
+(menfi) zararını kapsayacaktır. Esasen TBK m.125/3 bunu açıkça belirtmiştir.
+
+Alacaklının olumsuz zararı, dönülen sözleşmeye güvendiği için uğradığı, bu
+sözleşme hiç yapılmasa idi uğramayacağı zarardır. 
+
+Bu zararın kapsamına,
+
+* alacaklının dönülen sözleşmenin kurulması için yaptığı masraflar
+* sözleşmeden doğan borçlar ifa edilecek diye yaptığı masraflar
+* sözleşmenin hüküm ifade ettiğine güvenerek başkası ile sözleşme yapma
+fırsatını kaçırması yüzünden uğradığı zarar girer. 
+
+Sözleşmeden dönme halinde TBK m.125/3 uyarınca borçlunun tazminat ödeme
+yükümlülüğü, borca aykırı davranışının bir sonucudur. Bu sebeple, TBK m.112'ye
+paralel olarak, borçlu kusursuzluğunu ispatla yükümlüdür ve tazminat davası TBK
+m.146 uyarınca on yıllık zamanaşımına tabidir. Süre dönme beyanından itibaren
+işlemeye başlar.
+
+Buna karşılıki burada haksız fiil esaslarının (özellikle zamanaşımı bakımından
+TBK m.72'nin) uygulanması görüşünde olanlar da vardır.
+
+_Yeni dönme teorisine göre_ ise, dönme bildirimi üzerine borç ilişkisi ortadan
+kalkmadığından, alacaklı olumlu (müsbet) zararının tazminini isteyebilecektir.
+Ancak, hem bu görüşe katılıp hem de alacaklının olumsuz zararın tazmini ile
+yetinmesi gerektiğini savunanlar da vardır.
+
+Eğer borçlu temerrütten sorumlu tutulamıyorsa (kusursuzluğunu ispatlaması
+halinde kural olarak böyledir), kendisinden tazminat istenemeyecek, sadece
+yerine getirilmiş edimlerin iadesi söz konusu olacaktır.
+
+===== dd- _Sürekli borç ilişkilerindeki özellikler ve sözleşmenin feshi_
+
+Sürekli borç ilişkilerinde, geçmişe etkili olan sözleşmeden dönme değil,
+ileriye etkili olan sözleşmenin feshinin söz konusu olacaktır.
+
+.TBK m.126
+....
+İfasına başlanmış sürekli edimli sözleşmelerde, borçlunun temerrüdü hâlinde
+alacaklı, ifa ve gecikme tazminatı isteyebileceği gibi, sözleşmeyi feshederek,
+sözleşmenin süresinden önce sona ermesi yüzünden uğradığı zararın giderilmesini
+de isteyebilir.
+....
+
+Görüldüğü üzere, sürekli borç ilişkisinde borçlu temerrüde düşünce, alacaklının
+seçebileceği iki hakkı olacaktır. Bunlar, ifanın devamını ve gecikme (veya
+ifanın kesilmesi) yüzünden doğan zararın tazminini istemek veya sözleşmeyi
+feshederek ifa edilmeyen kısım sebebiyle uğranılan olumlu zararın tazminini
+istemektir.
+
+Alacaklı ifanın devamını seçerse, borçlunun işin bitiş tarihine ifayı
+durdurduğu süre kadar eklenecek bir süre ifayı sürdürmesi gerekecektir.
+
+TIP: 1 Temmuz 1 Ekim arası sürdürülecek bir taşıma işinde borçlu Ağustos ayında
+işi durdurmuşsa, alacaklının aynen ifa talebi üzerine, 1 Eylül'de tekrar
+çalışmaya başladığında, artık 1 Kasım'a kadar taşıma yapacaktır.
+
+Buna rağmen alacaklının gecikmeden doğan zararları varsa, bunların ayrıca
+tazmini gerekecektir. Şayet sözleşmedeki ifa süresinden sonra ifa imkansız veya
+alacaklı için anlamsız ise yahut borçlu kesinlikle ifa etmeme kararında ise;
+alacaklı için sözleşmeyi feshetmek tek yol olacaktır.
+
+Fesih hakkı kullanıldığında, fesih anına kadarki döneme ilişkin borçların (veya
+borç kısmının) varlığına dokunulmayacak, bu andan sonrası için borç ilişkisi
+ortadan kalkacaktır. Karşılıklı iade talepleri de ancak, fesih sonrası döneme
+ait bir edim yerine getirilmişse söz konusu olacaktır. 
+
+TIP: Kira sözleşmesinde henüz oturulmayan ayın kirası peşin ödenmiş ve ardından
+sözleşme feshedilmişse, sırf bu ayın kira tutarının iadesi istenebilir.
+
+[WARNING]
+====
+Bazı sözleşme türlerine ilişkin hükümlerde, fesih üzerine doğacak iade borçları
+özel olarak düzenlenmiştir. Bu takdirde iade talebi, kanundan doğan bir borcun
+ifasına ilişkin hükümlere tabi olacaktır (TBK m.83 vd.).
+
+TIP: Kira sözleşmesinin feshi üzerine kiracının kiralananı iade borcu TBK m.334
+hükmünde özel olarak düzenlenmiştir.
+
+Bazen sözleşme niteliğinde olmayan bazı hukuki ilişkilerin sona ermesi haline
+ilişkin iade hükümleri vardır.
+
+TIP: İntifa hakkı sona erdiğinde zilyedin malike iade yükümü MK m.779 hükmünde
+özel olarak düzenlenmiştir. Buna göre, iade yükümlüsünün borca aykırılıktan
+sorumluluğu bir yıllık özel zamanaşımına tabi tutulmuştur (MK m.802).
+====
+
+Kusuruyla temerrüde düşen borçludan, fesih üzerine alacaklı olumlu zararının
+tazminini isteyecektir. Bu olumlu zarar, sürekli borç ilişkisinin vaktinden
+önce sona ermesi üzerine alacaklının uğradığı çıkar kaybıdır.
+
+TIP: Kiracının temerrüdü üzerine vaktinden 6 ay önce kira sözleşmesini fesihle
+sona erdiren kiraya veren, bu 6 aylık süreyi kiracı bulamadan geçirmişse veya
+daha düşük bedel üzerinden kiralamak zorunda kalmışsa, aradaki farkı kusurlu
+kiracıdan isteyebilecektir.
+
+Eğer sürekli borç ilişkisinin ifasına henüz hiç başlamadan borçlu temerrüde
+düşmüşse, bu aşamada fesih söz konusu olmayıp alacaklı sözleşmeden geçmişe
+etkili dönerek olumsuz zararının tazminini isteyebilecektir. Sürekli borç
+ilişkilerinde borçlu temerrüdü üzerine ileriye etkili feshin sonuçlarının
+doğması için de, sözleşmeden dönme hakkının doğması için aranan şartlar
+gerçekleşmiş olmalıdır: Borçlunun temerrüde düşmüş olması, ek süre vermeyi
+gereksiz kılan bir durum (TBK m.124) bulunmadıkça TBK m.123 uyarınca ifa için
+süre verilmesi ve süre sonunda derhal bildirimde bulunulması gerekir.
+
+.TBK m.123
+....
+Karşılıklı borç yükleyen sözleşmelerde, taraflardan biri temerrüde düştüğü
+takdirde diğeri, borcun ifa edilmesi için uygun bir süre verebilir veya uygun
+bir süre verilmesini hâkimden isteyebilir.
+....
+
+Borçlar Kanununun özel hükümleri arasında borçlu ile alacaklı arasındaki
+ilişkin çekilmez hale gelmesi üzerine alacaklıya tanınan özel fesih hakları
+vardır. Olağanüstü fesih halleri denilen bu hükümlerin çerçevesine giren
+durumlarda, ayrıca borçlu temerrüdü sebebiyle sözleşmeden dönmenin şartlarının
+gerçekleşmesi aranmayacaktır.
+
+=== 4- Süre verilmesine gerek bulunmayan haller ve alacaklının durumu
+
+.. _TBK m.124'te belirtilen hallerde_ alacaklı, bir süre vermeye gerek kalmadan
+ifa yerine tazminat istemek veya sözleşmeden dönmek (sürekli sözleşmelerde
+sözleşmeyi feshetmek) imkanına sahiptir.
++
+.TBK m.124
+....
+Aşağıdaki durumlarda süre verilmesine gerek yoktur:
+1. Borçlunun içinde bulunduğu durumdan veya tutumundan süre verilmesinin
+etkisiz olacağı anlaşılıyorsa.
+2. Borçlunun temerrüdü sonucunda borcun ifası alacaklı için yararsız kalmışsa.
+3. Borcun ifasının, belirli bir zamanda veya belirli bir süre içinde
+gerçekleşmemesi üzerine, ifanın artık kabul edilmeyeceği sözleşmeden
+anlaşılıyorsa.
+....
++
+... _Borçlunun içinde bulunduğu durumdan veya tutumundan süre verilmesinin
+etkisiz olacağı anlaşılıyorsa_ (TBK m.124/b.1).
++
+TIP: Borçlu ciddi ve kesin olarak borcu ifa etmeyeceğini bildirmişse; uzun
+zaman hazırlık isteyen bir işi ifa için borçlunun hiçbir hazırlığı yoksa.
+... _Borçlunun temerrüdü sonucunda borcun ifası alacaklı için yararsız
+kalmışsa_ (TBK m.124/b.2). Aranan, ifanın tamamen ve herkes için faydasız
+kalması değil, alacaklının somut durumuna ve sözleşmede güdülen amaca göre
+alacaklı için yararsız kalmasıdır.
++
+WARNING: Bu konuda önemli olan nokta, ifanın yararsız kalmasının temerrütten
+ileri gelmesidir. İfa borçlunun temerrüdü yüzünden değil de başka sebeple
+yararsız kalmışsa, alacaklı süre vermeden sözleşmeden dönemez veya ifa yerine
+tazminat isteyemez.
+... _Sözleşmede borç için kesin vade kararlaştırılmışsa_ (TBK m.124/b.3).
++
+Böyle bir borcun varlığını kabul etmek için tarafların anlaşarak vade tayin
+etmiş olmaları yetmez. Tarafların, borcun mutlaka tayin edilen tarihte veya
+sürede ifası gerektiğinde anlaşmış olmaları aranır. Diğer bir deyişle, gecikmiş
+ifanın kabul edilmeyeceği önceden kararlaştırılmış olmalıdır.
++
+WARNING: Sözleşmede gecikme süresi boyunca işleyecek ceza koşulu
+kararlaştırılmış olması, kesin vade bulunmadığını ortaya koyar.
++
+Kesin vade kararlaştırılmış olmasının alacaklıya, sadece, *süre vermeden
+sözleşmeden dönme hakkı* verdiği; buna karşılık, derhal bildirmek kaydıyla,
+diğer seçimlik haklarını kullanma imkanını ortadan kaldırmadığı kabul
+edilmektedir. Böylece, kesin vadeli sözleşmede bu tarihin geçmesi üzerine
+sözleşmeden dönme veya ifa yerine tazminat isteme hakları doğan alacaklının,
+gene de aynen ifayı ve gecikmeden doğan zararının tazminini istemesi mümkün
+olacaktır. Ancak bunu derhal bildirmekle yükümlü olmalıdır.
+... TBK m.124'te süre verilmesinin aranmayacağı belirtilen haller yukarıda
+belirtilenlerden ibarettir. Buna karşılık TBK m.212, ticari alım-satımlarda
+teslim için bir zaman tayin edilmişse, bunun kesin vade olarak
+kararlaştırılmasını aramaksızın, satıcının temerrüdü halinde alıcının süre
+vermesine gerek kalmadan ifa yerine tazminat talep edebileceğini kabul
+etmektedir. Maddenin ikinci bir özelliği, ifa yerine tazminat istemek
+alıcının, ifadan vazgeçtiğini beyan etmesi değil, tam aksine, şayet ifa talep
+etmek niyetinde ise vadede bunu beyan etmesini aramasıdır (TBK m.212/2,3).
+Madde metninden, sözleşmeden dönme hakkının tanınıp tanınmadığı ise
+anlaşılmamaktadır ve bu husus tartışmalıdır.
++
+[, Oğuzman & Öz]
+""
+Kanımızca TBK m.212 hükmünün getirdiği özel imkan, satım konusu malı artık
+piyasadan sağlaması çok zor olan veya daha pahalıya almak zorunda kalacak olan
+alıcının bu olumlu (müspet) zararını beklemeden tazmin ettirmek içindir. Şayet
+alıcı böyle bir zararının tazminini değil de, satıcının, temerrüdü vesilesiyle
+sözleşmeden ve bedeli ödemekten tamamen kurtulmak istiyorsa, TBK m.123'deki
+genel hükümlere göre satıcıya ek süre vermek zorunda olmalıdır.
+""
+... Diğer taraftan TBK m.235/1 hükmü, satılanın ancak bedelin ödenmesinden
+sonra veya ödenmesi anında alıcıya devredilmesi gereken hallerde, alıcı ödemede
+temerrüt ederse, satıcının süre vermeden sözleşmeden dönebileceğini kabul
+etmektedir. Fakat satıcı bu halde dönme hakkını kullandığını alıcı temerrüde
+düşünce derhal beyan etmelidir (TBK m.211/2).
++
+Satıcı bedeli ödemekle yükümlü alıcının bu hususta temerrüde düşmesi üzerine
+derhal sözleşmeden dönmese bile, uygun bir ek süre vererek bunun sonunda hala
+ifa gerçekleşmemişse TBK m.125'teki bütün seçimlik hakları -- bu arada
+sözleşmeden dönme hakkını -- kullanabilecektir. Zira, TBK m.235 hükmünün
+satıcıya sadece kolaylık sağlamayı amaçladığı, TBK m.125 hükümlerine başvurmayı
+sınırlamadığı kabul edilmektedir.
+
+.. _TBK m.124 uyarınca süre verilmesine gerek bulunmayan hallerde alacaklının
+hangi hakkı seçtiğini derhal bildirmesi gerekip gerekmediği öğretide tartışma
+konusudur.
++
+Alacaklının, borçlu temerrüde düşer düşmez derhal ifadan vazgeçtiğini beyan
+etmesini aramak, böyle bir beyan yapılmadığı takdirde alacaklının ifayı kabul
+mecburiyetinde kalacağını ifade eder ki, bu çözüm TBK m.124'te belirtilen
+hallerin niteliği ile bağdaşmaz. Buna karşılık alacaklının ifa yerine tazminatı
+mı, yoksa sözleşmeden dönmeyi mi tercih ettiğini açıklamaksızın beklemesi de
+borçluyu kararsızlığa düşürür. 
++
+[, Oğuzman & Öz]
+""
+Bu sebeple, kanımızca, TBK m.124'te belirtilen hallerde borçlu temerrüde
+düşünce alacaklı dönme hakkını tercih etmiş sayılmalıdır. Alacaklı buna ilişkin
+beyanı her zaman yapabilir. Fakat ifa yerine tazminat isteyecekse bunu derhal
+bildirmelidir. Şayet ifa talep edecekse esasen bu davranış TBK m.124'ün 1. ve
+2. bendlerindeki durumların bulunmadığını gösterir; kesin vadeli işlemlerde
+kesin vadeden feragati ifade eder. İfa isteyen alacaklı artık TBK m.124'e
+dayanamaz, ancak süre vermek suretiyle sözleşmeden dönebilir veya ifa yerine
+tazminat isteyebilir.
+""
+
+== 7- KISMİ TEMERRÜT VE SONUÇLARI
+
+Bir borcun bir kısmı ifa edildikten sonra, borçlu geri kalan kısımda temerrüde
+düşerse kısmi temerrütten bahsedilir. Bu durum iki türlü gerçekleşebilir. Ya
+bölünebilir bir edim borcunun bir kısmı ifa eidlmiştir ya da sözleşmede birden
+fazla edim karşılaştırılmış olup bunlardan sadece bazısı yerine getirilmiştir.
+
+WARNING: Alacaklı, TBK m.84 uyarınca kural olarak kısmi ifayı kabul zorunda
+olmadığından, borçlunun kısmi ifa teklifini reddederek onu borcun tümü için
+temerrüde düşüreblir. Şu halde kısmi temerrüt, sözleşme veya dürüstlük kuralı
+uyarınca alacaklının kısmi ifayı kabul zorunda olduğu durumlar ile böyle bir
+zorunluluğu bulunmadığı halde alacaklının kısmi ifayı kabul ettiği durumlarda
+söz konusu olur.
+
+Kısmi temerrüt bölünebilir edimlere sahip ani edimli borçlarda söz konusu olur.
+Sürekli borç ilişkilerinde ifanın vaktinden önce kesilmesi buradaki anlamda
+kısmi temerrüde yol açmaz. Sadece ileriye etkili olarak fesih ve tazminata yol
+açar. Zira sürekli borç ilişkisinde kısmi ifanın anlamı ancak zaman
+bakımındandır. Daha belli bir süre devam etmesi gereken ifanın erken kesilmesi
+anlamına gelir. Gerçek anlamda kısmi ifa ve kısmi temerrüt, ani edimli borç
+ilişkilerinde (veya dönemli edimli borç ilişkilerinde her bir edim bakımından)
+edimin maddi varlığındaki bir eksikliği ifade eder.
+
+TBK kısmi temerrüde ne gibi esasların uygulanacağı hususunda bir hüküm
+içermemektedir. Bu sebeple temerrüt hakkındaki hükümleri, durumun özelliğini
+gözönünde tutarak uygulamak gerekmektedir.
+
+TIP: Bir para borcunda kısmi temerrütte, sadece temerrüde düşülen kısım için
+temerrüt faizi işler. Paradan başka şeylerde gecikme tazminatı ve beklenmedik
+halden doğan zarardan sorumluluk temerrüde düşülen kısım için söz konusu olur.
+
+İki tarafa borç yükleyen bir sözleşmede bir taraf kısmi temerrüde düşmüşse ve
+alacaklının karşı edimi o oranda bölünmeye elverişli ise, gerek ifa yerine
+tazminatın hesabında gerek sözleşmeden dönme, sadece ifa edilmeyen kısım ile
+karşı edimin bunu karşılayan kısmı nazara alınmalıdır.
+
+TIP: 50 bin liraya satın alınan 10 ton demirden 5 tonu teslim edilmiş ve kalan
+kısım için temerrüt gerçekleştiği için alıcı sözleşmeden dönmüşse, bedel borcu
+25 bin liraya inecektir. Alıcı sözleşmeden dönme yerine, ifadan vazgeçerek
+tazminat istemişse, sözleşme ilişkisi gene 5 ton demire karşı 25 bin lira
+ödenmesi şeklinde devam etmekle birlikte ayrıca, ifa edilmeyen 5 ton demirin
+piyasa değeri 30 bin lira ise bunun 25 binden fazla kısmı olan 5 bin liranın da
+tazminat olarak ödenmesi gerekecektir.
+
+Şayet alacaklının ifa olarak aldığı kısım bütün borç ifa edilmedikçe bir değer
+taşımıyorsa, alacaklı bu kısmı iade etmek suretiyle sözleşmeden tamamen
+dönebilir veya ifa yerine tazminat isteyebilir. Şayet aldığını iade edemiyorsa
+bu kısmın değerini tazmin edecektir. Şayet alacaklının kendi edimi
+bölünemiyorsa alacaklı ifa olarak aldığı kısmı iade veya tazmin etmek suretiyle
+sözleşmeden tamamen dönebilir.
+
+Her halükarda, alacaklının kısmen veya tamamen ifa yerine tazminat
+isteyebilmesi veya sözleşmeden dönebilmesi için bu husustaki esaslara (TBK
+m.123-126) uyması gerekir.
+
+İkinci derecedeki edim yükümlerinin yerine getirilmemesi halinde, bunlar
+karşılıklı edimler içeren bir sözleşmeden doğsalar bile, sözleşmeden dönmeye
+veya ifadan vazgeçerek tazminat istemeye yer yoktur. Bu tür yan edimin ifası
+mümkünse aynen ifa ve gecikme tazminatı, mümkün değilse TBK m.112 uyarınca
+tazminat istenecektir.

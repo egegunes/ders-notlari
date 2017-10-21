@@ -1,0 +1,32 @@
+:icons: font
+
+== 07.11.2016 tarihli pratik çalışma
+
+A, sahaf B’yi telefonla arayarak koleksiyonu için aradığı bir kitap setini
+satın alır ve kitapları akşama kadar sahafta saklamasını, akşam arkadaşına
+kitapları aldıracağını söyler. Daha sonra, arkadaşı C’den kitapları iş çıkışı
+kendisine getirmesini rica eder. Sahaftan dönüş yolunda kitaplara göz atan C,
+A’yı arayarak kitapları okuduktan sonra getireceğini söyler.
+
+A kitapların bedelini de, ertesi sabah yürüyüş esnasında önünden geçtiği sahaf
+dükkânının kapısının altından ismini yazdığı bir zarfla bırakır. Sabah zarfı
+gören B’nin çırağı Ç, bu zarfı cebine atar.
+
+C’yi ziyarete gelen D, bu kitapları görünce kendinden B’nin kısa bir süre önce
+çaldığı kitaplar olduğunu fark eder.
+
+. Olayda kitap setindeki kitaplar ile zarftaki para üzerinde kimin, ne zaman,
+hangi tür zilyetliği kazandığını açıklayınız.
+
+. Olayda 
+
+.. D bu kitapları (i) zorla C’nin elinden alırsa veya (ii) C’ye fark ettirmeden
+yanında götürürse yahut (iii) C’nin rızasıyla alırsa, A ve C hangi hukuki
+yollara başvurabilir? Bu başvuruların başarı şansı ne olabilir?  Açıklayınız.
+
+.. D, doğrudan doğruya dava açma yoluna yoluna gidebilir mi? Gidebilirse hangi
+davaları açabilir? Bu davalarda D’ye karşı hangi savunmalar ileri sürebilir?
+Açıklayınız.
+
+. Bu kitaplar altı yıl önce B tarafından çalınmış olsaydı vereceğiniz yanıt
+değişir miydi?

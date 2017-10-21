@@ -1,0 +1,968 @@
+:icons: font 
+:toc:
+:toc-title: Mülkiyet
+
+== MÜLKİYET
+
+=== BÜTÜNLEYİCİ PARÇA ve EKLENTİ
+
+* Bir şeye malik olan kimse, o şeyin *bütünleyici parçalarına* da malik
+olacaktır.
++
+[caption=""]
+.Bütünleyici parça
+====
+*MK 684*: (1) Bir şeye malik olan kimse, o şeyin bütünleyici parçalarına da
+malik olur.
+
+(2) Bütünleyici parça, yerel âdetlere göre asıl şeyin temel unsuru olan ve o
+şey yok edilmedikçe, zarara uğratılmadıkça veya yapısı değiştirilmedikçe ondan
+ayrılmasına olanak bulunmayan parçadır.
+====
++
+Bütünleyici parçaya sadece fiziksel bağlılık olarak bakmamak gerekir. Fiziksel
+bağlılıktan kasıt o eşya ayrıldığında asıl eşyanın tahrip olmasıdır. Bazı
+durumlarda ise bütünleyici parçanın ayrılması asıl eşyanın tahribine yol açmaz
+fakat asıl eşyanın fonksiyonel olarak eksik olmasına yol açar. Bu durumda da
+bütünleyici parçadan söz edilir. Ayrıca bir araya gelişin sürekli oması
+gerekir.
++
+Taşınmazlar ve taşınırlar bütünleyici eşya olabilir. Bütünleyici parça
+varlığını koruyamadığı için ayrı bir eşya olarak ayrı bir mülkiyete konu olması
+söz konusu değildir. Bütünleyici parça ile asıl eşya tek bir eşyayı oluşturur.
++
+TIP: Eşya hukukunda bütünleyici parçadan anlaşılması gereken; yüksek binaların
+alttaki araziye tabi olmasıdır. Üstte bir bina varsa alttaki araziye tabi olur.
+Binanın mülkiyeti araziye göre belirlenir. Bina, arazinin bütünleyici
+parçasıdır.
++
+Bütünleyici parçanın başka bir mülkiyet hakkına konu olamaması buna ilişkin
+borç doğurucu işlem yapılamayacağı anlamına gelmez. Borçlar hukukunda eşya
+hukukundaki gibi katı bir belirlilik ilkesi yoktur. Dolayısıyla eşyanın belirli
+bir kısmının bağımsız olmasa da hukuki işlemlere konu olması, örneğin
+kiralanması mümkündür.
++
+Bir zamanlar bağımsız eşya olan şey başka bir eşyanın bütünleyici parçası
+haline gelirse bağımsız eşya olmaktan çıkar ve bu şeye sahip olan üçüncü kişi
+mülkiyet hakkını kaybeder.
+
+* *Eklenti* bakımından bütünleyici parça kadar yoğun bir bağlanma söz konusu
+değildir. Eklenti ayrı bir eşya olarak varlığını korur. Sadece bazı işlerden
+dolayı bir eşyaya özgülenmiştir. Asıl eşyanın işletilmesi, korunması, yarar
+sağlaması bakımından bağlanmıştır.
++
+[caption=""]
+====
+*MK 686*: (1) Bir şeye ilişkin tasarruflar, aksi belirtilmedikçe onun
+eklentisini de kapsar.
+
+(2) Eklenti, asıl şey malikinin anlaşılabilen arzusuna veya yerel âdetlere
+göre, işletilmesi, korunması veya yarar sağlaması için asıl şeye sürekli olarak
+özgülenen ve kullanılmasında birleştirme, takma veya başka bir biçimde asıl
+şeye bağlı kılınan taşınır maldır.
+
+(3) Eklenti, asıl şeyden geçici olarak ayrılmakla bu niteliğini kaybetmez.
+====
++
+Bütünleyici parçadan farklı olarak eklenti *sadece taşınır* olabilir. Eklenti,
+*bağımsız bir eşyadır*. Sadece başka bir eşyayla belirli bir amaçla bir araya
+getirilmiştir. Bağımsızlığını koruduğundan dolayı ayrı bir mülkiyete konu
+olabilir. 
++
+Asıl eşya üzerinde yapılacak tasarruflar kural olarak eklentiyi de kapsar.
+Ancak bütünleiyici parçadan farklı olarak *eklenti tasarrufi işlemden hariç
+tutulabilir*.
++
+[NOTE]
+====
+Eklentinin ayrı bir mülkiyete konu olması halinde asıl eşyanın mülkiyetini
+kazanan üçüncü kişi eklentinin mülkiyetini de kazanır mı?
+
+Kural olarak başkasına ait eşya üzerinde yapılan tasarruf işlemi tasarruf
+yetkisinin eksikliğinden dolayı sonuç doğurmaz. Yani üçüncü kişi mülkiyeti
+kazanamaz. 
+
+Ancak bu kuralın istisnası *iyiniyetle iktisaptır*. İyiniyetle iktisabın
+korunduğu hallerde tasarruf yetkisinin eksikliğine rağmen eşya alıcı tarafından
+iktisap edilebilir. Bu istisna eklenti için de geçerlidir.
+====
++
+Eklenti tapuya "Beyanlar" kısmına beyan edilebilir. Bu beyan belirtilen eşyanın
+eklenti olduğu yönünde bir karine oluşturur. 
++
+[caption=""]
+.Eklenti sayılmayanlar
+====
+*MK 687*: Asıl şeye zilyet olan kimsenin sadece geçici olarak kullanması veya
+tüketmesi için özgülenen ya da asıl şeyin özel niteliği ile herhangi bir
+ilişkisi bulunmadan sadece korunmak, satılmak veya kiraya verilmek üzere onunla
+birleştirilen şeyler eklenti sayılmaz.
+====
++
+Eklenti paylı mülkiyet konusu olabilir. Eşya eklenti haline geldi diye üçüncü
+kişiler mülkiyet haklarını kaybetmez. 
+
+=== MÜLKİYETİN İÇERİĞİ
+
+* Mülkiyet hakkı sahibine birtakım *aktif yetkiler* verir: _Kullanma_,
+_yararlanma_ ve _tasarruf_.
++
+[caption=""]
+.Mülkiyet hakkının içeriği
+====
+*MK 683/1*: Bir şeye malik olan kimse, hukuk düzeninin sınırları içinde, o şey
+üzerinde dilediği gibi kullanma, yararlanma ve tasarrufta bulunma yetkisine
+sahiptir.
+====
++
+Ayrıca malik hakkı dolayısıyla birtakım *pasif yetkilere* de sahiptir. Bu
+yetkiler sayesinde hakkını savunabilir. Bu bakımdan iki önemli dava söz
+konusudur: _İstihkak davası_ ve _elatmanın önlenmesi davası_+.
++
+[caption=""]
+====
+*MK 683/2*: Malik, malını haksız olarak elinde bulunduran kimseye karşı
+istihkak davası açabileceği gibi, her türlü haksız elatmanın önlenmesini de
+dava edebilir.
+====
++
+İstihkak davası da elatmanın önlenmesi davası da mülkiyet hakkından
+kaynaklanır. Bunların mülkiyet hakkından bağımsız olarak devredilmesi mümkün
+değildir. Bu davalar *ayni davalardır*. Dolayısıyla herhangi bir süreye tabi
+değillerdir.
+
+* *İstihkak davası*, gerçek malikin haksız zilyede karşı açacağı davadır.
+Zilyet olmayan malik, malik olmayan zilyede dava açacaktır. Bu dava ile malik
+mülkiyete yönelik gaspa son verilmesini talep eder. Hem taşınırlar hem de
+taşınmazlar için açılabilir.
++
+Taşınmazlarda genellikle *tapu sicilinin düzeltilmesi davası* görünümündedir.
+Mahkeme kararıyla beraber etkilerini doğurur. Zira taşınmazlara ilişkin
+mahkemelerin bu anlamda ayni haklara ilişkin verdikleri kararlar kurucu etkiye
+sahiptir. Tapu sicili dışında etki doğurur ve lehine karar verilen tapuda öyle
+gözükmese bile malik olur.
++
+Taşınırlar bakımından sırf mahkeme kararı yeterli değildir. Taşınırlar için
+açılacak davanın *eda davası* olduğu kabul edilir ve verilecek karar kurucu
+değil emredici bir hükümdür. Bu durumda istihkak davası ile arzu edilen sonucun
+sağlanabilmesi için taşınırın davalıdan icra organları vasıtasıyla alınıp
+davacıya teslim edilmesi gerekir.
++
+CAUTION: Davalının zilyetliğinin hukuki bir dayanağı bulunmamalıdır. Buna
+karşılık davalının kusurlu olması şart değildir.
+
+[NOTE]
+====
+Taşınmazlar bakımından sebebe bağlılık esastır. Yani tescilin dayandığı hukuki
+sebep geçersiz ise tescil yolsuz olur. Taşınırlar bakımından da zilyetliğin
+nakli dayandığı hukuki sebebin geçersizliğinden etkilenir mi?
+
+Bu konuda kanunda bir düzenleme yoktur. Doktrinde ise iki görüş vardır:
+
+. _Birinci görüş_:  Taşınmazlara ilişkin düzenleme ile sebebe bağlılık kabul
+edildiğine göre taşınırlarda tam tersi sonuca ulaşılması ve soyutluk ilkesinin
+benimsenmesi gerekir. Hukuki sebep ister geçerli ister geçersiz olsun
+zilyetklik nakledilmişse mülkiyet kazanılmıştır.
+. _İkinci görüş_: Taşınmazlarda ki düzenleme kıyasen taşınırlara da uygulanmalı
+ve zilyetliğin nakli sebebe bağlı kabul edilmelidir. Eğer sözleşme geçersiz ise
+zilyetliğin nakli de kendiliğinden geçersiz olmalıdır.
+
+Ağırlıklı görüş, taşınırların da taşınmazlar gibi sebebe bağlı olmasıdır. Fakat
+Oğuzman, birinci görüşü savunmaktadır. 
+
+Birinci görüş benimsenirse sözleşme geçersiz olsa da zilyetliğin nakli ile
+mülkiyet kazanıldığından açılacak dava *sebepsiz zenginleşme* davası olacaktır.
+Çünkü asıl malik mülkiyet hakkını kaybetmiştir ve dolayısıyla mülkiyetten
+kaynaklanan *istihkak davasını* açamaz. 
+
+İkinci görüş kabul edilirse sözleşmenin geçersizliği zilyetliğin naklini de
+geçersiz kılacağından mülkiyet kazanılmış olmayacaktır. Bu durumda açılacak
+dava, malik zaten mülkiyet hakkını muhafaza ettiği için *istihkak davası*
+olacaktır. Oğuzman'a göre bu durumda sebepsiz zenginleşme hükümlerinin uygulama
+alanı çok daraltılmış olmaktadır.
+====
+
+* *Müdahalenin men'i* veya *elatmanın önlenmesi davası* mülkiyet hakkının
+kullanılmasını engelleyen kişilere karşı açılır. Burada da hukuka aykırılık
+şarttır. Fakat kusur şartı yoktur. Ayrıca zarara da gerek yoktur ama zarar
+meydana gelmişse elatmanın önlenmesi davası ile tazminat davası birlikte
+açılabilir. 
++
+Elatmanın önlenmesi davasında da süre sınırlaması yoktur. Fakat elatmanın
+önlenmesi davası tecavüzü ortadan kaldırmaya yönelik bir davadır. Dolayısıyla
+tecavüz sona ermişse bu dava açılamaz. 
++
+TIP: MK 2 de davanın açılmasına engel olabilir. Malik tecavüzü bildiği halde
+uzun süre ses çıkarmamış ve bu sessizlik karşı tarafa güven vermek olarak
+anlaşılabilirse davanın açılması hakkın kötüye kullanılması teşkil edilebilir.
+Ancak sırf davanın açılmamış olması bu sonuca götürmez. Somut koşullar
+değerlendirilmelidir. Eğer malik karşı tarafa dava açmayacağına dair güven
+vermiş ise davanın açılması hakkın kötüye kullanılması teşkil eder.
+
+=== MÜLKİYETİN ÇEŞİTLERİ
+
+* *Birlikte mülkiyet*, tek bir eşya üzerinde birden fazla kişinin malik
+olmasıdır. *_Paylı mülkiyet_* ve *_elbirliği mülkiyeti_* birlikte mülkiyetin
+alt türleridir.
+
+* *Elbirliği mülkiyeti* söz konusuysa tek bir mülkiyet ve birden çok malik
+vardır. Paylı mülkiyetteki gibi eşyanın nasıl kullanılacağı, eşyadan nasıl
+yararlanılacağı, eşyanın tamam üzerinde nasıl tasarruf edileceği bütün
+ortakları ilgilendirir.
++
+CAUTION: Elbirliği mülkiyeti kanuna dayanmak zorundadır. 
++
+Örneğin *miras ortaklığında* mirasçılar arasındaki ortaklık elbirliği ortaklığı
+olarak kabul edilir. *Adi ortaklıktaki* mülkiyet rejimi elbirliği ortaklığı
+olarak kabul edilir.
++
+Elbirliği mülkiyetinde bütün ortaklar birlikte hareket etmek zorundadır.
+Herhangi bir sözleşme, tasarruf işlemi yapılacaksa birlikte hareket etmek
+zorundadırlar.
++
+Birlikte hareket kuralının tek istisnası acil bir durum halinde alınmasını
+gereken tedbirler bakımından tek ortağın hareket edebilmesidir.
+
+* *Paylı mülkiyet* söz konusu olduğunda eşyanın tamamı üzerinde kullanma,
+yararlanma, tüketme yetkilerinin nasıl kullanacağı düzenlenir. Fakat eşya
+dışında her paydaşa özgülenmiş, paydaşın tek malikmiş gibi davranabileceği ayrı
+bir hak konusu oluşturulmuştur. Her paydaşa bir *pay* verilir. Paydaş o pay
+üzerinde istediği tasarrufu yapabilir. Payı devredebilir, rehnedebilir,
+haczedilebilir. Pay sadece iç ilişkide değil dış ilişkide de anlam ifade eder.
++
+Paylı mülkiyet doğrudan mülkiyet ortaklığıdır. Birden fazla kişi bir araya
+gelip bir mal aldıklarında o mala yönelik herhangi bir ortaklık olmasa bile
+eşyaya ilişkin bir ortaklık meydana gelir.
++
+Paylı mülkiyette payın bir hak konusu olmasının sonucu olarak paydaşların hem
+payları üzerinde hem de eşya üzerinde haklarından bahsedilir. 
++
+Pay bakımından hakları, tek malikin herhangi bir eşya üzerindeki hakkı neyse
+odur. Dolayısıyla payını devredebilir, rehnedebilir, satabilir.
++
+CAUTION: Pay, fiziksel değil, farazi, hukuki bir varlıktır. Dolayısıyla pay,
+paydaşa fiziksel kullanımı gerektirecek bir hak vermez. Örneğin pay üzerinde
+geçit hakkı, üst hakkı veya kiraya verilmesinden bahsedilemez. Zira bunların
+hepsi hak sahibinin eşyayı fiziksel olarak kullanmasını gerektirir.
++
+Pay fiili kullanım gerektirmeyen sözleşmelerin konusu olabilir. Satılabilir,
+rehnedilebilir, haczedilebilir, ürün kirasına konu olabilir.
++
+TIP: Ürün kirası sadece elde edilecek bedele ilişkin bir haktır.
++
+Her paydaşın diğer paydaşların payları üzerinde *kanuni önalım hakkı* vardır.
++
+Eşya üzerinde taraflar eşyanın hangi kısmından kimin yararlanacağına karar
+verebilirler. Aralarında yaptıkları anlaşma eşyayı fiziksel olarak bölmez.
+Eşyanın kullanma düzenini de anlaşma ile belirleyebilirler.
++
+[caption=""]
+.Anlaşmalar
+====
+*MK 689*: (1) Paydaşlar, kendi aralarında oybirliğiyle anlaşarak yararlanma,
+kullanma ve yönetime ilişkin konularda kanun hükümlerinden farklı bir düzenleme
+yapabilirler. Ancak, böyle bir anlaşmayla paydaşların aşağıdaki hak ve
+yetkileri kaldırılamaz ve sınırlandırılamaz:
+
+. Paylı mülkiyet konusu eşyanın kullanılabilirliğinin ve değerinin korunması
+için zorunlu olan yönetim işlerini yapmak ve gerektiğinde mahkemeden buna
+ilişkin önlemlerin alınmasını istemek,
+. Eşyayı bir zarar tehlikesinden veya zararın artmasından korumak için derhâl
+alınması gereken önlemleri bütün paydaşlar hesabına almak.
+
+(2) Taşınmazlarla ilgili anlaşmalar imzalarının noterlikçe onaylanması
+koşuluyla paydaşlardan birinin başvurusu üzerine tapu kütüğüne şerh
+verilebilir.
+====
++
+Olağan yönetim işleri ise her bir paydaş tarafından yapılabilir.
++
+[caption=""]
+.Olağan yönetim işleri
+====
+*MK 690*: (1) Paydaşlardan her biri olağan yönetim işlerini yapmaya, özellikle
+küçük onarımları yaptırmaya ve tarımsal işleri yürütmeye yetkilidir.
+
+(2) Zorunlu ve ivedi işlerin yapılmasına ilişkin kanun hükümleri saklı kalmak
+kaydıyla, paydaşların çoğunlukla alacağı kararla olağan yönetim işlerinde
+yetkiyle ilgili farklı düzenleme getirilebilir.
+====
++
+Kiraya verme, işletme usulünü değiştirme gibi önemli işler pay ve paydaş
+çoğunluyla yapılmalıdır.
++
+[caption=""]
+.Önemli yönetim işleri
+====
+*MK 691*: (1) İşletme usulünün veya tarım türünün değiştirilmesi, adî kiraya
+veya ürün kirasına ilişkin sözleşmelerin yapılması veya feshi, toprağın ıslahı
+gibi önemli yönetim işleri için pay ve paydaş çoğunluğuyla karar verilmesi
+gerekir.
+
+(2) Olağan yönetim sınırlarını aşan ve paylı malın değerinin veya yarar
+sağlamaya elverişliliğinin korunması için gerekli bakım, onarım ve yapı
+işlerinde de aynı çoğunluk aranır.
+
+(3) Pay ve paydaşların eşitliği hâlinde hâkim, paydaşlardan birinin istemi
+üzerine bütün paydaşların menfaatini gözeterek hakkaniyete uygun bir karar
+verir; gerekli gördüğü işlerin yapılması için paydaşlar arasından veya
+dışarıdan bir kayyım atayabilir.
+====
++
+Olağan şekilde kullanım koşullarını aşan inşaat işleri veya özgülenme amacının
+değiştirilmesi veya malın tamamı üzerinde tasarruf işlemi yapılacaksa oybirliği
+aranır.
++
+[caption=""]
+.Olağanüstü yönetim işleri ve tasarruflar
+====
+*MK 692*: (1) Paylı malın özgülendiği amacın değiştirilmesi, korumanın veya
+olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine
+girişilmesi veya paylı malın tamamı üzerinde tasarruf işlemlerinin yapılması,
+oybirliğiyle aksi kararlaştırılmış olmadıkça, bütün paydaşların kabulüne
+bağlıdır.
+
+(2) Paylar üzerinde taşınmaz rehni veya taşınmaz yükü kurulmuşsa, paydaşlar
+malın tamamını benzer haklarla kayıtlayamazlar.
+====
++
+Paydaşlar yapılan masraflara payları oranında katılmak zorundadır. İç ilişkiye
+göre oran belirlenir. Dış ilişkide biri bütün masrafa katlanmış ise fazla
+ödediği miktarı diğer paydaşlardan talep edebilir.
++
+[caption=""]
+.Giderler ve yükümlülükler
+====
+*MK 694*: (1) Paylı mülkiyetten doğan veya paylı malı ilgilendiren yönetim
+giderleri, vergiler ve diğer yükümlülükler, aksine bir hüküm bulunmadıkça,
+paydaşlar tarafından payları oranında karşılanır.
+
+(2) Payına düşenden fazlasını ödemiş bulunan paydaş, diğerlerine payları
+oranında rücu edebilir.
+====
++
+Kullanma her paydaşın hakkıdır. Her paydaş diğerlerinin kullanım hakkına
+tecavüz etmediği süre kullanım hakkına sahiptir.
++
+[caption=""]
+.Yararlanma, kullanma ve koruma
+====
+*MK 693*: (1) Paydaşlardan her biri, diğerlerinin hakları ile bağdaştığı ölçüde
+paylı maldan yararlanabilir ve onu kullanabilir.
+
+(2) Uyuşmazlık hâlinde yararlanma ve kullanma şeklini hâkim belirler. Bu
+belirleme, paylı malın kullanılmasının zaman veya yer itibarıyla paydaşlar
+arasında bölünmesi biçiminde de olabilir.
+
+(3) Paydaşlardan her biri, bölünemeyen ortak menfaatlerin korunmasını diğer
+paydaşları temsilen sağlayabilir.
+====
++
+TIP: Bir paydaş diğer paydaşlardan habersiz şekilde eşyayı kullanıyorsa
+diğer paydaşlar elatmanın önlenmesi davası açabilir. Ancak Yargıtay'a göre
+itiraz edilmediği sürece diğer paydaşların rızası var sayılır. İtiraz ile
+paydaşın kullanımı hukuka aykırı hale gelir. Buna *intifadan men* koşulu
+denmektedir. Bu koşul gerçekleştirilmeden ecrimisil davası da açılamaz.
++
+*Paylı mülkiyetin tek paydaş bakımından sona ermesi*; payın devri, haczi, terki
+gibi hallerde ortaya çıkabilir. Ayrıca kanunda paylı mülkiyete ilişkin özel
+olarak düzenlenmiş bir hal de söz konusu olabilir. MK 696 *paydaşlıktan
+çıkarma davasını* düzenler. 
++
+[caption=""]
+.Paydaşın çıkarılması
+====
+*MK 696*: (1) Kendi tutum ve davranışlarıyla veya malın kullanılmasını
+bıraktığı ya da fiillerinden sorumlu olduğu kişilerin tutum ve davranışlarıyla
+diğer paydaşların tamamına veya bir kısmına karşı olan yükümlülüklerini ağır
+biçimde çiğneyen paydaş, bu yüzden onlar için paylı mülkiyet ilişkisinin
+devamını çekilmez hâle getirmişse, mahkeme kararıyla paydaşlıktan
+çıkarılabilir.
+
+(2) Davanın açılması, aksi kararlaştırılmış olmadıkça, pay ve paydaş
+çoğunluğuyla karar verilmesine bağlıdır.
+
+(3) Hâkim, çıkarma istemini haklı gördüğü takdirde, çıkarılacak paydaşın payını
+karşılayacak kısmı maldan ayırmaya olanak varsa, bu ayırmayı yaparak ayrılan
+parçanın paylı mülkiyetten çıkarılana özgülenmesine karar verir.
+
+(4) Aynen ayrılmasına olanak bulunmayan maldaki payın dava tarihindeki
+değeriyle kendilerine devrini isteyen paydaş veya paydaşlar bu istemlerini
+paydaşlıktan çıkarma istemi ile birlikte ileri sürmek zorundadırlar. Hâkim,
+hüküm vermeden önce re'sen belirleyeceği uygun bir süre içinde pay değerinin
+ödenmesine veya tevdiine karar verir. Davanın kabulü hâlinde payın istemde
+bulunan adına tesciline hükmolunur.
+
+(5) Payı karşılayacak kısım maldan aynen ayrılamaz ve bu payı isteyen paydaş da
+bulunmazsa hâkim, davalıya payını devretmesi için bir süre belirler ve bu süre
+içinde devredilmeyen payın açık artırmayla satışına karar verir. Satış kararı,
+cebrî icra yoluyla paraya çevirmeye ilişkin hükümler uyarınca yerine getirilir.
+====
++
+[caption=""]
+.Diğer hak sahiplerinin çıkarılması
+====
+*MK 697*: Bir paydaşın çıkarılmasına ilişkin hükümler, kıyas yoluyla, pay
+üzerinde intifa veya diğer bir aynî ya da tapuya şerh edilmiş kişisel
+yararlanma hakkı sahipleri hakkında da uygulanır. Ancak, devri caiz olmayan bir
+hakkın uygun bir tazminat karşılığında sona ermesine karar verilir.
+====
++
+*Paylı mülkiyetin bütün paydaşlar bakımından sona ermesi* genel olarak
+mülkiyetin sona erme sebeplerine ek olarak paylı mülkiyet özelinde *paylaştırma
+davası* ile de olabilir. Buna *_izale-i şuyu_* davası da denir. Bu dava hem
+paylı mülkiyette hem de mirastan kaynaklanan elbirliği mülkiyetinde söz konusu
+olur.
++
+Taraflar paylı mülkiyetin sona erdirilmesi işlemini aralarında yapacakları
+*taksim sözleşmesi* ile de yapabilirler. Bu sözleşme taşınmazlara ilişkinse
+resmi şekilde yapılmalıdır. 
++
+Sözleşmenin yapılamadığı hallerde ise MK 698 uyarınca izale-i şuyu davası
+açılabilir. 
++
+[caption=""]
+.Paylaşma istemi
+====
+*MK 698*: (1) Hukukî bir işlem gereğince veya paylı malın sürekli bir amaca
+özgülenmiş olması sebebiyle paylı mülkiyeti devam ettirme yükümlülüğü
+bulunmadıkça, paydaşlardan her biri malın paylaşılmasını isteyebilir.
+
+(2) Paylaşmayı isteme hakkı, hukukî bir işlemle en çok on yıllık süre ile
+sınırlandırılabilir. Taşınmazlarda paylı mülkiyetin devamına ilişkin
+sözleşmeler, resmî şekle bağlıdır ve tapu kütüğüne şerh verilebilir.
+
+(3) Uygun olmayan zamanda paylaşma isteminde bulunulamaz.
+====
++
+Taraflar aralarında yapacakları bir sözleşme ile paylaşma isteminde bulunmayı
+engelleyebilirler. Ortaklığın devam ettirilmesine ilişkin bu sözleşme,
+*_idame-i şuyu_* sözleşmesidir. Bu sözleşme MK 698/2 uyarınca en fazla 10 yıl
+için geçerli olur. Sözleşmede daha uzun kararlaştırılmışsa bile 10 yıl için
+geçerli sayılacaktır. Eğer taşınmaz söz konusuysa bu sözleşmenin resmi şekilde
+yapılması gerekir.
++
+İzale-i şuyu davası uygun olmayan zamanda da açılamaz. Örneğin hasat zamanı
+veya bir alacak söz konusuysa vade zamanı paylaşma isteminde bulunulamaz.
++
+Ayrıca paylı mal sürekli bir amaca özgülenmiş olabilir. Bu durumda da paylaşma
+isteminde bulunulamaz.
++
+Bu engeller dışında her paydaş herhangi bir zamanda hiçbir gerekçe göstermeden
+dahi paylaşma isteminde bulunabilir.
++
+Dava açıldığı takdirde hakimin önceliği malın aynen bölüştürülmesi olacaktır.
+Eşya değer kaybetmeksizin ayrı varlık meydana getirebilecek şekilde parçalara
+bölünebiliyorsa her bir paydaşa payı oranında kısım tahsis edilir. Ancak her
+olayda %100 eşitlik sağlanamayabilir. Bu durumda denkleştirme yapılır. Örneğin
+birine verilen kısım payını tam karşılamıyor ve değeri oranında yirmibin TL'lik
+eksiklik varsa diğer paydaşlar ona bu parayı vermek zorundadır.
++
+Eğer malı kısımlara bölmek mümkün değilse eşya satılır ve satım sonucu elde
+edilen bedel paydaşlara payları oranında verilir. Kural açık artırmayla satışın
+yapılmasıdır. İstisna olarak paydaşların hepsinin rızası varsa sadece paydaşlar
+arasında da artırma yoluyla satış yapılabilir.
+
+.Paylı mülkiyet konusunun kiraya verilmesi
+****
+MK 691/1'de "_adi kiraya veya ürün kirasına ilişkin sözleşmelerin yapılması
+veya feshi_" önemli yönetim işlerine örnek olarak verilmiştir. Yine aynı hükme
+göre, önemli yönetim işleri için pay ve paydaş çoğunluğuyla karar verilmesi
+gerekir. Doktrin ve uygulamada, kiracıya karşı tahliye davası açılması da bir
+önemli yönetim işi sayılmakta; pay ve paydaş çoğunluğunun sağlanmış olması
+aranmaktadır.
+
+Gerekli çoğunluk kararına dayanmayan kira sözleşmesinin tüm paydaşlar adına
+yapılmış olması halinde, kira sözleşmesi hakkında yetkisiz temsil hükümleri
+uygulanır. Buna göre, kira sözleşmesinin, sözleşmeye taraf olmayan paydaşlar
+açısından bağlayıcı olup olmayacağı, onların sözleşmeye icazet verip
+vermediklerine bağlıdır.
+
+Kira sözleşmesine taraf olmayan paydaşların sözleşmeye icazet vermeleri
+halinde, sözleşme onlar için de bağlayıcı hale gelir . Kira sözleşmesine taraf
+olmayan paydaşlardan bir kısmı sözleşmeye icazet verirse, bu paydaşların pay ve
+paydaş çoğunluğunu teşkil edip etmediklerine bakılmalıdır. Eğer icazet veren
+paydaşların sayı ve pay oranları, pay ve paydaş çoğunluğu sağlıyorsa, kira
+sözleşmesi tüm paydaşlar için bağlayıcı olur. Aksi halde, icazet veren
+paydaşlar sözleşmeyle bağlı olurken, icazet vermeyen paydaşlar, kiracının paylı
+malı kullanmasına itiraz edebilirler.
+
+İcazet açık bir irade beyanıyla ya da örtülü olarak verilebilir.  Yargıtay,
+kira sözleşmesinin tarafı olmayan bir paydaşın, kira bedelinden kendisine düşen
+payı almasını11 ya da bunun için kiracı aleyhine icra takibi yapmasını, o
+paydaşın sözleşmeye icazeti olarak değerlendirmektedir.
+
+Kira sözleşmesinin tarafı olmayan paydaşların sözleşmeye herhangi bir şekilde
+icazet vermemeleri veya icazet verenlerin sayı ve pay oranlarının, pay ve
+paydaş çoğunluğunu sağlamaması halinde ise, sözleşme, taraf olmayan ve icazet
+de vermeyen paydaşlar açısından bağlayıcı olmaz. Bu durumda bu paydaşlar
+kiracıya karşı elatmanın önlenmesi ve istihkak davaları açabilecekleri gibi,
+taşınmazlarda, kiracıdan, kötüniyetli olması şartıyla, ecrimisil (haksız işgal
+tazminatı) de talep edebilirler. Kiraya veren paydaşa karşı da, diğer
+paydaşların paylı maldan yararlanmalarını engelleyerek zarara uğramalarına
+sebep olduğu için, intifadan men koşulu aranmaksızın, tazminat davası
+açılabilir. Ayrıca kiraya veren paydaş, elde ettiği kira bedelinden diğer
+paydaşların payına düşen kısmı da vekâletsiz iş görme hükümleri uyarınca onlara
+ödemelidir.
+
+Kira sözleşmesi rızaî bir sözleşme olup, sözleşmenin geçerli olarak kurulmuş
+olması için, kira konusu şeyin kiracıya teslimi şart değildir. Bu nedenle
+tarafların anlaşmasıyla, kiralayan paydaşlar ile kiracı arasında kira
+sözleşmesi kurulmuş olur. Diğer paydaşların kiracının eşyayı kullanmasını
+engellemeleri halinde de kira sözleşmesi geçerliliğini korur ve taraflarını
+bağlar. Diğer paydaşların, kiracının, paylı mülkiyete konu şeyi sözleşmeden
+doğan hakkına uygun olarak kullanmasını engellemeleri neticesinde kiralayan
+paydaşın sözleşmeden doğan borcunu yerine getiremeyecek olması, geçerli olarak
+kurulmuş sözleşmenin ifası ile ilgili bir durum olup, sözleşmenin
+geçerliliğini etkilemez. Kira sözleşmesinden doğan borcunu ifa edemeyen paydaş,
+bunun hukuki sonuçlarına katlanır.
+
+Paylı mülkiyet hukukunun en tartışmalı konularından biri, paydaşlardan birinin
+üçüncü kişiyle yaptığı kira sözleşmesinin sonuçlarıdır. Daha önce belirtildiği
+gibi, böyle bir kira sözleşmesi her halde tarafları açısından bağlayıcıdır.
+Burada tartışmalı olan husus, paydaşın kendisinin sahip olduğu kullanma hakkına
+dayanarak, paylı mülkiyete konu eşyayı, kira sözleşmesi çerçevesinde üçüncü bir
+kişiye kullandırıp kullandıramayacağı, başka bir ifadeyle diğer paydaşların bu
+kullanıma itiraz etmeye haklarının bulunup bulunmadığıdır.
+
+Doktrinde bazı yazarlara göre, eğer paylı maldan yararlanma şekli sözleşme ile
+belirlenerek, bir paydaşın kullanacağı kısım tayin edilmişse, paydaş kendisine
+özgülenen yeri kiraya verebilir; böyle bir belirlemeye dayalı olarak paydaşın
+kendisine ayrılan yeri kiraya vermesi bir olağan yönetim işi olarak
+değerlendirilebilir.
+
+Buna karşılık diğer bazı yazarlara göre, paydaşlardan her biri malın tamamı
+üzerinde öteki paydaşların aynı nitelikteki haklarıyla birlikte mevcut olan
+kullanma hakkını, üçüncü bir kişiye kira sözleşmesiyle devredebilir; hatta
+bunun için kullanma hakkını devreden paydaşa, paylı malın belli bir kısmının
+özgülenmiş olmasına dahi gerek yoktur. Bu görüşe göre kullanma hakkını devralan
+kimse, bu hakkı kendisine devreden paydaşın sahip olduğu oranda paylı mülkiyete
+konu şeyi kullanma ve ondan yararlanma olanağına sahip olur. Ayrıca pay
+üzerinde intifa hakkı kurulabileceği kabul edildiğine göre, kullanma hakkının
+devrini hedefleyen bir sözleşmenin yapılabilmesini reddetmek de bu görüşü
+savunan yazarlarca doğru görülmemektedir.
+
+Öte yandan, burada söz konusu edilen tartışmayla ilgili bir sonuca varmadan
+önce, bir hususun altını çizmek gerekir: Her paydaş, payından kaynaklanan
+yararlanma hakkının bir sonucu olarak, kullanma hakkını üçüncü kişiye devretme
+yetkisine sahiptir.  Bir paydaşın yararlanma hakkı, diğer paydaşların haklarını
+ihlâl etmedikçe, ancak oybirliğiyle verilmiş bir kararla sınırlandırılabilir
+veya ortadan kaldırılabilir.  Dolayısıyla, eğer paydaşlar herhangi bir sebeple,
+paylı mülkiyete konu eşyanın yalnızca paydaşlar tarafından kullanılmasını
+istiyor, kullanma hakkının üçüncü kişilere devredilmesini istemiyorlarsa, bu
+konuda, oybirliğiyle anlaşmış olmaları gerekir. Böyle bir anlaşma olmadıkça,
+aşağıda belirtilen şartlar dâhilinde, bir paydaşın kullanma hakkını üçüncü
+kişiye devretmesine, diğer paydaşlar itiraz edemezler.
+
+Bu çerçevede önemli olan, kiracının paylı malı kullanmasının, diğer paydaşların
+haklarıyla bağdaşıp bağdaşmadığıdır. Kanımızca, bu hususun belirlenmesinde,
+kira sözleşmesinin içeriğine göre bir ayrıma gidilmeli, paylı malın belirli bir
+kısmının kullandırılması veya paylı malın belirli bir zaman diliminde
+kullandırılması taahhüdünün bulunup bulunmadığına göre bir sonuca varılmalıdır:
+
+Paylı malın belirli bir kısmının kullandırılması veya belirli bir zaman
+diliminde kullandırılması taahhüdü söz konusu olmaksızın paydaşın kullanma
+hakkını bir üçüncü kişiye devretmesi, yararlanma hakkının sınırları içinde
+kabul edilmeli ve kiracı kiralayan paydaşın tâbi olduğu kurallar çerçevesinde
+paylı malı kullanabilmelidir. Bunun için paylı malın kullanımının belli bir yer
+veya zaman olarak kiralayan paydaşa tahsis edilmiş olmasına gerek yoktur. Çünkü
+paydaşlar arasında böyle bir anlaşmanın bulunmadığı hallerde de kiracı, tıpkı
+kullanma hakkını kendisine bırakan paydaş gibi, diğerlerinin haklarıyla
+bağdaştığı ölçüde paylı malı kullanabilir, diğer paydaşlar buna itiraz
+edemezler. Buna karşılık, paydaşlarca kararlaştırılmış bir kullanma düzeni
+varsa, örneğin paylı malın kullanımı yer veya zaman bakımından bölünmüşse,
+kiracı bu düzene uyduğu sü- rece, diğer paydaşların, kiracının eşyanın
+kiralayan paydaşa ayrılan kısmını veya öngörülen zamanda tamamını kullanmasını
+engellemekte haklı olmayacaklarını kabul etmek gerekir.
+
+Kira sözleşmesinin konusunu paylı malın belirli bir kısmının kullandırılması ya
+da belirli bir zaman diliminde tümünün kullandırılmasının teşkil ettiği
+hallerde ise, paydaşlar arasında kullanmaya ilişkin, tüm paydaşların rızasına
+dayanan bir anlaşmanın olup olmadığı önem kazanır. Çünkü eğer, kiracıya
+kullandırılması hedeflenen kısım veya dönem, paydaşlar arasındaki anlaşma
+uyarınca, kiralayan paydaşın kullanımına tahsis edilmişse, diğer paydaşlar
+kiracının eşyanın o kısmını veya öngörülen dönemde tamamını kullanmasına itiraz
+edemezler. Paydaşlar arasında kullanmaya ilişkin bir anlaşmanın olmaması
+halinde ise, bu yönde pay ve paydaş çoğunluğuyla verilmiş bir karar
+bulunmadıkça, diğer paydaşlar kiracının kullanımını engelleyebilirler.
+
+Öte yandan, kendisine tahsis edilen kısmı veya öngörülen zaman diliminde
+eşyanın tamamını kiralayan paydaş, kiracısına karşı fesih ve tahliye yollarına
+da tek başına başvurabilmelidir. Çünkü bu durumda da kiracı karşısında
+“kiralayan” sıfatı, kendisine özgülenen kısmı kiraya veren paydaşa aittir.
+Hatta Yargıtay, taşınmazın tümüne ilişkin olup, gerekli çoğunluğa dayanmayan
+bir kira sözleşmesine göre “kiralayan” durumunda olan paydaşın dahi kiracıya
+karşı tek başına tahliye davası açabileceğini kabul etmiştir.
+****
+
+[qanda]
+Paydaş tek başına inşaat yapabilir mi? Arsayı park haline çevirebilir mi?::
+    MK 692/1, "_paylı malın özgülendiği amacın değiştirilmesi, korumanın veya
+    olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine
+    girişilmesi_" işlerini olağanüstü yönetim işi kabul etmiş ve bunlar için
+    bütün paydaşların kabulünü aramıştır. Ancak paydaşlar yine oybirliğiye
+    yapacakları bir anlaşma ile bunun aksini düzenleyebilirler. 
+Paydaş tek balına müdahalenin men'i davası açabilir mi? Açabilirse dava masraflarını diğer paydaşlardan alabilir mi?::
+    MK 693/3'te "_paydaşlardan her biri, bölünmeyen ortak menfaatlerin
+    korunmasını diğer paydaşları temsilen sağlayabilir_" denilerek her paydaşa
+    eşyanın korunması adına müdahalenin men'i davası açabilme yetkisi
+    düzenlenmiştir. Bu yetki paydaş için ayrı bir yetki değildir. Her paydaşın
+    kendi hakkını korumak için başvuracağı önlemlerden niteliği gereği
+    bölünemeyip, malın bütününe etkili olanlardan, diğer paydaşların
+    yararlanmasını ifade eder. Yoksa paydaşa diğer paydaşları temsil yetkisi
+    verilmiş değildir. Açılacak davanın kazanılması halinde karardan bütün
+    paydaşlar yararlanır; dava kaybedilirse karar diğer paydaşları bağlamaz,
+    zira davacı paydaş kendilerini temsil etmiş değildir. Açılacak davanın
+    kazanılması halinde MK 694'ün "_paylı mülkiyetten doğan veya paylı malı
+    ilgilendiren yönetim giderleri, vergiler ve diğer yükümlülükler; aksine bir
+    hüküm bulunmadıkça paydaşlar tarafından payları oranında karşılanır_" hükmü
+    uyarınca diğer paydaşlar dava giderlerine payları oranında katılmak
+    zorundadır. Bütün dava giderlerini kendisi karşılayan davacı paydaş diğer
+    paydaşlara payları oranında rücu edebilir (MK 694/2).
+
+=== TAŞINMAZ MÜLKİYETİ
+
+* *Taşınmaz mülkiyetinin konusu* MK 704'te sınırlı olarak sayılmıştır.
++
+[caption=""]
+.Taşınmaz mülkiyetinin konusu
+====
+*MK 704*: Taşınmaz mülkiyetinin konusu şunlardır:
+
+. Arazi,
+. Tapu kütüğünde ayrı sayfaya kaydedilen bağımsız ve sürekli haklar,
+. Kat mülkiyeti kütüğüne kayıtlı bağımsız bölümler.
+====
+
+* *Taşınmaz mülkiyetinin kazanılması* kural olarak tescil ile olur. 
++
+====
+*MK 705/1*: Taşınmaz mülkiyetinin kazanılması, tescille olur.
+====
++
+Kural tescille kazanım olmakla birlikte kanunda öngörülmüş hallerde tescilsiz
+kazanım da mümkündür.
++
+====
+*MK 705/2*: Miras, mahkeme kararı, cebrî icra, işgal, kamulaştırma hâlleri ile
+kanunda öngörülen diğer hâllerde, mülkiyet tescilden önce kazanılır. Ancak, bu
+hâllerde malikin tasarruf işlemleri yapabilmesi, mülkiyetin tapu kütüğüne
+tescil edilmiş olmasına bağlıdır.
+====
+
+* Taşınmaz mülkiyetinin devrini amaçlayan sözleşmeler devri taahhüdü içeren
+sözleşmelerdir (satış sözleşmesi, bağışlama sözleşmesi, trampa). Bu
+sözleşmelerin geçerliliği *resmi şekilde* yapılmış olmasına bağlıdır.
++
+====
+*MK 706*: (1) Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli
+olması, resmî şekilde düzenlenmiş bulunmalarına bağlıdır.
+
+(2) Ölüme bağlı tasarruflar ve mal rejimi sözleşmeleri, kendilerine özgü
+şekillere tâbidir.
+====
++
+Aynı doğrultuda bir hüküm de TBK 237'de düzenlenmiştir.
++
+====
+*TBK 237*: (1) Taşınmaz satışının geçerli olabilmesi için, sözleşmenin resmî
+şekilde düzenlenmesi şarttır.
+
+(2) Taşınmaz satışı vaadi, geri alım ve alım sözleşmeleri, resmî şekilde
+düzenlenmedikçe geçerli olmaz.
+
+(3) Önalım sözleşmesinin geçerliliği, yazılı şekilde yapılmış olmasına
+bağlıdır.
+====
++
+Sözleşmeye resmiyeti verecek olan makam taşınmaz satış sözleşmeleri için tapu
+memurudur.
++
+Arsa payı karşılığı inşaat sözleşmelerinde bir tarafın borcu eser meydana
+getirmek iken diğer tarafın borcu satış veya satış vaadi sözleşmesidir.
+Yüklenici ile malik arasında yapılan sözleşmenin konusu tamamlanacak olan
+binadan bazı bölümlerinin satışı veya satış vaadidir. Bu sözleşmeye resmiyeti
+verecek kurum da Tapu Kanunu 26 uyarınca tapu memurudur.
++
+====
+*Tapu Kanunu 26/1*: Mülkiyete, mülkiyetin gayrı ayni haklara ve müşterek bir
+arzın hissedarları veya birbirine muttasıl gayrimenkullerin sahipleri arasında
+bunlardan birinin veya bir kaçının o gayrimenkul üzerinde mevcut veya inşa
+edilecek binanın, muayyen bir katından veya dairesinden yahut müstakillen
+istimale elverişli bir bölümünden munhasıran istifadesini temin gayesiyle
+Medeni Kanunun 753 üncü maddesi hükümlerine göre irtifak hakkı tesisine veya
+tesisi vadine mütedair resmi senetler tapu sicil müdürü veya tapu sicil
+görevlileri tarafından tanzim edilir.
+====
++
+Arsa payı karşılığı inşaat sözleşmesi kendisi kanunda düzenlenmemiş ama şerhi
+düzenlenmiş bir sözleşmedir. Tapu Kanunu 26/7 uyarınca taraflardan birinin
+istemiyle taşınmaz siciline şerh edilecektir.
++
+====
+*Tapu Kanunu 26/7*: Noterlik Kanununun 44 üncü maddesinin (B) bendi mucibince
+noterler tarafından tanzim edilen gayrimenkul satış vadi sözleşmeleri ile arsa
+payı karşılığı inşaat sözleşmeleri de taraflardan biri isterse gayrimenkul
+siciline şerh verilir.
+====
++
+CAUTION: Noterlik Kanununun 44. maddesi artık madde 89'dur.
++
+Miras paylaşma sözleşmesinin geçerlilik şekli MK 676'da düzenlenmiştir.
++
+[caption=""]
+.Paylaşma sözleşmesi
+====
+*MK 706*: (1) Mirasçılar arasında payların oluşturulması ve fiilen alınması
+veya aralarında yapacakları paylaşma sözleşmesi mirasçıları bağlar.
+
+(2) Paylaşma sözleşmesiyle mirasçılar, tereke mallarının tamamı veya bir kısmı
+üzerindeki elbirliği mülkiyetinin miras payları oranında paylı mülkiyete
+dönüştürülmesini de kabul edebilirler.
+
+(3) Paylaşma sözleşmesinin geçerliliği yazılı şekilde yapılmasına bağlıdır.
+====
++
+Ölünceye kadar bakma sözleşmesinin şekli ise TBK 612'de belirlenmiştir.
++
+[caption=""]
+====
+*TBK 612*: (1) Ölünceye kadar bakma sözleşmesi, mirasçı atanmasını içermese
+bile, miras sözleşmesi şeklinde yapılmadıkça geçerli olmaz.
+
+(2) Sözleşme, Devletçe tanınmış bir bakım kurumu tarafından yetkili makamların
+belirlediği koşullara uyularak yapılmışsa, geçerliliği için yazılı şekil
+yeterlidir.  
+====
++
+Miras sözleşmesinin şekli ise MK 545'in atfıyla MK 532'de düzenlenmiştir.
++
+[caption=""]
+====
+*MK 545*: (1) Miras sözleşmesinin geçerli olması için resmî vasiyetname
+şeklinde düzenlenmesi gerekir.
+
+(2) Sözleşmenin tarafları, arzularını resmî memura aynı zamanda bildirirler ve
+düzenlenen sözleşmeyi memurun ve iki tanığın önünde imzalarlar.
+====
++
+[caption=""]
+====
+*MK 532*: (1) Resmî vasiyetname, iki tanığın katılmasıyla resmî memur
+tarafından düzenlenir.
+
+(2) Resmî memur, sulh hâkimi, noter veya kanunla kendisine bu yetki verilmiş
+diğer bir görevli olabilir.
+====
++
+TIP: *Şekle aykırılığın hukuki sonuçları* hem İsviçre Federal Mahkemesi ve
+doktrini hem de Türk doktrini ve Yargıtay tarafından kabul edilen görüşe göre
+*kesin hükümsüzlüktür*. Doktrinde daha ağır bir şekilde yokluk diyenler ile
+birlikte bazı yazarlarca kendine özgü bir hükümsüzlük olarak kabul edilir. Bu
+yazarlara göre şekil şartı tarafları korumak için getirildiğine göre sadece
+taraflar tarafından ileri sürülmesi gerekir ve hakim tarafından re'sen dikkate
+alınamaz.
++
+_Şekle aykırı sözleşmeye dayanarak tescil yapılmış ise_: Şekle aykırılığa
+dayanmak dürüstlük kuralına aykırılık teşkil edebilir. Bu durumda sözleşme
+şekle uygunmuş gibi geçerli olur. Yargıtay taraflardan biri veya ikisi edimini
+ifa etmiş ve karşı taraf da bunu kabul etmişse artık şekle aykırılığı ileri
+sürmek hakkın kötüye kullanımıdır demektedir.
++
+_Tescil yapılmamışsa_: Yargıtay 1940 tarihli içtihadı birleştirme kararına göre
+şekil noksanı sebebiyle geçersiz olan haricen satış sözleşmesine dayanarak
+taşınmazın zilyetliğini kazanmış ve semeni ödemiş olan alıcı, taşınmazı
+sözleşmenin geçersizliği nedeniyle geri vermeyece mecbursa da satıcı da satış
+bedelini alıcıya geri vermekle mecburdur. Bunların iade borcu bakımından
+ödemezlik def'i uygulanacaktır. Satıcının semeni iade etmemesi üzerine
+ödemezlik def'ini ileri süren alıcı bu süre içerisinde malı kullanmaya devam
+eder, semerelerinden yararlanır ve bunun karşılığında ecrimisil ödemekle
+yükümlü değildir.  
++
+Yargıtay'ın 1944 tarihli içtihadı birleştirme kararına göre ise şekil
+noksanlığı sebebiyle geçersiz bir sözleşme uyarınca zilyet kılınmış alıcı,
+taşınmazı iade etmek zorunda olsa da bu taşınmaz üzerine bir bina inşa eder
+veya ağaç dikerse bunlar malikin zımni rızasıyla yapılmış sayılır ve haksız
+inşaata ilişkin hükümler uygulanabilir. 
++
+[caption=""]
+.Arazinin mülkiyetinin malzeme sahibine verilmesi
+====
+*MK 724*: Yapının değeri açıkça arazinin değerinden fazlaysa, iyiniyetli taraf
+uygun bir bedel karşılığında yapının ve arazinin tamamının veya yeterli bir
+kısmının mülkiyetinin malzeme sahibine verilmesini isteyebilir.
+====
++
+Taşınmaz satışı için yetkili kılınacak temsilciye verilecek vekaletnamenin de
+resmi şekle tabi tutulması uygun olacaktır. Ancak doktrinde bazı yazarlar bu
+tip vekaletnamenin kanunda açıkça bir şekle tani kılınmamasından hareketle TBK
+12 gereği şekil serbestisinin uygulanacağını savunmaktadır. Uygulamada ise tapu
+sicilinde işlem yapabilmek için noterde düzenlenmiş vekaletname aranır.
+Verilecek vekaletname ile temsilci taşınmaz devri için özel olarak yetkili
+kılınmalıdır. Yani vekaletnamenin hangi taşınmaza ve hangi işleme ilişkin
+verildiği özel olarak belirtilmelidir.
+
+* *Muvazaa*; iki tarafın anlaşarak bir sözleşme yapmaları halinde, bu
+sözleşmenin ya hiç hüküm doğurmamasını istemeleri ya da göründüğünden farklı
+bir şekilde hüküm doğurmasını istemeleri anlamına gelir. Taraflar sözleşmenin
+hiç hüküm doğurmamasını istiyorlarsa *adi muvazaa*, sözleşmenin göründüğünden
+farklı şekilde hüküm doğurmasını istiyorlarsa *nitelikli muvazaa* söz
+konusudur.
++
+Muvazaaya bağlanan hukuki sonuçlar tartışmalıdır ancak Yargıtay ve İsviçre
+Federal Mahkemesi tarafından muvazaaya bağlanan yaptırımın kesin hükümsüzlük
+olduğu kabul edilmiştir.
++
+Muvazaanın taraflar arasında yazılı delille ispatlanması gerekir. Fakat üçüncü
+kişiler tarafından her türlü delille ispat olunabilir. 
++
+Taşınmaz mülkiyetinin naklinde muvazaanın önemi; eğer ki basit muvazaa varsa
+yani taraflar işlem yapıyorlar ama onun hiçbir işlem doğurmasını istemiyorlarsa
+bunun yaptırımı kesin hükümsüzlüktür. 
++
+Görünürde satım sözleşmesi yapılmış ama arkasına bağışlama sözleşmesi
+saklanmışsa; satım sözleşmesi, tarafların iradelerinde muvazaa sebebiyle
+sakatlık olması nedeniyle geçersizdir. Bağışlama sözleşmesi ise şekil şartı
+gerçekleşmiş ise geçerli kabul edilecektir. 
++
+Bağışlama sözleşmesinin şekle aykırılığı sebebiyle geçersizliğini ileri sürmek
+dürüstlük kuralına aykırılık teşkil ediyorsa bağışlama sözleşmesinin
+geçersizliğini ileri sürmek mümkün değildir.
++
+NOTE: Kısmi muvazaa denilen bedelde muvazaa hallerinde bu şekle aykırılığı
+ileri sürmek dürüstlük kuralına aykırılık teşkil edebilir. Örneğin paylı
+mülkiyete ilişkin payın satımında taraflar satış bedeli gerçekte 5 TL iken
+sözleşmede 15 TL gösterirler. Böylece yasal önalım hakkını kullanmak isteyen
+paydaşlar 15 TL'ye satış yapıldığını düşünerek haklarını buna göre kullanmak
+durumunda kalacaklardır. Böyle durumlarda gerçek bedel üzerinden satışın
+yapıldığı kabul edilir. Üçüncü kişi paydaş da gerçek bedel üzerinden hakkını
+kullanabilecektir. 
+
+* A, B'den kredi alıyor. Bu kredi karşılığında da B'ye bir teminat göstermesi
+gerekiyor. Bu durumda A, taşınmazı üzerinde ipotek tesis edebilir ya da ipotek
+tesis etmek yerine taşınmazın mülkiyetini B'ye devreder. Bu teminata amaçlı bir
+devirdir. Taraflar bu devir anlaşmasının yanında *inanç anlaşması* denen bir
+anlaşma yaparlar. Bu inanç anlaşması çerçevesinde A, B'ye olan borcunu
+ödediğinde B, A'ya taşınmazını tekrar geri devretme borcu altına girer. 
++
+İster saf ister teminat amaçlı inançlı işlem olsun her iki durumda da mülkiyet
+B'ye geçmiş olur ve B'nin gerçek bir malikten hiçbir farkı yoktur. Sadece A
+kendi borcunu ödeyince B bunu iade etmekle yükümlüdür.
++
+WARNING: A bir ayni hakka sahip değildir, sadece alacak hakkı vardır.
+Dolayısıyla bu yükümlülük sadece taraflar arasında sonuç doğur.
++
+Hukukumuzda taşınmaz devrini sağlayacak anlaşmaların resmi yazılı şekilde
+yapılması gerekir. Ancak tapuda yapılabilecek sözleşme türleri sınırlıdır.
+İnanç anlaşması da hukukumuzda resmen tanınmadığı için taraflar bunu satış
+olarak gösterip bir inanç anlaşması yaparlar. Yargıtay inanç anlaşmasının
+yazılı olmasını aramaktadır. Bu bir ispat şartıdır.
+
+* A, B'den bir taşınmaz almak istiyor ama kendisinin aldığının bilinmesini
+istemiyor. Bu nedenle taşınmazı vekili V'ye aldırıyor. Dolayısıyla alıcı vekil
+V gibi gözüküyor ancak V, taşınmazı A'ya devretmek üzere alıyor. Bu devir
+inançlı bir işlem ile yapılmış olabilir. Yani V alır ve bir süre sonra A'ya
+devreder. Bu işlem dolaylı temsil denilen temsil ilişkisi çerçevesinde V
+taşınmazı alırken kendi adına fakat A hesabına hareket ediyor olabilir. Bu tip
+işlemlere *namı müstear* denilir ve kural olarak geçerli olduğu kabul edilir. 
++
+Yargıtay, 1953 tarihli içtihatı birleştirme kararında V ile A arasında
+taşınmazın V'den A'ya temlikini sağlamak için yapılmış vekaletnamenin resmi
+şekilde yapılmasını aramıştır. 
++
+CAUTION: Resmi şekil aranan vekaletname tapuda işlem yapmak üzere tapu memuruna
+ibraz edilen vekaletname değil V ile A arasındaki vekalet sözleşmesi gereğince
+V'nin B'den kendi adına almış olduğu taşınmazı A'ya devretme borcunun
+doğabilmesi bakımından V ile A arasında yapılan vekaletnamedir.
++
+Bu İBK'ya göre vekilin iade borcu TBK 508'e dayanır.
++
+[caption=""]
+.Hesap verme
+====
+*TBK 508*: (1) Vekil, vekâlet verenin istemi üzerine yürüttüğü işin hesabını
+vermek ve vekâletle ilişkili olarak aldıklarını vekâlet verene vermekle
+yükümlüdür.
+
+(2) Vekil, vekâlet verene tesliminde geciktiği paranın faizini de ödemekle
+yükümlüdür.
+====
++
+Namı müstearla ilgili 1947 tarihli İBK'ya göre ise eğer vekil A adına bir
+taşınmaz satın alıp kendi adına tescil yaptırmışsa mülkiyetin doğrudan A'ya ait
+olacağı söylenmiştir. _Kürsüye göre_ bu karar yanlıştır.
+
+* *Taşınmaz satış vaadi* ön sözleşme olarak kabul edilir.
++
+[caption=""]
+.Önsözleşme
+====
+*TBK 29*: (1) Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler
+geçerlidir.
+
+(2) Kanunlarda öngörülen istisnalar dışında, önsözleşmenin geçerliliği, ileride
+kurulacak sözleşmenin şekline bağlıdır.
+====
++
+TBK 29 uyarınca taşınmaz satış vaadi sözleşmesi resmi şekilde yapılacaktır. Bu
+resmi şekil noterler tarafından da tapu memuru tarafından da sağlanabilir.
++
+*Arsa payı karşılığı inşaat sözleşmesi* yine noterde düzenlenebilir. Ancak arsa
+payı karşılığı inşaat sözleşmelerinin nasıl düzenleneceğine ilişkin ayrı bir
+hüküm olmadığı için noterde onlar da taşınmaz satış vaadi şeklinde düzenlenir. 
++
+NOTE: Özellikle arsa payı karşılığı inşaat sözleşmelerinin arsa payının devri
+borcunu doğuran kısmının resmi yazılı şekilde yapılmış olması gerekir. Yoksa
+yüklenicinin inşaat yapma borcunun resmi şekilde düzenlenmiş olmasına gerek
+yoktur.
++
+Taraflar satış sözleşmesini noterde düzenlemişlerse normalde bu sözleşme şekle
+aykırılıktan geçersiz olması gerekir. Ancak bu sözleşmenin tarafların
+iradesinin yorumu ve tahvil yoluyla taşınmaz satış vaadi olarak geçerli
+sayılması mümkündür.
++
+Taşınmaz satışı sözleşmesi tapuda devir borcunu doğururken taşınmaz satış vaadi
+sözleşmesi sadece satış sözleşmesi borcunu doğurur.
++
+NOTE: Doktrindeki yazarların çoğu usul ekonomisi gereğince satış vaadi
+sözleşmesinde de satış sözleşmesinde de taraflardan biri satış vaadine ya da
+satış sözleşmesine uymazsa diğer tarafın doğrudan MK 716 uyarınca dava
+açabileceğini kabul ediyor. Dolayısıyla satış sözleşmesiyle satış vaadi
+sözleşmesinin farkı ortadan kalkmış oluyor. 
++
+[caption=""]
+.Tescili isteme hakkı
+====
+*MK 716*: Mülkiyetin kazanılmasına esas olacak bir hukukî sebebe dayanarak
+malikten mülkiyetin kendi adına tescilini istemek hususunda kişisel hakka sahip
+olan kimse, malikin kaçınması hâlinde hâkimden, mülkiyetin hükmen geçirilmesini
+isteyebilir.
+====
++
+Satış vaadi sözleşmelerinin şerh imkanı MK 1009'da düzenlenmiştir.
++
+[caption=""]
+====
+*MK 1009*: (1) Arsa payı karşılığı inşaat, taşınmaz satış vaadi, kira, alım,
+önalım, gerialım sözleşmelerinden doğan haklar ile şerhedilebileceği kanunlarda
+açıkça öngörülen diğer haklar tapu kütüğüne şerhedilebilir.
+
+(2) Bunlar şerh verilmekle o taşınmaz üzerinde sonradan kazanılan hakların
+sahiplerine karşı ileri sürülebilir.
+====
++
+TIP: Taşınmaz satış vaadinin şerh edilmesi bakımından şerh anlaşması aranmaz.
++
+Şerhten itibaren 5 sene içinde satış yapılmaz ise tapu sicil müdürü veya
+görevlileri tarafından resen terkin edilecektir (Noterler Kanunu 89). Buna
+karşılık Tapu Sicil Tüzüğü 69'da da şerhin ancak malikin terkin talebiyle
+terkin edilebileceği düzenlenmişir. Tüzük-kanun çatışmasında kanun doğal olarak
+önce gelecektir ancak uygulamada tapu memurları şerhi 5 yılın sonunda re'sen
+terkin etmiyorlar.
+
+* Tapuya kayıtlı olmayan bir taşınmaz bakımından da mülkiyet hakkı söz konusu
+olabilir. Böyle bir mülkiyetin devri söz konusuysa _kürsüye göre_ en adil çözüm
+taşınmaz mülkiyetinin devrinde olduğu gibi geçerlilik için resmi şekil
+aranmasıdır. Eğer bu şekle uyulmamışsa o zaman *haricen satış* söz konusu
+olacaktır. Haricen satış yapılmışsa tapuda kayıtlı olmadığı için tescil mümkün
+değildir.

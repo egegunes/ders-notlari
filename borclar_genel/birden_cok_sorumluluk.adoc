@@ -1,0 +1,343 @@
+= BİRDEN ÇOK SORUMLULUK SEBEBİ VEYA BİRDEN ÇOK SORUMLU BULUNMASI
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== I. BİR ŞAHIS İÇİN BİRDEN ÇOK SORUMLULUK SEBEBİ BULUNMASI				
+
+. Bir davranışın hem borca aykırılık, hem de haksız fiil oluşturması
+mümkündür.
++
+Bazı yazarların borca aykırılık esasına dayanma imkanı varken haksız fiil
+sorumluluğuna dayanılamayacağını savunmalarına, bazılarının ise haksız fiil
+esaslarına üstünlük tanımalarına karşılık, hakim olan görüş, şartları
+gerçekleşen iki sorumluluğa dayanan taleplerin yarışacağını ve mağdurun
+dilediği esasa dayanabileceğini kabul etmektedir.
++
+.TBK m.60
+....
+Bir kişinin sorumluluğu, birden çok sebebe dayandırılabiliyorsa hâkim, zarar
+gören aksini istemiş olmadıkça veya kanunda aksi öngörülmedikçe, zarar görene
+en iyi giderim imkânı sağlayan sorumluluk sebebine göre karar verir.
+....
++
+Fakat bazı noktalarda bir esasa diğer noktalarda diğer esasa dayanılmasına izin
+yoktur. Faile karşı hangi sorumluluk esasına dayanılmışsa, o esasın bütün
+hükümleri uygulanır.
++
+Aynı zararı iki ayrı sebebe dayanarak iki defa tazmin ettirmek imkanı yoktur.
+Fakat bir davranışın borca aykırılık dışında meydana getirdiği zararların,
+şartları varsa, ayrıca haksız fiil hükümleri uyarınca tazmini; keza bir
+davranışın haksız fiil sorumluluğu kapsamı dışında meydana getirdiği
+zararların, şartları varsa, borca aykırılık hükümleri uyarınca tazmini talep
+edilebilir.
++
+. Bir kimse kusura dayanan ve kusur aranmayan sebeplerle sorumlu olabilir.
++
+Kusura dayanan haksız fiil sorumluluğuna yol açacak bir davranıştan doğan
+zarardan failin kusur aranmayan bir sebeple de sorumlu olması halinde, sadece
+özel hüküm olarak kusur aranmayan sorumluluk hükmünün uygulanacağı, aynı
+zamanda haksız fiil teşkil eden kusurlu davranıştaki kusurun munzam kusur
+olarak dikkate alınacağı ve bunun sonuçlarını doğuracağı kabul edilmektedir.
++
+Fakat bir kusurun munzam kusur olarak dikkate alınması için, davranışın ayrı
+bir haksız fiil teşkil etmesi şart değildir, kusursuz sorumluluk sebebinin
+gerçekleşmesinde etkili bir kusur olması yeterlidir.
++
+. Bir kimsenin kusursuz sorumluluğu için birden fazla sebep de söz konusu
+olabilir.
++
+Şayet bir sorumluluk sebebi diğerini kapsayacak şekilde bir konuda sorumluluğu
+özel olarak düzenlemişse, sadece özel hüküm uygulanır.
++
+Buna karşılık, bir kimsenin bir zarardan kusur aranmaksızın birden fazla farklı
+sebeple sorumlu olduğu ve bunların düzenlenme amacının diğerini dışlamak
+olmadığı hallerde, bu sorumluluklara dayanan talepler yarışır.
+
+== II. BİR ZARARADAN BİRDEN ÇOK KİŞİNİN SORUMLULUĞU
+
+=== 1. Müteselsil sorumluluk
+
+==== a. TBK m.61'de yer alan esas 
+
+.TBK m.61
+....
+Birden çok kişi birlikte bir zarara sebebiyet verdikleri veya aynı zarardan
+çeşitli sebeplerden dolayı sorumlu oldukları takdirde, haklarında müteselsil
+sorumluluğa ilişkin hükümler uygulanır.
+....
+
+===== aa. Birlikte zarara sebebiyet verme
+
+Eskiden “tam teselsül” olarak adlandırılan bu birinci durumda, haksız fiilin
+işlenmesine katılmış olmak, kanunun ifadesiyle “birlikte bir zarara sebebiyet
+vermek” şartı aranır. Bu konuda “ortak kusurun” gerektiği de ifade
+edilmektedir. Birden çok şahsın bir haksız fiili anlaşarak işlemeleri halinde
+ortak kusur, kast derecesindedir.  Bugün öğretide hakim olan görüşe göre,
+haksız fiilin işlenmesinde ortak kusurun varlığı için fiilin kasten işlenmiş
+olması şart değildir. Birlikte bir zarar veren kişiler, hukuka aykırı
+davranmayı ve bununla başkasına zarar vermeyi istemiş olmasalar dahi, gerekli
+tedbiri almadan yaptıkları davranışa isteyerek katılmışlarsa, ortak kusur veya
+haksız fiile katılma gerçekleşmiş olur. Buna karşılık birbirinden habersiz iki
+davranış birlikte bir zarara sebep olmuşsa, TBK m.61'de aranan ortak kusurun
+varlığından söz edilemez.
+
+===== bb. Aynı zarardan çeşitli sebeplerle sorumlu olma
+
+Eskiden “eskik teselsül” olarak adlandırılan bu durumda, bir kişinin uğradığı
+zararı, birden çok kimse ayrı sebeplerle tazmin etmekle yükümlüdür. Mağdur
+zararının tazminini içlerinden birinden, bir kaçından veya hepsinden talep
+edebilir.
+
+Bu tür müteselsil sorumluluk için bir zarardan birden çok kişinin ayrı
+sebeplerle sorumlu olması gerekir. Bunlar, haksız fiil, sözleşmeden doğan bir
+borcu ihlal ve kusursuz sorumluluk hallerinden biri olabilir.
+
+Bu tür müteselsil sorumluluğun varlığı için faillerin birbirinin davranışından
+haberdar olması veya davranışlardan birinin diğerine bağımlı olması şart
+değildir.
+
+==== b. Müteselsil sorumluluğun sonuçları
+
+===== aa. Dışa karşı
+
+TBK m.61 uyarınca birlikte zarar vermede müteselsilen sorumlu olan kişinin
+haksız fiilin işlenmesinde asıl fail mi, yardımcı mı, teşvik eden mi olduğu
+önem taşımaz. Her birinin ortak kusura katılma payı ne olursa olsun, hepsi
+mağdurun zararından müteselsilen sorumludur. Önemli olan ortak kusurlu bu
+fiillerin zararla uygun nedensellik bağı içinde olmalarıdır. Ancak birlikte
+hareket iradesi dışına çıkan bir fiil söz konusu olursa, o zaman o fiilin
+sonuçlarından sadece fiili işleyen sorumlu olur.
+
+Sorumlulardan birinin kusurunun hafif olması, onun mağdura karşı sorumluluğunun
+azalmasına yol açmaz. Zira, müteselsil sorumlulardan her biri, ortak kusur
+sebebiyle bir bütün oluşturan zarar verici olguda diğerlerinin davranışlarının
+sonuçlarından da sorumlu durumdadır. Ancak, içlerinden en ağır kusurlu olanın
+kusur derecesinin hepsi açısından tazminat tayin edilirken dikkate alınması
+düşünülebilir. 
+
+Mağdur, zararının tazminini müteselsil sorumlulardan birinden, bir kaçından
+veya hepsinden isteyebilir.
+
+Müteselsil sorumluluk, yalnız maddi zararların değil, manevi zararların
+tazmininde de söz konusu olur.
+
+.TBK m.166
+....
+f.1 - Borçlulardan biri, ifa veya takasla borcun tamamını veya bir kısmını sona
+erdirmişse, bu oranda diğer borçluları da borçtan kurtarmış olur.
+f.2 - Borçlulardan biri, alacaklıya ifada bulunmaksızın borçtan kurtulmuşsa,
+diğer borçlular bundan, ancak durumun veya borcun niteliğinin elverdiği ölçüde
+yararlanabilirler.  
+f.3 - Alacaklının borçlulardan biriyle yaptığı ibra sözleşmesi, diğer
+borçluları da ibra edilen borçlunun iç ilişkideki borca katılma payı oranında
+borçtan kurtarır.
+....
+
+Müteselsil sorumlulardan her birinin zararın tamamından sorumlu olması, her
+birinden ayrı ayrı tazminatın tamamının alınacağı demek değildir, tazminatın
+tamamı elde edilinceye kadar, ödenmemiş tazminattan sorumluluklarının devam
+edeceğini ifade eder.
+
+İçlerinden birinin yaptığı ödemenin, diğerlerinin sorumluluğunu o miktarda
+azaltmasına karşılık, içlerinden birinin ödeme dışında sorumluluktan
+kurtulmasından diğer sorumluların yararlanıp yararlanamayacağı işin niteliğine
+bağlıdır (TBK m.166/f.2). En sık rastlanacak durum olan, mağdurun sorumlulardan
+birini ibrasında, TBK m.166/f.3, ibra edilen borçlunun iç ilişkide borca
+katılma oranında tüm müteselsil borçluların dışa karşı da sorumluluktan
+kurtulacaklarını düzenlemiştir.
+
+.TBK m.155
+....
+f.1 - Zamanaşımı müteselsil borçlulardan veya bölünemeyen borcun
+borçlularından birine karşı kesilince, diğerlerine karşı da kesilmiş olur.  
+....
+
+===== bb. İç ilişkide
+
+.TBK m.62
+....
+f.1 - Tazminatın aynı zarardan sorumlu müteselsil borçlular arasında
+paylaştırılmasında, bütün durum ve koşullar, özellikle onlardan her birine
+yüklenebilecek kusurun ağırlığı ve yarattıkları tehlikenin yoğunluğu göz önünde
+tutulur.  
+f.2 - Tazminatın kendi payına düşeninden fazlasını ödeyen kişi, bu fazla
+ödemesi için, diğer müteselsil sorumlulara karşı rücu hakkına sahip ve zarar
+görenin haklarına halef olur.
+....
+
+Tazminatın tamamını veya bir kısmını ödeyen bir müteselsil sorumlunun
+diğerlerini rücu edip edemeyeceği, edebilecekse ne oranda rücu edebileceği
+hakimin takdirine bırakılmıştır (TBK m.62/f.1). Ancak hakim iç ilişkide
+tazminatı bölüşme oranlarını belirlerken, “bütün durum ve koşulları, özellikle
+sorumlulardan her birine yüklenebilecek kusurun ağırlığını ve yarattıkları
+tehlikenin yoğunluğunu” göz önünde tutarak bu paylaştırmaya karar verecektir.
+
+Fakat hakimin hiçbir şart altında müteselsil sorumlulardan birini iç ilişkide
+tamamen yükten kurtarması mümkün olmamalıdır. TBK m.62/f.1'in hakime verdiği
+paylaştırma yetkisi ve görevi böyle bir sonucu içermez.
+
+Şayet müteselsil sorumlular birlikte dava edilmişse veya biri aleyhine açılan
+dava diğerlerine ihbar edilmişse, rücu hususunu, tazminata karar veren hakim
+takdir ederek karara bağlayabilir. Şayet tazminata karar verilirken rücu konusu
+karara bağlanmamışsai rücu ayrı dava konusu olabilir. Bu takdirde tazminat
+kararı, rücu davasında kesin hüküm teşkil etmez.
+
+Kendisine rücu yoluyla başvurulan kimse, mağdura ödemekle yükümlü olduğu
+tazminattan daha fazlasını ödemekle yükümlü tutulamaz. Meğer ki aralarında rücu
+hususunda TBK m.62 dışında bir sebep bulunsun.
+
+.Örnek
+TIP: (B)'nin (A)'dan kiraladığı bir malı (Ü)'nün çalıştırdığı (M) hafif bir
+kusurla tahrip etmiştir. (A), aralarındaki borç ilişkisine dayanarak zararının
+tamamını kiracı (B)'ye tazmin ettirmiş olsa, (B) kusurlu fail (M)'ye rücu
+edince, (M), (A)'ya ödemekle yükümlü olduğu tazminat miktarından fazlasını rücu
+eden (B)'ye ödemekle yükümlü tutulamamalıdır. (B)'nin açacağı davada (M),
+kusurunun hafifliği dikkate alınarak tazminatın indirilmesini talep edebilir.
+Buna karşılık (A) zararını TBK m.66 uyarınca (Ü)'ye tazmin ettirmiş olursa, (Ü)
+aralarındaki hizmet sözleşmesi uyarınca (M)'ye rücu edince (M), (B)'nin rücu
+etmesi haline oranla daha yüksek bir tazminat ödemekle yükümlü tutulabilir.
+Fakat (M)'nin de (Ü)'nün kendisine yanlış araç veya talimat verdiği için (Ü)'ye
+ödeyeceği tazminatın indirilmesini istemesi mümkündür.
+
+Bir zarar verici olgudan sonra bir başka kişinin fiili zararın artmasına sebep
+olmuşsa, bu kişi, sadece fiilinden sonra meydana gelen zarar için, bu zarardan
+da sorumlu olan önceki sorumlularla birlikte teselsül hükümlerine tabi olur.
+Önceki sorumluların yeni zarardan da sorumlu tutulmaları uygun nedensellik
+bağının devam etmesine bağlıdır. Bu şart varsa, önceki sorumlular yeni zarar
+dahil, zararın tamamından sorumlu olurlar.
+
+TBK m.62/f.2, kendi payından fazla tazminat ödeyen müteselsil borçlunun bu
+oranda alacaklıya halef olacağını da hükme bağlamıştır. Buna göre, iç
+ilişkideki payından fazla ödeme yapan fail, bu fazla ödemesi kadar diğer
+sorumlularla rücu hakkı yanında, mağdurun alacak hakkını da bu oranda devralmış
+sayılacak ve yeni alacaklı sıfatıyla diğer sorumlularla başvurabilecektir.
+Fakat yarışan bu iki hakkından birini ileri sürüp başarıya ulaştığı oranda
+diğeri de sona ermiş sayılacaktır. Gene, halefiyet dayanarak diğer sorumlulara
+müracaatta da bunlar, mağdura karşı olduğu gibi müteselsil değil, payları
+oranında sorumlu olacaklardır.
+
+.TBK m.73
+....
+f.1 - Rücu istemi, tazminatın tamamının ödendiği ve birlikte sorumlu kişinin
+öğrenildiği tarihten başlayarak iki yılın ve her hâlde tazminatın tamamının
+ödendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar.
+f.2 - Tazminatın ödenmesi kendisinden istenilen kişi, durumu birlikte sorumlu
+olduğu kişilere bildirmek zorundadır. Aksi takdirde zamanaşımı, bu bildirimin
+dürüstlük kurallarına göre yapılabileceği tarihte işlemeye başlar.  
+....
+
+Rücu davasının zamanaşımı, tüm rücu taleplerini düzenleyen TBK m.73 uyarınca,
+tazminatın tamamının ödendiği ve birlikte sorumlu kişinin öğrenildiği tarihten
+başlayarak iki yılın ve her halde tazminatın tamamının ödendiği tarihten
+başlayarak on yılın geçmesiyle zamanaşımına uğrayacaktır.
+
+=== 2. Bir zarara, haksız fiilin işlenmesine katılmaksızın birden çok şahsın sebep olması
+
+Birden çok kimse bir zarara, aralarında birlikte hareket iradesi bulunmaksızın
+birlikte sebep olmuşlarsa veya bir zarardan birden çok kimse aynı planda
+kusursuz sorumlu ise, bunların mağdura karşı sorumluluklarının hangi esaslara
+tabi olcağı kanunda belirtilmemiştir.
+
+Bu hallerde, kusursuz sorumlu olanlar için hakim TBK m.62 uyarınca olayın bütün
+şartlarını dikkate alarak hakkaniyet çerçevesinde rücu sorununu çözer.
+
+== III. KARŞILIKLI SORUMLULUK
+
+=== 1. Karşılıklı sorumluluğun söz konusu olması
+
+Sorumluluğa yol açan olayda, birden çok kimse, zarara uğramış olup da bunlar
+birbirine karşı sorumlu ise, her biri karşı tarafın zararı bakımından sorumlu,
+kendi zararı bakımından mağdur durumundadır.
+
+Buna karşılık iki kişi, bir bütünlük taşımayan ayrı olaylarda birbirine zarar
+vermiş ise, örneğin (A), (B)'yi bıçakla yaralamış, (B)'de evden silahını
+getirip (A)'yı yaralamışsa konu karşılıklı sorumluluk sorunu değildir. Her iki
+yaralama fiili ayrı haksız fiiller olarak ayrı sorumluluk konusu olur.
+
+=== 2. Karşılıklı sorumlulukta uygulanacak esaslar
+
+.. Karşılıklı sorumluluğa yol açan olayda her iki tarafın sorumluluğu da kusura
+dayanan sorumluluksa, her birinin kusur derecesi diğer tarafın zararının
+tazmininde dikkate alınacağı gibi (TBK m.51) kendi zararının tazmini bakımından
+da birlikte kusur olarak (TBK m.52) dikkate alınır.
+
+.. Karşılıklı sorumlulukta, birinin sorumluluğu kusur esasına dayanırken diğeri
+kusursuz sorumluluğa tabi ise:
++
+.Örnek
+TIP: Bir bisikletli ile bir otomobil çarpışırsa ve her iki taraf zarara
+uğrarsa: Kusur sorumluluğuna tabi olan (bisikletli) diğer tarafın zararını TBK
+m.49 uyarınca tazmin eder. Fakat zararın meydana gelmesinde diğerinin
+(otomobilin) etkisi indirim sebebi olarak göz önüne alınır. Buna karşılık
+kusursuz sorumluluğa tabi olan (otomobilin işleteni) karşı tarafın
+(bisikletlinin) zararını KTK m.85 uyarınca tazmin edecektir. Karşı tarafın
+(bisikletlinin) zarardaki etkisi (birlikte kusuru) indirim sebebi olarak
+gözönüne alınır.
++
+.. Karşılıklı sorumlulukta sorumlu olanların ikisi de kusursuz sorumluluk
+esaslarına tabi ise, her biri diğerinin zararını kendisinin tabi olduğu
+kusursuz sorumluluk esaslarına göre tazmin eder. Mağdurlardan her birinin
+olaydaki etkisi de kendi istediği tazminat bakımından indirim sebebi olur.
++
+Özellikle zarar verici olayda taraflardan birinin yarattığı tehlike derecesi,
+keza varsa eklenen kusuru, gerek kendi sorumluluğu gerek karşı taraftan alacağı
+tazminatın indirimi bakımından dikkate alınacaktır.
++
+.. İki motorlu aracın karayolunda çarpışması halinde her iki işletenin tehlike
+esasına dayanan sorumluluğu KTK m.89'da farklı şekilde özel olarak
+düzenlenmiştir.
++
+.KTK m.89
+....
+f.1 - Birden çok motorlu aracın katıldığı bir kazada işletenlerden biri
+bedensel bir zarara uğrarsa, özel durumlar ve özellikle işletme tehlikeleri
+başka türlü paylaştırmayı haklı göstermedikçe, kazaya katılan araçların
+işletenleri ve araç işleticisinin bağlı olduğu teşebbüs sahipleri kendilerine
+düşen kusur oranında, zararı gidermekle yükümlüdürler.  
+f.2 - İşletenlerden ve araç işleticisinin bağlı olduğu teşebbüs sahiplerinden
+birine ait bir şeyin zarara uğraması halinde, zarar gören, ancak zarar veren
+işletenin veya araç işleticisinin bağlı olduğu teşebbüs sahibinin veya
+eylemlerinden sorumlu tutulduğu kimsenin kusuru veya geçici olarak temyiz
+gücünü kaybetmesi veya zarar verene ait araçtaki bir bozukluk yüzünden zararın
+vuku bulduğunu ispat etmesi halinde zarar veren işleten veya işleticinin bağlı
+olduğu teşebbüs sahibi tazminatla yükümlü tutulur.  
+f.3 - Tazminatla yükümlü olan işletenler veya işleticinin bağlı olduğu teşebbüs
+sahipleri zarar gören işletene veya işleticinin bağlı olduğu teşebbüs sahibine
+karşı müteselsilen sorumludurlar.
+....
+
+KTK m.89/f.1'e göre iki motorlu araç çarpışır ve işletenlerin ikisi de bedensel
+zarara uğrarsa, olayda tehlike durumu başka bir uygulamayı gerektirmezse,
+işletenlerin birbirinden tazminat istemesi olayda kusurları bulunması şartına
+bağlıdır. İki tarafın da kusuru yoksa hiç biri diğerinden tazminat isteyemez.
+Her biri kendi zararına katlanır. Fakat araçlarından birinin olayda arz ettiği
+tehlike diğerinden yüksekse, bu durum dikkate alınarak yüksek tehlike arz eden
+aracın işleteni kusuru bulunmasa dahi tazminat ödemekle yükümlü tutulabilir.
+Yalnız bir taraf kusurlu ise sadece o diğer tarafın zararını tazmin edecektir.
+Her iki taraf kusurlu ise her biri kendi kusuru oranında kendi zararına
+katlanacak ve o oranda diğer tarafın zararını tazmin edecektir. Bir aracın daha
+yüksek tehlike arz etmesi karşılıklı sorumluluk oranını etkileyebilir. 
+
+KTK m.89/f.2'ye göre ise; şayet karşılıklı sorumluluk, çarpışan araç
+işletenleri için malın zarara uğramasına ilişkin ise, her bir işleten
+kendisinin veya yardımcılarının kusuru varsa veya ayırt etme gücününü geçici
+olarak kaybetme zarara sebep olmuşsa ya da aracındaki bir bozukluk zarara yol
+açmışsa, diğer tarafın zararını tazmin edecektir. Her iki taraf diğeri için bu
+şartın varlığını ispat ederse, olaydaki etki oranına göre hem karşı tarafın
+zararını tazmin edecek, hem de kendi istediği tazminat indirilecektir. Şayet
+araçların çarpışmasında işletenlerden biri bedensel zarara, diğeri mala
+verilmiş zarara uğrarsa, bedensel zarara uğrayan KTK m.89/f.1'e, malı zarara
+uğrayan ise, KTK m.89/f.2'ye dayanarak tazminat isteyebilir.
+
+=== 3. Karşılıklı tazminat yükümlülüğünün sonuçları
+
+Karşılıklı sorumlu olan kimseler, birbirinden davacı oldukları takdirde, her
+birinin diğerine ödeyeceği tazminat kendi alacağı tazminatla takas edilmeli ve
+lehine artık alacak kalan taraf lehine bu miktara karar verilmelidir.
+
+Karşılıklı dava açılmışsa, hakim bu tarzda hareket edeceği gibi, bir tarafın
+açtığı davada diğer taraf takası def'i olarak ileri sürerse, gene aynı çözüm
+söz konusu olur. Bunların dışında, sadece bir tarafın açtığı tazminat davasında
+hakim karşılıklı sorumluluğu kendiliğinden dikkate alarak karar veremez.

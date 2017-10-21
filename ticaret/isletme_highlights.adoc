@@ -1,0 +1,1810 @@
+:icons: font
+
+== TİCARİ İŞLETME
+
+=== İŞLETME
+
+****
+*TTK 11/1*: Ticari işletme, esnaf işletmesi için öngörülen sınırı aşan düzeyde
+gelir sağlamayı hedef tutan faaliyetlerin devamlı ve bağımsız şekilde
+yürütüldüğü işletmedir.
+****
+
+* Ticari işletmenin unsurları:
+
+.. *Gelir sağlama hedefi*
++
+Hayır işi için kurulan bir yapıda işletme yoktur.
+.. *Devamlılık*
++
+Tek seferlik işler ticari veya işletmesel faaliyet sayılmaz. Süregelen bir
+faaliyet olması gerekir. Ancak kesintisiz olması şart değildir.
+.. *Bağımsızlık*
+.. *Esnaf işletmesi için öngörülen sınırı aşma*
++
+Bu düzeydeki geliri elde etme *hedefi* önemlidir. Aksi takdirde hiçbir
+işletmenin ilk yılında ticari işletme olmasına imkan yoktur.
++
+.Esnaf nedir?
+****
+*TTK 15*: İster gezici olsun ister bir dükkânda veya bir sokağın belirli
+yerlerinde sabit bulunsun, ekonomik faaliyeti sermayesinden fazla bedenî
+çalışmasına dayanan ve geliri 11 inci maddenin ikinci fıkrası uyarınca
+çıkarılacak kararnamede gösterilen sınırı aşmayan ve sanat veya ticaretle
+uğraşan kişi esnaftır. Ancak, tacirlere özgü 20 ve 53 üncü maddeler ile Türk
+Medenî Kanununun 950 nci maddesinin ikinci fıkrası hükmü bunlara da uygulanır.
+
+*TTK 11/2*: Ticari işletme ile esnaf işletmesi arasındaki sınır, Bakanlar
+Kurulunca çıkarılacak kararnamede gösterilir.
+
+Yürürlükte olan kararname 18.06.2007 tarihli (eski kanun döneminden)
+****
+
+* Ticari işletmenin iki yönü vardır: *faaliyet yönü* ve *malvarlığı yönü*.
++
+CAUTION: Ticari işletme hakkın konusudur, hakkın sahibi değildir.
+
+* Merkez ve şube:
+
+.. *Merkez ile şube farklı kişilere ait olamaz!*
+.. Şube merkeze bağlıdır ve aralarında hiyerarşik ilişki vardır.
+.. İç ilişkide bağımlılık, dış ilişkide bağımsızlık vardır.
++
+Dış ilişkide üçüncü kişilere karşı merkez ne yapıyorsa aynı işlemleri yapar.
+.. Şube merkezden ayrı bir yerde olur ve ayrı bir yönetimi olur.
+.. Muhasebesi ayrı olarak tutulur.
+.. İşletme devri yapıldığı zaman şube de devredilmiş olur.
+.. Şubenin yaptığı işlemlere ilişkin olarak bir dava açılacağı zaman şubenin
+bulunduğu yerdeki mahkeme de yetkili mahkemedir. Aynı zamanda merkezin
+bulunduğu yerdeki mahkemede de dava açılabilir.
+
++
+****
+*TSY 118/1*: Bir ticari işletmeye bağlı olup ister merkezinin bulunduğu sicil
+çevresi içerisinde isterse başka bir sicil çevresi içinde olsun, bağımsız
+sermayesi veya muhasebesini bulunup bulunmadığına bakılmaksızın kendi başına
+sınai veya ticari faaliyetin yürütüldüğü yerler ve satış mağazaları şubedir.
+****
+
+* TTK 11/3'e göre işletme, içerdiği malvarlığı unsurlarının devri için gereken
+tasarruf işlemlerinin ayrı ayrı yapılmasına gerek olmaksızın bütün halinde tek
+seferde devredilebilir.
++
+****
+*TTK 11/3*: Ticari işletme, içerdiği malvarlığı unsurlarının devri için zorunlu
+tasarruf işlemlerinin ayrı ayrı yapılmasına gerek olmaksızın bir bütün hâlinde
+devredilebilir ve diğer hukuki işlemlere konu olabilir. Aksi öngörülmemişse,
+devir sözleşmesinin duran malvarlığını, işletme değerini, kiracılık hakkını,
+ticaret unvanı ile diğer fikrî mülkiyet haklarını ve sürekli olarak işletmeye
+özgülenen malvarlığı unsurlarını içerdiği kabul olunur. Bu devir sözleşmesiyle
+ticari işletmeyi bir bütün hâlinde konu alan diğer sözleşmeler yazılı olarak
+yapılır, ticaret siciline tescil ve ilan edilir.
+****
++
+Aksi öngörülmemişse devir sözleşmesinin:
+
+.. _duran malvarlığını_,
+.. _işletme değerini_,
+.. _kiracılık hakkını_,
+.. _ticaret unvanını_,
+.. _fikri mülkiyet haklarını_,
+.. _sürekli olarak işletmeye özgülenen malvarlığı unsurlarını_
+
++
+içerdiği kabul edilir.
+
+* Devir sözleşmesi yazılı şekilde yapılır ve ticaret siciline tescil edilir.
+Buradaki tescil kurucu mudur açıklayıcı mıdır? Doktrinde tartışmalar var.
++
+****
+*TSY 133/3*: Ticari işletmenin devri, devir sözleşmesinin tümünün tescili ile
+hüküm ifade eder.
+****
++
+Bu hükme göre ticari işletmenin devrinde yapılacak tescil kurucudur. Devir
+sadece tasarruf işleminin birinci ayağıdır. Hüküm ifade etmesi için ticaret
+siciline tescil gerekir.
+
+* Sadece aktiflerin devre dahil edilmesi, pasiflerin ticari işletme devrinin
+dışında bırakılması mümkün müdür?
++
+Nispeten baskın görüşe göre pasiflerin devir sözleşmesine dahil edilmeyerek
+aktiflerin tamamının ya da bir kısmının devri mümkün değildir.
+
+* Ticaret siciline yapılacak tescil sonrasında tapu siciline ya da trafik
+siciline yapılacak tesciller açıklayıcı nitelikte olacaktır.
+
+* Bir tacir ticari işletmesini devretti diye doğrudan ticareti terk etti
+diyemeyiz. Başka ticari işletmesi var mı yoku mu bakmak gerekir.
+
+* İşletmenin bütün olarak, aktifler ve pasifler birlikte devri halinde
+alacaklının onayı olmaksızın borçlar ticari işletmeyi devralana geçer.
++
+****
+*TBK 202*: (1) Bir malvarlığını veya bir işletmeyiaktif ve pasifleri ile
+birlikte devralan, bunu alacaklılara bildirdiği veya ticari işletmeler için
+Ticaret Sicili Gazetesinde, diğerleri için Türkiye genelinde dağıtımı yapılan
+gazetelerden birinde yayımlanacak ilanla duyurduğu tarihten başlayarak, onlara
+karşı malvarlığındaki veya işletmedeki borçlardan sorumlu olur.
+
+(2) Bununla birlikte, iki yıl süreyle önceki borçlu da devralanla birlikte
+müteselsil borçlu olarak sorumlu kalır. Bu süre, muaccel borçlar için, bildirme
+veya duyuru tarihinden; daha sonra muaccel olacak borçlar için ise, muacceliyet
+tarihinden işlemeye başlar.
+
+(3) Borçların bu yoldan üstlenilmesinin sonuçları, dış üstlenme sözleşmesinden
+doğan sonuçlarla özdeştir.
+
+(4) Bildirme veya ilanla duyurma yükümlülüğü devralan tarafından yerine
+getirilmedikçe, ikinci fıkrada öngörülen iki yıllık süre işlemeye başlamaz. 
+****
++
+Burada alacaklının rızası, onayı, icazeti aranmaz. TBK 202/2'de alacaklıyı
+koruyan bir düzenleme getirilmiştir. Buna göre devreden de iki yıl süreyle
+devralanla birlikte müteselsil borçlu olarak sorumlu kalır. İki yıllık sürenin
+başlangıcı *muaccel borçlar için* devir işleminin alacaklıya bildirildiği veya
+ticaret siciline tescil edildiği an, *müeccel borçlar için* muacceliyet
+tarihidir.
+
+=== TİCARİ İŞ
+
+* Ticari işler, dört sınıfa ayrılabilir:
+
+. Ticaret Kanunu'nda düzenlenen hususlar, ticari iştir.
++
+****
+*TTK 3*: Bu Kanunda düzenlenen hususlarla bir ticari işletmeyi ilgilendiren
+bütün işlem ve fiiller ticari işlerdendir.
+****
+. Bir ticari işletmeyi ilgilendiren işler ticari iştir.
+. Ticari iş karinesi
++
+****
+*TTK 19/1*: Bir tacirin borçlarının ticari olması asıldır. Ancak, gerçek kişi
+olan bir tacir, işlemi yaptığı anda bunun ticari işletmesiyle ilgili olmadığını
+diğer tarafa açıkça bildirdiği veya işin ticari sayılmasına durum elverişli
+olmadığı takdirde borç adi sayılır.
+****
++
+Bunun iki istisnası mevcuttur:
+
+... Halin icabından o işin ticari olmadığının anlaşılması,
+... o işin ticari olmadığının karşı tarafa açıkça bildirilmesidir.
+
++
+CAUTION: Bu karine sadece *gerçek* kişi tacirler için geçerlidir. Ticaret
+şirketlerinin adi alanı, adi işi olmaz.
+. Bir taraf için ticari olan *sözleşmeler*, diğer taraf için de ticaridir.
++
+****
+*TTK 19/2*: Taraflardan yalnız biri için ticari iş niteliğinde olan
+sözleşmeler, Kanunda aksine hüküm bulunmadıkça, diğeri için de ticari iş
+sayılır.
+****
+
+* Ticari iş olmanın sonuçları:
+
+. Teselsül karinesi
++
+****
+*TBK 162*: (1) Birden çok borçludan her biri, alacaklıya karşı borcun
+tamamından sorumlu olmayı kabul ettiğini bildirirse, müteselsil borçluluk
+doğar.
+
+(2) Böyle bir bildirim yoksa, müteselsil borçluluk ancak kanunda öngörülen
+hâllerde doğar.
+****
++
+Ticari olmayan işlerde kural münferit sorumluluk iken, ticari işlerde kural
+müteselsil sorumluluktur.
++
+****
+*TTK 7*: (1) İki veya daha fazla kişi, içlerinden yalnız biri veya hepsi için
+ticari niteliği haiz bir iş dolayısıyla, diğer bir kimseye karşı birlikte borç
+altına girerse, kanunda veya sözleşmede aksi öngörülmemişse müteselsilen
+sorumlu olurlar. Ancak, kefil ve kefillere, taahhüt veya ödemenin yapılmadığı
+veya yerine getirilmediği ihbar edilmeden temerrüt faizi yürütülemez.
+
+(2) Ticari borçlara kefalet hâlinde, hem asıl borçlu ile kefil, hem de kefiller
+arasındaki ilişkilerde de birinci fıkra hükmü geçerli olur.
+****
++
+Kefil müteselsil kefil olduğunda alacaklı, asıl borçluya hiç gitmeden kefile
+gidebilir. Yeni kanun, kefile, taahhüt ya da ödemenin yapılmadığı ya da yerine
+yerine getirilmediği ihbar edilmediği müddetçe temerrüt faizi yürütülememesi
+kuralı getirmiştir.
++
+****
+*TKHK 4/6*: Tüketici işlemlerinde, tüketicinin edimlerine karşılık olarak
+alınan şahsi teminatlar, her ne isim altında olursa olsun adi kefalet sayılır.
+Tüketicinin alacaklarına ilişkin karşı tarafça verilen şahsi teminatlar diğer
+kanunlarda aksine hüküm bulunmadıkça müteselsil kefalet sayılır.
+****
+
+. Faiz:
++
+====
+.. *Anapara faizi*: Bir miktar paradan belirli bir süre yoksun kalındığı zaman
+ödenen semeredir. Anapara faizinin ödenebilmesi için kararlaştırılması gerekir.
+Aksi halde anapara faizi istenemez.
+.. *Temerrüt faizi*: Para borcunda gecikme için her gün ödenen faizdir.
+Temerrüt faizinin istenebilmesi için ayrıca kararlaştırılmasına gerek yoktur.
+.. *Tazminat faizi*: Haksız fiil sorumluluğu sonucunda doğar ve haksız fiilin
+işlendiği andan itibaren yürütülmeye başlar.
+====
++
+Bir de *vade farkı* terimi mevcuttur. Malı satın alan, üzerine düşen edimi,
+para borcunu ödeme işini sonra yaparsa, bu arada alacaklı işletme vade farkı
+isteyebilir. Vade farkının temerrüt faizi mi anapara faizi mi olduğu
+tartışmalıdır. Genellikle anapara faizi olduğu kabul edilir.
++
+Ticari işlerde faiz iki açıdan önemlidir:
+
+... Birincisi, tacir ticari işletmesiyle ilgili bir avans verirse ya da bir
+ödeme yaparsa kararlaştırmasa dahi anapara faizi isteyebilir.
++
+****
+*TTK 20*: (...) Ayrıca, tacir, verdiği avanslar ve yaptığı giderler için ödeme
+tarihinden itibaren faize hak kazanır.
+****
+... İkincisi de faiz oranları açısından fark teşkil etmesidir. Bu fark, aslımda
+sadece temerrüt faiz oranları açısından söz konusudur.
++
+Kural olarak faiz serbestçe belirlenebilir. Yani taraflar gerek ticari işlerde
+gerekse diğer işlerde sözleşmede oranı serbestçe belirleyebilirler. Bunun
+sınırı ticari işlerde borçlunun ekonomik mahvına sebep olmamaktır. Ekonomik
+açıdan borçlunun mahvına sebep olacak faiz oranları geçersizdir. Borçlar Kanunu
+ise ticari olmayan işler bakımından, hem anapara faizinde hem temerrüt faizinde
+sınır getirmiştir. TBK 88'e göre sözleşmede düzenlenecek faiz oranı, kanuni
+faiz oranının %50'sinden fazlasını aşamaz.
++
+****
+*TBK 88*: (1) Faiz ödeme borcunda uygulanacak yıllık faiz oranı, sözleşmede
+kararlaştırılmamışsa faiz borcunun doğduğu tarihte yürürlükte olan mevzuat
+hükümlerine göre belirlenir.
+
+(2) Sözleşme ile kararlaştırılacak yıllık faiz oranı, birinci fıkra uyarınca
+belirlenen yıllık faiz oranının yüzde elli fazlasını aşamaz. 
+****
++
+Kanuni faiz oranı, 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun
+uyarınca, Bakanlar Kurulu tarafından belirlenir. Şu anda, kanuni faiz oranı
+%9'dur. Bu, sözleşmede belirlenmediği zaman geçerli olan faiz oranıdır.
++
+TBK 120/2 uyarınca, ticari olmayan işlere uygulanacak temerrüt faiz oranı, faiz
+borcunun doğduğu tarihte yürürlükte olan mevzuat hükümlerine göre belirlenen
+faiz oranının %100 fazlasını aşamaz.
++
+****
+*TBK 120/2*: (1) Uygulanacak yıllık temerrüt faizi oranı, sözleşmede
+kararlaştırılmamışsa, faiz borcunun doğduğu tarihte yürürlükte olan mevzuat
+hükümlerine göre belirlenir.
+
+(2) Sözleşme ile kararlaştırılacak yıllık temerrüt faizi oranı, birinci fıkra
+uyarınca belirlenen yıllık faiz oranının yüzde yüz fazlasını aşamaz.
+
+(3) Akdî faiz oranı kararlaştırılmakla birlikte sözleşmede temerrüt faizi
+kararlaştırılmamışsa ve yıllık akdî faiz oranı da birinci fıkrada belirtilen
+faiz oranından fazla ise, temerrüt faizi oranı hakkında akdî faiz oranı geçerli
+olur.
+****
++
+Ticari işlerde faiz oranı serbestçe belirlenebilir. Eğer taraflar faiz oranını
+belirlemediyse, anapara faizine kanuni faiz oranı (%9) uygulanır. Ancak
+temerrüt faizi bakımından farklılık vardır. 3095 sayılı kanunun 2. maddesi,
+eğer iş ticari bir iş ise, alacaklı temerrüt faizini kısa vadeli avanslara
+uygulanan oran üzerinden isteyebilir. Bu oran da %10.5'tir.
++
+Hukukumuzda TTK 8 uyarınca bileşik faiz yasaktır.
++
+****
+*TTK 8*: (1) Ticari işlerde faiz oranı serbestçe belirlenir.
+
+(2) Üç aydan aşağı olmamak üzere, faizin anaparaya eklenerek birlikte tekrar
+faiz yürütülmesi şartı, yalnız cari hesaplarla her iki taraf bakımından da
+ticari iş niteliğinde olan ödünç sözleşmelerinde geçerlidir. Şu şartla ki, bu
+fıkra, sözleşenleri tacir olmayanlara uygulanmaz.
+
+(3) Tüketicinin korunmasına ilişkin hükümler saklıdır.
+
+(4) Bu maddenin ikinci ve üçüncü fıkralarına aykırı olarak işletilen faiz yok
+hükmündedir.
+****
+
+* TTK 6 uyarınca, ticari işlerde zamanaşımı süreleri değiştirilemez.
++
+****
+*TTK 6*: Ticari hükümler koyan kanunlarda öngörülen zamanaşımı süreleri,
+Kanunda aksine düzenleme yoksa, sözleşme ile değiştirilemez.
+****
++
+****
+*TTK 1530/1*: Aksine bir hüküm bulunmadığı takdirde, ticari hükümlerle
+yasaklanmış işlemler ve şartlar batıldır. Ancak, sözleşme uyarınca yerine
+getirilmesi gereken edimler için kanunun veya yetkili makamların koymuş olduğu
+en yüksek sınırı aşan sözleşmeler en yüksek sınır üzerinden yapılmış sayılır;
+sınırı aşan edimler hata ile yerine getirilmiş olmasa bile, geri alınır. Bu
+sınırlarda, Türk Borçlar Kanununun 27 nci maddesinin ikinci fıkrasının ikinci
+cümlesi uygulanmaz.
+****
+
+* Ticaret hukukuna uygulanması bakımından bir ticari örf ve adet, ticari
+olmayan sıradan kanun hükümlerinden önce gelir. Bu örf ve adet bir kültür
+kuralı, gelenek veya anane değildir. Ticari örf ve adet kuralları, hukuk
+kurallarıdır. Bu hukuk kurallarını hakim re'sen nazara almak durumundadır.
+İhtilaf halinde o konuda örf ve adet kuralı olup olmadığı ticaret odalarına
+sorulup öğrenilir.
++
+====
+. *Süreklilik*: Sürekli olarak uygulanagelen sözleşme hükümleri
+. *Genel inanç*: Bu kurallara ilgililerin uyması gerektiği inancını taşımaları
+. *Hukuki yaptırımlar*: Hukuki yaptırımı olmayan bir ticari örf ve adet kuralı
+yoktur.
+====
++
+****
+*TTK 2*: (1) Kanunda aksine bir hüküm yoksa, ticari örf ve âdet olarak kabul
+edildiği belirlenmedikçe, teamül, mahkemenin yargısına esas olamaz. Ancak,
+irade açıklamalarının yorumunda teamüller de dikkate alınır.
+
+(2) Bir bölgeye veya bir ticaret dalına özgü ticari örf ve âdetler genel
+olanlara üstün tutulur. İlgililer aynı bölgede değillerse, kanunda veya
+sözleşmede aksi öngörülmedikçe, ifa yerindeki ticari örf ve âdet uygulanır.
+
+(3) Ticari örf ve âdet, tacir sıfatını haiz bulunmayanlar hakkında ancak onlar
+tarafından bilindiği veya bilinmesi gerektiği takdirde uygulanır.
+****
++
+TTK 2/3 uyarınca, ticari örf ve adet kuralları tacire mutlak olarak uygulanır.
+Bu kuralları bilip bilmemesi önem taşımaz.
++
+Tacir olmayanlar ancak ticari örf ve adet kuralını biliyorsa veya bilmesi
+gerekiyorsa, bu durumda ticari örf ve adet kuralı tacir olmayanlara da
+istisnaen uygulanır.
+
+* Ticari hükümler belirli bir sınırlama getirdiyse, bir üst mihenk getirdiyse,
+sözleşme buna aykırı olarak yapılsa bile sözleşmenin sadece sınırlamayı ihlal
+eden kısmı geçersiz olur (TTK 1530/1).
++
+Bu hüküm ile TBK 27/2'de düzenlenen kısmi hükümsüzlük arasındaki fark nedir?
+Aralarındaki fark, ticari hükümlerin uygulanmasında tarafların farazi iradesi
+araştırılmaz. Tarafların farazi iradesine göre taraflar bu sözleşmeyi hiç
+yapmayacak idiyse tüm sözleşme geçersizdir kuralı uygulanmaz. Sadece
+sözleşmenin sınırı aşan kısmı geçersiz olur. 
+
+=== TACİR
+
+* Bir ticari işletmeyi, kısmen de olsa, kendi adına işleten kişiye tacir denir
+(TTK 12/1).
++
+Ticari işletmenin işletilmesi için ticari işletmenin varlığı yeterli değildir.
+Ayrıca faaliyete de geçmesi lazımdır. Kural olarak müşterilerle ilişkiye
+başlanması ile faaliyete geçilir. Müşterilerle ilişki başlamamış olsa bile
+ticari işletmenin hazırlık işlemleri işletmesel faaliyet içerisindeyse tacir
+sıfatı yine kazanılır.
+
+* Küçük ve kısıtlıların tacir sıfatını kazanması
++
+****
+*TTK 13*: Küçük ve kısıtlılara ait ticari işletmeyi bunların adına işleten
+yasal temsilci, tacir sayılmaz. Tacir sıfatı, temsil edilene aittir. Ancak,
+yasal temsilci ceza hükümlerinin uygulanması yönünden tacir gibi sorumlu olur.
+****
+ 
+* Bir kişinin ticaret yapamayacağına ilişkin bir hüküm olsa veya bir işi yapmak
+için özel bir izin alması gerekirken almasa, devlet memuru olsa ama bunlara
+rağmen ticari işletme işletse o kişi yine de tacir sayılır.
++
+****
+*TTK 14*: (1) Kişisel durumları ya da yaptığı işlerin niteliği nedeniyle yahut
+meslek ve görevleri dolayısıyla, kanundan veya bir yargı kararından doğan bir
+yasağa aykırı bir şekilde ya da başka bir kişinin veya resmî bir makamın iznine
+gerek olmasına rağmen izin veya onay almadan bir ticari işletmeyi işleten kişi
+de tacir sayılır.
+
+(2) Birinci fıkraya aykırı hareketin doğurduğu hukuki, cezai ve disipline
+ilişkin sorumluluk saklıdır.
+****
+
+* Tacir olmanın sonuçlarından biri işletmenin ve ticaret unvanının tescil
+edilme zorunluluğudur. Ama bu tescil kurucu değildir. Tescil edilmeden önce
+işletme faaliyetlerine başlanırsa tacir sıfatı faaliyetlerin başladığı an
+kazanılır.
+
+* Kişi ticari işletmesi varken fiilen işletmeye başlamasa bile ticari işletmeyi
+kurup açtığını sirküler, gazete, radyo, televizyon ve diğer ilan araçlarıyla
+hakla bildirirse veya ticaret siciline işletmeyi tescil ettirip durumu ilan
+ederse tacir sayılır.
++
+****
+*TTK 12/2*: Bir ticari işletmeyi kurup açtığını, sirküler, gazete, radyo,
+televizyon ve diğer ilan araçlarıyla halka bildirmiş veya işletmesini ticaret
+siciline tescil ettirerek durumu ilan etmiş olan kimse, fiilen işletmeye
+başlamamış olsa bile tacir sayılır.
+****
++
+Tacir ile tacir sayılma arasında esaslı bir fark yoktur. Tacir sayılan da tacir
+olmanın sonuçlarına tabidir. Nimetlerinden yararlanır, külfetlerine katlanır.
+
+* Bir ticari işletme varmış gibi kendi adına işlemlerde bulunan veya bir
+şirketin ortağıymış gibi işlemler yapan kişi iyiniyetli üçüncü kişilere karşı
+tacir gibi sorumlu olur. Yani tacir olmanın nimetlerinden yararlanamaz,
+külfetlerine katlanır.
++
+****
+*TTK 12/3*: Bir ticari işletme açmış gibi, ister kendi adına, ister adi bir
+şirket veya her ne suretle olursa olsun hukuken var sayılmayan diğer bir şirket
+adına ortak sıfatıyla işlemlerde bulunan kimse, iyiniyetli üçüncü kişilere
+karşı tacir gibi sorumlu olur.
+****
+
+* Ticari şirketlerin hepsi, doğum anından itibaren tacirdir. Bu şirketler ilgili
+sözleşmelerin ticaret siciline tescili anında tüzel kişilik kazanır ve o anda
+tacir olur. Kollektif ve komandit şirketler için ticari işletme zorunluluğu
+vardır. Zaten tescili de buna bağlıdır. Ama anonim şirkette, limited şirkette
+ve kooperatif şirketlerde böyle bir zorunluluk yoktur. Dolayısıyla bu ticari
+şirketler tüzel kişiliklerini kazandıkları anda yani ticaret siciline tescil
+edildikleri anda tacirdirler. 
++
+CAUTION: Anonim şirketin tescili başka bir şeydir, onun sahip olduğu işletmenin tescili
+başka bir şeydir. İşletmenin tescilinin tacir sıfatının kazanılmasında veya
+kaybediilmesinde bir önemi yoktur.
++
+CAUTION: Anonim şirketin ortağı, yönetim kurulu başkanı, genel müdürü vs. tacir
+olmaz. Tacir olan ve tacir olmanın sonuçlarına tabi olacak olan anonim
+şirkettir.
+
+* Dernek veya vakıf ticari şirket işletiyorsa tacir olur ve tacir olmanın
+sonuçlarına tabi olur.
++
+****
+*TK 16/1*: Ticaret şirketleriyle, amacına varmak için ticari bir işletme
+işleten vakıflar, dernekler ve kendi kuruluş kanunları gereğince özel hukuk
+hükümlerine göre yönetilmek veya ticari şekilde işletilmek üzere Devlet, il
+özel idaresi, belediye ve köy ile diğer kamu tüzel kişileri tarafından kurulan
+kurum ve kuruluşlar da tacir sayılırlar.
+****
+
+* Kamu yararına faaliyette bulunan bir dernek veya gelirinin yarısından
+fazlasını kamu görevi niteliğindeki işlere harcayan bir vakıf ticari işletme
+işletse bile tacir olamaz.
++
+****
+*TK 16/2*: Devlet, il özel idaresi, belediye ve köy ile diğer kamu tüzel
+kişileri ile kamu yararına çalışan dernekler ve gelirinin yarısından fazlasını
+kamu görevi niteliğindeki işlere harcayan vakıflar, bir ticari işletmeyi, ister
+doğrudan doğruya ister kamu hukuku hükümlerine göre yönetilen ve işletilen bir
+tüzel kişi eliyle işletsinler, kendileri tacir sayılmazlar.
+****
++
+Kanun kamuya yararlı tüzel kişilikleri korumak istemiştir. Doktrinde çoğunluk
+tacir sıfatı boşta kalmaz, işletilen ticari işletme tacirdir görüşünde olmasına
+rağmen kürsü görüşü aksi yöndedir. Ticari işletme var diye illa birisini tacir
+yapma zorunluluğu yoktur. Kanundaki özel hüküm dolayısıyla o kişi tacir
+değildir ve tacir olmanın sonuçları uygulanmaz. *Ticari işletme var ve ticaret
+siciline tescil ediliyor ama tacir değildir.*
+
+* Kendi kuruluş kanunları gereğince özel hukuk hükümlerine göre yönetilmek veya
+ticari şekilde işletilmek üzere, devlet, il özel idaresi, belediye ile diğer
+kamu tüzel kişiliği olan kurum ve kuruluşlar tarafından kurulan ticari
+işletmeler tacir kabul edilir.
+
+* Gerçek kişi tacir, ticari işletme ortadan kalkarsa ya da başkasına
+devredilirse tacir sıfatını kaybeder. Tacir sıfatı sona ermesine rağmen ticaret
+sicilinden terkin edilmemişse yani ticari işletme devredilmesine rağmen hala
+sicilden terkin edilmemişse acaba tacir sıfatı gerçekten sona erer mi? Tacir
+sıfatının kazanılmasında gerekli olan şartlardan herhangi birinin kaybı halinde
+tacir sıfatı sona erer.
+
+* Ticaret şirketinin tacir sıfatını kaybı sona ermesinde değil terkinindedir.
+Ticaret şirketlerinin sona ermesi onların fesih ya da infisah etmesidir. Bu
+durumda şirket tasfiyeye girer. Tasfiye ile birlikte mal varlığı dağıtılır daha
+sonra terkin edilir. Tasfiye sürecinde hala tüzel kişilik vardır ve hala
+tacirdir. Dolayısıyla ticari şirketlerde tacir sıfatı tescille kazanılır,
+terkinle kaybedilir.
+
+* Dernekler, vakıflar ve diğer kurum ve kuruluşlar açısından tacir sıfatının
+kaybedilmesi gerçek kişi tacirlerdeki gibidir.
+
+* Tacir olmanın hükümleri:
+
+.. Tacir olmayana iflas yoluyla takip yapılamaz. Tacir ticaretle alakalı olsun
+olmasın her türlü borcu için iflasa tabidir. Ticaretle alakalı olmayan veya
+uzmanlık alanına girmeyen bir işten dolayı tacir borç altına girmişse o tacir
+yine iflasa tabidir. TTK 12/3'deki tacir gibi sorumlu olanlar da iflasa
+tabidir.
++
+****
+*TTK 18/1*: Tacir, her türlü borcu için iflasa tabidir; ayrıca kanuna uygun bir
+ticaret unvanı seçmek, ticari işletmesini ticaret siciline tescil ettirmek ve
+bu Kanun hükümleri uyarınca gerekli ticari defterleri tutmakla da yükümlüdür.
+****
++
+Ticareti terk etmesine rağmen kişinin hala borçları varsa alacaklılar iflas
+yoluyla takip edebilirler. Ticareti terk ettiğinin ilanından itibaren bir yıl
+süre içinde bu takip yapılabilir.
++
+****
+*İİK 44*: (1) Ticareti terk eden bir tacir 15 gün içinde keyfiyeti kayıtlı
+bulunduğu ticaret siciline bildirmeye ve bütün aktif ve pasifi ile
+alacaklılarının isim ve adreslerini gösteren bir mal beyanında bulunmaya
+mecburdur. Keyfiyet ticaret sicili memurluğunca ticaret sicili ilanlarının
+yayınlandığı gazete'de ve alacaklıların bulunduğu yerlerde de mütat ve münasip
+vasıtalarla ilan olunur. İlan masraflarını ödemeyen tacir beyanda bulunmamış
+sayılır.
+(2) Bu ilan tarihinden itibaren bir sene içinde, ticareti terk eden tacir
+hakkında iflas yolu ile takip yapılabilir.
+****
+.. Tacir, ticaret siciline hem ticari işletmesini hem de unvanını tescil
+ettirmek zorundadır.
+.. Tacir, ticari işletmesinin bulunduğu yerdeki ticaret odasına kaydolmak
+zorundadır.
+.. Tacir ticaret unvanını seçer ve kullanır. Ticaret unvanı tacirin ticarette
+kullandığı adıdır. Tacir ticari işlemlerini bu unvan altında yapar. Ayrıca
+ticaret unvanı işletmeye asılır.
+.. Tacir ticari iş karinesine tabidir.
++
+****
+*TK 19*: (1) Bir tacirin borçlarının ticari olması asıldır. Ancak, gerçek kişi
+olan bir tacir, işlemi yaptığı anda bunun ticari işletmesiyle ilgili olmadığını
+diğer tarafa açıkça bildirdiği veya işin ticari sayılmasına durum elverişli
+olmadığı takdirde borç adi sayılır.
+
+(2) Taraflardan yalnız biri için ticari iş niteliğinde olan sözleşmeler,
+Kanunda aksine hüküm bulunmadıkça, diğeri için de ticari iş sayılır.
+****
++
+CAUTION: Bir kişi tacir olduğu için ticari faiz ödemez. Yaptığı iş ticari iş
+olduğu için taciri faiz öder. Ticari faiz ödenmesi tacir olmanın değil ticari
+iş olmanın sonucudur.
+.. Bir ticari örf ve adeti bilip bilmediğine bakılmaksızın o ticari örf ve adet
+tacir için uygulanır. Ticari örf ve adet ticaret hükümlerinin uygulanması
+sırasında emredici hükümlerden ve sözleşme hükümlerinden sonra genel
+hükümlerden önce gelir.
+.. Tacir ticari defter tutar. Ticari defterler o işletmeyle yapılmış tüm
+sözleşmelerin, alacakların, borçların vs. kaydedildiği özel bir hesap kaydıdır.
++
+Usul hukukunda bir kimse kendi oluşturduğu belgeye dayalı olarak söz konusu
+durumu ispatlayamaz. Ticari defterler bu temel ilkenin istisnasıdır.
+.. Tacir _basiretli bir iş adamı_ gibi davranır (TTK 18/2). Bu objektif bir
+özen ölçüsüdür. Tacir, tacir olmayanlara nazaran daha ağır bir özen ölçüsüne
+tabidir.
+.. Tacir ticari işletmesiyle alakalı bir iş yapıyorsa o işin karşılığında
+açıkça öngörülmemiş olsa bile ücret isteyebilir.
++
+****
+*TTK 20*:Tacir olan veya olmayan bir kişiye, ticari işletmesiyle ilgili bir iş
+veya hizmet görmüş olan tacir, uygun bir ücret isteyebilir. Ayrıca, tacir,
+verdiği avanslar ve yaptığı giderler için, ödeme tarihinden itibaren faize hak
+kazanır.
+****
+.. Tacir ücretin veya sözleşme cezasının indirilmesini isteyemez.
++
+****
+*TTK 22*: Tacir sıfatını haiz borçlu, Türk Borçlar Kanununun 121 inci
+maddesinin ikinci fıkrasıyla 182 nci maddesinin üçüncü fıkrasında ve 525 inci
+maddesinde yazılı hâllerde, aşırı ücret veya ceza kararlaştırılmış olduğu
+iddiasıyla ücret veya sözleşme cezasının indirilmesini mahkemeden isteyemez.
+****
+.. Tacir ticari işletmesiyle ilgili bir mal sattığında, bir hizmette
+bulunduğunda, karşı tarafın isteğine bağlı olarak fatura verir.
++
+****
+*TTK 21/1*: Ticari işletmesi bağlamında bir mal satmış, üretmiş, bir iş görmüş
+veya bir menfaat sağlamış olan tacirden, diğer taraf, kendisine bir fatura
+verilmesini ve bedeli ödenmiş ise bunun da faturada gösterilmesini isteyebilir.
+****
++
+Bu maddeye göre fatura verilmesi diğer tarafın şartına bağlanmıştır. Ama vergi
+usul kanunundaki düzenlemeye göre fatura düzenlenmesi zorunluluktur.
++
+Fatura yazılıdır ve ifa aşamasına yöneliktir. Faturada satılan malın niteliği,
+cinsi, miktarı, bedeli vs. gibi özellikleri yazılır. Faturayı alan sekiz gün
+içerisinde itiraz etmezse faturanın içeriğini kabul etmiş sayılır. Yani
+faturayı gönderen için faturanın içeriğinin doğru olduğuna dair bir karine
+oluşturur. İspat yükü karşı tarafa geçer.
++
+****
+*TTK 21/2*: Bir fatura alan kişi aldığı tarihten itibaren sekiz gün içinde,
+faturanın içeriği hakkında bir itirazda bulunmamışsa bu içeriği kabul etmiş
+sayılır.
+****
++
+Faturanın içeriğinde satım sözleşmesinin her unsuru bulunmaz. Fatura
+sözleşmenin kurulması aşamasına yönelik bir ticari belge değil, sözleşmenin ifa
+aşamasına ait bir belgedir.
++
+Uygulamada sıklıkla kullanılan *proforma fatura* tartışmalı da olsa TTK 21
+anlamında fatura değildir. Sözleşmenin kuruluşuna, unsurlarına yönelik bir
+faturadır. İşte bu tür bir fatura icaptır. Bu icabı alan kişi herhangi bir
+tepki vermezse bu taraflar arasında sözleşme kurulduğu anlamına gelmez. İcaba
+karşı susmak kural olarak kabul anlamına gelmez. 
++
+Geçerli bir şekilde kurulmuş sözleşmenin ifası aşamasında malı satan ya da
+hizmeti gören tacir tarafından diğer tarafa gönderilen fatura TTK 21 anlamında
+faturadır.
++
+Sekiz günlük süre faturanın *karşı tarafa varmasıyla* birlikte başlar. Faturaya
+yapılacak itiraz herhangi bir şekle bağlı değildir. Önemli olan itiraz
+edildiğinin ispatıdır. Yeri geldiğinde dava açmak bir irade açıklaması olduğu
+için süresi içinde açılan dava faturaya itiraz anlamına gelebilir.
++
+Sekiz gün içinde faturaya itiraz edilmemesi ancak faturanın olağan içeriğiyle
+alakalı bir kabul anlamına gelir. Örneğin faturada yazan vade farkını Yargıtay
+sözleşmenin olağan içeriğine dahil etmediği için itiraz edilmemesi halinde vade
+farkı kabul edilmiş olmaz. Yine faturaya bedelin ödenmemesi hali için cezai
+şart koyulsa ve karşı taraf buna itiraz etmese bile o cezai şartı kabul etmiş
+olmaz.
++
+Fatura ticari örf ve adete göre açık fatura ve kapalı fatura olarak ayrılır.
+Açık faturada satıcı faturayı düzenler ve kaşeyi faturanın üst kısmına vurup
+imzalar. Kapalı faturada ise kaşeyi alt kısma vurup imzalar. Kapalı fatura
+düzenlendiği zaman bedel alınmıştır anlamına gelir. Açık fatura düzenlendiğinde
+ise bedel alınmamıştır anlamına gelir. Alıcının elinde makbuz olmasa bile
+kapalı fatura verilmişse bedeli ödediği karine olarak kabul edilir.
++
+Kural olarak faturan malın teslim edildiğini de bedelin ödendiğini de
+göstermez. Satıcı malı teslim ettiğini de ayrıca ispatlamalıdır.
++
+Uygulamada kullanılan bir fatura çeşidi de iade faturadır. Gelen faturayı kişi
+kabul etmediği zaman ya bunu ihtaren gönderir ya da iade faturası düzenler. 10
+liralık bir faturaya karşı 10 liralık iade fatura düzenlenirse faturanın
+tamamına itiraz edildiği anlamına gelir ama 7 liralık bir iade fatura
+düzenlendiği zaman 7 liralık kısmına itiraz 3 liralık kısmını kabul anlamına
+gelir.
++
+Teyit mektubu faturadan farklı olarak sözleşmenin kuruluş aşamasına ilişkin bir
+ticari belgedir. Sözlü olarak, telefonla veya bir bilişim aracıyla yapılan
+sözleşmenin içeriğinin doğrulandığı ve karşı tarafa gönderildiği belgeye *teyit
+mektubu* denir. Teyit mektubunu alan kişi sekiz gün içerisinde itirazda
+bulunmamışsa söz konusu mektubun yapılan sözleşmeye uygun olduğunu kabul etmiş
+sayılır. Sözleşmenin şartlarını ispat yükü teyit mektubuna itiraz etmeyene
+geçer. Bu sadece TTK 21/3'deki şartlara göre kurulan sözleşmelere ilişkindir.
+Telefonla, telgrafla veya herhangi bir iletişim ve bilişim aracıyla ya da sözlğ
+yapılan sözleşmelerde teyit mektubu aranır. Yazılı yapılan bir sözleşmede
+gönderilen teyit mektubu işlevsizdir. Yazılı sözleşmesinin içeriği teyit
+mektubu ile değiştirilemez.
++
+****
+*TTK 21/3*: Telefonla, telgrafla, herhangi bir iletişim veya bilişim aracıyla
+veya diğer bir teknik araçla ya da sözlü olarak kurulan sözleşmelerle yapılan
+açıklamaların içeriğini doğrulayan bir yazıyı alan kişi, bunu aldığı tarihten
+itibaren sekiz gün içinde itirazda bulunmamışsa, söz konusu teyit mektubunun
+yapılan sözleşmeye veya açıklamalara uygun olduğunu kabul etmiş sayılır.
+****
+.. Tacirler arasında, diğer tarafı temerrüde düşürmeyi, sözleşmeyi feshe,
+sözleşmeden dönmeye ilişkin ihbarlar veya ihtarlar şekle tabidir.
++
+****
+*TTK 18/3*: Tacirler arasında, diğer tarafı temerrüde düşürmeye, sözleşmeyi
+feshe, sözleşmeden dönmeye ilişkin ihbarlar veya ihtarlar noter aracılığıyla,
+taahhütlü mektupla, telgrafla veya güvenli elektronik imza kullanılarak kayıtlı
+elektronik posta sistemi ile yapılır.
+****
++
+Ayıp ihbarında bulunmak, faturaya itiraz etmek gibi işlemler bu maddenin
+kapsamına girmez. 
++
+Şekil kuralının geçerlilik şartı mı olduğu yoksa ispat şartı mı olduğu
+tartışmalıdır. Eski kanunda açıkça geçerlilik şartı olarak kabul ediliyordu.
+Yeni kanunda bu ifade kalktığı için artık bunun bir ispat şartı olduğu
+söylenebilir ama TBK'ya göre de aksi açıkça düzenlenmemişse bu bir geçerlilik
+şartıdır.
++
+****
+*TBK 12/2*: Kanunda sözleşmeler için öngörülen şekil, kural olarak geçerlilik
+şeklidir. Öngörülen şekle uyulmaksızın kurulan sözleşmeler hüküm doğurmaz.
+****
+.. Tacirler arasında borçluya ait bir mal alacaklının elindeyse bu doğrudan
+borçla alakalı olmasa bile o mal üzerinde hapis hakkını kullanabilir.
++
+Hapis hakkı bir ayni haktır. Alacaklı borçluya ait taşınır veya kıymetli evraka
+*borçlunun rızasıyla* zilyetse borcun ödenmemesine karşın elinde bulunan
+mallara el koyabilir. Ancak *borcun muaccel olması* ve bu eşyanın niteliği
+itibariyle *alacak ile bağlantısının olması* gerekir. Rehinden farklı bir
+kurumdur. Rehnin kuruluş şartı arada bir sözleşmenin olmasıdır ve malı verirken
+rehin amacıyla verilmelidir.
+.. Tacirler arasındaki ticari satışlara uygulanacak, TTK 23'de düzenlenen özel
+hükümler vardır.
+
+... Sözleşme kısmen ifa edilmişse alıcı haklarını sadece teslim edilmeyen kısım
+için kullanır. Alıcı ancak maddede yer alan şartlar gerçekleşmişse ifa edilen
+kısım bakımından sözleşmeyi feshedebilir.
++
+****
+*TTK 23-a*: Sözleşmenin niteliğine, tarafların amacına ve malın cinsine göre,
+satış sözleşmesinin kısım kısım yerine getirilmesi mümkün ise veya bu şartların
+bulunmamasına rağmen alıcı, çekince ileri sürmeksizin kısmi teslimi kabul
+etmişse; sözleşmenin bir kısmının yerine getirilmemesi durumunda alıcı
+haklarını sadece teslim edilmemiş olan kısım hakkında kullanabilir. Ancak, o
+kısmın teslim edilmemesi dolayısıyla sözleşmeden beklenen yararın elde edilmesi
+veya izlenen amaca ulaşılması imkânı ortadan kalkıyor veya zayıflıyorsa ya da
+durumdan ve şartlardan, sözleşmenin kalan kısmının tam veya gereği gibi yerine
+getirilemeyeceği anlaşılıyorsa alıcı sözleşmeyi feshedebilir.
+****
+... Alıcının temerrüdü halinde satıcının malın satılmasını isteme hakkı vardır.
+Buradaki temerrüt semen borcundan değil alıcının malı almamasından
+kaynaklanmaktadır. Alıcı mütemerrit olduğu takdirde satıcı malın satılmasını
+mahkemeden isteyebilir. Satış için borçlar kanunundaki masraf, bozulma,
+zorunluluk gibi özel şartlar aranmaksızın satış konusu mal sırf karşı tarafça
+alınmadı diye mahkemeden hemen satışı istenebilir.
++
+****
+*TTK 23-b*: Alıcı mütemerrit olduğu takdirde satıcı, malın satışına izin
+verilmesini mahkemeden isteyebilir. Mahkeme, satışın açık artırma yoluyla veya
+bu işle yetkilendirilen bir kişi aracılığıyla yapılmasına karar verir. Satıcı
+isterse satış için yetkilendirilen kişi, satışa çıkarılacak malın niteliklerini
+bir uzmana tespit ettirir. Satış giderleri satış bedelinden çıkarıldıktan sonra
+artan para, satıcının takas hakkı saklı kalmak şartıyla, satıcı tarafından
+alıcı adına bir bankaya ve banka bulunmadığı takdirde notere bırakılır ve durum
+hemen alıcıya ihbar edilir.
+****
+... Açık ayıp malın teslim edilme anında bellidir. Malın ayıplı olduğu teslim
+sırasında belliyse alıcı durumu iki gün içinde satıcıya ihbar eder. İhbar
+yapılmazsa ayıptan kaynaklanan haklar kullanılamaz. Ayıp açıkça belli değilse,
+malın muayene edilmesi gerekiyorsa alıcı malı sekiz gün içerisinde incelemeli
+ve ayıp ihbarında bulunmalıdır. Gizli ayıplar açısından borçlar kanununda süre
+iki yıldır.
++
+****
+*TTK 23-c*: Malın ayıplı olduğu teslim sırasında açıkça belli ise alıcı iki gün
+içinde durumu satıcıya ihbar etmelidir. Açıkça belli değilse alıcı malı teslim
+aldıktan sonra sekiz gün içinde incelemek veya incelettirmekle ve bu inceleme
+sonucunda malın ayıplı olduğu ortaya çıkarsa, haklarını korumak için durumu bu
+süre içinde satıcıya ihbarla yükümlüdür. Diğer durumlarda, Türk Borçlar
+Kanununun 223 üncü maddesinin ikinci fıkrası uygulanır.
+****
++
+Ayıp ihbarında bulunmak için özel bir şekil şartı yoktur ama ayıp ihbarından
+sonra seçimlik haklardan biri olan sözleşmeden dönme için TTK 18/3'deki özel
+şekil şartı aranır.
+
+=== TACİR YARDIMCILARI
+
+* Tacir yardımcıları temsil yetkisiyle donatılmış, tacire birinci derecede
+yakın olan kişiler. Tacir yardımcıları yetkisinin kapsamına ve tacire olan
+bağlılıklarına göre birbirinden ayrılır.
++
+*Bağlı tacir yardımcılarının* tacirle arasında hiyerarşik bir ilişki vardır.
+Kendisi tacirin işletmesinin bir parçasıdır, kendi işletmesi söz konusu
+değildir. Tacirle emir komuta zincirini içerisindedir. Tacir bağlı tacir
+yardımcılarına talimat verir.
++
+*Bağımsız tacir yardımcıları* ise esas itibariyle kendileri de ayrı işletmeler
+işletirler. 
+
+* En geniş yetkilere sahip ticari yardımcı *ticari temsilcidir*. Ticari
+temsilci kural olarak tacirin yapabileceği her şeyi yapabilir, kanun bazı
+durumlarda temsil olunan adına yapılamayacakları belirler.
++
+====
+*TBK 547*: (1) Ticari temsilci, işletme sahibinin, ticari işletmeyi yönetmek ve
+işletmeye ilişkin işlemlerde ticaret unvanı altında, ticari temsil yetkisi ile
+kendisini temsil etmek üzere, açıkça ya da örtülü olarak yetki verdiği kişidir.
+
+(2) İşletme sahibi, ticari temsilcilik yetkisi verildiğini ticaret siciline
+tescil ettirmek zorundadır; ancak ticari işletme sahibinin ticari temsilcinin
+fiillerinden sorumluluğu, tescilin yapılmış olmasına bağlı değildir.
+====
++
+Ticari temsilci olarak atanan kişi, ticaret siciline ticari temsilci olarak
+kaydettirilip ilan edilir. Ancak bu tescil kurucu değil, açıklayıcıdır. Temsil
+yetkisi verilme işlemi ticaret siciline yapılacak tescile bağlı değildir.
++
+[caption=""]
+.Temsil yetkisinin kapsamı
+====
+*TBK 548*: (1) Ticari temsilci, iyiniyetli üçüncü kişilere karşı, işletme
+sahibi adına kambiyo taahhüdünde bulunmaya ve onun adına işletmenin amacına
+giren her türlü işlemleri yapmaya yetkili sayılır.
+
+(2) Ticari temsilci, açıkça yetkili kılınmadıkça, taşınmazları devredemez veya
+bir hak ile sınırlandıramaz.
+====
++
+Ticari temsilcinin yetkisinin kapsamı işletmenin amacına giren her türlü iştir.
+Olağan işlemler de olağanüstü işlemler de kapsam dahilindedir. Ticari temsilci
+işletmenin devamlılığına aykırı işleri yapamaz.
++
+Ticaret unvanı tacirindir. Tacir gerçek kişi de olabilir tüzel kişi de
+olabilir, anonim ortaklık da olabilir bir limited şirket de olabilir. Ticari
+temsilci tacirin adını kullanarak kendi imzasını atar. Yapılan işlem tacirin ad
+ve hesabınadır.
++
+NOTE: Ticari temsilci TBK 548/2'ye göre taşınmazları bir ayni hakla
+sınırlandıramazsa da şahsi hakla sınırlandırma yapabilir.
++
+Ticari temsilcinin temsil yetkisi sınırlandırılabilir. Bu sınırlamanın ticaret
+siciline tescili şarttır. Ticaret siciline tescil ettirilmediği sürece bu
+sınırlamalar iyiniyetli üçüncü kişilere karşı ileri sürülemez.
++
+[caption=""]
+.Temsil yetkisinin sınırlandırılması
+====
+*TBK 549*: (1) Temsil yetkisi, bir şubenin işleriyle sınırlandırılabilir.
+
+(2) Temsil yetkisi, birden çok kişinin birlikte imza atmaları koşuluyla da
+sınırlandırılabilir. Bu durumda, diğerlerinin katılımı olmaksızın
+temsilcilerden birinin imza atmış olması, işletme sahibini bağlamaz.
+
+(3) Temsil yetkisine ilişkin yukarıdaki sınırlamalar, ticaret siciline tescil
+edilmedikçe, iyiniyetli üçüncü kişilere karşı hüküm doğurmaz.
+
+(4) Temsil yetkisine ilişkin diğer sınırlamalar, tescil edilmiş olsalar bile,
+iyiniyetli üçüncü kişilere karşı ileri sürülemez.
+====
++
+TBK 549/1 (şube işleriyle sınırlama) ve 549/2 dışındaki (birlikte imza şartı)
+sınırlamalar (miktar, konu vs.) ticaret siciline tescil edilmiş olsa bile
+iyiniyetli üçüncü kişilere karşı ileri sürülemez.
++
+Temsil yetkisi azille, istifayla, medeni hakların sınırlandırılmasıyla, ölümle
+veya işletmenin tasfiyesiyle sona ermiş olabilir. Bu sona erme durumu mutlaka
+tescil edilmelidir. Kişinin temsil yetkisinin sona erme durumu tescil
+ettirilmediği sürece iyiniyetli üçüncü kişilerle yaptığı işlemler taciri
+bağlar
++
+[caption=""]
+.Temsil yetkisinin sona ermesi
+====
+*TBK 550*: (1) Temsil yetkisinin verildiği ticaret siciline tescil edilmemiş
+olsa bile, sona erdiği tescil edilir.
+
+(2) Temsil yetkisinin sona erdiği ticaret siciline tescil ve ilan edilmediği
+sürece, bu yetki iyiniyetli üçüncü kişiler için geçerliliğini korur.
+====
+
+* İşletmeyi yönetmek ya da bazı işlemler için yetkilendirilen kişiye *ticari
+vekil* denir.
++
+....
++-----------------------------------------------------------+
+|                          TACİR                            |
+|                                                           |
+|     +------------------------------------------------+    |
+|     |                TİCARİ TEMSİLCİ                 |    |
+|     |                                                |    |
+|     |   +----------------------------------------+   |    |
+|     |   |             TİCARİ VEKİL               |   |    |
+|     |   |                                        |   |    |
+|     |   +----------------------------------------+   |    |
+|     |                                                |    |
+|     |                                                |    |
+|     +------------------------------------------------+    |
+|                                                           |
+|                                                           |
++-----------------------------------------------------------+
+....
++
+====
+*TBK 551*: (1) Ticari vekil, bir ticari işletme sahibinin, kendisine ticari
+temsilcilik yetkisi vermeksizin, işletmesini yönetmek veya işletmesinin bazı
+işlerini yürütmek için yetkilendirdiği kişidir.
+
+(2) Bu yetki, işletmenin alışılmış bütün işlemlerini kapsar. Ancak, ticari
+vekil açıkça yetkili kılınmadıkça, ödünç olarak para veya benzerlerini alamaz,
+kambiyo taahhüdünde bulunamaz, dava açamaz ve açılmış davayı takip edemez.
+====
++
+Bir kişinin ticari vekil olduğu ticaret siciline tescil edilmez. Ticari vekil
+çeşitli hukuki işlemlerle yetkilendirilir. Bu hukuki işlem bir vekalet
+sözleşmesi olabilir, hizmet sözleşmesi olabilir, şirket sözleşmesi olabilir. 
++
+TIP: Anonim şirketlerde ve limited şirketlerde atanan ticari vekillerin
+yetkisinin kapsamı ticaret siciline tescil ettirilir.
++
+....
+
+                    +----------------------+
+                    |                      |
+                    |     TİCARİ VEKİL     |
+                    |                      |
+                    +-------+------+-------+
+                            |      |
+                            |      |
+                +-----------+      +-----------+
+                |                              |
+                v                              |
++---------------+-------------+  +-------------+----------------+
+|                             |  |                              |
+|  GENEL YETKİLİ TİCARİ VEKİL |  |  ÖZEL YETKİLİ TİCARİ VEKİL   |
+|                             |  |                              |
+|  İşletmeyi yönetmek için    |  |  İşletmenin bazı işlerini    |
+|  yetkilendirilen ticari     |  |  yapmak için yetkilendirilen |
+|  vekildir.                  |  |  ticari vekildir.            |
+|                             |  |                              |
++-----------------------------+  +------------------------------+
+....
++
+Genel yetkili ticari vekil yetkisinin kapsamı ile ticari temsilciden ayrılır.
+Çünkü yetkilerinin kapsamı işletmenin olağan işlemleri ile sınırlıdır.
+
+[caption=""]
+.Diğer tacir yardımcıları
+====
+*TBK 552*: (1) Toptan, yarı toptan veya perakende satışlarla uğraşan ticari
+işletmelerin görevli veya hizmetlileri, o ticari işletme içinde, müşterilerin
+kolaylıkla görebilecekleri bir yerde ve kolayca okuyabilecekleri bir biçimde,
+yazıyla aksine duyuru yapılmış olmadıkça, aşağıdaki işlemler için
+yetkilidirler:
+
+. Ticari işletmenin alışılmış bütün satış işlemlerini yapmak.
+. Yetkili oldukları işlemler hakkında faturaları imzalamak.
+. Ticari işletmenin alışılmış işlemlerinden doğan borçların ifa edilmesine veya
+bunların hiç ya da gereği gibi ifa edilmemesine ilişkin ihtar veya diğer
+açıklamaları işletme sahibi adına yapmak; bu nitelikteki ihtar veya diğer
+açıklamaları, özellikle alışılmış işlem dolayısıyla teslim edilmiş mallara
+ilişkin ayıp bildirimlerini ticari işletme adına kabul etmek.
+
+(2) Toptan, yarı toptan veya perakende satışlarla uğraşan ticari işletmelerin
+görevli veya hizmetlileri, kendilerine yazıyla yetki verilmiş olmadıkça,
+işletme dışında ve kasa görevlileri atanmışsa, işletme içinde satış bedellerini
+isteyip alamazlar. Bu kişiler, satış bedellerini almaya yetkili bulundukları
+hâllerde, faturaları kapatmaya veya makbuz vermeye de yetkilidirler.
+====
+
+[caption=""]
+.Rekabet yasağı
+====
+*TBK 553*: (1) Bir işletmenin bütün işlerini yöneten veya işletme sahibinin
+hizmetinde bulunan ticari temsilciler, ticari vekiller veya diğer tacir
+yardımcıları, işletme sahibinin izni olmaksızın, doğrudan doğruya veya dolaylı
+olarak, kendilerinin ya da bir üçüncü kişinin hesabına işletmenin yaptığı
+türden bir iş yapamayacakları gibi, kendi hesaplarına bu tür işlemleri üçüncü
+kişilere de yaptıramazlar.
+
+(2) Buna aykırı davranırlarsa işletme sahibi, aralarındaki hukuki ilişkiden
+doğan hakları saklı kalmak kaydıyla, uğradığı zararın giderilmesini
+isteyebileceği gibi, bunun yerine, ticari temsilcinin, ticari vekilin veya
+diğer tacir yardımcısının kendi hesabına yaptığı veya üçüncü kişilere
+yaptırdığı işlerin kendi hesabına yapılmış sayılmasını ve bu işler dolayısıyla
+aldıkları ücretin verilmesini veya aynı işlerden doğan alacağın devredilmesini
+isteyebilir.
+====
+
+* *Pazarlamacı* da yine işletmeye bağlı tacir yardımcısıdır. Pazarlamacı
+işletmenin dışında çalışır ve aracılık yapar. Tacirle arasında hiyerarşik bir
+ilişki vardır, ayrı bir işletmesi yoktur.
++
+====
+*TBK 448*: Pazarlamacılık sözleşmesi, pazarlamacının sürekli olarak, bir ticari
+işletme sahibi işveren hesabına ve işletmesinin dışında, her türlü işlemin
+yapılmasına aracılık etmeyi veya yazılı anlaşma varsa, bu anlaşmada belirtilen
+işlemleri yapmayı, işletme sahibi işverenin de buna karşılık ücret ödemeyi
+üstlendiği sözleşmedir.
+====
+
+* *Acente* ya tacire müşteri bulur ve aracılık eder (_klasik acente_) ya da
+tacir adına sözleşme yapar (_doğrudan temsil_). Acente bağımsızdır ama arada
+bir süreklilik ilişkisi vardır.
++
+[caption=""]
+====
+*TTK 102*: (1) Ticari mümessil, ticari vekil, satış memuru veya işletmenin
+çalışanı gibi işletmeye bağlı bir hukuki konuma sahip olmaksızın, bir
+sözleşmeye dayanarak, belirli bir yer veya bölge içinde sürekli olarak ticari
+bir işletmeyi ilgilendiren sözleşmelerde aracılık etmeyi veya bunları o tacir
+adına yapmayı meslek edinen kimseye acente denir.
+
+(2) Bu Kısımda hüküm bulunmayan hâllerde aracılık eden acentelere Türk Borçlar
+Kanununun simsarlık sözleşmesi hükümleri, sözleşme yapan acentelere komisyon
+hükümleri ve bunlarda da hüküm bulunmayan hâllerde vekâlet hükümleri uygulanır.
+
+(3) Taşıma, deniz ticareti, sigorta, turizm gibi alanlara ilişkin özel
+düzenlemeler saklıdır.
+====
++
+****
+Acenteler:
+
+** işletmeden bağımsızdır
+** tacirle arasında bir sözleşme vardır
+** sürekli bir hukuki ilişkiye dayanır
+** coğrafi bir sınırı vardır
+** bu işi meslek edinmiş olmalıdır
+** bu iş bir ticari işletmeyi ilgilendirmelidir
+** bu işi bir ücret karşılığında yapmalıdır
+****
++
+[caption=""]
+.Sözleşme yapma yetkisi
+====
+*TTK 107*: (1) Özel ve yazılı bir yetki almadan acente, müvekkili adına
+sözleşme yapmaya yetkili değildir.
+
+(2) Acentelere müvekkilleri adına sözleşme yapma yetkisi veren belgelerin,
+acente tarafından tescil ve ilan ettirilmesi zorunludur.
+====
++
+Temsil yetkisinin kapsamı bağlı tacir yardımcılarından farklıdır. Temsil
+yetkisinin kapsamı acente ile müvekkili arasındaki sözleşmeye bağlıdır. Ticaret
+Sicil Yönetmeliği 48 acentenin yetki belgesinin ayrıca noter tarafından
+onaylanması şartını da getirir. Yazılı yetki olmadan temsil yetkisinin
+varlığından söz edilemez ama _kürsüye göre_ yapılacak tescil kurucu değildir.
++
+[caption=""]
+.Yetkisizlik
+====
+*TTK 108*:  (1) Acente, yetkisi olmaksızın veya yetki sınırlarını aşarak,
+müvekkili adına bir sözleşme yaparsa müvekkili bunu haber alır almaz icazet
+verebilir; vermediği takdirde acente sözleşmeden kendisi sorumlu olur.
+====
++
+TTK 102/2'ye göre acenteler hakkında hüküm bulunmayan hallerde simsarlık
+hükümleri kıyasen uygulanır. Simsarlık hükümlerinde de bulunmadığı hallerde
+vekalet hükümleri uygulanacaktır.
++
+TTK 104'e göre tacir aynı zamanda aynı yerde aynı konuda birtden fazla acente
+atayamaz. Acente de rekabet halindeki birden çok ticari işletme hesabına
+acentelik yapamaz. Çift taraflı rekabet yasağı vardır. Ancak bu taraflar bunun
+aksini kararlaştırabilirler.
++
+[caption=""]
+.İnhisar
+====
+*TTK 104*: (1) Yazılı olarak aksi kararlaştırılmadıkça, müvekkil, aynı zamanda
+ve aynı yer veya bölge içinde aynı ticaret dalı ile ilgili olarak birden fazla
+acente atayamayacağı gibi, acente de aynı yer veya bölgede, birbirleriyle
+rekabette bulunan birden çok ticari işletme hesabına acentelik yapamaz.  
+====
++
+Acente aracılıkta bulunduğu veya yaptığı sözleşmeyle ilgili her türlü ihtarı,
+ihbarı ve protestoyu gönderebilir ve karşıdan gönderilenleri kabul edebilir.
+Hem aktif hem de pasif yetkidir. 
++
+Ayrıca acente özel yetkiye gerek olmadan dava açabilir ve tacir adına kendisine
+karşı dava açılabilir. Acenteye karşı dava açılmış olsa da alınan karar
+acenteye karşı icra edilemez. Yabancı taciler adına acentelik yapılıyorsa bu
+düzenlemeler emredicidir.
++
+[caption=""]
+====
+*TTK 105*: (1) Acente, aracılıkta bulunduğu veya yaptığı sözleşmelerle ilgili
+her türlü ihtar, ihbar ve protesto gibi hakkı koruyan beyanları müvekkili adına
+yapmaya ve bunları kabule yetkilidir.
+
+(2) Bu sözleşmelerden doğacak uyuşmazlıklardan dolayı acente, müvekkili adına
+dava açabileceği gibi, kendisine karşı da aynı sıfatla dava açılabilir. Yabancı
+tacirler adına acentelik yapanlar hakkındaki sözleşmelerde yer alan, bu hükme
+aykırı şartlar geçersizdir.
+
+(3) Acentelerin ad ve hesabına hareket ettikleri kişilere karşı Türkiye’de
+açılacak olan davalar sonucunda alınan kararlar acentelere uygulanamaz.
+====
++
+[caption=""]
+====
+*TTK 109*: (1) Acente, sözleşme uyarınca kendisine bırakılan bölge ve ticaret
+dalı içinde, müvekkilinin işlerini görmekle ve menfaatlerini korumakla
+yükümlüdür.
+
+(2) Acente, kusursuz olduğunu ispat etmediği takdirde özellikle, müvekkili
+hesabına saklamakta olduğu malın veya eşyanın uğradığı hasarlardan sorumludur.
+====
++
+[caption=""]
+.Haber verme yükümlülüğü
+====
+*TTK 110*: (1) Acente, üçüncü kişilerin kabule yetkili olduğu beyanlarını,
+bölgesindeki piyasanın ve müşterilerin finansal durumunu, şartlarını, bunlarda
+meydana gelen değişiklikleri ve yapılan işlemlere ilişkin olarak müvekkilini
+ilgilendiren bütün hususları ona zamanında bildirmek zorundadır.
+
+(2) Acente, müvekkilin açık talimatı olmayan konularda, emir alıncaya kadar
+işlemi geciktirebilir. Ancak, işin acele nitelik taşıması nedeniyle durum
+müvekkilinden talimat almaya müsait olmazsa veya acente en yararlı şartlar
+çerçevesinde harekete yetkiliyse, basiretli bir tacir gibi kendi görüşüne göre
+işlemi yapar.
+====
++
+[caption=""]
+.Önlemler
+====
+*TTK 111*:  (1) Acente, müvekkili hesabına teslim aldığı eşyanın taşınma
+sırasında hasara uğradığına dair belirtiler varsa, müvekkilinin taşıyıcıya
+karşı dava hakkını teminat altına almak üzere, hasarı belirlettirmek ve gereken
+diğer önlemleri almak, eşyayı mümkün olduğu kadar korumak veya tamamen telef
+olması tehlikesi varsa, Türk Borçlar Kanununun 108 inci maddesi gereğince
+yetkili mahkemenin izniyle sattırmak ve gecikmeksizin durumu müvekkiline haber
+vermekle yükümlüdür.  Aksi takdirde, ihmali yüzünden doğacak zararı tazmin
+eder.
+
+(2) Satılmak üzere acenteye gönderilen mallar çabuk bozulacak cinsten ise veya
+değerini düşürecek değişikliklere uğrayacak nitelikteyse ve müvekkilden talimat
+almaya zaman uygun değilse veya müvekkil izin vermede gecikirse, acente yetkili
+mahkemenin izniyle Türk Borçlar Kanununun 108 inci maddesi gereğince eşyayı
+sattırmaya yetkili ve müvekkilin menfaatleri bunu gerektiriyorsa zorunludur.
+====
++
+[caption=""]
+.Ödeme borcu
+====
+*TTK 112*: (1) Acente, müvekkiline ait olan parayı göndermekle veya teslim
+etmekle yükümlü olup da bunu yapmazsa, yükümlülüğün doğduğu tarihten itibaren
+faiz ödemek ve gerekirse ayrıca tazminat vermek zorundadır.
+====
++
+[caption=""]
+.Ücrete hak kazandıran işlemler
+====
+*TTK 113*: (1) Acente, acentelik ilişkisinin devamı süresince kendi çabasıyla
+veya aynı nitelikteki işlemler için kazandırdığı üçüncü kişilerle kurulan
+işlemler için ücret isteyebilir. Bu ücret hakkı, üçüncü fıkra uyarınca önceki
+acenteye ait olduğu hâlde ve ölçüde doğmaz.
+
+(2) Acenteye belli bir bölge veya müşteri çevresi bırakılmışsa, acente,
+acentelik ilişkisinin devamı süresince bu bölgedeki veya çevredeki müşterilerle
+kendi katkısı olmadan kurulan işlemler için de ücret isteyebilir. Birinci
+fıkranın ikinci cümlesi burada da uygulanır.
+
+(3) Acentelik ilişkisinin bitmesinden sonra kurulan işlemler için acente;
+
+.. İşleme aracılık etmişse veya işlemin yapılmasının kendi çabasına
+bağlanabileceği ölçüde işlemi hazırlamış ve işlem de acentelik ilişkisinin
+bitmesinden sonra uygun bir süre içinde kurulmuşsa,
+.. Birinci veya ikinci fıkraların birinci cümleleri uyarınca ücret
+istenebilecek bir işleme ilişkin olarak üçüncü kişinin icabı, acentelik
+ilişkisinin sona ermesinden önce acenteye veya müvekkile ulaşmışsa, ücret
+isteyebilir. Bu ücretin, hâl ve şartlara göre paylaşılması hakkaniyet gereği
+ise, sonraki acente de uygun bir pay alır.
+
+(4) Acente, ayrıca, müvekkilinin talimatına uygun olarak tahsil ettiği paralar
+için de tahsil komisyonu isteyebilir.
+====
++
+[caption=""]
+.Ücrete hak kazanma zamanı
+====
+*TTK 114*: (1) Acente, kurulan işlem yerine getirildiği anda ve ölçüde ücrete
+hak kazanır. Taraflar bu kuralı acentelik sözleşmesiyle değiştirebilir; ancak
+müvekkil işlemi yerine getirince, acente, izleyen ayın son günü istenebilecek
+uygun bir avansa hak kazanır. Her hâlde acente, üçüncü kişi kurulan işlemi
+yerine getirdiği anda ve ölçüde ücrete hak kazanır.
+
+(2) Üçüncü kişinin işlemi yerine getirmeyeceği kesinleşirse, acentenin ücret
+hakkı düşer; ödenmiş tutarlar geri verilir.
+
+(3) Aracılık edilen sözleşmeyi müvekkilin kısmen veya tamamen yahut öngörüldüğü
+şekliyle yerine getirmeyeceği kesinleşse bile, acente ücret isteyebilir.
+Müvekkile yüklenemeyen sebeplerle sözleşmenin yerine getirilemediği hâlde ve
+ölçüde acentenin ücret hakkı düşer.
+====
++
+[caption=""]
+.Olağanüstü giderlerin karşılanması
+====
+*TTK 117*: (1) Acente, yükümlülüklerini yerine getirmek için yaptıklarından
+ancak olağanüstü giderlerin ödenmesini isteyebilir.
+====
++
+[caption=""]
+.Hapis hakkı
+====
+*TTK 119*:  (1) Acente, müvekkilindeki bütün alacakları ödeninceye kadar,
+acentelik sözleşmesi dolayısıyla alıp da gerek kendi elinde gerek özel bir
+sebebe dayanarak zilyet olmakta devam eden bir üçüncü kişinin elinde bulunan
+taşınırlar ve kıymetli evrak ile herhangi bir eşyayı temsil eden senet
+aracılığıyla kullanabildiği mallar üzerinde hapis hakkına sahiptir.
+
+(2) Müvekkile ait mallar acente tarafından sözleşme veya kanun gereği satıldığı
+takdirde, acente bu malların bedelini ödemekten kaçınabilir.
+
+(3) Müvekkil aciz hâlinde bulunduğu takdirde, acentenin henüz muaccel olmamış
+alacakları hakkında da birinci ve ikinci fıkra hükümleri uygulanır.
+
+(4) Türk Medenî Kanununun 950 nci maddesinin ikinci fıkrasıyla, 951 ilâ 953
+üncü maddeleri hükümleri saklıdır.
+====
++
+[caption=""]
+.Müvekkilin borçları
+====
+*TTK 120*:  (1) Müvekkil, acenteye;
+
+.. Mallarla ilgili belgeleri vermek,
+.. Acentelik sözleşmesinin yerine getirilmesi için gerekli olan hususları ve
+özellikle iş hacminin acentenin normalde bekleyebileceğinden önemli surette
+düşük olabileceğini bildirmek,
+.. Acentenin yaptığı işleri kabul edip etmediğini ya da yerine getirilmediğini
+uygun bir süre içinde bildirmek,
+.. Acentenin istemeye hak kazandığı ücreti ödemek,
+.. Ücret, avans ve olağanüstü giderler hakkında 20 nci madde hükümlerine göre
+faiz ödemek,
+
+zorundadır.
+
+(2) Bu maddeye aykırı şartlar, acentenin aleyhine olduğu ölçüde, geçersizdir.
+====
++
+====
+*TTK 121*: (1) Belirsiz bir süre için yapılmış olan acentelik sözleşmesini,
+taraflardan her biri üç ay önceden ihbarda bulunmak şartıyla feshedebilir.
+Sözleşme belirli bir süre için yapılmış olsa bile haklı sebeplerden dolayı her
+zaman fesih olunabilir.
+
+(2) Belirli süre için yapılan bir acentelik sözleşmesinin, süre dolduktan sonra
+uygulanmaya devam edilmesi hâlinde, sözleşme belirsiz süreli hâle gelir.
+
+(3) Müvekkilin veya acentenin iflası, ölümü veya kısıtlanması hâlinde, Türk
+Borçlar Kanununun 513 üncü maddesi hükmü uygulanır.
+
+(4) Haklı bir sebep olmadan veya üç aylık ihbar süresine uymaksızın sözleşmeyi
+fesheden taraf, başlanmış işlerin tamamlanmaması sebebiyle diğer tarafın
+uğradığı zararı tazmin etmek zorundadır.
+
+(5) Müvekkilin veya acentenin ölümü, ehliyetini kaybetmesi veya iflası
+sebebiyle acentelik sözleşmesi sona ererse, işlerin tamamlanması hâlinde
+acenteye verilmesi gereken ücret miktarına oranlanarak belirlenecek uygun bir
+tazminat acenteye ya da bu maddede yazılı hâllere göre onun yerine geçenlere
+verilir.
+====
++
+[caption=""]
+.Denkleştirme istemi
+====
+*TTK 122*: (1) Sözleşme ilişkisinin sona ermesinden sonra;
+
+.. Müvekkil, acentenin bulduğu yeni müşteriler sayesinde, sözleşme ilişkisinin
+sona ermesinden sonra da önemli menfaatler elde ediyorsa,
+.. Acente, sözleşme ilişkisinin sona ermesinin sonucu olarak, onun tarafından
+işletmeye kazandırılmış müşterilerle yapılmış veya kısa bir süre içinde
+yapılacak olan işler dolayısıyla sözleşme ilişkisi devam etmiş olsaydı elde
+edeceği ücret isteme hakkını kaybediyorsa ve
+.. Somut olayın özellik ve şartları değerlendirildiğinde, ödenmesi hakkaniyete
+uygun düşüyorsa, acente müvekkilden uygun bir tazminat isteyebilir.
+
+(2) Tazminat, acentenin son beş yıllık faaliyeti sonucu aldığı yıllık komisyon
+veya diğer ödemelerin ortalamasını aşamaz. Sözleşme ilişkisi daha kısa bir süre
+devam etmişse, faaliyetin devamı sırasındaki ortalama esas alınır.
+
+(3) Müvekkilin, feshi haklı gösterecek bir eylemi olmadan, acente sözleşmeyi
+feshetmişse veya acentenin kusuru sebebiyle sözleşme müvekkil tarafından haklı
+sebeplerle feshedilmişse, acente denkleştirme isteminde bulunamaz.
+
+(4) Denkleştirme isteminden önceden vazgeçilemez. Denkleştirme istem hakkının
+sözleşme ilişkisinin sona ermesinden itibaren bir yıl içinde ileri sürülmesi
+gerekir.
+
+(5) Bu hüküm, hakkaniyete aykırı düşmedikçe, tek satıcılık ile benzeri diğer
+tekel hakkı veren sürekli sözleşme ilişkilerinin sona ermesi hâlinde de
+uygulanır.
+====
++
+[caption=""]
+.Rekabet yasağı anlaşması
+====
+*TTK 123*: (1) Acentenin, işletmesine ilişkin faaliyetlerini, sözleşme
+ilişkisinin sona ermesinden sonrası için sınırlandıran anlaşmanın yazılı
+şekilde yapılması ve anlaşma hükümlerini içeren ve müvekkil tarafından
+imzalanmış bulunan bir belgenin acenteye verilmesi gerekir. Anlaşma en çok,
+ilişkinin bitiminden itibaren iki yıllık süre için yapılabilir ve yalnızca
+acenteye bırakılmış olan bölgeye veya müşteri çevresine ve kurulmasına aracılık
+ettiği sözleşmelerin taalluk ettiği konulara ilişkin olabilir. Müvekkilin,
+rekabet sınırlaması dolayısıyla, acenteye uygun bir tazminat ödemesi şarttır.
+
+(2) Müvekkil, sözleşme ilişkisinin sona ermesine kadar, rekabet sınırlamasının
+uygulanmasından yazılı olarak vazgeçebilir. Bu hâlde müvekkil, vazgeçme
+beyanından itibaren altı ayın geçmesiyle tazminat ödeme borcundan kurtulur.
+
+(3) Taraflardan biri, diğer tarafın kusurlu davranışı nedeniyle haklı
+sebeplerle sözleşme ilişkisini feshederse, fesihten itibaren bir ay içinde
+rekabet sözleşmesiyle bağlı olmadığını diğer tarafa yazılı olarak bildirebilir.
+
+(4) Bu maddeye aykırı şartlar, acentenin aleyhine olduğu ölçüde geçersizdir.
+====
++
+CAUTION: TTK 123 inhisar (TTK 104) değildir, çünkü sözleşmenin sonrasına
+yöneliktir.
+
+* *Simsar* herhangi bir tarafa bağımlı değildir. Bir tarafla sözleşme yapmışsa
+onun menfaatlerini gözetmek zorundadır, iki tarafla da yapmışsa onların ortak
+menfaatlerini gözetmek durumundadır. 
++
+[caption=""]
+====
+*TBK 520*: (1) Simsarlık sözleşmesi, simsarın taraflar arasında bir sözleşme
+kurulması imkânının hazırlanmasını veya kurulmasına aracılık etmeyi üstlendiği
+ve bu sözleşmenin kurulması hâlinde ücrete hak kazandığı sözleşmedir.
+
+(2) Simsarlık sözleşmesine, kural olarak vekâlete ilişkin hükümler uygulanır.
+
+(3) Taşınmazlar konusundaki simsarlık sözleşmesi, yazılı şekilde yapılmadıkça
+geçerli olmaz.
+====
++
+Simsarlık sözleşmesinin kurulması için herhangi bir geçerlilik şartı yoktur.
+Ancak ayni hak şahsi hak ayrımı yapmaksızın taşınmazlarla ilgili her simsarlık
+sözleşmesi yazılı olmalıdır.
++
+Ücrete hak kazanmak için sözleşmenin kurulması yeterlidir.
++
+[caption=""]
+.Hak etme zamanı
+====
+*TBK 521*: (1) Simsar, ancak yaptığı faaliyet sonucunda sözleşme kurulursa
+ücrete hak kazanır.
+
+(2) Simsarın faaliyeti sonucunda kurulan sözleşme geciktirici koşula
+bağlanmışsa ücret, koşulun gerçekleşmesi hâlinde ödenir.
+
+(3) Simsarlık sözleşmesinde simsarın yapacağı giderlerin kendisine ödeneceği
+kararlaştırılmışsa, simsarın faaliyeti sözleşmenin kurulmasıyla sonuçlanmamış
+olsa bile giderleri ödenir.
+====
+
+* *Komisyoncu* kendi adına ve tacir hesabına işlem yapar, yani dolaylı
+temsildir.
++
+[caption=""]
+====
+*TBK 532*: (1) Alım veya satım komisyonculuğu, komisyoncunun ücret
+karşılığında, kendi adına ve vekâlet verenin hesabına kıymetli evrak ve
+taşınırların alım veya satımını üstlendiği sözleşmedir.
+
+(2) Bu bölümdeki hükümler saklı kalmak üzere, komisyon sözleşmelerine vekâlet
+hükümleri uygulanır.
+====
++
+[caption=""]
+====
+*TBK 539*: (1) Komisyoncu, ücretinin ödenmesini kendisine verilen işi yapınca
+isteyebileceği gibi, işin yapılmaması vekâlet verene yükletilebilen bir
+sebepten kaynaklanması hâlinde de isteyebilir.
+
+(2) Komisyoncu, başka sebeplerle işin yapılamaması durumunda, ancak emeğinin
+yerel âdete göre belirlenecek karşılığını isteyebilir.
+====
++
+[caption=""]
+====
+*TBK 546/2*: Alım ve satım komisyonculuğu sayılmayan işleri, ücret karşılığında
+kendi adına ve vekâlet verenin hesabına üstlenen alım ve satım komisyoncusu ile
+komisyon işlerini kendisine meslek edinmeyip arada bir üstlenen tacir hakkında
+da bu bölüm hükümleri uygulanır.
+====
+
+=== TİCARET SİCİLİ
+
+* Ticaret sicili, ticaret odaları tarafından tutulur. Ticaret odaları gümrük ve
+ticaret bakanlığının denetimindedir ve ticaret sicilinin kusurlu bir şekilde
+tutulmasından oluşacak zararlarda devletle birlikte sorumludur. 
+
+* Ticaret sicilinde işlem yapılabilmesi için esas itibariyle ilgililerin
+talepte bulunması gerekir. İstisnaen re'sen ya da ilgili makamın bildirmesi
+üzerine de tescil işlemi gerçekleştirilebilir. Örneğin iflas kararı ile
+birlikte iflas dairesi veya mahkeme durumu bildirdiği anda sicile tescil
+gerçekleşir.
+
+* Tescil gerçekleştikten sonra sicil kararlarına karşı dava imkanı vardır.
+Tescil talebi reddedilirse ya da tescili lazım gelmeyen bir husus tescil
+edilirse ilgilerin 8 gün içerisinde asliye ticaret mahkemesine dava açma hakkı
+vardır.
+
+* Kural tescil edilen hususun ilanıdır. Türkiye genelinde yayın yapan _Türkiye
+Ticaret Sicil Gazetesi_ yoluyla ilan yapılır. Böylelikle aleniyet sağlanmış
+olur.
+
+* Ticaret siciline bakabilmek için kişinin ilgisini ispata gerek yoktur. Sicil,
+ilgili-ilgisiz herkese açıktır. Tescil edilen hususlara, tescil işlemi
+yapılırken kullanılan evraklara bakmak ve hatta bunların bir örneğini almak
+mümkündür.
+
+* Kural ticaret siciline tescilin etkisinin *açıklayıcı* olmasıdır.
++
+İstisnalar:
+
+.. Ticaret unvanına yönelik olarak özel korumalardan faydalanabilmek için
+ticaret unvanının sicile tescili zorunludur. Tescil bu korumalar açısından
+kurucudur.
+.. Tartışmalı olmakla birlikte ticari işletmenin devri açısından genel kabul
+ticaret siciline tescilin kurucu olduğudur. 
+.. Ticari işletmenin rehni ticaret siciline tescille birlikte ortaya çıkar.
+.. Anonim şirketin kuruluşu bakımından tescilin kurucu etkisi yoktur ama tüzel
+kişilik kazanması bakımından kurucu etkiyi haizdir.
+
+* Kural olarak işlem tescille birlikte değil *ilanla birlikte* üçüncü kişilere
+karşı hüküm ifade edtmeye başlar.
++
+[caption=""]
+.Tescil ve ilanın üçüncü kişilere etkisi
+====
+*TTK 36*: (1) Ticaret sicili kayıtları nerede bulunurlarsa bulunsunlar, üçüncü
+kişiler hakkında, tescilin Türkiye Ticaret Sicili Gazetesinde ilan edildiği;
+ilanın tamamı aynı nüshada yayımlanmamış ise, son kısmının yayımlandığı günü
+izleyen iş gününden itibaren hukuki sonuçlarını doğurur. Bu günler, tescilin
+ilanı tarihinden itibaren işlemeye başlayacak olan sürelere de başlangıç olur.
+
+(2) Bir hususun tescil ile beraber derhâl üçüncü kişiler hakkında sonuç
+doğuracağına veya sürelerin derhâl işleyeceğine ilişkin özel hükümler saklıdır.
+
+(3) Üçüncü kişilerin, kendilerine karşı sonuç doğurmaya başlayan sicil
+kayıtlarını bilmediklerine ilişkin iddiaları dinlenmez.
+
+(4) Tescili zorunlu olduğu hâlde tescil edilmemiş veya tescil edilip de ilanı
+zorunlu iken ilan olunmamış bir husus, ancak bunu bildikleri veya bilmeleri
+gerektiği ispat edildiği takdirde, üçüncü kişilere karşı ileri sürülebilir.
+====
++
+TTK 36/3, *sicilin olumlu etkisini* düzenler. Sicilin olumlu etkisinde
+yapılması gereken yapılmıştır. Üçüncü kişiler ilanla birlikte hüküm doğurmaya
+başlamış olan sicil kayıtlarını bilmediklerini ileri süremezler.
++
+TTK 36/4 ise *sicilin olumsuz etkisidir*. Tescili lazım gelen bir husus tescil
+edilmemişse bu durum ancak bunu bilen ya da bilmesi gerekenlere karşı ileri
+sürülebilir.
++
+Ticaret sicilinin olumlu ve olumsuz etkisi ancak hukuki işlemlerde etkilidir.
+
+* Sicildeki kayıt yanlışsa üçüncü kişinin bu kayda güvenmesi tasarruf yetkisi
+eksikliğini gidermez ama *görünüşe güven* vardır. Tescil kaydı ile ilan edilen
+durum arasında farklılık bulunması halinde üçüncü kişilerin ilan edilen duruma
+güvenleri korunur.
+
+=== TİCARİ YARGI
+
+* Ticari davalar *asliye ticaret mahkemesinde* görülür. Asliye ticaret
+mahkemesi olmayan yerlerde asliye hukuk mahkemesi ticari davalara bakabilir.
+
+* Ticaret mahkemelerinde değeri belirli bir miktarın üzerinde olan davalar
+birden fazla hakimle görülürken, bazı davalar da tek hakimle görülmektedir.
+
+* İki tip ticari dava vardır: *Mutlak* ticari davalar ve *nispi* ticari
+davalar.
++
+Ticaret kanunda düzenlenen hususlar; cari hesapla, tacirle, ticari işletmeyle,
+kıymetli evrakla ilgili uyuşmazlıklar mutlak ticari davalardır.
++
+[caption=""]
+====
+*TTK 4*: (1) Her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan
+hukuk davaları ve çekişmesiz yargı işleri ile tarafların tacir olup
+olmadıklarına bakılmaksızın;
+
+.. Bu Kanunda,
+.. Türk Medenî Kanununun, rehin karşılığında ödünç verme işi ile uğraşanlar
+hakkındaki 962 ilâ 969 uncu maddelerinde,
+.. 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun malvarlığının veya
+işletmenin devralınması ile işletmelerin birleşmesi ve şekil değiştirmesi
+hakkındaki 202 ve 203, rekabet yasağına ilişkin 444 ve 447, yayın sözleşmesine
+dair 487 ilâ 501, kredi mektubu ve kredi emrini düzenleyen 515 ilâ 519,
+komisyon sözleşmesine ilişkin 532 ilâ 545, ticari temsilciler, ticari vekiller
+ve diğer tacir yardımcıları için öngörülmüş bulunan 547 ilâ 554, havale
+hakkındaki 555 ilâ 560, saklama sözleşmelerini düzenleyen 561 ilâ 580 inci
+maddelerinde,
+.. Fikrî mülkiyet hukukuna dair mevzuatta,
+.. Borsa, sergi, panayır ve pazarlar ile antrepo ve ticarete özgü diğer yerlere
+ilişkin özel hükümlerde,
+.. Bankalara, diğer kredi kuruluşlarına, finansal kurumlara ve ödünç para verme
+işlerine ilişkin düzenlemelerde, öngörülen hususlardan doğan hukuk davaları ve
+çekişmesiz yargı işleri ticari dava ve ticari nitelikte çekişmesiz yargı işi
+sayılır. Ancak, herhangi bir ticari işletmeyi ilgilendirmeyen havale, vedia ve
+fikir ve sanat eserlerine ilişkin haklardan doğan davalar bundan istisnadır.
+
+(2) Ticari davalarda da deliller ile bunların sunulması 18/6/1927 tarihli ve
+1086 sayılı Hukuk Usulü Muhakemeleri Kanunu hükümlerine tabidir.
+====
++
+Bir iş ticari iş olsa da o iş ile ilgili uyuşmazlık ticari dava olmayabilir.
+Ticari dava olması için ya özel olarak düzenlenmesi gerekir (mutlak ticari
+dava) ya da her iki tarafın da ticari işletmesiyle ilgili olması gerekir (nispi
+ticari dava).
++
+NOTE: Havale, vedia, fikir ve sanat eserlerine ilişkin davalarda bir tarafın
+ticari işletmesiyle ilgili olması nispi ticari dava sayılması için yeterldir.
+
+* Bir işlem hem bir tüketici işlemi hem de ticari iş olabilir. İşlem tüketici
+işlemi ise Yargıtay özel mahkeme olarak tüketici mahkemelerini görevli kabul
+eder. Tüketicinin açacağı bu davalarda bu işlem ticaret kanununda düzenlense
+bile dava tüketici mahkemelerinde açılır.
+
+=== TİCARİ DEFTERLER
+
+* Ticari defterler, her tacirin ticari işletmesiyle ilgili her muhasabe
+işlemini kaydettikleri defterlerdir. Bu defterler delil olarak kullanılabilir.
+
+* Usul hukukunda kural olarak kimse kendi delilini kendi yaratamaz. Ticari
+defterler bu kuralın istisnasını oluşturur. Tacir, başka bir tacirden olan
+alacağını defterine kaydetmişse sadece bununla alacağını ileri sürebilir ve bu
+bir kesin delildir.
+
+* Ticari defterin delil olarak kullanılabilmesi için; ispat edilecek işlemin
+ticari defterlere geçirilecek türden bir işlem olması ve ticari işletmeyi
+ilgilendirmesi gerekir. Bununla birlikte tutulan defterlerin birbiriyle uyumlu
+ve kanuna uygun şekilde tutulmuş olması şarttır. Ayrıca karşı tarafın da kendi
+defterleriyle veya herhangi bir yazılı delille bunun aksini ispatlayamamış
+olması gerekir. 
+
+=== TİCARET UNVANI, İŞLETME ADI VE MARKA
+
+====
+*TTK 39*: (1) Her tacir, ticari işletmesine ilişkin işlemleri, ticaret
+unvanıyla yapmak ve işletmesiyle ilgili senetlerle diğer belgeleri bu unvan
+altında imzalamak zorundadır.
+
+(2) Tescil edilen ticaret unvanı, ticari işletmenin görülebilecek bir yerine
+okunaklı bir şekilde yazılır. Tacirin işletmesiyle ilgili olarak düzenlediği
+ticari mektuplarda ve ticari defterlere yapılan kayıtların dayandığı belgelerde
+tacirin sicil numarası, ticaret unvanı, işletmesinin merkezi ile tacir internet
+sitesi oluşturma yükümlülüğüne tabi ise tescil edilen internet sitesinin adresi
+de gösterilir. Tüm bu bilgiler şirketin internet sitesinde de yayımlanır. Bu
+sitede ayrıca, anonim şirketlerde yönetim kurulu başkan ve üyelerinin adları ve
+soyadları ile taahhüt edilen ve ödenen sermaye miktarı, limited şirketlerde
+müdürlerin adları ve soyadları ile taahhüt edilen ve ödenen sermaye miktarı,
+sermayesi paylara bölünmüş komandit şirketlerde yöneticilerin adları ve
+soyadları ile taahhüt edilen ve ödenen sermaye miktarı yayımlanır.
+====
+
+* Ticaret unvanını her tacirin kullanması *zorunludur*. Tacir ticari
+işletmesiyle ilgili işlemleri bu unvanla yapar, senet ve belgeleri bu unvan
+altında imzalar.
+
+* Ticaret unvanı seçildikten sonra tescil edilir. Ticaret unavının gayrimaddi
+mal olarak ortaya çıkması esasen kullanma ile olur ancak ticaret siciline
+tescil ile birlikte unvana yönelik kanundaki özel korumalardan yararlanır hale
+gelir.
+
+* Tacir, ticari işletmesini açtığı günden itibaren 15 gün içinde ticari
+işletmesini ve seçtiği ticaret unvanını işletme merkezinin bulunduğu yer
+ticaret siciline tescil ve ilan ettirmek zorundadır.
+
+[caption=""]
+.Gerçek ve tüzel kişilerin unvan ve işletmelerini tescil ettirme yükümlülüğü
+====
+*Ticaret Sicil Yönetmeliği 42*: (1) Her tacir, bir ticaret unvanı seçmeye ve
+kullanmaya, işletmesini ve unvanını tescil ettirmeye mecburdur.
+
+(2) Her tacirin kullanacağı ticaret unvanını ve bunun altına atacağı imzayı,
+tacir tüzel kişi ise, unvanla birlikte onun adına imzaya yetkili kimselerin
+imzalarını notere onaylatması zorunludur.
+
+(3) Notere onaylattırılacak imzaların en az üç defa atılmış olması şarttır.
+====
+
+* Özellikle tüzel kişi tacirin adına kimin imza atacağının sicilden anlaşılması
+gerekir. Atılacak imza noterde onaylatılır ve *imza sirküleri* denen bir belge
+düzenlenir. İmza sirkülerindeki gibi imza atılmazsa, o imza taciri bağlamaz.
+
+* Her tacirin özelliklerine göre seçmeleri gereken ticaret unvanının içermesi
+gereken asgari unsurlar kanun tarafından belirlenmiştir.
++
+Gerçek kişi tacirin adı neyse ticaret unvanı da odur.
++
+Kolektif şirketler için unvanda şirketin türünü gösteren bir ifade ve
+ortaklardan en az birinin adı soyadı bulunması zorunludur.
++
+Anonim ve limited şirketler işletme konularını göstermek zorundadırlar.
+Bunlarda önemli olan şey faaliyet konusudur. Önce faaliyet konusunun ne olduğu
+yazılır ardından da şirket tipi yazılır.
++
+Derneğin, vakfın ve kamu tüzel kişilerinin özel hukuk hükümlerine göre kurup
+işlettiği işletmeler bakımından da ticaret unvanları kendi adlarıdır.
+
+* Tacirin ticaret unvanının özelliği taciri diğer tacirlerden ayırmasıdır.
+Dolayısıyla ayırt ediciliği sağlayacak şekilde ek yapılması gerekir.
++
+[caption=""]
+.Ortak hükümler
+====
+*TTK 45*: (1) Bir ticaret unvanına Türkiye’nin herhangi bir sicil dairesinde
+daha önce tescil edilmiş bulunan diğer bir unvandan ayırt edilmesi için gerekli
+olduğu takdirde, ek yapılır.
+====
++
+[caption=""]
+.Ekler
+====
+*TTK 46*: (1) Tacirin kimliği, işletmesinin genişliği, önemi ve finansal durumu
+hakkında, üçüncü kişilerde yanlış bir görüşün oluşmasına sebep olacak nitelikte
+bulunmamak, gerçeğe ve kamu düzenine aykırı olmamak şartıyla; her ticaret
+unvanına, işletmenin özelliklerini belirten veya unvanda yer alan kişilerin
+kimliklerini gösteren ya da hayalî adlardan ibaret olan ekler yapılabilir.
+
+(2) Tek başlarına ticaret yapan gerçek kişiler ticaret unvanlarına bir şirketin
+var olduğu izlenimini uyandıracak ekler yapamazlar.
+
+(3) “Türk”, “Türkiye”, “Cumhuriyet” ve “Millî” kelimeleri bir ticaret unvanına
+ancak Bakanlar Kurulu kararıyla konabilir.
+====
+
+* Tacirin ticaret hayatındaki ismi onu diğer tacirlerden ayırt etmeye yarayan *gayrimaddi bir maldır*.
++
+====
+*TTK 50*: (1) Usulen tescil ve ilan edilmiş olan ticaret unvanını kullanma
+hakkı sadece sahibine aittir.
+====
++
+Tacir, ticaret unvanı başkası tarafından tescil ettirildiyse bunun terkinini;
+bir başkası onu ticari işlerinde kullanıyorsa onun bütün ticari belgelerinin
+toplatılmasını ve imhasını; başkası bu adla ilanlar yapıyorsa o ilanların
+yasaklanmasını talep edebilir. Ayrıca ihtiyari tedbirler de isteyebilir.
++
+TIP: Eğer tescil edilmemiş bir ticaret unvanı söz konusuysa orada genel
+hükümler devreye girecek, haksız rekabet söz konusu olacaktır.
+
+.Ticaret Unvanları Hakkında Tebliğ
+****
+*İltibas*
+
+'''
+
+*MADDE 5* – (1) Bir ticaret unvanı, Türkiye’nin herhangi bir sicil müdürlüğüne
+daha önce tescil edilmiş bulunan diğer bir unvandan ayırt edilmesi için gerekli
+olan ek yapılmadan tescil edilemez.
+
+(2) Daha önceden tescil edilmiş bir ticaret unvanının, Türk Ticaret Kanununun
+46 ncı maddesi kapsamındaki ek ve işletme konusunu gösteren ilk ibaresi aynı
+olan diğer bir ticaret unvanına ayırt edici bir ek yapılmadan tescil edilemez.
+(Ek-1; Örnek-1)
+
+*Örnek-1*: “A İnşaat Otomotiv Tekstil Sanayi ve Ticaret Anonim Şirketi” ticaret
+unvanı daha önce tescil edilmiş ise, “A İnşaat Tekstil Turizm Sanayi ve Ticaret
+Anonim Şirketi” ticaret unvanı ayırt edici ek yapılmadan tescil edilemez.
+
+(3) Daha önce tescil edilmiş ticaret unvanının eki ile kendi eki aynı olan,
+ancak ekten sonra gelen işletme konusunu gösteren ilk ibaresi farklı olan
+ticaret unvanı, ayırt edici bir ek yapılmadan tescil edilebilir. (Ek-1;
+Örnek-2)
+
+*Örnek-2*: “B İnşaat Otomotiv Sanayi Anonim Şirketi” ticaret unvanı daha önce
+tescil edilmiş ise, “B Turizm İnşaat Sanayi Anonim Şirketi” ticaret unvanı
+ayırt edici ek yapılmadan tescil edilebilir.
+
+(4) Daha önce tescil edilmiş bir ticaret unvanından yalnızca şirket türünü
+gösteren ibareleri farklı olan diğer bir unvan, ayırt edici ek yapılmadan
+tescil edilemez. (Ek-1; Örnek-3)
+
+*Örnek-3*: “C Turizm Limited Şirketi” ticaret unvanı daha önce tescil edilmiş
+ise, “C Turizm Anonim Şirketi” ticaret unvanı ayırt edici ek yapılmadan tescil
+edilemez.
+****
+
+* *İşletme adı* kullanma zorunluluğu yoktur. Ancak kullanılacaksa tescili
+gerekir. Tescil edildiği takdirde ticaret unvanı gibi korumadan yararlanır.
++
+İşletme adı işletmeyi, ticaret unvanı taciri tanıtır. 
++
+İşletme adı işletmeden ayrı olarak devredilebilir ama ticaret unvanı işletmeden
+ayrı olarak devredilemez.
+
+* Ticari işletme faaliyeti içerisinde yürütülen, satılan malı ya da hizmeti
+diğer mal veya hizmetlerden ayıran işarete *marka* denir. Marka kullanılmakla
+ortaya çıkar ancak KHK'larda yer alan korumalardan yararlanmak için tescili
+gerekir.
++
+Bunların tescili ticaret siciline değil Türk Patent Enstitüsü tarafından
+tutulan marka siciline yapılır. Sadece belirli bir mala ya da hizmete yönelik
+tescil yapılabilir. Tanınmış markalarda ise genel bir tescil yapılabilir.
++
+Patent Enstitüsü tescil başvurusunu KHK'daki ret sebeplerine göre inceler.
+Herhangi bir sorun olmadığını görürse marka bülteni ile yayın yapar. İlgiler
+buna itiraz edebilir. İtirazın değerlendirilmesi sonucu tescil yapılır veya
+yapılmaz. Bu karar da yargıya taşınabilir. Bu uyuşmazlık fikri ve sınai haklar
+mahkemesinde incelenir. 
++
+Tescil edildikten sonra tescilli markayı üçüncü kişi kullanırsa (_kürsüye göre_
+markasal kullanımı şart değildir) ona karşı tecavüz davası açılabilir.
+Tecavüzün tespiti, eski hale iade, imhası, maddi ve manevi tazminat ayrı ayrı
+düzenlenmiştir.
++
+Tescilin geçersiz olduğunu ileri süren üçüncü kişi terkin ettirmelidir.
+Tescilin terkini de yine fikri ve sınai haklar mahkemesine açılacak dava ile
+talep edilir. 
++
+TIP: Tescilsiz markanın korunması ticaret kanunu genel hükümlere göre haksız
+rekabettir.
+
+=== HAKSIZ REKABET
+
+[caption=""]
+.Amaç ve ilke
+====
+*TTK 54*: (1) Haksız rekabete ilişkin bu Kısım hükümlerinin amacı, bütün
+katılanların menfaatine, dürüst ve bozulmamış rekabetin sağlanmasıdır.
+
+(2) Rakipler arasında veya tedarik edenlerle müşteriler arasındaki ilişkileri
+etkileyen aldatıcı veya dürüstlük kuralına diğer şekillerdeki aykırı
+davranışlar ile ticari uygulamalar haksız ve hukuka aykırıdır.
+====
+
+* Rekabet hukukunun amacı rekabeti sağlamaktır. Haksız rekabet kurumunun amacı
+ise dürüst rekabeti sağlamaktır. Haksız rekabetin temeli dürüstlük kuralıdır.
+
+* TTK 55'de özel haksızlık halleri sayılmıştır. Bu maddenin içine giren
+uygulamalar haksız rekabet teşkil eder. Ama bunların içine girmese bile
+dürüstlük kuralına aykırı ticari uygulamalar TTK 54/2'deki genel hüküm
+çerçevesinde haksız rekabet sayılır.
++
+[caption=""]
+.Dürüstlük kuralına aykırı davranışlar, ticari uygulamalar
+====
+*TTK 55*: (1) Aşağıda sayılan hâller haksız rekabet hâllerinin başlıcalarıdır:
+
+.. Dürüstlük kuralına aykırı reklamlar ve satış yöntemleri ile diğer hukuka
+aykırı davranışlar ve özellikle;
+
+... Başkalarını veya onların mallarını, iş ürünlerini, fiyatlarını,
+faaliyetlerini veya ticari işlerini yanlış, yanıltıcı veya gereksiz yere
+incitici açıklamalarla kötülemek,
+... Kendisi, ticari işletmesi, işletme işaretleri, malları, iş ürünleri,
+faaliyetleri, fiyatları, stokları, satış kampanyalarının biçimi ve iş
+ilişkileri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunmak veya aynı
+yollarla üçüncü kişiyi rekabette öne geçirmek,
+... Paye, diploma veya ödül almadığı hâlde bunlara sahipmişçesine hareket
+ederek müstesna yeteneğe malik bulunduğu zannını uyandırmaya çalışmak veya buna
+elverişli doğru olmayan meslek adları ve sembolleri kullanmak,
+... Başkasının malları, iş ürünleri, faaliyetleri veya işleri ile
+karıştırılmaya yol açan önlemler almak,
+... Kendisini, mallarını, iş ürünlerini, faaliyetlerini, fiyatlarını, gerçeğe
+aykırı, yanıltıcı, rakibini gereksiz yere kötüleyici veya gereksiz yere onun
+tanınmışlığından yararlanacak şekilde; başkaları, malları, iş ürünleri veya
+fiyatlarıyla karşılaştırmak ya da üçüncü kişiyi benzer yollardan öne geçirmek,
+... Seçilmiş bazı malları, iş ürünlerini veya faaliyetleri birden çok kere
+tedarik fiyatının altında satışa sunmak, bu sunumları reklamlarında özellikle
+vurgulamak ve bu şekilde müşterilerini, kendisinin veya rakiplerinin yeteneği
+hakkında yanıltmak; şu kadar ki, satış fiyatının, aynı çeşit malların, iş
+ürünlerinin veya faaliyetlerinin benzer hacimde alımında uygulanan tedarik
+fiyatının altında olması hâlinde yanıltmanın varlığı karine olarak kabul
+olunur; davalı, gerçek tedarik fiyatını ispatladığı takdirde bu fiyat
+değerlendirmeye esas olur,
+... Müşteriyi ek edimlerle sunumun gerçek değeri hakkında yanıltmak,
+... Müşterinin karar verme özgürlüğünü özellikle saldırgan satış yöntemleri ile
+sınırlamak,
+... Malların, iş ürünlerinin veya faaliyetlerin özelliklerini, miktarını,
+kullanım amaçlarını, yararlarını veya tehlikelerini gizlemek ve bu şekilde
+müşteriyi yanıltmak,
+.... Taksitle satım sözleşmelerine veya buna benzer hukuki işlemlere ilişkin
+kamuya yapılan ilanlarda unvanını açıkça belirtmemek, peşin veya toplam satış
+fiyatını veya taksitle satımdan kaynaklanan ek maliyeti Türk Lirası ve yıllık
+oranlar üzerinden belirtmemek,
+.... Tüketici kredilerine ilişkin kamuya yapılan ilanlarda unvanını açıkça
+belirtmemek veya kredilerin net tutarlarına, toplam giderlerine, efektif yıllık
+faizlerine ilişkin açık beyanlarda bulunmamak,
+.... İşletmesine ilişkin faaliyetleri çerçevesinde, taksitle satım veya
+tüketici kredisi sözleşmeleri sunan veya akdeden ve bu bağlamda sözleşmenin
+konusu, fiyatı, ödeme şartları, sözleşme süresi, müşterinin cayma veya fesih
+hakkına veya kalan borcu vadeden önce ödeme hakkına ilişkin eksik veya yanlış
+bilgiler içeren sözleşme formülleri kullanmak.
+.. Sözleşmeyi ihlale veya sona erdirmeye yöneltmek; özellikle;
+... Müşterilerle kendisinin bizzat sözleşme yapabilmesi için, onları
+başkalarıyla yapmış oldukları sözleşmelere aykırı davranmaya yöneltmek,
+... Üçüncü kişilerin işçilerine, vekillerine ve diğer yardımcı kişilerine,
+haketmedikleri ve onları işlerinin ifasında yükümlülüklerine aykırı davranmaya
+yöneltebilecek yararlar sağlayarak veya önererek, kendisine veya başkalarına
+çıkar sağlamaya çalışmak,
+... İşçileri, vekilleri veya diğer yardımcı kişileri, işverenlerinin veya
+müvekkillerinin üretim ve iş sırlarını ifşa etmeye veya ele geçirmeye
+yöneltmek,
+... Onunla kendisinin bu tür bir sözleşme yapabilmesi için, taksitle satış,
+peşin satış veya tüketici kredisi sözleşmesi yapmış olan alıcının veya kredi
+alan kişinin, bu sözleşmeden caymasına veya peşin satış sözleşmesi yapmış olan
+alıcının bu sözleşmeyi feshetmesine yöneltmek.
+.. Başkalarının iş ürünlerinden yetkisiz yararlanma; özellikle;
+... Kendisine emanet edilmiş teklif, hesap veya plan gibi bir iş ürününden
+yetkisiz yararlanmak,
+... Üçüncü kişilere ait teklif, hesap veya plan gibi bir iş ürününden, bunların
+kendisine yetkisiz olarak tevdi edilmiş veya sağlanmış olduğunun bilinmesi
+gerektiği hâlde, yararlanmak,
+... Kendisinin uygun bir katkısı olmaksızın başkasına ait pazarlanmaya hazır
+çalışma ürünlerini teknik çoğaltma yöntemleriyle devralıp onlardan yararlanmak.
+.. Üretim ve iş sırlarını hukuka aykırı olarak ifşa etmek; özellikle, gizlice
+ve izinsiz olarak ele geçirdiği veya başkaca hukuka aykırı bir şekilde
+öğrendiği bilgileri ve üretenin iş sırlarını değerlendiren veya başkalarına
+bildiren dürüstlüğe aykırı davranmış olur.
+.. İş şartlarına uymamak; özellikle kanun veya sözleşmeyle, rakiplere de
+yüklenmiş olan veya bir meslek dalında veya çevrede olağan olan iş şartlarına
+uymayanlar dürüstlüğe aykırı davranmış olur.
+.. Dürüstlük kuralına aykırı işlem şartları kullanmak. Özellikle yanıltıcı bir
+şekilde diğer taraf aleyhine;
+... Doğrudan veya yorum yoluyla uygulanacak kanuni düzenlemeden önemli ölçüde
+ayrılan, veya
+... Sözleşmenin niteliğine önemli ölçüde aykırı haklar ve borçlar dağılımını
+öngören, önceden yazılmış genel işlem şartlarını kullananlar dürüstlüğe aykırı
+davranmış olur.
+====
++
+Haksız rekabete yönelik kanunda hukuki sorumluluk ve cezai sorumluluk da
+düzenlenmektedir. Kusur varsa tazminat istenebilir. Hatta hukuki çıkarı varsa
+müşteriler dahi dava açabilirler.
++
+Haksız rekabet davası için zarar tehlikesi yeterlidir. Kusur ve zarar tazminat
+için gereklidir.

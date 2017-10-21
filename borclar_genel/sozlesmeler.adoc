@@ -1,0 +1,1470 @@
+= SÖZLEŞMELER
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+.*TBK m.1* 
+[NOTE]
+====
+*f.1* - Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak
+açıklamalarıyla kurulur. +
+*f.2* - İrade açıklaması, açık veya örtülü olabilir.
+====
+
+== 1- SÖZLEŞMELERİN TÜRLERİ
+Tarafların sözleşme yapmakla arzu ettikleri hukuki sonuç, bir borcun doğumu ise
+bir borç doğuran sözleşme söz konusu olur. Fakat bir sözleşme, mevcut bir borç
+ilişkisinde değişiklik yapmak, bir borcu sona erdirmek, alacağı devretmek veya
+borcu nakletmek için de yapılabilir. Bir sözleşme bir ayni hakkın doğumunu veya
+naklini sağlamak için de yapılır. Bu sözleşmelere *ayni sözleşme*
+denilmektedir.
+
+=== I. BORÇ DOĞURAN SÖZLEŞMELERİN TÜRLERİ
+
+==== 1-  Borç altına giren taraf bakımından yapılan ayrım
+
+Sözleşmeler, borç yükleme açısından iki gruba ayrılmaktadır. Bir kısım
+sözleşmeler yalnız taraflardan birine borç yükler. Bunlara, *tek taraflı
+sözleşmeler* denilir. Bir kısım sözleşmelerde ise her iki taraf da borç altına
+girer. Bunlara da *iki taraflı sözleşmeler* denilmektedir. Bazı iki taraflı
+sözleşmelerde taraflardan her birinin borcu diğer tarafın borcunun karşılığını
+teşkil eder. Bir edim değişimi söz konusudur. Bu akitlere *tam iki taraflı
+sözleşmeler* veya *karşılıklı sözleşmeler* denir. Bazı iki taraflı
+sözleşmelerde ise bir taraf her zaman borç altına girer, diğer taraf ise ancak
+bazı şartlar gerçekleşirse borç altına girer. Bu tip sözleşmelere “eksik iki
+taraflı sözleşmeler” denilir.  Örnek: Ücretsiz vekalet sözleşmesi böyledir. Bu
+sözleşmede, vekil her zaman yüklendiği işi görme borcu altına girer, müvekkil
+ise iş görülürken vekil masraf yaparsa bu masrafı ödeme borcu altına girer.
+
+==== 2-  Sözleşme ilişkisinin süresi bakımından yapılan ayrım
+
+Asli edimleri ani edim olan borç ilişkileri ani ifalı borç ilişkileridir. Böyle
+bir ilişki bir sözleşme ile kurulursa o sözleşmeye ani ifalı sözleşme denir.
+(Örn. Alım-satım) Bir sözleşme ilişkisinde asli borçlardan en az biri sürekli,
+aralıklı veya dönemli edimleri gerektiriyorsa “sürekli sözleşme” söz konusu
+olur. (Örn. Kira ilişkisi) Sözleşmenin kurulması ile borçların ifası aynı anda
+vuku buluyorsa “ifa ile yapılan sözleşme” veya elden sözleşme söz konusu olur.
+(Örn. Elden bağışlama, elden satış)
+
+== 2- SÖZLEŞMENİN KURULMASI
+
+İki tarafın karşılıklı birbirine uygun irade beyanları ile sözleşmenin
+kurulması, bir tarafın teklifini diğer tarafın kabul etmesi ile olur. Borçlar
+Kanununun deyimlerine göre, yapılan önerinin (icabın) kabul edilmesi ile
+sözleşme kurulur.  
+
+=== I. ÖNERİ (İCAP) 
+Öneri, bir sözleşmeyi meydana getirmek amacı ile bir şahsın teklifini içeren ve
+karşı tarafa yöneltilen irade beyanıdır.  Öneri, bir sözleşmenin yapılması için
+gerekli irade beyanlarından zaman itibariyle önce yapılandır.  Bir irade
+beyanının öneri mi, kabul mü olduğunu tayinde önemli olan husus, onu yapanın
+şahsı değil, irade beyanının zaman itibariyle önce yapılan irade beyanı
+olmasıdır.  Öneri, yöneltilmesi gerekli bir irade beyanı ile yapılır.  Öneri,
+kural olarak belirli bir veya birkaç kişiye yöneltilir. Fakat bu zorunlu
+değildir. Önerinin genele yöneltilmesi de mümkündür.  
+
+.Örnek
+TIP: Bir şeyin üzerine sabit fiyat konulmak suretiyle bir mağazanın
+vitrininde sergilenmesi 
+
+.*TBK m.8*
+[NOTE]
+====
+*f.2* - Fiyatını göstererek mal sergilenmesi veya tarife, fiyat listesi ya da
+benzerlerinin gönderilmesi, aksi açıkça ve kolaylıkla anlaşılmadıkça öneri
+sayılır.
+====
+
+Öneri, karşı tarafın kabulü ile sözleşmenin kurulmasının arzu edildiğini
+açıklayan bir irade beyanıdır. Şu halde bir irade beyanının öneri sayılabilmesi
+için, onu yapanın, karşı tarafın kabulü üzerine sözleşmenin kurulmasını arzu
+ettiğini açıklaması gerekir. Şayet irade beyanı sadece bir müzakereye girişmek
+amacını açıklıyorsa, bu irade beyanı bir öneri değil, bir öneriye davettir. 
+
+.*TBK m.8*
+[NOTE]
+====
+*f.1* - Öneren, önerisi ile bağlı olmama hakkının saklı olduğunu açıkça
+belirtirse veya işin özelliğinden ya da durumun gereğinden bağlanma niyetinde
+olmadığı anlaşılırsa, önerisi kendisini bağlamaz. 
+====
+
+==== 1-  Önerinin hükmü
+Öneri, karşı tarafa sözleşmeyi kurmak imkanını verir ve öneren buna engel
+olamaz.  Böyle bir etkinin meydana gelebilmesi için, önerinin hukuki işlemlerde
+aranan geçerlilik şartlarını (ehliyet vs.) taşıması ve yapılacak sözleşmenin
+esaslı unsurlarını içermesi gerekir.  Kanun ve tarafların anlaşması ile
+yapılacak sözleşme için bir şekil öngörülmüş olmadıkça öneri bir şekle tabi
+değildir. Sözle, yazıyla veya kanaat verici bir davranışla yapılabilir.
+Geçerli bir önerinin karşı tarafa sözleşmeyi kurmak imkan ve yetkisini
+vermesine ve öneriyi yapanın buna engel olamamasına önerinin öneride bulunanı
+bağlaması denilir ve bu bağlılığın iki yönü vardır.  
+
+.. Öneren önerisi ile bağlı olduğu için, karşı taraf kabul beyanı ile
+sözleşmeyi kurabilir. Karşı tarafın bu yetkisi, önerinin niteliğinden
+kaynaklanır. Öneri, karşı taraf için sözleşmeyi meydana getirebilmek
+hususunda bir yenilik doğuran hak sağlar. Önerenin önerisi ile bağlılığının bir
+etkisi budur.
+
+.. Önerinin bağlamasının ikinci etkisi, önerenin önerisinden dönerek karşı
+tarafın sözleşmeyi kurmasına engel olamamasında görülür.
+
+==== 2-  Önerinin geri alınabileceği haller
+
+.. Öneri hazır bir kimseye yapılmış ise, o şahıs öneriyi hemen öğrenmiş olur.
+Bu sebeple öneriyi geri almak mümkün değildir. Öneriyi yapan karşı tarafa kabul
+için bir süre tanımışsa bu sürenin sonuna kadar öneri bağlayıcılığını sürdürür.
+Şayet hazır olan karşı tarafa kabul için bir süre tanımamışsa ve karşı taraf
+böyle bir öneriyi derhal kabul etmezse önerinin bağlayıcılığı sona erer.  
+.. Öneri hazır olmayan bir şahsa karşı süre tayin olunarak veya tayin olunmadan
+yapılmışsa, önerisini geri aldığı konusundaki beyanının karşı tarafa öneriden
+önce ulaşması veya daha sonra ulaşmakla birlikte karşı taraf öneriyi öğrenmeden
+önce geri alma beyanını öğrenmesi şartıyla, öneren önerisinden dönebilir (TBK
+m.10). Zamanında geri alınan öneri hükümsüzleşir, yapılmamış sayılır.  
+
+... Öneride değişiklik yapmak da, önceki öneriyi geri alıp yeni bir öneride
+bulunmak anlamını taşır.  
+... Önerenin önerisini geri alması tek taraflı bir beyanla olur. Öneri bir
+şekle tabi olsa bile geri alma beyanının bir şekle tabi olmayacağı kabul
+edilmektedir. 
+
+.. Öneriyi yapan, kabul haberi kendisine ulaşıncaya kadar önerisinden dönebilme
+hakkını saklı tutarak önerisini yapmışsa, kabul haberi kendisine ulaşıncaya
+kadar önerisinden dönebilir.  
+
+==== 3- Öneriye Davet
+
+TBK m.8 / f.1'e göre, öneren, açıkça önerisi ile bağlı olmama hakkını saklı
+tuttuğunu beyanında belirtirse veya işin özelliğinden ya da durumun gereğinden
+bağlanma niyetinde olmadığı anlaşılırsa, öneri bağlayıcı değildir. Aslında,
+bağlayıcı etkiden yoksun olan böyle bir beyan, öneri değil, bir öneriye
+davettir. Sadece belirli bir sözleşmeyi görüşme teklifi söz konusudur.  
+
+==== 4- Önerinin Bağlayıcılığının Sona Ermesi 
+
+.. Öneriyi red, önerinin kabul edilmediğini bildiren bir irade beyanıdır.
+Önerene yönetilmesi gerekir.  Önerinin reddedilmesi üzerine önerinin hükmü sona
+erer, öneren önerisi ile bağlı olmaktan kurtulur.  
+.. Kabul için öngörülen zamanın geçmesi de önerinin bağlayıcılığını sona
+erdirir.  
+
+... Öneri süreli ise, yani öneren kabul için bir süre tayin etmiş ise “kabul bu
+süre içinde kendisine ulaşmazsa öneren önerisiyle bağlılıktan kurtulur.” (TBK
+m.3/2). +
++
+Önerinin tanıdığı sürenin hangi andan itibaren işlemeye başlayacağı
+beyanda açıklanmamışsa, bu husus beyanın yorumu ile tespit edilir. Örneğin,
+öneren “on gün süre ile bağlıyım” demişse sürenin önerinin gönderildiği
+tarihten itibaren; “on gün içinde cevap veriniz” demişse sürenin önerinin karşı
+tarafa ulaştığı tarihten itibaren işlemeye başlayacağı kabul edilebilir.
+Verilen sürenin yeterli olup olmaması önem taşımaz. Öneren bunu serbestçe tayin
+eder; sonradan süreyi uzatabilir fakat kısaltamaz. +
++
+Esas itibariyle, kabul haberi kendisine zamanında yetişmezse, öneren,
+sözleşmenin kurulmadığını karşı tarafa bildirmekle yükümlü değildir. Buna
+karşılık dürüstlük kuralı bazı hallerde böyle bir yükümlülüğe yol açabilir.
+Fakat böyle hallerde dahi öneren kabul haberinin zamanında yetişmediğini karşı
+tarafa bildirmese dahi sözleşme kurulmaz. Ancak, öneren dürüstlük kuralına
+aykırı davrandığı için karşı tarafın bu yüzden uğradığı zararı tazminle yükümlü
+tutulabilir (Culpa in contrahendo).
+... Öneride kabul için hiçbir süre tayin edilmemişse, Borçlar Kanunu önerinin
+hazır olan bir kimseye veya hazır olmayan bir kimseye yapılması bakımından gene
+bir ayrıma yer verir.
+
+.... Öneri hazır olan bir kimseye yapılırsa, TBK m.4/1’e göre “Kabul için süre
+belirlenmeksizin hazır olan bir kişiye yapılan öneri hemen kabul edilmezse
+öneren önerisiyle bağlılıktan kurtulur”.
+.... Öneri hazır olmayan bir kimseye yapılırsa, TBK m.5/1’e göre “Kabul için
+süre belirlenmeksizin hazır olmayan bir kişiye yapılan öneri, zamanında ve
+usulüne uygun olarak gönderilmiş bir yanıtın ulaşmasının beklenebileceği ana
+kadar, önereni bağlar.”
+
+Öneren, önerisinin karşı tarafa ulaşması için gereken zamanı, karşı tarafın
+düşünmesi için gereken normal süreyi ve usulüne uygun olarak gönderilecek kabul
+haberinin kendisine ulaşması için gerekecek zamanı toplayarak, önerisi ile ne
+kadar süre bağlı olacağını hesap edecektir.  
+
+=== II. KABUL 
+.. Kabul, kendisine önerinin yöneltildiği şahıs tarafından yapılan bir
+beyandır. 
+.. Kabul, karşı tarafın önerene yönelttiği irade beyanıdır.  
+.. Karşı tarafın beyanı, öneriye uygun olarak sözleşmeyi meydana getirme
+arzusunu kesin olarak ifade etmelidir.  Kanun veya tarafların anlaşması ile
+yapılacak sözleşme için bir şekil öngörülmüş olmadıkça ya da öneren kabul için
+bir şekle uyulmasını şart kılmış olmadıkça, kabul beyanı bir şekle tabi
+değildir; sözle, yazı ile veya kanaat verici bir davranışla yapılabilir.  Kanun
+veya tarafların anlaşması sonucu, yapılacak sözleşme bir şekle tabi olduğu
+için, kabul beyanı şekle bağlı olmasına rağmen; bu şekle uyulmadan yapılan
+kabul beyanı, sözleşmeyi kurar, fakat yapılan sözleşme geçerli olmaz. Buna
+karşılık, öneren önerisinde kabul beyanı için bir şekle uyulmasını şart kılmış
+olmasına rağmen karşı tarafın bu şekle uymaksızın yapacağı beyan, kabul
+sayılmaz ve sözleşme kurulmaz. Burada şekle aykırılıktan dolayı geçersizlik
+değil, kabul yapılmamış sayılacağından “yokluk” söz konusudur.  TBK m.6’ya göre
+“Öneren, kanun veya işin özelliği ya da durumun gereği açık bir kabulü beklemek
+zorunda değilse, öneri uygun bir sürede reddedilmediği takdirde, sözleşme
+kurulmuş sayılır.”
+
+==== 1- Kabulün Hükmü
+
+.. Kabulün hükmü, sözleşmenin kurulmasıdır. Bu sebeple kabul, bir yenilik
+doğuran hukuki işlemdir. Geçerli olması hukuki işlemlerde aranan geçerlilik
+şartlarının bulunmasına bağlıdır.  
+.. Kural olarak kabul beyanı ile akit kurulursa da, nasıl öneren önerisini
+belirli bir zamana kadar geri alarak önerisini hükümsüz kılabiliyorsa, karşı
+taraf da kabul beyanını geri alıp sözleşmenin kurulmasına engel olabilir.  
+.. Kabul için tanınan süre içinde önerene ulaşmayan kabul beyanı sözleşmeyi
+kuramaz.  
+
+... Şayet öneri geciktiği için kabul haberi de gecikirse sözleşme kurulmaz;
+öneride bulunanın önerisi ile bağlılığı normal bekleme süresinin geçmesi ile
+sona erer. Ancak öneren önerisinin geciktiğini bilmiyorsa bu hükümden
+yararlanabilir.  Eğer öneren önerisinin geciktiğini biliyorsa, normal bekleme
+süresine önerinin ulaşmasındaki gecikme zamanını da eklemesi gerekir.  Şayet
+öneren önerisinin geciktiğini bilmiyorsa, kabul haberinin normal bekleme
+süresinin geçmesinden sonra gelmesi halinde sözleşme kurulmaz. Ancak, bu kabul
+yeni bir öneri sayılır ve önceki öneren, karşı tarafın bu yeni önerisini kabul
+edip etmemekte serbesttir. Fakat duruma göre, bir ret cevabı vermesi
+gerekiyorsa, bunu yapmaması bir zımni kabul oluşturabilir ve sözleşme bu
+sebeple kurulur. Yahut kabulün geciktiğini bildirmesini dürüstlük kuralı
+gerektiriyorsa, bunu yapmaması halinde, her ne kadar sözleşme kurulmaz ise de
+öneren bu davranış tarzı yüzünden bir tazminat vermeye mecbur kalabilir.
+... Öneri zamanında varmış ve kabul haberi de zamanında gönderilmiş olmakla
+birlikte kabul haberi gecikerek ulaşmış ise bu takdirde TBK m.5/3’e göre
+“Zamanında gönderilen kabul önerene geç ulaşır ve öneren onunla bağlı olmak
+istemezse, durumu hemen kabul edene bildirmek zorundadır.”
+
+=== III. İRADE BEYANLARININ BİRBİRİNE UYGUNLUĞU 
+Güven teorisine göre, bir şahsın davranışını dürüstlük kuralı uyarınca
+kendisine yapılmış bir irade beyanı saymakta haklı gören kimseye karşı, sözü
+geçen davranış, bir irade beyanının unsurlarını ve özellikle hukuki sonuca
+yönelmiş arzuyu taşımasa dahi irade beyanı varmış gibi hukuki sonuç doğurur.
+Davranışı arzusuna aykırı şekilde öneri veya kabul olarak nitelendirilen kimse,
+ancak arzusuna uymayan bir beyanda bulunan kimse gibi yanılma (hata)
+hükümlerine dayanabilir.  
+
+.Örnek
+TIP: (A), bir sözleşme yapma hususunda (B)’ye yazdığı teklif mektubunu
+yanlışlıkla (Ü)’ye gönderirse, aslında (Ü)’ye yapılmış gerçek bir öneri yoktur.
+Fakat (Ü) bu mektubu kendisine yapılmış bir öneri saymakta dürüstlük kuralı
+uyarınca haklı ise, sözü geçen mektup (Ü)’ye yapılmış bir öneri gibi sonuç
+doğurur. (Ü) bu öneriyi kabul ederse güven teorisi uyarınca (A) ile (Ü)
+arasında sözleşme kurulmuş olur. (A) için, ancak yanılma hükümlerine dayanarak
+sözleşmeyi iptal edebilme imkanı vardır.  Varlığı kabul edilen irade
+beyanlarının yorumlanmasında ise güven teorisine göre bir irade beyanına
+verilecek anlam, karşı tarafın, dürüstlük kuralına göre, bildiği veya bilmesi
+gerekli bütün unsurları değerlendirerek vermesi gereken anlamdır.
+
+==== 1- Uyuşmanın kapsamı
+
+Sözleşmenin kurulabilmesi için tarafların müzakere ettikleri veya bir tarafın
+sözleşmede yer almasını istediği bütün konularda irade beyanlarının birbirine
+uygun olması gerekir.  
+
+.. Anlaşma sağlanan noktaların, sözleşmenin meydana gelmesi için asgari
+unsurları kapsaması da şarttır. Bu asgari unsurlara sözleşmenin objektif olarak
+esaslı noktaları adı verilir. Bunlar yapılmak istene sözleşmede mutlaka yer
+alması gereken noktalardır.  
+.. Tarafların birbirine uygun irade beyanlarının sözleşmenin esaslı noktalarını
+kapsaması sözleşmenin kurulması için yeterlidir. Tarafların sözleşmenin ikinci
+derece nokta adı verilen diğer noktalarını hiç görüşmemiş olmaları veya bu
+noktalarda anlaşmayı ileriye bırakmış olmaları sözleşmenin kurulmasına engel
+olmaz. Fakat ikinci derece noktalar görüşülmüş ve anlaşmaya varılamadığı gibi,
+ileride belirlenmesi hususunda da uyuşma olmamışsa sözleşme kurulmaz. Bu
+noktanın sözleşmede yer almasını taraflardan sadece birinin gerekli görmesi,
+sözleşmenin kurulmasına engeldir. Bu şekilde sözleşmede yer alması gerekli
+ikinci derece noktalara sübjektif olarak esaslı noktalar denmektedir. Sadece
+bir tarafın dahi sözleşmede düzenlenmesini istediği konular bu anlamda esaslı
+nokta sayılır.  
+.. Taraflar üzerinde durmadıkları veya düzenlemeyi ileriye bıraktıkları ikinci
+derece noktalar için ileride anlaşmaya varırlarsa bu anlaşmaya uyulur. Fakat
+ileride bu noktalarda anlaşmazlığa düşerlerse TBK m.2/2 hakimin işin özelliğine
+göre bu noktaları tayin edeceğini ifade etmektedir.
+
+==== 2- Sözleşmenin kurulma anı
+
+.. Kabul beyanı hazır olana yöneltilmişse, sözleşme kabul beyanı yapıldığı anda
+kurulur.  
+.. Şayet kabul beyanı hazır olmayan kimseye yöneltilirse, TBK m.5’de
+sözleşmenin kabul haberinin önerene ulaştığı anda kurulacağı esası kabul
+edilmiştir. Önerene ulaşmaktan maksat, kabul haberinin önerenin hakimiyet
+alanına girmesidir.  TBK m.11’de ise kabul haberinin önerene ulaştığı anda
+kurulan sözleşmenin, kabul haberinin gönderildiği andan itibaren hükümlerini
+doğuracağı, yani geriye etkili olarak kabul haberinin gönderildiği tarihte
+sözleşmenin yürürlüğe gireceği esasına yer verilmiştir. Böylece önerene
+gönderilen kabul haberi yolda kaybolur ve önerene ulaşmazsa, sözleşme
+kurulmayacaktır. Fakat kabul haberi önerene ulaşmışsa, kurulan sözleşme geriye
+etkili olarak kabul haberinin gönderildiği tarihte yürürlüğe girmiş
+sayılacaktır.
+
+=== IV. SÖZLEŞMENİN GÖRÜŞME AŞAMASINDA TARAFLARIN YÜKÜMLÜLÜKLERİ 
+
+==== 1- Yükümlülükler
+
+Bir sözleşme görüşmesi taraflar arasında bir hukuki ilişki kurar ve sözleşme
+görüşmesine girişen taraflar bu ilişkide dürüstlük kuralına uygun davranmakla
+yükümlüdürler.  Görüşme aşamasında dürüst davranma yükümlülüğü, sözleşmenin
+yapılması veya şartlarının tespiti hususundaki kararlara etki edecek hususlarda
+aldatıcı davranışta bulunmamayı, gerekli bilgileri karşı tarafa vermeyi
+kapsadığı gibi, karşı tarafın yanıldığını fark etme halinde onu uyarmayı da
+gerektirebilir.  
+
+==== 2-  Yükümlülüğe aykırılığın sonuçları
+
+Bir taraf sözleşmenin görüşülmesi aşamasındaki yükümlülüklerine aykırı
+davranırsa, bu tutumu, bazen sözleşmenin iptaline imkan verir, bazen de
+sözleşme kurulmuş olsun veya olmasın sözleşmenin görüşme safhasındaki kusurlu
+davranışla karşı tarafa verilen zararın tazminini gerektirir (Culpa in
+contrahendo).  
+
+== 3- SÖZLEŞMENİN GEÇERLİLİĞİ
+
+=== I. HER SÖZLEŞMEDE ARANAN ŞARTLAR 
+
+==== 1- Taraflar ehil olmalıdır.
+
+==== 2- Sözleşmenin konusu, emredici hukuk kurallarına, kamu düzenine, genel ahlaka ve kişilik haklarına aykırı olmamalıdır.
+
+==== 3- Sözleşmenin konusu imkansız olmamalıdır.
+
+Sözleşme yapıldığı sırada sözleşmenin konusunu oluşturan edimlerden biri
+objektif olarak imkansız ise, sözleşme geçerli değildir. (TBK m.27) Sözleşmenin
+geçerliliğine etki eden imkansızlık, sözleşmenin yapıldığı anda mevcut olan
+imkansızlıktır. Bu imkansızlığın farkına sonradan varılması sonucu değiştirmez.
+Borcun konusu sözleşmenin yapıldığı sırada imkansız olmakla birlikte,
+tarafların ifa zamanında mümkün hale geleceği düşüncesi ile yaptıkları sözleşme
+geçerlidir.  Buna karşılık, sözleşme yapılırken ifası mümkün olan edim
+sözleşmenin yapılmasından sonra imkansızlaşırsa bu imkansızlık sözleşmenin
+geçerliliğini etkilemez. Bu hallerde sözleşmenin kurulmasından sonra
+gerçekleşen imkansızlık söz konusudur.  Sözleşme yapılırken mevcut olan
+imkansızlığın sözleşmenin geçerliliğine etki edebilmesi için bunun objektif bir
+imkansızlık olması gerekir. Yani sözleşmenin konusu herkes için imkansız
+olmalıdır.  Şayet herkes için değil de, yalnız borcu yüklenen taraf için
+imkansızlık söz konusu ise, bu sübjektif imkansızlık sözleşmenin geçerliliğine
+etki etmez. Sözleşme geçerlidir ve borcunu yerine getiremeyen borçlu borcun ifa
+edilememesinden sorumlu olur.  Edimin objektif olarak imkansız olduğunu
+bilmesine rağmen karşı tarafa bunu söylemeyip sözleşme yapan kimse, bu
+davranışı yüzünden karşı tarafın uğradığı zararı tazminle yükümlü tutulabilir
+(Culpa in contrahendo). Fakat sözleşme hükümsüzdür.
+
+==== 4- İrade beyanları sağlıklı olmalıdır
+
+===== a. Yanılma (hata)
+
+.*TBK m.30*
+[NOTE]
+====
+Sözleşme kurulurken esaslı yanılmaya düşen taraf, sözleşme ile bağlı olmaz. 
+====
+
+Yanılma, ya irade beyanının istenemeyerek arzuya uygun olmaması (açıklamada
+yanılma / beyan hatası) veya arzunun (iradenin) oluşmasına etken olan bir
+hususta düşüncenin gerçek duruma uygun olmamasıdır (saikte yanılma).
+
+====== aa. Esaslı sayılan açıklama yanılmaları
+
+.*TBK m.31*
+[NOTE]
+====
+Özellikle aşağıda sayılan yanılma halleri esaslıdır: +
+
+. Yanılan, kurulmasını istediği sözleşmeden başka bir sözleşme için iradesini
+açıklamışsa +
+. Yanılan istediğinden başka bir konu için iradesini açıklamışsa + 
+. Yanılan, sözleşme yapma iradesini, gerçekte sözleşme yapmak istediği kişiden
+başkasına açıklamışsa +
+. Yanılan, sözleşmeyi yaparken belirli nitelikleri olan bir kişiyi dikkate
+almasına karşın başka bir kişi için iradesini açıklamışsa +
+. Yanılan, gerçekte üstlenmek istediğinden önemli ölçüde fazla bir edim için
+veya gerçekte istediğinden önemli ölçüde az bir karşı edim için iradesini
+açıklamışsa +
+
+Basit hesap yanlışlıkları sözleşmenin geçerliliğini etkilemez; bunların
+düzeltilmesi ile yetinilir. 
+====
+
+Bir kimsenin bir sözleşmeyi yapmak hususunda iradesini beyan ederken, farkında
+olmadan arzusundan farklı bir beyanda bulunması halinde bir açıklamada yanılma
+söz konusu olur.  Şayet beyanda bulunan beyanının arzusundan farklı olduğunu
+biliyorsa, yanılmadan bahsedilemez.  Şayet beyanda bulunanın yanıldığını karşı
+taraf biliyorsa veya hal ve şartlara göre durumu karşı tarafın anlaması
+gerekiyorsa, yanılma hükümleri uygulanmaz. Bu takdirde irade beyanı gerçek
+arzuya uygun şekilde hüküm ifade eder ve karşı tarafın irade beyanının buna
+uygun olup olmamasına göre sözleşme ya gerçek arzuya uygun olarak kurulmuş olur
+veya hiç kurulmaz.  Bir tarafın gerçek arzusuna uygun olmayan irade beyanını
+güven teorisi çerçevesinde yapılan beyana göre anlamakta karşı taraf haklı ise
+sözleşmeyi bu beyana göre kurabilir ve bu takdirde beyanı arzusuna uyamayan
+taraf, ancak yanılma hükümlerine dayanarak sözleşmeden kurtulabilir.  
+
+====== bb. Esaslı sayılan saik yanılması (temel hatası)
+
+.*TBK m.32*
+[NOTE]
+====
+Saikte yanılma, esaslı yanılma sayılmaz. Yanılanın, yanıldığı saiki sözleşmenin
+temeli sayması ve bunun da iş ilişkilerinde geçerli dürüstlük kurallarına uygun
+olması halinde yanılma esaslı sayılır. Ancak bu durumun karşı tarafça
+bilinebilir olması gerekir. 
+====
+
+.. Bir taraf sözleşme yapma arzusunun oluşmasına etki yapan bir hususta
+yanılmış olmalıdır.  
+.. Yanılma konusu husus, yanılan bakımından sözleşmeyi yapması için onsuz
+sözleşmeyi yapmayacağı bir unsura ilişkin olmalıdır.  Yani yanılanın bu hususta
+yanıldığını bilmesi halinde sözleşmeyi hiç veya mevcut şartlarla yapmayacağı
+kabul edilebilmelidir.  Bu şarta, sübjektif olarak esaslı olma şartı da
+denmektedir.  
+.. Yanılma konusu saik, karşı tarafça bilinebilir olmalıdır.  Yanılmanın esaslı
+olması için karşı tarafın kendisine beyanda bulunanın yanıldığını bilmesi veya
+bilecek durumda olması gerekmez. Sadece bu beyanın temel saikini bilmesi veya
+bilecek durumda olması yeterlidir.  
++
+.Örnek
+TIP: Satıcı (A) elindeki tabloyu almak isteyen (B)’nin bu tabloyu ressam (X)
+yaptığı için aldığını biliyor veya bilmesi gerekiyorsa; sonradan tablonun
+ressam (Y) tarafından yapıldığı ortaya çıktığında, (A) da tabloyu ressam (X)
+yaptı sanmış olsa bile, (B) yanılma sebebiyle sözleşmeyi iptal edebilir. Buna
+karşılık, (A), (B)’nin bu tabloyu ressam (X)’e ait sanarak aldığını bilecek
+durumda olmayıp, (B)’nin ressamın (Y) olduğunu bilerek tabloyu aldığını
+düşünmüşse, artık (B) yanılma sebebiyle sözleşmeyi iptal edemez.
++
+.. İş hayatındaki dürüstlük kuralları, yanılmanın sözleşmenin geçerliliğini
+etkilemesini haklı göstermelidir. Bu şarta da objektif bakımdan esaslı olma
+şartı denmektedir. 
+
+====== cc. Esaslı yanılmanın sözleşmeye etkisi
+
+.*TBK m.30*
+[NOTE]
+====
+Sözleşme kurulurken esaslı yanılmaya düşen taraf, o sözleşme ile bağlı olmaz.
+====
+
+Yanılan taraf, yanıldığını öğrenmesinden itibaren bir yıl içinde sözleşmeyi
+hükümsüz kılmak üzere beyanda bulunmazsa sözleşme geçerli hale gelir.
+
+.*TBK m.34*
+[NOTE]
+====
+Yanılan, yanıldığını dürüstlük kurallarına aykırı olarak ileri süremez.
+Özellikle diğer tarafın, sözleşmenin yanılanın kastettiği anlamda kurulmasına
+razı olduğunu bildirmesi durumunda, sözleşme bu anlamda kurulmuş sayılır.
+====
+
+.Örnek
+TIP: (A), (B)’ye 500 olarak öneride bulunmak isterken, yanılarak 300 olarak
+beyanda bulunmuşsa, (A) 300 üzerinden kurulan sözleşmeyi iptal hakkını
+kullanınca, (B), (A)’nın gerçek arzusu 500 üzerinden sözleşmenin ifasını kabul
+ederse, (A)’nın iptal beyanı etkisiz kalır. Zira, bundan sonra (A)’nın
+yanılmaya dayanması, dürüstlük kuralı ile bağdaşmaz.  
+
+.*TBK m.35* 
+[NOTE]
+====
+*f.1* - Yanılan, yanılmasında kusurlu ise, sözleşmenin hükümsüzlüğünden doğan zararı
+gidermekle yükümlüdür. Ancak, diğer taraf yanılmayı biliyor veya bilmesi
+gerekiyorsa, tazminat istenemez.  +
+*f.2* - Hakim, hakkaniyetin gerektirdiği durumlarda,
+ifadan beklenen yararı aşmamak kaydıyla, daha fazla tazminata hükmedebilir.
+====
+
+Bu halde sözleşme öncesi ilişkideki davranıştan sorumluluk (Culpa in
+contrahendo) söz konusudur. Yanılmaya düşmede en küçük ihmal dahi bu
+sorumluluğa yol açar.  Bu sorumluluk için bir görüşe göre haksız fiil
+tazminatına ilişkin hükümler uygulanmalı; diğer bir görüşe göre ise borca
+aykırılık hükümleri uygulanmalıdır. İkinci görüş tazminat alacaklısını
+özellikle kusuru ispat yükü ve zamanaşımı bakımından daha elverişli bir duruma
+getirecektir.  Tazmin edilecek zarar, geçerliliğine güvenilen sözleşmenin
+hükümsüzlüğü yüzünden uğranılan zarardır. Diğer bir ifade ile iptal edilen
+sözleşme hiç yapılmasa idi uğranılmayacak olan zarardır. Bu tip zarara olumsuz
+(menfi) zarar adı verilir.  Sözleşmenin kurulması için yapılan masraflar, ifa
+için hazırlık masrafları, sözleşmenin geçerliliğine güvenilerek başka sözleşme
+yapma fırsatının kaçırılması yüzünden uğranılan zarar, olumsuz zarar kapsamına
+girer.
+
+===== b. Aldatma (Hile)
+
+Aldatma, bir kimsenin, davranışı ile diğer şahsı irade beyanında bulunmaya
+yönlendirmek için o şahısta yanlış bir fikrin doğumuna veya doğrulanmasına ya
+da devamına kasten yol açmaktır. Bu bakımdan aldatma bir kişinin kasten saik
+hatasına düşürülmesi olarak nitelendirilebilir. Bir sözleşmenin yapılmasında
+bir tarafın iradesinin aldatma ile oluşturulmasında, Borçlar Kanunu konuyu
+aldatanın karşı taraf veya bir üçüncü şahıs olmasına göre ayırım yaparak
+düzenlemiştir.  
+
+.*TBK m.36*
+[NOTE]
+====
+*f.1* - Taraflardan biri, diğerinin aldatması sonucu bir sözleşme yapmışsa, yanılması
+esaslı olmasa bile, sözleşmeyle bağlı değildir. +
+*f.2* - Üçüncü bir kişinin aldatması sonucu bir sözleşme yapan taraf,
+sözleşmenin yapıldığı sırada karşı tarafın aldatmayı bilmesi veya bilecek
+durumda olması halinde, sözleşmeyle bağlı değildir.
+====
+
+====== aa. Karşı tarafın aldatması
+
+.. Bir taraf, sözleşme yapma hususunda aldatılmış, yani karşı tarafın davranışı
+ile yanıltılmış olmalıdır.  Aldatma oluşturan davranış aktif bir hareket
+olabileceği gibi, pasif bir davranış da olabilir.  Karşı taraf, sözleşme
+görüşmesi sırasında veya daha önce, var olmayan bir şeyi var olarak ifade etmek
+veya var olan şeyin varlığını inkar etmek suretiyle yalan beyanda bulunmuşsa
+aldatma aktif davranışla yapılmıştır.  Karşı taraf, dürüstlük kuralı uyarınca
+diğer tarafa açıklaması gereken bir hususu açıklamazsa, örneğin karşı tarafın
+yanıldığını anlamasına rağmen dürüstlük kuralına aykırı bir şekilde onu
+uyarmaktan kaçınırsa, aldatma pasif davranışla yapılmıştır. Ancak bir taraf
+diğer tarafı her zaman uyarmak zorunda değildir. Aslında her iki taraf da
+yanılgıya düşmemek için gerekli dikkati kendisi göstermek zorundadır. Fakat bir
+tarafın gerekli dikkate rağmen yanıldığını bilen karşı tarafın, bu yanılmadan
+yararlanmak için uyarıda bulunmaması aldatma sayılabilir.  
+.. Karşı tarafı yanıltan davranış kasten yapılmalıdır.  
+.. Aldatma sözleşmenin yapılmasına sebep olmalıdır.  Hiç yapılmayacak
+sözleşmenin yapılmasını sağlayan aldatmaya asli aldatma, başka şartlarla
+yapılacak sözleşmenin mevcut şartlarla yapılmasını sağlayan aldatmaya fer’i
+aldatma denilmektedir.  
+.. Aldatma teşkil eden davranış, sözleşmenin tarafı veya sözleşmenin
+yapılmasında yardımından yararlandığı bir kimse tarafından yapılmış olmalıdır.  
+
+====== bb. Üçüncü kişinin aldatması
+
+Aldatmayı üçüncü bir kişi yapmış ise, bu aldatmanın sözleşmenin geçerliliğini
+etkilemesi için yukarıda belirtilen ilk üç şartın gerçekleşmiş olmasından
+başka, karşı tarafın bu aldatmayı bilmesi veya bilmesinin gerekli olması şartı
+aranır.  Bu şartın veya diğer şartların gerçekleşmemesi yüzünden aldatma
+hükümlerine dayanılamamasına rağmen, bir tarafın aldatma sonucu düştüğü yanılma
+esaslı bir yanılma ise, yanılma hükümlerine dayanılması mümkündür.
+
+====== cc. Aldatmanın sözleşmeye etkisi
+
+Aldatmaya maruz kalan taraf aldatmayı öğrenmesinden itibaren bir yıl içinde
+sözleşmeyi hükümsüz kılmak üzere beyanda bulunmazsa, sözleşme geçerli hale
+gelir (Düzelebilir hükümsüzlük).  Sözleşme tarafının kendi aldatmasından veya
+yardımcılarının aldatmasından sorumluluğu culpa in contrahendo; üçüncü kişinin
+aldatması ise haksız fiil esaslarına tabi olur.
+
+===== d. Korkutma
+
+Korkutma, hukuka aykırı bir şekilde yapılan tehditle, istenilen irade beyanında
+bulunmadığı takdirde, bir kimsede bir kötülüğe maruz kalacağı kanısı
+uyandırılması, o kimsenin korkutulmasıdır.  
+
+.*TBK m.37*
+[NOTE]
+====
+*f.1* - Taraflardan biri, diğerinin veya üçüncü bir kişinin korkutması sonucu
+bir sözleşme yapmışsa, sözleşmeyle bağlı değildir. +
+*f.2* - Korkutan bir üçüncü kişi olup da diğer taraf korkutmayı bilmiyorsa veya
+bilecek durumda değilse, sözleşmeyle bağlı kalmak istemeyen korkutulan,
+hakkaniyet gerektiriyorsa, diğer tarafa tazminat ödemekle yükümlüdür.
+====
+
+.*TBK m.38*
+[NOTE]
+====
+*f.1* - Korkutulan, içinde bulunduğu durum bakımından kendisinin veya
+yakınlarından birinin kişilik haklarına veya malvarlığına yönelik ağır ve yakın
+bir zarar tehlikesinin doğduğuna inanmakta haklı ise, korkutma gerçekleşmiş
+sayılır. +
+*f.2* - Bir hakkın veya kanundan doğan bir yetkinin kullanılacağı korkutmasıyla
+sözleşme yapıldığından, bu hakkı ve yetkiyi kullanacağını açıklayanın, diğer
+tarafın zor durumda kalmasından aşırı bir menfaat sağlamış olması halinde,
+korkutmanın varlığı kabul edilir.
+====
+
+.. İradesi sakatlanan taraf bir tehdide maruz kalmış olmalıdır.  Tehdidi karşı
+tarafın veya bir üçüncü kişinin yapmış olması, sözleşmenin geçerliliğine
+yaptığı etki bakımından fark yaratmaz, ancak tazminat istenmesi konusunda önem
+taşır.  Hiçbir tehdit olmaksızın bir şahsın kendiliğinden duyduğu korku sonucu
+irade beyanında bulunması halinde ise korkutma söz konusu değildir. Bu korku
+sözleşmenin geçerliliğini etkilemez.  
+.. Yapılan tehdit, ağır ve yakında gerçekleşecek bir tehlikenin mevcut olduğu
+kanısını uyandırmalıdır.  Tehdidin gerçekleşme olanağı bulunmasa bile, tehdide
+uğrayan kişi bunun gerçekleşeceğini düşünmekte haklıysa, yapılan işlem korkutma
+ile sakat sayılmaktadır.  Tehdidin ağırlığı saptanırken tehdit oluşturan
+durumun ortalama anlayışta kişiler üzerinde yapacağı objektif etki değil,
+tehdide maruz kalanın kişisel özelliklerine göre onun üzerinde yapacağı etkinin
+dikkate alınması baskın görüştür.  
+.. Tehditte belirtilen tehlike karşı tarafın şahsına veya yakınlarına yönelik
+olmalıdır. 
+.. Tehdit hukuka aykırı olmaldır.  Bir hakkın veya kanuni yetkinin kullanılması
+söz konusu olmadıkça tehdit hukuka aykırı olduğu gibi, bir hakkın veya kanuni
+yetkinin kullanılacağı tehdidinin tehdit olunan için yarattığı güç durumdan
+aşırı menfaat etmek üzere yararlanılmışsa yapılan tehdit korkutma sayılır. 
+.. Sözleşme, tehdidin yarattığı korku sonucu yapılmış olmalıdır.  
+
+====== aa. Korkutmanın sözleşmeye etkisi
+
+Korkutmaya maruz kalan taraf, korkunun ortadan kalkmasından sonra bir yıl
+içinde sözleşmeyi hükümsüz kılmak üzere beyanda bulunmazsa sözleşme geçerli
+hale gelir (Düzelebilir hükümsüzlük).  Korkutmayı karşı taraf yapmış ise bu
+taraftan, üçüncü kişi yapmış ise ondan, korkutmaya maruz, korkutma sebebiyle
+uğradığı zararların tazminini talep edebilir. Sözleşmeye onay vermiş olma,
+tazminat istemekten feragat anlamına gelmez (TBK m.39/2).  Karşı tarafın
+kendisinin veya yardımcılarının yaptığı korkutmadan sorumluluğu culpa in
+contrahendo, üçüncü kişinin yaptığı korkutmadan bu kişinin sorumluluğu ise
+haksız fiil esaslarına tabi olur.  Korkutmayı üçüncü kişi yapmış ve korkutulan
+korkutma sebebiyle sözleşmeyi iptal etmişse, hakkaniyet gerektirdiği takdirde,
+karşı tarafın iptal yüzünden uğradığı zararı sözleşmeyi iptal eden taraf
+tazminle yükümlüdür (TBK m.37/2). Korkutmaya maruz kalan taraf, ödediği bu
+tazminat için korkutmada bulunan üçüncü kişiye rücu edebilir.  
+
+===== d. İptal hakkı
+
+.*TBK m.39*
+[NOTE]
+====
+*f.1* - Yanılma veya aldatma sebebiyle ya da korkutulma sonucunda sözleşme
+yapan taraf, yanılma veya aldatmayı öğrendiği ya da korkutmanın etkisinin
+ortadan kalktığı andan başlayarak bir yıl içinde sözleşme ile bağlı olmadığını
+bildirmez veya verdiği şeyi geri istemezse, sözleşmeyi onamış sayılır.  +
+*f.2* - Aldatma veya korkutmadan dolayı bağlayıcılığı olmayan sözleşmenin
+onanmış sayılması, tazminat hakkını ortadan kaldırmaz. 
+====
+
+Yenilik doğuran bir hak olan iptal hakkı, hak sahibi tarafından karşı tarafa
+yöneltilecek tek taraflı bir irade beyanı ile kullanılır ve bu beyanın karşı
+tarafa ulaşması ile sözleşme iptal edilmiş, kesin hükümsüz hale getirilmiş
+olur.  İptal beyanının kendisi de yanılma, aldatma veya korkutma ile sakat ise
+bunun da iptali mümkündür. Bu takdirde iptal işlemi baştan itibaren
+hükümsüzleşeceğinden, sözleşme geçerli sayılacaktır.  İptal hakkı mahkeme dışı
+bir beyanla kullanılabilir. Ancak karşı taraf iptal hakkının varlığına itiraz
+ederse, iptal hakkının varlığının, yani yanılma, aldatma veya korkutma
+sebebiyle sözleşmeyi iptal hususunda aranan şartların varlığının veya var
+olmadığının tespiti için dava açılabilir. İptal hakkının varlığı sonucuna
+varacak hakim, sözleşmenin iptaline ilişkin yenilik doğuran bir karar verecek
+değildir. Hakim sadece bir tespit kararı verecektir.  Sözleşmenin iptali kural
+olarak geriye etkilidir. İki taraf da ifa edilmemiş edimlerin ifasını talep
+edemeyecekleri gibi, iptal hakkının kullanılmasından önce ifa edilmiş edimleri
+de geri isteyebilirler.  Yanılma, aldatma veya korkutma sözleşmesinin sadece
+bazı hükümlerine ilişkinse, kısmi geçersizlik (kısmi butlan) kuralı (TBK
+m.27/2) kıyasen uygulanarak sonuca varılması kabul edilmektedir. Böylece, eğer
+bu hükümler olmasaydı sözleşme yapılmayacak idi ise tüm sözleşme iptal
+edilebilecek, aksi takdirde sadece söz konusu hükümler iptal edilebilecektir.
+Yanılan, aldatılan veya korkutmaya maruz kalan taraf, irade beyanındaki
+sakatlığı bilmesine rağmen sözleşme ile bağlı kalmayı arzu ettiği için iptal
+hakkından feragat ederse, iptal hakkı düşer, sözleşme geriye etkili olarak
+geçerli hale gelir.  İptal hakkından feragata, sözleşmeyi onama da
+denilmektedir. Bu onama, karşı tarafa yöneltilecek açık (sarih) bir irade
+beyanı ile açıklanabileceği gibi, iptal hakkı sahibinin kanaat verici
+davranışından da çıkarılabilir. Bu örtülü (zımni) onama denilir.  Onama
+beyanının kendisi de yanılma, aldatma veya korkutma ile sakatsa iptal
+edilebilir ve bu takdirde sözleşmenin iptaline ilişkin bir yıllık süre
+doluncaya kadar geçersizlik gene ileri sürülebilir.  Bir yıllık hak düşürücü
+sürenin başlangıcı, yanılma ve aldatmada bunların anlaşıldığı tarih, korkutmada
+ise korkunun ortadan kalktığı tarihtir.
+
+==== 5- Muvazaa bulunmamalıdır.
+
+Bir sözleşmede muvazaa, tarafların, yaptıkları sözleşmenin hiç hüküm
+doğurmaması (basit muvazaa) veya görünüşteki sözleşmeden başka bir sözleşmenin
+hükümlerini doğurması (nitelikli muvazaa) hususundaki anlaşmalarıdır.  Muvazaa,
+sözleşmenin tamamını kapsıyorsa tam muvazaadan, sözleşmenin sadece bazı
+hükümlerine ilişkin ise kısmi muvazaadan söz edilmektedir.  Muvazaalı sözleşme,
+muvazaa sebebiyle hüküm doğurmaz. Muvazaalı sözleşme taraflar için olduğu kadar
+üçüncü kişiler için de hükümsüzdür.  Hükümsüzlük kural olarak, üçüncü kişilere
+karşı da, onlar tarafından da ileri sürülebilir. Üçüncü kişiler muvazaayı bir
+ispat şekline tabi olmadan ispat edebilir.  Öğretide, muvazaada bir butlan
+(kesin hükümsüzlük) değil de, bir yokluk halinin söz konusu olduğunu savunanlar
+da vardır. Bu görüş, muvazaalı işlemin ardında hiçbir irade bulunmadığını,
+böylece, işlemin yapılmamış sayılması gerektiği düşüncesine dayanmaktadır. Bir
+diğer görüşe göre ise ortada şeklen bile olsa karşılıklı irade beyanları
+varken, yokluktan söz edilemez; ancak tarafların arzusuna dayanan geçersizlik
+söz konusu olabilir.  Şayet bir nitelikli muvazaa söz konusu olup muvazaalı
+sözleşme başka bir sözleşmeyi gizlemek için yapılmışsa, gizli sözleşme
+geçerlilik şartlarına sahip ise muvazaadan etkilenmez, geçerli bir sözleşme
+olarak hükümlerini doğurur.  Ancak şekle aykırılık sebebiyle hükümsüzlüğün
+ileri sürülmesinin hakkın kötüye kullanılması sayılabildiği hallerde gizli
+sözleşmenin şekilsizliği iddiası dinlenmeyecektir. 
+
+=== II. BAZI SÖZLEŞMELERDE ARANAN ŞARTLAR 
+
+==== 1- Aşırı Yararlanma bulunmaması
+
+Aşırı yararlanmanın esası, bir sözleşmede bir tarafın edimi ile diğer tarafın
+edimi arasında açık bir oransızlık bulunmasıdır. Şayet böyle bir oransızlık bir
+tarafın zor durumda olmasını, düşüncesizliğini veya deneyimsizliğini diğer
+tarafın kötüye kullanması sonucu ise, aşırı yararlanma sözleşmenin
+geçerliliğini etkiler.
+
+.*TBK m.28*
+[NOTE]
+====
+*f.1* - Bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa,
+bu oransızlık, zarar görenin zor durumda kalmasından veya düşüncesizliğinden ya
+da deneyimsizliğinden yararlanılmak suretiyle gerçekleştirildiği takdirde,
+zarar gören, durumun özelliğine göre ya sözleşme ile bağlı olmadığını diğer
+tarafa bildirerek ediminin geri verilmesini ya da sözleşmeye bağlı kalarak
+edimler arasındaki oransızlığın giderilmesini isteyebilir. +
+*f.2* - Zarar gören bu hakkını, düşüncesizlik veya deneyimsizliğini öğrendiği;
+zor durumda kalmada ise, bu durumun ortadan kalktığı tarihten başlayarak bir
+yıl ve her halde sözleşmenin kurulduğu tarihten başlayarak beş yıl içinde
+kullanabilir.
+====
+
+Karşılıklı edimler içeren sözleşmelerde karşılıklı edimler arasındaki açık
+oransızlık sözleşmenin geçerliliğini tek başına etkilemez. Ancak TBK m.28’deki
+diğer şartlar bulunuyorsa aşırı yararlanma sebebiyle sözleşme iptal edilebilir. 
+
+===== aa. Edimler arası açık oransızlık
+
+Buna gabinin (aşırı yararlanma) objektif şartı da denmektedir.  Karşılıklı
+edimler arasında açık oransızlık bulunup bulunmadığı edimlerin sözleşmenin
+kurulması anındaki değerleri objektif olarak takdir edilerek belirlenecektir.
+Sözleşmenin kurulmasından sonra edimlerin değerlerinde meydana gelen
+değişiklikler göz önüne alınmayacağı gibi, bir tarafın edimine verdiği
+sübjektif değer de dikkate alınmayacaktır.
+
+===== bb.  Karşılıklı edimler arasında açık oransızlık, zarar görenin zor durumda kalmasından, düşüncesizliğinden veya deneyimsizliğinden karşı tarafın yararlanması ile meydana getirilmiş olmalıdır. 
+
+İstismara elverişli duruma gabinin sübjektif şartı da denmektedir.  Aşırı
+yararlanmanın söz konusu olabilmesi için aşırı yararlanan tarafın karşı tarafın
+durumunu bilmesi ve bundan yararlanarak sözleşmeyi yapmış olması gerekir.
+Sözleşmenin yapılması teklifinin aşırı yararlanandan gelmiş olması şart
+değildir. Teklif mağdurdan da gelmiş olabilir. Önemli olan mağdurun durumundan
+bilerek yararlanmış olmaktır.  TBK m.28’de aranan şartlar gerçekleşirse aşırı
+yararlanmadan zarar gören taraf, durumun özelliğine göre, ya sözleşme ile bağlı
+olmadığını diğer tarafa bildirerek ediminin geri verilmesini (henüz ifada
+bulunmamışsa bu borçtan kurtulmayı) ya da sözleşme ile bağlı kalarak edimler
+arasındaki oransızlığın giderilmesini isteyebilir.  Oransızlığın giderilmesi
+istenmişse, bunun mutlaka edimlerin değerleri eşitlenecek ölçüde arttırma veya
+indirme şeklinde yapılması gerekmez. Diğer tarafın katlanması beklenecek ölçüye
+kadar orantısızlığın azaltılması yeterlidir.  TBK m.28/2 uyarınca, zarar gören,
+sözleşmeyi iptal veya edimler arasındaki oransızlığın giderilmesi hakkını,
+düşüncesizliğini veya deneyimsizliği öğrendiği tarihten, zor durumda kalmada
+ise bu durumun ortadan kalktığı tarihten başlayarak bir yıl ve her halde
+sözleşmenin kurulduğu tarihten başlayarak beş yıl içinde kullanabilir.
+
+==== 2-  Şekle uyulması
+
+===== a. Kanunda öngörülen şekle uyulması
+
+.*TBK m.12*
+[NOTE]
+====
+*f.1* - Sözleşmelerin geçerliliği, kanunda aksi öngörülmedikçe, hiçbir şekle
+bağlı değildir. +
+*f.2* - Kanunda sözleşmeler için öngörülen şekil, kural olarak geçerlilik
+şeklidir. Öngörülen şekle uyulmaksızın kurulan sözleşmeler hüküm doğurmaz. 
+====
+
+Borçlar Kanunu sözleşmeler için iki şekil öngörmektedir: adi yazılı
+şekil ve resmi şekil.
+
+====== aa. Adi yazılı şekil
+
+Sözleşmeyi oluşturan irade beyanlarının veya beyanlardan birinin yazılı bir
+metinde açıklanması ve beyanda bulunan tarafından imzalanması adi yazılı şekli
+gerçekleştirir. Adi yazılı şekilde düzenlenen belgeye adi senet denilmektedir.
+Borçlar Kanununda adi yazılı şekil alacağın devri (TBK m.183), önalım (şuf’a)
+(TBK m.237/3), kefalet (TBK m.583), taşınır için bağışlama vaadi (TBK m.288/1)
+sözleşmeleri için öngörülmüştür.
+
+====== bb. Resmi şekil
+
+Resmi şekil, sözleşmeyi oluşturan irade beyanlarının kanunda belirtilen usule
+göre resmi memur tarafından düzenlenen belgede açıklanması ile
+gerçekleştirilir. Resmi şekle uyularak düzenlenen belgeye resmi senet adı
+verilir.  Resmi şekle tabi sözleşmelerin en önemlileri, taşınmaz mülkiyetini
+nakil borcu doğuran sözleşmelerdir. Taşınmaz üzerinde irtifak hakkı kurmaya
+yönelik sözleşmelerle, taşınmaz rehni (ipotek) kurmaya yönelik sözleşmeler de
+kural olarak resmi şekle tabidir.
+
+Borçlar Kanunun 12. Maddesin 2. Fıkrasında belirtildiği üzere, kanunun
+geçerlilik şartı olarak aradığı şekle uyulmadan yapılan sözleşme hüküm
+doğurmaz. Bu hükümsüzlük zamanın geçmesi ile veya onama ile ortadan kalkmaz,
+herkes tarafından ileri sürülebilir ve hakim tarafından re’sen göz önüne
+alınması gerekir.  Şekle uyulmaması sebebiyle hükümsüz olan sözleşmede, başka
+bir sözleşmeye ilişkin şekle uyulmuş ise ve eğer tarafların yaptıkları
+sözleşmenin hükümsüzlüğünü bilmiş olsalardı şekline uyulan diğer sözleşmeyi
+yapacakları kabul edilebiliyorsa ve bu sözleşme için aranan geçerlilik tamamsa,
+şekil noksanı sebebiyle hükümsüz sözleşmenin, şekline uyulan sözleşmeye
+çevrilmesi ve böylece hüküm doğurması kabul edilmektedir. Bu işleme çevirme
+(tahvil) adı verilmektedir.  Şekil noksanı sebebiyle hükümsüzlüğü ileri sürme
+hakkı kötüye kullanılıyorsa bunu kanun himaye etmez, sözleşme geçerli imiş gibi
+sonuçlar doğar.
+
+===== b. Taraflarca kararlaştırılan şekle uyulması
+
+.*TBK m.17*
+[NOTE]
+====
+*f.1* - Kanunda şekle bağlanmamış bir sözleşmenin taraflarca belirli bir
+şekilde yapılması kararlaştırılmışsa, belirlenen şekilde yapılmayan sözleşme
+tarafları bağlamaz.  +
+*f.2* - Herhangi bir belirleme olmaksızın yazılı şekil kararlaştırılmışsa,
+yasal yazılı şekle ilişkin hükümler uygulanır.
+====
+
+==== 3- Genel işlem koşullarına getirilen sınırlara uyulması
+
+.*TBK m.20*
+[NOTE]
+====
+*f.1* - Genel işlem koşulları, bir sözleşme yapılırken düzenleyenin, ileride
+çok sayıdaki benzer sözleşmede kullanmak amacıyla, önceden, tek başına
+hazırlayarak karşı tarafa sunduğu sözleşme hükümleridir. Bu koşulların,
+sözleşme metninde veya ekinde yer alması, kapsamı, yazı türü ve şekli,
+nitelendirmede önem taşımaz. +
+*f.2* - Aynı amaçla düzenlenen sözleşmelerin metinlerinin özdeş olmaması, bu
+sözleşmelerin içerdiği hükümlerin, genel işlem koşulu sayılmasını engellemez. +
+*f.3* - Genel işlem koşulları içeren sözleşmeye veya ayrı bir sözleşmeye
+konulan bu koşulların her birinin tartışılarak kabul edildiğine ilişkin
+kayıtlar, tek başına, onları genel işlem koşulu olmaktan çıkarmaz. +
+*f.4* - Genel işlem koşullarıyla ilgili hükümler, sundukları hizmetleri kanun
+veya yetkili makamlar tarafından verilen izinle yürütmekte olan kişi ve
+kuruluşların hazırladıkları sözleşmelere de, niteliklerine bakılmaksızın
+uygulanır. 
+====
+.*TBK m.21*
+[NOTE]
+====
+*f.1* - Karşı tarafın menfaatine aykırı genel işlem koşullarının sözleşmenin
+kapsamına girmesi, sözleşmenin yapılması sırasında düzenleyenin karşı tarafa,
+bu koşulların varlığı hakkında açıkça bilgi verip, bunların içeriğini öğrenme
+imkanı sağlanmasına ve karşı tarafın da bu koşulları kabul etmesine bağlıdır.
+Aksi takdirde, genel işlem koşulları yazılmamış sayılır. +
+*f.2* - Sözleşmenin niteliğine ve işin özelliğine yabancı olan genel işlem
+koşulları da yazılmamış sayılır.
+====
+.*TBK m.22*
+[NOTE]
+====
+Sözleşmenin yazılmamış sayılan genel işlem koşulları dışındaki hükümleri
+geçerliliğini korur. Bu durumda düzenleyen, yazılmamış sayılan koşullar
+olmasaydı diğer hükümlerle sözleşmeyi yapmayacak olduğunu ileri süremez.
+====
+.*TBK m.23*
+[NOTE]
+====
+Genel işlem koşullarında yer alan bir hüküm, açık ve anlaşılır değilse veya
+birden çok anlama geliyorsa, düzenleyenin aleyhine ve karşı tarafın lehine
+yorumlanır.
+====
+.*TBK m.24*
+[NOTE]
+====
+Genel işlem koşullarının bulunduğu bir sözleşmede veya ayrı bir sözleşmede yer
+alan ve düzenleyene tek yanlı olarak karşı taraf aleyhine genel işlem koşulları
+içeren sözleşmenin bir hükmünü değiştirme ya da yeni düzenleme yetkisi veren
+kayıtlar yazılmamış sayılır.
+====
+.*TBK m.25*
+[NOTE]
+====
+Genel işlem koşullarına, dürüstlük kurallarına aykırı olarak, karşı tarafın
+aleyhine veya onun durumunu ağırlaştırıcı nitelikte hükümler konulamaz.
+====
+
+== 4- SÖZLEŞMENİN HÜKÜMSÜZLÜĞÜ
+
+=== I. YOKLUK
+
+Sözleşmenin kurucu unsurlarını teşkil eden karşılıklı ve birbirine uygun irade
+beyanlarının bulunmaması halinde sözleşme varlık kazanamaz, sözleşme ilişkisi
+kurulmaz; sözleşme yoktur.  Bir sözleşmenin yokluğu her zaman ilgili herkes
+tarafından ileri sürülebilir. Açılmış herhangi bir davada, bir sözleşmenin
+yokluğu anlaşılırsa, yokluğu hiç kimse ileri sürmemiş olsa dahi, hakim re’sen
+gözönüne almak zorundadır.
+
+=== II. KESIN HÜKÜMSÜZLÜK (BUTLAN)
+
+Kurucu unsurları mevcut olduğu için sözleşme kurulmuş olmakla beraber,
+geçerlilik şartlarından kamu düzenini ilgilendirecek önemde bulunanların
+gerçekleşmemiş olması halinde sözleşme kesin hükümsüzdür.  Bir sözleşmenin
+kesin hükümsüzlüğünü gerektiren sebepler, irade beyanında bulunan kimsenin
+ehliyetsizliği, sözleşmenin konusunun emredici hukuk kurallarına, kamu
+düzenine, genel ahlaka ve kişilik haklarına aykırı veya imkansız olması,
+sözleşmenin geçerliliği için aranan şekle uyulmaması, sözleşmenin muvazaalı
+olmasıdır.  Borç doğuran sözleşmeler bakımından tıpkı yoklukta olduğu gibi,
+kesin hükümsüzlük durumu da ilgili herkes tarafından her zaman ileri
+sürülebilir; sözleşmeyi hükümsüz kılmak için bir dava açmaya ihtiyaç olmadığı
+gibi sözleşmeyi hükümsüz kılmak için bir beyana da ihtiyaç yoktur; sözleşme
+kendiliğinden hükümsüzdür. Açılmış herhangi bir davada sözleşmenin kesin
+hükümsüzlüğü anlaşılırsa, hiç kimse kesin hükümsüzlüğü ileri sürmüş olmasa dahi
+hakim sözleşmenin hükümsüzlüğünü re’sen göz önüne almak zorundadır. Bir sürenin
+geçmesi veya sakat unsurun düzeltilmesi ile kesin hükümsüz sözleşme geçrli hale
+gelmez; ancak sözleşmenin geçerli olacak şekilde yeniden yapılması gerekir.
+Kesin hükümsüz sözleşmeye dayanan borcun ifa edilmiş olması da sözleşmeyi
+geçerli hale getirmez. Ancak kesin hükümsüzlüğü ileri sürme hakkının kötüye
+kullanılması hallerinde kesin hükümsüzlüğü ileri süren korunmaz.
+
+=== III. IPTAL EDILEBILIRLIK
+
+Bu tarz geçersizlik hallerinde bir yandan sözleşmenin geçerliliğini etkileyen
+sakatlığı giderek sözleşme ilişkisini geçerli hale getirmek, diğer yandan
+sakatlık yüzünden sözleşmeyi kesin olarak hükümsüzleştirmek imkanı vardır.  Bu
+hükümsüzlük hallerinin bir kısmında iptal hakkı sahibi sözleşme ile
+başlangıçtan beri bağlı değildir. Fakat kanunda öngörülen bir süre içinde iptal
+hakkını kullanmazsa veya henüz süre bitmeden iptal hakkından feragat ederse,
+söz konusu sözleşme geçerli hale gelir. Bu sebeple bir düzelebilir hükümsüzlük
+söz konusu olur. 
+
+İptal hakkı kullanılmadıkça, hakim hükümsüzlüğü kendiliğinden göz önüne alamaz.
+İptal hakkı karşı tarafa yöneltilen tek taraflı bir beyanla kullanılır, dava
+açılması gerekmez.  Bir sözleşmede bir tarafın irade beyanının, yanılma,
+aldatma veya korkutma sebebiyle sakat olması halinde, bir düzelebilir
+hükümsüzlük söz konusudur.  İptal edilebilirliğin diğer bir şekli bozulabilir
+geçerlilik halidir. Bu halde, geçerlilik şartının eksikliğine rağmen sözleşme
+başlangıçtan itibaren hüküm doğurur. Fakat iptal hakkı sahibi bu hakkını
+kullanarak, sözleşmeyi geriye etkili şekilde kesin olarak hükümsüzleştirebilir.
+İptal hakkının gene kanunda öngörülen süre içinde kullanılması gerekir. Bir
+sözleşmede bir tarafın aşırı yararlanmaya maruz kalması halinde bozulabilir
+geçerlilik söz konusudur.
+
+=== IV. NOKSANLIK
+
+Kurucu unsurları bulunduğu için kurulmuş olan bir sözleşmenin hüküm ifade
+etmesi bakımından bir veya birkaç unsurla tamamlanması gerekiyorsa, sözleşme
+tamamlanmamış durumdadır. Bu hükümsüzlük hali için noksanlık (eksiklik) deyimi
+kullanılabilir.  Noksanlık bulunan hallerde sözleşmenin hüküm ifade etmesi
+askıdadır. Ya tamamlayıcı unsurlar gerçekleşecek ve sözleşme hüküm ifade
+edecektir, ya da bir tamamlayıcı unsurun gerçekleşmeyeceği kesin olarak kesin
+olarak belli olacak ve sözleşme kesin olarak hükümsüzleşecektir.  Tamamlayıcı
+unsur gerçekleşince sözleşme hüküm ifade eder. Unsurun gerçekleşmesiyle
+sözleşmenin başlangıçtan itibaren hüküm doğurup doğurmayacağı, söz konusu
+unsurun niteliğine bağlıdır. Sonra gerçekleşen unsur, başlangıçtaki bir
+eksikliği gideriyorsa, unsurun gerçekleşmesi ile sözleşmenin başlangıçtan
+itibaren hüküm doğuracağı kabul edilmektedir.  Örnek: Ayırt etme gücü olan
+küçük ve ayırt etme gücü olan kısıtlıların yasal temsilcinin iznine bağlı
+sözleşmeleri izin almadan yapmaları halinde, yasal temsilcinin onay vermesi;
+bir kimsenin yetkisiz olarak başkasını temsil etmesi halinde, temsil olunanın
+onay vermesi, böyle bir sonuç doğurur.
+
+=== V.  KISMI HÜKÜMSÜZLÜK 
+
+.*TBK m.27*
+[NOTE]
+====
+*f.2* -  Sözleşmenin içerdiği hükümlerden bir kısmının hükümsüz olması,
+diğerlerinin geçerliliğini etkilemez. Ancak, bu hükümler olmaksızın sözleşmenin
+yapılmayacağı açıkça anlaşılırsa, sözleşmenin tamamı kesin olarak hükümsüz
+olur.
+====
+
+=== VI. SÜREKLI SÖZLEŞMELERDE GEÇERSIZLIK
+Sürekli sözleşmelerde kesin hükümsüzlük hallerinde fiili sözleşme ilişkisi
+kavramından yararlanılmasını uygun çözüm olarak önerenler vardır.  Söz konusu
+teoriye göre, sözleşme yapmak ve böylece bir karşı edim borçlanmak şartıyla
+kamuya sunulan hizmetlerden yararlanan kişi, gerçekte böyle bir sözleşme yapmak
+istemeksizin karşılıksız olarak bu hizmetten yararlanmış olsa bile, dürüstlük
+kuralı uyarınca fiilen kurulmuş olan bir borç ilişkisi ile bunun bedelini
+borçlanmış sayılacaktır. Bu sonuç için, sunulmuş olan edimden yararlanılmış
+olması yeterli görülmektedir.  Örnek: Kiracının kiralananı kullanmaya başladığı
+kira sözleşmesi veya işçinin çalışmaya başladığı iş sözleşmesi kesin olarak
+hükümsüz ise, malın kullanılmaya başlaması ile bir fiili kira ilişkisi; işçinin
+çalışmaya başlaması ile fiili hizmet ilişkisi kurulmuştur. Söz konusu çözümde,
+bu ilişkiye geçersiz sözleşmenin kanuna aykırı düşmeyen hükümleri ve kanun
+hükümleri uygulanır. İfa edilmiş borçlar bu çerçevede değerlendirilir.  Fiili
+sözleşme ilişkisi ile çözüm kabul edilmediği takdirde, taraflar geçersiz
+sözleşme ilişkisi sayesinde birbirinden sağladıkları yararları vekaletsiz iş
+görme veya sebepsiz zenginleşme hükümlerine göre iade ile borçlu olacaklardır.
+
+== 5- SÖZLEŞME YAPMA VAADİ 
+Bir kimse bir şahısla yaptığı bir sözleşmede, ileride o şahısla veya bir üçüncü
+kişi ile belirlenen bir sözleşmeyi yapmayı taahhüt ederse bu taahhüdün yer
+aldığı sözleşmeye, ön sözleşme veya sözleşme yapma vaadi denilir. Böyle bir
+taahhütte bulunan kimse taahhüdü gereğince asıl sözleşmeyi yapmakla yükümlüdür.
+Bir ön sözleşmeden (sözleşme yapma vaadinden) bahsedebilmek için, ileride
+yapılacak sözleşmenin bir borç doğuran sözleşme olması gerekir. Şayet yapılması
+taahhüt edilen sözleşme bir tasarruf işlemi ise, bu taahhüdün yer aldığı
+anlaşma bir ön sözleşme değil, başlı başına bir sözleşmedir.  Örnek: Bir
+taşınır malın mülkiyetinin bir bedel karşılığında devri vaadi bir ön sözleşme
+değil, başlı başına bir alım-satım sözleşmesidir.  Fakat böyle bir alım-satım
+sözleşmesini yapma vaadi bir ön sözleşmedir.  Ön sözleşmenin geçerliliği de
+sözleşmeler için aranan geçerlilik şartlarına tabidir.  Asıl sözleşme tarafları
+korumak için bir şekle tabi tutulmuş ise, kanunda aksi öngörülmedikçe ön
+sözleşmenin geçerliliği de aynı şekle tabidir.  Ön sözleşmede ileride yapılacak
+asıl sözleşmenin konusunun da genel hatları ile belirlenmiş olması veya nasıl
+belirleneceğinin kararlaştırılmış olması gerekir.
+
+== 6- TEK TARAFLI İRADE BEYANI İLE BORÇ İLİŞKİSİ KURULMASI
+
+=== I. SÖZLEŞME ILIŞKISI KURACAK YENILIK DOĞURAN HAKLARIN KULLANILMASI
+
+Bazı kurucu yenilik doğuran hakların tek taraflı irade beyanı ile kullanılması
+üzerine taraflar arasında bir sözleşme ilişkisi kurulmuş olur. Bu husustaki
+tipik örnekler alım (iştira), önalım (şuf’a) ve gerialım (vefa) haklarının
+kullanılmasıdır.
+
+=== II. İLAN YOLU ILE ÖDÜL SÖZÜ VERME
+
+.*TBK m.9*
+[NOTE]
+====
+*f.1* - Bir sonucun gerçekleşmesi karşılığında ödül vereceğini ilan yoluyla
+duyuran kimse, sözünü yerine getirmekle yükümlüdür.  +
+*f.2* - Ödül sözü veren, sonucun gerçekleşmesinden önce sözünden cayarsa veya
+sonucun gerçekleşmesini engellerse, dürüstlük kurallarına uygun olarak yapılan
+giderleri ödemekle yükümlüdür. Ancak, bir ya da birden çok kişiye ödenecek
+giderlerin toplamı, ödülün değerini aşamaz. + 
+*f.3* - Ödül sözü veren, giderlerinin ödenmesini isteyenlerin beklenen sonucu
+gerçekleştiremeyeceklerini ispat ederse, giderleri ödeme yükümlülüğünden
+kurtulur.
+====
+
+Söz verenin bu beyanı ile borç altına girdiği, fakat borcun, edimin
+gerçekleşmesi ile hüküm ifade edeceği kabul edilmektedir. Edimi gerçekleştiren
+kimsenin bunu ödülü almak için yapmış olup olmaması önem taşımaz. Edimi
+gerçekleştiren kimse ödül ilanından hiç haberi olmadan (hatta henüz ilan
+yapılmadan) bunu yerine getirmiş olsa dahi, aksi vaatten anlaşılmadıkça bu
+şahsın ödülü almaya hak kazanacağı kabul edilmektedir.
+
+== 7- SEBEBİ GÖSTERİLMEDEN BORÇ TANINMASI (İKRARI) 
+Bir kimse diğerine karşı taahhüt ettiği borcun sebebini göstermemiş ise sebebi
+gösterilmeden bir borç tanınması söz konusu olur. Böyle bir tanımanın
+geçerliliği bir şekle bağlı değilse de çok kere böyle bir taahhüt bir senette
+yer alır.  Sebebi gösterilmeden borç tanıması geçerli ise de, şayet bu
+tanımanın gerçekte geçerli bir sebebi yoksa tanımaya dayanan alçağın geçersiz
+mi sayılacağı yoksa geçerli olmakla birlikte bir sebepsiz zenginleşme mi
+oluşturacağı tartışmalıdır.  Alman Hukukundan etkilenen bir görüş borç
+tanımasının geçerli bir sebebi bulunmasa dahi, alacaklının tanımanın konusu
+alacağı kazandığını fakat bu alacağın sebepsiz zenginleşme oluşturacağını kabul
+etmektedir. Bu görüşün temel dayanağı, sebepsiz zenginleşmeye ilişkin TBK
+m.82/f.2’de yer alan “Zenginleşme, zenginleşenin bir alacak hakkı kazanması
+suretiyle gerçekleşmişse diğer taraf, istem hakkı zamanaşımına uğramış olsa
+bile, her zaman bu borcunu ifadan kaçınabilir.” hükmüdür. Bu görüşe göre, bir
+borç ilişkisinden doğmuş bir alacak, sebep gösterilmeden tanınınca, temel
+ilişkiden doğan alacağın yanında bir de mücerret / soyut bir alacak doğar.
+İkinci alacak birincinin ifasını hedef alan bir alacaktır. Bu soyut alacak
+ödenince, temel ilişkideki alacak da sona erer.  Fransız Hukukundan etkilenen
+bir diğer görüş, sebebi gösterilmeden borç tanınmasının mevcut alacakla eş
+içerikli, fakat geçerliliği temel ilişkideki alacağa bağlı bir alacak hakkı
+doğuracağını ve böylece ispat kolaylığı sağladığını kabul etmektedir.  İki
+görüş arasında uygulama açısından önemli fark, soyut borç tanınmasının geçerli
+bir sebebi bulunmadığının dava dosyasından anlaşılması halinde hakimin bunu
+kendiliğinden göz önüne alıp alamamasında görülür. Sebepsiz zenginleşme söz
+konusu ise hakim bunu kendiliğinden göz önüne alamaz, davalı (borçlu)
+tarafından ileri sürülmesi gerekir. Ancak geçerli sebebin bulunmamasının borç
+tanımasını geçersiz kıldığı kabul edilirse, hakim bunu kendiliğinden dikkate
+alabilir.  Fakat her iki görüşe göre de, sebebi gösterilmeden borç tanınması
+durumunda alacaklı bunun sebebini belirtmek ve ispat zorunda olmadan alacağını
+takip edebilir. Ancak borçlu borç tanımasında bulunduğu tarihte bu borcun
+geçerli sebebinin bulunmadığını ileri sürerek ifadan kaçınabilir. Geçerli
+sebebin bulunmadığını ispat borçluya düşer.  
+
+== 8- TEMSİL 
+Temsil, bir hukuki işlemi bir kişinin başka bir kişi adına ve hesabına yapması
+ve işlemin hukuki sonuçlarının bu kişi üzerinde doğmasını sağlamasıdır.  
+
+TE:: Başkası (TO) yerine, onun adına hukuki işlemi yapan kişi, temsilci.  +
+TO:: (TE)’nin adına hareket ettiği kişi, temsil olunan. +
+Ü:: Temsilci (TE)’nin kendisi ile hukuki işlemi yaptığı üçüncü şahıs.  
+
+(TE), (TO)’nun yerine onun için (Ü) ile hukuki işlemi yaparken iki yoldan
+birine başvurabilir.
+
+. Dolaylı temsil: (TE), hukuki işlemi (TO) için yaptığından söz etmeksizin (Ü)
+ile hukuki işlemi kendi adına yaptıktan sonra bu işlemden doğan hak ve borçları
+(TO)’ya naklederse, dolaylı temsil söz konusu olur. Dolaylı temsilci hukuki
+işlemi kendi adına fakat başkası hesabına yapmaktadır.
+
+. Doğrudan doğruya temsil: (TE)’nin, (Ü) ile hukuki işlemi yaparken, bu işlemi
+temsil olunan (TO) adına ve hesabına yapması ve bu hukuki işlemden doğan hak ve
+borçların doğrudan doğruya (TO)’ya ait olması halidir. Buna doğrudan temsil
+denmektedir.  Kural olarak, ister tek taraflı ister iki veya çok taraflı işlem
+olsun, ister borçlandırıcı işlem ister tasarruf işlemi olsun, bütün hukuki
+işlemler temsil yoluyla yapılabilirse de; bazı hukuki işlemler vardır ki temsil
+yolu ile yapılmaları mümkün değildir.  
+
+.Örnek
+TIP: Temsil yoluyla evlenme mümkün
+değildir. Keza bir kimse temsil yoluyla vasiyetname yapamaz.  Diğer şahsen
+kullanılacak haklarda da hakların kullanılmasına karar verme yetkisi bir
+temsilciye bırakılamaz, fakat hak sahibi hakkını kullanmaya karar verdikten
+sonra bunun kullanılması ile ilgili işlemleri yapmak üzere bir temsilciyi
+yetkili kılabilir.  
+
+.Örnek
+TIP: Boşanmaya karar veren kimse, boşanma davası açıp
+yürütmek üzere bir avukata vekalet verebilir.  
+
+=== I. DOĞRUDAN TEMSİLİN ŞARTLARI
+.*TBK m.40*
+[NOTE]
+====
+*f.1* - Yetkili bir temsilci tarafından bir başkası adına ve hesabına yapılan
+hukuki işlemin sonuçları, doğrudan doğruya temsil olunanı bağlar.
+====
+
+Doğrudan temsilin söz konusu olabilmesi için, (TE), (TO) adına hukuki muameleyi
+yapmalı ve buna yetkili olmalıdır.
+
+==== A.  Hukuki İşlemi Temsil Olunan Adına Yapma 
+
+Hukuki işlemin (TO) adına yapıldığının kabul edilmesi için, (TE), temsil olunan
+adına hareket etmeli ve karşı taraf (Ü)’ye bunu bildirmelidir.
+
+===== 1- Temsil olunan adına hareket
+
+(TE) hukuki işlemi (TO) adına yapma iradesi ile hareket etmemişse, işlemi kendi
+adına veya (TO)’dan başka bir şahıs adına yapma iradesi ile hareket etmişse,
+(TE) ile (Ü) arasındaki hukuki işlemde (TE)’nin (TO)’nun temsilcisi olduğundan
+söz edilemez.  Ancak (Ü) güven teorisine göre (TE)’nin davranışını (TO)’nun
+temsil edilmesi olarak değerlendirmekte haklı ise durum değişir ve buradaki
+şart gerçekleşmiş sayılabilir.
+
+===== 2- Temsilci olduğunu bildirme ve istisnaları
+
+.. (TE)’nin hukuki işlemi (TO) adına yaptığını karşı taraf (Ü)’ye bildirmesi,
+sözle, yazıyla veya bir davranışla olabilir. Temsilcinin, temsil ettiği şahsın
+adını açıklamaksızın “ilgili şahıs adına” tarzında temsilci olarak işlem
+yapabileceği ve temsil olunanın adını sonradan açıklayabileceği kabul
+edilmektedir. Hatta ilgili şahsın işlem yapılırken bilinmemesi de mümkün
+görülmektedir. Fakat şekle bağlı sözleşmelerde sözleşmeye taraf olacak kişinin
+adının şekilde yer alması gerektiği için bu yola başvurulamaz. Örneğin, bu
+tarzda taşınmaz satın alınamaz.  
+.. (TE), (TO)’nun temsilcisi olarak hareket ettiğini bildirmiş olmamasına
+rağmen, (Ü) temsil ilişkisinin varlığını durumdan çıkarıyor veya çıkarması
+gerekiyorsa, temsilin sonuçları meydana gelir.  Örneğin, bir ticarethaneye
+girip bir tezgahtardan mal satın alan (Ü)’ye tezgahtar o ticarethane sahibinin
+temsilcisi olduğunu bildirmiş olmasa dahi, (Ü)’nün bunu mevcut durumdan
+anlaması gerekir.  
+.. (TE), (TO)’nun temsilcisi olarak hareket ettiğini bildirmiş olmamasına ve
+durumdan temsilci olduğunun çıkarılamamasına rağmen, (Ü) için hukuki işlemin
+tarafının (TE) veya (TO) olması farksız ise, (TE)’nin (TO)’nun temsilcisi
+olarak (Ü) ile yaptığı işlemin hak ve borçları (TO)’ya ait olur, temsilin
+sonuçları doğar. Örneğin, bir evin hizmetçisi bir bakkaldan peşin para ile bir
+teneke zeytinyağı satın alınca, bu satış sözleşmesinin tarafının hizmetçi veya
+onun işvereni olması bakkal için farksızdır.  Şayet bu hallerden hiçbiri yoksa,
+(TE), (TO) adına hareket etmiş de olsa, temsilci olduğunu bildirmediği için,
+temsil gerçekleşmez ve yapılan işlem (TE) adına yapılmış olur. Hukuki işlemden
+doğan hakları (TE) iktisap eder ve borçlarla da (TE) yükümlü olur. 
+
+===== B. Temsil Yetkisi Bulunması
+
+Bir kimsenin, kendisini temsil etmesi için bir başkasına rızası ile verdiği
+yetkiye rızai temsil yetkisi denilir. Yetki, temsil olunacak (TO)’nun tek
+taraflı irade beyanı ile tesis edilmiştir.  Bir kişiye temsil yetkisi verilmesi
+ile o kişiyle bir vekalet sözleşmesi yapılması birbiriyle karıştırılmamalıdır.
+Vekalet sözleşmesi dışında bir temsil yetkisi söz konusu olabileceği gibi,
+temsil yetkisi verilmeden bir vekalet sözleşmesi de mevcut olabilir.  Örnek:
+(TO), (TE)’ye bana bir saat almayı üstlenir misin der, (TE) de (TO)’ya saat
+alma sözü verirse, aralarında bir vekalet sözleşmesi kurulur (TBK m.502/f.1).
+(TE), (TO)’ya bir saat satın alma borcunu yüklenmiştir. Aynı zamanda (TE),
+saati (TO) adına ve hesabına almaya da yetkili kılınmıştır (TBK m.504/f.2). Bu
+halde vekalet sözleşmesi ve temsil yetkisi bir arada mevcuttur.
+
+.Örnek
+TIP: (TO), (TE)’ye eğer X marka bir saate rastlarsan benim için alabilirsin
+demiş ve (TE) bir taahhütte bulunmamışsa, (TE) sadece, (TO) için saat almaya
+yetkili kılınmıştır, fakat bir vekalet sözleşmesi söz konusu değildir.  Örnek:
+(TO), (TE)’ye (Ü)’den şu saati al fakat benim adıma aldığını söyleme demiş ve
+(TE) bu görevi kabul etmişse, (TO) ile (TE) arasında bir vekalet sözleşmesi
+kurulmuştur.  Vekalet bir sözleşmedir ve iki tarafın irade beyanı ile meydana
+gelir. Temsil yetkisi ise, sadece temsil yetkisi verenin tek taraflı beyanı ile
+verilir.
+
+=== II. TEMSİL YETKİSİ
+
+==== 1- Temsil yetkisinin verilmesi 
+
+===== a. Tek taraflı beyan
+
+Rızai temsil yetkisi, temsil olunacak kimsenin, kural olarak tek taraflı ve
+temsilci olacak kimseye yönelteceği bir irade beyanı ile verilir. Bu beyan,
+temsilciye yöneltilmesiyle hüküm ifade eder. Temsil yetkisinin hüküm ifade
+etmesi için temsilcinin yetkiyi kabul etmesi gerekli değildir.  Adına işlem
+yapılanın temsil yetkisi verme iradesi yok iken bazı davranışları sebebiyle
+güven teorisi uyarınca temsil yetkisi vermiş gibi sonuç doğması, sadece işlemin
+tarafı olacak üçüncü kişi bakımından dikkate alınır. Güveni korunacak olan
+üçüncü kişidir. Temsilcinin kendisine yetki verildiğine inanmakta haklı olması
+yetki eksikliği ile yapılmış işlemi geçerli kılmaz.  Temsilci tayini tek
+taraflı bir yetkilendirme olduğundan, temsilci bu sıfatı reddederek temsil
+yetkisini kazanmayı engelleyemez. Yapabileceği şey bu yetkiyi kullanmamaktan
+ibarettir. Esasen ayrıca bu yetkinin gereğini yapma taahhüdünde bulunmamışsa
+(temsil olunanla bir sözleşme yapmamışsa), yetkiyi kullanmadığı için sorumlu da
+tutulamaz. 
+
+===== b. Dışa açıklama
+
+Verilen temsil yetkisi bir belge ile açıklanmadığı gibi temsil yetkisi veren
+tarafından üçüncü şahıslara bildirilmiş de değilse iç temsil yetkisi vermeden,
+yetki dışa açıklanmışsa dış temsil yetkisi vermeden söz edilmektedir. Yetki
+verilmiş ise, yetkiyi veren tarafından bu dışa açıklanmamış olsa dahi, (TE)’nin
+temsilci olduğu konusundaki beyanına güvenerek (Ü), (TO) adına hareket eden
+(TE) ile hukuki işlemi yapabilir ve (TO) bu işlem ile bağlanır. Fakat (Ü),
+isterse yetkisi ispat edilmeyen (TE) ile işlemi yapmaktan kaçınır. İşte, temsil
+yetkisi belgesi veya (TO)’nun (Ü)’ye yapacağı açıklama, (Ü)’ye güven verir.
+
+.*TBK m.42* 
+[NOTE]
+====
+*f.3* - Temsil olunan verdiği yetkiyi üçüncü kişilere açıkça veya dolaylı
+biçimde bildirmişse, bu yetkiyi tamamen veya kısmen geri aldığını onlara
+bildirmediği takdirde, yetkinin geri alındığını iyiniyetli üçüncü kişilere
+karşı ileri süremez.
+====
+(TE)’nin üçüncü şahsa bildirilen yetki sınırını aşması halinde, şayet iç yetki
+sınırı aşılmamışsa, işlem hükümlerini doğurur ve (TO)’yu bağlar. Şayet hem dış
+hem iç yetki sınırları aşılmış ise yetkisiz temsil hükümleri uygulanır.
+
+===== c. Geçerlilik şartları
+
+Temsil yetkisi veren beyanın hukuki işlemler için aranan şartları içermesi
+gerekir (temsil yetkisi veren şahsın ehil olması, irade beyanının sağlıklı
+olması gibi…).  Burada ehliyet yönünden değinilmesi gereken nokta, bir kimsenin
+kendi yapamayacağı işlemler için başkasına temsil yetkisi de veremeyeceğidir.
+Temsil yetkisi veren beyan kural olarak bir şekle tabi değildir. Hatta büyük
+bir çoğunluk, temsilcinin temsil olunan adına yapacağı hukuki işlem bir şekle
+tabi olsa bile, bu hususta temsil yetkisi veren beyanın gene de şekle tabi
+olmadığını kabul etmektedir.  Ancak bu çözümün, tarafı korumaya yönelik bir
+şekil öngören kanun hükmünün amacı ile bağdaşmayacağı şeklinde bir görüş de
+vardır. Nitekim; 
+
+.*TBK m.583*
+[NOTE]
+====
+*f.2* - Kendi adına kefil olma konusunda özel yetki verilmesi ve diğer tarafa
+veya bir üçüncü kişiye kefil olma vaadinde bulunulması da aynı şekil
+koşullarına bağlıdır. Taraflar, yazılı şekle uyarak kefilin sorumluluğunu
+borcun belirli bir miktarıyla sınırlandırmayı kararlaştırabilirler.
+====
+
+==== 2- Temsil yetkisinin kapsamı
+
+İradi temsil, hukuki işlemle verilen bir temsil yetkisidir. Temsil yetkisi,
+bunu sağlayan irade beyanına göre belirlenir. Aslolan yetki verenin gerçek
+arzusudur. Fakat güven teorisi çerçevesinde temsilcinin yetki verme beyanına
+vereceği anlam esas alınır.  Şayet, temsilcinin yetkisinin kapsamı üçüncü
+şahıslara bildirilmişse, kapsam üçüncü şahsa yapılan bildiriye göre belirlenir.
+Temsil yetkisi, her türlü hukuki işlemi veya bir kategoriye giren işlemleri
+yapma yetkisini kapsıyorsa genel temsil yetkisinden, belirli bir hukuki işlemi
+yapma üzere veriliyorsa özel temsil yetkisinden söz edilir.  Talimat, temsil
+yetkisi verildikten sonra, temsilcinin bunu nasıl kullanacağı hakkında verilen
+emir ve direktiflerdir. Talimat temsil yetkisine etki yapmayacak direktifler
+olabileceği gibi, temsil yetkisini genişleten veya daraltan direktifler de
+olabilir. 
+
+.Örnek
+TIP: (TE)’yi temsilci atayan ve ona İstanbul’daki evini satma yetkisi veren
+(TO)’nun daha sonra gönderdiği bir mektupla da evi beşyüzbin liradan aşağı
+satmamasını bildirmesi ile temsil yetkisine fiyat sınırı getirilmiştir.
+Temsilcinin herhangi bir kişiyle hukuki işlemi yapmasına imkan verecek tarzda
+bir temsil yetkisi verilebileceği gibi, ancak belirli kişilerle işlem yapma
+kaydıyla da yetki verilebilir.  Bir sınırlandırma yapılmayan hallerde,
+temsilcinin sözleşmeyi kendisi ile yapıp yapamayacağı üzerinde durulan bir
+sorundur. Temsilcinin sözleşme yapacağı kişiyle ilgili bir diğer sorun da
+temsilcinin sözleşmenin karşı tarafını da temsil ederek (çifte temsil) bir
+sözleşmeyi yapıp yapamayacağıdır.  Hukuk tekniği bakımından temsilcinin bizzat
+kendisi ile sözleşme yapmasına bir engel görülmeyebilir. Fakat böyle bir
+temsil, temsil olunan için tehlike yaratır.
+
+Bir mal satın alması için (TO)’nun temsilci tayin ettiği (TE) kendi malını
+(TO)’ya satarsa, alıcı adına temsilci olarak, kendi adına da satıcı olarak
+irade beyanında bulunurken (TE), (TO)’nun çıkarını değil de kendi çıkarını
+düşünerek hareket edebilir ve bu yüzden, satış bedelini veya diğer satış
+şartlarını belirlemede (TO)’nun çıkarlarını zedeleyen bir durum ortaya
+çıkabilir.  Bu sebeple, İsviçre Federal Mahkemesinin yerleşmiş içtihadı,
+temsilcinin kendisi ile sözleşme yapabilmesi için ya buna temsil olunanın
+açıkça izin vermiş olmasını, ya da temsilcinin kendisi ile sözleşme yapmasında
+temsil olunan için hiçbir tehlike bulunmamasını aramaktadır. 
+
+.Örnek
+TIP: (TO) için satın alınacak mal borsada kayıtlı ve fiyatı belli ise (TE)’nin
+kendi malını (TO)’ya satmasında, diğer bir ifade ile (TE)’nin (TO) adına kendi
+malını satın almasında (TO) için bir tehlike yoktur.  
+
+Temsilcinin, sözleşmenin iki tarafını birden temsil edip edemeyeceği sorununda
+da aynı kural geçerlidir.  Gerek çifte temsil gerekse temsilcinin kendi
+kendisiyle işlem yapması hallerinde, temsilci özel olarak buna yetkili kılınmış
+ve işin niteliği de buna elverişli olmasa bile, temsil olunanın vereceği
+icazetle işlemin sağlık kazanması mümkündür.  Temsil yetkisi genellikle temsil
+olunanın bir işinin görülmesini sağlamak için verilirse de, yapılacak işlemin
+temsilciye bir çıkar sağlamak amacı gütmesi de mümkündür.  
+
+(TE)’nin (TO)’dan olan bir alacağına mahsup edilmek üzere (TO)’nun (Ü)’den olan
+alacağını tahsil hususunda (TO)’nun (TE)’ye vereceği temsil yetkisi, (TO)’nun
+alacağının tahsilini sağlarken (TE)’nin de kendi alacağını elde etmesime imkan
+vermektedir.  Temsil yetkisinin temsilcinin yararına verilmiş olması, bu
+yetkinin TBK m.42/f.1-2 uyarınca serbestçe geri alınmasına engel oluşturmaz.
+Sadece, geri alma üzerine temsilci bir zarara uğrarsa, temsil olunanla
+arasındaki iç ilişkiye aykırılıktan dolayı tazminat isteyebilir.  Temsil
+yetkisi temsil olunan adına irade beyanında bulunma hususunda ise aktif temsil
+yetkisinden, temsil olunana yapılacak irade beyanlarına muhatap olabilme
+hususunda ise pasif temsil yetkisinden söz edilmektedir.  (TO), kendisini
+temsil etmek üzere tek başına (TE)’yi yetkili kılabileceği gibi, birden çok
+temsilciyi de yetkili kılabilir. Şayet birden çok temsilciden her biri tek
+başına hukuki işlemi yapmaya yetkili ise müteselsil temsil yetkisinden, birden
+çok temsilci hukuki işlemi ancak birlikte yapmaya yetkili ise birlikte temsil
+yetkisinden söz edilir.  Müteselsil temsil yetkisinin söz konusu olduğu
+hallerde her bir temsilciye bu yetki daha önce içlerinden birinin üçüncü
+kişiyle işlem yapması bozucu şartına bağlı olarak verilmiş sayılacaktır.
+Böylece, temsilcilerden ilk davrananın yaptığı işlem geçerli olurken, o anda
+diğerlerinin temsil yetkisi sona erecektir. Ancak üçüncü kişi bu şartı
+içermeyen bir temsil belgesine güvenerek işlem yapmışsa ve müteselsil temsil
+yetkisini bilemeyecek durumda ise, daha önce diğer temsilci başka bir kişiyle
+sözleşme yapmış da olsa, ikinci sözleşme de geçerli sayılacaktır.  (TO), temsil
+yetkisini verirken, temsilcinin, yerine başkasını ikameye yetkili olup
+olmadığını açıklamış olabilir. Şayet böyle bir açıklama yapılmamışsa, kural
+olarak temsilci, yerine başkasını ikame edemez. Ancak halin icabına göre buna
+mecbur ise veya adet bu ikameye uygun ise temsilci kendi yerine başkasını ikame
+edebilir. Başkasını ikame halinde kural olarak ilk temsilci kendi temsil
+yetkisini kaybetmez. Sadece, müteselsil temsil yetkisi ortaya çıkmış olur.
+
+==== 4- Temsil yetkisinin sona ermesi
+
+===== a. Sona erme sebepleri
+
+====== aa. Temsil yetkisinin iradi olarak sona erdirilmesi
+
+.*TBK m.42*
+[NOTE]
+====
+*f.1* - Temsil olunan, hukuki bir işlemden doğan temsil yetkisini her zaman
+sınırlayabilir veya geri alabilir. Ancak, taraflar arasındaki hizmet, vekâlet
+veya ortaklık sözleşmeleri gibi hukuki ilişkilerden doğabilecek haklar
+saklıdır.
+====
+
+Yetkinin geri alınması, tek taraflı ve temsilciye yöneltilecek irade beyanı ile
+yapılır ve çoğunlukla kabul edildiği üzere temsilciye ulaşması ile hüküm ifade
+eder. Fakat, yetkisinin sona erdiğini öğrenmeden önce temsilcinin iyiniyetli
+üçüncü şahıslarla yaptığı işlemler temsil olunanı temsil yetkisi devam
+ediyormuş gibi bağlar. 
+
+.*TBK m.45*
+[NOTE]
+====
+*f.1* - Temsilci, yetkisinin sona ermiş olduğunu bilmediği sürece, temsil
+olunan veya halefleri, temsilcinin yapmış olduğu hukuki işlemlerin sonuçlarıyla
+bağlıdırlar.  +
+*f.2* - Bu kural, üçüncü kişilerin yetkinin sona ermiş olduğunu bildikleri
+durumlarda uygulanmaz.
+====
+
+====== bb. Temsil yetkisinin kendiliğinden sona ermesi
+
+.*TBK m.43*
+[NOTE]
+====
+*f.1* - Hukuki işlemden doğan temsil yetkisi, aksi taraflarca
+kararlaştırılmadıkça veya işin özelliğinden anlaşılmadıkça, temsil olunanın
+veya temsilcinin ölümü, gaipliğine karar verilmesi, fiil ehliyetini kaybetmesi
+veya iflas etmesi durumlarında sona erer. +
+*f.2* - Bu hüküm, bir tüzel kişiliğin sona ermesi durumunda da uygulanır.
+====
+
+===== b. Sona ermenin sonuçları
+
+====== aa. Temsilcinin ve üçüncü kişinin yetkinin sona erdiğini bilmemesinin etkisi
+
+Temsil yetkisi ne sebeple sona ererse ersin, temsilci yetkisinin sona erdiğini
+bilmiyorsa ve hukuki işlem yaptığı üçüncü kişi de temsilcinin yetkisinin sona
+erdiğini bilmiyorsa, temsilcinin bu kişiyle yaptığı işlem sanki temsil yetkisi
+devam ediyormuş gibi sonuç doğurur ve temsil olunanı bağlar.
+
+Şayet üçüncü kişi temsil yetkisinin sona erdiğini biliyorsa, (TE) yetkisinin
+sona erdiğini bilmese dahi (Ü)’nün (TE) ile yapacağı hukuki işlem (TO)’yu
+bağlamaz, yetkisiz temsil hükümlerine tabi olur.
+
+====== bb. Yetkinin sona erdiğini sadece üçüncü kişinin bilmemesinin etkisi
+
+Şayet temsilci yetkisinin sona erdiğini bile bile üçüncü kişiyle işlemi
+yapmışsa, fakat üçüncü kişi yetkinin sona erdiğini bilmiyorsa, kural uygulanır,
+yapılan işlem temsil olunanı bağlamaz ve işlem yetkisiz temsil hükümlerine tabi
+olur.
+
+====== aaa. Temsil yetkisinin kaldırılmasında
+
+Şayet (TO), (TE)’ye temsil yetkisi verdiğini üçüncü kişilere bildirmiş olup da
+temsil yetkisinin kaldırdığını veya sınırladığını bildirmemişse, yetkinin
+kaldırıldığını veya sınırlandığını iyi niyetle bilmeyen bu kişilere karşı ileri
+süremez.  
+
+.*TBK m.42*
+[NOTE]
+====
+*f.3* - Temsil olunan verdiği yetkiyi üçüncü kişilere açıkça veya dolaylı
+biçimde bildirmişse, bu yetkiyi tamamen veya kısmen geri aldığını onlara
+bildirmediği takdirde, yetkinin geri alındığını iyiniyetli üçüncü kişilere
+karşı ileri süremez.
+====
+
+Şayet temsilciye bir temsil yetki belgesi verilmiş olup da yetki kaldırılırken
+belge geri alınmamışsa, temsilcinin temsil yetkisinin geri alınmasına veya
+sınırlanmasına rağmen bu belgeyi kullanarak yaptığı hukuki işlemler bakımından
+da, durumu bilmeyen üçüncü kişiler için, 42.  maddenin 3. fıkrası uygulanmak
+gerekir.
+
+====== bbb. Temsil yetkisi bir sebebin gerçekleşmesi ile kendiliğinden sona ermişse
+
+Bu hallerde, yetkisinin sona erdiğini bilen temsilcinin, üçüncü şahısla yaptığı
+işlemin temsil olunanı bağlamaması kuralı uygulanır. Temsilcinin, bu davranışı
+yüzünden üçüncü şahsa karşı sorumluluğu ise yetkisiz temsildeki esaslara
+tabidir.  
+
+.*TBK m.47*
+[NOTE]
+====
+*f.1* - Temsil olunanın açık veya örtülü olarak hukuki işlemi
+onamaması hâlinde, bu işlemin geçersiz olmasından doğan zararın giderilmesi,
+yetkisiz temsilciden istenebilir. Ancak, yetkisiz temsilci, işlemin yapıldığı
+sırada karşı tarafın, kendisinin yetkisiz olduğunu bildiğini veya bilmesi
+gerektiğini ispat ederse, kendisinden zararın giderilmesi istenemez.
+*f.2* - Hakkaniyet gerektiriyorsa, kusurlu yetkisiz temsilciden diğer zararların
+giderilmesi de istenebilir.
+====
+.*TBK m.44*
+[NOTE]
+====
+*f.2* - Temsilciye yetki belgesi verilmişse, yetkinin sona ermesi durumunda
+temsilci, bu belgeyi temsil olunana geri vermekle veya hâkimin belirleyeceği
+yere bırakmakla yükümlüdür.  
+*f.3* - Temsil olunan veya halefleri, temsilcinin belgeyi geri vermesi için
+gerekeni yapmazlarsa, bundan dolayı iyiniyetli üçüncü kişilerin zararını
+gidermekle yükümlüdürler. 
+====
+
+TBK m.44/f.2 uyarınca sorumlu tutulmamak için, yetki belgesinin fiilen geri
+alınmış olması değil, geri alınması için gerekenin yapılmış olması aranır.
+
+=== III. TEMSİL YOLU İLE YAPILAN İŞLEMİN ÖZELLİKLERİ
+
+==== 1-  Temsilci bakımından
+
+Temsilci hukuki işlemi yaparken kendi iradesini beyan ettiği için onun irade
+beyanının yanılma, aldatma veya korkutma nedeniyle sakatlığı, yapılan işlemin
+geçerliliğini etkiler. Temsil olunan buna dayanarak işlemi iptal edebilir veya
+onay verebilir. Fakat temsilci kendi irade sakatlığına dayanarak dahi işlemi
+iptal edemez veya onay veremez. Zira işlemin hukuki sonucu onun üzerinde
+doğmamaktadır. Ancak, temsil olunanın rızasıyla iptal beyanının da temsilen
+yapılması veya temsilcinin iptal beyanına temsil olunanın sonradan onay vermesi
+mümkündür.  Sözleşmeyi temsilci yaptığı için, bunun karşı tarafı aldatması
+üçüncü kişinin aldatması değil, bizzat sözleşme tarafının aldatması olarak
+dikkate alınır. Böylece, temsil olunan temsilcinin yaptığı aldatmadan haberdar
+olmasa da aldatılan taraf işlemi iptal edebilir.
+
+==== 2- Temsil olunan bakımından
+
+Temsil yolu ile yapılan işlemin hukuki sonuçları temsil olunana ait olduğu için
+temsilci tarafından yapılan tasarruf işlemleri, işlem yapılırken temsil olunan
+tasarruf yetkisine sahip ise hüküm ifade eder.  Temsil yolu ile yapılan hukuki
+işlemlerin geçerliliğini etkileyen herhangi bir sebep varsa, işlemin
+hükümsüzlüğünü ileri sürme hakkı temsil olunana aittir. Aynı şekilde, temsilci
+ile işlemi yapan üçüncü kişi de hükümsüzlük iddialarını temsil olunana karşı
+kullanabilir.
+
+=== IV. YETKİSİZ TEMSİLİN SONUÇLARI 
+
+.*TBK m. 46*
+[NOTE]
+====
+*f.1* - Bir kimse yetkisi olmadığı hâlde temsilci olarak bir hukuki işlem
+yaparsa, bu işlem ancak onadığı takdirde temsil olunanı bağlar.  +
+*f.2* - Yetkisiz temsilcinin kendisiyle işlem yaptığı diğer taraf, temsil
+olunandan, uygun bir süre içinde bu hukuki işlemi onayıp onamayacağını
+bildirmesini isteyebilir. Bu süre içinde işlemin onanmaması durumunda, diğer
+taraf bu işlemle bağlı olmaktan kurtulur.
+====
+.*TBK m. 47*
+[NOTE]
+====
+*f.1* - Temsil olunanın açık veya örtülü olarak hukuki işlemi onamaması
+hâlinde, bu işlemin geçersiz olmasından doğan zararın giderilmesi, yetkisiz
+temsilciden istenebilir. Ancak, yetkisiz temsilci, işlemin yapıldığı sırada
+karşı tarafın, kendisinin yetkisiz olduğunu bildiğini veya bilmesi gerektiğini
+ispat ederse, kendisinden zararın giderilmesi istenemez. +
+*f.2* - Hakkaniyet gerektiriyorsa, kusurlu yetkisiz temsilciden diğer
+zararların giderilmesi de istenebilir. +
+*f.3* - Sebepsiz zenginleşmeden doğan haklar saklıdır.
+====

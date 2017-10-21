@@ -1,0 +1,1357 @@
+:icons: font
+:toc:
+:toc-title: SINIRLI AYNİ HAKLAR
+
+== İRTİFAK HAKLARI
+
+İrtifak hakkı, hakkın konusu olan eşya üzerinde yararlanma yetkisi veren
+bir sınırlı ayni haktır. Bu yararlanma eşyadan veya eşyanın özünden elde edilen
+menfaatlerden yararlanma yetkisi olmalıdır. Herkese karşı ileri sürülebilir.
+
+İrtifak hakkı hem kişi lehine hem de eşya lehine kurulabilir. Sadece taşınmaz
+üzerinde değil, taşınırlar üzerinde de irtifak hakkı kurulabilir.
+
+====
+*TMK 779*: (1) Taşınmaz lehine irtifak hakkı, bir taşınmaz üzerinde diğer bir
+taşınmaz lehine konulmuş bir yük olup, yüklü taşınmazın malikini mülkiyet
+hakkının sağladığı bazı yetkileri kullanmaktan kaçınmaya veya yararlanan
+taşınmaz malikinin yüklü taşınmazı belirli şekilde kullanmasına katlanmaya
+mecbur kılar.
+
+(2) Yapma borçları, irtifaka başlı başına konu olamaz; ona ancak yan edim
+olarak bağlanabilir.
+====
+
+İrtifak hakkının kazanılması mülkiyetin kazanılmasına ilişkin hükümlere
+tabidir. Aynı zamanda irtifak hakkı eşya üzerinde hakimiyet sağladığından
+zilyetliğe ilişkin hükümler de uygulama alanı bulur.
+
+====
+*TMK 973*: (1) Bir şey üzerinde fiilî hâkimiyeti bulunan kimse onun zilyedidir.
+
+(2) Taşınmaz üzerindeki irtifak haklarında ve taşınmaz yüklerinde hakkın fiilen
+kullanılması zilyetlik sayılır.
+====
+
+Kural olarak irtifak hakkı tescille kurulur. Tescil için geçerli bir kazanma
+sebebi ve tescil talebi gerekir. Düzenlenmemiş olmakla birlikte irtifak hakkı
+kurma vaadi de geçerlidir. 
+
+CAUTION: Miras ile irtifak hakkı tescilsiz kazanılmaz.
+
+İrtifak hakları MK 712 uyarınca olağan zamanaşımı ile tescil dışı
+kazanılabilir. Olağanüstü zamanaşımında ise tapuda yolsuz da olsa bir tescil
+olmadan kazanım öngörüldüğü için irtifak hakları bunun kapsamına girmezler.
+
+[caption=""]
+.Mecralar
+====
+*TMK 727*: (1) Su, gaz, elektrik ve benzerlerinin mecraları, işletmenin
+bulunduğu taşınmazın dışında olsalar bile, aksine bir düzenleme olmadıkça o
+işletmenin eklentisi ve işletme malikinin malı sayılır.
+
+(2) Komşuluk hukukunun gerektirdiği hâller dışında bir taşınmazın böyle bir
+mecra ile aynî hak olarak yüklenmesi, ancak bir irtifak hakkı kurulması
+suretiyle olabilir.
+
+(3) İrtifak hakkı, mecra dışarıdan görülmüyorsa tapu kütüğüne tesciliyle,
+dışarıdan görülüyorsa noterce düzenlenecek sözleşmeye dayanılarak mecranın
+yapılmasıyla doğar.
+====
+
+İrtifak hakları tapuda terkin ile sona erer. Bunun için hak sahibinin terkine
+onay vermesi ve terkin talebinde bulunması lazımdır. Ancak yararlanan taşınmaz
+üzerinde başka ayni hak sahipleri varsa onların da rızası gerekir. Zira irtifak
+hakkının terkini diğerlerinin haklarının değerini düşürebilir.
+
+=== KİŞİYE BAĞLI İRTİFAKLAR
+
+*Oturma* ve *intifa* hakkı sadece kişiye bağlı olarak kurulabilir. Bu haklar
+hiçbir şekilde devredilemez, mirasçılara geçmez. 
+
+Geriye kalan irtifaklar (üst, kaynak ve diğer irtifaklar) kişi lehine
+kurulabileceği gibi eşya lehine de kurulabilir. Üst ve kaynak hakkı aksi
+kararlaştırılmamışsa devredilebilir ve mirasçılara geçer. Diğer irtifaklar
+kategorisindeki haklar ise ancak tarafların anlaşması halinde devredilebilir ve
+mirasçılara geçer.
+
+NOTE: Kişi lehine kurulmuş olmakla birlikte, devredilmesi ve mirasçıları
+geçmesi mümkün kılınan bir irtifak hakkı ya süresiz ya da en az 30 yıl süreyle
+kurulmuşsa tapu kütüğünde ayrı bir sayfaya taşınmaz olarak kaydedilebilir.
+
+=== EŞYAYA BAĞLI İRTİFAKLAR
+
+Eşyaya bağlı irtifak hakkının doğumu ve varlığını sürdürebilmesi için bir yüklü
+bir de yararlanan taşınmazın varlığı şarttır ve yararlanan taşınmaza yüklü
+taşınmazdan bir yarar elde etme yetkisi sağlanır. Bu yararın mutlaka taşınmazın
+niteliği ile ilgili olması gerekmez. İrtifak haklarında yararlanan taşınmazla
+yüklü taşınmazın bitişik komşu olmaları da gerekmez.
+
+TIP: Kişisel ihtiyaç da eşya lehine irtifak hakkının konusu olabilir.
+
+[NOTE]
+====
+İrtifak hakkı, yararlanan ve yüklü taşınmazdan hangisine tescil edilecektir?
+
+Yüklü taşınmaz açısında bu hak bir borçtur ve sayfasında hangi taşınmazın
+yararlanacağı ve hangi irtifak hakkının kurulduğu yazılır. Yararlanan taşınmaz
+açısından da bir haktır ve sayfasına hangi taşınmazın yüklü olduğu ve hangi
+irtifak hakkının kurulduğu yazılır.
+
+Hakkın doğumu için her iki tescil de gerekli midir?
+
+Hakim görüş yüklü taşınmazın sayfasındaki kaydı esas almaktadır. Çünkü bu hak
+yüklü taşınmazın mülkiyetini sınırlamaktadır ve bu sınırlama dışarıya karşı
+görünmelidir. Aksi takdirde MK 1023 uyarınca iyiniyetli kazanımla irtifak
+hakkının olmadığı bir mülkiyet kazanılabilir.
+====
+
+=== İRTİFAK HAKKININ TERKİNİ
+
+Kanun koyucu irtifak hakkının varlığını devam ettirmesini az ya da çok
+kurulurken öngörülen yararın genel hatlarıyla devam etmesine bağlı kılmıştır.
+
+[caption=""]
+.Mahkeme kararı
+====
+*MK 785*: (1) Lehine irtifak kurulan taşınmaz için bu hakkın sağladığı hiç bir
+yarar kalmamışsa, yüklü taşınmazın maliki bu hakkın terkinini isteyebilir.
+
+(2) Yüküne oranla çok az yarar sağlayan bir irtifak hakkının, bedel
+karşılığında kısmen veya tamamen terkini istenebilir.
+====
+
+Yarar tamamen ortadan kalkmışsa yüklü taşınmaz maliki yararlanan taşınmaz
+malikinden hakkın terkinini talep edebilir. Yararlanan taşınmaz maliki onay
+verirse tapuda terkin işlemi yapılır. Ancak onay vermezse yüklü taşınmaz maliki
+dava açmalıdır.
+
+Yarar ortadan kalkmamış olmakla birlikte hakkın kullanılması yüklü taşınmaz
+maliki için eskisine oranla katlanılamaz bir yük teşkil ediyorsa da terkin
+talebinde bulunulabilir.
+
+Kanun koyucu yararla yük arasındaki dengenin bozulmasında hakkın tamamen veya
+kısmen terkinini öngörmekle beraber bunun karşılığında yararlanan taşınmaz
+malikine bir bedel verilmesini de aramıştır.
+
+=== İRTİFAK HAKKININ KAPSAMI
+
+MK 787/1 uyarınca irtifak hakkının kapsamı tescile göre belirlenir.
+
+[caption=""]
+.Tescile göre
+====
+*MK 787*: (1) İrtifaktan doğan yetki ve yükümlülükleri açıkça belirlediği
+ölçüde tescil, irtifakın kapsamını belirlemede esas oluşturur.
+
+(2) Tescilden açıkça anlaşılmadığı hâllerde kapsam, tescilin sınırları içinde,
+irtifak hakkının kazanılma sebebine veya uzun süreden beri davasız ve
+iyiniyetle kullanılış biçimine göre belirlenir.
+====
+
+Hakkın kapsamı tescilden anlaşılamıyorsa MK 787/2 uyarınca kazanma sebebine
+bakılacaktır. *Kazanma sebebi ancak tescildeki hükmü açıklamak için
+kullanılabilir*. Kazanma sebebi ile tescili aşan bir yorum yapılamaz.
+
+Kazanma sebebi de hakkın kapsamının belirlenmesi için yeterli değilse uzun
+süreden beri davasız ve iyiniyetle kullanılış biçimine göre kapsam belirlenir.
+*Kullanılış biçimi asla tescilin ve kazanma sebebinin sınırlarını aşamaz*.
+
+=== İRTİFAK HAKKININ KULLANILMASINA İLİŞKİN HÜKÜMLER 
+
+====
+*MK 786*: (1) İrtifak hakkı sahibi, hakkının korunması ve kullanılması için
+gerekli olan önlemleri alabilir; ancak, hakkını yüklü taşınmazın malikine en az
+zarar verecek biçimde kullanmak zorundadır.
+
+(2) Yüklü taşınmazın maliki, irtifak hakkının kullanılmasını engelleyecek ya da
+zorlaştıracak davranışlarda bulunamaz.
+====
+
+İrtifak hakkı ayni ve mutlak bir haktır, dolayısıyla herkese karşı ileri
+sürülebilir. Eşya üzerinde doğrudan hakimiyet sağlar. Örneğin geçit hakkı
+sahibi taşınmaz geçide elverişli değilse gerekli düzenlemeleri yapabilir.
+
+İrtifak hakkı sahibi hakkını kullanırken yüklü taşınmaz malikine en az zararı
+verecek şekilde hareket etmelidir.
+
+Yüklü taşınmaz maliki hiçbir şekilde yararlanan taşınmaz malikinin hakkını
+kullanmasını engelleyici ya da zorlaştırıcı davranışlarda bulunamaz (MK 786/2).
+
+Yararlanan taşınmazın ihtiyaçlarındaki değişiklik yüklü taşınmazın yükünü
+ağırlaştıramaz.
+
+[caption=""]
+.İhtiyaçların değişmesi
+====
+*MK 788*: (1) Yararlanan taşınmazın ihtiyaçlarındaki değişiklik, yüklü
+taşınmazın irtifaktan doğan yükünü ağırlaştıramaz.
+====
+
+Yükün ağırlaşıp ağırlaşmadığını hakkın kurulma amacı belirler. Hakkın kurulma
+amacı tescilden anlaşılır. Tescilden anlaşılamadığı hallerde karine olarak
+taşınmaza dair biri ihtiyaç için kurulmuştur.
+
+İhtiyaçtaki artış öngörülebilir bir artış ise yüklü taşınmaz maliki buna
+katlanmak zorundadır.
+
+Yükün ağırlaşması halinde yüklü taşınmaz maliki *kaçınma davası* açabilir.
+Hakim hakkın kurulma amacına uygun hale getirilmesine ve bu süre içerisinde
+hakkın askıya alınmasına karar verebilir. İrtifak hakkını kazanma sebebindeki
+amaca uygun kullanmak imkansız hale geldiyse hakkın terkinine de karar
+verilebilr.
+
+MK 790 uyarınca bakım ve onarım giderleri kural olarak yararlanan taşınmaz
+maliki tarafından karşılanır.
+
+[caption=""]
+.Bakım giderleri
+====
+*MK 790*: (1) İrtifak hakkının kullanılması için gerekli tesislerin bakımı,
+yararlanan taşınmaz malikine aittir.
+
+(2) Tesisler yüklü taşınmazın malikine de yararlı ise, bunların bakım
+giderlerine her iki malik yararları oranında katılır.
+====
+
+[caption=""]
+.İrtifak hakkının ilişkin olduğu yerin değiştirilmesi
+====
+*MK 791*: (1) İrtifak hakkı yüklü taşınmazın yalnız belli bir kısmının
+kullanılması koşuluyla kurulmuşsa, bu taşınmazın maliki, menfaatini ispat etmek
+ve giderleri üstlenmek kaydıyla; irtifakın, hakkın kullanılmasını
+güçleştirmeyecek biçimde taşınmazın başka bir yerine naklini isteyebilir.
+
+(2) İrtifak hakkının kullanılacağı yer tapu kütüğünde belirtilmiş olsa bile
+yüklü taşınmaz maliki bu yetkiyi kullanabilir.
+
+(3) Mecraların bir yerden başka bir yere naklinde komşuluk hukuku kuralları da
+göz önünde tutulur.
+====
+
+Yüklü taşınmaz maliki hakkın taşınmazın başka bir yerinde kullanılmasını talep
+edebilir. Bunun için:
+
+. Yüklü taşınmaz maliki menfaatini ispat etmeli
+. Yer değişimi hak sahibini zarara uğratmamalı
+. Yüklü taşınmaz maliki yer değiştirme giderlerini karşılamalıdır.
+
+NOTE: MK 791/3 mecra irtifakı açısından özel hüküm getirmiştir. Komşuluk hukuku
+hükümleri (MK 746 vd.) uyarınca masraflara yararlanan taşınmaz maliki
+katlanacaktır. Ayrıca hakkın kullanılmasını sekteye uğratmayacaksa mecra daha
+az elverişli bir yere dahi taşınabilir.
+
+Yararlanan taşınmazın bölünüp tapu kütüğüne ayrı ayrı kaydedilmesi halinde
+kural olarak irtifak hakkı da her bir parsele geçecektir.
+
+[caption=""]
+.Yararlanan taşınmazın bölünmesi
+====
+*MK 792*: (1) Yararlanan taşınmazın parsellere bölünmesi hâlinde kural, irtifak
+hakkının her parsel yararına devam etmesidir.
+
+(2) Ancak, durum ve koşullara göre irtifak hakkı yalnız bir parselin yararına
+kullanılabiliyorsa, yüklü taşınmazın maliki diğer parseller için irtifak
+hakkının terkinini isteyebilir.
+
+(3) Tapu sicil memuru, bu istemi irtifak hakkı sahibine bildirir ve onun bir ay
+içinde itiraz etmemesi hâlinde irtifak hakkını terkin eder.
+====
+
+Yüklü taşınmazın parsellere bölünmesi halinde de yüklü taşınmazın her parseli
+birer yüklü taşınmaz haline gelir.
+
+[caption=""]
+.Yüklü taşınmazın bölünmesi
+====
+*MK 799*: (1) Yüklü taşınmazın parsellere bölünmesi hâlinde kural, irtifak
+hakkının her parsel üzerinde devam etmesidir.
+
+(2) Ancak, irtifak hakkı belirli parseller üzerinde kullanılmıyorsa, durum ve
+koşullara göre de kullanılamayacaksa, bu parsellerin maliklerinden her biri,
+kendi taşınmazı üzerindeki irtifak hakkının terkinini isteyebilir.  Tapu sicil
+memuru, bu istemi irtifak hakkı sahibine bildirir ve onun bir ay içinde itiraz
+etmemesi hâlinde irtifak hakkını terkin eder.
+====
+
+=== İNTİFA HAKKI
+
+İntifa hakkı başkasına ait taşınmazdan tam yararlanma yetkisi, kullanma ve
+semerelerinden faydalanma hakkı verir. Sınırlı ayni hak olduğu için malik dahil
+herkese karşı ileri sürülebilir.
+
+====
+*MK 794*: (1) İntifa hakkı, taşınırlar, taşınmazlar, haklar veya bir malvarlığı
+üzerinde kurulabilir.
+
+(2) Aksine düzenleme olmadıkça bu hak, sahibine, konusu üzerinde tam yararlanma
+yetkisi sağlar.
+====
+
+*İntifa hakkı sahibi malın özüne zarar verecek şekilde kullanımda bulunamaz.*
+
+İntifa hakkı belirli kişi veya kişiler lehine kurulabilir. *Bu hak devredilemez
+ve mirasçılara geçmez*. Ancak sözleşmeyle açıkça yasaklanmadığı takdirde veya
+işin niteliğinden böyle bir yasaklamanın varlığı söz konusu değilse intifa
+hakkının *kullanım hakkı* üçüncü kişiye devredilebilir.
+
+[caption=""]
+.Hakkın kullanılmasının devri
+====
+*MK 806*: (1) Sözleşmede aksine hüküm yoksa veya durum ve koşullardan hak
+sahibince şahsen kullanılması gerektiği anlaşılmıyorsa, intifa hakkının
+kullanılması başkasına devredilebilir.
+
+(2) Bu takdirde malik, haklarını, devralana karşı doğrudan doğruya ileri
+sürebilir.
+====
+
+İntifa hakkı bir ayni hak olduğu için taşınmazlarda tescil, taşınırlarda
+zliyetliğin devri ile kurulur.
+
+[caption=""]
+.Kurulması
+====
+*MK 795*: (1) İntifa hakkı, taşınırlarda zilyetliğin devri, alacaklarda
+alacağın devri, taşınmazlarda tapu kütüğüne tescil ile kurulur.
+
+(2) Taşınır ve taşınmazlarda intifa hakkının kazanılması ve tescilinde, aksine
+düzenleme olmadıkça, mülkiyete ilişkin hükümler uygulanır.
+
+(3) Taşınmaz üzerindeki yasal intifa hakkı tapu kütüğüne tescil edilmemiş olsa
+bile, durumu bilenlere karşı ileri sürülebilir. Tescil edilmiş ise, herkese
+karşı ileri sürülebilir.
+====
+
+[caption=""]
+.Sona erme sebepleri
+====
+*MK 796*: (1) İntifa hakkı, konusunun tamamen yok olması ve taşınmazlarda
+tescilin terkini; yasal intifa hakkı, sebebinin ortadan kalkması ile sona erer.
+
+(2) Sürenin dolması veya hak sahibinin vazgeçmesi ya da ölümü gibi diğer sona
+erme sebepleri, taşınmazlarda malike terkini isteme yetkisi verir.
+====
+
+Üzerinde intifa hakkı olan eşya yok olursa intifa hakkı kendiliğinden sona
+erer. Eşya yok olmuş veya yararlanamayacak kadar harap olmuş ise malikin o
+taşınmazı ihya etme yükümlülüğü yoktur.
+
+TIP: Eşyanın yok olması neticesinde malik bir sigorta bedeli alırsa, intifa
+hakkı bu bedel üzerinde devam eder.
+
+İntifa hakkı için süre kararlaştırılmışsa, intifa hakkı sürenin bitmesi ile
+sona erer.
+
+[caption=""]
+.Süresi
+====
+*MK 797*: (1) İntifa hakkı, gerçek kişilerde hak sahibinin ölümü; tüzel
+kişilerde kararlaştırılan sürenin dolması, süre kararlaştırılmamışsa kişiliğin
+ortadan kalkmasıyla sona erer.
+
+(2) Tüzel kişilerin intifa hakkı, en çok yüz yıl devam edebilir.
+====
+
+Üzerinde intifa hakkı olan taşınmazın kamulaştırılması, mahkeme kararı ile
+terkini sonucunda da sona erer.
+
+[caption=""]
+.Harap olma veya kamulaştırma
+====
+*MK 798*: (1) Malik, yararlanılamayacak derecede harap olan intifa konusu malı
+yararlanılacak hâle getirmekle yükümlü değildir; getirirse intifa hakkı yeniden
+kurulmuş olur.
+
+(2) Sigorta ve kamulaştırma gibi durumlarda intifa hakkı, hakkın konusu yerine
+geçen karşılık üzerinde devam eder.
+====
+
+İntifa hakkı kurulan taşınmaz üzerinde daha önce kurulmuş bir ipotek var ise
+taşınmazın satılıp paraya çevrilmesi halinde de intifa hakkı sona erer. Zira
+ipotek tesis edildiğinde intifa hakkı yoktur, dolayısıyla ipotek hakkı sahibi
+önceliklidir.
+
+İntifa hakkı sahibinin ölümü veya gaipliğine karar verilmesi halinde de intifa
+hakkı kendiliğinden sona erer.
+
+TIP: Petrol istasyonları bakımından, arsa sahibi petrol istasyonu işletilmesi
+için kira sözleşmesi yapıyor veya intifa hakkı tanıyor ise rekabet kanunu
+uyarınca bu sözleşmenin veya hakkın süresi en fazla 5 yıl olabilir.
+
+Hak sona erince, hak sahibinin taşınmazlar için terkin talebinde bulunması
+taşınırlar bakımından ise malın zilyetliğini maliğe iade etmesi gerekir.
+
+[caption=""]
+.Yükümlülük
+====
+*MK 799*: (1) İntifa hakkı sona erince hak sahibi, hakkın konusu olan malı
+malike geri vermekle yükümlüdür.
+====
+
+MK 799'deki yükümlülük kanundan kaynaklanan bir iade yükümlülüğüdür. Söz konusu
+yükümlülük malik açısından bir şahsi taleptir. Malik aynı zamanda istihkak
+davası yoluyla da eşyanın iadesini isteyebilir.
+
+NOTE: İade talebi intifa konusu şeyi intifa hakkı sahibine, intifa hakkı sahibi
+malı üçüncü kişiye kiraladıysa üçüncü kişiye karşı ileri sürülecektir.
+
+[caption=""]
+.Sorumluluk
+====
+*MK 800*: (1) İntifa hakkı sahibi, zararın kendi kusurundan ileri gelmediğini
+ispat etmedikçe, malın yok olmasından veya değerinin azalmasından sorumludur.
+
+(2) İntifa hakkı sahibi, yararlanması için gerekli olmadığı hâlde tükettiği
+şeyleri tazmin etmekle yükümlüdür.
+
+(3) İntifa hakkı sahibi, malın olağan kullanılması sonucunda meydana gelen
+değer azalmalarından sorumlu değildir.
+====
+
+İntifa konusu olan şey, alındığında ne şekilde ise aynı şekilde geri
+verilmelidir. Kötü kullanım neticesinde ortaya çıkan hasarlardan kusursuzluğunu
+ispat etmedikçe intifa hakkı sahibi sorumludur.
+
+[caption=""]
+.Giderler
+====
+*MK 801*: (1) İntifa hakkı sahibi, yükümlü olmadığı hâlde yaptığı giderler,
+yenilemeler ve eklemeler için, hak sona erdiğinde, vekâletsiz iş görme
+hükümleri uyarınca tazminat isteyebilir.
+
+(2) Malikin tazminat vermekten kaçınması hâlinde intifa hakkı sahibi, yaptığı
+eklemeleri, malı eski hâline getirmek kaydıyla söküp alabilir.
+====
+
+İntifa hakkı sahibi MK 812 ve 813 uyarınca eşyanın olağan bakım ve giderlerini
+karşılamak zorundadır.
+
+[caption=""]
+.Malın korunması
+====
+*MK 812*: (1) İntifa hakkı sahibi, hakkın konusu olan malın muhafazası ve
+olağan bakımı için gerekli onarım ve yenilemeleri yapmakla yükümlüdür.
+
+(2) Malın muhafazası, daha önemli işlerin yapılmasını veya önlemlerin
+alınmasını gerektiriyorsa; intifa hakkı sahibi, durumu malike bildirmek ve
+bunların gerçekleştirilmesine izin vermek zorundadır.
+
+(3) Malikin gereken işleri yapmaktan kaçınması hâlinde intifa hakkı sahibi,
+bunları onun hesabına kendisi yapabilir.
+====
+
+[caption=""]
+.Bakım ve işletme giderleri
+====
+*MK 813*: (1) İntifa hakkı konusu olan malın olağan bakım ve işletme giderleri,
+güvencesini oluşturduğu borçların faizleri, vergi ve resimleri, intifa
+süresince intifa hakkı sahibine aittir.
+
+(2) Vergi ve resimleri malik ödemişse, intifa hakkı sahibi, yukarıda belirtilen
+esasa göre bunları malike tazmin etmek zorundadır.
+
+(3) Diğer bütün yükümlülükler malike aittir. Ancak, intifa hakkı sahibi
+bunların yerine getirilmesi için gereken parayı, istemi üzerine malike
+karşılıksız olarak sağlamazsa; malik, intifa hakkı konusu malı bu
+yükümlülüklerin yerine getirilmesi için kısmen veya tamamen paraya çevirebilir.
+====
+
+[caption=""]
+.Zamanaşımı
+====
+*MK 802*: (1) Geri verme anında malik ve intifa hakkı sahibi tarafından ileri
+sürülebilecek bütün istem hakları, bu andan başlayarak bir yıl geçmekle
+zamanaşımına uğrar.
+====
+
+==== İNTİFA HAKKI SAHİBİNİN HAKLARI
+
+. *İntifa konusu mala zilyet olma yetkisi*: İntifa hakkının tanınması ile
+zilyetlik intifa hakkı sahibine devredilir. Malik dolaylı asli zilyet olurken
+intifa hakkı sahibi dolaysız fer'i zilyet olur.
+. *İntifa konusu malı yönetme yetkisi*: İntifa konusu malın yönetilmesi
+münhasıran intifa hakkı sahibine aittir. Yönetime ilişkin olarak malın
+malikiyle anlaşma yapma sorumluluğu yoktur. Ancak alacaklar üzerinde intifa
+hakkı tanınması söz konusu ise alacağın yönetimi malik ve intifa hakkı sahibi
+tarafından birlikte yürütülür.
+. *İntifa konusu malı kullanma yetkisi*: İntifa hakkı sahibi malın özüne zarar
+vermemek ve özgülendiği amaca uygun olmak şartıyla istediği gibi kullanabilir.
+. *İntifa konusu maldan yararlanma yetkisi*: Yararlanma, doğal ve hukuki
+ürünlerden yararlanmayı ifade eder.
++
+[caption=""]
+.Doğal ürünler
+====
+*MK 804*: (1) İntifa hakkı süresi içinde olgunlaşan doğal ürünler, intifa hakkı
+sahibine aittir.
+
+(2) Ekimi veya dikimi yapan malik veya intifa hakkı sahibi, olgunlaşan ürünleri
+toplayan diğer taraftan, yaptığı giderler için ürünün değerini aşmamak üzere
+uygun bir bedel isteyebilir.
+
+(3) Nitelikleri itibarıyla malın doğal verimi veya ürünü sayılmayan bütünleyici
+parçaları malike aittir.
+====
++
+[caption=""]
+.Faizler
+====
+*MK 805*: (1) İntifa hakkına konu olan sermayenin faizleri ve diğer dönemsel
+gelirleri, daha geç muaccel olsalar bile, intifa hakkının başladığı tarihten
+sona erdiği tarihe kadar intifa hakkı sahibine ait olur.
+====
+. *Resmi defter tutulmasını talep yetkisi*: Defter tutma hem intifa hakkı
+sahibine hem de malike bir hak olarak tanınmıştır. Hangi taraf talep ederse
+karşı taraf bunu yerine getirmek zorundadır, aksi takdirde dava yoluyla
+mahkemeden defter tutulması talep edilebilir.
++
+Defter noter tarafından tutulur ve masraflar ortak olarak karşılanır.
++
+İntifa konusu malların resmi defterinin tutulması hem intifa hakkı sahibinin
+hakkının ispatını kolaylaştırır hem de hak sona erdiğinde iade edilecek malları
+belirlemeyi kolaylaştırır.
+
+==== İNTİFA HAKKI SAHİBİNİN YÜKÜMLÜLÜKLERİ
+
+. *Bakım ve koruma yükümlülüğü*
++
+[caption=""]
+.Malın korunması
+====
+*MK 812*: (1) İntifa hakkı sahibi, hakkın konusu olan malın muhafazası ve
+olağan bakımı için gerekli onarım ve yenilemeleri yapmakla yükümlüdür.
+
+(2) Malın muhafazası, daha önemli işlerin yapılmasını veya önlemlerin
+alınmasını gerektiriyorsa; intifa hakkı sahibi, durumu malike bildirmek ve
+bunların gerçekleştirilmesine izin vermek zorundadır.
+
+(3) Malikin gereken işleri yapmaktan kaçınması hâlinde intifa hakkı sahibi,
+bunları onun hesabına kendisi yapabilir.
+====
+
+. *Koruma ve işletme masrafları ile vergileri ödeme yükümlülüğü*
++
+[caption=""]
+.Bakım ve işletme giderleri
+====
+*MK 813*: (1) İntifa hakkı konusu olan malın olağan bakım ve işletme giderleri,
+güvencesini oluşturduğu borçların faizleri, vergi ve resimleri, intifa
+süresince intifa hakkı sahibine aittir.
+
+(2) Vergi ve resimleri malik ödemişse, intifa hakkı sahibi, yukarıda belirtilen
+esasa göre bunları malike tazmin etmek zorundadır.
+
+(3) Diğer bütün yükümlülükler malike aittir. Ancak, intifa hakkı sahibi
+bunların yerine getirilmesi için gereken parayı, istemi üzerine malike
+karşılıksız olarak sağlamazsa; malik, intifa hakkı konusu malı bu
+yükümlülüklerin yerine getirilmesi için kısmen veya tamamen paraya çevirebilir.
+====
+
+. *İntifa konusu malı sigorta ettirme yükümlülüğü*
++
+[caption=""]
+.Sigorta ettirme
+====
+*MK 815*: (1) Yerel âdetlere göre iyi bir yönetimin gereği olduğu takdirde
+intifa hakkı sahibi, malikin lehine malı yangına ve diğer tehlikelere karşı
+sigorta ettirmekle yükümlüdür.
+
+(2) Bu durumda veya intifa hakkının sigortalı bir mal üzerinde kurulmuş olması
+hâlinde intifa hakkı sahibi, hakkının devamı süresince sigorta primlerini
+ödemekle yükümlüdür.
+====
+
+==== MALİKİN HAKLARI
+
+. *İntifa konusu üzerinde tasarruf yetkisi*: Malikin tasarruf yetkisi başkasına
+intifa hakkı tanınmış olsa da devam eder. Ancak malikin tasarruf yetkisi intifa
+hakkı sahibinin hakkına zarar veremez.
+. *Gözetim yetkisi*: Malik intifa hakkı sahibinin malı özgülendiği amaca uygun
+kullanıp kullanmadığını kontrol edebilir.
++
+[caption=""]
+.Gözetim
+====
+*MK 807*: (1) Malik, hakkın konusu olan malın hukuka aykırı ya da niteliğine
+uygun düşmeyen kullanılış biçimine itiraz edebilir.
+====
+. *Teminat isteme hakkı*: Malikin mülkiyet hakkının zarar görme ihtimali söz
+konusu olduğunda malik intifa hakkı sahibinden teminat göstermesini
+isteyebilir. Tüketilebilen şeylerin initfa hakkı durumunda böyle bir tehlike
+olmasa bile malik kendisine bir teminat gösterilmesini isteyebilir.
++
+[caption=""]
+.Güvence isteme
+====
+*MK 808*: (1) Haklarının tehlikeye düştüğünü ispat eden malik, intifa hakkı
+sahibinden güvence isteyebilir.  İntifa hakkının konusu tüketilebilen şey veya
+kıymetli evrak ise, malik tehlikenin ispatına gerek olmaksızın teslimden önce
+de güvence isteyebilir.
+
+(2) Kıymetli evrakın güvenilir bir yere tevdi edilmesi güvence yerine geçer.
+====
++
+[caption=""]
+.Bağışlamada güvence
+====
+*MK 809*: (1) İntifa hakkı kendisinde kalmak üzere yapılan bağışlamalarda
+bağışlayandan güvence istenemez.
+====
+. *İntifa hakkı sahibinin intifa konusu eşya üzerindeki zilyetliğine son
+verilmesini talep yetkisi*: İntifa hakkı sahibi malikin itirazına rağmen intifa
+konusu şeyi hukuka aykırı şekilde kullanıyor ya da güvence istenmesine rağmen
+vermiyorsa malik malın intifa hakkın sahibinden alınıp kayyıma devredilmesini
+isteyebilir.
++
+[caption=""]
+.Güvence verilmemesinin sonuçları
+====
+*MK 810*: (1) İntifa hakkı sahibi, kendisine tanınan uygun süre içinde güvence
+göstermez veya hakkın konusu olan malı malikin itiraz etmesine rağmen hukuka
+aykırı şekilde kullanmaya devam ederse; sulh hâkimi, yeni bir karara kadar
+intifa hakkı sahibinin zilyetliğini kaldırarak hakkın konusunu atayacağı bir
+kayyıma tevdi eder.
+====
++
+CAUTION: Burada intifa hakkı devam etmektedir. Sadece zilyetlik intifa hakkı
+sahibinden alınmaktadır.
++
+İntifa hakkı sahibi güvence gösterinceye veya hukuka aykırı kullanılmasının
+devam etmeyeceği sabit oluncaya kadar kayyımın görevi devam eder.
+. *Resmi defter tutulmasını talep yetkisi*
++
+[caption=""]
+.Defter tutma
+====
+*MK 811*: (1) Malik veya intifa hakkı sahibi, diğerinden giderleri paylaşmak
+üzere intifa hakkına konu olan malların noterlikçe resmen defterinin
+tutulmasını her zaman isteyebilir.
+====
+. *Alacak üzerinde intifa söz konusu ise yönetime katılma yetkisi*
+
+==== ÖZEL İNTİFA ÇEŞİTLERİ
+
+===== TÜKETİME TABİ EŞYA ÜZERİNDE İNTİFA
+
+[caption=""]
+.Tüketilebilen ve değeri biçilen şeyler
+====
+*MK 819*: (1) Tüketilebilen şeylerin mülkiyeti, aksi kararlaştırılmadıkça,
+intifa hakkı sahibine geçer; ancak, intifa hakkı sahibi geri verme sırasında bu
+şeylerin o günkü değerini ödemekle yükümlü olur.
+
+(2) İntifa hakkı sahibi, değeri biçilerek kendisine teslim olunan diğer
+taşınırlar üzerinde, aksi kararlaştırılmadıkça, serbestçe tasarrufta
+bulunabilir; ancak, bu yetkisini kullandığı takdirde bu şeylerin biçilen
+değerlerini geri verme sırasında ödemekle yükümlü olur. Bu ödeme, tarım
+işletmesi gereçleri, hayvan sürüleri, ticarî mallar veya benzeri şeylerde aynı
+cins ve nitelikte eşya verilmesi suretiyle yerine getirilebilir.
+====
+
+Tüketilebilen şeyler üzerinde intifa hakkı kurulduğunda intifa konusu şeyin
+mülkiyeti intifa hakkı sahibine geçer. İntifa hakkı sahibi malik olduğundan
+eşya üzerinde istediği gibi tasarruf edebilir. Hak sona erdiğinde ise değeri
+iade edilir.
+
+===== ALACAK ÜZERİNDE İNTİFA
+
+Alacak üzerinde intifa hakkı kurulması için alacağın *intifa hakkı kurmak amacı
+ile* intifa hakkı sahibine temliki gerekir.
+
+[caption=""]
+.Yararlanmanın kapsamı
+====
+*MK 820*: (1) Bir alacak üzerindeki intifa hakkı, onun getirisini edinme
+yetkisi verir.
+
+(2) Borçluya karşı yapılacak ödeme isteminin ve kıymetli evrak üzerindeki
+tasarrufların alacaklı ve intifa hakkı sahibi tarafından birlikte yapılması,
+borcunu ödemek üzere borçlu tarafından yapılacak bildirimin de bunların her
+ikisine yöneltilmesi gerekir.
+
+(3) Alacak tehlikeye düşerse, alacaklı ve intifa hakkı sahibinden her biri,
+diğerinden iyi bir yönetimin gerektirdiği önlemleri almaya katılmasını
+isteyebilir.
+====
+
+Alacak üzeride bir kişiye intifa hakkı tesis edildiğinde yönetim yetkisi hem
+alacak hakkı sahibinde hem de intifa hakkı sahibindedir. Alacağın ödenmesi
+hususunda birlikte ihtar çekmeleri gerekir.
+
+[caption=""]
+.Ödeme ve işletme
+====
+*MK 821*: (1) Alacaklı ve intifa hakkı sahibinden birine ödemeye yetkili
+kılınmamış olan borçlu, borcunu ikisine birlikte ödemek veya hâkimin
+belirleyeceği yere tevdi etmek zorundadır.
+
+(2) Yerine getirilen edimin konusu ve özellikle geri ödenecek ana para, intifa
+hakkına tâbi olur.
+
+(3) Alacaklı veya intifa hakkı sahibi, ana paranın güvenilir ve getiri sağlayan
+bir yere yatırılmasını isteyebilir.
+====
+
+[caption=""]
+.Devir isteme hakkı
+====
+*MK 822*: (1) İntifa hakkı sahibi, intifaın başlangıcını izleyen üç ay içinde,
+hakkın konusu olan alacağın ve kıymetli evrakın kendisine devrini isteyebilir.
+
+(2) İntifa hakkı sahibi, alacağın ve kıymetli evrakın devri sırasındaki değeri
+tutarında devredene karşı bunların bedelini ödeme borcu altına girer ve feragat
+edilmedikçe bu borç için ayrıca güvence göstermekle yükümlü olur.
+
+(3) Güvence istemekten feragat edilmemiş ise devir, ancak güvence
+gösterildikten sonra hüküm ifade eder.
+====
+
+=== OTURMA (SÜKNA) HAKKI
+
+*Oturma hakkı*, başkasına ait oturulabilir bir taşınmaz üzerinde ikamet etme
+hakkıdır.
+
+====
+*MK 823*: (1) Oturma hakkı, bir binadan veya onun bir bölümünden konut olarak
+yararlanma yetkisi verir.
+
+(2) Oturma hakkı, başkasına devredilemez ve mirasçılara geçmez.
+
+(3) Kanunda aksine hüküm bulunmadıkça, intifa hakkına ilişkin hükümler oturma
+hakkına da uygulanır.
+====
+
+Oturma hakkının konusu ancak taşınmaz ya da bağımsız ve sürekli hak
+niteliğindeki üst hakkı olabilir. Ancak oturma hakkının konusu olacak taşınmaz
+oturmaya elverişli olmalıdır.
+
+IMPORTANT: Oturma hakkı sahibi kullanım hakkını üçüncü kişilere devredemez.
+
+Oturma hakkı ancak gerçek kişilere tesis edilebilir. Tüzel kişiler lehine
+oturma hakkı tesis edilemez.
+
+Üç şekilde oturma hakkı tesis edilebilir:
+
+. Hak sahibinin bir binanın tamamında bağımsız olarak ve
+münhasıran kendisinin oturması suretiyle yararlanması için kurulabilir.
+. Oturma hakkı sahibi ile malik binayı birlikte kullanmak üzere oturma hakkı
+kurulabilir.
+. Oturma hakkı, hak sahibinin binanın belirli yerlerinde bağımsız ve münhasır
+kullanma yetkisine; mutfak, banyo, koridor vs. gibi ortak yerlerde ise binada
+oturan diğer kişilerle birlikte kullanma yetkisine sahip olmasını sağlayacak
+tarzda da kurulabilir.
+
+Oturma hakkı taşınmaz üzerinde sınırlı ayni bir hak olduğu için geçerli kazanma
+sebebi, tescil talebi ve tescil ile kurulur.
+
+[caption=""]
+.Oturma hakkının kapsamı
+====
+*MK 824*: (1) Oturma hakkının kapsamı, genel olarak hak sahibinin kişisel
+ihtiyaçlarına göre belirlenir.
+
+(2) Oturma hakkı sahibi, hakkın şahsına özgülendiği açıkça belirtilmedikçe,
+bina veya onun bir bölümünde ailesi ve ev halkı ile birlikte oturabilir.
+
+(3) Binanın bir bölümü üzerinde oturma hakkına sahip olan kimse, ortaklaşa
+kullanmaya özgülenen yerlerden de yararlanabilir.
+====
+
+[caption=""]
+.Giderler
+====
+*MK 825*: (1) Oturma hakkı, binanın veya bir bölümünün tamamından yararlanma
+yetkisi veriyorsa; bina veya bölümün muhafazası ve olağan bakımı için gerekli
+onarım ve yenileme giderleri, oturma hakkı sahibine aittir.
+
+(2) Oturma hakkı sahibi bina veya onun bir bölümünü malik ile birlikte
+kullanıyorsa, bakım ve onarım giderleri malike ait olur.
+====
+
+Oturma hakkı hak sahibinin ölümü ile sona erer. İntifa hakkının sona erme
+sebepleri burada da geçerlidir.
+
+=== ÜST HAKKI
+
+[caption=""]
+.Konu ve tapu kütüğüne kayıt
+====
+*MK 826*: (1) Bir taşınmaz maliki, üçüncü kişi lehine arazisinin altında veya
+üstünde yapı yapmak veya mevcut bir yapıyı muhafaza etmek yetkisi veren bir
+irtifak hakkı kurabilir.
+
+(2) Aksi kararlaştırılmış olmadıkça bu hak, devredilebilir ve mirasçılara
+geçer.
+
+(3) Üst hakkı, bağımsız ve sürekli nitelikte ise üst hakkı sahibinin istemi
+üzerine tapu kütüğüne taşınmaz olarak kaydedilebilir. En az otuz yıl için
+kurulan üst hakkı, sürekli niteliktedir.
+====
+
+Üst hakkı kişi lehine kurulabildiği gibi eşyaya bağlı olarak da kurulabilir.
+Sözleşmede aksi düzenlemedikçe üçüncü kişilere devredilebilir ve hak sahibi
+öldüğünde mirasçılarına geçer.
+
+[caption=""]
+.İçerik ve kapsam
+====
+*MK 827*: (1) Üst hakkının içerik ve kapsamıyla ilgili olarak resmî senette yer
+alan, özellikle yapının konumuna, şekline, niteliğine, boyutlarına, özgülenme
+amacına ve üzerinde yapı bulunmayan alandan faydalanmaya ilişkin sözleşme
+kayıtları herkes için bağlayıcıdır.
+====
+
+Üst hakkının üçüncü kişilere devredilemeyeceği veya ancak malikin izniyle
+devredilebileceği düzenlenmişse ya da eşyaya bağlı olarak kurulmuş ise bağımsız
+bir hak değildir.
+
+Üst hakkı en az 30 yıl süre için kurulmuş ve bağımsız nitelikte ise tapuya ayrı
+bir sayfada kaydedilebilir.
+
+[caption=""]
+.Bağımsız ve sürekli haklar
+====
+*Tapu Sicili Tüzüğü 10*: (1) Süresiz veya en az otuz yıl süreli olan ve
+tasarrufları kısıtlanmayan ve izne tâbi kılınmayan bağımsız ve sürekli irtifak
+hakları, hak sahibinin yazılı istemi üzerine tapu kütüğünün ayrı bir sayfasına
+taşınmaz olarak tescil edilir.
+
+(2) Tapu kütüğüne taşınmaz olarak tescil edilen bağımsız ve sürekli haklar,
+üçüncü kişilere devredilebilir, mirasçılara geçebilir ve üzerinde her türlü
+aynî veya kişisel hak kurulabilir.
+====
+
+Üst hakkı taraflar arasında sürekli borç ilişkisi meydana getirir. Teslime dair
+hususlarda satış sözleşmesine ilişkin hükümler, kullanıma dair hususlarda ise
+kira sözleşmesine ilişkin hükümler kıyasen uygulanır.
+
+Üst hakkı en fazla 100 yıl için kurulabilir. Süresiz üst hakkı 100 yıl sonra
+geçersiz hale gelir. Üst hakkının kurulmasından itibaren 75 yıl geçtikten sonra
+bir 100 yıl daha uzatılabilir.
+
+[caption=""]
+.Sürenin üst sınırı
+====
+*MK 836*: (1) Üst hakkı, bağımsız bir hak olarak en çok yüz yıl için
+kurulabilir.
+
+(2) Üst hakkı, süresinin dörtte üçü dolduktan sonra, kurulması için öngörülen
+şekle uyularak her zaman en çok yüz yıllık yeni bir süre için uzatılabilir. Bu
+konuda önceden yapılan taahhüt bağlayıcı değildir.
+====
+
+Üst hakkı sona erince arazi üzerindeki yapının mülkiyeti arazi malikine geçer.
+
+[caption=""]
+.Yapı mülkiyetinin malike geçmesi
+====
+*MK 828*: (1) Üst hakkı sona erince yapılar, arazi malikine kalır ve arazinin
+bütünleyici parçası olur.
+
+(2) Bağımsız ve sürekli üst hakkı tapu kütüğüne taşınmaz olarak kaydedilmişse,
+üst hakkı sona erince bu sayfa kapatılır.  Taşınmaz olarak kaydedilmiş olan üst
+hakkı üzerindeki rehin hakları, diğer bütün hak, kısıtlama ve yükümlülükler de
+sayfanın kapatılmasıyla birlikte sona erer. Bedele ilişkin hükümler saklıdır.
+====
+
+Taraflar üst hakkı sahibine ödenecek bir bedeli sözleşmede
+kararlaştırabilirler.
+
+[caption=""]
+.Bedel
+====
+*MK 829*: (1) Taşınmaz maliki, aksi kararlaştırılmadıkça, kendisine kalan
+yapılar için üst hakkı sahibine bir bedel ödemez. Uygun bir bedel ödenmesi
+kararlaştırılmışsa, miktarı ve hesaplanış biçimi belirlenir. Ödenmesi
+kararlaştırılan bedel, üst hakkı kendileri için rehnedilmiş olan alacaklıların
+henüz ödenmemiş alacaklarının güvencesini oluşturur ve rızaları olmaksızın üst
+hakkı sahibine ödenmez.
+
+(2) Kararlaştırılan bedel ödenmez veya güvence altına alınmazsa, üst hakkı
+sahibi veya bu hak kendisine rehnedilmiş olan alacaklı, bedel alacağına güvence
+olmak üzere, terkin edilen üst hakkı yerine aynı derecede ve sırada bir
+ipoteğin tescilini isteyebilir.
+
+(3) Bu ipotek, üst hakkının sona ermesinden başlayarak üç ay içinde tescil
+edilir.
+====
+
+MK 829/3'te öngörülen üç aylık süre bir hak düşürücü süredir. Yapılacak tescil
+kurucu etkiye sahiptir.
+
+====
+*MK 830*: (1) Taşınmaz malikine kalan yapılar için üst hakkı sahibine ödenmesi
+kararlaştırılan bedelin miktarı ve bunun hesaplanış biçimi ile bu bedel
+borcunun kaldırılmasına ve arazinin ilk hâline getirilmesine ilişkin
+anlaşmalar, üst hakkının kurulması için gerekli olan resmî şekle tâbidir ve
+tapu kütüğüne şerh verilebilir.
+====
+
+Üst hakkı sahibi malik ile aralarındaki sözleşmeye ağır bir şekilde tecavüz
+ederek karşı tarafa zarar verirse malik hakkın kendisine devrini talep edebilir
+(MK 831).
+
+====
+*MK 831*: (1) Üst hakkı sahibi, bu haktan doğan yetkilerinin sınırını ağır
+şekilde aşar veya sözleşmeden doğan yükümlülüklerine önemli ölçüde aykırı
+davranırsa; malik, üst hakkının ona bağlı bütün hak ve yükümlülükleri ile
+birlikte süresinden önce kendisine devrini isteyebilir.
+====
+
+====
+*MK 832*: (1) Malik, üst hakkının devrini, kendisine geçecek yapılar için uygun
+bir bedel ödemek kaydıyla isteyebilir.  Üst hakkı sahibinin kusuru, bedelin
+belirlenmesinde indirim sebebi olarak göz önüne alınabilir.
+
+(2) Üst hakkının malike devri, bedelin ödenmesine veya güvence altına alınmış
+olmasına bağlıdır.
+====
+
+=== KAYNAK HAKKI
+
+*Kaynak hakkı*, hak sahibine bir başkasının arazisindeki kaynağın sularını
+almak ve kendi arazisine akıtmak yetkisini sağlayan irtifak hakkıdır.
+
+====
+*MK 837*: (1) Başkasının arazisinde bulunan kaynak üzerinde irtifak hakkı, bu
+arazinin malikini suyun alınmasına ve akıtılmasına katlanmakla yükümlü kılar.
+
+(2) Bu hak, aksi kararlaştırılmış olmadıkça, başkasına devredilebilir ve
+mirasçıya geçer.
+
+(2) Kaynak hakkı, bağımsız nitelikte ve en az otuz yıl için kurulmuş ise tapu
+kütüğüne taşınmaz olarak kaydedilebilir.
+====
+
+Kaynak hakkı bir irtifak olduğundan ve taşınmaz üzerinde kurulduğundan dolayı
+kurulması tescile tabidir.
+
+Eşyaya bağlı irtifak veya kişiye bağlı irtifak şeklinde kurulması mümkündür.
+
+== TAŞINMAZ REHNİ
+
+[caption=""]
+.Taşınmaz rehninin türleri
+====
+*MK 850*: (1) Taşınmaz rehni, ancak ipotek, ipotekli borç senedi veya irat
+senedi şeklinde kurulabilir.
+====
+
+Gerek teminat altına alınacak olan alacağın, gerekse de teminat teşkil edecek
+taşınmazın belirli olması gerekir.
+
+[caption=""]
+.Taşınmaz tek ise
+====
+*MK 854*: (1) Rehin kurulurken, konusu olan taşınmazın belirtilmesi gerekir.
+
+(2) Bölünen taşınmazın parselleri tapu kütüğüne ayrı ayrı kaydedilmedikçe rehne
+konu olamaz.
+====
+
+*Maksimal ipotek*: Özellikle cari hesap ilişkilerinin varlığı halinde sürekli
+olarak "kredi alma-ödeme" ilişkisi gerçekleşen bir ticari ilişkide yapıldığı
+andan itibaren oluşmuş ve oluşacak bütün ilişkileri teminat altına almak için
+bir ipotek tesis edilrse *maksimal ipotek* söz konusu olur. Maksimal ipotek
+belirlenen en üst rakama kadar geçerli olur.
+
+====
+*mk 851*: (1) taşınmaz rehni, miktarı türk parası ile gösterilen belli bir
+alacak için kurulabilir. Alacağın miktarının belli olmaması hâlinde,
+alacaklının bütün istemlerini karşılayacak şekilde taşınmazın güvence altına
+alacağı üst sınır taraflarca belirtilir.
+
+(2) Yurt içinde veya dışında faaliyette bulunan kredi kuruluşlarınca yabancı
+para üzerinden veya yabancı para ölçüsü ile verilen kredileri güvence altına
+almak için yabancı para üzerinden taşınmaz rehni kurulabilir. Bu hâlde her
+derecenin ifade ettiği miktar, rehin konusu alacağın tespit edildiği para türü
+üzerinden gösterilir. Ancak, aynı derecede birden fazla para türü kullanılarak
+rehin kurulamaz.
+
+(3) Yabancı para üzerinden kurulan rehne ait bir derecenin boşalması hâlinde,
+yerine, tescil edileceği tarihteki karşılığı Türk parası veya yabancı para
+üzerinden rehin kurulabilir. Türk parası ile kurulmuş bir rehne ait derecenin
+boşalması hâlinde ise, yerine tescil edileceği tarihteki karşılığı yabancı para
+üzerinden rehin kurulabilir.
+
+(4) Yabancı veya Türk parası karşılıklarının hesabında hesap günündeki Türkiye
+Cumhuriyet Merkez Bankasının döviz alış kuru esas alınır. Rehin haklarının
+hangi yabancı paralar üzerinden kurulabileceği Bakanlar Kurulunca belirlenir.
+====
+
+
+*Anapara ipoteği*: Güvence altına alınacak alacağın tamamı veya bir kısmı rehin
+miktarı olarak tapu kütüğüne Türk lirası cinsinden yazılır. Anaparanın
+fer'ileri (takip giderleri, gecikme faizleri vs.) bunun üzerinden belirlenir.
+
+[caption=""]
+.Faiz
+====
+*MK 852*: (1) Sınırlayıcı hükümler saklı kalmak kaydıyla, taraflar faiz oranını
+diledikleri gibi kararlaştırabilirler.
+====
+
+IMPORTANT: İpotek ancak ve ancak tapuya kayıtlı taşınmazlar üzerinde
+kurulabilir.
+
+[caption=""]
+.Rehne konu olabilme
+====
+*MK 853*: (1) Rehin hakkı, ancak tapuya kayıtlı taşınmazlar üzerinde
+kurulabilir.
+====
+
+İki ihtimalde **toplu rehin**den söz edilebilir:
+
+. *Birinci ihtimal*: Üzerinde rehin kurulmak istenen taşınmazların mülkiyeti
+aynı kişide olmalıdır.
+. *İkinci ihtimal*: Taşınmazların malikleri farklı olmakla beraber bunlar
+teminat altına alınmak istenen borçtan müteselsilen sorumludurlar.
+
+CAUTION: Toplu rehinde alacaklı taşınmazları rehinleyen tek bir rehin hakkı
+kazanmaktadır.
+
+[caption=""]
+.Taşınmaz birden çok ise
+====
+*MK 855*: (1) Birden çok taşınmazın aynı borç için rehnedilmesi, taşınmazların
+aynı malike veya borçtan müteselsilen sorumlu olan maliklere ait olmalarına
+bağlıdır.
+
+(2) Aynı alacak için birden çok taşınmazın rehnedildiği diğer hâllerde, her
+taşınmazın alacağın ne miktarı için güvence oluşturduğu rehin kurulurken
+belirtilir.
+
+(3) Aksine bir anlaşma bulunmadıkça, tapu idaresi, re'sen güvenceyi
+taşınmazların her birine değeri oranında dağıtır.
+====
+
+=== TAŞINMAZ REHNİNİN KAZANILMASI
+
+Alacaklı ile borçlu arasında yapılan **taşınmaz rehni sözleşmesi** ile borçlu
+alacaklı lehine taşınmazı üzerinde rehin kurma borcu altına girer. Taşınmaz
+rehni sözleşmesi geçerlilik şartı olarak tapuda yapılmalıdır. Bu sözleşme
+uyarınca rehin hakkı tescil edilecektir.
+
+[caption=""]
+.Tescil
+====
+*MK 856*: (1) Taşınmaz rehni tapu kütüğüne tescil ile kurulur. Kanunda
+öngörülen ayrık durumlar saklıdır.
+
+(2) Taşınmaz rehninin kurulmasına ilişkin sözleşmenin geçerliliği, resmî
+şekilde yapılmış olmasına bağlıdır.
+====
+
+[caption=""]
+.Birden çok kişiye ait taşınmazlarda
+====
+*MK 857*: (1) Paylı mülkiyette paydaş kendi payını rehnedebilir.
+
+(2) Pay üzerinde rehin kurulduktan sonra paydaşlar malın tamamını
+rehnedemezler.
+
+(3) Elbirliği mülkiyetine tâbi taşınmaz, ancak bütün olarak ve maliklerin
+tamamı adına rehnolunabilir.
+====
+
+CAUTION: MK 705, rehin hakkının kurulması için kullanılamayacaktır. Mahkeme ile
+rehin hakkının kurulmasına karar verildiği takdirde rehin hakkı karar ile
+doğmaz, bu karar rehin hakkının tescil sebebi olacaktır. Yapılacak tescil
+kurucudur.
+
+=== TAŞINMAZ REHNİNİN SONA ERMESİ
+
+İpotek hakkı, rehinli alacaklı ile taşınmaz malikinin anlaşması suretiyle
+terkin edilerek sona erebileceği gibi her halükarda alacak hakkının ortadan
+kalkması ile sona erer.
+
+[caption=""]
+.Rehnin sona ermesi
+====
+*MK 858*: (1) Taşınmaz rehni, tescilin terkini veya taşınmazın tamamen yok
+olmasıyla sona erer.
+
+(2) Kamulaştırmaya ilişkin kanun hükümleri saklıdır.
+====
+
+[caption=""]
+.İpoteğin terkinini isteme hakkı
+====
+*MK 883*: (1) Alacak sona erince ipotekli taşınmazın maliki, alacaklıdan
+ipoteği terkin ettirmesini isteyebilir.
+====
+
+=== SABİT DERECELER SİSTEMİ
+
+**Sabit dereceler sistemi**ne göre üzerine ipotek tesis edilmiş taşınmaz
+belirli derecelere bölünür. Böylece taşınmaz satılıp paraya çevrildiğinde 1.
+dereceden başlayarak alacaklıların alacağı ödenir.
+
+IMPORTANT: Sabit dereceler sisteminde tarih itibariyle bir sıralama söz konusu
+değildir. Derece, malik ile rehinli alacaklının anlaşmasına göre belirlenir.
+
+Birinci derece boşaldığı zaman ikinci derecedeki alacaklı üçüncü derecedeki
+alacaklının onayını alarak birinci dereceye ilerleyebilir.
+
+Aynı derecede birden fazla alacaklı bulunabilir.
+
+=== REHNİN KAPSAMI
+
+[caption=""]
+.Rehnin kapsamı
+====
+*MK 862*: (1) Rehin, taşınmazı bütünleyici parçaları ve eklentileri ile
+birlikte yükümlü kılar.
+
+(2) Rehnin kuruluşu sırasında makine, otel döşeme eşyası gibi açıkça eklenti
+olarak gösterilen ve tapu kütüğünde beyanlar sütununa yazılan şeyler, kanuna
+göre bu nitelikte olamayacakları ispat edilmedikçe eklenti sayılır.
+
+(3) Üçüncü kişilerin eklentiler üzerindeki hakları saklıdır.
+====
+
+Taşınmaz rehninin kapsamına şunlar girer:
+
+. Taşınmazın tamamı
+. Taşınmazın bütünleyici parçaları
+. Taşınmazın eklentileri
++
+TIP: Taşınmazın beyanlar sayfasına eklenmiş menkuller karine olarak eklenti
+sayılır.
+. Kira bedeli ve sigorta tazminatları
++
+[caption=""]
+.Kira bedelleri
+====
+*MK 863*: (1) Kiraya verilmiş taşınmaz üzerindeki rehnin kapsamına, borçluya
+karşı rehnin paraya çevrilmesi yoluyla takibe başlanmasından veya borçlunun
+iflâsının ilânından başlayarak rehnin paraya çevrilmesi anına kadar işleyen
+kira bedelleri de girer.
+
+(2) Rehin hakkı, kiracılara karşı ancak cebrî icra yoluyla takibin kendilerine
+bildirilmesi veya iflâs kararının ilânından sonra ileri sürülebilir.
+
+(3) Rehinli taşınmaz malikinin henüz muaccel olmamış kira bedelleri üzerinde
+yaptığı hukukî işlemler ile diğer alacaklılar tarafından koydurulan hacizler,
+kira alacaklarının muaccel olmalarından önce rehnin paraya çevrilmesi yoluyla
+takibe başlamış olan rehinli alacaklılara karşı geçerli değildir.
+====
++
+Eğer taşınmazlar ilgili bir sigorta varsa sigortacının, o taşınmazın tapu
+sayfasını kontrol etmek ve rehin varsa *rehinli alacaklının rızası olmadan
+sigorta tazminatını ödememek* sorumluluğu vardır. Bunun aksine davranan
+sigortacı rehinli alacaklının zararını karşılamakla yükümlüdür.
+
+=== REHİN KONUSU TAŞINMAZIN KORUNMASI
+
+Taşınmazın değerinin azalması halinde rehinli alacaklıya sınırlı bir müdahale
+yetkisi tanınmıştır.
+
+Malik kendi kusuruyla taşınmaza zarar vermiş ya da kusurlu davranışı ile üçüncü
+kişinin zarar vermesine imkan vermiş ise MK 865 uygulanır.
+
+[caption=""]
+.Koruma önlemleri
+====
+*MK 865*: (1) Malik, rehinli taşınmazın değerini düşüren davranışlarda
+bulunursa; alacaklı, hâkimden bu gibi davranışları yasaklamasını isteyebilir.
+
+(2) Alacaklıya, gerekli önlemleri almak üzere hâkim tarafından yetki
+verilebileceği gibi; gecikmesinde tehlike bulunan hâllerde alacaklı, böyle bir
+yetki verilmeden de gerekli önlemleri kendiliğinden alabilir.
+
+(3) Alacaklı, önlem için yapmış olduğu giderleri malikten isteyebilir ve bu
+alacakları için taşınmaz üzerinde, tescile gerek olmaksızın ve tescil edilmiş
+olan diğer yüklerden önce gelen bir rehin hakkına sahip olur.
+====
+
+Rehinli alacak sahibi, MK 865 uyarınca hakim başvurarak taşınmazın eski haline
+getirilmesine ya da kendisine ek teminat verilmesine karar verilmesini
+isteyebilir. Bunlar yerine getirilmezse alacağın karşılanamayan kısmı için
+ödeme isteyebilir. Eğer değer azalması devam ediyorsa, rehinli alacaklı,
+kendisine zararı önlemek için yetki verilmesini isteyebilir.
+
+TIP: İpotekli taşınmaza verilen zarar, bir ayni hak olan rehin hakkına verilen
+zarar olduğundan haksız fiil hükümlerince sorumluluk da doğabilir.
+
+Rehinli alacak sahibi, taşınmazın korunması için gereken önlemleri masraf
+yaparak kendi alısa yaptığı masraf kadar ipotek hakkı kazanır. Bu sicil dışı
+ipoteğin kazanıldığı istisnai bir haldir.
+
+=== TAŞINMAZIN REHİN YÜKÜNDEN KURTARILMASI
+
+Kanun koyucu, rehinli bir taşınmazı satın alan kişi için taşınmazı tek taraflı
+olarak rehin yükünden kurtarma prosedürünü düzenlemiştir.
+
+*Şartları*:
+
+. Yeni malik, taşınmaz rehniyle teminat altına alınmış alacaktan şahsen sorumlu
+olmamalıdır.
+. Taşınmazın üzerindeki rehin hakları, yeni malikin taşınmaz mülkiyetini
+kazandığı sırada mevcut olmalıdır.
+. Rehin tutarı taşınmazın değerinden fazla olmalıdır.
+. Rehnin paraya çevrilmesi talep edilmemiş olmalıdır.
+
+Yukarıdaki şartlar varsa, kişi satış bedelini taşınmazın malikine değil de
+rehinli alacaklılara ödeyerek taşınmazı satın alabilir. Bunun için taşınmazı
+satın almak isteyen kişi tapu dairesi aracılığıyla rehinli alacaklılara
+taşınmazı almak istediğine dair bildirim yapar. Bu bildirim üzerine tüm
+alacaklılar anlaşarak parayı alabilirler.
+
+=== İPOTEK
+
+Türk hukukunda taşınmaz rehni, ipotektir. İpotek, alacağa bağlı, fer'i bir
+haktır. Olmayan, geçersiz bir alacak için kurulan ipotek geçersizdir.
+
+Bir ipoteğin kurulması, olmayan bir alacağı doğurmaz ve geçersiz olan bir
+alacağı geçerli hale getirmez.
+
+Her türlü alacak için ipotek kurulabilir; şarta bağlı, gelecekte doğacak, para
+borcu olmayan alacaklar vs. Para borcu olmayan alacaklar için ipotek
+kurulacaksa parasal değerinin belirlenmesi gerekir.
+
+Alacak devredilirse alacağın fer'i olan ipotek de devredilir.
+
+Borçlu ile alacak arasında ipotek sözleşmesi yapıldığında borçlu alacaklıya
+karşı hem kişisel olarak tüm malvarlığıyla sorumludur hem de taşınmazı ile
+sorumludur. Borçluda iki sorumluluk birleşmiştir. Alacaklı genel takip yoluna
+başvurursa, borçlu öncelikle taşınmazın ipoteğe çevrilmesi defini kullanabilir.
+Aksi takdirde tüm malvarlığıyla sorumlu olur.
+
+Taşınmazla sorumluluk ve kişisel sorumluluk her zaman aynı kişide olmak zorunda
+değildir. Borç nakledildiğinde, taşınmaz devredildiğinde veya o borç için
+üçüncü bir kişi ipotek verdiğinde taşınmazla sorumluluk ve kişisel sorumluluk
+ayrılır.
+
+İpotek üçüncü kişinin taşınmazı üzerinde kurulduysa taşınmazın paraya
+çevrilmesine başvurulduğunda üçüncü kişinin borcu ödeme hakkı vardır. Bu
+durumda üçüncü kişi, alacaklının hakkına halef olur.
+
+[caption=""]
+.Ödeme istemi
+====
+*MK 887*: (1) İpotekli taşınmazın maliki borçtan şahsen sorumlu değilse,
+alacaklının ödeme isteminin ona karşı etkili olması, bu istemin hem borçluya,
+hem kendisine karşı yapılmış olmasına bağlıdır.
+====
+
+İpotekli taşınmazın bölünmesi halinde, bölünen taşınmazların maliki aynı kişi
+ise ya da bölünen taşınmazların maliki borcun müteselsil borçluları ise ipotek
+bölünmeden taşınmazlara geçirilebilir.
+
+==== KANUNDAN DOĞAN İPOTEKLER
+
+===== TESCİLE TABİ OLMAYAN KANUNİ İPOTEK
+
+Malikin kusuru ile veya kusuru olmadan taşınmazın değeri azalırsa ipotek
+alacaklısı taşınmazın korunması için masraf yapabilir. Bu durumda yaptığı
+masraf kadar ipotek hakkı sahibi olur.
+
+===== TESCİLE TABİ KANUNİ İPOTEKLER
+
+. Taşınmazın bedelinin ödenmemiş olması halinde o bedelin söz konusu
+taşınmazla teminat alınacağı kanunda düzenlenmiştir.
+. Üst hakkın terkin edildiğinde malik bir bedel ödeyecekse, söz konusu taşınmaz
+üzerinde o bedelin ipoteği kurulabilir.
+. Üst hakkı ivazlı ise bedel alacağı için üst hakkı üzerinde ipotek
+kurulabilir.
+. Kat mülkiyetinde ödenmeyen ortak giderlerin teminatı olarak diğer bağımsız
+bölümlerdeki malikler lehine ipotek kurulabilir.
+. Bir taşınmaza, emek ve malzeme vererek inşaat ve benzeri faaliyetle değer
+kazandıranların alacağını teminat altına almak üzere söz konusu taşınmazda
+ipotek hakkı kurulabilir.
+
+IMPORTANT: Bunlar tescille doğar. Ancak muvafakat gerekli değildir, hak
+sahibinin tek taraflı işlemi ile tescil edilebilir. Tescil, hakkın doğumundan
+itibaren 3 ay içinde yapılmalıdır.
+
+.İnşaatçı ipoteği
+****
+500.000 TL değeri olan bir arsa üzerinde malzeme ve emek ile inşaat
+yapılmıştır. İnşaattan sonra söz konusu taşınmazın değeri 800.000 TL'ye
+çıkmıştır.
+
+İnşaat malikin izni ile yapılmış ve emek verenlerin de alacakları belirli ise
+söz konusu 300.000 TL'lik değer artışından öncelikli olarak alacaklarını alma
+hakkın sahip olurlar. Böylece inşaatçı ipoteği tescil edilmişse üçüncü kişinin
+ipoteğinin önüne geçer.
+****
+
+== TAŞINIR REHNİ
+
+Rehin hakkı alacağa bağlı bir ayni haktır. Alacak geçersizse rehin hakkı da
+geçersiz olur. Alacak yoksa teminat altına alınması gereken bir şey olmadığı
+için rehin de yoktur. Alacak sona erince rehin de kural olarak sona erer.
+Alacağın devri ile beraber rehin hakkı da alacağa bağlı olarak devrolur.
+
+Kamuya açıklık prensibi taşınmazlarda tescil ile sağlanırken, taşınırlarda
+malın teslimi ile sağlanır. Rehin konusunun zilyetliği rehin alana geçmelidir.
+Rehin veren zilyetliği tek başına sürdürdüğü sürece rehin hakkından
+bahsedilemez.
+
+Rehin hakkının tasarruf yetkisi olmayan kişilerden iyiniyetle kazanılması
+mümkündür.
+
+Rehin alan, alacak tamamen ödeninceye kadar rehin konusu şeyi elinde
+tutabilir.
+
+Alacağın kapsamına sözleşme faizi, takip ve mahkeme masraflar ve gecikme faizi
+de girer. Doğal ürün de teminat kapsamındadır, ancak hukuki ürün değildir.
+
+Taşınırlarda rehin hakkı kuruluş sırasına göre sıralanır. Eşya paraya
+çevrildiğinde ilk kurulmuş rehin hakkı sahibinin alacağı ödenir. Arta kalan
+para sıradan devam edilir. Birinci sıradaki rehin ödenince ikinci sıradaki
+rehin kendiliğinden birinci sıraya geçer.
+
+Aynı mal üzerinde birden fazla rehin kurmak için rehin veren, rehin alana
+yazılı ihbarname gönderecektir. Bu ihbarname ile *art rehin* kurulmuş olur.
+
+Teslime bağlı rehinde alacaklı alacağı ödenmezse malı paraya çevirerek
+alacağını alacaktır. Ancak bunun icra takibi yoluyla yapılması şarttır.
+Taraflar anlaşarak özel satım yolu kararlaştırmış olsalar bile icra takibi
+yolunu yasaklayamazlar.
+
+Borcun ödenmemesi durumunda rehin konusu malın alacaklıda kalacağını düzenleyen
+anlaşmalar _Lex Commissoria_ yasağı dolayısıyla geçersizdir. Alacak muaccel
+olduktan sonra ifa yerine edim anlaşması yapılabilir.
+
+Rehin alacaklısı malı saklayacak ve zarar görmemesi için gereken önlemleri
+alacaktır. Kural olarak malı kullanamaz ve semerelerinden yararlanamaz. Ancak
+bunların aksi kararlaştırılabilir.
+
+Rehin alacaklısının mal üzerinde tasarruf yetkisi yoktur. Alacak ödenince malı
+ya malın sahibine ya da art rehin alacaklısına teslim etmekle yükümlüdür. MK
+988 hükmü saklıdır.
+
+NOTE: Rehin konusu şey, rehin verenin zilyetliğine geçerse zilyetlik devam
+ettiği sürece rehin hakkı askıdadır.
+
+=== HAPİS HAKKI
+
+Alacaklının elinde borçluya ait mallar varsa borç ödenmediği takdirde malları
+geri vermekten kaçınabilir. Buna *hapis hakkı* denir.
+
+Hapis hakkı, teslime bağlı rehinden farklı olarak irade dışı kurulur ve alacak
+ne kadarsa o kadar mal üzerinde hapis hakkı kurulabilir. Ayrıca alacak kısmen
+ödenirse ödenen miktar kadar mal geri verilmek zorundadır.
+
+*Hapis hakkının şartları*:
+
+. Hakkın kullanılacağı malların zilyetliği alacaklıya borçlunun rızası ile
+geçmiş olmalıdır.
+. Alacak muaccel olmalıdır. İstisnaen borçlu aciz halinde ise muacceliyet
+beklenmeden de hapi hakkı kurulabilir.
+. Alacaklının üzerinde hapis hakkı kullanmak istediği malların teminat altına
+almak istediği borçla bir ilişkisi olmalıdır. Ticari ilişkilerde bu bağlantı
+var kabul edilir.
+. Taraflar önceden hapis hakkının kullanılmayacağı yönünde anlaşmamış
+olmalıdır.
+
+Alacak ödenmezse hapsedilen mal paraya çevrilebilir. Bunun için borçluya
+ihbarda bulunmalıdır. Eğer bu ihbar sonucu borçlu yeterli miktarda teminat
+gösterirse mallar paraya çevrilemez.
+
+Hapis hakkı konusu mallar, borçlunun zilyetliğine geçerse hapis hakkı sona
+erer.

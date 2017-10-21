@@ -1,0 +1,187 @@
+= THOMAS HOBBES
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+
+Hobbes'un birincil amacı İngiltere'nin 1642'deki iç savaş gibi kargaşa ve savaş
+ortamından uzakta barış içinde bir ülke olmasıydı. Öncekiler gibi ülkenin içine
+düştüğü bunalımdan ancak mutlakiyetle kurtulabileceğine inanıyordu. Onu
+diğerlerinden ayıran ise sözleşme fikridir.
+
+*_Doğa Durumu_*: Doğuştan bencil olan insanoğlu, mutlak biçimde kendi yararını ve
+çıkarını düşünmeye yöneliktir. Doğa durumunda tabiat icabı eşit yaratılan
+insanlar, varlıklarını sürdürebilmek için devamlı olarak kendilerini korumak
+zorunda idiler. Bu nedenle de başkaları üzerinde egemenlik kurma isteği
+duymaktaydılar.
+
+[quote, Thomas Hobbes, Leviathan]
+Çünkü beden gücü söz konusu olunca, en zayıf olan -- ya gizli bir düzenle, ya
+da kendisi gibi aynı tehlike altında olan başkaları ile birleşerek -- en
+güçlüyü öldürmeye yetecek kadar güçlüdür.
+
+Doğa durumunda insanlar arasındaki işte bu herhangi bir kimsenin bir başkasını
+yok edebileceği derecedeki eşitliktir ki, güvensizlik yaratır. Aynı şeyi elde
+etmek isteyen iki kişi birbirine düşman olup, biri ötekisini yok etmeye
+çalışabilir. Biri istediğini elde edipt güçlenirse, bu durumda da kendilerini
+güvende görmeyen öteki insanlar birleşip onun üzerine yürüyebilir. Kısacası,
+doğa durumundaki eşitlikten *güvensizlik* doğar.
+
+Güvensizlikten kurtulmak için başkaları üzerinde *egemenlik* kurmaktan başka
+yol yoktur. Başkaları üzerinde egemenlik kurmaya çalışmak ise, savaşı doğurur.
+
+Doğa durumunda ne bir egemen ne de haklının haksızın ölçüsü olan yasalar
+bulunacaktır. O zaman hiçbir şeyin haklı ya da haksız, adaletli ya da adaletsiz
+olduğu söylenemez. Doğa durumunda adalet bulunmadığı gibi mülkiyet diye bir şey
+de yoktur. İnsanlar, Hobbes'a göre, malın ve canın güvenlik içinde olmadığı
+böyle bir durumda devam edemezlerdi.
+
+*_Doğal Hak - Doğa Yasaları Kavramı_*: Hobbes'a göre insanın kendini korumak için
+gücünün yettiği her şeyi yapabilme özgürlüğü, *doğal haktır*. Hobbes, aklını
+kullanan insanın kendini güvenlik içinde bulmak istediğini söyler. Aslında
+doğal hakkın bir sonucu olan güvenlik isteği, aklın bulgusu olan doğal yasalara
+boyun eğmekle gerçekleşir. 
+
+*Doğal yasalar* üç tanedir:
+
+. Barışı gözet
+. Barışa kavuşmak için her şey üzerindeki mutlak hakkından vazgeç
+. Sözleşmeleri tanı ve onları bozma
+
+*_Toplum Sözleşmesi Kuramı_*: İnsanlar arasında doğa durumuna, herkesin herkesle
+savaşına son verilmesi, akla uygun biçimde karşılıklı güvenin yerleşmesi,
+insanların bir araya gelip yaptıkları *toplum sözleşmesi* ile sağlanır.
+İnsanlar, akıl yoluyla çözümün "_kimsenin hiçbir şey yapmaya hakkının
+olmaması_" olduğunu anlamışlardır. Böylece insanlar toplanıp, *aralarında*
+yaptıkları sözleşme ile, bütün haklarını bir egemene bırakmışlardır. Başlarına,
+bütün haklarını devrettikleri bir egemeni geçirerek devleti kurmuşlardır.
+Böylece doğa durumundan uygar topluma geçmişlerdir.
+
+Güvenlik ve barış içinde toplum haline geçen insanlar, yönetim haklarını bir
+egemene devrederler ama bu toplum hali, Aristo'nun düşündüğü gibi doğal bir
+olay değildir. İradi bir anlaşmadan doğan yapay bir olgu, bir çıkar hesabıdır.
+
+*_Toplum Sözleşmesinden Çıkardığı Sonuçlar_*: Devleti sözleşmeye dayandıran öteki
+düşünürlerden farklı olarak Hobbes, toplum sözleşmesini, daha çok monarşik,
+hatta mutlak monarşik görüşlerine kanıtlar sağlayacak çıkarsamalar yapmaya
+elverecek bir biçimde düzenlemiştir. Hobbes toplum sözleşmesinden şu
+çıkarsamaları türetmektedir:
+
+.. _Can ve mal güvenliği_: Toplum sözleşmesinin varlık nedeni can ve mal
+güvenliğinin sağlanmasıdır. Can güvenliği sağlandığı sürece uyruklar egemene
+boyun eğer.
++
+Ancak, egemen yasal olarak cezalandırmak için bile bir kişiyi öldürmeye,
+yaralamaya kalktığında, kişinin egemene boyun eğmeme özgürlüğü vardır. Bu
+durumda egemenle uyruk arasında doğa durumuna dönülmüş olur. Kişi karşı koyar,
+egemen de doğa durumunun yasasına uygun biçimde gücünü kullanarak gerekeni
+yapabilir.
++
+Hobbes çıkarımlarında can güvenliği konusunda gösterdiği bu tutumunu mal
+güvenliği konusunda sürdürmez. Nedeni, doğa durumunda zaten mülkiyetin
+bulunmamasıdır. Bu nedenle, insanlar egemene karşı mülkiyet haklarını öne
+süremez. Ama egemen, insanların birbirlerine karşı mülkiyet haklarının
+koruyucusudur.
+.. _Sözleşmenin tarafları_: Sözleşme ile haklarını egemene devreden kişiler,
+aslında, sözleşmeyi onunla değil, kendi aralarında yapmışlardır. Bu yüzden
+sözleşme egemeni bağlamaz. İnsanlar ise, kendilerini yönetme haklarını tümüyle
+egemene devrettiklerinden, egemenin buyruklarına koşulsuz olarak boyun eğme
+yükümlülüğü altındadır.
++
+Egemen, yasama, yürütme, yargı haklarını, savaş ve barış yapma yetkisini,
+cezalandırma erkini tekelinde toplamıştır. Yetkileri, düşünce özgürlüğüne
+sansür koyma noktasına kadar uzanır.
+.. _Egemenin kimliği_: Yönetilenlerin kendilerini yönetme haklarını
+devrettikleri egemen bir kişi ya da bir kurul olabilir. Egemen bir kurul ise,
+oy çokluğu bu kurulun istencini tek bir istence dönüştürür. Böylece egemenlik
+gene mutlak ve bölünmemiş kalır. Hobbes'un toplum sözleşmesi kuramının asıl
+amacı monarşiyi savunmak değil, iç savaştan korunmaktır. Bu konuda *erk*
+yönetilenleri korumaya yeterli güçte ise, öteki yönetim biçimlerini de kabule
+hazırdır.
++
+Bununla birlikte Hobbes'un siyaset kuramı daha çok monarşiye uygundur. Hobbes,
+monark kamu yararı için çalıştıkça monarşiyi yeğleyeceğini açıkça belirtmiştir.
+Kurul ise, zıt görüşlerle bölünebilir ve bu karışıklığa yol açabilir. Öte yandan
+egemenliğin bir kurulda, kurultayda olduğu durumlarda, insanların eşitliği
+ilkesi çiğnenebilir. Kurullar belli bazı sınıfları temsil edip, onların
+çıkarlarına çalışıp, insanların doğal eşitliği ilkesine aykırı davranabilirler.
+Bu da bir başka iç savaş nedeni olabilir. Hobbes'un zamanındaki kurullar,
+örneğin Lordar Kamarası, hatta Avam Kamarası, Venedik Büyük Konseyi, demokratik
+halk kurultayları değildir. Dolayısıyla bunlar oligarşik sınıf kurulları olduğu
+için, Hobbes böyle düşünmekte haklıdır. Hobbes'a göre bu tür yönetimlere
+karşılık monarşide bütün uyruklar, monarkın karşısında eşit durumdadır.
+
+*_Özgürlük Sorunu_*: Hobbes zorunlu neden-sonuç ilişkileri ürünü kesin ve sıkı
+bir determinizmi insan davranışlarını ve toplumsal olayları da içine alan genel
+bir doğa yasası olarak görür. Siyasal alandaki mutlakçılığı da doğa alanındaki
+bu mutlak determinist görüşüne dayanır.
+ 
+Hobbes'a göre insanın istenç ürünü gibi görünen özgür davranışları aslında
+*zorunluluk* ürünüdür.
+ 
+[quote, Thomas Hobbes, Leviathan]
+""
+İnsanların istençli hareketleri de böyledir. (Bu hareketler insanların
+istençlerinden çıktıkları için *özgürlükten* kaynaklanırlar, fakat) insan
+iradesinin her işi, her dilek ve eğilimi, ilk halkası bütün nedenlerin
+birincisi olan Tanrı'nın elinde bulunan sürekli bir zincir meydana getirmek
+üzere bir nedenden ya da başka bir nedenden meydana geldiği için, aynı zamanda
+*zorunluluktan* da kaynaklanır.
+""
+ 
+Egemen toplumu doğa yasalarına göre yönettiği sürece, uyrukların ona uyması hem
+özgürlüğün, hem de zorunluluğun bir gereği olacaktır. Bir başka deyişle,
+uyruklar, egemenin buyruklarına uyarken hem zorunlu hem de özgür olacaklardır.
+ 
+Egemenin yasalarla düzenlediği alanın dışındaki yerler ise, uyrukların bireysel
+özgürlük alanıdır.
+
+*_Egemenliğin Sınırlanması_*: Hobbes'un mutlakçılığında egemenlik bölünmez ve
+salt niteliktedir. Siyasal iktidarı bölmek, onu yok etmekle birdir. O zaman
+iktidarın bölünen parçaları kadar yeni iktidar ve egemen ortaya çıkar ki, bu
+sosyal yapının bozulduğunun en açık belirtisidir.
+
+Salt ve kesin yetkilere sahip egemenin en başta gelen yetkisi, yasa koymak ve
+kaldırmaktır. Machiavelli ve Bodin gibi Hobbes da egemeni tek yasa kaynağı
+olarak görür. Buyrukları yasa niteliğindedir. Örf ve adet kuralları,
+varlıklarını egemenin sustuğu ölçüde korurlar. Egemen o konuda bir yasa koymuş
+ise, gelenek ve görenek de artık yoktur.
+
+Hobbes'a göre haksızı ancak yasa belirler. Varsayım olarak da hiçbir yasa
+adaletsiz olamaz, yani hukuka aykırı değildir. Hakkaniyete aykırı olabilir,
+kötü olabilir, faydasız olabilir ama hukuka aykırı olamaz.
+
+Doğal yasaların üçüncüsü oaln "anlaşmalara karşı çıkma, onlara sadık ol"
+buyruğu, Hobbes'da adalet anlayışının temelidir. Adaletin ölçüsü, sözleşmeye
+kesin biçimde uymaktır. Bundan şu sonuç çıkıyor: Devlete itaat ile adil olmak
+eş anlama geliyor.
+
+Böylece devletin bütün buyrukları adil, yasakladıkları adaletsiz demektir. Suçu
+devlet tayin edecektir. Durum böyle olunca devletin temel organı olan egemenin
+koyduğu yasalar da kesin hüküm niteliği taşımakta, karşı gelinemez olmaktadır.
+Ona uygun davranış adildir. 
+
+Doğal yasa, doğal akıl gerçek anlamda hukuk değildir. Tek gerçek hukuk, medeni
+yasalar diye adlandırdığı egemenin koyduğu yasalar bütünüdür.
+
+Yasama yetkisi mutlak olan egemen, koyduğu yasalarla bağlıdır da. Ta ki onu
+kaldırıp yenisini koyuncaya dek. 
+
+Hobbes da tıpkı Bodin ve Machiavelli'de olduğu gibi despotluğa, tiranlığa karşı
+çıkıyor. Egemen yasayı uygulamakla görevlidir, başına buyruk davranamaz. Bunu
+yaparken de uyruklar arasında ayrım gözetemez. Yoksa düzeni korumakla yükümlü
+egemen, bu tür davranışıyla sürekli savaşa, kargaşaya yol açabilir. 
+
+Her şeyi yapmaya sınırsız biçimde karar verecek olan egemenin ödevleri de
+vardır. Egemen uyruğunun güvenliğini içte ve dışta korumakla görevlidir. Bu
+ilkeye aykırı davrandığında kişilerin de isyan hakkı doğar diyor Hobbes ve
+artık böyle bir devlete bağlılık yükümleri de kalmaz.
+
+*_Devlet ile Kilise İlişkisi_*: Hobbes'a göre doğa durumunda ne kadar insan
+varsa o kadar da dinsel inanç vardı. Hangi dini inançtan olurlarsa olsunlar,
+olumlu bir dinin düzenini kabul etmiş kişiler, bir yerden sonra kutsal kitabı
+diledikleri gibi açıklamakla toplumu karışıklığa ve savaşa sürüklüyorlardı.
+Halbuki toplum haline geçince, bu haklarından da (kutsal kitabı bağımsız
+açıklama hakkı) vazgeçen insanlar, bunun tayinini de egemene bırakmışlardır.
+
+Dünyanın yönetimiyle tinsel yönetim özdeştir. Bu durumda tanrısal hukukla
+beşeri hukuk arasında bir çatışmadan söz edilemez. Her anlamda din tümüyle yasa
+ve devletin yönetimi altında olmalıdır.

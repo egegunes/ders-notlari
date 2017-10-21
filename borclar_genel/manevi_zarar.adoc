@@ -1,0 +1,279 @@
+= MANEVİ ZARARIN TAZMİNİ
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== 1- TBK m.58 UYARINCA MANEVİ TAZMİNAT DAVASI
+
+.TBK m.58
+....
+f.1 - Kişilik hakkının zedelenmesinden zarar gören, uğradığı manevi zarara
+karşılık manevi tazminat adı altında bir miktar para ödenmesini isteyebilir.  
+f.2 - Hâkim, bu tazminatın ödenmesi yerine, diğer bir giderim biçimi
+kararlaştırabilir veya bu tazminata ekleyebilir; özellikle saldırıyı kınayan
+bir karar verebilir ve bu kararın yayımlanmasına hükmedebilir.							
+....
+
+=== I. TMK m.58 UYARINCA MANEVİ TAZMİNAT TALEBİ İÇİN ARANAN ŞARTLAR
+
+. Bir kimsenin kişilik hakkına hukuka aykırı bir tecavüz bulunmalıdır.
++
+Bu çerçevede tartışmalı bir nokta, bir meslek grubuna, bir dini, etnik veya
+siyasal gruba yönelik iftira ve hakaretlerin o grubun herhangi bir üyesine
+yansıma yoluyla tazminat talep hakkı verip vermediğidir. Bu durum, “yansıma
+yoluyla zarar”dan farklıdır. Zira burada, yaşayan bir gerçek veya tüzel kişinin
+kişiliği ihlal edilip de bunun yakınlarının zarara uğraması söz konusu
+değildir. Burada, pek çok kişinin ortak bir aidiyet değerine yönelik suçlayıcı,
+kötüleyici veya aşağılayıcı bir beyan vardır. Kural olarak, kimsenin herhangi
+bir kişiyi veya topluluğu kırmayacak, duygularını incitmeyecek şekilde beyanda
+bulunma, görüş bildirme yükümlülüğü yoktur. Ancak bu tecavüzün söz konusu grup
+üyelerinin kişilik hakkını doğrudan ihlal ettiği söylenebilirse tazminat
+istemeleri mümkündür.
++
+Gene bu çerçevede tartışılan özel bir sorun, eşi zina yapan kişinin, eşiyle
+birlikte veya sadece, eşinin ilişki kurduğu kadından veya erkekten sırf bu
+yüzden manevi tazminat isteyip isteyemeyeceğidir. Yargıtayın yakın tarihli
+kararlarından, aldatılan eşin yabancı kadından veya erkekten manevi tazminat
+isteme imkanını kabul ettiği anlaşılmaktadır. 
++
+Buna karşılık, hukukta bir kimsenin eşi tarafından aldatılmama hakkı şeklinde
+herkese karşı ileri sürebileceği bir kişilik hakkı yoktur. Burada söz konusu
+olan sadece, Aile Hukukunun evlilik sözleşmesinden doğan ve eşlerin birbirine
+karşı üstlendikler, “sadakat yükümü”ne karşılık gelen nispi bir haktır.
+Sözleşmeden doğan her nispi hak gibi bu hak da sadece bu sözleşmenin
+taraflarınca birbirine karşı ileri sürülebilir. Evlilik, öğreti ve uygulamada
+sadece iki kişi arasında bir sözleşme olup, evli kişilerle tüm toplum arasında
+yükümlülükler doğuran kamusal bir statü değildir. Bu bakımdan, hiç kimsenin, bu
+hususta arasında sözleşme olmayan bir başkasının evlilik hukukuna riayet etme
+yükümü yoktur. Sonuç olarak, başkasının eşiyle bu şekilde ilişki kuran kişinin
+sırf bu ilişkisi sebebiyle aldatılan eşin herhangi bir kişilik hakkına tecavüz
+ettiği söylenemeyeceğinden, ona karşı manevi tazminat ödemekle yükümlü olması
+da sözkonusu olamaz.
++
+. Açık kanun hükmü bulunmadıkça, kişilik hakkı tecavüze uğrayan ile zarar
+gören aynı kişi olmalıdır (yansıma yoluyla zarar olmamalıdır).
++
+TBK m.56/f.2 ölümün yanında ağır bedensel zararlarda da yansıma yoluyla manevi
+zarar ve tazminatı kabul etmiştir. Buna göre TBK m.56/f.2'nin yansıma yolu ile
+manevin zararın tazminini sadece adam ölmesi ve ağır bedensel zarar hallerinde
+öngördüğü, diğer hallerde hukuka aykırılık bağı bulunmadığı için manevi
+tazminat istenemeyeceği sonucuna varılabilir.
++
+.TBK m.56
+....
+f.2 - Ağır bedensel zarar veya ölüm hâlinde, zarar görenin veya ölenin
+yakınlarına da manevi tazminat olarak uygun bir miktar paranın ödenmesine karar
+verilebilir.
+....
++
+Ancak yakınlarından örneğin aile bireylerinden birinin kişilik hakkına yapılan
+tecavüzün aynı zamanda ailenin diğer bireylerinin onur ve saygınlığına tecavüz
+oluşturduğu kabul edilirse, söz konusu bu kişiler bu sebeple TBK m.58 uyarınca
+manevi tazminat talep edebilirler.
++
+Ölmüş bir kimse hakkında yapılan gerçek dışı bir yayın veya kamu yararı
+bulunmayan gerçeğe ilişkin bir yayın, hayattaki yakınlarının kişilik haklarına
+tecavüz teşkil edebilir. Duydukları elem ve üzüntü sebebiyle bu kişiler manevi
+tazminat talep edebilirler.
++
+Bir derneğin, bir şirketin kaçakçılık yaptığı yolundaki iftira, hem tüzel
+kişinin onur ve saygınlığına, hem yöneticilerin onu ve saygınlığına tecavüz
+teşkil eder. Fakat bir mesleğin üyelerinden birine yöneltilmiş tecavüzün o
+mesleğe mensup her kişiyi kapsamına aldığı söylenemez.
++
+. Bir manevi zarar bulunmalıdır.
++
+Manevi zarar deyimiyle, kişilik haklarına karşı tecavüzden duyulan acı, elem ve
+ızdırap kastedilmektedir.
++
+Kişilik hakkına yönelik her tecavüzün mutlaka manevi zarara yol açacağı
+söylenemez.
++
+Ayırt etme gücüne sahip olmayan kişilerin veya tüzel kişilerin kişilik
+haklarına tecavüz edilmesi halinde bunların manevi zararından söz edilip
+edilemeyeceği tartışmalıdır.
++
+Bir fikre göre bu kişiler için manevi zarar söz konusu olmaz. Manevi tazminatta
+sadece bir tatmin değil bir bakıma faili cezalandırma fonksiyonu olduğunu kabul
+edenler ise, ayırt etme gücü bulunmayanlara karşı tecavüzlerde de manevi
+tazminat istenebileceğini kabul etmektedirler.
++
+. Nedensellik bağı bulunmalıdır.
++
+. Davalının sorumlu olmasını gerektiren kusuru veya bir kusursuz sorumluluk
+hali bulunmalıdır.
+
+==== a) Kusur 
+Tüzel kişiler bakımından organlarının kusuru tüzel kişinin sorumluluğuna yol
+açar (MK m.50).
+
+Kusurun bütün dereceleri sorumluluk için yeter. Fakat hakim manevi tazminat
+miktarını belirlerken kusurun derecesini gözönünde tutacaktır.
+
+==== b) Kusursuz sorumluluk
+
+TBK m.58 uyarınca manevi tazminat istenebilecek, kişilik hakkına ve özellikle,
+onur ve saygınlığa tecavüzde manevi tazminata yol açacak kusursuz sorumluluk
+hali olarak en fazla karşılaşılacak durum TBK m.66'da düzenlenen adam
+çalıştıranın sorumluluğudur.
+
+Çalıştırılanın fiili hukuka aykırı değilse veya bu fiille manevi zarar arasında
+nedensellik bağı yoksa, adam çalıştıranın da sorumluluğu söz konusu olmaz.
+Fakat, çalıştırılanın fiili hukuka aykırı olup manevi zararla uygun nedensellik
+bağı da mevcutsa, çalıştırılanın kusuru bulunmaması onu çalıştıranı
+sorumluluktan kurtarmaz. Bu husus kitle iletişim araçlarının sahipleri
+bakımından büyük önem taşımaktadır.
+
+=== II. MANEVİ TAZMİNAT DAVASINDA TARAFLAR 
+
+==== 1. Davacı 
+Manevi tazminat davasını, kişilik hakkına yapılan tecavüzden manevi zarar gören
+şahıs açabilir. Manevi zarara uğrayan şahıs ayırt etme gücü bulunan küçük veya
+kısıtlı ise davayı kanuni temsilcisinin iznine tabi olmaksızın kendisi
+açabilir. Manevi zarara uğradıktan sonra ayırt etme gücünü kaybedenler adına
+kanuni temsilcileri manevi tazminat davası açabilir.
+
+MK m.25/f.4'te belirtildiği üzere “Manevi tazminat istemi karşı tarafça kabul
+edilmedikçe devredilemez.” Buna karşılık, sorumlu kişi manevi tazminat talebini
+kabul etmiş ise, bu takdirde tazminat alacağı başkasına devredilebilir. Fakat
+tarafların anlaşmasından sonra artık bu anlaşmaya dayanan bir alacak söz
+konusudur. Sorumlu kişi bu anlaşmadan doğan borcu, alacak temlik edilmişse
+alacağı devralan üçüncü kişiye ödeyecektir. Borç ifa edilmezse, alacaklı
+durumundaki üçüncü kişi borcun ifası için dava açabilir. Fakat artık bu
+tazminat davası değil, bir borcun ifası davasıdır.  Buna karşılık, MK m.25'in
+aynı fıkrasında manevi tazminat talebinin miras yoluyla intikal etmesi için
+mirasbırakan tarafından ileri sürülmesi yeterli görülmüş ve miras yolu ile
+intikal, karşı tarafın tazminat ödemeyi kabul etmiş olmsı şartına tabi
+tutulmamıştır. Buna göre, mirasbırakan manevi tazminat davası açmış veya manevi
+zararın karşılanmasını dava dışı bir yolla talep etmişse, manevi tazminat
+talebi mirasçılara intikal edecektir.  
+
+==== 2. Davalı
+
+Manevi tazminat davası, kişiliğe hukuka aykırı tecavüzden doğan manevi zarardan
+sorumlu olan kişiye veya kişilere karşı açılabilir.
+
+Şayet sorumlu kişi birden fazla ise, bunlar hukuka aykırı tecavüze katılmış
+kimselerse, TBK m.61 uyarınca müteselsilen sorumludurlar.
+
+Şayet, birden çok kişi, hukuka aykırı tecavüze katılmış olmamakla beraber, bu
+tecavüzden doğan manevi zarardan farklı sebeplerle sorumlu iseler, öğretide
+“eksik teselsül” olarak adlandırılan bu durumda da TBK m.61 uyarınca sorumlu
+olacaklardır.
+
+=== III. GÖREVLİ VE YETKİLİ MAHKEME VE ZAMANAŞIMI
+
+Manevi tazminat davasında görevli ve yetkili mahkeme ve zamanaşımı maddi
+tazminat davasındaki esaslara tabidir.
+
+=== IV. DAVANIN KONUSU
+
+Manevi tazminat davası ile davacı, manevi zararın tazmini için davalının bir
+miktar para ödemesine karar verilmesini talep edecektir.
+
+Davacının kendisine para ödenmesini istemeyip bunun yerine başka bir tazmin
+şekline karar verilmesi talebine imkan tanınmamıştır. Ancak hakime, bu
+tazminatın ödenmesi yerine diğer bir tazmin biçimini seçme veya hükmedilecek
+paraya ekleme veya tecavüzü kınayan bir karar vermekle yetinme ve bu kararı
+basın yoluyla ile ilanına da hükmedebilme yetkisi verilmiştir (TBK m.58/f.2).
+Davacının, manevi tazminat olarak bir miktar para ödenmesini talep etmekle
+birlikte, hakimden TBK m.58/f.2'deki yetkisini kullanmasına talep etmesine bir
+engel yoktur.
+
+=== V. MAHKEME KARARI
+
+Hakim, davacının manevi tazminat talebini haklı bulursa, davalıyı davacıya
+manevi tazminat olarak bir miktar para ödemeye mahkum edecektir.
+
+Hakim manevi tazminatı takdir ve tayin ederken mağdurun çektiği üzüntü ve
+acıdan başka, failin kusur derecesini, mağdurun birlikte kusuru varsa bunun
+derecesini dikkate alacaktır. Bu konudaki tarafların sıfatı, işgal ettikleri
+makam ve diğer sosyal ve ekonomik durumları da dikkate alınacaktır. Maddi
+tazminat davasından farklı olarak önce zararın miktarının saptanması (TBK
+m.50), sonra tazminat miktarının belirlenmesi (TBK m.51) tarzında iki aşama söz
+konusu olmadığı gibi, tayin edilen tazminatın TBK m.52 uyarınca tenkisi de söz
+konusu değildir.
+
+Hakim davacının talebiyle bağlı olduğu için, durum ve şartlara göre takdir
+ettiği tazminat miktarı daha yüksek olsa dahi davacının talep ettiği miktardan
+fazlasının ödenmesine karar veremez.
+
+Ancak failin kendi arzusu ile özür dilemesi, bunu ilan etmesi, mağdurun manevi
+zararını giderebilir veya azaltabilir. Bu takdirde, ayrıca manevi tazminata
+karar verilmesine engel olabilir yahut daha az tazminata hükmedilmesini
+sağlayabilir.
+
+== 2- CİSMANİ ZARAR VEYA ADAM ÖLMESİ HALİNDE MANEVİ TAZMNİNAT 				     
+
+=== I. GENEL OLARAK
+
+.TBK m.56
+....
+f.1 - Hâkim, bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda, olayın
+özelliklerini göz önünde tutarak, zarar görene uygun bir miktar paranın manevi
+tazminat olarak ödenmesine karar verebilir.  
+f.2 - Ağır bedensel zarar veya ölüm hâlinde, zarar görenin veya ölenin
+yakınlarına da manevi tazminat olarak uygun bir miktar paranın ödenmesine karar
+verilebilir.
+....
+
+Manevi tazminat davası maddi tazminat davası ile birlikte açılabileceği gibi
+ayrı da açılabilir. Kaldı ki giçbir maddi zarar söz konusu olmamasına rağmen
+beden bütünlüğünün ihlali veya adam ölmesi halinde sadece manevi zarara uğramış
+olmak da mümkündür.
+
+TBK m.56 hükümlerine göre manevi tazminatın sadece para olarak hüküm altına
+alınabileceği düzenlenmiştir. Burada, TBK m.58'deki gibi hakimin başka bir
+giderim biçimine karar verme yetkisi yoktur.
+
+=== II. BEDEN BÜTÜNLÜĞÜNÜN İHLALİ HALİNDE
+
+. Hukuka aykırılığı önleyen bir sebep bulunmadıkça, beden bütünlüğünün ihlaline
+sebep olan fiil hukuka aykırıdır. Ancak bu unsur beden bütünlüğü ihlal edilen
+kişi bakımından gerçekleşir. Başkasının beden bütünlüğünün ihlalinden uygun
+nedensellik bağı olmaksızın yansıma cismani zarara uğrayanlar bakımından hukuka
+aykırılık bağı kurulmuş olmaz.
++
+Buna karşılık, TBK m.56/f.2 uyarınca, bedensel zarara uğrayanın yakınları
+zararın ağır olması şartıyla, failden kendileri için tazminat
+isteyebileceklerdir.
++
+. Çekilen acı ve üzüntü manevi zararı oluşturur.
+
+. Davalının manevi tazminata yükümlü tutulabilmesi için onun, ya zarara yol
+açan fiili kusuru ile işlemiş olması ya da zaradan bir kusursuz sorumluluk
+sebebiyle sorumlu olması aranır.
+
+. Duyulan acı, ızdırap ve üzüntünün manevi tazminatı gerektirecek derecede
+olup olmadığını hakim takdir edecektir.
++
+Burada manevi zarar sadece yaralanma ve tedavi acıları gibi fiziksel acıları
+değil, bu durumun yol açtığı üzüntü ve kederi de kapsadığından; bedensel zarara
+uğrayan, kayda değer bir ağrı-sızı çekmemiş olsa bile, tecavüzün niteliği
+sebebiyle ölüm veya sakat kalma korkusu çekmiş veya sakat kalmışsa, burada da
+TBK m.56 uyarınca manevi tazminata hükmedilmelidir.
++
+Şayet beden bütünlüğü zedelenen değil de başkası manevi tazminat istiyorsa;
+yukarıda sayılanlara ek olarak şu unsurların da varlığı aranır:
++
+.. Tazminat talep eden kişi beden bütünlüğü zedelenenin “yakını” olmalıdır.
+Yakın, o ana kadarki ilişkisi bakımından beden bütünlüğü zedelenen kişinin bu
+durumundan manevi tazminatı gerektirecek düzeyde manevi acı çekmesi normal ve
+beklenebilen kişidir.
++
+.. Bedensel zarar “ağır” olmalıdır.
+
+=== III. ADAM ÖLMESİ HALİNDE
+
+. Bir kimsenin ölümüne sebep olan fiil, hukuka aykırılığı önleyen bir sebep
+bulunmadıkça hukuka aykırıdır.
+
+. Ölümün ölenin yakını sayılan kişide acı ve üzüntü yaratması manevi zarardır.
+
+. Davalının manevi tazminatla yükümlü tutulabilmesi için ya ölüme yol açan
+fiili kusuru ile işlemiş olması ya da manevi zarardan bir kusursuz sorumluluk
+sebebiyle sorumlu olması aranır.
+
+. Adam ölmesi halinde de, manevi tazminata karar verilebilmesi için halin
+özelliğinin manevi tazminatı gerektirmesi aranmıştır.

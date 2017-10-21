@@ -1,0 +1,1830 @@
+:icons: font
+
+== KIYMETLİ EVRAK
+
+****
+*TTK 645*: Kıymetli evrak öyle senetlerdir ki, bunların içerdikleri hak,
+senetten ayrı olarak ileri sürülemediği gibi başkalarına da devredilemez.
+****
+
+* Kıymetli evrakın maddi unsuru senettir. Senet bir irade beyanıdır. Önemli
+olan irade açıklamasının, senet dediğimiz maddi varlık üzerinde vukuu
+bulmasıdır.
++
+Senet aynı zamanda bir ispat vasıtasıdır. Ancak usul hukukunda *belgeden* söz
+edilir. Senet de usul hukuku anlamında bir belgedir ancak bu belge, tanzim
+edenin iradesini yansıtır ve imzasını içerir.
+
+* Kıymetli evrakın maddi unsuru olan senedin üzerindeki imzada TTK 1526'ya
+bakmak gerekir. 
++
+****
+*TTK 1526/1*: Poliçe, bono, çek, makbuz senedi, varant ve kambiyo senetlerine
+benzeyen senetler güvenli elektronik imza ile düzenlenemez. Bu senetlere
+ilişkin kabul, aval ve ciro gibi senet üzerinde gerçekleştirilen işlemler
+güvenli elektronik imza ile yapılamaz.
+****
+
+* Senedin kıymetli evrak olabilmesi için gereken gayrimaddi unsur da *senedin
+devrediliebilir nitelikte bir hakkı ihtiva etmesidir*.
+
+* Kıymekli evraka ilişkin hak, senet olmadan ileri sürülemez. Eğer alacak bir
+kıymetli evraka, örneğin bonoya bağlanmışsa, alacaklı borcun ifası ile
+birlikte senedi borçluya vermek zorundadır.
++
+****
+*TK 646*: (1) Kıymetli evrakın borçlusu, ancak senedin teslimi karşılığında
+ödeme ile yükümlüdür.  
+
+(2) Hile veya ağır kusuru bulunmadıkça borçlu, vade geldiğinde, senedin
+niteliğine göre alacaklı olduğu anlaşılan kişiye ödemede bulunmakla borcundan
+kurtulur.
+****
++
+Hak ve senet iç içedir; bu nedenle de hak senetten ayrı ileri sürülemez,
+devredilemez. Adi borç senetlerinde durum böyle değildir, TTK 646'da düzenlenen
+bu husus kıymetli evrakın karakteristik özelliğidir.
+
+* Kıymetli evraka bağlanmış bir hakkın devri için kıymetli evrakın
+zilyetliğinin de devri gerekir.
+
+* İbraz kaydı, kıymetli evrakın ibraz edilmesi karşısında ödeneceğine ilişkin
+kayıttır. Kıymetli evraklarda ibraz kaydı *çift taraflı ibraz kaydıdır*. Yani
+hem alacaklı hem de borçlu açısından bağlayıcılığı söz konusudur. Alacaklı
+ancak senedi ibraz ederse alacağına kavuşabilir. Borçlu ise ancak senet
+kendisine ibraz edildiğinde ödeme yapmakla yükümlüdür. Kıymetli evraklarda en
+önemli kayıt ibraz kaydıdır ve tüm kıymetli evraklarda zorunludur.
+
+* Teşhis kaydı, senedin meşru hamilini gösterir. Hak ile senet birlikteliğinin
+kuvvetli olduğu senetlerde daha çok belirgindir. Bir kimsenin emrine veya
+hamiline düzenlenen senetlerde teşhis kaydı mutlak olarak mevcuttur. Ancak nama
+yazılı senetlerde teşhis kaydı yoktur veya zayıftır. 
++
+Kıymetli evrakta teşhis kaydına uygun olarak yapılan ödeme borçluyu borcundan
+kurtarır. Ayrıca borçlunun maddi gerçeği tespit etme yükümü yoktur. Borçluya
+senet ibraz edildiğinde, senet üzerinde şeklen yapılacak inceleme ile bu husus
+tespit edilecektir. Kıymetli evrakın borçlar hukukundaki adi senetten farkı
+budur.
+
+* Kıymetli evrak borçlusunun borcundan kurtulabilmesi için bir diğer husus
+ödemenin vadesinde yapılmasıdır. Borçlu vadesinden önce de ödeme yapabilir
+ancak bu da beraberinde bir takım riskler getirmektedir. 
++
+****
+*TTK 710*: (1) Poliçenin hamili, vadeden önce ödemeyi kabulle yükümlü değildir.
+
+(2) Vadeden önce ödeyen muhatap, bundan doğacak tehlike kendisine ait olmak
+üzere hareket etmiş olur.
+
+(3) Hile veya ağır bir kusuru bulunmadıkça poliçeyi vadesinde ödeyen kişi
+borcundan kurtulur. Ödeyen kişi, cirolar arasında düzenli bir teselsülün
+bulunup bulunmadığını incelemekle yükümlü ise de cirantaların imzalarının
+geçerliliğini araştırmak zorunda değildir.
+****
++
+TTK 710/3 vadesinde yapılacak ödeme ile borçtan kurtulmak için hile veya ağır
+kusurun bulunmamasını da aramaktadır. Hile; borçlunun, alacaklının alacaklı
+olmadığını, yani senet hamilinin borcu talep etmeye yetkili olmadığını veya
+borçlunun da hamile ödeme yapmakla yükümlü olmadığını ya da vadede yetkisiz
+hale geleceğini bilmediği anlamına gelir. Vadede önce ödeme halinde hileye
+maruz kalmışsa bu noktada borcundan kurtulmuş olmaz. Hilenin ağır kusurdan
+farkı ifayı talep eden hamilin yetkili olmadığını bilmemesidir. Ağır kusurda
+borçlu gerekli özeni gösterseydi maddi gerçeği görebilirdi.
+
+* Devir şekillerine göre kıymetli evraklar; *nama yazılı*, *emre yazılı* ve
+*hamiline yazılı* kıymetli evrak olarak üçe ayrılmaktadır.
+
+* İçerdiği, temsil ettiği hakkın niteliğine göre de kıymetli evraklar üçer
+ayrılır. 
+
+.. Bunlardan ilki *alacak (para) senetleridir*. Kambiyo senetleri birer alacak
+senedidir. 
+.. İkinci grup kıymetli evraklar *pay senetleri* ve *ilmuhaberlerdir*. Buna
+hisse senetleri de denir. Pay senetleri ortaklık hakkı içerirler. Bir gerçek ya
+da tüzel kişinin bir sermaye şirketinde ortaklık payını içeren evraklar pay
+senetleridir. Pay senetleri çıkarılana kadar ortaklığı temsil eden senetlere de
+ilmuhaber denir.
+.. Üçüncü grup kıymetli evraklar da *emtia senetleridir*. Araca yüklenen eşyayı
+temsilen tanzim edilen senet bir emtia senedidir.
+
+* Kıymetli evraklar bir de *kurucu* ve *açıklayıcı* senetler olarak ikiye
+ayrılır. Kurucu kıymetli evraklarda senedin içerdiği hak, senet ile birlikte
+doğmuştur. Örneğin kambiyo senetleri kurucu nitelikte kıymetli evraklardır.
+Ancak bazı kıymetli evrakların içerdiği hak kıymetli evrak tanzim edilmeden
+önce de vardır ve bu nedenle bu kıymetli evraklar açıklayıcı kıymetli evrak
+sınıfına girer. Pay senetleri bunun tipik örneğidir.
+
+* A ve B arasında satış sözleşmesi yapıldı. Satılan mal bedeli olarak, bunun
+yerine bono verildi. Burada *ifa uğruna edim* söz konusudur.
+
+* Elinde kambiyo senedi olan kimse ispat soyutluğu nedeniyle bir şey ispat
+etmek zorunda değildir. Eğer sadece borçlar hukuku ilişkisinden söz ediyor
+olsaydık, senede dayanan kimse ayrıca borç ilişkisini ispat etmek zorunda
+olacaktı. Ancak kıymetli evrak hukukunda kambiyo ilişkisine dayanan kimse bir
+şey ispat etmek zorunda değildir. Alacaklı elindeki kambiyo senedi ile ispat
+yükünden kurtulmuş olur ve alacaklı kabul edilir. Artık burada borçlu, senedi
+eline bulunduranın alacaklı olmadığını ispatla mükelleftir. Alacaklının senede
+dayalı olarak alacaklı olduğunu iddia etmesi yeterlidir, ayrıca kambiyo
+senedini neden aldığını, alt ilişkiyi ispat etme mecburiyetinde değildir.
++
+CAUTION: Ancak bu durum, yani *ispat soyutluğu*, kambiyo senedinin sadece alt
+ilişkinin tarafları arasında kaldığı durumlarda geçerlidir. Kıymetli evrakın
+tedavülü ile birlikte *maddi anlamda soyutluk* başlar. Ancak maddi anlamda
+soyutluk sadece iyiniyetli kimselere karşı geçerlidir.
+
+* Bir kıymetli evrakın nama yazılı olabilmesi için öncelikle bir kişinin adına,
+namına yazılı olması ve aynı zamanda o kişinin emrine kaydı içermemesi
+gerekmektedir.
++
+****
+*TTK 654*: Belli bir kişinin adına yazılı olup da onun emrine kaydını içermeyen
+ve kanunen de emre yazılı senetlerden sayılmayan kıymetli evrak nama yazılı
+senet sayılır.
+****
++
+Poliçe, bono ya da çek gibi kanunen emre yazılı senetleri nama yazılı
+olarak tanzim etmek için *menfi eme kaydı* eklemek gereklidir. Örneğin "_İş bu
+bono mukabilinde A'ya 10.000 TL ödeyeceğim. *İş bu senet emre değil namadır_*".
++
+Hem emre yazılı kıymetli evrakta hem de nama yazılı kıymetli evrakta senet
+üzerinde isim yazılır. Yani senedi tanzim eden bu senedi kime verdiğini yazar.
+Ancak nama yazılı senetler çift taraflı ibraz kaydı içerirken, emre yazılı
+senetler hem çift taraflı ibraz kaydı hem de çift taraflı teşhis kaydı
+içerirler.
++
+****
+*TTK 656*: Nama yazılı senet içinde, senet bedelini her hamiline ödemek hakkını
+saklı tutmuş olan borçlu, alacaklı sıfatının ispat edilmesini aramamış olsa da
+hamile iyiniyetle yapacağı ödeme sonucunda borcundan kurtulmuş olur.  Ancak,
+hamile ödemede bulunmakla yükümlü değildir. 785 inci maddenin ikinci fıkrası
+hükmü saklıdır.
+****
++
+****
+*TTK 655*: (1) Borçlu, ancak senedin hamili bulunan ve senette adı yazılı olan
+veya onun hukuki halefi olduğunu ispat eden kişilere ödemek zorundadır.
+
+(2) Bu husus ispat edilmediği hâlde ödemede bulunan borçlu, senedin gerçek
+sahibi olduğunu ispat eden bir üçüncü kişiye karşı borcundan kurtulmuş olmaz.
+****
++
+TTK 655'te kural, TTK 656'da istisna düzenlenmektedir. Eksik nama yazılı
+senette ayrıca teşhis klozu da bulunmaktadır. Eksik nama yazılı senette senedi
+getiren her hamile ödeme hakkı saklı tutulmuştur. Burada borçlu korunmuştur ve
+emre yazılı senede yakın da bir durum vardır.
+
+* Tüm kıymetli evraklarda devir için gerekli olan ortak husus, kıymetli evrakın
+zilyetliğinin devridir.
++
+****
+*TTK 647/1*: Mülkiyet veya sınırlı bir ayni hak kurulması amacıyla kıymetli
+evrakın devri için her hâlde senet üzerindeki zilyetliğin devri şarttır.
+****
++
+Buna ek olarak emre yazılı senetlerde *ciro*, nama yazılı senetlerde *yazılı
+devir beyanına* da gerek vardır.
++
+****
+*TTK 647/2*: Bundan başka emre yazılı senetlerde ciroya, nama yazılı senetlerde
+yazılı bir devir beyanına da gerek vardır. Bu beyan kıymetli evrakın veya ayrı
+bir kâğıdın üzerine yazılabilir.
+****
++
+Yazılı devir beyanı *alacağın temliki* (TBK 183 vd.) hükümlerince tanzim edilen
+yazılı beyandır. Bu beyan kıymetli evrakın üzerine yazılabileceği gibi ayrı bir
+kağıda da yazılabilir. Ancak yazılı devir beyanından başka zilyetliğin devri de
+gereklidir. Burada iki tane tasarruf işlemi vardır: Birincisi fiziki olarak
+senedin devredilmesi, ikinici ise alacağın temliki işlemidir.
+
+* Bir evrakın kıymetli evrak sayılması için asgari çift taraflı ibraz kaydı
+içermesi gerekmektedir. Nama yazılı senetler de çift taraflı ibraz kaydı
+içerir. Yani ibraz yoksa ödeme de yapılmaz. Nama yazılı senetler bu noktada adi
+senetten ayrılmaktadır. Ancak bu hususun bir istisnası düzenlenmiştir.
++
+****
+*TTK 657*: (1) Aksine özel hükümler bulunmadıkça nama yazılı senetler, hamile
+yazılı senetlere ilişkin hükümlere göre iptal olunur.
+
+(2) Borçlu, senette ilanların sayısını azaltmak veya süreleri kısaltmak
+suretiyle iptal için daha basit bir usul öngörebileceği gibi, alacaklı
+kendisine senedin iptal ve borcun ödendiğini gösteren, resmen düzenlenmiş veya
+usulen onaylanmış bir belge verdiği takdirde, senet ibraz edilmeksizin ve
+iptaline karar verilmeksizin de geçerli olmak üzere ödemek hakkını da saklı
+tutabilir.
+****
+
+* Nama yazılı kıymetli evrakın devri için iki ayrı tasarruf işlemi
+gerekmektedir: *temlik işlemi* ve *menkulün devri* işlemi. Bu devir temel
+ilişkideki sakatlıktan etkilenir mi?
+
+* Anonim şirketin pay senetleri nama ya da hamiline yazılı olabilir. Anonim
+ortaklık ticaret siciline tescil edildiği anda paylar doğar. Ancak sonrasında
+bu paylara tedavül kabiliyeti kazandırmak için nama veya hamiline pay senetleri
+tanzim edilebilir. 
++
+Anonim ortaklıktaki pay senetleri açıklayıcıdır ve aynı zamanda illi, yani
+sebebe bağlı senetlerdir. *Kanun diyor ki, nama yazılı pay senetleri ciro ve
+zilyetliğin nakli yoluyla devredilebilir*.
+
+* *Def'i* bir borç ilişkisinde karşı tarafa borcun varlığını inkar etmeden borcun
+ifasından kaçınma imkanı vermektedir. *İtirazda* ise bizzat borç ilişkisinin
+yokluğu ileri sürülmektedir.
++
+Nama yazılı senetler temlik beyanı ile devredildiği için defiler konusunda
+alacağın temlikinde borçlunun konumu ile ilgili TBK 183 vd. hükümleri
+geçerlidir. Özellikle TBK 188 nama yazılı kıymetli evraklar için oldukça
+önemlidir.
++
+****
+*TBK 188*: (1) Borçlu, devri öğrendiği sırada devredene karşı sahip olduğu
+savunmaları, devralana karşı da ileri sürebilir.
+
+(2) Borçlu, devri öğrendiği anda muaccel olmayan alacağını, devredilen
+alacaktan önce veya onunla aynı anda muaccel olması koşuluyla borcu ile takas
+edebilir.
+****
+
+* Senedin metnine baktığımızda bir kimsenin emrine yazıldığı belirtilmişse
+(iradi emre yazılı senet) ya da böyle bir ifade bulunmasa da kanun tarafından
+emre yazılı olduğu kabul edilen senetler emre yazılı senetlerdir.
++
+WARNING: KAMBİYO SENETLERİ KANUNEN EMRE YAZILI SENETLERDİR!!!
+
+* Emre yazılı senetlerde çift taraflı ibraz kaydı ve çift taraflı teşhis kaydı
+vardır. İbraz yoksa ödeme yoktur, teşhis bakımından da borçlu senedin türüne
+göre düzgün bir ciro silsilesine istinaeden meşru hamil tarafından ibraz
+edilmişse ödeme yapmakla borcundan kurtulur. Maddi hak sahipliğini araştırmak
+zorunda değildir, şekli inceleme yapabilir. Tabi burada borçlunun aynı zamanda
+iyiniyetli olması gerekmektedir.
+
+* Emre yazılı senetlerin devri ciro ve zilyetliğin nakli ile gerçekleşir. Ciro,
+*tam ciro* ve *beyaz ciro* şeklinde olabilir. Tam ciroda ciro edilenin kim
+olduğu belirtilir. Örneğin "_A'ya ödeyiniz. İmza B_" tam cirodur. Ancak senedin
+kime ciro edildiği anlaşılmıyorsa bu beyaz cirodur. "_Ödeyiniz. İmza B_"
+şeklindeki ciro beyaz cirodur. 
+
+* Emre yazılı senette üç tip defiden söz edilebilir. 
++
+====
+** Senedin geçersizliğine ilişkin defiler
+** Senet metninden anlaşılan defiler
+** Alacaklı kim ise ona karşı ileri sürülebilen şahsi defiler
+====
++
+****
+*TTK 825/1*: Borçlu, emre yazılı bir senetten doğan alacağa karşı ancak senedin
+geçersizliğine ilişkin veya senet metninden anlaşılan def’ilerle alacaklı kim
+ise ona karşı, şahsen haiz bulunduğu def’ileri ileri sürebilir.
+****
++
+Bu bağlamda defiler *mutlak* ve *şahsi* defiler olarak ikiye ayrılabilir.
+Mutlak defiler de kendi aralarında *senedin metninden anlaşılan defiler* ile
+*senedin geçersizliğine ilişkin defiler* olarak ikiye ayrılır. Eğer mutlak bir
+defi varsa defi sahibi bu defiyi herkese karşı ileri sürebilir. Nisbi (şahsi)
+defi ise sadece alacaklı kimse onunla borçlu arasında ileri sürülebilir.
++
+Borçlu seneden baktığında düzgün bir ciro silsilesi olmadığını açıkça görüyorsa
+bunu bir defi olarak alacaklıya ileri sürebilir.
++
+Bonoda düzenlenme tarihi zorunlu şekil şartıdır. Eğer senet üzerinde düzenlenme
+tarihi yoksa o senet bono değildir. Bu senet metninden anlaşılan bir defidir,
+aynı zamanda senet üzerinde imzası bulunan herkes için geçersizdir, yani
+senedin geçersizliğine ilişkin bir defi olarak da bu husus ileri sürülebilir. 
++
+Bazı geçersizlik defilerini kanun açıkça göstermiştir. Örneğin ehil olmayan bir
+kimsenin emre yazılı kıymetli evrak tanzim etmesi bir geçersizlik sebebi olarak
+gösterilmiştir. Yetkisiz temsil halinde de geçersizlik defi olarak ileri
+sürülebilecektir. Ancak bunu *geçersizliğin şahsında doğduğu kişi* herkese
+karşı ileri sürebilir.
++
+Şahsi defiler üçüncü kişilere ancak bilerek borçlunun zararına hareket ettiği
+takdirde ileri sürülebilir.
++
+****
+*TTK 825/2*: Borçlu ile önceki hamillerden biri veya senedi düzenleyen kişi
+arasında doğrudan doğruya varolan ilişkilere dayanan def’ilerin ileri
+sürülmesi, ancak senedi iktisap ederken hamilin bilerek borçlunun zararına
+hareket etmiş olması hâlinde caizdir.
+****
+
+* Hamiline yazılı senetler gerçek anlamda alacaklı bakımından en güvenilir
+senetlerdir çünkü defi sistemi alacaklıyı korur biçimdedir. Borçlu bakımından
+en güvenilir senetler ise defileri senet metninde imzası bulunan herkese karşı
+ileri sürülebildiği için nama yazılı senetlerdir.
+
+* Hamiline yazılı senetler *zilyetliğin devri*, emre yazılı senetler *ciro*
+ve *zilyetliğin devri*, nama yazılı senetler ise *yazılı temlik beyanı* ve
+*zilyetliğin devri* suretiyle devredilir.
+
+* Hamiline yazılı senetlerin arkasına ciro da yapılabilir ama yapılan ciro
+devir amacıyla değil ciro edenin sorumluluk ilişkisine girmesi için yapılır.
+
+* Kambiyo senetleri (poliçe, bono ve çek);
+
+** bir kıymetli evraktır
+** soyutluk ilkesi mutlak olarak vardır
+** sıkı şekil şartlarına sahiptir
+** sınırlı sayıdadır
+
+* Poliçede *düzenleyen*, kendisine senet verilen *lehdar* ve düzenleyenin
+düzenleyip lehdara verdiği poliçeyi kabul edecek gerçek veya tüzel kişi olan
+*muhatap* vardır. Muhatap kambiyo ilişkisine, senet kendisine ibraz edildiğinde
+kabul edip imzasını atarsa dahil olur. İmzalama zorunluluğu yoktur. Poliçe bir
+*ödeyiniz* ilişkisidir. Düzenleyen, muhataba kabul edin ve lehdara ödeyiniz
+der. Poliçenin *kredi ve ödeme işlevi* vardır.
++
+....
+              Düzenleyen
+                  +
+                  |
+                  |
+                  |
+Muhatap   <-------+------->   Lehdar
+....
++
+.Poliçe
+....
+Sayın muhatap, iş bu poliçe <1> karşılığında Sn Ahmet Ak veya emrine <6> ...
+tarihinde <4> Adana'da <5> 25.000 TL (yirmibeşbintürklirası) ödeyiniz <2>.
+
+Muhatap                                             Düzenleyen
+Sayın Remzi Pak <3>                                 Mehmet Tak
+                                                      (İmza) <8>.
+                                                İstanbul 11.10.2016 <7>.
+
+....
+<1> Poliçe kelimesi
+<2> Bedel ve ödeyiniz emri
+<3> Muhatabın adı soyadı
+<4> Vade (yazılması zorunlu değil)
+<5> Ödeme yeri
+<6> Lehdar
+<7> Düzenlenme tarihi ve yeri
+<8> Düzenleyenin imzası
+
++
+'''
++
+. *Poliçe kelimesi*: Senedin poliçe olabilmesi için metin hangi dilde
+düzenlenmişse o dilde ve senet metninde poliçe kelimesinin yer alması gerekir.
+. *Bedel*: Poliçe olabilmesi için *belirli bir bedeli* içermesi ve bu bedelle
+ilgili olarak *kayıtsız ve şartsız* bir ödeyiniz emrinin olması gerekir.
++
+****
+*TTK 676*: (1) Poliçe bedeli hem yazı hem de rakamla gösterilip de iki bedel
+arasında fark bulunursa, yazı ile gösterilen bedel üstün tutulur.
+
+(2) Poliçe bedeli yalnız yazıyla veya yalnız rakamla birden çok gösterilmiş
+olup da bedeller arasında fark bulunursa, en az olan bedel geçerli sayılır.
+****
++
+Faiz kayıtları da senette olabilir. Görüldüğünde veya görüldüğünden belirli bir
+süre sonra vadeli senetlerde anapara faizi şartı yazılabilir. Temerrüt faiziyle
+ilgili kayıt dört çeşit vade ile de yazılabilir, herhangi bir sınırlama yoktur.
+. *Muhatap*: Eğer bir muhatap ismi yoksa bu belge poliçe olmaz. Önemli olan
+şeklen bir ismin olmasıdır, hayali bir isim de olabilir. Muhatap poliçeye kabul
+beyanını yazıp imzaladığı zaman dahil olur.
++
+Bir veya daha fazla kişi muhatap olabilir. Birden fazla muhatap varsa hepsinin
+kabul imzasını atması gerekir, aksi takdirde poliçe kabul edilmemiş sayılır.
+Hepsi kabul ettiği zaman da alacaklıya karşı müteselsilen sorumlu olurlar.
+Düzenleyen ile muhatapın aynı kişi olması da mümkündür.
+. *Vade*: Vadenin yazılmaması şekil şartlarında bir eksiklik oluşturmaz. Eğer
+vade gösterilmemişse senet görüldüğünde vadeli sayılır. Dört çeşit vade vardır
+ve sınırlı sayıdadır. Bu vadelerden sadece biri yazılabilir ve birden fazla
+vade yazıldığında senet sakatlanır.
++
+====
+.. Belirli bir gün vade olabilir.
+.. Düzenlenme tarihinden belirli bir süre sonra vade yazılabilir.
+.. Görüldüğünde vade yazılabilir veya vade kısmı boş bırakılırsa yine
+görüldüğünde vade sayılır. Görüldüğünde vadeli senetlerin düzenlenme tarihinden
+itibaren bir yıl içinde ibraz edilmesi gerekir.
+.. Görüldükten belirli bir süre sonra vade yazılabilir.
+====
++
+CAUTION:  "_12.10.2017 tarihinde Adana'da 25.000TL (yirmibeşbintürklirası) %80
+faiziyle ödeyiniz_" şeklinde bir senet geçerli değildir. Çünkü anapara faizi
+kesin vade ile yazılamaz. "_görüldüğünde Adana'da 25.000TL
+(yirmibeşbintürklirası)  %80 faiziyle ödeyiniz_" şeklindeki senet geçerlidir.
+Anapara faizi şartı sadece görüldüğünde veya görüldüğünden belirli bir süre
+sonra vadeli senetlerde konulabilir. "_12.10.2017 tarihinde Adana'da 25.000TL
+(yirmibeşbintürklirası) ödeyiniz.  Ödenmediği takdirde %80 temerrüt faizi
+işletilir._" yazılırsa senet geçerlidir çünkü temerrüt faiziyle ilgili kanun
+herhangi bir sınırlama getirmemiştir.
+. *Ödeme yeri*: Ödeme yeri gösterilmemişse muhatabın adı soyadı veya unvanı
+yanında gösterilen yer ödeme yeri sayılır. Muhatabın adı yanında da bir yer
+yoksa senet geçerli değildir.
++
+Bir kambiyo senedinin *adresli poliçe* veya *yerleşim yerli poliçe* olarak
+düzenlenmesi mümkündür. Adresli poliçe, poliçe düzenlenirken düzenleyicinin
+veya poliçe kabule arz edildiğinde muhatabın kabul şerhinde ödeme yerinde,
+ödemenin fiilen yapılacağı üçüncü kişinin adresinin gösterildiği poliçeye
+denir. Yerleşim yerli poliçe ise poliçenin düzenlenmesi sırasında düzenleyenin
+ödeme yeri olarak muhatabın ikametgahından veya ticari yerleşim yerinden farklı
+bir yeri ödeme yeri olarak göstermiş olduğu poliçelerdir.
+. *Lehdar*: Emrine ödenecek kişidir. Emrine yazılmamaışsa bile nama yazılı
+sayılmaz çünkü kanunen emre yazılı bir senettir. İşbu poliçe emre değil namadır
+diye menfi bir kayıtla poliçe nama yazılı hale dönüştürülebilir.
+. *Düzenlenme yeri ve tarihi*: Düzenlenme yeri yoksa düzenleyenin yerine
+bakılır. Düzenlenme tarihinin bir alternatifi yoktur. Mutlaka bulunması
+lazımdır yoksa senet poliçe değildir.
+. *Düzenleyenin imzası*: İmza mutlaka *ıslak imza* şeklinde olmalıdır.
++
+****
+*TTK 1526/1*: Poliçe, bono, çek, makbuz senedi, varant ve kambiyo senetlerine
+benzeyen senetler güvenli elektronik imza ile düzenlenemez. Bu senetlere
+ilişkin kabul, aval ve ciro gibi senet üzerinde gerçekleştirilen işlemler
+güvenli elektronik imza ile yapılamaz.
+****
+
+* Poliçedeki sekiz şekil şartı alternatif yollarla birlikte yoksa poliçe
+geçersizidir. Tüm şekil şartları mevcut ama düzenlenme tarihi bulunmuyorsa
+Yargıtay bunu *adi senet* hükmünde kabul etmiştir.
++
+Bazı eksiklikler bakımından kanunda özel düzenlemeler vardır. Eğer poliçe
+kelimesi unutulmuş ise kanunen bu senet emre yazılı havale kabul edilir.
++
+Poliçe, açık poliçe olarak da düzenlenebilir. Açık poliçe olabilmesi için
+asgari hangi unsurların olması gerektiği konusu öğretide ve yargı kararlarında
+tartışmalıdır. Bir görüşe göre açık poliçe olabilmesi için asgari poliçe
+kelimesinin ve imzanın olması gerekir. Diğer bir görüşe göre ise sadece imzanın
+olması açık poliçe için yeterlidir.
++
+Poliçe, eksik bir poliçe ise geçersizdir. Sekiz şekil şartından bir
+yazılmamıştır. *Eksik poliçe ile açık poliçe arasındaki temel fark anlaşma
+meselesidir*.
++
+****
+*TTK 680*: Tedavüle çıkarılırken tamamen doldurulmamış bulunan bir poliçe,
+aradaki anlaşmalara aykırı bir şekilde doldurulursa, bu anlaşmalara uyulmadığı
+iddiası, hamile karşı ileri sürülemez; meğerki, hamil poliçeyi kötüniyetle
+iktisap etmiş veya iktisap sırasında kendisine ağır bir kusur isnadı mümkün
+bulunmuş olsun.
+****
+
+* Poliçede tüm şekil şartları mevcut ama düzenleyenin ehliyeti yoksa imzası
+bulunduğu için senet geçerlidir. Düzenleyen bunu geçersizlik sebebi olarak
+ileri sürebilir. Fakat imzası bulunan diğer kişiler *imzaların bağımsızlığı*
+ilkesince sorumlu olmaya devam eder.
++
+****
+*TTK 677*: Bir poliçe, poliçe ile borçlanmaya ehil olmayan kişilerin imzasını,
+sahte imzaları, hayali kişilerin imzalarını veya imzalayan ya da adlarına
+imzalanmış olan kişileri herhangi bir sebeple bağlamayan imzaları içerirse,
+diğer imzaların geçerliliği bundan etkilenmez.
+****
+
+* Düzenleyen poliçeyi bizzat kendisi düzenleyebileceği gibi temsilci
+aracılığıyla da düzenleyebilir. Ticaret hukuku alanında bazı temsilciler
+kambiyo senedi düzenlenmesi için ayrıca yetkilendirilmese bile kanunen yetkili
+sayılırlar. Ama tayin edilen bir ticari vekilin kambiyo senedi düzenleyebilmesi
+için özel olarak yetkilendirilmesi gerekir.
++
+Borçlar hukukuna göre temsilci yetkisini aşarsa veya yetkisiz temsilci ise
+temsil olunan icazet verdiği zaman o işlem geçerli hale gelir, icazet vermeze
+karşı taraf tazminat isteminde bulunabilir. Ama ticaret hukukunda borçlar
+hukukundan farklı olarak yetkisiz temsilci veya yetkisini aşan temsilci işlemin
+bizzat tarafı olur.
++
+****
+*TTK 678*: Temsile yetkili olmadığı hâlde bir kişinin temsilcisi sıfatıyla bir
+poliçeye imzasını koyan kişi, o poliçeden dolayı bizzat sorumludur; bu poliçeyi
+ödediği takdirde, temsil olunduğu kabul edilen kişinin haiz olabileceği haklara
+sahip olur. Yetkisini aşan temsilci için de hüküm böyledir.
+****
+
+* Bir poliçe ciro yoluyla devredildiği zaman devreden poliçeden doğan hakları
+devralana geçirir. Senede bağlılık esasına göre poliçeye temel teşkil eden
+haklar geçer. Devir ile senetten doğan haklar yani senedin içindeki alacak,
+aval, ciro edilme hakkı da devredilir ama alt ilişkideki teminatlar vs. bu
+devrin kapsamına girmez. Ciro yazılı bir devir beyanıdır ve zilyetliğin karşı
+tarafa geçirilmesiyle birlikte poliçe devredilmiş olur.
++
+TIP: Herkes istediği kişiye ciro yapabilir bir kısıtlama yoktur.
++
+WARNING: Alacaklı sıfatıyla borçlu sofatı birleşince kambiyo senetlerinde borç
+sona ermez.
+
+* Bir kimse kambiyo senedine herhangi bir sıfatla imza koyduğu zaman sorumluluk
+zincirine girer. Senedi elinde bulunduran aşağıdan yukarıya doğru o senedin
+bedelini tahsil etmek için müşterek ve müteselsil sorumluluk gereğince
+dilediğine veya hepsine birden başvurabilir.
+
+* Ciro tam ciro ve beyaz ciro şeklinde olabilir. Ciro edenle ciro edilenin
+görüldüğü ciroya tam ciro denir. Sadece ciro edenin imzasının bulunduğu ciroya
+da beyaz ciro denir.
++
+....
+C'ye ödeyiniz.
+    İmza L
+Ödeyiniz.
+    İmza C
+....
++
+Beyaz ciro hamiline bir görüntü yaratır. Senedi beyaz ciro ile alan kimse
+senedi devretmek konusunda birçok seçeneğe sahiptir.
+
+** Senedi tekrar tam ciro ile devredebilir
+** Senedi beyaz ciro ile devredebilir
+** Elden teslim edebilir
+** Beyaz ciroyu kendisine yönelik veya başkasına yönelik tam ciro haline
+getirebilir
+
+* Ciro senedin arka yüzüne, arka yüzü dolduğunda da alonj denilen bir kağıda
+yapılır. Ciro olduğu çok net anlaşılıyorsa senedin ön yüzüne de ciro
+yapılabilir ama ön yüze atılan imza düzenleyenin ve muhatabın dışındaki birine
+aitse ve ciro olduğu belli değilse aval kabul edilir.
+
+* İşlevine göre ciro üçe ayrılır:
+
+. *Temlik cirosu*: Devreden o senedin hem fiziki mülkiyetini hem de o senetle
+devredilen hakkı ciro edilene temlik eder yani onun mülkiyetine geçirir. *Kural
+olarak yapılan cironun rehin cirosu veya tahsil cirosu olduğu yönünde bir
+açıklık yoksa ciro temlik cirosu kabul edilir*.
++
+Temlik cirosunun üç işlevi vardır:
+
+.. *Temlik işlevi*: Ciro ile senedin devredilmesi
+.. *Teşhis işlevi*: Ciroya bakarak kimin kime ciro ettiğini ve senedi elinde
+bulunduran kimsenin meşru hamil olup olmadığını anlamaya yarar.
+.. *Garanti işlevi*: C1 C2'ye poliçeyi ciro ettiğinde çifte yetki verir. C2
+poliçeden doğan alacak hakkını imzasını gördüğü asıl borçludan tahsil edebilir.
+Ama tahsil edemezse C1 ödeme garantisi vermiş olur.
+
+. *Rehin cirosu*
++
+****
+*TTK 689*: (1) Ciro, “bedeli teminattır”, “bedeli rehindir” ibaresini veya
+rehnetmeyi belirten diğer herhangi bir kaydı içerirse, hamil, poliçeden doğan
+bütün hakları kullanabilir; fakat kendisi tarafından yapılan bir ciro ancak
+tahsil cirosu hükmündedir.
+
+(2) Poliçeden sorumlu olanlar, kendileriyle ciranta arasında doğrudan doğruya
+var olan ilişkilere dayanan def’ileri hamile karşı ileri süremezler; meğerki,
+hamil poliçeyi iktisap ederken bile bile borçlunun zararına hareket etmiş
+olsun.
+****
++
+Uygulamada kambiyo senedi teminat için vermek istense bile rehin cirosu
+yapılmak zorunda değildir, temlik cirosu da yapılabilir. Görünürde temilk
+olmasına rağmen rehin olması durumunda ortada inançlı temlik vardır. 
++
+Kural olarak bir kambiyo senedini rehin cirosu ile alan taraf kambiyo
+senedinden kaynaklanan her türlü hakkı kullanabilir. Bu hakların en başında
+senedin vadesi geldiğinde düzenleyene başvurma hakkı vardır.
++
+....
+
+              BONO
+D  +-------------------------->  L
+         satım sözleşmesi
+                                 +
+                                 |
+                                 |
+                                 |
+               ödünç sözleşmesi  | REHİN CİROSU
+                                 |
+                                 | H'ye ödeyiniz.
+                                 | Rehin içindir.
+                                 |        İMZA L
+                                 |
+                                 v
+
+                                 H
+
+D ile L arasında bir satış sözleşmesi yapılmış ve D bedel borcu için bir bono
+düzenleyerek L'ye vermiştir. L ile H arasında da bir ödünç sözleşmesi vardır.
+H, L'ye bir miktar ödünç vermiştir ve kendisi L'den alacaklıdır. H, bu alacak
+hakkını güvence altına almak için L'den teminat istemiş, L de elinde bulunan
+bonoyu rehin cirosu yaparak (alacak rehni) H'ye teslim etmiştir. Bu suretle L
+bononun içerdiği alacak hakkı üzerinde H lehine rehin hakkı tesis etmiş olur.
+....
++
+*H'nin yapacağı ciro ancak tahsil cirosu niteliğinde olabilir*.
++
+*Rehin hakkı fer'i bir haktır. Yani asıl alacağın akıbetine bağlıdır. Asıl
+alacak herhangi bir sebeple geçersizse rehin de geçersizdir*. Eğer düzenleyenin
+lehdara karşı sahip olduğu asıl alacağın geçersiz olduğuna ilişkin bir defi
+imkanı varsa bu hamile karşı da ileri sürülebilir. Çünkü hamilin sahip olduğu
+rehin hakkı fer'i bir haktır. Bu özel durum dışında genel olarak kıymetli
+evraka ilişkin defi kuralları rehin cirosu için de geçerlidir.
++
+[NOTE]
+====
+Rehin cirosu ile senedi devralan kişinin sahip olduğu alacak ile senedin
+üzerindeki alacak miktarı arasında bir fark olması durumunda ne olacaktır?
+Örneğin bononun meblağ kısmında 50.000 TL yazıyor ama H'nin, L'den olan
+alacağının miktarı 30.000 TL. H senedin vadesi geldiğinde D'ye gitse ve senedin
+bedelini istese ne olur?
+
+D, H'ye 30.000 TL ödeme yapabilir. D, H'ye 50.000 TL ödeme yapsa bile H'nin
+20.000 TL'yi L'ye vermesi gerekir. Vermezse sebepsiz zenginleşme hükümleri
+uyarınca L, H'den 20.000 TL'yi isteyebilir.
+====
++
+Rehin cirosunda bir asıl alacak vardır bir de kambiyo senedinden doğan alacak
+vardır. Asıl alacağın vadesi ile kambiyo senedinin vadesi birbirinden farklı
+olabilir. Senedin vadesi rehinli teminat alacağından önce geliyorsa hamil
+senedin vadesinde ibraz ederek tahsilatı gerçekleştirir. Dolayısıyla esasında
+alacağına vadesinden önce kavuşmuş olur. Rehinli alacağın vadesi senedin
+vadesinden önce geliyorsa senedi ibraz etmesi halinde düzenleyen senet
+metninden anlaşılan bir defi olan vadenin henüz gelmediğini ileri sürer. Bu
+durumda hamil rehinli alacağın icra yoluyla paraya çevrilmesini talep edebilir.
+İcraya ilişkin hükümler çerçevesinde senet satışa çıkarılır. Birisi icra
+yoluyla senedin üzerinde meblağdan daha düşük bir bedelle seneti satın alır.
+Vadesi geldiğinde de aradaki fark senedi icra yoluyla alanın karını oluşturur.
+Uygulamada buna *çekin kırılması* denir.
++
+[NOTE]
+====
+Rehin cirosunun bir teminat işlevi var mıdır?
+
+Yargıtay'ın kanaati rehin cirosunun teminat işlevi olmadığı yönündedir. Rehin
+cirosunda tarafların beklentisi H'nin asıl borçluya giderek borcu tahsil
+etmesidir. Senedi devraldığı kişiye tekrar başvurmasını istememiştir.
+Dolayısıyla H'nin senedi bir rehin cirosu ile alması onun açısından avantajlı
+değildir. Temlik cirosu her bakımından daha avantajlıdır.
+====
+. *Tahsil cirosu*
++
+****
+*TTK 688*: (1) Ciro, “bedeli tahsil içindir”, “vekâleten” veya bedelin başkası
+adına kabul edileceğini belirten bir şerhi ya da sadece vekil etmeyi ifade eden
+bir kaydı içerirse, hamil, poliçeden doğan bütün hakları kullanabilir; fakat o
+poliçeyi ancak tahsil cirosu ile tekrar ciro edebilir.
+
+(2) Poliçeden sorumlu olanlar, bu hâlde, ancak cirantaya karşı ileri
+sürebilecekleri def’ileri hamile karşı dermeyan edebilirler.
+
+(3) Tahsil cirosunun içerdiği yetki, bu yetkiyi verenin ölümü ile sona
+ermeyeceği gibi, onun medenî hakları kullanma ehliyetini kaybetmesiyle de
+ortadan kalkmaz.
+****
+
+* Meşru hamil olmanın şartları:
+
+** İlk ciro yapan lehdar olmalıdır.
+** Her bir tam ciroda senet kendisine ciro edilen bir sonraki ciroda ciranta
+olmalıdır.
+** Beyaz ciro ikinci kuralın istisnasını oluşturur ve senetteki zinciri
+koparmaz. Son ciro beyaz ciro olmalı ya da hamil lehine yapılmış bir tam ciro
+olmalıdır.
+
+* Borçlar hukukuna göre bir vekil tayin ettikten sonra kişi ölürse veya işlem
+ehliyetini kaybederse vekalet sona erer ama ticaret hukukunda vekalet
+ilişkisi bu gibi durumlarda da devam eder.
+
+* Bono *düzenleyen* ile *lehtar* arasındaki bir *ödeyeceğim* ilişkisidir.
+Bononun *kredi ve ödeme işlevi* vardır.
++
+....
+Düzenleyen  +----------------->  Lehdar
+....
+
+* *Kabul*, poliçeye özgü bir kambiyo taahhüdüdür. Kabul beyanı muhatap
+tarafından yapılır. Kabulümdür, kabul ediyorum, kabul içindir şeklinde bir
+beyanla birlikte bu beyanın altının imzalanması suretiyle gerçekleşir. İkinci
+ihtimal senedin ön yüzünde muhataba ait olan çıplak imza kabul hükmünde
+sayılır.
++
+Muhatabın kabulü muhatabı poliçede asıl borçlu haline getirir. Asıl borçlu o
+senetten dolayı en süre sorumuluk altında olan kimsedir. Zamanaşımı süresi
+içerisinde asıl borçluya her zaman başvurulabilir.
++
+Muhatap poliçeyi kabul etmeyebilir. Kural olarak lehdar kabul için ibraz etmek
+yerine vade geldiğinde ödeme için ibraz edebilir. Çünkü *kabul için ibraz
+ihtiyaridir*.
++
+Kabul için ibraz edilen senet muhatap tarafından kabul edilmezse bu durumda
+yine poliçeye özgü olarak *kabul etmeme protestosu* çektirelerek vadenin
+gelmesi beklenmeksizin müracaat borçlularına gidilebilir veya muhatap kabul
+etmemiş olmasına rağmen vadenin gelmesine beklenir. Vadede bu defa ödeme için
+yine muhataba ibraz edilir. Muhatap yine kabul etmezse *ödememe protestosu*
+düzenlenir.
++
+Poliçede kambiyo ilişkisi düzenleyen senedi imzalayıp lehtara teslim ettiği
+anda başlar. Düzenleyen zaten senedin sorumlusudur. Muhatabın kabulü onu asıl
+borçlu sıfatıyla bu ilişkiye dahil eder. Muhatabın kabul etmemesi kambiyo
+ilişkisinin doğmadığı sonucuna götürmez. Hem düzenleyenin imzası hem de daha
+sonradan cirantaların attığı imzalar geçerli birer kambiyo taahhüdüdür.
++
+Kabul için ibraz ihtiyaridir kuralının bazı istisnaları vardır. Bu istisnakar
+dışında düzenleyenin kabul için ibrazı yasaklaması da mümkündür.
+
+.. *Düzenleyen senedin kabul için ibrazını zorunlu kılabilir*. Senedi elinde
+bulunduran kimse süreye tabi ise bu süre içinde süreye tabi değilse vade
+tarihine kadar senedi kabul için ibraz etmek zorundadır.
+.. *Görüldükten belirli bir süre sonra ödenmesi gereken poliçelerde bu belirli
+görülme tarihi aynı zamanda kabul için ibraz tarihidir*. Senet kabul için ibraz
+edildiğinde o artık görüldüğü andır ve o andan sonra vade işlemeye
+başlayacaktır.
+.. Adresli ve ikametgahlı poliçelerde de ödeyecek kimsenin veya ödenecek yerin
+belirlenmesi açısından kabul için ibraz zorunludur.
+
+* *Aval*, bonoda veya poliçede yazılı olan bedelin kısmen veya tamamen güvence
+altına alınmasına yarayan bir kambiyo taahhüdüdür. Avalistin kambiyo taahhüdü
+diğerleri gibi bağımsızdır ve ayrıca avalisti müteselsil borçlu kılar. 
++
+Aval beyanı, aval vermek isteyen kişinin bunu belirten bir ifadesi ve imzasıyla
+yapılır. "Avalim", "avalistim" veya Yargıtay'ın uygulamada kabul ettiği
+"kefilim" gibi ifadeler kullanılabilir.
++
+Aval beyanı senedin ön yüzüne de arka yüzüne de yapılabilir. Arka yüz
+dolduğunda alonj üzerine de yapılabilir.
++
+Poliçenin veya bononun ön yüzüne herhangi bir açıklama olmaksızın bir imza
+koyulmuşsa bu kural olarak aval beyanını ifade eder.
++
+TTK 701/4 uyarınca kimin için verildiği belli olmayan aval beyanı düzenleyen
+lehine verilmiş sayılır.
++
+TIP: Uygulamada sık rastlanan bir durum da düzenleyen kısmında yer alan imzanın
+aynısının senedin ön yüzünde başka bir yerde daha bulunmasıdır. Örneğin
+düzenleyen kısmında bir tüzel kişinin adı yazar altında da yetkili kişinin
+imzası bulunur. Aynı imza senedin ön yüzünde başka bir yere daha atıldıysa bu
+da düzenleyen lehine aval anlamına gelir. Dolayısıyla aynı kişi önce
+düzenleyeni temsilen imza atıyor ve o tüzel kişi senedin düzenleyeni haline
+geliyor daha sonra attığı ikinci imzada da kendisi bizzat avalist oluyor.
++
+Kural olarak aval beyanı kayıtsız şartsız olmalıdır. Kayda ve şarta bağlı aval
+geçersiz sayılır. 
++
+NOTE: Kanun koyucu kambiyo taahhüdünde kısmi kabule ve kısmi avale izin
+vermiştir.
++
+Aval veren kimse bağımsız bir borç altına girer. Avalist kural olarak diğer
+borçlularla birlikte müteselsilen sorumludur. *Aval beyanının geçerliliği
+lehine aval verilen kimsenin beyanının geçerliliğine tabi değildir*.
++
+*Avalist kimin lehine aval vermişse onun gibi sorumludur*. 
++
+CAUTION: Lehine aval verilen kişinin taahhüdünde şekle ait noksanlık varsa o
+zaman avalistin taahhüdü de geçersiz olur.
++
+Hamil müracaat hakkı doğduğu zaman hiçbir sıraya tabi olmaksızın müracaat
+borçlularına gidebilir. Çünkü hepsi müteselsilen sorumludur. İster cirantalara
+ister avaliste isterse hepsine birden gider. Avalist "önce lehine aval verdiğim
+cirantaya git alamazsan bana gel" diye bir savunma yapamaz. Adi kefalet ile
+avalin ayrıldığı nokta budur.
++
+Avalist lehine aval beyanı verdiği kişinin defilerini hamile karşı ileri
+süremez. Çünkü kendisinin taahhüdü bağımsızdır.
++
+TIP: Asıl mesele lehine aval verilen kişinin asıl borçlu mu müracaat borçlusu
+mu olduğudur.
+
+* Kambiyo senedi düzenlenirken nihai amaç düzenleyen tarafından vadesi
+geldiğinde ödenmesidir. Alacaklı vadede borçlunun ikametgahına gitmek suretiyle
+borçludan senedi ödemesini talep eder. Yani *bono ve poliçedeki borç aranılacak
+borçtur*. Halbuki genel kurala göre para borçları götürülecek borçtur (TBK 89).
++
+*Borç senedi ibraz etmek suretiyle aranır*. Çünkü kambiyo senetlerinde çifte
+ibraz kaydı vardır. Alacaklı bedeli alabilmek için senedi göstermelidir. Borçlu
+da ancak senedi görmek karşılığında ödeme yapmakla yükümlüdür. Eğer bu çifte
+ibraz kaydının varlığına rağmen *borçlu senedi görmeden ödeme yapmışsa riski
+üzerine almış demektir*. Çünkü alacaklı hem o ödemeyi alıp hem de ibraz
+etmediği senedi başka birisine devredebilir. Senedi devralan borçluya
+gittiğinde borçlu daha önceden ödediğini öne süremez, bir daha ödeme yapmak
+zorunda kalır.
++
+Borçlu ibraz karşılığında senedi inceler, kendisine ait olup olmadığına bakar,
+unsurları tam mı kontrol eder, arka tarafında düzgün ciro zinciri var mı
+inceler ve vadesine bakar. Dolayısıyla borçlu ödeme yapıp yapmayacağına ibraz
+neticesinde karar verir. 
+ 
+** *Kim ibraz eder?*
++
+Ödeme için ibraz, senede zilyet olan meşru hamil veya onun yetkili temsilcisi
+tarafından gerçekleştirilir.
++
+Bono ve poliçede bir kimsenin meşru hamil olup olmadığı ciro zincirine bakar
+anlaşılır. Çünkü kambiyo senetleri kanunen emre yazılı senetlerdir ve
+ciro + zilyetliğin nakli suretiyle devredilir. Senedi ibraz edenin zilyet
+olduğuna şüphe yoktur ama ayrıca borçlu alacaklının meşru hamil olup olmadığını
+da kontrol etmek zorundadır. İşte bu durumda da devreye çifte teşhis kaydı
+girer. Sadece senedin arka yüzündeki ciro zincirinin şeklen düzgün olması ile
+ödeme talep edilebilir. O yüzden borçlu kendisine ibrazda bulunan kimsenin
+meşru hamil olup olmadığını senedin türüne göre tespit etmek zorundadır. 
++
+.Bir ciro zincirinin düzgün olduğu nasıl anlaşılır?
+****
+. İlk ciro lehdara aittir.
++
+Yargıtay lehtardan önce yapılmış ciroları yazılmamış sayar. Lehtardan itibaren
+ciro zincirini sağlıklı kabul eder.
+. Bir önceki ciroda senet kendisine ciro edilen bir sonraki cironun cirantası
+olmalıdır.
+. Beyaz ciro zinciri bozmaz.
+****
+** *Kime ibraz edilir?*
++
+Geçerli ibraz, asıl borçluya yöneltilen ibrazdır. 
++
+Kambiyo senedinde borçlular ikiye ayrılır: Asıl borçlu ve müracaat
+borçluları. Poliçede asıl borçlu kabul eden muhataptır. Bonoda ise düzenleyen
+daima asıl borçludur. Asıl borçluya vadeden itibaren işleyecek 3 yıllık
+zamanaşımı içerisinde hiçbir başka şart olmaksızın başvurulabilir. Halbuki
+müracaat borçlularına gidebilmek için vade + 2 iş günü içerisinde ibraz
+yükümlülüğü yerine getirilmeli ve asıl borçlu senedi ödemediği takdirde
+protesto tanzim ettirilmelidir.
++
+Bazı istisnai hallerde ibraz gerçekleşmeden de müracaat hakkı kullanılabilir:
+*Asıl borçlu iflas ettiği takdirde ibraz zorunluluğu ortadan kalkar*. Alacaklı
+elindeki iflas ilamı ile protesto çektirmek için doğrudan notere gidebilir.
+Aslında iflas durumunda protestoya bile gerek kalmaz. Sadece iflas ilamının
+ibrazı müracaat hakkının kullanımı bakımından yeterlidir.
++
+CAUTION: Düzenleyen veya müracaat borçluları tarafından *protestodan muafiyet
+kaydı* koyulabilir. Müracaat borçlusu koymuşsa sadece onun açısından düzenleyen
+koymuşsa herkes için hüküm doğurur. Bu kayıt ile artık alacaklının protesto
+çektirme zorunluluğu ortadan kalkar. Ama *ibraz yükümlülüğü yine de devam
+eder*.
+** *Ne ibraz edilir?*
++
+Asıl borçluya ibraz edilecek şey poliçenin ya da bonun aslıdır.
++
+Kıymetli evrakın zayi olduğu hallerde mahkemeye gidilerek evrakın iptali talep
+edilir. İptal kararının varlığı durumunda artık senedin aslı değil mahkeme
+kararı ibraz edilebilir.
++
+Nama yazılı kıymetli evrak açısından da TTK 657/2 ile bir istisna getirilmiştir.
++
+====
+*TTK 657/2*: Borçlu, senette ilanların sayısını azaltmak veya süreleri
+kısaltmak suretiyle iptal için daha basit bir usul öngörebileceği gibi,
+alacaklı kendisine senedin iptal ve borcun ödendiğini gösteren, resmen
+düzenlenmiş veya usulen onaylanmış bir belge verdiği takdirde, senet ibraz
+edilmeksizin ve iptaline karar verilmeksizin de geçerli olmak üzere ödemek
+hakkını da saklı tutabilir.
+====
+** *Nasıl ibraz edilir?*
++
+Senedin içerdiği borcun ödenmesi talebiyle ve ödendiği takdirde senedi teslim
+etmeye hazır olunarak ibraz edilmesi gerekir.
+** *Nerede ibraz edilir?*
++
+====
+*TTK 755*: (1) Poliçeyi kabul veya ödeme için ibraz etmek, protesto çekmek,
+poliçenin bir nüshasının verilmesini istemek gibi belirli bir kişi nezdinde
+yapılacak olan bütün işlemlerin, bu kişinin ticaret yerinde ve böyle bir yeri
+yoksa konutunda yapılması gereklidir.
+
+(2) Ticaret yeri veya konutun bulunduğu yer dikkatle araştırılır. Kolluktan
+veya yerel posta yönetiminden edinilen bilgilerden bir sonuç çıkmadığı takdirde
+başka araştırma yapmaya gerek yoktur.
+====
++
+_Kürsüye göre_ ticaret yerinde aranıp bulunamazsa ayrıca bir de konutuna
+gidilmesine gerek kalmaz, ibraz gerçekleşmiş sayılır.
+** *Ne zaman ibraz edilir?*
++
+Bono ve poliçede dört çeşit vade vardır. Görüldüğünde vadeli bir bono veya
+poliçe düzenlenme tarihinden itibaren 1 yıllık süre içerisinde herhangi bir
+zaman ibraz edilebilir. Düzenleyen bu süreyi uzatabilir veya kısaltabilir.
+Cirantalar ise sadece kısaltabilir. Dİğer türdeli bonolarda vade ne zaman ise
+kural olarak ibraz da o zamandır. Düzenlenme tarihinden belirli bir süre sonra
+vadeli ise TTK 706'ya göre hesap edilir. 
++
+İbraz bakımından söz konusu olan ödeme günü ile vade eş anlamlı değildir. İbraz
+vade + 2 iş günü içerisinde yapılır. Ayrıca vade bir tatil gününe denk
+geliyorsa hesaplama ilk iş gününden itibaren başlar. 
++
+Ödeme süresi hak düşürücüdür. Bu süreye riayet edilmezse müracaat hakkı düşer.
+Buna rağmen zamanında ibraz edilmemiş olsa dahi zamanaşımı süresi boyunca asıl
+borçluya gidilebilir. 
++
+TIP: Zamanaşımı süresi kaçırılmış olsa bile sebepsiz zenginleşme ile 1 yıllık
+süre içerisinde asıl borçluya gidilme imkanı vardır.
+
+* Ödeme için ibrazın sonuçları:
+
+. İbraz neticesinde senedin ödenip ödenmeyeceği, ödenecekse kısmen mi
+tamamen mi ödeneceği anlaşılmış olur. Eğer borç kısmen ödenirse ödendiği oranda
+sona erer, tamamen ödenirse kambiyo ilişkisi sona erer.
+. Borç ödenmeyecekse borçlu ödemediği oranda temerrüde düşer. Ancak *ibraz
+gerçekleşmezse borçlu temerrüde düşmez*. 
++
+WARNING: Temerrüt ibraz ile birlikte ama vadeden itibaren gerçekleşir.
+. Ödeme için ibraz sonucunda *ödememe protestosu* çektirme hakkı kazanılır.
+Çünkü protesto için ön şart senedin ödeme için ibraz edilmesi ve ödenmemesidir. 
++
+....
+
+İBRAZ  +------>  PROTESTO  +------->  MÜRACAAT HAKKI
+
+....
+. İbraz üzerine senet alacaklısı teşhis edilmiş olacağından temerrüde düşen
+borç artık götürülecek borç haline gelir.
+
+* Eğer vade + 2 iş günü içerisinde alacaklı geçerli bir ibrazda bulunmazsa:
+
+. *Alacaklı temerrüdü*: Senetten doğan borç aranılacak borç olduğundan alacaklı
+süresinde ibraz etmezse alacaklı temerrüdüne düşer. 
++
+[caption=""]
+.Tevdi
+====
+*TTK 712*: (1) Bir poliçe 708 inci maddede öngörülen süre içinde ödeme için
+ibraz edilmediği takdirde borçlu, gideri ve riski hamile ait olmak üzere
+poliçenin bedelini bir bankaya tevdi edebilir.
+====
++
+Ticaret kanunda böyle bir hüküm olmasaydı bile TBK 107 uyarınca tevdi
+yapılabilirdi.
++
+[caption=""]
+.Tevdi hakkı
+====
+*TBK 107*: (1) Alacaklının temerrüde düşmesi durumunda borçlu, hasar ve
+giderleri alacaklıya ait olmak üzere, teslim edeceği şeyi tevdi ederek
+borcundan kurtulabilir.
+
+(2) Tevdi yerini, ifa yerindeki hâkim belirler. Bununla birlikte ticari mallar,
+hâkim kararı olmadan da bir ardiyeye tevdi edilebilir.
+====
++
+TTK 712, TBK 107'nin uygulama alanını ortadan kaldıran bir madde değil, ek
+imkan sunan bir maddedir.
++
+Belirsiz bir üçüncü kişi adına açılmış bir banka hesabına bononun üzerindeki
+bedeli ve varsa faizi de ekleyerek tevdi edildiği takdirde alacaklı bu parayı
+talep edebilir. Banka senedin arka ve ön yüzüne bakarak meşru hamil olan
+kimseye ödemeyi gerçekleştirecektir.
++
+.Tevdi etmenin hukuki sonuçları
+****
+.. Borçlu tevdiyi geri almaktan vazgeçmek suretiyle yapmışsa ödeme ile aynı
+sonuç doğar. Kambiyo ilişkisi sona erer.
+.. Tevdi senedi sonradan iyiniyetle iktisap eden üçüncü şahıslar da dahil olmak
+üzere senede bağlı bütün hak sahipleri bakımından hüküm ifade eder.
+.. Tevdi edenle banka arasındaki sözleşme üçüncü kişi yararına bir sözleşmedir.
+Lehine tevdi gerçekleştirilen kimse bankadan kendisine ödeme yapılmasını
+isteyebilir. Yani tam üçüncü kişi yararına sözleşmedir.
+.. Alacaklının temerrüdü borcu ortadan kaldırmaz. Bononun zamanında ibraz
+edilmemesi üzerine giderler ve riskler hamile geçer. Örneğin tevdi masrafı
+başlı başına bir giderdir. 
+****
++
+Kanunun ifadesi bankaya tevdi edebilir şeklinde olduğundan kanun koyucu bir
+imkan sunar gibidir. Eğer bu bir imkan değil de zorunluluksa bunu
+gerçekleştirmeyen borçlu da borçlu temerrüdüne düşecektir. Doktrinde hakim
+görüş bunun bir imkan olduğu yönündedir. Ancak Yargıtay'ın pek çok kararına
+bunun bir zorunluluk olduğu ifade edilmektedir. _Kürsünün görüşü_ ise bunun bir
+imkan olduğu yönündedir.
+. *Müracaat hakkının düşmesi*: İbraz zamanında yapılmazsa müracaat borçlularına
+başvurma imkanı kalmaz. _Kürsüye göre_ avalist kimin lehine aval verdiyse onun
+gibi sorumlu olduğundan düzenleyen lehine aval verene ibraz edilmese de
+zamanaşımı süresi içinde başvurulabilir. 
+. *Asıl borçluya başvurma hakkının daralması*: Hamil ibraz etmiş olsaydı
+bedeli, varsa anapara faizini, temerrüt faizini, ihbar ve diğer giderleri
+isteyebilecekti. İbraz gerçekleştirilmemişse sadece bedel ile anapara faizini
+isteyebilir.
+
+* Kambito senedinin ödenmesi demek nakden ve elden ifanın gerçekleşmesi
+demektir. Ama alacaklı eğer razıysa hesaplar arası bir işlem suretiyle ya da
+takas suretiyle bir ödeme de gerçekleştirilebilir.
++
+Asıl borçlu senedi tamamen ödediği takdirde artık ortada bir kambiyo ilişkisi
+kalmaz. Düzenleyen kısmi ifada bulunduğu takdirde ifa ettiği oranda borç sona
+erer. Alacaklı kalan kısım için protesto çektirerek müracaat borçlularına
+gidebilir.
++
+Borcu müracaat borçlularından biri öderse kambiyo ilişkisi kendinden önce
+gelenler bakımından sona ermez.
++
+Ödemeyi talep için vadenin gerçekleşmesi gerekir. Senedin vadeden önce ibrazı
+halinde borçlu senet metninden anlaşılan bir defi olan vadenin gelmemesini
+ileri sürebilir.
++
+Zamanaşımının hesabı bakımından vade dikkate alınır. Zamanaşımı vadeden
+itibaren 3 yıldır. Ayrıca temerrüt faizi de vadeden itibaren işlemeye başlar.
++
+Yabancı para üzerinde düzenlenmiş bir bononun bedelinin TL'ye çevrilmesinde de
+vade günü esas alınır.
++
+Vadede bedelin tam olarak ödenmesi, senet üzerindeki bedel ile görüldüğünde
+veya görüldüğünden belirli bir süre sonra vadeli bono veya poliçe varsa ve
+anapara faizi kararlaştırılmışsa bu bedelin ödenmesi anlamına gelir.
++
+Borçlu tam ödeme yaptığında kendini güvence altına almak için senedi geri
+almalıdır. Ancak TTK 709 ek bir imkan daha sunmaktadır.
++
+[caption=""]
+.Makbuz isteme hakkı
+====
+*TTK 709*: (1) Muhatap, poliçeyi öderken hamil tarafından bir ibra şerhi
+yazılarak poliçenin kendisine verilmesini isteyebilir.
+
+(2) Hamil kısmi ödemeyi reddedemez.
+
+(3) Kısmi ödeme hâlinde muhatap bu ödemenin poliçe üzerine yazılmasını ve
+kendisine bir makbuz verilmesini isteyebilir.
+====
++
+Borçlu senedi alırken senedin üzerine alacaklı tarafından bir ibra şerhi
+düşülmesini isteyebilir. Böyle bir şerh olmasa bile *senedin borçlunun elinde
+olması bedelin ödendiğine dair bir karine oluşturur*, aksini ispat alacaklıya
+düşer. Uygulamada imza kısmının yırtılması, senedin yırtılması, üzerine
+ödenmiştir kaşesi basılması, üstünün çizilmesi de ödendiği anlamına gelir.
++
+Alacaklı kısmi ifayı reddederse alacaklı temerrüdüne düşer. Dolayısıyla
+müracaat borçlularına karşı müracaat hakkını ancak kalan kısım için
+kullanabilir. Reddedilen kısım için artık müracaat borçlularına gidemez. Asıl
+borçluya daha sonradan yapacağı başvuruda yine senet bedelinin tamamını
+isteyebilir.
++
+Vadede kısmi ödeme yapılırsa hamil senedi düzenleyene vermeyecektir.
+Dolayısıyla senedin üzerine kısmi ödeme yapıldığının yazılması müracaat
+borçlularının hakkını korumak adına, asıl borçluya makbuz vermek de asıl
+borçlunun hakkını korumak adına yapılmalıdır.
+
+* Borçlu vadeden önce borcunu ödemek zorunda değildir. Ancak öderse ve ödediği
+kimse şeklen meşru hamil olarak gözükme birlikte aslında gerçek hak sahibi
+değilse bunun riskini üzerine almış olur.
++
+[caption=""]
+.Vadeden önce ve vadesinde ödeme
+====
+*TTK 710*: (1) Poliçenin hamili, vadeden önce ödemeyi kabulle yükümlü değildir.
+
+(2) Vadeden önce ödeyen muhatap, bundan doğacak tehlike kendisine ait olmak
+üzere hareket etmiş olur.
+
+(3) Hile veya ağır bir kusuru bulunmadıkça poliçeyi vadesinde ödeyen kişi
+borcundan kurtulur. Ödeyen kişi, cirolar arasında düzenli bir teselsülün
+bulunup bulunmadığını incelemekle yükümlü ise de cirantaların imzalarının
+geçerliliğini araştırmak zorunda değildir.
+====
++
+Kambiyo senetlerinin çift taraflı teşhis kaydı dolayısıyla borçlu kendisine
+alacaklı sıfatıyla gelene ödeme yapmakla borcundan kurtulur. Gerçekte hak
+sahibi olup olmadığını araştırmakla yükümlü değildir. Ama hile veya ağır kusuru
+olmamalıdır. Düzenleyen hamilin gerçekten meşru hamil olmadığını biliyorsa veya
+bilebilecek durumdaysa ödeme yapması onu borçtan kurtarmaz.
+
+[NOTE]
+====
+Taraflar anlaşarak vadeyi uzatabilirler mi?
+
+Dört çeşit vadeden başka bir vade yazılan ya da birden fazla vade yazılan
+poliçe ve bonolar batıldır.
+
+Taraflar kendi aralarında anlaşarak vadeyi uzatmışlarsa bu ancak onlar arasında
+hüküm ifade eder. Senet üzerine yazılmış bir uzatma beyanı geçerli kabul edilse
+dahi ancak o beyandan sonra senede imza koyanlar açısından geçerli olur.
+====
+
+* Kambiyo senetlerinde aşağıdan yukarıya doğru başvuru yapılabilir. Herkes
+kendisinden önce gelenlere müracaat edilebilir. Ancak bir kimsenin ciro
+zincirinde iki ayrı yerde imzası varsa bu iki imzanın arasında kalan kişilere
+karşı müracaat edebilmesi mümkün değildir.
++
+....
+
+D  +-->  L
+         +
+         v
+         C1+------+   Hamil C1'e karşı
+         +        |   başvuru hakkını
+         v        |   kullandığında
+         C2       |   senet bedelini
+         +        |   ödeyen C1 iki
+         v        +-> ayrı yerde imzası
+         C3       |   olduğu için C2 ve
+         +        |   C3'e gidemez. L'ye,
+         v        |   D'ye ve varsa D'nin
+         C1+------+   avalistine gidebilir.
+         +
+         v
+         H
+
+....
++
+Müteselsil sorumluluğun gereği olarak hamil istediği kimseye veya kimselere
+istediği sırayla gidebilir.
++
+Ödeme yapan kimseden sonra imza atanların sorumlulukları ortadan kalkar.
+Örneğin lehtar ödeme yaparsa diğer cirantaların sorumluluğu sona erer.
+Düzenleyenin avalisti ödeme yaparsa kambiyo ilişkisi düzenleyen açısından devam
+eder.
++
+*Her imza sorumluluk doğurur*. İmzanın sorumluluk doğurmaması *sorumsuzluk
+kaydıyla* mümkündür. Cirantanın imzasının yanına "ödememeden sorumlu
+olmayacağım" kaydı konularak yapılır. 
++
+Buna benzer bir kayıt da ciro yasağıdır. Ciro yasağı konulduğunda sadece yasağı
+koyandan sonra ilk gelen kişiye karşı sorumluluk devam eder. Düzenleyenin ciro
+yasağı koyması halinde, sadece lehtara karşı sorumlu olacağından şahsi
+def'ileri ileri sürebilecektir. Baskın görüşe göre bu durumda senet nama yazılı
+hale gelir, azınlık görüşü ise bu kaydın yazılmamış sayılacağıdır.
+
+* Müracaat hakkının kullanılabilmesi için maddi şart senedin vadesinde ibraz
+edilmesine rağmen ödenmemesidir. Bazı durumlarda ise asıl borçlunun ödeme
+yapmayacağı vadeden önce anlaşılabilir. 
++
+====
+*TTK 713*:  (1) Vadede poliçe ödenmemişse hamil, cirantalara, düzenleyene ve
+poliçe dolayısıyla taahhüt altına girmiş olan diğer kişilere başvurabilir.
+
+(2) Hamil;
+
+.. Kabulden tamamen veya kısmen kaçınılmış,
+.. Poliçeyi kabul etmiş olsun olmasın, muhatap iflas etmiş veya bir ilamla
+ispatlanmamış olsa da sadece ödemelerini tatil etmiş veya aleyhindeki herhangi
+bir icra takibi semeresiz kalmış veya
+.. Kabul için arz edilmesi menedilen bir poliçenin düzenleyeni iflas etmiş,
+
+olursa vadenin gelmesinden önce de aynı başvurma hakkını haizdir.
+====
++
+Müracaat hakkının şekli şartı ise noterde düzenlenen protestodur. Ödememe
+protestosu senedin vadede ibraz edilmesine rağmen ödenmediğini tespit eden bir
+ispat belgesidir. 
++
+Protestonun düzenlenme süresi vade + 2 iş günüdür. Bu süre hak düşürücü
+süredir. 
++
+[caption=""]
+.Süreler ve şartları
+====
+*TTK 714*:  (1) Kabul etmemenin veya ödememenin, kabul etmeme veya ödememe
+protestosu denilen resmî bir belge ile belirlenmesi zorunludur.
+
+(2) Kabul etmeme protestosunun, kabule arz için belirli olan süre içinde
+çekilmesi gerekir. 694 üncü maddenin birinci fıkrasında gösterilen hâlde
+poliçenin ilk arzı vadenin son gününde olmuşsa, protesto o günün ertesi günü de
+çekilebilir.
+
+(3) Belirli bir günde veya düzenlenme gününden ya da görüldükten belirli bir
+süre sonra ödenmesi şartını içeren bir poliçeden dolayı çekilecek ödememe
+protestosunun, ödeme gününü izleyen iki iş günü içinde çekilmesi zorunludur.
+Görüldüğünde ödenmesi şart olan bir poliçeden dolayı çekilecek ödememe
+protestosu, ikinci fıkrada kabul etmeme protestosu için gösterilen süreler
+içinde çekilir.
+
+(4) Kabul etmeme protestosu çekilmiş olması hâlinde ödeme için poliçeyi ibraz
+etmeye gerek olmadığı gibi, ödememe protestosu çekmeye de ihtiyaç yoktur.
+
+(5) Poliçeyi kabul etmiş olsun olmasın muhatap, ödemelerini tatil etmiş veya
+aleyhindeki herhangi bir icra takibi semeresiz kalmış ise, hamil başvurma
+haklarını ancak poliçenin ödenmesi için muhataba ibrazından ve protestonun
+çekilmesinden sonra kullanabilir.
+
+(6) Poliçeyi kabul etmiş olsun olmasın, muhatap veya kabul için arz edilmesi
+menedilen bir poliçenin düzenleyeni iflas etmişse, iflas ilamının ibrazı,
+başvurma hakkının kullanılması için yeterlidir.
+====
++
+Bir istisna protestoyu çektirememe mücbir sebepten kaynaklanabilir.
++
+[caption=""]
+.Mücbir sebepler
+====
+*TTK 731*:  (1) Kanunen belirli olan süreler içinde poliçenin ibrazı veya
+protesto düzenlenmesi, bir devletin mevzuatı veya herhangi bir mücbir sebep
+gibi aşılması imkânsız bir engel nedeniyle gerçekleştirilememişse, bu işlemler
+için belirli olan süreler uzatılır.
+
+(2) Hamil, mücbir sebepleri gecikmeksizin kendinden önce gelen kişiye ihbar
+etmekle ve bu ihbarı, altına tarih, yer ve imzasını da koyarak poliçeye veya
+alonja kaydetmekle yükümlüdür. Bunun dışında 723 üncü madde hükümleri
+uygulanır.
+
+(3) Mücbir sebeplerin ortadan kalkmasından sonra hamilin, poliçeyi gecikmesizin
+kabul veya ödeme amacıyla ibraz ve gereğinde protesto çekmesi şarttır.
+
+(4) Mücbir sebepler vadenin gelmesinden itibaren otuz günden çok sürerse,
+poliçenin ibrazına ve protesto çekmeye gerek olmaksızın başvurma hakkı
+kullanılabilir.
+
+(5) Görüldüğünde veya görüldükten belirli bir süre sonra ödenmesi şart olan
+poliçeler hakkında otuz günlük süre, hamilin kendi cirantasına mücbir sebebi
+ihbar ettiği tarihten itibaren işler. Bu ihbar, ibraz süresinin bitmesinden
+önce de yapılabilir. Görüldükten belirli bir süre sonra ödenmesi şart olan
+poliçelerde otuz günlük süre, poliçede belirtilen süre kadar uzar.
+
+(6) Hamilin veya poliçeyi ibraza veya protesto çekmeye memur ettiği kişinin
+yalnız kendilerine ait olaylar mücbir sebeplerden sayılmaz.
+====
++
+Kanunda beklenen noterin, senedi borçlunun ticaret yerinde ya da ikametgahında
+borçluya ibraz etmesi ve borçlunun ödeme yaparsa bedeli alacaklıya vermesi,
+ödeme yapmazsa da durumu bizzat tespit edip ödememe protestosu düzenlemesidir.
+Ancak uygulamada iki ihtimal söz konsudur. Ya hamil hiç ibraz etmeden direkt
+protesto çektirmek için notere gider, noter de ibraz edip etmediğini sormadan
+protesto düzenler ya da alacaklı asıl borçluya bir ihbar göndererek ödemeye
+çağırır. Ama bu yine de bir ibraz değildir.
++
+Protesto sakat olsa bile geçerli kabul edilir. En önemli sonucu da buna
+dayanarak müracaat hakkının kullanılabilmesidir. Ancak asıl borçlu bu sakat
+protesto yüzünden zarara uğramışsa hamile karşı tazminat davası açabilir.
+
+.Protestonun sonuçları
+****
+. Poliçenin ödendiğini iddia eden kimse artık bunun ödendiğini ispat etmekle
+yükümlüdür. Yani ispat yükünü tersine çevirir.
+. Müracaat hakkının ön şartıdır.
+. Kambiyo senetlerine özgü takip yoluna başvurmak için bu protestoyu da eklemek
+gerekir.
+. Protestodan sonra yapılacak bir ciro alacağın temliki hükmündedir.
+. Protesto borçlunun ticari itibarını zedeleyen bir tespittir.
+****
++
+Müracaat hakkı bakımından düzen şartı denilen ve *riayet edilmediği zaman
+müracaat hakkını ortadan kaldırmayan* bir hüküm vardır.
++
+[caption=""]
+.İhbar zorunluluğu
+====
+*TTK 723*: (1) Hamil, protesto gününü veya poliçede “gidersiz” kaydı mevcut
+ise, ibraz gününü izleyen dört iş günü içinde, kabul etmeme veya ödememe
+hâllerini, kendi cirantasına ve düzenleyene ihbar etmek zorundadır.
+
+(2) Her ciranta aldığı ihbarı, bunları aldığı günü izleyen iki iş günü içinde
+önceki ihbarları yapan kişilerin adlarını ve adreslerini de göstermek
+suretiyle, kendi cirantasına ihbar eder. Düzenleyene varıncaya kadar bu sıra
+dâhilinde hareket edilir.  Süreler önceki ihbarın alındığı tarihten itibaren
+işlemeye başlar.
+
+(3) Poliçede imzası bulunan bir kişiye ikinci fıkra gereğince ihbarda
+bulunulduğu takdirde, kendisine aval veren kişiye de aynı süre içinde bu
+ihbarın yapılması gerekir.
+
+(4) Bir ciranta adresini hiç yazmamış veya okunması mümkün olmayacak surette
+yazmış ise, ihbarın ondan önceki cirantaya yapılması yeterlidir.
+
+(5) İhbarı yapacak olan kişi bunu noter aracılığıyla veya sadece poliçenin
+iadesi yoluyla yapabilir.
+
+(6) İhbarı yapmakla yükümlü olan kişi bunu belirli süre içinde yaptığını ispat
+etmek zorundadır.
+
+(7) Birinci ve ikinci fıkralarda gösterilen süreler içinde ihbarname
+göndermeyen kişi başvurma hakkını kaybetmezse de ihmalinden doğan zarardan
+sorumlu olur. Ancak, bu zarara ilişkin tazminat borcu poliçe bedeliyle
+sınırlıdır.
+====
+
+* Müracaat hakkının kapsamı:
++
+[caption=""]
+.Hamilin hakkı
+====
+*TTK 725*: (1) Hamil başvurma yoluyla;
+
+.. Poliçenin kabul edilmemiş veya ödenmemiş olan bedelini ve şart kılınmışsa
+işlemiş faizi,
+.. Vadenin gelmesinden itibaren işleyecek faizi,
+.. Protestonun ve hamil tarafından tebliğ olunan ihbarların giderleriyle diğer
+giderleri ve
+.. Poliçe bedelinin binde üçünü aşmamak üzere komisyon ücretini,
+
+isteyebilir.
+
+(2) Başvurma hakkı vadenin gelmesinden önce kullanılırsa, poliçe bedelinden bir
+iskonto yapılır. Bu iskonto başvurma tarihinde hamilin yerleşim yerinde geçerli
+olan resmî iskonto oranına göre hesap edilir.
+====
++
+[caption=""]
+.Ödeyen kişinin hakkı
+====
+*TTK 726*: (1) Poliçe bedelini ödemiş olan kişi kendisinden önce gelen
+borçlulardan;
+
+.. Ödemiş olduğu tutarın tamamını,
+.. Ödeme tarihinden itibaren bu tutarın faizini,
+.. Yaptığı giderleri ve
+.. Poliçe bedelinin binde ikisini aşmamak üzere komisyon ücretini,
+
+isteyebilir.
+
+====
+
+* Bono ve poliçede düzenleyenin sorumluluğu hamil için de hamile ödeme yapan
+kişi için de üç yıldır. Bu süre vadeden itibaren başlar.
++
+[caption=""]
+.Süreler
+====
+*TTK 749*: (1) Poliçeyi kabul edene karşı ileri sürülecek poliçeden doğan
+istemler, vadenin geldiği tarihten itibaren üç yıl geçmekle zamanaşımına uğrar.
+
+(2) Hamilin, cirantalarla düzenleyene karşı ileri süreceği istemler, süresinde
+çekilen protesto tarihinden veya senette “gidersiz iade olunacaktır” kaydı
+varsa vadenin dolduğu tarihten itibaren bir yıl geçmekle zamanaşımına uğrar.
+
+(3) Bir cirantanın başka cirantalarla düzenleyen aleyhine ileri süreceği
+istemler, cirantanın poliçeyi ödediği veya poliçenin dava yolu ile kendisine
+karşı ileri sürüldüğü tarihten itibaren altı ay geçmekle zamanaşımına uğrar.
+====
++
+Hamil cirantalara karşı bir yıllık süre içerisinde gidebilir. Şayet olağan bir
+hal olarak protestoya tabi bir bonoysa protesto tarihinden veya protestodan
+muafiyet kaydı varsa vadeden itibaren 1 yıl içerisinde cirantalara müracaat
+edilebilir. Ancak hamilin her halükarda protestoyu çektirmiş olması lazımdır.
++
+Cirantanın başka cirantalara ve lehtara altı ay içerisinde gitmesi gerekir. Bu
+süre ciranta hamilin talebi üzerine ödeme yaptıysa ödediği tarihten itibaren
+başlar. Rızasıyla ödeme yapmayıp hamilin dava yoluyla ileri sürdüğü talep
+üzerine bir ödeme yapılmışsa bu durumda da kendisine karşı dava yoluyla ileri
+sürüldüğü tarihten itibaren başlar.
++
+====
+*TTK 750*: (1) Zamanaşımı; dava açılması, takip talebinde bulunulması, davanın
+ihbar edilmesi veya alacağın iflas masasına bildirilmesiyle kesilir.
+====
+
+* Müracaat borçlularına başvuru hakkı kaybedilse de üç yıllık süre içinde asıl
+borçluya gidilebilir. Asıl borçluya başvuru hakkı da yitirilmişse son şans
+olarak kambiyo hukukuna özgü bir sebepsiz zenginleşme dava açılabilir.
++
+[caption=""]
+.Sebepsiz zenginleşme
+====
+*TTK 732*: (1) Zamanaşımı sebebiyle veya poliçeden doğan hakların korunması
+için gerekli olan işlemlerin yapılmasının ihmal edilmiş olması dolayısıyla,
+düzenleyenin veya kabul edenin poliçeden doğan yükümlülükleri düşmüş bile olsa,
+bunlar poliçenin hamiline karşı, onun zararına zenginleşmiş olabilecekleri
+kadar borçlu kalırlar.
+
+(2) Sebepsiz zenginleşmeden doğan istem, muhataba, yerleşim yerli bir poliçeyi
+ödeyecek olan kimseye ve düzenleyen, poliçeyi başka bir kişi veya ticari
+işletme hesabına düzenlemiş olduğu takdirde o kişiye veya ticari işletmeye
+karşı da ileri sürülebilir.
+
+(3) Poliçeden doğan borcu düşmüş olan cirantaya karşı böyle bir istem ileri
+sürülemez.
+
+(4) Zamanaşımı süresi, poliçenin zamanaşımına uğradığı tarihi takip eden
+tarihten itibaren bir yıldır; ispat yükü, sebepsiz zenginleşmediğini iddia
+edene aittir.
+====
++
+Bono söz konusuysa ve hamil zamanaşımını da kaçırmış olması dolayısıyla artık
+alacağını alamaz hale gelmişse ve düzenleyen onun aleyhine zenginleşmişse hamil
+düzenleyene bu sebepsiz zenginleşme temelinde talepte bulunabilir. Zamanaşımı
+kaçırılmadığı sürece düzenleyen hamil lehine zenginleşmez. Zamanaşımı
+kaçırıldığı anda düzenleyinin hamil aleyhine zenginleştiği kabul edilir.
+Dolayısıyla hamil ayrıca bu durumu ispatla yükümlü değildir.
++
+Sebepsiz zenginleşme talebi sadece asıl borçluya karşı ileri sürülebilir.
+Poliçe söz konusu ise istisnai olarak düzenleyen de sebepsiz zenginleşme
+davasının muhatabı olabilir.
+
+[NOTE]
+====
+Sebepsiz zenginleşmenin bir yıllık zamanaşımı süresi de kaçırılırsa hamilin
+başvurabileceği başka bir yol var mıdır?
+
+Her kambiyo ilişkisinin altında bir temel ilişki yatar. Hamil bu temel ilişki
+temelinde TBK hükümlerince alacağını almaya çalışabilir. Genellikle temel
+ilişkideki borçlar hukuku sözleşmesinin zamanaşımı (10 yıl) kambiyo hukukundan
+daha uzundur. 
+
+Hamil bu talebi senedi kendisine ciro edene iletebilir. Bu durumda karşı taraf
+da senedin kendisine zedelenmeden iade edilmesini isteyebilir. Bu şekilde
+iadenin yapılmaması durumunda temel ilişkideki başvuruyu engelleyebilir.
+====
+
+* Çek, poliçede olduğu gibi bir *ödeyiniz* ilişkisidir. Poliçeden farkı *çekte
+muhatap her zaman bankadır*. Banka kendisine ödeyiniz diyen kişinin parası
+varsa hamile ödeme yapar. Çekin *sadece ödeme işlevi* vardır.
++
+....
+                      Düzenleyen
+                          +
+                          |
+                          |
+                          |
+Muhatap (Banka) <---------+---------> Lehdar
+....
++
+.Çekin unsurları
+****
+. Bono ve poliçede olduğu gibi senet metninde "çek" kelimesinin bulunması
+gerekir.
+. Belirli bir bedelin ödenmesi için kayıtsız ve şartsız havale beyanı
+içermelidir.
+. Muhatabın ticaret unvanının bulunması gerekir. Muhatap daima bankacılık
+kanunu uyarınca faaliyet gösteren bir banka olmalıdır. 
+. Ödeme yeri 
++
+====
+*TTK 781*: (2) Çekte açıklık yoksa, muhatabın ticaret unvanı yanında gösterilen
+yer ödeme yeri sayılır. Muhatabın ticaret unvanı yanında birden fazla yer
+gösterildiği takdirde, çek, ilk gösterilen yerde ödenir. Böyle bir açıklık ve
+başka bir kayıt da yoksa, çek muhatabın merkezinin bulunduğu yerde ödenir.
+====
++
+Çekte ödeme yeri zorunlu bir unsur değildir. Hiç yazılmasa bile muhatap daima
+banka olacağından bankanın merkezi ödeme yeri kabul edilecektir.
+. Düzenleme tarihi ve yeri daima gösterilmek zorundadır. Düzenlenme yerinin
+gösterilmemesi bakımından bonodaki kural geçerlidir.
++
+TIP: Birden fazla düzenlenme tarihi olması halinde Yargıtay'ın görüşü bunlardan
+daha ileri tarihli olanının vade sayılacağı ve çekte vade olmayacağı için bu
+tarihin geçersiz sayılacağı diğer tarihin ise düzenlenme tarihi olarak kabul
+edileceğidir.
+. Düzenleyenin imzası
+. Banka tarafından verilen seri numarası
+. Karekod
+
+Unsurlardan biri eksikse ve yedek unsurlar da yoksa çek geçersizdir. Bu durumda
+senet çek sayılmasa da yazılı delil başlangıcı veya adi havale kabul
+edilebilir.
+
+NOTE: Çek Kanunu'nda da çekte bulunması gereken bazı unsurlar belirtilmiştir.
+Ancak bu unsurların bulunmamasının çekin geçerliliği üzerinde bir etkisi
+yoktur.
+****
++
+Bir çek unsurları tamamlanmadan tedavüle çıkarılırsa *açık çek* olur. Bu
+durumda düzenleyen savunma olarak boşlukların iradesine göre doldurulmadığını
+ileri sürebilir. Bu bir kişisel def'idir. Şahsi def'iler bir üçüncü kişiye
+ancak bilerek borçlu zararına hareket ettiği takdirde ileri sürülebilir. Ancak
+burada bilerek borçlu zararına hareket etmesi değil, kötü niyetli veya ağırlı
+kusurlu olması aranır. 
+
+* Çekte zorunlu olmayan birtakım ihtiyari kayıtlara yer verilebilir. Bu
+kayıtların bir kısmı bizzat kanun tarafından öngörülmüş, bir kısmı da
+uygulamadan doğmuştur.
+
+** *Çekin türüne ilişkin kayıtlar* 
++
+[caption=""]
+====
+*TTK 785*: (1) Çek;
+
+.. “Emre yazılı” kaydıyla veya bu kayıt olmadan belirli bir kişiye,
+.. “Emre yazılı değildir” kaydıyla veya buna benzer bir kayıtla belirli bir
+kişiye,
+.. Veya hamile,
+
+ödenmek üzere çekilebilir.
+
+(2) Belirli bir kişi lehine “veya hamiline” kelimelerinin veya buna benzer
+başka bir ibarenin eklenmesiyle düzenlenen çek, hamiline yazılı çek sayılır.
+
+(3) Kimin lehine düzenlendiği gösterilmemiş olan bir çek, hamiline yazılı çek
+hükmündedir.
+====
++
+TIP: Emre yazılı senetlerde ciro vardır. Ancak hamiline yazılı bir çekin
+arkasına ciro yapılırsa bu cironun devir fonksiyonu yoktur ama *teminat
+fonksiyonu* vardır.
+** *Ödenmeme ihtimaline yönelik kayıtlar*
++
+Tıpkı bonoda ve poliçede olduğu gibi düzenleyen lehine veya müracaat borçluları
+lehine *aval kaydı* bulunabilir. 
++
+CAUTION: Muhatabın kambiyo taahhüdünde bulunması yasaktır. Dolayısıyla ne ciro
+yapabilir ne kabul beyanında bulunabilir ne de aval beyanında bulunabilir. Bu
+beyanların hespi geçersizdir.
++
+Protestodan muafiyet kaydı, sorumsuzluk kaydı ve ciro yasağı çekte de
+bulunabilir.
+** *Uygulamada geliştirilen kayıtlar*
+
+*** _Tahkim kaydı_: "İşbu çekten doğan uyuşmazlıklar tahkim yoluyla
+çözülecektir" şeklinde bir kayıt bulunuyorsa çekten doğan uyuşmazlık mahkemeye
+gitmez.
+*** _Yetki kaydı_: "İşbu çekten doğan uyuşmazlıklar İstanbul mahkemelerinde
+görülecektir" şeklinde bir kayıtla yetkili mahkeme belirlenebilir.
+*** _Teminat kaydı_: "Teminat içindir" kaydı eklenmesi çekin tedavül etmeyeceği
+anlamına gelir. Borç ödenirse çek iade edilecek ödenmezse çek tahsile
+koyulacaktır.
++
+CAUTION: Belirli tarihli satım sözleşmesinin teminatı için kayıt eklenmişse
+temel ilişkiye atıf yapılmaktadır. Böyle bir beyan bonoyu veya çeki geçersiz
+hale getirir. 
+*** _Vize kaydı_: Bu kaydı içeren çekin hamili muhataba (bankayı) başvurarak
+düzenleyenin hesabında yeterli para olup olmadığını öğrenebilir.
+*** _Teyitli (bloke) çek_: Düzenleyenin hesabında çekin üzerindeki bedel kadar
+miktarın bloke edildiğini belirtir. İbraz süresi içinde ibraz edildiğinde çekin
+ödeneceğinin bir teminatıdır. Bu kaydı banka koyar.
+** *Yasak kayıtlar*
+
+. *Muhatabın* kabul, aval ya da ciro gibi herhangi bir *kambiyo taahhüdünde
+bulunması* yasaktır. Bu kayıtlar yazılmamış sayılır.
+. Çekte *vade kaydı* yasaktır. Bu kayıt yazılmamış sayılır.
+. Çekte anapara faizi olmaz, zira vade yoktur. 
++
+TIP: Uygulamada ileri düzenleme tarihli çekler bakımından anapara faizi önceden
+hesaplanıp meblağ kısmına eklenerek anapara faizi yasağı aşılabilir.
+. *Düzenleyenin koyacağı sorumsuzluk kaydı* de geçersizdir.
+
+WARNING: ÇEKTE VADE YOKTUR!
+
+[caption=""]
+.Muacceliyet
+====
+*TTK 795*: (1) Çek görüldüğünde ödenir. Buna aykırı herhangi bir kayıt
+yazılmamış hükmündedir.
+
+(2) Düzenlenme günü olarak gösterilen günden önce ödenmek için ibraz olunan
+çek, ibraz günü ödenir.
+====
+
+* Hamil çeki muhataba götürdüğü anda muhatap düzenleyenin hesabında para varsa
+ödeme yapmak zorundadır. Çekteki borç *aranılacak borçtur*. Çekin ibraz
+edileceği yer *ödeme yerinin bulunduğu yerdeki banka şubesidir*. Çek muhatap
+bankanın *herhangi bir şubesine* de ibraz edilebilir.
++
+NOTE: Çek başka bir bankaya da ibraz edilebilir. Bankalar arasında *takas
+odası* denilen bir sistem vardır. Çekin bir takas odasına ibrazı ödeme için
+ibraz yerine geçer.
+
+* Çekte üç tür ibraz süresi vardır.
++
+|===
+| Düzenleme yeri ile ödeme yeri *aynı* | 10 gün
+| Düzenleme yeri ile ödeme yeri *farklı* | 1 ay
+| Düzenlendiği ülke ile ödeneceği ülke farklı ama ülkeler *aynı kıtada* | 1 ay
+| Düzenlendiği ülke ile ödeneceği ülke farklı ve ülkeler *farklı kıtalarda* | 3
+ay
+|===
++
+NOTE: Akdeniz'e kıyısı olan ülkelerle Avrupa aynı kıta olarak kabul edilir.
+Dolayısıyla Cezayir'de düzenlenip İsveç'te ödenecek bir çek 3 aylık değil 1
+aylık ibraz süresine tabidir.
++
+CAUTION: İbraz süresi bakımından fiilen nerede düzenlenip nerede ibraz
+edildiğinin bir önemi yoktur. Önemli olan senedin üzerinde yazılanlardır.
++
+İbraz sürelerinin hesabına aradaki tatiller dahildir ama sürenin son günü bir
+tatil gününe denk geliyorsa süre ilk iş gününe kadar uzar.
++
+İbraz süreleri düzenlenme günü dahil olmadan ertesi gün işlemeye başlar.
++
+İbraz süresi geçirilirse ne olur?
+
+. Kambiyo senedi dolayısıyla *düzenleyen de dahil olmak üzere tüm borçlulara
+karşı başvuru hakkı ortadan kalkar*.
+. *Düzenleyen çekten cayabilir*. 
+. İbraz süresinin geçmesinden sonra yapılacak ciro alacağın temliki hükmünde
+olur.
+
+
+[caption=""]
+.İbraz, ödeme, çekin karşılıksız olduğunun tespiti ve gecikme cezası
+====
+*ÇEK KANUNU 3*: (1) Karşılığı bulunan çek, hesabın bulunduğu muhatap bankanın
+herhangi bir şubesine ibraz edildiğinde hamilin varsa vergi kimlik numarası
+saptandıktan sonra ödenir. Ancak çek, hesabın bulunduğu şubeden başka bir
+şubeye ibraz edildiğinde, o şubece karşılığı sorulmak suretiyle ödenir.
+
+(2) “Karşılıksızdır” işlemi, muhatap bankanın hamile kanunen ödemekle yükümlü
+olduğu miktarın dışında, çek bedelinin karşılanamayan kısmıyla sınırlı olarak
+yapılır.
+
+(3) Muhatap banka, ibraz eden düzenleyici dışındaki hamile, süresinde ibraz
+edilen her çek yaprağı için;
+
+.. Karşılığının hiç bulunmaması hâlinde,
+
+... Çek bedeli bin Türk Lirası veya üzerinde ise bin Türk Lirası,
+... Çek bedeli bin Türk Lirasının altında ise çek bedelini,
+
+.. Karşılığının kısmen bulunması hâlinde,
+
+... Çek bedeli bin Türk Lirası veya altında ise, çek bedelini aşmamak
+koşuluyla, kısmî karşılığı bin Türk Lirasına tamamlayacak bir miktarı,
+
+... Çek bedeli bin Türk Lirasının üzerinde ise, çek bedelini aşmamak koşuluyla,
+kısmî karşılığa ilave olarak bin Türk Lirasını,
+
+ödemekle yükümlüdür. Bu husus, hesap sahibi ile muhatap banka arasında çek
+defterinin teslimi sırasında yapılmış olan dönülemeyecek bir gayri nakdî kredi
+sözleşmesi hükmündedir. Bu fıkradaki miktar, Türkiye İstatistik Kurumu
+tarafından yayımlanan fiyat endekslerindeki yıllık değişmeler göz önünde
+tutularak Türkiye Cumhuriyet Merkez Bankası tarafından her yıl Ocak ayında
+belirlenir ve Resmî Gazete’de yayımlanır.
+
+(4) Hamilin talepte bulunması hâlinde, karşılıksızdır işlemi; çekin arka yüzüne
+tahsil için bankaya ibraz edildiği tarih, hesap durumu, bankanın yükümlülüğü
+çerçevesinde ödediği miktar ve ibraz eden gerçek kişinin adı ve soyadı
+yazılmak, bu kişinin tüzel kişi adına bedeli tahsil etmesi hâlinde bu husus
+belirtilmek ve bu kişi ile birlikte banka yetkilisi tarafından imzalanmak
+suretiyle yapılır. Banka tarafından ödenen miktar düşüldükten sonra karşılıksız
+kalan tutar açıkça belirtilir.  Hamilin imzalamaktan kaçınması hâlinde,
+karşılıksızdır işlemi yapılmaz.
+
+(5) Muhatap bankanın üçüncü fıkraya göre ödemekle yükümlü olduğu tutar dahil,
+kısmî ödemenin hamil tarafından kabul edilmemesi hâlinde, ikinci fıkra hükmüne
+göre karşılıksızdır işlemi yapılır; ibraz tarihi ile ödememe nedeni çekin
+üzerine yazılır ve çek, üzerine imzası alınarak hamiline geri verilir; ön ve
+arka yüzünün fotokopisi banka tarafından saklanır.  Çek hesabında hiç
+karşılığın bulunmaması ve hamilin sadece muhatap bankanın üçüncü fıkraya göre
+ödemekle yükümlü olduğu tutarın ödenmesini talep etmesi hâlinde de bu fıkra
+hükmüne göre işlem yapılır.
+
+(6) Muhatap bankanın üçüncü fıkraya göre ödemekle yükümlü olduğu tutar dahil
+kısmî ödeme hâlinde, çekin ön ve arka yüzünün onaylı fotokopisi ücretsiz olarak
+hamile verilir. Çek hamili, bu fotokopiyle müracaat borçlularına veya kambiyo
+senetleri hakkındaki takip usullerine başvurabileceği gibi, icra mahkemesine
+şikâyette bulunurken dilekçesine bu fotokopiyi ekleyebilir ve bunu icra
+daireleri ile mahkemelerde ispat aracı olarak kullanabilir. Mahkeme veya icra
+dairesinin istemi hâlinde çekin aslı bu mercilere gönderilir.
+
+(7) Banka;
+
+.. Çekin karşılığının hesapta bulunmasına rağmen hamiline ödenmesinin geciktirilmesi,
+.. Kanunen ödemekle yükümlü olduğu miktarın hamile ödenmesinin geciktirilmesi,
+
+hâllerinde, çek hamiline, her geçen gün için binde üç gecikme cezası öder. Bu
+hâllerde 4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine
+İlişkin Kanun hükümleri uygulanmaz.
+
+(8) Üzerinde yazılı bulunan düzenleme tarihinden önce ibraz edilen çekin
+karşılığının Türk Ticaret Kanununun 707 nci maddesi uyarınca kısmen veya
+tamamen ödenmemiş olması hâlinde, bu çekle ilgili olarak hukukî takip
+yapılamaz. İleri düzenleme tarihli çekle ilgili olarak hukukî takip
+yapılabilmesi için, çekin üzerindeki düzenleme tarihine göre kanunî ibraz
+süresi içinde bankaya ibraz edilmesi ve karşılıksızdır işlemine tabi tutulması
+şarttır.
+
+(9) Çekin, üzerinde yazılı baskı tarihinden itibaren beş yıl içinde ibraz
+edilmemesi hâlinde, muhatap bankanın üçüncü fıkraya göre ödemekle yükümlü
+olduğu tutara ilişkin sorumluluğu sona erer.
+
+(10) Lehine karekodlu çek düzenlenen lehdar, teslim aldığı çeki Türk Ticaret
+Kanununun 780 inci maddesinin üçüncü fıkrasında belirtilen sisteme kaydeder.
+Karekodlu çekin sisteme kaydedildiği tarihten sonra çek düzenleyen tüzel
+kişinin temsilcilerinde meydana gelen değişiklikler, çek hesabı sahibi tüzel
+kişinin sorumluluğunu ortadan kaldırmaz.
+====
+
+* Çekin işlediği hesapta kısmen ya da tamamen bir karşılığın bulunması
+durumunda muhatap *banka ödeme yapmakla yükümlüdür*. Hesapta para olmasına
+rağmen ödeme yapılmadığı takdirde hamil, muhatap bankaya kambiyo senetlerine
+mahsus haciz yoluyla takip başlatamaz. Zira muhatap, kanun koyucu tarafından
+kesin bir biçimde kambiyo ilişkisinin dışında tutulmuş ve hiçbir şekilde
+kambiyo borcu altına giremez denilmiştir.
++
+TIP: Buradaki ödeme zorunluluğu kambiyo hukukundan değil tartışmalı olmakla
+birlikte genel kabule göre borçlar hukukundan kaynaklanan bir borçtur. 
++
+Çek kanununda da bankanın çekin karşılığı hesapta bulunmasına rağmen hamile
+ödeme yapmaması halinde çek hamiline her geçen gün için binde üç gecikme cezası
+ödeyeceği belirtilmiştir. Ayrıca karşılığı tahsil edilmek üzere bankaya ibraz
+edilen çekin karşılığının hesapta mevcut olmasına rağmen ödeme yapmayan banka
+görevlisi şikayet üzerine bir yıla kadar hapis cezası ile cezalandırılır.
++
+CAUTION: İbraz süresi geçtikten sonra ödeme yükümlülüğü ortadan kalkar.
++
+[NOTE]
+====
+İbraz süresinden önce bir çekin ibraz edilmesi mümkün müdür?
+
+İleri düzenleme tarihli bir çek varsa üzerinde yazan düzenleme tarihinden önce
+ibrazı söz konusu olabilecektir.
+
+Ticaret Kanunu uyarınca çek görüldüğünde ödenir. Ancak Çek Kanununda yapılan
+geçici düzenleme ile düzenlenme tarihi gelmeden önce ibraz edilen çeke karşılık
+ödeme yapılamaz.
+
+Çek Kanunundaki düzenleme geçicidir ve 31.12.2017 tarihine kadar
+uygulanacaktır. 31.12.2017 tarihinden sonra Çek Kanunundaki Geçici Madde 3'ün
+süresi uzatılmazsa çeki düzenleme tarihinden önce ibraz eden hamile ödeme
+yapılmaması halinde hamil hukuki veya cezai takip başlatamaz. Ancak çekin üzerinde
+yazan düzenleme tarihinden sonra çeki ibraz edip ödeme yapılmazsa takip
+başlatabilir.
+
+*Çek kanunun bugünkü düzeni itibariyle düzenleme tarihinden önce yapılan ibraz
+geçersizdir*.
+====
+
+* Çekin karşılığının kısmen ya da tamamen bulunmamasına rağmen bankanın bir
+ödeme yükümlülüğü vardır. Eğer hesapta hiç para yoksa ve çekin değeri 1000
+TL ve üzeriyse banka 1000 TL öder. 1000 TL'den az bir çek söz konusuysa tamamı
+ödenecektir.
++
+CAUTION: Bu borç da kambiyo borcu değildir. Dolayısıyla bunun ödenmemesi
+halinde kambiyo senetlerine özgü haciz yoluyla takip başlatılamaz.
+
+* Hamil çeki ibraz süresi içerisinde ibraz etmiş ise muhatap bazı incelemeler
+sonucunda ödemeyi yapar.
+
+. Çek sahibi ile arasında bir çek anlaşması var mı yok mu?
+. Çekin unsurları tamam mı?
+. İbraz süresi gelmiş mi?
+. Ciro varsa son hamil meşru hamil mi?
+. Nama yazılı bir çekse temlik zinciri düzgün mü?
+. Düzenleyenin imzası gerçekten düzenleyene mi ait?
+ 
+* Çek de bir kıymetli evrak olduğundan tam ödeme yapılması halinde çek geri
+alınır. Ancak çek özelinde bir kolaylık sağlanmıştır.
++
+====
+*TTK 789*: (4) Muhatap lehindeki ciro yalnız makbuz hükmündedir; meğerki,
+muhatabın birden fazla şubesi olup da, ciro, muhatap şubeden başka bir şube
+üzerine yazılmış bulunsun.
+====
++
+Kısmi ödeme halinde ise çekin üzerine gerekli bilgiler yazılır ancak *çekin aslı
+bankada kalır*. Hamile ise ön ve arka yüzünün onaylı bir fotokopisi verilir.
+Hamil bu fotokopiyi kullanarak müracaat borçlularına başvurabilir, icra takibi
+başlatabilir.
+
+[NOTE]
+====
+Karşılığı hiç veya kısmen olmayan bir çek banka tarafından tamamen ödenebilir
+mi?
+
+*Ödenebilir*;
+
+Örneğin düzenleyenle muhatap arasında bir kredi sözleşmesi uyarınca belirli bir
+miktara kadar ödeme hesapta para bulunmamasına rağmen yapılabilir.
+
+Bir diğer örnek ise karşılıksızdır işlemi yapıldığında risk merkezine
+bildirileceği için bankanın hatırlı müşterisinin hesabında para olmamasına
+rağmen ödeme yapmasıdır.
+
+Bu şekilde ödeme yapıldığı takdirde ödeme zorunluluğu olmadığı halde ödeme
+yapan banka düzenleyene giderek ödediği miktarı isteyecektir. Bu miktar
+sebepsiz zenginleşme veya vekaletsiz iş görme uyarınca istenebilir.
+====
+
+* Gerek *sahte* gerek *tahrif edilmiş* bir çeki ödemekten doğan sorumluluk
+bankaya aittir. Banka düzenleyin kusuru olduğunu ispat ederek sorumluluktan
+tamamen ya da kısmen kurtulabilir.
+
+TIP: Bonoda bir tahrifat varsa değişiklikten sonra imza atanlar değişen metne
+göre öncesinde imza atanlar önceki metne göre sorumludurlar.
+
+* *Cayma beyanı* ibraz süresi geçtikten sonra düzenleyenin hesabından ödeme
+yapılmamasını bankaya beyan etmesidir. Düzenleyen cayma beyanında bulunmamışsa
+ibraz süresi geçtikten sonra ibraz edilen çeke karşılık banka isterse ödeme
+yapar isterse yapmaz. 
++
+NOTE: İbraz süresi geçtikten sonra düzenleyen cayma beyanında bulunmamışsa ve
+hesapta para olmadığı için banka ödemeyi yapmamışsa hamilin başvurabileceği
+kimse yoktur.
+
+* Ödememenin sebebi hesapta yeterli karşılığın bulunmaması ise *karşılıksızlık*
+denilen durum gerçekleşir. 
++
+Bu durumda öncelikle ödememe hali tespit edilmelidir. Çünkü mahkemeye, icra
+dairesine, müracaat borçlularına ancak ödememe durumunun tespiti üzerine
+gidilebilir. Ödememe durumunu muhatap, söz konusu hali ve ibraz tarihini çekin
+üzerine yazarak tespit edebilir. Hamilin de bu tespitin altına imzasını atması
+lazımdır. Bu tespit işlemini bankanın yapmaması cezai sorumluluk doğurur.
++
+Çekte vade olmadığı için ibraz süresi içinde hem ibraz gerçekleştirilmeli hem
+de tespit yapılmalıdır.
++
+Bu tespit üzerine müracaat hakkı kullanılabilir. Bu kapsamda düzenleyene,
+lehtara, cirantalara, bunların avalistlerine gidilebilir. Hamiline yazılı bir
+çekse düzenleyene gidilir. Lehtara gidebilmek için isminin olması yeterli
+değildir, imzasının da bulunması gerekir.
++
+[caption=""]
+.Başvurma hakkının kapsamı
+====
+*TTK 810*: (1) Hamil, başvurma yolu ile;
+
+.. Çekin ödenmemiş olan bedelini,
+.. İbraz gününden itibaren bu tutarın faizini,
+.. Protestonun veya buna denk olan belirlemenin ve gönderilen ihbarnamelerin
+giderleri ile diğer giderleri ve
+.. Çek bedelinin binde üçünü aşmamak üzere komisyon ücretini,
+
+isteyebilir.
+====
++
+[caption=""]
+.Karşılık
+====
+*TTK 783*: (3) Muhatap nezdinde karşılığı kısmen veya tamamen bulunmayan bir
+çek düzenleyen kişi, çekin karşılıksız kalan bedelinin yüzde onunu ödemekle
+yükümlü olduktan başka, hamilin bu yüzden uğradığı zararı da tazmin eder.
+====
+
+* Çekte tek bir zamanaşımı süresi vardır ve *3 yıldır*. 
++
+[caption=""]
+.Zamanaşımı
+====
+*TTK 814*: (1) Hamilin, cirantalarla düzenleyene ve diğer çek borçlularına
+karşı sahip olduğu başvurma hakları, ibraz süresinin bitiminden itibaren üç yıl
+geçmekle zamanaşımına uğrar.
+
+(2) Çek borçlularından birinin diğerine karşı sahip olduğu başvurma hakları, bu
+çek borçlusunun çeki ödediği veya çekin dava yolu ile kendisine karşı ileri
+sürüldüğü tarihten itibaren üç yıl geçmekle zamanaşımına uğrar.
+====
++
+Hamilin diğer herkese başvuru hakkı ibraz süresinin bitiminden itibaren 3
+yıldır.
++
+Çek borçluları da rızayla ödeme yaptıkları tarihten ya da kendilerine dava
+yoluyla ileri sürülmüşse ileri sürülme tarihinden itibaren 3 yıl içersinde
+kendinden önce gelenlere başvurabilir.
++
+Başvurma hakkının kaybı durumunda da sebepsiz zenginleşmeye (TTK 732)
+gidilebilir.
+
++
+

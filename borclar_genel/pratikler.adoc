@@ -1,0 +1,293 @@
+= BORÇLAR GENEL PRATİKLERİ
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== OLAY I
+
+A, B'nin yurtdışından getirtmiş olduğu ve satmayı düşündüğü özel yapım saatini
+almak ister. Ancak bu saati alacak kadar nakit parası olmayan B, aile yadigarı
+olan elmas takı setini A'nın mülkiyetine geçirmeyi önerir. Taraflar bu hususta
+ablaşırlar. A ertesi gün saatini B'ye teslim etmek amacıyla evden çıkar. Ancak
+A, aşırı huz nedeniyle bir kaza yapar ve bu kazada saat bir daha kullanılamaz
+hale gelir.
+
+==== SORULAR
+
+. A'nın saatinin kullanılamayacak hale gelmesinin tarafların borcuna ne şekilde
+etki ettiğini ve hukuki sonuçlarını açıklayınız.
+. A saati B'ye belirli bir miktar para karşılığında satmış olsa idi ilk soruya
+vereceğiniz cevap değişir miydi?
+. A, B'ye saatin mülkiyetini devredemediği için, bunun yerine C'den olan
+200.000 TL değerindeki alacağını temlik etmeyi önermiş ve B de bu öneriyi kabul
+etmiş olsa idi, tarafların bu şekildeki anlaşmalarının hukuki sonuçları ne
+olurdu?
+. C'nin bu temlik işleminden sona iflas etmesi ihtimalinde B'nin
+başvurabileceği hukuki bir imkan var mıdır?
+
+==== CEVAPLAR
+
+. TBK'da borçlunun sorumlu olduğu ifa imkansızlığı açıkça düzenlenmemiştir. TBK
+112, borçlunun sorumlu olduğu ifa imkansızlığı ile hakkında özel hüküm
+bulunmayan kötü ifa hallerinde uygulanacak hükümdür. Borçlunun sorumlu olmadığı
+imkansızlık halinde TBK 136'ya göre borçlu borcundan kurtulur.
++
+_Öğretide baskın olan görüşe göre_, ifa imkansızlığı borçlunun kusurundan ileri
+gelmiş değilse, imkansızlık borcu sona erdirir ve bu durum TBK m.116’da
+düzenlenmiştir. İfa imkansızlığı borçlunun kusurundan ileri gelmişse, borç sona
+ermez, sadece borcun içeriği değişikliğe uğrar, ifası imkansızlaşan edimin
+yerini alacaklının zararını tazmin yükümlülüğü alır. Bu durum ise TBK m.112’de
+düzenlenmiştir. Hakim fikre göre tazminat borcu, ifası imkansızlaşan borcun
+sadece içeriğinin değişik şekilde devamı olduğu içindir ki, bu borca ait
+teminatlar (rehin, kefalet) devam eder. Bu borca ait zamanaşımı cereyan eder ve
+bu borçla ilgili savunmalar tazminat alacağına karşı da ileri sürülebilir.
++
+Bu görüşün karşılıklı edimler içeren sözleşmelerde doğal sonucu da ifası
+imkansızlaşan edimin alacaklısının, bu edimin yerini alan tazminat talebine
+karşılık kendi edimini ifa etmekle yükümlü olmasıdır. Edim değişimi, tazminat
+alacağı ile karşı edim arasında cereyan edecektir ve vadelerin beklenmesi
+gerekir.
++
+_Öğretideki diğer bir görüş_ ise borçlunun ister kusuru bulunsun ister
+bulunmasın borcun sona ereceğini savunmaktadır. Bu açıdan kusurlu ve kusursuz
+imkansızlık arasında fark yoktur. Fark, kusurlu imkansızlık yüzünden borcun
+sona ermesi halinde, borçlunun alacaklının zararını tazminle yükümlü olmasına
+(TBK 112) karşılık, kusursuz imkansızlıkta böyle bir tazmin yükümlülüğünün söz
+konusu olmamasında (TBK 136) görülür.
++
+Karşılıklı edimler içeren sözleşmelerde, kusursuz imkansızlık yüzünden borcu
+düşen tarafın bu yüzden karşı alacağını kaybedeceği TBK 136/2'de öngörüldüğüne
+göre, kusurlu imkansızlık yüzünden borçtan kurtulan borçlunun karşı alacağını
+kaybedeceğini kabul etmek öncelikle doğrudur. Fakat kusursuz imkansızlıktan
+farklı olarak, borcunu kusuru ile imkansızlaştıran borçlu, karşılıklı borçların
+sona ermesi yüzünden alacaklının uğradığı zararı tazmin etmekle yükümlüdür. Bu
+kanundan doğan yeni bir borçtur. Bu tazminatı talep etmek için eski borcun (ve
+sona eren karşı borcun) vadesini beklemek de söz konusu olmayacaktır, 
+imkansızlık anından itibaren tazminat alacağı talep edilebilir. Halbuki klasik
+görüşe göre, tazminat, imkansızlaşan edimin yerini alacak ve tazminat ile karşı
+edim değişime tabi olacaktır.
++
+Olayda A ile B, TBK 282 anlamında bir mal değişimi sözleşmesi yapmış ve borçlar
+ifa edilmeden A'nın yüklendiği saati teslim borcu imkansızlaşmıştır. Saati
+teslim borcu, A'nın saati B'ye teslim etmeye giderken aşırı hız yaparak kaza
+yapması sonucu saatin telef olmasıyla imkansızlaştığından, A'nın kusurunun
+varlığı kabul edilebilir.
++
+Bu durumda _klasik görüşe göre_, A saat yerine tazminat vermek B de aile
+yadigarı elmas takı setinin mülkiyetini A'ya geçirmek borcu altındadır.
+_Tazminat borcunun yeni bir borç olduğunu savunan görüşte_ ise, A'nın kusuru
+ile saatin teslimi imkansızlaşınca, B'nın takı setini verme A'nın da saati
+verme borçları sona erer. Saatin değeri takı setinin değerinden fazla olduğu
+takdirde (_aksi takdirde esasen ortada zarar yok demektir_) B aradaki değer
+farkını, A'dan tazminat olarak talep edebilecektir. Zira bu fark, A'nın
+borcunun kusuru ile imkansızlaşması yüzünden, B'nin uğradığı bir zarardır. Takı
+seti daha önce teslim edilmişse, saatin teslimi imkansızlaşınca, inek, A
+tarafından TBK 136/2'deki gibi sebepsiz zenginleşme hükümlerine kıyaen ileri
+sürülebilecek bir taleple geri istenir.
+
+== OLAY II
+
+A, 1.8.2016 tarihinde sahip olduğu Beykoz'da bulunan arsayı 800.000 TL
+karşılığında B'ye satmayı yazılı olarak taahhüt eder. B söz konusu paranın
+yarısını A'ya taahhüdün gerçekleştiği tarihte öder. A ile B, paranın diğer
+yarısının satım esnasında ödeneceği hususunda anlaşırlar. B, 1.8.2016 tarihinde
+400.000 TL'yi ödemeyi A'ya teklif eder. Ancak A, taşınmazın mülkiyetini
+aralarındaki sözleşmenin geçersiz olduğunu ileri sürerek devretmek istemez.
+
+B, A'dan satın aldığı arsa üzerinde küçük bir site yapılması amacıyla C ile
+anlaşır. Buna göre taraflar arasındaki sözleşme, C tarafından hazırlanmış olup
+proje için sözleşmenin kurulması tarihinden itibaren altı ay içinde inşaat
+ruhsatı alınabilmesi halinde yürürlüğe girecektir. Taraflar site yapımının
+inşaat ruhsatının alınması tarihinden itibaren 24 ay içinde tamamlanacağı ve
+B'ye bu siteden sekiz adet dairenin teslim edileceği hususlarında anlaşırlar.
+Sözleşmede ayrıca C'nin bu süre zarfında inşaatı teslimde geciktiği her gün
+için daire başına 2.000 TL ödeyeceği hususu kararlaştırılır. C daireleri
+süresinde ödeyemez. B ise, zararının zaten daire başına yapılan 2.000 TL ile
+karşılandığını düşündüğünden C'yi teslim yapması hususunda sıkıştırmaz.
+
+==== SORULAR
+
+. A ile B arasnda geçerli bir hukuki işlemin kurulup kurulmadığını açıklayınız.
+. A ile B, ne tür bir hukuki işlem kurmayı hedeflemişlerdir? Bu işlemin
+niteliğini, özelliklerini ve sonuçlarını kısaca açıklayınız.
+. A'nın taşınmazın mülkiyetini devretmekten kaçınması ihtimalinde B'nin
+başvurabileceği hukuki bir imkan var mıdır?
+. İnşaat ruhsatının alınmasının B ile C arasındaki sözleşme bakımından etkisini
+açıklayınız.
+. B ile C arasında dairelerin geç teslimi halinde daire başına belirli bir bedel
+ödenmesi hususunda yapılan anlaşmanın hukuki niteliği nedir?
+. Dairelerin sözleşmede belirlenen sürede teslim edilememesi halinde daire
+başına ödemesi gereken miktar bakımından C'nin başvurabileceği hukuki imkan var
+mıdır?
+. C'nin daireleri süresinde teslim edememesi hususunun Belediye'nin kusurundan
+kaynaklanması halinde daire başına ödemesi gereken miktar bakımından
+başvurabileceği bir imkan var mıdır?
+
+==== CEVAPLAR
+
+. Bir kimse bir şahısla yaptığı bir sözleşmede, ileride o şahısla veya bir
+üçüncü kişi ile belirlenen bir sözleşmeyi yapmayı taahhüt ederse bu taahhüdün
+yer aldığı sözleşmeye, ön sözleşme veya sözleşme yapma vaadi denilir. Böyle bir
+taahhütte bulunan kimse taahhüdü gereğince asıl sözleşmeyi yapmakla yükümlüdür.
+Bir ön sözleşmeden bahsedebilmek için, ileride yapılacak sözleşmenin bir borç
+doğuran sözleşme olması gerekir. Şayet yapılması taahhüt edilen sözleşme bir
+tasarruf işlemi ise, bu taahhüdün yer aldığı anlaşma bir ön sözleşme değil,
+başlı başına bir sözleşmedir.
++
+A'nın sahip olduğu taşınmazın mülkiyetini B'ye geçirme taahhüdü bir tasarruf
+işlemidir ve dolayısıyla A ile B arasındaki ilişki ön sözleşme değil, başlı
+başına sözleşmedir. MK 706'da düzenlendiği üzere "_Taşınmaz mülkiyetinin
+devrini amaçlayan sözleşmelerin geçerli olması, resmi şekilde düzenlenmiş
+bulunmalarına bağlıdır_". Buna göre A ile B arasında yazılı şekilde taşınmaz
+mülkiyetinin devri sözleşmesi MK 706'da düzenlenen geçerlilik şartını
+taşımadığı için geçersiz olacaktır.
++
+Ancak *_Yargıtay'ın_*, "_bir sözleşmenin taraflarından birinin o sözleşmenin
+ifa olunacağı hususunda o güne kadar süre gelen davranışları ile karşı tarafa
+tam bir güvence vermiş ve karşı taraf da sözleşmenin yerine getirileceği
+düşüncesiyle kendine düşen edimleri yerine getirmiş ise artık sözleşmenin şekil
+yönünden geçersizliğini ileri sürmesi hakkın kötüye kullanılması niteliği
+taşır_" kararı doğrultusunda B'nin A'ya taahhüt günü yaptığı ödeme ve kalan
+kısmın ifasının ne şekilde yapılacağının belirlenmesi örnek gösterilebilir ve
+A'nın şeklen geçersizliği ileri sürmesinin hakkın kötüye kullanılması niteliği
+taşıdığından A ile B arasındaki sözleşmenin geçerlilik için gerekli şekli
+şartlara sahipmiş gibi hükümlerini doğuracağı söylenebilir.
+
+. A ile B taşınmaz mülkiyetinin devri sözleşmesi yapmak istemişlerdir. Söz
+konusu sözleşme _tam iki tarafa borç yükleyen sözleşmedir_. A'nın taahhüdünün
+neden ön sözleşme değil de başlı başına bir sözleşme olduğuna dair açıklama
+için bkz. Cevap 1. 
++
+Tam iki tarafa borç yükleyen sözleşmelerde taraflardan her birinin borcu diğer
+tarafın borcunun karşılığını teşkil eder. Bu bakımdan A, 800.000 TL'yi alma
+yönünden alacaklı, mülkiyeti devretme borcu yönünden borçludur. B ise mülkiyeti
+devir bakımından alacaklı, 800.000 TL'yi ödeme bakımından da borçludur. 
+
+. TBK 117/1'ye göre muaccel bir borcun borçlusu alacaklının ihtarı ile
+temerrüde düşer. Borcun ifa edileceği gün taraflarca kararlaştırılmışsa ihtara
+gerek yoktur, borçlu vade tarihinden itibaren temerrüde düşmüş olur.
++
+Karşılıklı edim borçları yükleyen sözleşmelerde, taraflardan biri temerrüde
+düşerse, diğeri borcun ifa edilmesi için uygun bir süre verebilir veya sürenin
+verilmesini hakimden isteyebilir (TBK 123). Verilen süre içinde, borçlu borcunu
+ifa etmemiş ise alacaklı, borcun ifasını ve gecikme sebebiyle tazminat
+isteyebilir (TBK 125/1). Alacaklı, borcun ifasından ve gecikme tazminatı isteme
+hakkından vazgeçtiğini hemen bildirerek, borcun ifa edilmemesinden doğan
+zararının giderilmesini isteyebilir veya sözleşmeden dönebilir (TBK 125/2). 
++
+Olayda Cevap 1'de açıklanan sebeplerle A ile B arasındaki sözleşmenin geçerli
+olduğu kabul edilirse A, yüklendiği sahip olduğu taşınmazın mülkiyetini B'ye
+devretme borcunu ifa etmemektedir. Bu durumda B, TBK 123 uyarınca A'ya borcun
+ifası için uygun bir süre verebilir ve bu sürenin sonunda TBK 125'de tanınan
+seçimlik haklarından birini kullanabilir.
++
+Ancak kanun bazı hallerde süre tayinine gerek kalmadan alacaklıya borcun ifa
+edilmemesi sebebiyle tazminat isteme veya sözleşmeden dönme hakkı tanımıştır.
+TBK 124'te belirtilen hallar şunlardır:
+
+* Borçlunun içinde bulunduğu durumdan veya tutumundan süre verilmesinin etkisiz
+olacağı anlaşılıyorsa (TBK 124/b.1)
+* Borçlunun temerrüdü sonucunda borcun ifası alacaklı için yararsız kalmışsa
+(TBK 124/b.2)
+* Borcun ifasının, belirli bir zamanda veya belirli bir süre içinde
+gerçekleşmemesi üzerine, ifanın artık kabul edilmeyeceği sözleşmeden
+anlaşılıyorsa (TBK 124/b.3)
++
+Olayda borç için vadenin belirlenmiş olması (1.8.2016) TBK 124/b.3'te
+belirtilen tarzda bir durum olduğuna işaret edebilir. Ancak salt vadenin
+belirlenmiş olması yetmez. Gecikmiş ifanın kabul edilmeyeceği önceden
+kararlaştırılmış olmalıdır. Bu nedenle B, TBK 125'teki seçimlik haklarını
+kullanabilmek için A'ya uygun bir süre vermeli veya sürenin verilmesini
+hakimden istemelidir.
++
+A, ayrıca 800.000 TL'nin ödenmesi bakımından alacaklıdır. A taahhüt tarihinde
+B'nin kısmi ifa talebini kabul etmiş, diğer yarısının satım esnasında ödeneceği
+hususunda taraflar anlaşmışlardır. B, satımın yapılacağı belirlenmiş vade
+tarihinde borcunun geri kalan kısmının ifasını teklif etmiş ancak A kabul
+etmemiştir.
++
+TBK 106'ya göre, alacaklı temerrüdü, alacaklının kendisine arz edilen ifayı
+haklı sebep olmadan kabul etmemesi veya ifanın gerçekleşmesi için kendisinin
+yapacağı şeyleri yapmamasıdır. Ancak alacaklı temerrüdü, alacaklının
+sorumluluğuna yol açan bir durum değildir. Zira, temerrüt halinde alacaklı,
+sadece hakkını almaktan kaçınan bir kimsedir. Prensip itibariyle bir kimse
+hakkını almaya veya kullanmaya mecbur olmadığı için kaçınması halinde bir
+sorumluluk altına girmez.
++
+Alacaklı temerrüdüne düşmüş alacaklıya karşı, borçlunun başvurabileceği
+imkanlar şunlardır: 
+
+* Tevdi (TBK 107)
+* Malı satarak satış bedelini tevdi (TBK 108)
+* Sözleşmeden dönme (TBK 109)
+
++
+Olayda B'nin sözleşmeyle bağlı kalmak iradesinde olduğu açıktır. Bu sebeple
+borcundan kurtulmak için tevdi yolunu seçecektir. Tevdi, ancak verme
+borçlarında söz konusu olabilecek bir imkandır. Malın nereye tevdi edileceğini
+ifa yerindeki hakim tayin edecektir. Ancak hakim, tevdi yerini tayin ederken,
+borçlunun tevdi hakkının bulunup bulunmadığını araştıracak değildir; sadece
+tevdi yerini tayin edecektir. Tevdi hakkını kullanan borçlu, hakime tevdi
+yerini tayin ettirmeden, kendiliğinden bir yere tevdide bulunursa, bu tevdi
+borçluyu borçtan kurtarmaz.
+
+
+
+== OLAY III
+
+Futbol oynayarak hayatını idame ettiren sporcu F, X Kulübü ile 2014-2015 futbol
+sezonu için bir sözleşme imazalamıştır. Sözleşme uyarınca X Kulübü, F'ye
+2014-2015 sezonu için üç ayda bir 24.000 TL ödeyecektir. Buna göre X Kulübü,
+1.8.2014 tarihinde 24.000 TL, 1.11.2914 tarihinde 24.000 TL, 1.2.2015 tarihinde
+24.000 TL ve 1.5.2015 tarihinde 24.000 TL ödeme yapacaktır. X Kulübünün ödemede
+gecikmesi halinde üç ayda bir gerçekleşmesi gereken ücret boçlarına yıllık %10
+oranında faiz işletileceği kabul edilmiştir. F, sözleşmeye göre ayrıca X
+Kulübünde oynadığı her maç için maç başı 2.000 TL kazanacaktır. Maç başı
+ücretlerinin ise, sezon sonu olan 31.5.2015 tarihinden sonra ödeneceği ifade
+edilmiştir. F bu şekilde sezon sonuna kadar 25 maçta oynayarak 50.000 TL ücrete
+hak kazanmıştır. Bununla birlikte X Kulübü F'ye sezon boyunca herhangi bir
+ödeme yapmamış olup, 31.5.2015 tarihinde herhangi bir açıklama yapmaksızın
+banka yoluyla 50.000 TL göndermiştir. F, ise bu ödemeden bir hafta evvel,
+1.11.2014 tarihinde muaccel olan alacağı için X Kulübüne karşı icra takibi
+başlatmıştır.
+
+X Kulübü, son derece başarılı bir sezon geçirmekte olan F'ye prim olarak
+galeriden 100.000 TL'ye bir otomobil almaya karar verir ve galeri sahibi ile
+1.2.2015 tarihinde anlaşır. Taraflar, otomobilin 1.4.2015 tarihinde
+yurtdışından galeriye getirileceği ve ücret ödemesi ile diğer işlemlerin de söz
+konusu tarihte yapılacağı hususunda mutabık kalırlar. X Kulübü durum F'ye
+bildirir ve F galeriye giderek arabanın rengini beğenir. Ancak X Kulübü daha
+sonra galeri sahibinin kumar borçları sebebiyle ticari borçlarını
+ödeyemediğini, galerisine sık sık haciz işlemleri için gelindiğini öğrenir.
+Nitekim 1.4.2015 tarihinde arabasını teslim almaya gelen F, otomobili galeride
+göremez.
+
+Galeri sahibi G, ticari işletmesinin devamını sağlamak için arkadaşı B'den
+150.000 TL borç almıştır. Vadesi geldiğinde B paranın iadesini talep etmiş,
+ancak G mali durumunun bozuk olduğunu ileri sürerek ödeme yapmaktan
+kaçınmıştır. G'nin ortağı O, galeride haciz işlemlerinin yapılmasını engellemek
+amacıyla B ile anlaşarak, borçtan G'nin yanında ve onunla birlikte sorumlu
+olacağını taahhüt eder. O, B'nin icra takibi başlatmasını engellemek amacıyla G
+ile yapılmış olan sözleşmede kararlaştırılan faiz oranının %12'den %20'ye
+çıkarılmasına rıza gösterir.
+
+=== SORULAR
+
+. X Kulübü tarafından 31.5.2015 tarihinde yapılmış olan 50.000 TL değerindeki
+ödeme, X Kulübünün F'ye karşı olan borçlarına ne şekilde etki edecektir?
+. X Kulübünün G ile yapmış olduğu sözleşmenin özellikleri ve hukuki sonuçları
+nelerdir?
+. .
+.. G'nin 1.4.2015 tarihinde arabayı teslim edememesine rağmen ücretin
+ödenmesini talep etmesi mümkün müdür?
+.. Sözleşmede önce ücretin ödeneceği hususu kararlaştırılmış olsa idi, bu
+durumda X Kulübünün başvurabileceği hukuki bir imkan olur muydu? Şartları ile
+birlikte açıklayınız.
+. .
+.. O'nun B ile yapmış olduğu sözleşmenin özellikleri ve hukuki sonuçları
+nelerdir? Açıklayınız.
+.. G'nin, O ile B arasındaki anlaşmadan sonra B'den olan 50.000 TL değerindeki
+alacağını takas etmesi ihtimalinde, bunun hukuki sonuçları nelerdir?
+. B'nin G'den %20 oranında faiz talep etmesi mümkün müdür?
+

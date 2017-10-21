@@ -1,0 +1,2403 @@
+:icons: font
+
+== BORÇLAR ÖZEL
+
+=== SATIŞ SÖZLEŞMESİ
+
+* *Satış sözleşmesi* TBK 207'de düzenlenmiştir.
++
+====
+*TBK 207*: (1) Satış sözleşmesi, satıcının, satılanın zilyetlik ve mülkiyetini
+alıcıya devretme, alıcının ise buna karşılık bir bedel ödeme borcunu üstlendiği
+sözleşmedir.
+
+(2) Sözleşme ile aksi kararlaştırılmadıkça veya aksine bir âdet bulunmadıkça,
+satıcı ve alıcı borçlarını aynı anda ifa etmekle yükümlüdürler.
+
+(3) Durum ve koşullara göre belirlenmesi mümkün olan bedel, kararlaştırılmış
+bedel hükmündedir.
+====
++
+Sözleşmenin kurulabilmesi için tarafların esaslı unsurlar üzerinde uyuşmuş
+olmaları gerekir. Esaslı unsurlar objektif olabileceği gibi sübjektif de
+olabilir. 
+
+* Satış sözleşmesinin *objektif esaslı unsurları*:
+
+. *Satılan şeyin kendisi*: Satış konusu şeyin belirlenebilir olması sözleşmenin
+kurulması için yeterlidir.
++
+Satış sözleşmesinin konusunu sadece eşyalar oluşturmaz. Taşınır ve taşınmaz
+eşyaların yanı sıra, cismani varlığı olmayan hukuki varlıklar, haklar da satış
+sözleşmesine konu olabilir. Ancak bu cismani varlığı olmayan haklar ve hukuki
+varlıklar başka bir sözleşmenin zorunlu kapsamına giriyorsa (vekalet
+sözleşmesi, eser sözleşmesi, hizmet sözleşmesi gibi) satış sözleşmesi değil o
+sözleşme hükümleri uygulanır.
++
+Sözleşmenin kurulabilmesi için sözleşme konusu şeyin sözleşme yapıldığı anda
+mevcut olmasına gerek yoktur. İleride gerçekleşecek, ortaya çıkacak eşyalar,
+haklar da satış sözleşmesine konu olabilir.
++
+Satış sözleşmesi borçlandırıcı işlem olduğu için satıcının satış konusu şey
+üzerinde hak sahibi olmasına gerek yoktur. Ama tasarruf işlemi aşamasına satıcı
+borcunu ifa edemezse bunun sonuçlarına katlanır.
+. *Satış bedeli*: Satış sözleşmesinde alıcı bir bedel ödeme borcu altına girer.
+Satış bedeli Türk lirası üzerinden kararlaştırılabileceği gibi yabancı para
+üzerinden de belirlenebilir. Sözleşmenin kurulabilmesi için satış bedelinin
+sözleşmede mutlak bir şekilde belirlenmiş olmasına ihtiyaç yoktur,
+belirlenebilir olması yeterlidir.
++
+====
+*TBK 207/3*: Durum ve koşullara göre belirlenmesi mümkün olan bedel,
+kararlaştırılmış bedel hükmündedir.
+====
++
+Taraflar, satış bedelinin belirlenmesini içlerinden birisine veya üçüncü bir
+kişiye bırakabilirler. Üçüncü kişiye bırakma tartışmalı olmakla birlikte
+_kürsüye göre_ mümkündür.
++
+Sözleşmede satış bedeli hiç belirlenmemiş ise genel esaslara göre sözleşme
+kurulmuş sayılmaz. Ancak TBK 233 ile kanun koyucu özel bir düzenleme
+getirmiştir.
++
+[caption=""]
+.Satış bedelinin belirlenmesi
+====
+*TBK 233*: (1) Alıcı, satış bedelini belirtmeksizin, malı alacağını kesin
+olarak bildirmişse satış, ifa yeri ve zamanındaki ortalama piyasa fiyatı
+üzerinden yapılmış sayılır.
+
+(2) Satış bedeli, satılanın ağırlığına göre hesaplanıyorsa, darası indirilir.
+
+(3) Bazı ticari malların satışında, daralı ağırlıktan miktar olarak ya da yüzde
+hesabıyla bir indirim yapılmasına veya bedelin, daralı ağırlık üzerinden
+belirlenmesine ilişkin ticari teamüller saklıdır.
+====
+
+. *Bunların karşılıklı olarak değiştirilmesi taahhüdü*
+
+* Satış sözleşmesi malvarlığına yaptığı etki açısından bir *borçlandırıcı
+işlemdir*. Çünkü satış sözleşmesi ile beraber satış konusu şeyin mülkiyeti
+alıcıya intikal etmez. Ayrıca hakkın transferi, mülkiyetin intikali için
+tasarruf işleminin yapılmasına ihtiyaç vardır. 
+ 
+* *Taşınırlarda tasarruf işlemi zilyetliğin devri ve ayni sözleşmedir*. Tasarruf
+işlemi aşamasında tarafların sözleşmeyi hangi amaçlarla devrettiği hususunda
+iradelerinin uyuşması *ayni sözleşmeyi* oluşturur.
+ 
+* *Taşınmazlarda tasarruf işlemi tartışmalı olmakla birlikte baskın görüşe göre
+tescil talebidir*. Tescil talebini takiben tapu memurunun yapmış olduğu tescil
+işlemi mülkiyetin geçmesini sağlar. *Tescil tasarruf işlemi değildir, bir idari
+işlemdir*. 
+ 
+* Sözleşmenin kurulabilmesi için sözleşme konusu şeyin teslimine ihtiyaç varsa
+*real sözleşmedir*. Eğer sözleşme mal teslim edilmeden kurulabiliyorsa *rızai
+sözleşmedir*. Satış sözleşmesi rızai bir sözleşmedir.
+ 
+* Satış sözleşmesi tam iki tarafa borç yükleyen bir sözleşmedir. Sözleşmede
+satıcının malı teslim etme borcuyla, alıcının satış bedelini ödeme borcu
+karşılıklı olarak değişim içindedir. 
+ 
+* Alacaklının ifa için menfaati tek bir seferde gerçekleşiyorsa bu sözleşme ani
+edimli bir sözleşmedir. Alacaklının ifa için menfaati zamana yayılıyorsa bu
+sözleşme sürekli borç ilişkisidir. Satış sözleşmesi ani edimli bir sözleşmedir.
+
+==== TAŞINIR SATIŞI
+
+* *Taşınır satışı* TBK 209-236 arasında düzenlenmiştir.
++
+====
+*TBK 209*: (1) Taşınır satışı, Türk Medenî Kanunu uyarınca taşınmaz sayılanlar
+dışında kalan ve diğer kanunlarda taşınır olarak belirtilen şeylerin satışıdır.
+
+(2) Ürünler, bir yapının yıkıntıları ve taş ocağından çıkarılacak taşlar gibi,
+taşınmazdan ayrıldıktan sonra mülkiyeti devredilecek bütünleyici parçaların
+satılması da taşınır satışıdır.
+====
++
+[caption=""]
+.Taşınmaz mülkiyetinin konusu
+====
+*MK 704*: Taşınmaz mülkiyetinin konusu şunlardır:
+
+1. Arazi,
+
+2. Tapu kütüğünde ayrı sayfaya kaydedilen bağımsız ve sürekli haklar,
+
+3. Kat mülkiyeti kütüğüne kayıtlı bağımsız bölümler.
+====
+ 
+* Taşınır satışı geçerlilik açısından herhangi bir şekil şartına tabi değildir.
+Bununla beraber kanun koyucu bazı taşınır satışlarında şekil kuralı
+getirmiştir. 
+
+** Taksitle satış sözleşmesi yazılı şekle tabidir.
+** Trafik siciline tescil edilmiş her türlü motorlu aracın devri ve satışı
+noterde yapılır.
+ 
+* Taşınır satışında yarar ve hasarın geçmesi TBK 208'de düzenlenmiştir. *Hasar*,
+sözleşme konusu şeyin telef olması veya değerinin azalmasıdır. *Yarar* ise bir
+malın olağan kullanımı neticesinde elde edilen menfaatlerdir.
++
+[caption=""]
+.Yarar ve hasar
+====
+*TBK 208*: (1) Kanundan, durumun gereğinden veya sözleşmede öngörülen özel
+koşullardan doğan ayrık hâller dışında, satılanın yarar ve hasarı; taşınır
+satışlarında zilyetliğin devri, taşınmaz satışlarında ise tescil anına kadar
+satıcıya aittir.
+
+(2) Taşınır satışlarında, alıcının satılanın zilyetliğini devralmada temerrüde
+düşmesi durumunda zilyetliğin devri gerçekleşmişçesine satılanın yarar ve
+hasarı alıcıya geçer.
+
+(3) Satıcı alıcının isteği üzerine satılanı ifa yerinden başka bir yere
+gönderirse, yarar ve hasar, satılanın taşıyıcıya teslim edildiği anda alıcıya
+geçer. 
+====
++
+TIP: Satıcı göndermenin yanı sıra götürmeyi de üstlenmişse bu durumda yarar ve
+hasar satıcının malı götürüp alıcının zilyetliğine terk ettiği anda alıcıya
+geçer.
+
+* *Taşınır satışında satıcının borçları* TBK 210-231 arasında düzenlenmiştir.
++
+Satıcın en temel borcu satılan şeyin zilyetliğini alıcıya devretmektir. Satıcı
+doğrudan zilyetliği devredebileceği gibi dolaylı zilyetliği de devredebilir.
+Eğer alıcı dolaylı zilyetliği kabul etmiyorsa satıcı doğrudan zilyetliği
+devretmekle yükümlüdür.
++
+====
+*TBK 210*: Satıcı, satılanın mülkiyetini geçirmek amacıyla, zilyetliğini alıcıya devretmekle yükümlüdür.
+====
++
+Satıcının borcunu ifa yerini taraflar sözleşmede kararlaştırmamışlarsa TBK 89'a
+göre belirlenecektir.
++
+[caption=""]
+.İfa yeri
+====
+*TBK 89*: (1) Borcun ifa yeri, tarafların açık veya örtülü iradelerine göre
+belirlenir. Aksine bir anlaşma yoksa, aşağıdaki hükümler uygulanır;
+
+1. Para borçları, alacaklının ödeme zamanındaki yerleşim yerinde,
+
+2. Parça borçları, sözleşmenin kurulduğu sırada borç konusunun bulunduğu yerde,
+
+3. Bunların dışındaki bütün borçlar, doğumları sırasında borçlunun yerleşim
+   yerinde, ifa edilir.
+
+(2) Alacaklının yerleşim yerinde ifası gereken bir borcun doğumundan sonra
+alacaklının yerleşim yerini değiştirmesi sebebiyle ifa önemli ölçüde
+güçleşmişse borç, alacaklının önceki yerleşim yerinde ifa edilebilir.
+====
++
+Satıcı zilyetliği devrederken devir ve taşıma giderlerine kimin katlanacağı TBK
+211'de düzenlenmiştir.
++
+[caption=""]
+.Devir ve taşıma giderleri
+====
+*TBK 211*: (1) Aksine sözleşme veya âdet yoksa, ölçme ve tartma gibi devir
+giderleri satıcıya, satılanı devralmak üzere yapılan giderler ve satılanın ifa
+yerinden başka yere taşınması gerektiğinde, taşıma giderleri alıcıya aittir.
+
+(2) Gidersiz devir kararlaştırılmışsa, satıcı taşıma giderlerini üstlenmiş
+sayılır.
+
+(3) Liman ve gümrük giderleri olmaksızın devir kararlaştırılmışsa satıcı, dış
+satım, transit ve dış alım vergilerini üstlenmiş sayılır; ancak satılanın alıcı
+tarafından devralındığı sırada ödenmiş olan tüketim vergilerini üstlenmiş
+sayılmaz.
+====
++
+Satıcının borcunu yerine getirmemesi, temerrüde düşmesi halinde prensip olarak
+genel hükümler uygulanır. 
+
+* Genel hükümlere göre borçlu temerrüdü:
++
+====
+*TBK 117*: (1) Muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde
+düşer.
+
+(2) Borcun ifa edileceği gün, birlikte belirlenmiş veya sözleşmede saklı
+tutulan bir hakka dayanarak taraflardan biri usulüne uygun bir bildirimde
+bulunmak suretiyle belirlemişse, bu günün geçmesiyle; haksız fiilde fiilin
+işlendiği, sebepsiz zenginleşmede ise zenginleşmenin gerçekleştiği tarihte
+borçlu temerrüde düşmüş olur. Ancak sebepsiz zenginleşenin iyiniyetli olduğu
+hâllerde temerrüt için bildirim şarttır.
+====
++
+[caption=""]
+.Gecikme tazminatı
+====
+*TBK 118*: Temerrüde düşen borçlu, temerrüde düşmekte kusuru olmadığını ispat
+etmedikçe, borcun geç ifasından dolayı alacaklının uğradığı zararı gidermekle
+yükümlüdür.
+====
++
+[caption=""]
+.Beklenmedik hâlden sorumluluk
+====
+*TBK 119*: (1) Temerrüde düşen borçlu, beklenmedik hâl sebebiyle doğacak
+zarardan sorumludur.
+
+(2) Borçlu, temerrüde düşmekte kusuru olmadığını veya borcunu zamanında ifa
+etmiş olsaydı bile beklenmedik hâlin ifa konusu şeye zarar vereceğini ispat
+ederek bu sorumluluktan kurtulabilir.
+====
++
+[caption=""]
+.Süre verilmesi
+====
+*TBK 123*: Karşılıklı borç yükleyen sözleşmelerde, taraflardan biri temerrüde
+düştüğü takdirde diğeri, borcun ifa edilmesi için uygun bir süre verebilir veya
+uygun bir süre verilmesini hâkimden isteyebilir.
+====
++
+[caption=""]
+.Süre verilmesini gerektirmeyen durumlar
+====
+*TBK 124*: Aşağıdaki durumlarda süre verilmesine gerek yoktur:
+
+1. Borçlunun içinde bulunduğu durumdan veya tutumundan süre verilmesinin
+   etkisiz olacağı anlaşılıyorsa.
+
+2. Borçlunun temerrüdü sonucunda borcun ifası alacaklı için yararsız kalmışsa.
+
+3. Borcun ifasının, belirli bir zamanda veya belirli bir süre içinde
+   gerçekleşmemesi üzerine, ifanın artık kabul edilmeyeceği sözleşmeden
+   anlaşılıyorsa.
+====
++
+[caption=""]
+.Seçimlik haklar
+====
+*TBK 125*: (1) Temerrüde düşen borçlu, verilen süre içinde, borcunu ifa
+etmemişse veya süre verilmesini gerektirmeyen bir durum söz konusu ise
+alacaklı, her zaman borcun ifasını ve gecikme sebebiyle tazminat isteme hakkına
+sahiptir.
+
+(2) Alacaklı, ayrıca borcun ifasından ve gecikme tazminatı isteme hakkından
+vazgeçtiğini hemen bildirerek, borcun ifa edilmemesinden doğan zararın
+giderilmesini isteyebilir veya sözleşmeden dönebilir.
+
+(3) Sözleşmeden dönme hâlinde taraflar, karşılıklı olarak ifa yükümlülüğünden
+kurtulurlar ve daha önce ifa ettikleri edimleri geri isteyebilirler. Bu durumda
+borçlu, temerrüde düşmekte kusuru olmadığını ispat edemezse alacaklı,
+sözleşmenin hükümsüz kalması sebebiyle uğradığı zararın giderilmesini de
+isteyebilir.
+====
++
+[caption=""]
+.Sürekli edimli sözleşmelerde
+====
+*TBK 126*: İfasına başlanmış sürekli edimli sözleşmelerde, borçlunun temerrüdü
+hâlinde alacaklı, ifa ve gecikme tazminatı isteyebileceği gibi, sözleşmeyi
+feshederek, sözleşmenin süresinden önce sona ermesi yüzünden uğradığı zararın
+giderilmesini de isteyebilir.
+====
+ 
+* Satıcının temerrüdünde kural genel hükümlerin (TBK 117-126) uygulanması ise de
+kanun koyucu TBK 212'de ayrık bir durum düzenlemiştir. 
++
+====
+*TBK 212*: (1) Satıcının temerrüdü hâlinde, borçlunun temerrüdüne ilişkin genel
+hükümler uygulanır.
+
+(2) Zilyetliğin devri için belirli bir süre konulmuş olan ticari satışlarda,
+satıcı temerrüde düşerse alıcının, devir isteminden vazgeçerek borcun ifa
+edilmemesinden doğan zararının giderilmesini istediği kabul edilir.
+
+(3) Alıcı, satılanın devredilmesini isteme niyetinde ise, belirlenen sürenin
+bitiminde bunu satıcıya hemen bildirmek zorundadır.
+====
++
+TBK 212'ye göre *ticari satışlarda* malın teslimi için bir vade
+kararlaştırıldıysa ve satıcı da vade tarihinde ifayı gerçekleştirmezse alıcının
+*ifadan vazgeçerek olumlu zararın tazminini* seçtiği kabul edilir. Eğer alıcı
+malın teslimini istemek niyetindeyse derhal bildirimde bulunma külfeti
+altındadır. 
++
+TIP: Baskın görüşe göre alıcının sözleşme konusu şeyi tekrar satmak ya da
+üretim faaliyetlerinde kullanmak üzere hareket ettiği haller ticari satış kabul
+edilir.
++
+Satıcının temerrüde düştüğü hallerde alıcı tazminat isteyebilecektir. TBK
+213'te tazminat borcunun kapsamı düzenlenmiştir.
++
+[caption=""]
+.Giderim borcu ve kapsamı
+====
+*TBK 213*: (1) Borcunu ifa etmeyen satıcı, alıcının bu yüzden uğradığı zararı
+gidermekle yükümlüdür.
+
+(2) Satıcı borcunu ifa etmezse alıcı, satış bedeli ile kendisine devredilmeyen
+satılanın yerine, bir başkasını satın almak için dürüstlük kurallarına uygun
+olarak ödediği bedel arasındaki farka göre hesaplanacak zararın giderilmesini
+isteyebilir.
+
+(3) Satılan, borsada kayıtlı veya piyasa fiyatı bulunan mallardan ise alıcı,
+onun yerine bir başkasını satın alma zorunda olmaksızın, satış bedeli ile
+belirlenmiş ifa günündeki piyasa fiyatı arasındaki farka göre hesaplanacak
+zararın giderilmesini isteyebilir.
+====
++
+Alıcı satıcının temerrüdü sonucunda ifa + gecikme tazminatı istemişse gecikme
+tazminatı *olumlu zarara* karşılık gelir. Sözleşme geçerli olarak kurulmuş ama
+borç gereği gibi ifa edilmemişse ortaya çıkan zarar olumlu zarardır.
++
+Kanun koyucu TBK 213'te alıcının olumlu zararının nasıl hesaplanacağı
+noktasında iki tane yöntem getirmiştir.
++
+****
+. *Somut yöntem* (TBK 213/2): Satıcı borcunu yerine getirmediğinde alıcı aynı
+veya benzer bir malı başka bir yerden almışsa ödemiş olduğu fazla bedeli
+tazminat olarak isteyebilir. 
+. *Soyut yöntem* (TBK 213/3): Satılan şey borsada kayıtlı veya piyasada bulunan
+bir mal ise alıcı ikame alım yapmadan satış bedeli ile ifa günündeki piyasa
+fiyatı arasındaki farka göre hesaplanacak zararın giderilmesi isteyebilir.
+
+Soyut ve somut yöntemler hem ticari satışta hem de adi satışta kullanılabilir.
+Bu yöntemler ispat kolaylığı sağlar. Alıcının bundan başka bir zararı varsa bu
+zararların giderilmesini de isteyebilir. Ancak bunu genel hükümlere göre
+yapmalıdır.
+****
+
+* *Satıcının zapta karşı tekeffül borcu* TBK 214-219 arasında düzenlenmiştir.
++
+====
+*TBK 214*: (1) Satış sözleşmesinin kurulduğu sırada var olan bir hak
+dolayısıyla, satılanın tamamı veya bir kısmı bir üçüncü kişi tarafından
+alıcının elinden alınırsa satıcı, bundan dolayı alıcıya karşı sorumlu olur.
+
+(2) Alıcı, elinden alınma tehlikesini sözleşmenin kurulduğu sırada biliyor
+idiyse satıcı, ayrıca üstlenmiş olmadıkça bundan dolayı sorumlu olmaz.
+
+(3) Satıcı, üçüncü kişinin hakkını gizlemişse, sorumluluğunu kaldırma veya
+sınırlama konusunda yapılmış olan anlaşma kesin olarak hükümsüzdür.
+====
++
+Satıcının zapta karşı sorumluluğu esasında TBK 207'nin bir devamıdır. Eğer
+satılan şey üzerinde üçüncü kişi bir hak iddia ediyorsa satıcı mülkiyeti devir
+borcunu gereği gibi yerine getirmemiş olur.
++
+Üçüncü kişi satılan şeyi alıcının elinden tamamen almışsa *tam zapt*, kısmen
+almışsa *kısmi zapt* söz konusu olur.
++
+Taşınır zilyedinin zilyetliğinden rızası dışında çıkmışsa zapta karşı tekeffül
+sorunu ortaya çıkabilir. Alıcı iyiniyetli olarak taşınırın mülkiyetini
+kazanmışsa zapta karşı tekeffül sorunu ortaya çıkmaz. Çünkü alıcı iyiniyetli
+olarak taşınır veya taşınmazın mülkiyetini kazanmışsa üçüncü şahısların üstün
+hakları sona erer.  
++
+Zapta karşı tekeffül sorumluluğu kanundan doğar. Sözleşmede kararlaştırılmasa
+bile satıcı kusursuz olarak bu sorumluluk altındadır. Ancak bu hükümler
+emredici değildir. Taraflar sözleşmede zapta karşı tekeffül sorumluluğunu
+tamamen kaldırabilirler veya kısmen sınırlayabilirler. Eğer satıcının hilesi
+varsa sorumluluğu kaldıran veya azaltan anlaşma kesin olarak hükümsüdür. 
++
+TIP: Alıcının mülkiyet hakkını kullanması kamu hukukuna dayanan kısıtlamalar
+nedeniyle engelleniyorsa ayıba karşı tekeffül sorumluluğu söz konusudur.
++
+Zapta karşı tekeffül hükümleri, şartları varsa genel hükümlerle
+yarışabilir. Borcun gereği gibi ifa edilmemesi, kötü ifa, temerrüt, ifa
+imkansızlığı bazen de sözleşmenin kuruluş aşamasında aldatma sorumluluğu söz
+konusu olabilir. Alıcı bu hallerde dilediği esaslara dayanabilir.
++
+.Zapta karşı tekeffül sorumluluğunun şartları
+****
+. *Taraflar arası sözleşme geçerli olmalıdır*.
+. *Satılan şey geçerli bir sözleşme uyarınca alıcıa teslim edilmiş olmalıdır*. 
+. *Üçüncü kişinin üstün hakkı sözleşme kurulduğu aşamada mevcut olmalıdır*.
++
+Üçüncü kişi sözleşme kurulduktan sonra ama satılan şeyin tesliminden önce satış
+konusu şeyi zapt ederse zapta karşı tekeffül sorumluluğuna başvurmaya gerek
+yoktur. Satıcının borcunu hiç ya da gereği gibi ifa etmemesine başvurulur.
+. *Alıcı zapt tehlikesini sözleşme kurulduğu aşamada bilmemelidir*.
+. *Üçüncü kişi üstün hakkını ileri sürmüş olmalıdır*.
++
+Üçüncü kişinin üstün hakkının mevcut olması satıcının sorumluluğunda değildir.
+Üçüncü kişinin bu hakkını dava veya dava dışı bir yolla ileri sürmüş olması
+halinde satıcının zapta karşı tekeffül sorumluluğuna başvurulabilir. 
+****
++
+Üçüncü kişinin üstün hakkını öne sürerek alıcıya dava açtığı hallerde alıcı bu
+davayı satıcıya ihbar eder.
++
+[caption=""]
+.Davanın bildirimi
+====
+*TBK 215*: (1) Satılanın elinden alınması tehlikesi ile karşılaşan alıcı,
+kendisine karşı açılan davayı satıcıya bildirdiği zaman satıcı, durumun
+gereğine göre ve yargılama usulü uyarınca ya alıcının yanında davaya katılmak
+ya da alıcı yerine geçerek üçüncü kişiye karşı davayı takip etmek ve savunmak
+zorundadır.
+
+(2) Bildirme, davaya katılmaya ve savunmaya elverişli bir zamanda yapılmışsa,
+alıcının aleyhinde verilen hüküm, onun ağır kusuru yüzünden verildiği ispat
+edilmedikçe, satıcı için de sonuç doğurur.
+
+(3) Dava, kendisine yüklenilemeyen sebeplerden dolayı satıcıya bildirilmemişse
+satıcı, zamanında bildirilmiş olsaydı daha elverişli bir hüküm elde
+edilebileceğini ispatladığı ölçüde sorumluluktan kurtulur.
+====
++
+WARNING: TBK 215/1'de belirtilen düzenleme isbaetli değildir. Çünkü usul
+hukukunda davacının ya da davalının yerine geçme durumu yoktur. İhbar kurumu
+fer'i müdahale durumuna ilişkindir. Dolayısıyla alıcı davayı satıcıya ihbar
+ettiğinde satıcının yapacağı şey alıcının yanında davaya katılmakttır. Yoksa
+satıcının yerine davayı takip edemez.
++
+Alıcının satıcıya davayı ihbar etmesi ile dava neticesinde verilecek karar
+satıcıya karşı etkili olacaktır. Dolayısıyla alıcı davayı kaybederse satıcıya
+rücu edebilecektir. Alıcı davayı ihbar etmezse satıcı, TBK 215/3 uyarınca
+kendisine zamanında ihbar yapılsaydı daha iyi bir sonuç elde edileceğini
+ispatladığı ölçüde sorumluluktan kurtulur. 
++
+Üçüncü kişi üstün hakkını ileri sürdüğünde alıcı o andaki şartlara göre
+dürüstlük kuralı çerçevesinde hareket ederek üçüncü kişinin hak iddiasını kabul
+etmekte haklıysa ve satılan şeyi teslim etmişse de satıcının zapta karşı
+tekeffül sorumluluğuna başvurulabilir.
++
+[caption=""]
+.Mahkeme kararı olmaksızın satılanı verme
+====
+*TBK 216*: (1) Satıcının zapttan sorumluluğu aşağıdaki hâllerde devam eder:
+
+1. Alıcı, bir mahkeme kararı beklemeksizin üçüncü kişinin hakkını dürüstlük
+   kurallarına uygun olarak tanımış ve satılanı ona vermişse.
+
+2. Alıcı, üçüncü kişinin kendisine karşı dava açmasını beklemeden, satıcıyı
+   satılan üzerindeki hak iddiasına ilişkin uyuşmazlığı dava yoluyla
+   çözümlemesi, aksi takdirde tahkim yoluna başvuracağı konusunda gecikmeksizin
+   uyarmış ve bundan sonuç alamadığı için tahkim yoluna başvurmuşsa.
+
+(2) Satıcının sorumluluğu, alıcının satılanı üçüncü kişiye vermekle yükümlü
+olduğunu ispat etmesi durumunda da devam eder.
+====
++
+Satılan şey tamamen zapt edilirse TBK 217/1 uyarınca sözleşme kendiliğinden
+sona erer.
++
+====
+*TBK 217*: (1) Satılanın tamamı alıcının elinden alınmışsa, satış sözleşmesi
+kendiliğinden sona ermiş sayılır ve alıcı satıcıdan aşağıdaki istemlerde
+bulunabilir:
+
+1. Satılandan elde ettiği veya elde etmeyi ihmal eylediği ürünlerin değeri
+   indirilerek, ödemiş olduğu satış bedelinin faizi ile birlikte geri
+   verilmesini.
+
+2. Satılanı elinden alan üçüncü kişiden isteyemeyeceği giderleri.
+
+3. Davayı satıcıya bildirmekle kaçınılabilecek olanlar dışında kalan bütün
+   yargılama giderleri ile yargılama dışındaki giderleri.
+
+4. Satılanın tamamen elinden alınması yüzünden doğrudan doğruya uğradığı diğer
+   zararları.
+
+(2) Satıcı, kendisine hiçbir kusur yüklenemeyeceğini ispat etmedikçe, alıcının
+satılanın elinden alınması yüzünden uğramış olduğu diğer zararları da
+gidermekle yükümlüdür.
+====
++
+Satılan şey kısmen zapt edilirse sözleşme kendiliğinden sona ermez. Bu durumda
+alıcı uğramış olduğu zararın tazminini satıcıdan isteyecektir. TBK 217'deki
+zararlar burada da istenebilir.
++
+====
+*TBK 218*: (1) Satılanın bir kısmı elinden alınmış veya satılan sınırlı ayni
+bir hakla yüklenmişse alıcı, sadece bu yüzden uğradığı zararın giderilmesini
+isteyebilir.
+
+(2) Ancak alıcının, satılandaki bu durumu bilseydi onu satın almayacağı durum
+ve koşullardan anlaşılıyorsa, alıcı hâkimden sözleşmenin sona ermesine karar
+vermesini isteyebilir. Bu durumda alıcı, satılanın elinde kalmış olan kısmını o
+zamana kadar elde etmiş olduğu yararlarla birlikte, satıcıya geri vermekle
+yükümlüdür.
+====
+
+* *Satıcının ayıba karşı tekeffül borcu* TBK 219-231 arasında düzenlenmiştir.
++
+====
+*TBK 219*: (1) Satıcı, alıcıya karşı herhangi bir surette bildirdiği
+niteliklerin satılanda bulunmaması sebebiyle sorumlu olduğu gibi, nitelik veya
+niteliği etkileyen niceliğine aykırı olan, kullanım amacı bakımından değerini
+ve alıcının ondan beklediği faydaları ortadan kaldıran veya önemli ölçüde
+azaltan maddi, hukuki ya da ekonomik ayıpların bulunmasından da sorumlu olur.
+
+(2) Satıcı, bu ayıpların varlığını bilmese bile onlardan sorumludur.
+====
++
+Ayıba karşı tekeffül borcu zilyetliğin alıcıya devri anında satılan şeyin vaat
+edilen veya dürüstlük kuralı uyarınca bulunması gereken vasıfları
+taşımamasından dolayı satıcının sorumlu olmasıdır.
++
+Ayıba karşı tekeffül borcu aynı zamanda Tüketicinin Korunması Hakkında Kanunda
+düzenlenmiştir. Tüketici Kanunu satıcının mesleki faaliyet olarak hareket
+ettiği, alıcının da tüketici olarak hareket ettiği durumlarda uygulanır. Bu
+şartlardan biri eksikse TBK uygulanacaktır.
++
+Satıcının vaat ettiği nitelikler yoksa başka şart aranmadan ayıba karşı
+tekeffül sorumluluğunun doğduğu kabul edilir. Satılan şeyin lüzumlu
+vasıflarında nitelikli eksiklik varsa ve bu eksiklik satılan şeyin değerinde,
+alıcının ondan beklediği değeri tamamen ortadan kaldıracak ya da önemli ölçüde
+azaltacak nitelikteyse ayıba karşı tekeffül sorumluluğu doğar.
++
+CAUTION: Ayıba karşı tekeffül sorumluluğunda inceleme yapılırken reklamlardaki
+olağan karşılanan abartılara dikkat etmek gerekir. Reklamdaki vaatlerin
+hepsinin bulunmaması ayıba karşı tekeffül sorumluluğuna yol açmaz.
++
+Satıcının nitelik vaadinde bulunması aktif davranışlar ile gerçekleşebileceği
+gibi pasif kalma ile de gerçekleşebilir.
++
+[NOTE]
+====
+*Aliud ifa* ile ayıba larşı tekeffül sorumluluğu karıştırılmamalıdır.
+Sözleşmede kararlaştırılan şey dışında başka bir şey teslim edilirse bu aliud
+ifadır. Ayıplı ifada ise sözleşmede kararlaştırılan şey teslim edilmiştir ama
+niteliklerinde eksiklik vardır.
+
+Aliud ifanın yaptırımı olarak borç hiç ifa edilmemiş gibi sonuçlar ortaya
+çıkar. Satıcı kararlaştırılandan başka bir şey teslim ederse, teslim edilen şey
+daha iyi bile olsa aliud ifa teşkil eder.
+====
++
+Miktar eksikliği söz konusu olduğu hallerde, miktar eksikliği kural olarak
+ayıplı ifaya yol açmaz. Miktar eksikliği söz konusuysa burada kısmi ifa vardır
+ve alıcı kısmi ifayı kabul etmek zorunda değildir. Kısmi ifa kabul edilmezse
+satıcı borcun tamamı için temerrüde düşer.
++
+Nicelik eksikliği nitelik eksikliğine sebebiyet veriyorsa ayıplı ifa söz konusu
+olur. Ayıba karşı tekeffül sorumluğununda alıcının haklarını kullanması için
+yerine getirmesi gereken külfetler (muayene ve ihbar) vardır ve zamanaşımı
+süresi daha kısadır. Ancak kısmi ifada alıcının yerine getirmesi gereken bir
+külfet yoktur ve zamanaşımı süresi 10 yıldır.
++
+Satılan şey üzerinde ayıp üç şekilde ortaya çıkabilir. Eğer ayıp satılanın
+fiziki özelliklerini etkiliyorsa *maddi ayıp*, ekonomik değerini etkiliyorsa
+*ekonomik ayıp*, kamu hukukundan doğan kısıtlamalar varsa *hukuki ayıp* söz
+konusudur. Bu ayıpların birkaçı aynı anda bulunabilir.
++
+.Ayıba karşı tekeffül sorumluluğunun şartları
+****
+. *Satılanın zilyetliğinin devredildiği anda ayıp mevcut olmalıdır*.
+. *Alıcının ayıbı bilmemesi gerekir*.
++
+[caption=""]
+.Alıcının bildiği ayıplar
+====
+*TBK 222*: Satıcı, satış sözleşmesinin kurulduğu sırada alıcı tarafından
+bilinen ayıplardan sorumlu değildir. Satıcı, alıcının satılanı yeterince
+gözden geçirmekle görebileceği ayıplardan da, ancak böyle bir ayıbın
+bulunmadığını ayrıca üstlenmişse sorumlu olur.
+====
+
+****
+Kanun koyucu hayvan satışlarında özel bir düzenleme getirmiştir.
++
+[caption=""]
+.Hayvan satışında
+====
+*TBK 220*: Hayvan satışında satıcı, yazılı olarak üstlenmedikçe veya ağır
+kusuru olmadıkça ayıptan sorumlu olmaz.
+====
++
+Ayıba karşı tekeffül sorumluluğunu düzenleyen hükümler emredici değildir.
+Taraflar sözleşmeyle satıcının ayıptan hiç sorumlu olmayacağını ya da kısmen
+sorumlu olacağını düzenleyebilirler.
++
+[caption=""]
+.Sorumsuzluk anlaşması
+====
+*TBK 221*: Satıcı satılanı ayıplı olarak devretmekte ağır kusurlu ise, ayıptan
+sorumluluğunu kaldıran veya sınırlayan her anlaşma kesin olarak hükümsüzdür.
+====
++
+Ayıba karşı tekeffül sorumluluğunun doğması için alıcının kendisine yüklenen
+külfetleri yerine getirmesi gerekir.
++
+NOTE: Borçtan farklı olarak külfeti yerine getirmeyen kişinin sorumluluğu
+doğmaz. KÜlfeti yerine getirmemenin sonucu bazı hakların hiç ya da kısmen
+kullanılamamasıdır.
++
+Alıcı malı gözden geçirmek (muayene etmek) ve tespit ettiği ayıpları uygun süre
+içerisinde bildirmek külfeti altındadır. Uygun sürenin ne olduğu somut olaya
+göre değişiklik arz eder.
++
+====
+*TBK 223*: (1) Alıcı, devraldığı satılanın durumunu işlerin olağan akışına göre
+imkân bulunur bulunmaz gözden geçirmek ve satılanda satıcının sorumluluğunu
+gerektiren bir ayıp görürse, bunu uygun bir süre içinde ona bildirmek
+zorundadır.
+
+(2) Alıcı gözden geçirmeyi ve bildirimde bulunmayı ihmal ederse, satılanı kabul
+etmiş sayılır. Ancak, satılanda olağan bir gözden geçirmeyle ortaya
+çıkarılamayacak bir ayıp bulunması hâlinde, bu hüküm uygulanmaz. Bu tür bir
+ayıbın bulunduğu sonradan anlaşılırsa, hemen satıcıya bildirilmelidir;
+bildirilmezse satılan bu ayıpla birlikte kabul edilmiş sayılır.
+====
++
+CAUTION: Tüketicinin Korunması Hakkında Kanunda muayene ve ihbar külfetleri
+kaldırılmıştır.
++
+Alıcı bir ayıbın varlığını tespit ederse uygun süre içerisinde satıcıya ihbar
+etmelidir. Buna *ayıp ihbarı* denir. Ayıp ihbari herhangi bir şekle tabi
+değildir.
++
+Gözden geçirmeyle tespit edilebilecek ayıplara *açık ayıp* denir. Olağan bir
+gözden geçirme ile ortaya çıkmayan kullanıma bağlı olarak zaman içinde ortaya
+çıkan ayıplara *gizli ayıp* denir. Gizli ayıp varsa alıcı ayıp ortaya çıkar
+çıkmaz satıcıya bildirme külfeti altındadır. Eğer gizli ayıp çıktığı anda
+bildirilmez ise TBK 223/2'ye satılan şey ayıpla birlikte kabul edilmiş sayılır.
++
+****
+Ticari satışlar bakımından TTK'da farklı bir rejim öngörülmüştür. TTK 23/c
+bendinde kanun koyucu farklı süreler öngörmüştür.
+
+====
+*TTK 23/c*: Malın ayıplı olduğu teslim sırasında açıkça belli ise alıcı iki gün
+içinde durumu satıcıya ihbar etmelidir. Açıkça belli değilse alıcı malı teslim
+aldıktan sonra sekiz gün içinde incelemek veya incelettirmekle ve bu inceleme
+sonucunda malın ayıplı olduğu ortaya çıkarsa, haklarını korumak için durumu bu
+süre içinde satıcıya ihbarla yükümlüdür. Diğer durumlarda, Türk Borçlar
+Kanununun 223 üncü maddesinin ikinci fıkrası uygulanır.
+====
+
+Bir ticari satış varsa ve malın teslimi sırasında açıkça belliyse bu durumda
+alıcı *iki günlük ihbar külfeti* altındadır. Olağan bir inceleme ile
+anlaşılabilecek ayıplarda ise *sekiz günlük ihbar külfetine* tabidir. Gizli
+ayıp varsa kanun koyucu TBK'ya gönderme yapmıştır.
+
+Burada bahsedilen sekiz günlük süre sadece muayene süresi değildir. Hem
+muayenenin yapılmsaı hem de bildirimin gerçekleşmesi gerekir.
+****
++
+Alıcı malı muayene ve ihbar külfetini yerine getirmezse malı aıplı haliyle
+kabul etmiş sayılır. Bununla beraber TBK 225'te satıcının sorumlu olmaya devam
+edeceği haller düzenlenmiştir.
++
+[caption=""]
+.Satıcının ağır kusurunun sonuçları
+====
+*TBK 225*: (1) Ağır kusurlu olan satıcı, satılandaki ayıbın kendisine süresinde
+bildirilmemiş olduğunu ileri sürerek sorumluluktan kısmen de olsa kurtulamaz.
+
+(2) Satıcılığı meslek edinmiş kişilerin bilmesi gereken ayıplar bakımından da
+aynı hüküm geçerlidir.
+====
++
+Ayıba karşı tekeffül sorumluluğunun şartları gerçekleşmiş, alıcı da
+külfetlerini yerine getirmişse alıcının kullanabileceği seçimlik haklar ortaya
+çıkar. Alıcının kullanabileceği seçimlik haklar TBK 227'de düzenlenmiştir.
++
+====
+*TBK 227*: (1) Satıcının satılanın ayıplarından sorumlu olduğu hâllerde alıcı,
+aşağıdaki seçimlik haklardan birini kullanabilir:
+
+1. Satılanı geri vermeye hazır olduğunu bildirerek sözleşmeden dönme.
+
+2. Satılanı alıkoyup ayıp oranında satış bedelinde indirim isteme.
+
+3. Aşırı bir masrafı gerektirmediği takdirde, bütün masrafları satıcıya ait
+   olmak üzere satılanın ücretsiz onarılmasını isteme.
+
+4. İmkân varsa, satılanın ayıpsız bir benzeri ile değiştirilmesini isteme.
+
+(2) Alıcının genel hükümlere göre tazminat isteme hakkı saklıdır.
+
+(3) Satıcı, alıcıya aynı malın ayıpsız bir benzerini hemen vererek ve uğradığı
+zararın tamamını gidererek seçimlik haklarını kullanmasını önleyebilir.
+
+(4) Alıcının, sözleşmeden dönme hakkını kullanması hâlinde, durum bunu haklı
+göstermiyorsa hâkim, satılanın onarılmasına veya satış bedelinin indirilmesine
+karar verebilir.
+
+(5) Satılanın değerindeki eksiklik satış bedeline çok yakın ise alıcı, ancak
+sözleşmeden dönme veya satılanın ayıpsız bir benzeriyle değiştirilmesini isteme
+haklarından birini kullanabilir.
+====
++
+Ayıplı malın yok olması hali TBK 228'de düzenlenmiştir.
++
+[caption=""]
+.Satılanın yok olması veya ağır biçimde zarara uğraması
+====
+*TBK 228*: (1) Alıcıya ayıplı olarak devredilmiş olan satılanın ayıptan,
+beklenmedik hâlden veya mücbir sebepten dolayı yok olması veya ağır biçimde
+zarara uğraması, alıcının sözleşmeden dönme hakkını kullanmasını engellemez. Bu
+durumda alıcı, satılandan elinde ne kalmışsa onu geri vermekle yükümlüdür.
+
+(2) Satılan alıcıya yüklenebilen bir sebep yüzünden yok olmuşsa veya alıcı onu
+başkasına devretmişse ya da biçimini değiştirmişse alıcı, ancak değerindeki
+eksiklik karşılığının satış bedelinden indirilmesini isteyebilir.
+====
++
+CAUTION: TBK 228/2 uyarınca bedel indirimi istenebilmesi için muayene ve ihbar
+külfetinin yerine getirilmiş olması gerekir.
++
+Alıcı TBK 227'deki seçimlik haklarından sözleşmeden dönmeyi seçerse, bunun
+sonuçları TBK 229'da özel olarak düzenlenmiştir.
++
+====
+*TBK 229*: (1) Satış sözleşmesinden dönen alıcı, satılanı, ondan elde ettiği
+yararları ile birlikte satıcıya geri vermekle yükümlüdür. Buna karşılık alıcı
+da, satıcıdan aşağıdaki istemlerde bulunabilir:
+
+1. Ödemiş olduğu satış bedelinin, faiziyle birlikte geri verilmesi.
+
+2. Satılanın tamamen zaptında olduğu gibi, yargılama giderleri ile satılan için
+   yapmış olduğu giderlerin ödenmesi.
+
+3. Ayıplı maldan doğan doğrudan zararının giderilmesi.
+
+(2) Satıcı, kendisine hiçbir kusur yüklenemeyeceğini ispat etmedikçe, alıcının
+diğer zararlarını da gidermekle yükümlüdür.
+====
++
+Prensip olarak sözleşmeden dönmede borç ilişkisi geçmişe etkili olarak ortadan
+kalkar. Alıcı almış olduklarını sebepsiz zenginleşme hükümlerine göre iade
+edecektir. 
++
+TBK 229'deki alıcının talep edebileceği zararlar bakımından satıcı kusursuz
+sorumludur. Dolaylı zararlar bakımından ise satıcının sorumluluğu kusura
+bağlıdır.
++
+Ayrıca alıcının sözleşmeden dönmesi sonucu menfi (olumsuz) zararı varsa genel
+hükümlere göre istenebilecektir. Bunun dayanağı TBK 227/2'deki "_Alıcının genel
+hükümlere göre tazminat isteme hakkı saklıdır_" ifadesidir.
++
+TBK 230'da birden çok mal satışında sözleşmeden dönme hakkı düzenlenmiştir.
+Buna göre birden çok mal teslimi söz konusu ise ve bunlardan bazıları ayıplı
+çıkarsa ayıba karşı tekeffülden doğan haklar ancak ayıplı çıkan mallar için
+kullanılır.
++
+[caption=""]
+.Birden çok mal satışında
+====
+*TBK 230*: (1) Birden çok mal veya birden çok parçadan oluşan bir mal, birlikte
+satılmış olup da bunlardan bazıları ayıplı çıkarsa, dönme hakkı bunlardan ancak
+ayıplı çıkanlar için kullanılabilir. Ancak, alıcıya veya satıcıya önemli bir
+zarar vermeksizin ayıplı parçanın diğerinden ayrılmasına imkân yoksa, dönme
+hakkının satılanın tamamını kapsaması zorunludur.
+
+(2) Satılanın aslı için satıştan dönülmesi, ayrı satış bedeli gösterilerek
+satılmış olsalar bile, eklentilerini de kapsar; fakat eklentiler için dönme,
+satılanın aslını kapsamaz. 
+====
++
+TBK 227'deki seçimlik haklardan satış bedelinin indirilmesinin kullanılması
+durumunda indirimin hangi esasa göre yapılacağına dair bir düzenleme yoktur.
+Yargıtay'ın benimsemiş olduğu *nispi metot*, uygulamada da baskın olarak kabul
+edilen yöntemdir.
++
+.Nispi metot
+....
+ÖB: Ödenecek bedel 
+KB: Kararlaştırılan bedel
+AOD: Malın ayıplı halinin objektif değeri
+NOD: Malın ayıpsız halinin objektif değeri
+
+ÖB = (KB x AOD) / NOD
+İndirilecek Miktar = KB - ÖB
+....
++
+Satış bedelinin indirilmesi talebi bir tazminat niteliğinde olmadığından
+satıcının kusuru aranmaz ve tazminatta indirim sebepleri dikkate alınmaz.
++
+Ayıba karşı tekeffülden doğan hakların kullanılması bakımından alıcının
+külfetleri dışında uyması gereken TBK 231'de düzenlenmiş bir zamanaşımı süresi
+vardır.
++
+[caption=""]
+.Zamanaşımı
+====
+*TBK 231*: (1) Satıcı daha uzun bir süre için üstlenmiş olmadıkça, satılanın
+ayıbından doğan sorumluluğa ilişkin her türlü dava, satılandaki ayıp daha sonra
+ortaya çıksa bile, satılanın alıcıya devrinden başlayarak iki yıl geçmekle
+zamanaşımına uğrar. Alıcının satılanın kendisine devrinden başlayarak iki yıl
+içinde bildirdiği ayıptan doğan def’i hakkı, bu sürenin geçmiş olmasıyla
+ortadan kalkmaz.
+
+(2) Satıcı, satılanı ayıplı olarak devretmekte ağır kusurlu ise, iki yıllık
+zamanaşımı süresinden yararlanamaz.
+====
++
+WARNING: TBK 231'deki zamanaşımı süresi taşınır satışlarına özeldir.
++
+TIP: Satıcının hilesinin olduğu hallerde, hile hükümlerine başvurmak yerine
+ayıba karşı tekeffül sorumluluğuna başvurmak daha elverişlidir. Zira bu gibi
+ağır kusur hallerinde satıcı iki yıllık zamanaşımı süresinden de faydalanamaz.
++
+.Ayıba karşı tekeffül sorumluluğunda genel hükümlere dayanılması
+****
+Satıcının ayıptan doğan sorumluluğunda aynı zamanda borcun gereği gibi ifa
+edilmemesi ortaya çıkar. Alıcı sözleşmeden doğan borcun gereği gibi ifa
+edilmemesi gerekçesiyle genel borca aykırılık hükümlerine göre tazminat
+isteyebilir mi? Yoksa mutlaka ayıptan doğan sorumluluk hallerine mi
+dayanmalıdır? 
+
+Bir görüşe göre ayıptan doğan bir sorumluluk söz konusu olduğunda artık genel
+hükümlerin uygulanmayacak, alıcı münhasıran özel hükümlere başvurmak durumunda
+kalacaktır.
+
+Diğer bir görüşe göre ise ayıptan doğan sorumluluğun külfetleri yerine
+getirilirse genel hükümlere başvurulabilir. Aynı zamanda genel hükümlere göre
+tazminat istenebilmesi için alıcının bu hakkını ayıptan doğan sorumluluğua
+ilişkin zamanaşımı süresi içinde kullanması gerekir.
+
+Baskın olan üçüncü görüşe göre ise ayıptan doğan sorumluluğa ilişkin hükümler
+alıcının haklarını daraltmak için değil alıcıya ek imkanlar sağlamak için
+vardır. Dolayısıyla alıcı hangisini istiyorsa ona dayanabilir.
+****
+
+* *Taşınır satışında alıcının borçları* TBK 232-236 arasında düzenlenmiştir.
++
+[caption=""]
+.Satış bedelinin ödenmesi ve satılanın devralınması
+====
+*TBK 232*: (1) Alıcı, satış sözleşmesinde kararlaştırılmış olduğu biçimde satış
+bedelini ödemek ve kendisine sunulan satılanı devralmakla yükümlüdür.
+
+(2) Aksine yerel âdet veya anlaşma yoksa, satılanın hemen devralınması
+gereklidir.
+====
++
+Satış bedeli, sözleşme kurulduğu sırada belirli olmasa da belirlenebilir
+olmalıdır. Ancak satış bedelinin belirlenmemesi hali için özel bir düzenlemeye
+gidilmiştir.
++
+[caption=""]
+.Satış bedelinin belirlenmesi
+====
+*TBK 233*: (1) Alıcı, satış bedelini belirtmeksizin, malı alacağını kesin
+olarak bildirmişse satış, ifa yeri ve zamanındaki ortalama piyasa fiyatı
+üzerinden yapılmış sayılır.
+
+(2) Satış bedeli, satılanın ağırlığına göre hesaplanıyorsa, darası indirilir.
+
+(3) Bazı ticari malların satışında, daralı ağırlıktan miktar olarak ya da yüzde
+hesabıyla bir indirim yapılmasına veya bedelin, daralı ağırlık üzerinden
+belirlenmesine ilişkin ticari teamüller saklıdır.
+====
+ 
+* Alıcının temerrüdü hali TBK 235 ve 236'da düzenlenmiştir.
++
+[caption=""]
+.Satıcının dönme hakkı
+====
+*TBK 235*: (1) Satılanın, ancak satış bedeli ödendikten sonra veya ödenme
+anında devredilmesi gereken durumlarda alıcı temerrüde düşerse satıcı, herhangi
+bir işlem gerekmeksizin satıştan dönebilir.
+
+(2) Bu hakkını kullanmak isteyen satıcı, durumu gecikmeksizin alıcıya bildirmek
+zorundadır.
+
+(3) Satılanın zilyetliği satış bedeli ödenmeden alıcıya devredilmişse, alıcının
+temerrüdü sebebiyle satıcının dönme hakkını kullanarak satılanı geri alması, bu
+hakkın sözleşmede açıkça saklı tutulmasına bağlıdır.
+====
++
+Satıcın dönme hakkının kullanılması bakımından satış sözleşmesi peşin satış mı,
+veresiye satış mı dikkat edilmelidir. Peşin satışta satış bedeliyle satış
+konusu aynı anda ifa edilir. Veresiye satışta ise alıcı satılanı satış bedelini
+ödemeden teslim alır. 
++
+TBK 231/1 uyarınca peşin satış söz konusu olduğunda sözleşmeden dönmek isteyen
+satıcı süre vermek zorunda değildir. Ancak satıcı alacaklı temerrüde düştüğünde
+dönme hakkını kullandığını derhal bildirmelidir. Derhal bildirmez ise hakkını
+kaybeder ve genel hükümlere göre mehil vermesi ve mehil boyunca alıcı edimini
+yerine getirmemiş ise sözleşmeden döndüğünü beyan etmesi gerekir.
++
+Satış sözleşmesi peşin değil veresiye satış ise satıcının sözleşmeden dönme
+hakkını kullabilmesi için sözleşmede bu hakkını açıkça saklı tutulmul olması
+gerekir.
++
+Sözleşmeden dönmek değil de olumlu zararının tazminini isteyen satıcı için
+tazminatın hesaplanması bakımından TBK 236 düzenlenmiştir.
++
+[caption=""]
+.Zararın hesaplanması ve giderimi
+====
+*TBK 236*: (1) Borcunu ifa etmeyen alıcı, satıcının bu yüzden uğradığı zararı
+gidermekle yükümlüdür.
+
+(2) Satıcı, satış bedelini ödemede temerrüde düşmüş olan alıcıdan, bu bedel ile
+satılanın başkasına dürüstlük kurallarına uygun olarak satışından elde ettiği
+bedel arasındaki farka göre hesaplanacak zararın giderilmesini isteyebilir.
+
+(3) Satılan, borsada kayıtlı veya piyasa fiyatı bulunan mallardan ise satıcı,
+böyle bir satışa gerek kalmaksızın alıcıdan, satış bedeli ile malın belirlenmiş
+ödeme günündeki fiyatı arasındaki farka göre hesaplanacak zararın giderilmesini
+isteyebilir.
+====
+ 
+* Alıcının satış bedelini ödeme borcunun yanında bir da satılanı devralması
+gerekir. Bunun borç mu külfet mi olduğuna dair tartışmada baskın görüş borç
+olduğu yönündedir. Dolayısıyla satılanı teslim almaktan kaçınan alıcıya karşı,
+satıcı hem borçlu temerrüdü hem de alacaklı temerrüdü hükümlerine başvurabilir. 
++
+Alıcının satış bedelini ödeme ve satılanı devralma yükümlülüklerinin yanında
+yan borçları da vardır. Örneğin aksine adet veya anlaşma yoksa satılan
+devralmak için yapılan masrafların alıcı tarafından ödenmesi gerekir.
+
+==== TAŞINMAZ SATIŞI
+
+* *Taşınmaz satış sözleşmesi* ve *taşınmaz satış ilişkisi doğuran haklar* TBK
+237-246 arasında düzenlenmiştir.
++
+MK 706 ve TBK 237 taşınmaz sözleşmelerinin ve taşınmaz devri borcu doğuran
+hukuki işlemlerin resmi şekle tabi olduğunu düzenlemiştir. Buradaki resmi şekli
+sağlayacak olan makam tapu sicil memurlarıdır.
++
+[caption=""]
+.Şekil
+====
+*TBK 237*: (1) Taşınmaz satışının geçerli olabilmesi için, sözleşmenin resmî
+şekilde düzenlenmesi şarttır.
+
+(2) Taşınmaz satışı vaadi, geri alım ve alım sözleşmeleri, resmî şekilde
+düzenlenmedikçe geçerli olmaz.
+
+(3) Önalım sözleşmesinin geçerliliği, yazılı şekilde yapılmış olmasına
+bağlıdır.
+====
++
+====
+*MK 706*: Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması,
+resmî şekilde düzenlenmiş bulunmalarına bağlıdır.
+====
+ 
+* TBK 237'de taşınmaz satış sözleşmesi dışında taşınmaz satış vaadi, geri alım ve
+alım sözleşmelerinin de resmi şekle tabi olduğu düzenlenmiştir. Taşınmaz satış
+sözleşmesinden farklı olarak bu resmiyeti sağlayacak makam tapu memuru da
+olabilir, noter de olabilir. Önalım sözleşmesi bakımından ise yazılı şekil
+yeterli görülmüştür. 
++
+TIP: Noter tarafından resmiyet verileceği zaman aksine bir hüküm yoksa
+belgelerin noter tarafından düzenlenmesi gerekir. Onaylama şeklindeki işlemler
+resmi şeklin yerini kural olarak tutmaz.
+ 
+.Taşınmaz satış sözleşmesinin objektif esaslı unsurları
+****
+. *Sözleşmenin taraflarının isimleri*
+. *Sözleşme konusu taşınmaz (ada, pafta, parsel no)*
+. *Satış bedeli*
++
+Öğretide tartışmalı olmakla birlikte, taşınır satışından farklı olarak taşınmaz
+satış sözleşmelerinde satış bedelinin belirli olması gerekir.
+****
+ 
+* Tapu Sicil Tüzüğü'nde ve uygulamada işlem yapacak temsilcilerin noter
+tarafından düzenlenmiş vekalet belgesi getirmeleri şartı aranmaktadır.
+ 
+* Taşınmaz satışı bakımından TBK 237-246 dışında taşınır satışına ilişkin
+hükümler kıyasen uygulanır. 
+ 
+* Taşınmaz satışı bakımından ayıptan ve zapttan sorumluluk halleri için özel
+düzenlemeler getirilmiştir. 
++
+====
+*TBK 244*: (1) Aksine sözleşme olmadıkça, satılan taşınmaz, satış sözleşmesinde
+yazılı yüzölçümü tutarını kapsamıyorsa satıcı, eksiği için alıcıya tazminat
+ödemekle yükümlüdür.
+
+(2) Satılan taşınmaz, resmî bir ölçüme dayanılarak tapu siciline yazılmış olan
+yüzölçümü tutarını içermiyorsa satıcı, özellikle üstlenmiş olmadıkça tazminat
+ile yükümlü değildir.
+
+(3) Bir yapının ayıplı olmasından doğan davalar, mülkiyetin geçmesinden
+başlayarak beş yılın ve satıcının ağır kusuru varsa yirmi yılın geçmesiyle
+zamanaşımına uğrar.
+====
+ 
+* Taşınmazlarda yarar ve hasar kural olarak taşınmazın alıcı adına tescili ile
+birlikte alıcıya geçer.
+
+* *Taşınmaz satış vaadi* sözleşmelerinde taraflardan biri veya ikisi ileride
+bir taşınmazı satma ya da alma borcu altına girmeyi taahhüt eder. Tarafların
+bir sözleşme ile ileride borçlandırıcı işlem niteliğinde bir taşınmaz satış
+sözleşmesi kurmayı taahhüt eder. Öğretide baskın görüş ve Yargıtay uygulaması
+taşınmaz satış vaadi sözleşmesinin önsözleşme niteliğinde olduğu yönündedir. 
++
+Satış vaadi sözleşmeleri resmi şekilde düzenlenmelidir. Şekle resmiyeti verecek
+olan makam noterlerdir. TBK 27/2'deki önsözleşmeler asıl sözleşmenin şekline
+tabiidir kuralı gereği taşınmaz satış vaadi sözleşmesinin de tapuda
+yapılabileceği kabul edilmektedir.
++
+Uygulama ve öğretideki bazı yazarların görüşüne göre satıl vaadi sözleşmesinde
+haklı olan taraf, adına satış sözleşmesinin kurulmasını ve taşınmazın tescilini
+talep edebilir.
++
+Satıl sözleşmesinin esaslı unsurları ile taşınmaz satış vaadi sözleşmesinin
+esaslı unsurları aynıdır.
++
+Taşınmaz satış vaadinden doğan haklar tapu kütüğüne şerh edilebilen haklardır.
+Eğer şerh edilirse, şerh edildiği tarihten itibaren 5 yıl içerisinde hakkın
+kullanılması gerekir, kullanılmazsa şerh terkin edilir.
++
+NOTE: Nispi hakların şerh edilebilmesi için kanunun şerh edilebileceği
+düzenlemiş olması yeterli değildir. Ayrıca taraflar arasında bir şerh anlaşması
+yapılmış olmalıdır. Ancak taşınmaz satış vaadi sözleşmesi, taraflar şerh
+anlaşması yapmamış olsa bile şerh edilebilir. Bu kanundan doğan bir haktır.
+
+* *Satış ilişkisi kuran yenilik doğuran haklar* vardır: Alım, geri alım ve
+önalım hakkı.
+
+* *Alım hakkı* bir tarafa tek taraflı irade beyanı ile satış sözleşmesi
+kurma yetkisi verir. Alım hakkı tanıyan sözleşmelere *opsiyon sözleşmeleri*
+denir. Alım hakkının kaynağı opsiyon sözleşmeleri resmi şekilde yapılır.
+Resmiyetin hangi makam tarafından sağlanacağı hususunda kanunda açık bir
+düzenleme yoktur. Yargıtay noterde düzenleme şeklinde yapılabileceğini kabul
+etmiştir. Öğretide tapuda da yapılabileceği kabul edilir.
++
+NOTE: A ve S arasında A'ya taşınmazın alıcı olabilme yetkisi tanıyan bir
+opsiyon sözleşmesi düzenlenir. A bu sözleşmeden doğan alım hakkını tek taraflı
+beyanı ile S'ye karşı kullanabilir. Bu beyan S'ye ulaştığı anda S ve A arasında
+satış ilişkisi kurulur. Beyanın sonucunda kurulan borç ilişkisi gereğince S
+taşınmazını A'ya satmayı, A da taşınmazın bedelini ödemeyi borçlanır. S tapuya
+tescil talebinde bulunmaktan kaçınırsa A tescile zorlama davası açabilir. Hakim
+A'yı haklı görürse taşınmazın mülkiyetinin A'ya aidiyetine karar verecektir. Bu
+hükmün kesinleşmesiyle A taşınmazın maliki olacaktır. Mahkeme kararıyla A malik
+olduktan sonra yapılacak tescil açıklayıcı nitelikte olacaktır.
++
+Kanuna göre alım hakkı devredilemez ama miras yoluyla intikal edilebilir bir
+haktır. Taraflar bunun aksini kararlaştırabilirler.
++
+Kanun koyucu opsiyon sözleşmelerinden doğan alım hakkının tapu kütüğüne şerh
+edilebilir bir hak olduğunu düzenlemiştir. Şerh için şerh anlaşması gereklidir.
++
+NOTE: A ve S arasında kurulan opsiyon sözleşmesi ile A'ya alım hakkı
+tanındıktan sonra S, taşınmazı Ü'ye devreder ve taşınmaz Ü adına tescil
+edilirse A opsiyon sözleşmesinden doğan alım hakkını Ü'ye karşı ileri süremez.
+Zira bu hak nispi bir haktır ve sadece muhatabına karşı ileri sürülebilir. Bu
+durumda A ancak S'ye başvurarak sözleşmeye aykırılık sebebiyle tazminat
+isteyebilir. Ancak alım hakkı tapuya şerh edilmişse A alım hakkını Ü'ye karşı
+ileri sürebilir. Böylece A ile Ü arasında bir borç ilişkisi kurulur ve bu
+ilişki uyarınca Ü taşınmazı A'ya devretme, A da satış bedelini Ü'ye ödeme borcu
+altına girer.
+
+* *Geri alım hakkı* sahibi, sattığı taşınmazını tek taraflı beyanı ile geri
+alabilir. Burada da taraflar arasında bir opsiyon sözleşmesi yapılır.
++
+Tapu Sicil Tüzüğü bu sözleşmelerin, eğer satış sözleşmesinin bir unsuru olarak
+yapılıyorsa tapuda resmi şekilde yapılmaları gerektiğini, satış sözleşmesinden
+ayrı olarak yapılıyorsa noterde düzenleme şeklinde yapılmaları gerektiğini
+düzenlemiştir.
++
+Geri alım hakkı da tapuya şerh edilebilir. Şerh edilen hak 10 yıl içerisinde
+kullanılmaz ise terkin edilir.
+
+* *Önalım hakkı* iki kaynaktan meydana gelebilir:
+
+. *Kanundan doğan önalım hakkı*: Kanundan doğan önalım hakkının olabilmesi için
+öncelikle paylı mülkiyet ilişkisi olmalı ve paydaşlardan biri payını üçüncü
+kişiye satıyor olmalıdır. Bu durumda paydaşlardan her biri satılan payı
+kanundan doğan önalım haklarını kullanarak alabilirler.
+. *Sözleşmeden doğan önalım hakkı*: Sözleşmeden doğan önalım hakkında satılması
+şartına bağlı olarak kullanılan bir alım hakkı vardır. Sadece satış değil,
+ekonomik açıdan satışa eşdeğer hallerde de önalım hakkı kullanılabilir. Ancak
+bağışlama, cebri icra vasıtasıyla üçüncü kişiye devredilme gibi durumlarda
+koşul sağlanmış olmaz. 
++
+NOTE: Önalım opsiyon sözleşmesi, alım ve geri alım opsiyon sözleşmelerinden
+farklı olarak adi yazılı şekilde düzenlenebilir.
++
+Sözleşmeden doğan önalım hakkı, tapu kütüğüne şerh edilebilen haklardandır.
+Şerh edilirse 10 yıllık süreye tabidir. 
++
+Alım ve geri alımdan farklı olarak önalım hakkı sahibi hakkını dava açarak
+kullanmalıdır. Bu hakkın kullanılması hak düşürücü süreye tabidir. Hak düşürücü
+süre olarak iki ayrı süre öngörülmüştür. Hak sahibine satıcı veya satın alan
+üçüncü kişi tarafından bildirimde bulunulması halinde bu bildirimden itibaren 3
+ay içerisinde dava açılmalıdır. Her halükarda satışın yapıldığı tarihten
+itibaren 2 yıl içerisinde dava açılmak zorundadır.
++
+Önalım hakkı sahibi, üçüncü kişinin vereceği bedeli ödeyecekse *adi önalım
+hakkı*; önceden kararlaştırılan bedeli ödeyecekse *nitelikli önalım hakkı* söz
+konusudur.
+
+==== BAZI SATIŞ TÜRLERİ
+
+* TBK 247'de *örnek üzerine satış*, TBK 249 ve devamında ise *beğenme koşulu
+ile satış* düzenlenmiştir.
++
+.Örnek üzerine satış
+****
+
+====
+*TBK 247*: Örnek üzerine satış, tarafların sözleşmenin konusu olan malın
+alıcıya veya üçüncü bir kişiye bırakılan bir örneğe ya da tespit ettikleri bir
+mala uygun olması üzerinde anlaşmalarıyla yapılan satıştır.
+====
+ 
+[caption=""]
+.İspat yükü
+====
+*TBK 248*: (1) Örnek üzerine satışta kendisine örnek verilen taraf, elindeki
+örneğin kendisine verilmiş örnek olduğunu ispat yükü altında olmayıp, örneğin
+biçimi değişmiş olsa bile, bu değişiklik gözden geçirmenin zorunlu bir sonucu
+ise, alıcının iddiası doğru sayılır. Ancak, karşı tarafın her hâlde bunun
+aksini ispat hakkı vardır.
+
+(2) Örnek, alıcının elindeyken bozulmuş veya yok olmuşsa, kusuru olmasa bile,
+satılanın örneğe uygun olmadığını ispat yükü alıcıya düşer.
+====
+
+****
++
+.Beğenme koşulu ile satış
+****
+
+====
+*TBK 249*: Beğenme koşuluyla satış, alıcının satılanı deneyerek veya gözden
+geçirerek beğenmesi koşuluyla yapılan satıştır.
+====
+
+====
+*TBK 250*: (1) Beğenme koşuluyla satışta alıcı, satılanı kabul etmekte veya
+hiçbir sebep göstermeksizin geri vermekte serbesttir.
+
+(2) Satılan, alıcının zilyetliğine geçmiş olsa bile, satılanın mülkiyeti,
+beğenme koşulunun gerçekleştiği ana kadar satıcıda kalır. 
+====
+
+====
+*TBK 251*: (1) Deneme veya gözden geçirme satıcının yanında yapılmak gerekip de
+alıcı, satılanı sözleşme veya âdete göre gerekli süre içinde kabul edip
+etmediğini açıklamazsa, satıcı sözleşmeyle bağlılıktan kurtulur.
+
+(2) Böyle bir süre belirlenmemişse, satıcı uygun bir süre geçtikten sonra,
+satılanı kabul edip etmediğini bildirmesi için alıcıya ihtarda bulunabilir; bu
+ihtara hemen cevap verilmezse satıcı, sözleşmeyle bağlılıktan kurtulur.
+====
+
+====
+*TBK 252*: (1) Satılan, denenmeksizin veya gözden geçirilmeksizin alıcıya
+verilmişse, sözleşme veya âdete göre gereken süre içinde veya böyle bir süre
+yoksa, satıcının ihtarı üzerine alıcı, satılanı beğenmediğini hemen bildirmez
+veya onu geri vermezse, beğenme koşulu gerçekleşmiş olur.
+
+(2) Alıcının, herhangi bir çekince belirtmeksizin satış bedelinin tamamını veya
+bir kısmını ödemesiyle ya da satılanı deneme veya gözden geçirme amacını aşacak
+biçimde kullanmasıyla da beğenme koşulu gerçekleşmiş olur.
+====
+
+****
+
+* *Taksitle satış* TBK 253-263 arasında düzenlenmiştir.
++
+Taksitle satış kısmi ödemeli satışın bir türüdür. Burada satıcı satılanı
+önceden devretmektedir, buna karşı alıcı satış bedelini ödeme borcunu kısım
+kısım yerine getirmektedir. Eğer alıcı önce satış bedelini peşin veya kısım
+kısım ödeyecek, satıcı borcunu sonra yerine getirecekse önödemeli satış söz
+konusu olur.
++
+[caption=""]
+.Tanımı, şekli ve içeriği
+====
+*TBK 253*: (1) Taksitle satış, satıcının, satılan taşınırı alıcıya satış
+bedelinin ödenmesinden önce teslim etmeyi, alıcının da satış bedelini kısım
+kısım ödemeyi üstlendikleri satıştır.
+
+(2) Taksitle satış sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz.
+
+(3) Malın satıcının ticari faaliyeti kapsamında satılması hâlinde, sözleşmede
+aşağıdaki hususlar belirtilir:
+
+1. Tarafların adı ve yerleşim yeri.
+
+2. Satışın konusu.
+
+3. Satılanın peşin satış bedeli.
+
+4. Taksitle ödeme sebebiyle belirtilecek ilave bedel.
+
+5. Toplam satış bedeli.
+
+6. Alıcının nakden veya aynen üstlendiği diğer bütün edimler.
+
+7. Peşinat ve taksitlerin tutarı ile vadesi ve ikiden az olmamak üzere taksit
+   sayısı.
+
+8. Alıcının yedi gün içinde sözleşme yapılması konusundaki irade açıklamasını
+   geri alma hakkı.
+
+9. Öngörülmüşse, mülkiyetin saklı tutulmasına veya satış bedeli alacağının
+   devrine ilişkin anlaşma kayıtları.
+
+10. Temerrüt veya vadenin ertelenmesi durumunda, yasal faiz oranının yüzde otuz
+    fazlasını geçmemek üzere ödenecek faiz.
+
+11. Sözleşmenin kurulduğu yer ve tarih.
+====
++
+[caption=""]
+.Yasal temsilcinin rızası
+====
+*TBK 254*: Ayırt etme gücüne sahip bir küçük veya kısıtlı tarafından yapılmış
+olan taksitle satış sözleşmesinin geçerliliği, yasal temsilcinin yazılı
+rızasına bağlıdır. Bu durumda rızanın, en geç sözleşmenin kurulduğu anda
+verilmiş olması gerekir.
+====
++
+[caption=""]
+.Sözleşmenin hüküm ve sonuçlarını doğurması ve geri alma açıklaması
+====
+*TBK 255*: (1) Taksitle satış sözleşmesi, alıcı bakımından, taraflarca
+imzalanmış sözleşmenin bir nüshasının eline geçmesinden yedi gün sonra hüküm ve
+sonuçlarını doğurur. Alıcı, bu süre içinde irade açıklamasını geri aldığını
+satıcıya yazılı olarak bildirebilir. Bu haktan önceden feragat edilemez. Geri
+alma bildiriminin sürenin son gününde postaya verilmiş olması, sonuç doğurması
+için yeterlidir.
+
+(2) Satıcı geri alma süresi içinde malı alıcıya devretmişse alıcı, malı ancak
+olağan bir gözden geçirmenin gerektirdiği ölçüde kullanabilir; aksi takdirde
+sözleşme hüküm ve sonuçlarını doğurmuş olur.
+
+(3) Alıcının geri alma hakkını kullanması hâlinde, kendisinden cayma parası
+istenemez.
+====
++
+NOTE: Buradaki geri alma önerinin geri alınması mıdır, kurulmuş olan
+sözleşmeden dönme midir öğretide tartışmalıdır. _Kürsüye göre_ burada cayma
+hakkı düzenlenmiştir. Alıcıya kurulmuş olan bir sözleşmeden sebep
+göstermeksizin dönme hakkı tanınmıştır.
++
+[caption=""]
+.Peşinatı ödeme borcu ve sözleşmenin süresi
+====
+*TBK 256*: (1) Alıcı, peşin satış bedelinin en az onda birini en geç teslim
+anında peşin olarak, satış bedelinin geri kalan kısmını da sözleşmenin
+kurulmasını izleyen üç yıl içinde ödemekle yükümlüdür.
+
+(2) Bakanlar Kurulu, satılanın türüne göre peşinat miktarı ile yasal ödeme
+sürelerini yarıya kadar indirebileceği gibi, iki katına kadar çıkartabilir.
+
+(3) Kanunda belirlenen asgari peşinatı tamamen almaksızın, satılanı alıcıya
+devreden satıcı, peşinatın ödenmeyen kısmı üzerinde istem hakkını kaybeder.
+
+(4) Peşinattan vazgeçilmesi karşılığında, satış bedelinde yapılacak artırma
+hükümsüzdür.
+====
++
+====
+*TBK 259*: (1) Alıcı peşinatı ödemede temerrüde düşerse satıcı, sadece peşinatı
+isteyebilir veya sözleşmeden dönebilir.
+
+(2) Alıcı taksitleri ödemede temerrüde düşerse satıcı, muaccel olmuş
+taksitlerin veya geri kalan satış bedelinin tamamının bir defada ödenmesini
+isteyebilir ya da sözleşmeden dönebilir. Satıcının geri kalan satış bedelinin
+tamamını isteyebilmesi veya sözleşmeden dönebilmesi, ancak bu hakkı açık
+biçimde saklı tutmuş olmasına ve alıcının kararlaştırılan satış bedelinin en az
+onda birini oluşturan ve birbirini izleyen en az iki taksidi veya en az dörtte
+birini oluşturan bir taksidi ya da en son taksidi ödemede temerrüde düşmüş
+olmasına bağlıdır. Ancak, satıcının dönme dolayısıyla isteyebileceği miktar,
+ödenmiş olan taksitler tutarına eşit veya daha fazla ise satıcı sözleşmeden
+dönemez.
+====
++
+CAUTION: TBK 259/1'de olumlu zararın tazmini düzenlenmemiştir. Satıcı ya
+peşinatı isteyebilir ya da sözleşmeden dönebilir.
++
+TBK 259/2'ye göre alıcı taksitleri ödemede temerrüde düşerse satıcının üç tane
+seçimlik hakkı vardır: Muaccel olmuş taksitlerin istenmesi, geri kalan satış
+bedelinin bir defada ödenmesinin istenmesi ve sözleşmeden dönme. Ancak geri
+kalan taksitlerin tek seferde ödenmesini isteyebilmek ya da sözleşmeden
+dönebilmek için birtakım ek koşulların gerçekleşmesi gerekir.
++
+.Geri kalan taksitlerin tek seferde ödenmesini istemek ya da sözleşmeden dönebilmek için aranan ek koşullar
+****
+. Satıcı *açıkça bu hakkını saklı tutmuş* olmalıdır.
+. Alıcı *kararlaştırılan satış bedelinin en az onda birini oluşturan ve
+birbirini izleyen en az iki taksidi ödememiş* ya da *kararlaştırılan satış
+bedelinin en az dörtte birini oluşturan bir taksidi ya da son taksidi ödemede
+temerrüde düşmüş* olmalıdır.
+. Satıcı bu hakkını kullanmadan önce alıcıya *on beş günlük bir süre*
+tanımalıdır.
+. Satıcının *dönme dolayısıyla isteyebileceği miktar, ödenmiş olan taksit
+tutarına eşit veya daha fazla ise* satıcı sözleşmeden *dönemez*.
+****
++
+Sözleşmeden dönme ihtimali bakımından tarafların tasfiyeyi nasıl sağlayacakları
+TBK 260'da düzenlenmiştir.
++
+[caption=""]
+.Sözleşmeden dönme
+====
+*TBK 260*: (1) Satıcı, alıcının taksitleri ödemede temerrüde düşmesi sebebiyle
+satılanın alıcıya devrinden sonra sözleşmeden dönerse, her iki taraf aldığını
+geri vermekle yükümlüdür. Satıcı, ayrıca hakkaniyete uygun bir kullanım bedeli
+ve satılanın olağandışı kullanılması sebebiyle değerinin azalması hâlinde
+tazminat da isteyebilir. Ancak satıcı, sözleşme zamanında ifa edilmiş olsaydı
+elde edecek olduğundan fazlasını isteyemez.
+
+(2) Satıcı, alıcının peşinatı ödemede temerrüde düşmesi yüzünden satılanın
+devrinden önce sözleşmeden dönerse, alıcıdan sadece ödenmeyen peşinat
+üzerinden, sözleşmeden döndüğü tarihe kadar işleyecek yasal faiz ile
+sözleşmenin kurulmasından sonra, satılanın uğramış olduğu değer kaybı sebebiyle
+tazminat isteyebilir. Ceza koşulu kararlaştırılmışsa, peşin satış bedelinin
+yüzde onunu aşamaz.
+====
++
+[caption=""]
+.Uygulama alanı
+====
+*TBK 263*: (1) Taksitle satışa ilişkin hükümler, aynı ekonomik amaçla yapılan
+işlemlere de uygulanır.
+
+(2) Bir taşınırı edinme amacıyla yapılan ödünç sözleşmelerinde satıcının,
+mülkiyeti saklı tutma kaydı ile birlikte veya bundan bağımsız olarak satış
+bedeli alacağını ödünç verene devretmesi veya satıcı ile ödünç verenin başka
+surette anlaşarak, alıcının satış bedelini daha sonra taksitler hâlinde ödemek
+üzere malın teslimini sağlamaları durumunda, taksitle satışa ilişkin hükümler
+kıyas yoluyla uygulanır. Ödünç sözleşmesinde, taksitle satış sözleşmelerine
+konulması zorunlu olan hususların yer alması şarttır. Ancak, bunlardan peşin
+satış bedeli ile toplam satış bedeli yerine, ödünç alınan miktar ile ödünç
+verene ödenecek toplam ödünç miktarı gösterilir.
+
+(3) Peşin satışla bağlantılı taksitle ödünç sözleşmelerinde, ödünç verene,
+yasal asgari peşinatın ödenmiş ve peşin satış bedelinin ödünç sözleşmesinin
+yapılması sırasında herhangi bir ilave yapılmaksızın tamamen karşılanmış olması
+hâlinde, taksitle satışa ilişkin hükümler uygulanmaz.
+
+(4) Alıcının tacir sıfatıyla hareket ettiği veya malın bir ticari işletmenin
+ihtiyacı için ya da meslekî amaçlarla satın alınması durumunda, taksitle satışa
+ilişkin hükümlerden sadece 259 uncu maddenin ikinci fıkrası, 260 ıncı maddenin
+birinci fıkrası ve 261 inci maddesi hükümleri uygulanır.
+====
+
+=== BAĞIŞLAMA SÖZLEŞMESİ
+
+* *Bağışlama sözleşmesi* TBK 285'de düzenlenmiştir.
++
+====
+*TBK 285*: (1) Bağışlama sözleşmesi, bağışlayanın sağlararası sonuç doğurmak
+üzere, malvarlığından bağışlanana karşılıksız olarak bir kazandırma yapmayı
+üstlendiği sözleşmedir.
+
+(2) Henüz edinilmemiş olan bir haktan feragat etmek veya bir mirası reddetmek,
+bağışlama değildir.
+
+(3) Ahlaki bir ödevin yerine getirilmesi de bağışlama sayılmaz.
+====
++
+Bağışlama iki taraflı bir hukuki işlemdir. Bağışlayan ile bağışlanan arasında
+yapılan bir sözleşmedir. Bu sözleşmede sadece bağışlayan taraf borç altına
+girmektedir. Diğer taraf, en azından asli edim yükümlülüğü açısından, herhangi
+bir borç altında değildir. Bu sebeple bağışlama sözleşmesi tek tarafa borç
+yükleyen bir sözleşmedir.
++
+Bağışlama sözleşmesinde bağışlayan taraf karşı tarafın malvarlığına bir
+kazandırmada bulunur. Karşı tarafın ya aktifi artar ya da pasifi azalır. Bu
+açıdan bağışlama sözleşmesi bağışlanan kişi açısından kazandırıcı işlem
+niteliği taşımaktadır.
++
+Bağışlama sözleşmesinden söz edebilmek için karşılıksız olması şarttır. Eğer
+bağışlayan karşı taraftan ivaz anlamında bir şey elde edecekse bağışlama
+sözleşmesinden söz edilemez.
++
+Bağışlama sözleşmesinden söz edebilmek için tarafların iradelerinin karşılıklı
+ve birbirine uygun olarak uyuşmuş olması gerekir. Çünkü bağışlama bir
+sözleşmedir.
++
+.Bağışlama ehliyeti
+****
+
+[caption=""]
+.Bağışlayan için
+====
+*TBK 286*: (1) Fiil ehliyetine sahip olan herkes, eşler arasındaki mal
+rejiminden veya miras hukukundan doğan sınırlamalar saklı kalmak üzere,
+bağışlama yapabilir.
+
+(2) Bağışlamayı izleyen bir yıl içinde başlatılmış bir yargılama sonucunda
+bağışlayanın, savurganlığı yüzünden kısıtlanmasına karar verilirse, o bağışlama
+mahkemece iptal edilebilir.
+====
+
+[caption=""]
+.Bağışlanan için
+====
+*TBK 287*: Fiil ehliyeti bulunmayan kişi ayırt etme gücüne sahipse, bağışlamayı
+kabul edebilir. Ancak, bağışlananın yasal temsilcisi bu kişinin bağışlamayı
+kabulünü yasaklar veya bağışlanılan şeyin geri verilmesini emrederse, bağışlama
+ortadan kalkar.
+====
+
+****
++
+[caption=""]
+.Bağışlama sözü verme
+====
+*TBK 288*: (1) Bağışlama sözü vermenin geçerliliği, bu sözleşmenin yazılı
+şekilde yapılmasına bağlıdır.
+
+(2) Bir taşınmazın veya taşınmaz üzerindeki ayni bir hakkın bağışlanması sözü
+vermenin geçerliliği, ancak resmî şekilde yapılmış olmasına bağlıdır.
+
+(3) Şekle uyulmaması sebebiyle geçersiz olan bağışlama sözü verme, bağışlayan
+tarafından yerine getirildiğinde, elden bağışlama hükmündedir. Ancak,
+geçerliliği resmî şekle bağlanmış olan bağışlamalarda bu hüküm uygulanmaz.
+====
+ 
+* Bağışlama sözleşmesinin türleri:
+
+. Elden bağışlama
++
+====
+*TBK 289*: Elden bağışlama, bağışlayanın bir taşınırını bağışlanana teslim
+etmesiyle kurulmuş olur.
+====
++ 
+Taşınır bağışlamalarında yazılı olarak yapılmamasına rağmen eğer elde bağışlama
+varsa şekle aykırılık ifa ile düzelmiştir. Taşınmazlar bakımından ise elden
+bağışlama söz konusu değildir, bağışlama vaadinin mutlaka tapuda resmi şekilde
+düzenlenmiş olması gerekir.
+. Koşullu bağışlama
++
+====
+*TBK 290*: (1) Bağışlama, bir koşula bağlanarak yapılabilir.
+
+(2) Yerine getirilmesi bağışlayanın ölümüne bağlı olan bağışlamada, vasiyete
+ilişkin hükümler uygulanır.
+====
+
+. Yüklemeli bağışlama
++
+====
+*TBK 291*: (1) Bağışlayan bağışlamasına yüklemeler koyabilir.
+
+(2) Bağışlayan, sözleşme gereğince bağışlanan tarafından kabul edilmiş olan
+yüklemelerin yerine getirilmesini isteyebilir.
+
+(3) Kamu yararına olarak bağışlamaya konulmuş olan bir yüklemenin yerine
+getirilmesini isteme yetkisi, bağışlayanın ölümünden sonra, ilgili kamu
+kurumuna geçer.
+
+(4) Bağışlama konusunun değeri, yüklemenin yerine getirilmesi masraflarını
+karşılamaz ve aşan kısım kendisine ödenmezse bağışlanan, yüklemeyi yerine
+getirmekten kaçınabilir.
+====
++
+Yükleme, bağışlanana getirilen asli bir edim yükümlülüğü değildir. Yükleme,
+ivaz oluşturmaz. 
++
+NOTE: Şarta bağlı olma ile mükeleffiyete bağlı olması arasında birtakım
+farklılıklar söz konusudur. Geciktirici şarta bağlandığında, sözleşme hüküm ve
+sonuçlarını doğurmamıştır, ancak şart gerçekleştiğinde hüküm ve sonuçlar doğar.
+Oysa mükellefiyette sözleşme hüküm ve sonuçları sözleşme kurulduğu anda doğar.
+Ayrıca geciktirici şartın yerine getirilmesi dava edilemezken, mükellefiyetin
+yerine getirilmesi dava edilebilir.
+
+. Bağışlayana dönme koşullu bağışlama
++
+====
+*TBK 292*: (1) Bağışlayan, bağışlananın kendisinden önce ölmesi durumunda,
+bağışlama konusunun kendisine dönmesi koşulunu koyabilir.
+
+(2) Bağışlama konusu, taşınmaza veya taşınmaz üzerindeki bir ayni hakka ilişkin
+ise, bağışlayana dönme koşulu tapu siciline şerh verilebilir.
+====
++
+WARNING: Burada tasarruf işlemi değil, bağışlama işlemi şarta bağlanmıştır.
+Taşınmazlarda tasarruf işlemi asla şarta bağlanamaz.
+
+[caption=""]
+.Bağışlayanın sorumluluğu
+====
+*TBK 294*: (1) Bağışlayan, bağışlamadan doğan zarardan bu zarara ağır kusuruyla
+sebep olmadıkça, bağışlanana karşı sorumlu değildir.
+
+(2) Bağışlayan, bağışlanılan şey veya alacak hakkında ayrıca garanti sözü
+vermişse, bununla sorumlu olur.
+====
+ 
+TIP: Bağışlama sözleşmesinde bağışlayan bir karşılıksız kazandırmada
+bulunmaktadır.  Dolayısıyla burada bağışlayan açısından bir yarar yoktur ve
+sorumluluğu da buna göre değerlendirilir. Ancak ağır kusuru söz konusuysa borca
+aykırılıktan sorumlu tutulabilir.
+ 
+* Bağışlama sözleşmesinin sona ermesi
++
+[caption=""]
+.Bağışlamanın geri alınması
+====
+*TBK 295*: Bağışlayan, aşağıdaki durumlardan biri gerçekleşmişse, elden
+bağışlamayı veya yerine getirdiği bağışlama sözünü geri alabilir ve
+bağışlananın istem tarihindeki zenginleşmesi ölçüsünde, bağışlama konusunun
+geri verilmesini isteyebilir:
+
+1. Bağışlanan, bağışlayana veya yakınlarından birine karşı ağır bir suç
+   işlemişse.
+
+2. Bağışlanan, bağışlayana veya onun ailesinden bir kimseye karşı kanundan
+   doğan yükümlülüklerine önemli ölçüde aykırı davranmışsa.
+
+3. Bağışlanan, yüklemeli bağışlamada haklı bir sebep olmaksızın yüklemeyi
+   yerine getirmemişse.
+====
++
+[caption=""]
+.Bağışlama sözü vermenin geri alınması ve ifadan kaçınma
+====
+*TBK 296*: (1) Bağışlama sözü veren, aşağıdaki durumlarda sözünü geri alabilir
+ve onu ifadan kaçınabilir:
+
+1. Elden bağışlanılan bir malın geri verilmesini isteyebileceği sebeplerden
+   biri varsa.
+
+2. Mali durumu, sonradan sözün yerine getirilmesini kendisi için olağanüstü
+   ağır kılacak ölçüde değişmişse.
+
+3. Bağışlama sözü verdikten sonra, kendisi için yeni aile yükümlülükleri doğmuş
+   veya bu yükümlülükleri önemli ölçüde ağırlaşmışsa.
+
+(2) Bağışlama sözü verenin borcunu ödeme güçsüzlüğü belirlenir veya iflasına
+karar verilirse, ifa yükümlülüğü ortadan kalkar.
+====
++
+[caption=""]
+.Geri alma hakkının süresi ve mirasçılara geçmesi
+====
+*TBK 297*: (1) Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir
+yıl içinde bağışlamayı geri alabilir.
+
+(2) Bağışlayan bir yıllık süre dolmadan ölürse, geri alma hakkı mirasçılarına
+geçer ve mirasçıları bu sürenin sona ermesine kadar bu hakkı kullanabilirler.
+
+(3) Bağışlayan, sağlığında geri alma sebebini öğrenememişse, mirasçıları,
+ölümünden başlayarak bir yıl içinde bağışlamayı geri alma hakkını
+kullanabilirler.
+
+(4) Bağışlanan, bağışlayanı kasten ve hukuka aykırı olarak öldürür veya onun
+geri alma hakkını kullanmasını engellerse, mirasçıları bağışlamayı geri
+alabilirler.
+====
++
+[caption=""]
+.Bağışlayanın ölümü
+====
+*TBK 298*: Aksi kararlaştırılmamışsa, dönemsel edimleri içeren bağışlama,
+bağışlayanın ölümüyle sona erer.
+====
+
+=== KİRA SÖZLEŞMESİ
+
+* *Kira sözleşmesi* TBK 299-378 arasında düzenlenmiştir.
++
+====
+*TBK 299*: Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya
+kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da
+buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.
+====
++
+.Kira sözleşmesinin unsurları
+****
+. *Kira sözleşmesine konu olabilecek bir eşya*
++
+Tüketilebilen eşyalar, kullanım sonucunda eşya yok olduğundan kira
+sözleşmesinin konusu olamaz. Bunlar dışında para değeri olan, kiraya verilip
+kullanılması mümkün olan eşyalar ve o eşyaların bütünleyici parçaları,
+eklentileri ve hatta bir kısmı dahi kira sözleşmesinin konusu olabilir.
+. *Eşyanın kullanımının veya yararlanmasının kiracıya bırakılması*
++
+Sözleşme gereğince kira sözleşmenin konusu olan eşya kiracıya teslim edilmiş
+olmalı ve kira sözleşmesi boyunca sözleşmenin amacına uygun bir şekilde
+kullanılmasına elverişli şekilde bulundurulmalıdır.
+. *Kira bedeli konusunda tarafların iradelerinin uyuşması*
++
+Kira bedelinin dönemlik olması şart değildir. Önemli olan kullanım karşılığında
+bir bedelin ödenmesidir. Kiracı kullanım karşılığında bedel değil de bir iş
+görmeyi taahhüt ederse kira sözleşmesinden bahsedilemez. 
++
+Kira bedelinin objektif ölçütlere göre belirlenebilir olması gerekir. Bazen
+kira bedeli objektif bir ölçüte bağlanmamış olabilir. Böyle bir durumda bir
+görüşe göre kira bedeli sözleşmenin objektif unsuru olduğundan kira sözleşmesi
+kurulmamıştır. İkinci görüşe göre ise, tarafların niyeti bir bedel ödemek ise
+ama bu bedelin belirlenmesi için ortada bir ölçüt yoksa bunu hakim
+belirleyebilir. _Kürsünün görüşü de bu yöndedir_.
+****
++
+.Adi kira - ürün kirası
+****
+Eşyanın kullanılmasının kiracıya bırakılması halinde *adi kira*, kullanım ile
+birlikte yararlanılmasının bırakılması halinde *ürün kirası* söz konusudur.
+ 
+Ürün kirasında malın kullanımı ve ürünleri elde etme hakkı kiracıya
+bırakılmıştır. Malı kullanmak kiracının bir yükümlülüğüdür. Adi kirada kracının
+böyle bir yükümlülüğü yoktur, kullanmasa bile bedeli ödeyecektir.
+ 
+TIP: Kiracının bir bedel ödemenin yanında elde edilecek olan ürünlerin bir
+kısmını vermeyi taahhüt ettiği durumlarda ürün kirasından söz edilebilir.
+ 
+NOTE: Öğretide tartışmalı olmakla birlikte Yargıtay'a göre eğer bir kiracı
+işletmeyi kiralamakla birlikte işletme ruhsatını da kiralayandan devralıyorsa
+burada ürün kirası söz konusudur.
+ 
+Ürün kirasında kiracı karşılık olarak bir bedel ödeyecekse *olağan ürün
+kirasıdır*. Bir bedel ödemenin yerine veya yanında elde edilen doğal ya da
+hukuki semerelerin bir kısmını kiraya verene devredecekse *iştirakli ürün
+kirası* söz konusudur.
+****
++
+Kira sözleşmesi tam iki tarafa borç yükleyen bir sözleşmedir. Kiraya veren bir
+şeyin kullanılmasını veya kullanımı ile birlikte yararlanılmasını kiracıya
+bırakmayı üstlenirken, kiracı da buna karşılık bir bedel ödeme borcu altına
+girer.
++
+Kira sözleşmesi sürekli bir borç ilişkisi kurar.
++
+Kira sözleşmesi kural olarak şekle tabi değildir. Yargıtay, kira sözleşmesinin
+kurulmuş olduğunu ileri süren kiracının bu iddiasını yazılı bir belgeyle
+kanıtlaması gerektiğini içtihat etmiştir. Aynı durum kiraya veren için de
+geçerlidir.
++
+.Kira sözleşmesinin süresi
+****
+TBK 300 kapsamında kira sözleşmeleri süresi belli olan sözleşmeler ve süresi
+belli olmayan sözleşmelere olarak ikiye ayrılmıştır.
+
+[caption=""]
+.Kira süresi
+====
+*TBK 300*: (1) Kira sözleşmesi, belirli ve belirli olmayan bir süre için yapılabilir.
+
+(2) Kararlaştırılan sürenin geçmesiyle herhangi bir bildirim olmaksızın sona
+erecek kira sözleşmesi belirli sürelidir; diğer kira sözleşmeleri belirli
+olmayan bir süre için yapılmış sayılır.
+====
+
+Kural olarak belirli süreli kira sözleşmeleri o sürenin sona ermesiyle
+kendiliğinden sona erer. Sözleşmenin sona ermesi için tarafların fesih
+beyanında bulunmalarına gerek yoktur. Ancak belirli süreli kira sözleşmelerine
+sürenin sonunda fesih beyanında bulunulmazsa sözleşmenin yenilenmiş sayılacağı
+yönünde bir hüküm de koyulabilir.
+
+NOTE: Konut ve çatılı işyeri kirası söz konusu olan sözleşmelerde süre
+kararlaştırılmış olsa bile o sürenin sonunda sözleşme kendiliğinden sona ermez.
+Sürenin sona ermesi halinde kiracı 15 gün önceden bildirimde bulunmazsa, o
+sözleşme 1 yıl daha kendiliğinden yenilenir. Bunun aksi taraflarca
+kararlaştırılamaz.
+****
+
+* *Kiraya verenin borçları* TBK 301-312 arasında düzenlenmiştir.
++
+Kiraya veren gerçek kişi ya da tüzel kişi olabilir. Tüzel kişi, özel hukuk
+kişisi olabileceği gibi kamu hukuku tüzel kişisi de olabilir. Kiracı özel kişi
+olduğu sürece kiraya verenin kamu tüzel kişisi olmasının bir önemi yoktur. 
++
+Kiraya veren sınırlı ehliyetsiz ise yasal temsilcisinin onayı gerekir. Eğer
+kiraya veren vesayet altındaysa bir yıl veya daha uzun süreli ürün kiralarında
+ve üç yıl veya daha uzun süreli taşınmaz kiralarında vesayet makamının da onayı
+gerekir.
++
+Kiraya verilecek olan bir aile konutuysa TMK 194 gereği eşin açık rızası
+olmaksızın malik eş aile konutunu üçüncü kişiye kiralayamaz. 
++
+TIP: Kiraya veren malik olabilir de olmayabilir de. Malik olmak kira
+sözleşmesinin kurulması açısından şart değildir. Zira kira sözleşmesi bir
+borçlandırıcı işlemdir. Kira sözleşmesi geçerli ancak malik, kiracının
+kiralanandan yararlanmasına engel olacağı için kiraya veren kiracıya karşı
+zapttan doğan sorumluluk hükümlerine göre sorumlu olacaktır.
++
+[caption=""]
+.Teslim borcu
+====
+*TBK 301*: Kiraya veren, kiralananı kararlaştırılan tarihte, sözleşmede
+amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu
+durumda bulundurmakla yükümlüdür. Bu hüküm, konut ve çatılı işyeri kiralarında
+kiracı aleyhine değiştirilemez; diğer kira sözleşmelerinde ise, kiracı aleyhine
+genel işlem koşulları yoluyla bu hükme aykırı düzenleme yapılamaz.
+====
++
+TBK 301'de kiralananın teslimi ile kiraya verenin kendisi veya yetkili
+temsilcisi tarafından kiralananın doğrudan zilyetliğinin kiracıya geçirilmesi
+kastedilmiştir. Dolaylı zilyetliğin geçirilmesi TBK 301 anlamında teslim
+sayılmaz.
++
+TBK 301'deki teslim borcu bakımından kira ilişkisi sürekli borç ilişkisi
+özelliği taşır. Bu sebeple sözleşme yürürlükte olduğu süre kiralanın sözleşmeye
+uygun şekilde bulundurulması kiraya verenin yüklendiği bir borçtur. Örneğin
+kiracıya konut olarak yararlanacağı bir taşınmaz teslim edildiğinde kiraya
+verenin borcu sona ermez. Kira ilişkisinin devamı boyunca kiracının o
+taşınmazdan konut olarak yararlanabilmesi için gerekli bakım ve tamirlerin
+kiraya veren tarafından yapılması zorunludur. Bu borç özellikle *konut ve
+çatılı işyeri* kiralarında hiçbir şekilde sınırlandırılamaz.
++
+[caption=""]
+.Vergi ve benzeri yükümlülüklere katlanma borcu
+====
+*TBK 302*: Kiralananla ilgili zorunlu sigorta, vergi ve benzeri yükümlülüklere,
+aksi kararlaştırılmamış veya kanunda öngörülmemiş ise, kiraya veren katlanır.
+====
++
+[caption=""]
+.Yan giderlere katlanma borcu
+====
+*TBK 303*: Kiraya veren, kiralananın kullanımıyla ilgili olmak üzere, kendisi
+veya üçüncü kişi tarafından yapılan yan giderlere katlanmakla yükümlüdür.
+====
++
+Bu maddeyle birlikte, TBK 317 kiralananın bakımı ve temizliğiyle ilgili
+masrafların kiracı tarafından yapılmasını, TBK 341 de konut ve çatılı işyeri
+kiralarında aksi kararlaştırılmamışsa aydınlatma, ısıtma gibi giderlerin kiracı
+tarafından ödenmesi gerektiğini düzenlemiştir.
++
+[NOTE]
+====
+TBK 303, 317 ve 341'in birbirleriyle nasık uygulanabileceği öğretide
+tartışmalıdır. _Kürsünün benimsediği görüşe göre_:
+
+*Yan gider*, kiralananın ya da ona tahsis edilen ortak yerlerin kullanımı ile
+ilgili olarak *kiraya veren ya da üçüncü kişi tarafından* yapılan harcamalardır.
+Bu tanımdan hareketle kiracı tarafından yapılan masraf ve giderler yan gider
+kavramına girmez. 
+
+TBK 317 uyarınca *olağan bakım ve temizlik giderlerine* kiracı katlanmalıdır.
+Yine kiracının yapmış olduğu elektrik, su giderleri yan gider niteliği taşımaz
+ve bunlara da kiracı katlanmalıdır.
+
+*Konut ve çatılı işyeri* söz konusu ise TBK 341'deki özel hüküm uygulanacak ve
+aksi kararlaştırılmamışsa bu yan giderlere kiracı katlanacaktır. 
+
+Konut ve çatılı işyeri söz konusu değil ise TBK 303 uygulanacak ve bunlara
+kiraya veren katlanacaktır. TBK 303'ün emredici nitelikte olup olmadığı
+öğretide tartışmalıdır. _Kürsüye göre_ emredici nitelikte değildir, aksi
+kararlaştırılabilir. 
+
+Eğer kiralananın özüyle ilgili kalıcı olarak yapılacak bir gider varsa bunlara
+kiracı katlanmamalıdır. Zira kira süresince kiracı bundan yararlanacak olsa
+bile malın özüne yapılmış bir katkı olduğundan bundan asıl faydanalanacak olan
+malın malikidir.
+====
++
+Kiraya veren kiralanandaki ayıplardan sorumludur. Özellikle fesih hakkının
+kullanılabilmesi için *önemli ayıp* olması gereklidir.  Kanun koyucu önemli
+ayıp - önemsiz ayıp ayrımını açıklamamıştır. Öğretiye göre kullanım amacını
+bütünüyle engelleyen, kiracının kiralanandan beklediği faydayı önemli ölçüde
+azaltan eksiklikler varsa önemli ayıptır.
++
+*Maddi ayıp* kiralananın fiziksel özelliklerindeki eksikliklerdir. *Hukuki
+ayıp*, kiralananın bir özelliği dolayısıyla kiracının işletme ruhsatı, iskan
+ruhsatı alamadığı hallerde ortaya çıkar. *Ekonomik ayıp*, kiracının
+kiralanandan beklediği ekonomik faydaları azaltan veya ortadan kaldıran
+ayıplardır. *Manevi ayıp* ise kiracının ve ailesinin kiraladığı yerden huzurlu
+bir şekilde yararlanmasına engel olan ayıplardır.
++
+Sözleşme kurulurken kiracı ayıbı biliyorsa kiraya veren ayıptan sorumlu olmaz.
+Bunun iki istisnası vardır: Kiraya veren bu ayıbı gidereceğini taahhüt etmiş
+olabilir ya da ayıp kiracının ve onunla birlikte yaşayan kimselerin sağlığını
+tehdit edecek bir boyutta olabilir. Bu iki hal dışında kiracı ayıbı teslim
+alırken biliyorsa, ayıptan doğan çekincelerini saklı tutarak teslim aldığını
+belirtmelidir. Yoksa ayıptan doğan haklarından feragat etmiş sayılır.
++
+Kiraya verenin ayıptan doğan sorumluluğu kaldırılabilir ancak TBK 301 gözönünde
+bulundurulmalıdır. TBK 301'e göre konut ve çatılı işyeri kiralarında ayıptan
+doğan sorumluluğun ortadan kaldırılması mümkün değildir. Sorumluluğu kaldıran
+veya sınırlandıran hallerin genl işlem koşullarında yer alması halinde yine
+geçersiz sayılır. 
++
+TBK 318 uyarınca kiracının, tespit etmiş olduğu ayıpları kiraya verene bildirme
+borcu vardır.
++
+[caption=""]
+.Ayıpları kiraya verene bildirme borcu
+====
+*TBK 318*: Kiracı, kendisinin gidermekle yükümlü olmadığı ayıpları kiraya
+verene gecikmeksizin bildirmekle yükümlüdür; aksi takdirde bundan doğan
+zarardan sorumludur.
+====
++
+Ayıbın ne zaman ortaya çıktığı kiracının haklarını belirlemek açısından önem
+taşır. 
++
+.Teslim anındaki ayıp
+****
+
+[caption=""]
+.Kiralananın teslim anındaki ayıplarından sorumluluk
+====
+*TBK 304*: (1) Kiralananın önemli ayıplarla teslimi hâlinde kiracı, borçlunun
+temerrüdüne veya kiraya verenin kiralananın sonradan ayıplı duruma gelmesinden
+doğan sorumluluğuna ilişkin hükümlere başvurabilir.
+
+(2) Kiralananın önemli olmayan ayıplarla tesliminde ise kiracı, kiralananda
+sonradan ortaya çıkan ayıplardan dolayı kiraya verenin sorumluluğuna ilişkin
+hükümlere başvurabilir.
+====
+
+. Kiracı ifayı reddedip kiraya vereni borçlu temerrüdüne düşürebilir. Bu
+durumda temerrüt hükümleri uyarınca kiraya verene bir süre vermelidir.
+
+.. Sürenin semeresiz geçirilmesi halinde olumlu zararın tazmini isteyebilir.
+.. Sürenin semeresiz geçirilmesi halinde sözleşmeden dönerek olumsuz zararın
+tazminini isteyebilir.
+
+. Kiracı ifayı reddetmek yerine, ayıp bakımından çekince belirterek eşyayı
+teslim alabilir ve teslimden sonraki ayıp hükümlerine dayanabilir.
+****
++
+.Teslimden sonraki ayıp
+****
+
+====
+*TBK 305*: (1) Kiralanan sonradan ayıplı duruma gelirse kiracı, kiraya verenden
+ayıpların giderilmesini veya kira bedelinden ayıpla orantılı bir indirim
+yapılmasını ya da zararının giderilmesini isteyebilir. Ancak, zararın
+giderilmesi istemi diğer seçimlik hakların kullanılmasını önlemez.
+
+(2) Önemli ayıp durumunda kiracının sözleşmeyi fesih hakkı saklıdır.
+====
+
+[caption=""]
+.Ayıbın giderilmesini isteme ve fesih
+====
+*TBK 306*: (1) Kiracı, kiraya verenden kiralanandaki ayıbın uygun bir sürede
+giderilmesini isteyebilir; bu sürede ayıp giderilmezse kiracı, ayıbı kiraya
+veren hesabına gidertebilir ve bundan doğan alacağını kira bedelinden
+indirebilir veya kiralananın ayıpsız bir benzeri ile değiştirilmesini
+isteyebilir.
+
+(2) Ayıbın, kiralananın öngörülen kullanıma elverişliliğini ortadan kaldırması
+ya da önemli ölçüde engellemesi ve verilen sürede giderilmemesi hâlinde kiracı,
+sözleşmeyi feshedebilir.
+
+(3) Kiraya veren, kiralanandaki ayıbı gidermek yerine, uygun bir süre içinde
+ayıpsız benzeriyle değiştirebilir.
+
+(4) Kiraya veren, kiracıya aynı malın ayıpsız bir benzerini hemen vererek ve
+uğradığı zararın tamamını gidererek, onun seçimlik haklarını kullanmasını
+önleyebilir.
+====
+
+[caption=""]
+.Kira bedelinin indirilmesi
+====
+*TBK 307*: Kiracı, kiralananın kullanımını etkileyen ayıpların varlığı hâlinde,
+bu ayıpların kiraya veren tarafından öğrenilmesinden ayıbın giderilmesine kadar
+geçen süre için, kira bedelinden ayıpla orantılı bir indirim yapılmasını
+isteyebilir.
+====
+
+[caption=""]
+.Zararın giderimi
+====
+*TBK 308*: Kiraya veren, kusuru olmadığını ispat etmedikçe, kiralananın ayıplı
+olmasından doğan zararları kiracıya ödemekle yükümlüdür.
+====
+****
++
+.Teslimden sonraki ayıpta kiracının hakları
+****
+. *Ayıpların giderilmesi*: Ayıpların giderilmesi talebi ileri sürülmesi gereken
+birinci taleptir. Kiracı kiraya verene uygun bir süre verdikten sonra süre
+içerisinde kiraya veren ayıbı giderirse sorun ortadan kalkar. Kiracı ayıbın
+giderilmesini beklediği sürede zarara uğradıysa bunun giderilmesini
+isteyebilir. Verilen süre içerisinde ayıp giderilmezse kiracı ayıbı kendisi
+giderip yaptığı masrafı kiraya verenden alabilir veya kira bedelinden
+indirebilir.
++
+Eğer ayıp önemli bir nitelikteyse, kiralananın kullanımını tamamen engelliyorsa
+kiracının kendisinin giderip gideremeyeceği tartışmalıdır. Bir görüşse göre
+önemli bir ayıp söz konusu olduğunda mutlaka mahkemeden karar alınmalıdır.
+Karar olmaksızın kendisi giderirse masraf kira hukukuna göre değil vekaletsiz
+iş görme hükümlerince kiraya verenden alınır. Diğer bir görüşe göre ise kiracı
+ayrım yapmadan her türlü ayıbı giderebilmeli ve masrafını kiraya verenden
+alabilmelidir.
++
+TBK 306'ya göre kiralananın ayıpsız bir benzeri de talep edilebilir. Bu ancak
+birden çok aynı veya benzer eşyanın bulunması ihtimalinde söz konusu olur.
+. *Sözleşmenin feshi*: Önemli bir ayıp söz konusuysa ve verilen sürede ayıp
+giderilmemişse kiracı sözleşmeyi feshedebilecektir. Bu sisteme göre kiracı
+doğrudan doğruya sözleşmenin feshedilmesini isteyememektedir.
+. *Kira bedelinin ayıp oranında indirilmesi*: Kira bedelinin indirilmesi talebi
+de kiracının ayıbının giderilmesi talebi bakımından ikincil bir haktır. Kiracı
+ayıpların giderilmesi için kiraya verene verdiği süre içerisinde maldan hiç
+yararlanamamış ya da kısıtlı yararlanmış olabilir. BU oran gözetilerek
+bilirkişiden mevut kira bedelinde indirim yapılması istenir.
++
+Öğretide kira bedelinin indirilmesi talebinin ikincil bir talep olmadığı,
+kiracının dilerse en başta da ileri sürebileceği bir hak olduğu ileri
+sürülmektedir.
++
+Uygulanacak zamanaşımı açısından açık bir düzenleme yoktur. _Kürsünün kanaatine
+ve baskın görüşe göre_ on yıllık zamanaşımı uygulancaktır. Bu zamanaşımı süresi
+ayıbın ortaya çıktığı tarihten itibaren başlar. Eğer kira bedeli önceden
+ödenmiş ise kira bedelinin indirilmesi talebi, bir görüşe sebepsiz zenginleşme
+hükümlerince iade talebi olarak yansıyacaktır ve zamanaşımı süresi 2 ve 10
+yıllık süreler tabidir. Diğer bir görüşe göre ise sözleşmesel nitelikte bir
+iade talebi olduğundan TBK 147'deki beş yıllık zamanaşımı süresi uygulanır.
+. *Tazminat talebi*: TBK 305/1 son cümleye göre tazminat talebi diğer hakların
+kullanılmasını engellemez. Tazminat talebi diğer taleplerle birlikte ileri
+sürülebileceği gibi ayrı olarak da talep edilebilir. Tazminat talebi için
+kiraya verenin kusuru aranır. TBK 112 uygulanır ve kusur karinesi geçerlidir.
+Tazminat olumlu zararın tazminine yöneliktir.
+
+Kiraya veren, kiracı seçimlik haklarını kullanmadan önce malın ayıpsız bir
+benzerini verir ve kiracının tüm zararlarını giderirse artık kiracı ayıptan
+doğan haklarını kullanamaz.
+****
++
+[caption=""]
+.Zapttan sorumluluk
+====
+*TBK 309*: Bir üçüncü kişinin kiralananda kiracının hakkıyla bağdaşmayan bir
+hak ileri sürmesi durumunda kiraya veren, kiracının bildirimi üzerine davayı
+üstlenmek ve kiracının uğradığı her türlü zararı gidermekle yükümlüdür.
+====
++
+Hak sahibi olan üçüncü kişinin zapta girişmesinin bir dava yoluyla mı olması
+gerektiği yoksa dava dışı yollarla da ileri sürülüp sürülemeyeceği
+tartışmalıdır. Baskın görüş dava yoluyla ileri sürülmesi gerektiği yönündedir.
++
+Kiralananın el değiştirmesi hali TBK 310'da düzenlenmiştir.
++
+[caption=""]
+.Kiralananın el değiştirmesi
+====
+*TBK 310*: Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el
+değiştirirse, yeni malik kira sözleşmesinin tarafı olur.
+====
++
+Kanun gereği sözleşmenin tarafı haline gelen yeni malik ancak kanunda
+belirtilen sebeplere dayanarak sözleşmeyi sona erdirebilir. Taşınır kiraları
+için belirli bir sözleşme varsa o sürenin bitmesi beklenmelidir, belirsiz
+süreli sözleşmelerde fesih ihbarı ile sona erdirilebilr.
++
+Konut ve çatılı işyeri kiralarında yeni malik sırf bu sebeple tahliye
+istemesini sağlayan TBK 351 vardır. 
++
+[caption=""]
+.Yeni malikin gereksinimi
+====
+*TBK 351*: (1) Kiralananı sonradan edinen kişi, onu kendisi, eşi, altsoyu,
+üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut veya
+işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa, edinme tarihinden
+başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla,
+kira sözleşmesini altı ay sonra açacağı bir davayla sona erdirebilir.
+
+(2) Kiralananı sonradan edinen kişi, dilerse gereksinim sebebiyle sözleşmeyi
+sona erdirme hakkını, sözleşme süresinin bitiminden başlayarak bir ay içinde
+açacağı dava yoluyla da kullanabilir.
+====
++
+TIP: Kira sözleşmesinden doğan hak tapu kütüğüne şerh edildiyse yeni malik TBK
+351'e dayanamaz.
++
+Malik eğer kiracının haklarıyla bağdaşmayan üçüncü kişiye bir sınırlı ayni hak
+tesis ederse TBK 311 uygulanır.
++
+[caption=""]
+.Üçüncü kişinin sınırlı ayni hak sahibi olması
+====
+*TBK 311*: Sözleşmenin kurulmasından sonra üçüncü bir kişi, kiralanan üzerinde
+kiracının hakkını etkileyen bir ayni hak sahibi olursa, kiralananın el
+değiştirmesiyle ilgili hükümler kıyas yoluyla uygulanır.
+====
+
+
+* *Kiracının borçları* TBK 313-319 arasında düzenlenmiştir.
++
+*Kiracı* gerçek ya da tüzel kişi olabilir. 
++
+Eğer kiracı birden çoksa kiracılara yapılacak tebligatlar tüm kiracılara
+gönderilir. Kira bedelini ödeyemedikleri için kiraya veren tahliye davası
+açarsa tahliye davası bütün kiracılara açılmalıdır. Eğer aksi
+kararlaştırılmamışsa ya da kanundan doğan özel bir hüküm yoksa kira bedelinden
+dolayı birden çok kiracı kısmi borçlu olur. Birden çok kiracının olduğu bir
+sözleşmenin feshi için fesih beyanı bütün kiracılar birlikte yapmalıdır. 
++
+Kiralanan bir aile konutuysa kira sözleşmesinin tarafı olan kiracı, eşinin açık
+rızası olmadan kira sözleşmesini feshedemez. 
++
+Kiracının asli edimi, kiralananı kullanma karşılığında kira bedeli ödemektir.
+Kira bedelinin ödendiğinin ispatı kiracının yükümlülüğüdür. Kira bedeli HMK'da
+belirtilen sınırı aşıyorsa ödediği iddiasını yazılı delil ile ispat etmeli,
+makbuz almalıdır. Eğer elinde kira bedelini ödediğine dair belge yoksa ve
+kiraya veren bu durumu kabul etmiyorsa tekrar kira bedeli ödemek zorunda
+kalabilir. Bu çerçevede TBK hükümleri gereğince, eğer kira bedeli ödendiğine
+dair makbuz alınırsa daha önceki kira bedellerinin de ödenmiş olduğuna dair
+karine oluşturur. Bu karine çürütülmek isteniyorsa makbuza daha önceki
+bedellerin ödenmediğine dair çekince konulabilir.
++
+Kira bedeli, kiraya verene veya temsilcisine ödenmelidir. Kiralanan el
+değiştirmişse TBK 310 uyarınca kira sözleşmesinin tarafı değişmiştir. Devir
+anından itibaren yeni malik kira sözleşmesinin tarafı haline gelir. Bu tarihten
+itibaren bedelin yeni malike ödenmesi gerekir. Kiracı kiralananın el
+değiştirdiğini bilmiyorsa TBK 186'ya kıyasen kiracıya kiralananın devredildiği
+bildirilmemişse ve o kiracı iyiniyetli şekilde eski kiraya verene kira bedelini
+ödemekle borcundan kurtulur.
++
+Kira bedelinin ne zaman ödeneceği genellike dönemsel olarak kararlaştırılır.
+Taraflar kararlaştırmamışlarsa TBK 314 uygulanır.
++
+[caption=""]
+.İfa zamanı
+====
+*TBK 314*: Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve
+gerekiyorsa yan giderleri, her ayın sonunda ve en geç kira süresinin bitiminde
+ödemekle yükümlüdür.
+====
++
+Yargıtay uygulamasında taşınmaz kiralarında her ayın başında peşin olarak kira
+bedelinin ödenmesi gerektiğine hükmetmektedir.
++
+Kira bedelinin nerede ödeneceği taraflarca kararlaştırılmamışsa, bu borç para
+borcu olduğundan TBK 89 uyarınca götürülecek borçtur ve kiraya verenin yerleşim
+yerinde ifa edilir.
++
+NOTE: Konut ve çatılı işyeri kiralarında Gelir Vergisi Genel Tebliği'ne göre
+500 TL'yi aşan kira bedellerinin banka ya da posta aracılığıyla ödenmesi
+zorunludur. 
++
+Taraflar kira bedelini serbestçe belirleyebilirler. Fakat konut ve çatılı
+işyeri kiraları bakımından TBK 344, kira bedelinin sonraki yıllarda nasıl
+belirlenmesi gerektiğinin sınırlarını çizmiştir. TBK 344 emredici bir maddedir. 
++
+====
+*TBK 344*: (1) Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline
+ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış
+oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli
+kira sözleşmelerinde de uygulanır.
+
+(2) Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira
+yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim
+tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir.
+
+(3) Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş
+yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve
+bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira
+bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın
+durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde
+belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira
+bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir.
+
+(4) Sözleşmede kira bedeli yabancı para olarak kararlaştırılmışsa, beş yıl
+geçmedikçe kira bedelinde değişiklik yapılamaz. Ancak, bu Kanunun, “Aşırı ifa
+güçlüğü” başlıklı 138 inci maddesi hükmü saklıdır. Beş yıl geçtikten sonra kira
+bedelinin belirlenmesinde, yabancı paranın değerindeki değişiklikler de göz
+önünde tutularak üçüncü fıkra hükmü uygulanır.
+====
++
+Konut ve çatılı işyeri kiraları açısından kiracı tüzel kişi veya tacirse Eski
+Borçlar Kanunu'na başvurulur. Eski kanuna ve Yargıtay'ın esaslarına göre tefe
+ve tüfenin toplamı alınır ve ikiye bölünür. Bu oranı sözleşmelerde aşmak mümkün
+değildir.
++
+Uygulamada kira bedeli ile ilgili iki dava vardır: Uyarlama davası ve kira
+bedelinin tespiti davası. Uyarlama davası, enflasyon oranlarının çok yüksek
+olması nedeniyle kiracıları ve enflasyon oranlarının yüksekliği sebebiyle kira
+bedelinin çok düşük kaldığı hallerde kiraya verenin başvurabileceği bir
+yoldur. Sulh hukuk mahkemelerinde açılır, açıldıktan sonra gelecek için hüküm
+ifade eder. 
++
+Kira bedelinin tespiti davası, tarafların kira bedelinin belirlenmesinde
+anlaşamadıkları hallerde açılabilir. Bazı koşulların varlığı halinde geçmişe
+yönelik olarak da hüküm ifade edebilir.
++
+[caption=""]
+.Dava açma süresi ve kararın etkisi
+====
+*TBK 345*: (1) Kira bedelinin belirlenmesine ilişkin dava her zaman açılabilir.
+
+(2) Ancak, bu dava, yeni dönemin başlangıcından en geç otuz gün önceki bir
+tarihte açıldığı ya da kiraya veren tarafından bu süre içinde kira bedelinin
+artırılacağına ilişkin olarak kiracıya yazılı bildirimde bulunulmuş olması
+koşuluyla, izleyen yeni kira dönemi sonuna kadar açıldığı takdirde, mahkemece
+belirlenecek kira bedeli, bu yeni kira döneminin başlangıcından itibaren
+kiracıyı bağlar.
+
+(3) Sözleşmede yeni kira döneminde kira bedelinin artırılacağına ilişkin bir
+hüküm varsa, yeni kira döneminin sonuna kadar açılacak davada mahkemece
+belirlenecek kira bedeli de, bu yeni dönemin başlangıcından itibaren geçerli
+olur.
+====
++
+[caption=""]
+.Kiracının temerrüdü
+====
+*TBK 315*: (1) Kiracı, kiralananın tesliminden sonra muaccel olan kira bedelini
+veya yan gideri ödeme borcunu ifa etmezse, kiraya veren kiracıya yazılı olarak
+bir süre verip, bu sürede de ifa etmeme durumunda, sözleşmeyi feshedeceğini
+bildirebilir.
+
+(2) Kiracıya verilecek süre en az on gün, konut ve çatılı işyeri kiralarında
+ise en az otuz gündür. Bu süre, kiracıya yazılı bildirimin yapıldığı tarihi
+izleyen günden itibaren işlemeye başlar.
+====
++
+Kira bedelinin ödenmesini güvence altına almak amacıyla kanun koyucu kiraya
+verene hapis hakkı tanımıştır. Hapis hakkının kullanılması bakımından kiraya
+verenin hapis hakkı ancak taşınmaz kiralarında söz konusudur.
++
+====
+*TBK 336*: (1) Taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve
+işlemekte olan altı aylık kira bedelinin güvencesi olmak üzere, kiralananda
+bulunan ve kiralananın döşenmesine veya kullanılmasına yarayan taşınırlar
+üzerinde hapis hakkına sahiptir.
+
+(2) Kiraya verenin hapis hakkı, alt kiracının asıl kiracıya olan kira borcunu
+aşmamak üzere, alt kiracının kiralanana getirdiği aynı nitelikteki taşınırları
+da kapsar.
+
+(3) Hapis hakkı, kiracının haczedilemeyen malları üzerinde kullanılamaz.
+====
++
+[caption=""]
+.Üçüncü kişilere ait olan eşya
+====
+*TBK 337*: (1) Üçüncü kişilerin, kiraya verenin kiracıya ait olmadığını bildiği
+veya bilmesi gerektiği eşya ile çalınmış, kaybolmuş veya başka bir biçimde
+malikinin elinden iradesi dışında çıkmış eşya üzerindeki hakları, kiraya
+verenin hapis hakkından önce gelir.
+
+(2) Kiraya veren, kiracı tarafından kiralanana getirilmiş olan taşınırların
+kiracının mülkiyetinde olmadığını kira sözleşmesi devam ederken öğrendiği
+hâlde, sözleşmeyi en yakın fesih döneminin sonu için feshetmezse, bu eşya
+üzerindeki hapis hakkını kaybeder.
+====
++
+[caption=""]
+.Hakkın kullanılması
+====
+*TBK 338*: (1) Kiracı, taşınmak veya kiralananda bulunan taşınırları başka bir
+yere taşımak istediği takdirde, kiraya veren, alacağını güvence altına almasını
+sağlayacak miktardaki taşınırı, sulh hâkiminin veya icra müdürünün kararıyla
+alıkoyabilir.
+
+(2) Alıkoyma kararının konusu olan eşya, gizlice veya zorla götürülürse,
+götürülmelerinden başlayarak on gün içinde kolluk gücünün yardımıyla kiralanana
+geri getirilir.
+====
++
+[caption=""]
+.Özenle kullanma ve komşulara saygı gösterme borcu
+====
+*TBK 316*: (1) Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve
+kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı
+göstermekle yükümlüdür.
+
+(2) Kiracının bu yükümlülüğüne aykırı davranması durumunda kiraya veren, konut
+ve çatılı işyeri kirasında, en az otuz gün süre vererek, aykırılığın
+giderilmesi, aksi takdirde sözleşmeyi feshedeceği konusunda yazılı bir ihtarda
+bulunur. Diğer kira ilişkilerinde ise, kiraya veren, kiracıya önceden bir
+ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi hemen feshedebilir.
+
+(3) Konut ve çatılı işyeri kirasında, kiracının kiralanana kasten ağır bir
+zarar vermesi, kiracıya verilecek sürenin yararsız olacağının anlaşılması veya
+kiracının bu yükümlülüğe aykırı davranışının kiraya veren veya aynı taşınmazda
+oturan kişiler ile komşular bakımından çekilmez olması durumlarında kiraya
+veren, yazılı bir bildirimle sözleşmeyi hemen feshedebilir.
+====
++
+[caption=""]
+.Ayıpların giderilmesine ve kiralananın gösterilmesine katlanma borcu
+====
+*TBK 319*: (1) Kiracı, kiralananın ayıplarının giderilmesine ya da zararların
+önlenmesine yönelik çalışmalara katlanmakla yükümlüdür.
+
+(2) Kiracı, bakım, satış ya da sonraki kiralama için zorunlu olduğu ölçüde,
+kiraya verenin ve onun belirlediği üçüncü kişinin kiralananı gezip görmesine
+izin vermekle yükümlüdür.
+
+(3) Kiraya veren, çalışmaları ve kiralananın gezilip görüleceğini uygun bir
+süre önce kiracıya bildirmek ve bunların yapıldığı sırada kiracının yararlarını
+göz önünde tutmak zorundadır.
+
+(4) Kiracının kira bedelinin indirilmesine ve zararının giderilmesine ilişkin
+hakları saklıdır.
+====
+
+* Kiraya veren tarafından kiralananda yenilik ve değişiklik yapılabilir.
++
+====
+*TBK 320*: (1) Kiraya veren, kiralananda, kira sözleşmesinin feshini
+gerektirmeyen ve kiracıdan katlanması beklenebilecek olan yenilik ve
+değişiklikler yapabilir.
+
+(2) Bu yenilik ve değişikliklerin yapılması sırasında kiraya veren, kiracının
+menfaatlerini gözetmekle yükümlüdür.  Kiracının, kira bedelinin indirilmesine
+ve zararının giderilmesine ilişkin hakları saklıdır.
+====
++
+TBK 320 ayıp veya zararın giderilmesinin ya da yenilik ve değişiklik
+yapılmasının zorunlu olmadığı durumlarda söz konusu olur. Kiraya veren böyle
+bir değişiklik yapacaksa kiracının rızasını almak zorunda değildir. Kira
+sözleşmesinde yapılacak düzenleme ile böyle bir rızanın alınması şart da
+kılınabilir. Ancak böyle bir düzenleme yoksa kiraya veren, kiracının rızasını
+almadan yapacağı değişikliklerde kiracının menfaatlerini gözetecektir. Burada
+ölçüt *dürüstlük kuralıdır*.
++
+Kiraya verenin yapacağı değişiklik, kira sözleşmesinin feshini gerektirmeyecek
+boyutta olmalıdır. 
++
+====
+*TBK 350*: Kiraya veren, kira sözleşmesini;
+
+. Kiralananı kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü
+olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma
+zorunluluğu varsa,
+. *Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi
+ya da değiştirilmesi gerekli ve bu işler sırasında kiralananın kullanımı
+imkânsız ise*,
+
+belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde
+kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için
+öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde
+açacağı dava ile sona erdirebilir.
+====
++
+Yapılacak değişiklik kiracının kiralanandan yararlanmasını engellememeli ya da
+en az şekilde engellemelidir. Kiracının kiralananı kullanmasının engellendiği
+oranda kira bedelinden indirim yapılması gerekir. Ayrıca kiracı bir zarar
+görmüşse bunların da kiraya veren tarafından giderilmesi gerekir.
+
+* Kira sözleşmesinde kiracının da değişiklik yapabileceği düzenlenmişse
+kiralanana zarar vermemek koşuluyla yenilik ve değişiklik yapılabilir.
+Sözleşmede böyle bir düzenleme yoksa kiracı ancak kiraya verenin yazılı
+rızasıyla böyle bir değişiklik yapabilir.
++
+====
+*TBK 321*: (1) Kiracı, kiraya verenin yazılı rızasıyla kiralananda yenilik ve
+değişiklikler yapabilir.
+
+(2) Yenilik ve değişikliklere rıza gösteren kiraya veren, yazılı olarak
+kararlaştırılmış olmadıkça, kiralananın eski durumuyla geri verilmesini
+isteyemez.
+
+(3) Kiracı, aksine yazılı bir anlaşma yoksa, kiraya verenin rızasıyla yaptığı
+yenilik ve değişiklikler sebebiyle kiralananda ortaya çıkan değer artışının
+karşılığını isteyemez.
+====
+
+[caption=""]
+.Alt kira ve kullanım hakkının devri
+====
+*TBK 322*: (1) Kiracı, kiraya verene zarar verecek bir değişikliğe yol açmamak
+koşuluyla, kiralananı tamamen veya kısmen başkasına kiraya verebileceği gibi,
+kullanım hakkını da başkasına devredebilir.
+
+(2) Kiracı, konut ve çatılı işyeri kiralarında, kiraya verenin yazılı rızası
+olmadıkça, kiralananı başkasına kiralayamayacağı gibi, kullanım hakkını da
+devredemez.
+
+(3) Alt kiracı, kiralananı kiracıya tanınandan başka biçimde kullandığı
+takdirde kiracı, kiraya verene karşı sorumlu olur. Bu durumda kiraya veren,
+kiracısına karşı sahip olduğu hakları alt kiracıya veya kullanım hakkını
+devralana karşı da kullanabilir.
+====
+
+* Kiralanan *konut veya çatılı işyeri değilse*, kiraya verene zarar vermemek
+koşuluyla alt kira sözleşmesi yapabilir. 
++
+TIP: Kira sözleşmesi borç doğurucu bir işlemdir ve kiraya veren konumunda olan
+kişinin kiralanana malik olmasına gerek yoktur.
+ 
+* Kiralanan *konut veya çatılı işyeri* ise sözleşmede aksine hüküm olmadıkça alt
+kira sözlşemesi yapılamaz. Alt kira sözleşmesinin yapılmış olması TBK 316'ya
+aykırılık oluşturur.
++
+NOTE: Böyle bir durumda kiraya veren TBK 316 uyarınca kiracıya 30 gün süre
+vererek alt kira sözleşmesini sonlandırmasını isteyebilir. Süre içerisinde alt
+kira sözleşmesi sonlandırılmazsa sözleşmeyi feshedebilir. Ayrıca taşınmazların
+haksız işgali halinde kaymakamlıklara başvurularak işgalin idari mercilerce
+sonlandırılmasını isteme hakkıda vardır.
++
+Alt kira sözleşmesi yapma yetkisi, kira sözleşmesinin yapılmasından sonra da
+verilebilir. Bu yetki kiraya verenin yazılı beyanıyla verilmelidir.
+
+* Konut ve çatılı işyeri kirasında verilen alt kira sözleşmesi yapma
+yetkisi üzerine kiracı, kiralananı kiralamışsa alt kiracı bunu kiracıya
+tanınan şekilde kullanmalıdır. Alt kiracının bu şekilde kullanmaması halinde
+kiracı, kiraya verene karşı sorumlu olacaktır. Alt kiracının özen borcuna
+aykırı davranışları kiracının kiraya verene karşı sorumluluğuna yol açar.
++
+Bu durumda aralarında sözleşme olmamasına rağmen kiraya veren sahip olduğu
+hakları alt kiracıya karşı da ileri sürebilir.
+
+* Kiracı, kira sözleşmesinden doğan *kullanım hakkını* yazılı şekilde yapılacak
+bir alacağın temliki sözleşmesi ile üçüncü kişiye devredebilir. *Konut ve
+çatılı işyeri* kiralarında bunun için kiraya verenin yazılı rızası aranır. 
++
+CAUTION: Kullanım hakkının devri durumunda kiracı, kullanım hakkı dışında kira
+sözleşmesinden doğan hakların sahibi ve borçların yükümlüsüdür. 
+
+* TBK 323'te *kira ilişkisinin devri* düzenlenmiştir.
++
+[caption=""]
+.Kira ilişkisinin devri
+====
+*TBK 323*: (1) Kiracı, kiraya verenin yazılı rızasını almadıkça, kira
+ilişkisini başkasına devredemez. Kiraya veren, işyeri kiralarında haklı sebep
+olmadıkça bu rızayı vermekten kaçınamaz.
+
+(2) Kiraya verenin yazılı rızasıyla kira ilişkisi kendisine devredilen kişi,
+kira sözleşmesinde kiracının yerine geçer ve devreden kiracı, kiraya verene
+karşı borçlarından kurtulur.
+
+(3) İşyeri kiralarında devreden kiracı, kira sözleşmesinin bitimine kadar ve en
+fazla iki yıl süreyle devralanla birlikte müteselsilen sorumlu olur.
+====
++
+Kiracı, kiraya verenin yazılı rızası ile kira sözleşmesini üçüncü bir kişiye
+devredebilir. Bu durumda kira sözleşmesinin tarafı devir tarihinden itibaren
+üçüncü kişi olacaktır.
++
+*İşyeri kirası bakımından* bir istisna getirilmiştir. Şöyle ki; işyeri
+kirasının devrinde kiraya veren, haklı bir sebep olmadıkça kira ilişkisinin
+devrine rıza göstermek zorundadır. Ayrıca devreden ile devralan kira
+ilişkisinin sonuna kadar ancak her halükarda en fazla 2 yıl boyunca kira
+sözleşmesinden müteselsil olarak sorumlu olurlar.
+
+* Kiracı, kiralananı kullanmasa bile kira bedelini ödemekle yükümlüdür.
++
+====
+*TBK 324*: (1) Kullanıma elverişli bulundurulduğu sürece kiralanan, kiracının
+kendisinden kaynaklanan bir sebeple kullanılmasa veya sınırlı olarak kullanılsa
+bile kiracı, kira bedelini ödemekle yükümlüdür. Bu durumda, kiraya verenin
+yapmaktan kurtulduğu giderler kira bedelinden indirilir.
+====
++
+Ancak bu ödeme yükümlülüğü, kiralanan *_kullanıma elverişli bulundurulduğu
+sürece_* vardır. 
++
+Kullanmak, adi kira açısından bir borç değildir.
+
+* Örneğin;
++
+03.05.2014 tarihinde yapılmış 1 yıl süreli bir kira sözleşmesi olsun. Bu
+sözleşmenin sona erme tarihi 02.05.2015'tir. Kiracı, kira sözleşmesinin
+bitimine en az 15 gün kala bildirimde bulunarak sözleşmeyi sona erdirebilir.
+Ancak Mayıs'ta yapılmış bu kira sözleşmesini Ekim'de sona erdirmek isterse bu
+sözleşmeye aykırı bir davranıştır.
++
+[caption=""]
+.Kiralananın sözleşmenin bitiminden önce geri verilmesi
+====
+*TBK 325*: (1) Kiracı, sözleşme süresine veya fesih dönemine uymaksızın
+kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları,
+kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam
+eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi
+beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir
+kiracı bulması hâlinde, kiracının kira sözleşmesinden doğan borçları sona erer.
+
+(2) Kiraya veren, yapmaktan kurtulduğu giderler ile kiralananı başka biçimde
+kullanmakla elde ettiği veya elde etmekten kasten kaçındığı yararları kira
+bedelinden indirmekle yükümlüdür.
+====
++
+NOTE: Kiralananın tahliyesi için, Yargıtay'a göre tahliyenin yazılı belge ile
+ispat edilmesi gerekir. Kiracının tahliye ettiği bir tutanakla ispat edilmeli
+ve anahtarlar kiraya verene ya da temsilcisine teslim edilmelidir.
++
+Böyle bir durumda bilirkişi tarafından kiralananın ne kadar süre içerisinde
+kiraya verilebileceği tespit edilir. Kiracı bu süre için kira bedelini ödemekle
+yükümlüdür.
++
+Ancak kiracı, kendisinin yerine aynı koşullarda bu ilişkiye devam edecek birini
+bulursa kendisi bakımından kira ilişkisi sona erer.
++
+CAUTION: Kiralananın bilirkişinin tespit ettiği süreden daha kısa sürede kiraya
+verilmesi halinde sadece bu süre için kira bedeli ödenir.

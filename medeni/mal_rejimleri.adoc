@@ -1,0 +1,1717 @@
+= EVLİLİK BİRLİĞİNDE MAL REJİMLERİ
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== 1- MAL REJİMİ HUKUKUNUN GENEL HÜKÜMLERİ
+
+=== I. GENEL OLARAK
+
+MK 202 vd.'nda yer alan eşler arasındaki mal rejimine ilişkin düzenlemeler,
+genel malvarlığı hukuku kurallarından kısmen saparak, evlilik sırasındaki
+malvarlıklarına ilişkin olarak eşlerin birbirlerine ve üçüncü kişilere karşı
+olan konumlarını belirler. 
+
+Kanun koyucu bu belirlemede temelde bir *tipe bağlılık* çerçevesinde öngördüğü
+mal rejimi türleri ile sınırlı seçeneklere dayalı olanaklar sunmaktadır: Bu
+seçenekler _yasal mal rejimi olarak_ edinilmiş mallara katılma rejimi ve bunun
+yanında mal ayrılığı rejimi, paylaşmalı mal ayrılığı rejimi ve mal ortaklığı
+rejimidir.
+
+=== II. MAL REJİMİ TÜRLERİ
+
+==== 1- Yasal Mal Rejimi - Sözleşmesel Mal Rejimi
+
+Yasal mal rejimi, eşlerin aralarında akdettikleri bir mal rejimi sözleşmesiyle
+kanunda öngörülen mal rejimlerinden birini seçmedikleri sürece, kanun koyucu
+tarafından seçmiş sayıldıkları mal rejimidir. 
+
+.MK 202/1
+....
+Eşler arasında edinilmiş mallara katılma rejiminin uygulanması asıldır.
+....
+
+Sözleşmesel mal rejimi ise MK 202/2'nin tanıdığı yetki ile belirledikleri ve
+ilke olarak her zaman için değiştirebildikleri mal rejimidir. Bu anlamda, mal
+ayrılığı, paylaşmalı mal ayrılığı ve mal ortaklığı sözleşmesel mal rejimidir.
+
+.MK 202/2
+....
+Eşler, mal rejimi sözleşmesiyle kanunda belirlenen diğer rejimlerden birini kabul edebilirler.
+....
+
+==== 2- Olağan Mal Rejimi - Olağanüstü Mal Rejimi
+
+Kanunun öngördüğü olağanüstü nitelikteki hallerde, mal ayrılığı rejiminin
+doğrudan kanun tarafında (MK 209) veya hakim kararına dayalı olarak (MK 206, MK
+210) ve en azından eşlerden birisinin iradesine karşı olarak mal rejimi olarak
+belirlendiği durumlarda olağanüstü mal rejimi söz konusudur.
+
+=== III. MAL REJİMİ SÖZLEŞMESİ
+
+==== 1- Genel Olarak
+
+Mal rejimi sözleşmesi hem eşler arasında mal rejiminin seçilmesi, sona ermesi,
+hem de yasal sınırlar içerisinde değişikliğe uğratılması için akdedilen
+sözleşmedir.
+
+==== 2- Şartları
+
+===== _a. Kurucu olgu: Tarafların anlaşması_
+
+Eşler sözleşme özgürlükleri çerçevesinde evlilik birliği süresince aralarında
+geçerli olacak mal rejiminin türünü yasal mal rejiminden sapacak şekilde
+karşılıklı anlaşma ile yasada öngörülen mal rejimi türleri arasından
+seçebilirler ya da aralarında mevcut mal rejimini değiştirebilir veya
+kaldırabilirler.
+
+.MK 203/c.2
+....
+Taraflar, istedikleri mal rejimini ancak kanunda yazılı sınırlar içinde
+seçebilir, kaldırabilir veya değiştirebilirler.
+....
+
+===== _b. Geçerlilik şartları_
+
+====== aa- _Ehliyet_
+
+.MK 204
+....
+f.1 - Mal rejimi sözleşmesi, ancak ayırt etme gücüne sahip olanlar tarafından
+yapılabilir.
+f.2 - Küçükler ile kısıtlılar, yasal temsilcilerinin rızasını almak
+zorundadırlar.
+....
+
+Mal rejimi sözleşmesi yapmak eşler için mutlak bir kişiye sıkı sıkıya bağlı
+hakkın kullanımıdır. Yasal temsilcinin rızası, gerektiğinde, mal rejimi
+sözleşmesinin geçerliliği için aranan bir tamamlayacı olgudur.
+
+====== bb- _Şekil_
+
+.MK 205
+....
+f.1 - Mal rejimi sözleşmesi, noterde düzenleme veya onaylama şeklinde yapılır.
+Ancak, taraflar evlenme başvurusu sırasında hangi mal rejimini seçtiklerini
+yazılı olarak da bildirebilirler.
+f.2 - Mal rejimi sözleşmesinin taraflarca ve gerektiğinde yasal temsilcilerince
+imzalanması zorunludur.
+....
+
+===== _c. Hüküm ve sonuçları_
+
+.MK 203/c.1
+....
+Mal rejimi sözleşmesi, evlenmeden önce veya sonra yapılabilir.
+....
+
+Mal rejimi sözleşmesi eşlerce *akdedildiği sırada* şarta veya süreye bağlı
+olarak da yapılabilir.
+
+.4722 sayılı Türk Medeni Kanununun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun m. 10
+....
+f.1 - Türk Medenî Kanununun yürürlüğe girdiği tarihten önce evlenmiş olan eşler
+arasında bu tarihe kadar tâbi oldukları mal rejimi devam eder. Eşler Kanunun
+yürürlüğe girdiği tarihten başlayarak bir yıl içinde başka bir mal rejimi
+seçmedikleri takdirde, bu tarihten geçerli olmak üzere yasal mal rejimini
+seçmiş sayılırlar.
+f.2 - Türk Medenî Kanununun yürürlüğe girmesinden önce açılmış olan boşanma
+veya iptal davaları sonuçlanıncaya kadar eşler arasında tâbi oldukları mal
+rejimi devam eder. Dava boşanma veya iptal kararıyla sonuçlanırsa, bu mal
+rejiminin sona ermesine ilişkin hükümler uygulanır. Davanın redle sonuçlanması
+hâlinde eşler, kararın kesinleşmesini izleyen bir yıl içinde başka bir mal
+rejimi seçmedikleri takdirde, Kanunun yürürlük tarihinden geçerli olmak üzere
+yasal mal rejimini seçmiş sayılırlar.
+f.3 - Şu kadar ki eşler, yukarıdaki fıkralarda öngörülen bir yıllık süre içinde
+mal rejimi sözleşmesiyle yasal mal rejiminin evlenme tarihinden geçerli
+olacağını kabul edebilirler.
+f.4 - Yukarıdaki hükümler uyarınca mal birliği veya mal ortaklığı rejiminin
+yasal mal rejimine dönüşmesi hâlinde, Türk Kanunu Medenîsinin ilgili mal
+rejiminin sona ermesine ilişkin hükümleri uygulanır.
+....
+
+=== IV. OLAĞANÜSTÜ MAL REJİMİ
+
+==== 1- Genel Olarak
+
+Geniş anlamda bir evlilik birliğini koruyucu redbir olarak olağanüstü mal
+rejimine geçiş, ya eşlerden birisinin (veya diğer bir kısım ilgililerin) talebi
+ile ya da doğrudam kanun gereği kendiliğinden gerçekleşir.
+
+==== 2- Talep Üzerine Hakim Kararıyla Olağanüstü Mal Rejimine Geçiş
+
+===== _a. MK 197/2 uyarınca olağanüstü mal rejimine geçiş_
+
+.MK 197/2
+....
+Birlikte yaşamaya ara verilmesi haklı bir sebebe dayanıyorsa hâkim, eşlerden
+birinin istemi üzerine birinin diğerine yapacağı parasal katkıya, konut ve ev
+eşyasından yararlanmaya ve eşlerin mallarının yönetimine ilişkin önlemleri
+alır.
+....
+
+[, Dural]
+""
+Biz MK 197/2 hükmünü amacına uygun olarak genişletici yorumla yorumluyor ve
+hakime *gerekiyorsa* eşler arasındaki mal rejimine müdahale edebilme yetkisini
+de tanıyoruz. 
+""
+
+Yargıtay ise eşlerin ayrı yaşadığı dönemde talep üzerine olağanüstü mal rejimi
+olarak mal ayrılığına geçişi, MK 197 değil, MK 206 hükmü kapsamında ele alarak,
+ancak haksız ayrılığın evlilik ortaklığına ilişkin menfaatleri tehlikeye
+düşürerek bir haklı sebebin varlığına yol açtığı ölçüde olanaklı görmektedir.
+
+===== _b. Haklı bir sebebe dayalı olarak olağanüstü mal rejimine geçiş_
+
+MK 206 haklı sebeplerin varlığı halinde eşler arasındaki yasal ve (mal ayrılığı
+dışındaki) sözleşmesel mal rejimlerinin yine eşlerden birisinin istemi ile
+hakim kararıyla *ileriye etkili olarak* mal ayrılığına dönüştürülmesine olanak
+tanımaktadır.
+
+.MK 206
+....
+f.1 - Haklı bir sebep varsa hâkim, eşlerden birinin istemi üzerine, mevcut mal
+rejiminin mal ayrılığına dönüşmesine karar verebilir.
+f.2 - Özellikle aşağıdaki hâllerde haklı bir sebebin varlığı kabul edilir:
+    1. Diğer eşe ait malvarlığının borca batık veya ortaklıktaki payının
+    haczedilmiş olması,
+    2. Diğer eşin, istemde bulunanın veya ortaklığın menfaatlerini tehlikeye
+    düşürmüş olması,
+    3. Diğer eşin, ortaklığın malları üzerinde bir tasarruf işleminin yapılması
+    için gereken rızasını haklı bir sebep olmadan esirgemesi,
+    4. Diğer eşin, istemde bulunan eşe malvarlığı, geliri, borçları veya
+    ortaklık malları hakkında bilgi vermekten kaçınması,
+    5. Diğer eşin sürekli olarak ayırt etme gücünden yoksun olması.
+f.3 - Eşlerden biri ayırt etme gücünden sürekli olarak yoksun ise, onun yasal
+temsilcisi de bu sebebe dayanarak mal ayrılığına karar verilmesini isteyebilir.
+....
+
+.MK 207
+....
+Yetkili mahkeme eşlerden herhangi birinin yerleşim yeri mahkemesidir.
+....
+
+===== _c. MK 210 uyarınca olağanüstü mal rejimine geçiş_
+
+.MK 210
+....
+f.1 - Mal ortaklığını kabul etmiş eşlerden birine karşı icra takibinde bulunan
+alacaklı, haczin uygulanmasında zarara uğrarsa, hâkimden mal ayrılığına karar
+verilmesini isteyebilir.
+f.2 - Alacaklının istemi her iki eşe yöneltilir.
+f.3 - Yetkili mahkeme, borçlunun yerleşim yeri mahkemesidir.
+....
+
+==== 3- Talep Olmaksızın Kanun Gereği Olağanüstü Mal Rejimine Geçiş
+
+.MK 209
+....
+Mal ortaklığını kabul etmiş olan eşlerden birinin iflâsına karar verildiği
+takdirde, ortaklık kendiliğinden mal ayrılığına dönüşür.
+....
+
+==== 4- Olağanüstü Mal Rejiminin Sona Ermesi
+
+===== _a. Genel olarak_
+
+Olağanüstü mal rejimine geçişle sona eren mal rejimi tasfiye edilir. Olağanüstü
+mal rejimine geçiş kararı veren aile mahkemesi, tasfiye davası için de
+yetkilidir (MK 214).
+
+.MK 208
+....
+f.1 - Eşler, her zaman yeni bir mal rejimi sözleşmesiyle önceki veya başka bir
+mal rejimini kabul edebilirler.
+f.2 - Mal ayrılığına geçişi gerektiren sebebin ortadan kalkması hâlinde hâkim,
+eşlerden birinin istemi üzerine eski mal rejimine dönülmesine karar verebilir.
+....
+
+===== _b. Anlaşmaya dayalı sona erme_
+
+MK 209 ve MK 210'a dayalı olarak kurulan olağanüstü mal rejimleri yürülükte
+iken dahi eşler, mal rejimi sözleşmesiyle edinilmiş mallara katılma rejimini
+kabul edebilirler (MK 211).
+
+===== _c. Eşlerden birisinin talebi üzerine sona erme_
+
+.MK 211/1
+....
+Alacaklı tatmin edildiği takdirde eşlerden birinin istemi üzerine hâkim, mal
+ortaklığının yeniden kurulmasına karar verebilir.
+....
+
+=== V. MAL REJİMİNİN TASFİYESİNDE YETKİLİ VE GÖREVLİ MAHKEME
+
+==== 1- Kural
+
+.MK 212
+....
+Mal ayrılığına geçildiği takdirde, kanunda aksine hüküm bulunmadıkça, eşler
+arasında önceki mal rejiminin tasfiyesi, bu rejime ilişkin hükümlere göre
+yapılır.
+....
+
+==== 2- Mal Rejiminin Tasfiyesinde Yetkili ve Görevli Mahkeme
+
+.MK 214
+....
+Eşler veya mirasçılar arasında bir mal rejiminin tasfiyesine ilişkin davalarda,
+aşağıdaki mahkemeler yetkilidir:
+1. Mal rejiminin ölümle sona ermesi durumunda ölenin son yerleşim yeri
+mahkemesi,
+2. Boşanmaya, evliliğin iptaline veya hâkim tarafından mal ayrılığına karar
+verilmesi durumunda, bu davalarda yetkili olan mahkeme,
+3. Diğer durumlarda davalı eşin yerleşim yeri mahkemesi.
+....
+
+=== VI. ALACAKLILARIN KORUNMASI
+
+.MK 213
+....
+f.1 - Mal rejiminin kurulması, değiştirilmesi veya önceki rejimin tasfiyesi,
+eşlerden birinin veya ortaklığın alacaklılarının, üzerinden haklarını
+alabilecekleri malları sorumluluk dışında bırakamaz.
+f.2 - Kendisine böyle mallar geçmiş olan eş, borçlardan kişisel olarak
+sorumludur; ancak, söz konusu malların borcu ödemeye yetmediğini ispat ettiği
+takdirde, bu ölçüde kendisini sorumluluktan kurtarabilir. 
+....
+
+=== VII. EŞLERİN MALVARLIKLARININ YÖNETİMİ
+
+Kural olarak eşler seçtikleri mal rejimi ne olursa olsun kendi malvarlıklarını
+kendileri yönetir. Ancak malvarlığı değerleri üzerine hak sahibi olan eşin
+maliki olduğu malvarlığı unsurlarının yönetimini diğer eşe bırakabilmesi
+olanaklıdır.
+
+.MK 215
+....
+Eşlerden birinin açık veya örtülü olarak mallarının yönetimini diğer eşe
+bırakması hâlinde, aksi kararlaştırılmış olmadıkça vekâlet  hükümleri
+uygulanır.
+....
+
+=== VIII. ENVANTER YAPILMASI
+
+.MK 216
+....
+f.1 - Eşlerden her biri, diğerinden her zaman mallarının envanterinin resmî
+senetle yapılmasını isteyebilir.
+f.2 - Bu envanter, malların getirilmesinden başlayarak bir yıl içinde
+yapılmışsa, aksi ispatlanmış olmadıkça bu envanterin doğru olduğu kabul edilir.
+....
+
+=== IX. EŞLER ARASINDAKİ BORÇLAR VE BORÇ ERTELEMESİ
+
+.MK 217
+....
+Mal rejimi, eşler arasındaki borçların muaccel olmasını önlemez. Bununla
+beraber bir borcun yerine getirilmesi, borçlu eşi evlilik birliğini tehlikeye
+düşürecek derecede önemli güçlüklere sokacaksa, bu eş ödeme için süre
+isteyebilir. Durum ve koşullar gerektiriyorsa, hâkim istemde bulunan eşi
+güvence göstermekle yükümlü tutar.
+....
+
+== 2- YASAL MAL REJİMİ OLARAK EDİNİLMİŞ MALLARA KATILMA REJİMİ
+
+=== I. GENEL OLARAK
+
+1.1.2012 tarihinde yürürlüğe giren 4721 sayılı Medeni Kanun, eski Medeni
+Kanunda yer almayan edinilmiş mallara katılma rejimini yasal mal rejimi olarak
+kabul etmiştir (MK 202/1). Dolayısıyla eski Medeni Kanun döneminde evlenmiş
+eşler arasında *31.12.2001 tarihine kadar* geçerli yasal mal rejimi _mal
+ayrılığı_, *1.1.2002'den sonra* geçerli olan yasal mal rejimi ise _edinilmiş
+mallara katılma rejimidir_. Ancak eşlerin edinilmiş mallara katılma rejimini
+bir mal rejimi sözleşmesi ile evlenme tarihinden itibaren uygulanabilir
+kılmaları mümkündür.
+
+=== II. EDİNİLMİŞ MALLARA KATILMA REJİMİNDE HAK SAHİPLİĞİ İLİŞKİSİ
+
+==== 1- Yasal Düzenleme
+
+.MK 218
+....
+Edinilmiş mallara katılma rejimi, edinilmiş mallar ile eşlerden her birinin
+kişisel mallarını kapsar.
+....
+
+Edinilmiş mallara katılma rejiminde dikey ayrımlamaya uğramış birbirinden
+bağımsız ve sahipleri farklı iki malvarlığı mevcuttur: Karının malları ve
+kocanın malları.
+
+Karının malları ve kocanın malları da bu kez bir yatay ayrımlamayla iki
+*malvarlığı kesimine* ayrılır: Edinilmiş mallar ve kişisel mallar.
+
+|===
+| Karının malları | Kocanın malları
+
+| Karının edinilmiş malları 
+| Kocanın edinilmiş malları
+
+| Karının kişisel malları 
+| Kocanın kişisel malları
+|===
+
+==== 2- Eşlerin Kanuni Edinilmiş Malları
+
+===== _a. Genel olarak_
+
+.MK 219
+....
+f.1 - Edinilmiş mal, her eşin bu mal rejiminin devamı süresince karşılığını
+vererek elde ettiği malvarlığı değerleridir.
+f.2 - Bir eşin edinilmiş malları özellikle şunlardır:
+    1. Çalışmasının karşılığı olan edinimler,
+    2. Sosyal güvenlik veya sosyal yardım kurum ve kuruluşlarının veya
+    personele yardım amacı ile kurulan sandık ve benzerlerinin yaptığı
+    ödemeler,
+    3. Çalışma gücünün kaybı nedeniyle ödenen tazminatlar,
+    4. Kişisel mallarının gelirleri,
+    5. Edinilmiş malların yerine geçen değerler.
+....
+
+===== _b. *Mal rejimi süresince edinme* ve *karşılık* kavramları_
+
+Her şeyden önce eşlerin edinilmiş mallara katılma rejiminin başladığı tarihten
+sona erdiği tarihe kadar edindiği malvarlığı unsurları edinilmiş mal sayılır.
+
+Eşlerin karşılığını emek, para veya diğer malvarlığı unsurları ile vererek
+sağladığı edinimler, eşlerin edinilmiş mallarını oluşturur. 
+
+===== _c. Edinilmiş mallara ilişkin yasal örnekler_
+
+... _Eşlerin çalışmasının karşılığı olan edinimler_
++
+Kanun öncelikle eşlerin fikri veya bedensel emeğe dayalı olarak, diğer bir
+deyişe eşlerin bir ücret karşılığı iş görmesiyle iktisap edilen edinimleri
+edinilmiş mal saymıştır. İşgörme edinimi yani eşin çalışmasının karşılığı olan
+edinimler, eşlerin bir ivaz karşılığı gördüğü mesleki faaliyet yanında bir
+ticari işletme faaliyetine dayalı işletme kazançlarını da kapsar.
+... _Sosyal güvenlik veya sosyal yardım kurum ve kuruluşlarının veya personele
+yardım amacı ile kurulan sandık ve benzerlerinin yaptığı ödemeler_
+... _Çalışma gücünün kaybı nedeniyle ödenen tazminatlar_
+... _Kişisel malların gelirleri_
++
+Bu kapsamda kişisel malların gelirleri doğal ve hukuki ürünleri kapsar. Söz
+konusu kural emredici olmayıp, taraflar aksini kararlaştırabilir (MK 221).
+Hukuki ürüne en başta verilecek örnek, sermayenin faiz getirisidir.
++
+[WARNING] 
+====
+Sadece mal rejimi süresince kişisel mallardan elde edilen ürünler edinilmiş mal
+sayılacaktır. Bu anlamda faiz gelirleri, edinilmiş mallara katılma rejimi eşler
+arasında yürürlükteyken muaccel oldukları ölçüde edinilmiş maldır.
+
+TIP: Eşin evlenmeden önce bankaya yatırdığı parasının, evlenme tarihine kadar
+olan faiz geliri kişisel mal sayılırken, evlenme tarihinden sonra işleyecek
+kısmı, edinilmiş malları içerisinde yer alır.
+====
+... _Edinilmiş mallarına yerine geçen (ikame) değerler_
++
+TIP: Eşin ücretini biriktirerek satın aldığı daire, edinilmiş mal niteliğindeki
+bir arabanın pert olması nedeniyle sigorta şirketince ödenen sigorta tazminatı,
+MK 219/b.5 uyarınca edinilmiş maldır.
+
+===== _d. Diğer edinilmiş mallar_
+
+Her şeyden önce edinilmiş malların gelirleri MK 219/2 uyarınca edinilmiş
+maldır. Yine eşlere adının gaspı veya şeref ve haysiyetinin ihlali veya
+ekonomik kişilik hakkının ihlali nedeni ile ödenen maddi tazminatlarda
+edinilmiş mal sayılır.
+
+==== 3- Eşlerin Kanuni Kişisel Malları
+
+===== _a. Genel olarak_
+
+.MK 220
+....
+Aşağıda sayılanlar, kanun gereğince kişisel maldır:
+    1. Eşlerden birinin yalnız kişisel kullanımına yarayan eşya,
+    2. Mal rejiminin başlangıcında eşlerden birine ait bulunan veya bir eşin
+    sonradan miras yoluyla ya da herhangi bir şekilde karşılıksız kazanma
+    yoluyla elde ettiği malvarlığı değerleri,
+    3. Manevî tazminat alacakları,
+    4. Kişisel mallar yerine geçen değerler.
+....
+
+Kişisel mallar, edinilmiş mallara katılma rejiminin sona ermesi halinde
+yapılacak tasfiyenin dışında kalır.
+
+===== _b. Kişisel mallara ilişkin yasal örnekler_
+
+... _Eşlerden birinin yalnız kişisel kullanımına yarayan eşya_
++
+Salt eşlerden birinin ihtiyaçlarına yönelik, gelir getirmeyen, diğer eşin va
+aile üyelerinin kullanımı dışındaki eşyalar kişisel mal oluşturur. Bir eşyaya
+kişisel kullanım eşyası niteliği kazandıran, *özgülenme amacıdır*.
++
+TIP: Bu kapsamda eşlerin giysileri, spor malzemeleri, takıları gibi *taşınır
+mallar* örnek olarak gösterilebilir.
++
+Bir eşyanın kişisel eşya sayılmasında eşyanın finansmanındaki kaynak değil,
+bizzat eşyanın kullanım amacı esas alınır. Eşlerin edinilmiş mallarından
+finanse edilmiş olsa bile yalnız eşlerin kişisel kullanımına yarayan eşyalar
+kişisel mallar içinde yer alır.
++
+Eşlerin mesleklerini icrası için gerekli olan eşya, kişisel kullanıma yarayan
+eşya kapsamında yer almaz.
+... _Mal rejiminin başlangıcında eşlerden birine ait bulunan veya bir eşin
+sonradan miras yoluyla ya da herhangi bir şekilde karşılıksız kazanma yoluyla
+elde ettiği malvarlığı değerleri_
+
+.... Mal rejiminin başlangıcında eşlerden birine ait bulunan malvarlığı değeri
+o eşin kişisel malı sayılır. 
++
+TIP: Erkek eşin evlenme tarihinde iki dairesi ve bir arabası varsa, söz konusu
+daireler, dairelerin kira gelirleri ve araba, edinilmiş mallara katılma
+rejiminin devamı sırasında dahi kişisel mal sayılır. Ancak söz konusu
+dairelerin evlendikten ve dolayısıyla edinilmiş mallara katılma rejimi
+yürürlükteyken getireceği kira geliri ise edinilmiş mal sayılır.
+.... Bir eşin sonradan miras yoluyla karşılıksız olarak elde ettiği malvarlığı
+değerleri de kişisel mal sayılır.
+.... Bir eşin mal rejimi devam ederken herhangi bir şekilde karşılıksız kazanma
+yoluyla elde ettiği malvarlığı değerleri de kişisel maldır.
+
+... _Manevi tazminat alacakları_
+... _Kişisel mal yerine geçen değerler_
+
+==== 4- Sözleşmesel Kişisel veya Edinilmiş Mallar
+
+MK 237/1'e göre eşler artık değere katılmada yarı yarıya hak sahipliği
+kuralından (MK 236/1) sapan bir katılma esası belirleyebilirler. Bu bağlamda MK
+221 hükmü, MK 237 hükmünü tamamlayıcı bir hüküm olarak dolaylı bir şekilde
+eşlerin artık değere katılma payını değiştirmelerine olanak tanıyan bir
+düzenleme getirmektedir.
+
+.MK 221
+....
+f.1 - Eşler, mal rejimi sözleşmesiyle, bir mesleğin icrası veya işletmenin
+faaliyeti sebebiyle doğan edinilmiş mallara dahil olması gereken malvarlığı
+değerlerinin kişisel mal sayılacağını kabul edebilirler.
+f.2 - Eşler, mal rejimi sözleşmesiyle kişisel malların gelirlerinin edinilmiş
+mallara dahil olmayacağını da kararlaştırabilirler.
+....
+
+[WARNING]
+====
+MK 221/1'in lafzı, eşlerin "bir mesleğin icrası veya işletmenin faaliyeti
+sebebiyle doğan edinilmiş mallara dahil olması gereken malvarlığı değerlerinin"
+mal rejimi sözleşmesiyle kişisel mal sayılacağını öngörmektedir. MK 221/1 hükmü
+lafzıyla uygulanacak olursa, örneğin bir hekimin, avukatın, müteahhidin mesleki
+faaliyetin elde ettiği tüm kazançların eşlerin anlaşmasıyla kişisel mal
+sayılabilmesi gibi kabul edilemez bir sonuç ortaya çıkar. Dolayısıyla söz
+konusu hükmün amacına uygun olarak okunması zorunluluktur.
+
+Buna göre eşler, mal rejimi sözleşmesiyle, bir mesleğin icra veya işletme
+faaliyeti için tahsis ettikleri edinilmiş mallarına dahil malvarlığı
+değerlerini (yoksa bu icra ve faaliyetten doğan edinilmiş mal niteliğindeki
+kazançları değil) kişisel mal sayabilirler.
+====
+
+=== III. İSPAT
+
+MK 222, öngördüğü bir MK 6'ya paralel ispat kuralı ve iki karine ile, edinilmiş
+mallara katılma rejiminde tasfiye sürecindeki ispat sorunlarını çözücü bir
+düzenleme getirmektedir.
+
+.MK 222
+....
+f.1 - Belirli bir malın eşlerden birine ait olduğunu iddia eden kimse,
+iddiasını ispat etmekle yükümlüdür.
+f.2 - Eşlerden hangisine ait olduğu ispat edilemeyen mallar onların paylı
+mülkiyetinde sayılır.
+f.3 - Bir eşin bütün malları, aksi ispat edilinceye kadar edinilmiş mal kabul
+edilir.
+....
+
+=== IV. YÖNETİM, YARARLANMA VE TASARRUF
+
+==== 1- Kural
+
+Edinilmiş mallara katılma rejiminde, eski mal birliği rejiminde olduğu gibi,
+bir evlilik malvarlığı mevcut değildir. Aksine edinilmiş mallara katılma
+rejiminde eşler kendi malvarlığı değerleri üzerinde kural olarak sınırsız hak
+sahibi olup söz konusu hak sahipliğinden doğan yetkilieri yine kural olarak bir
+tasarruf sınırlamasına tabi olmaksızın kullanabilirler.
+
+.MK 223/1
+....
+Her eş, yasal sınırlar içerisinde kişisel malları ile edinilmiş mallarını
+yönetme, bunlardan yararlanma ve bunlar üzerinde tasarrufta bulunma hakkına
+sahiptir.
+....
+
+==== 2- Paylı Mülkiyet Payı Üzerinde Tasarruf
+
+.MK 223/2
+....
+Aksine anlaşma olmadıkça, eşlerden biri diğerinin rızası olmadan paylı mülkiyet
+konusu maldaki payı üzerinde tasarrufta bulunamaz.
+....
+
+Eşler arasında edinilmiş mallara katılma rejimi geçerliyse, eşlerin paylı
+mülkiyet (veya paylı hak sahipliği) payları üzerindeki tasarruf yetkileri
+ortadan kalkmış olup, eşlerin payları üzerindeki tasarruf yetkisine ilişkin
+mevcut *eksiklik* diğer eşin rızası ile doldurulur. TBK 46 burada da kıyasen
+uygulanır.
+
+.TBK 46
+....
+f.1 - Bir kimse yetkisi olmadığı hâlde temsilci olarak bir hukuki işlem
+yaparsa, bu işlem ancak onadığı takdirde temsil olunanı bağlar.
+f.2 - Yetkisiz temsilcinin kendisiyle işlem yaptığı diğer taraf, temsil
+olunandan, uygun bir süre içinde bu hukuki işlemi onayıp onamayacağını
+bildirmesini isteyebilir. Bu süre içinde işlemin onanmaması durumunda, diğer
+taraf bu işlemle bağlı olmaktan kurtulur.
+....
+
+MK 223/2 ile paydaş eşin payı üzerinde tasarrufta bulunması yasaklanmamakta,
+sadece diğer eşin iznine tabi tutularak sınırlandırılmaktadır.
+
+Paylı mülkiyet payı üzerinde diğer eşin izni olmaksızın tasarrufta bulunan eşin
+karşısındaki işlem tarafı üçüncü kişinin *iyiniyeti* hiçbir şekilde korunmaz.
+Ancak taşınmaz payına ilişkin adına yolsuz tescil olan işlem tarafı üçüncü
+kişiden, tapu kütüğündeki söz konusu yolsuz kayda iyiniyetle güvenerek ayni hak
+iktisap eden üçüncü kişilerin iktisapları korunur (MK 1023 ve 1025/2).
+
+=== V. ÜÇÜNCÜ KİŞİLERE KARŞI SORUMLULUK
+
+Edinilmiş mallara katılma rejiminde eşlerden her biri, üçüncü kişilere karşı
+kendi borçlarından dolayı bütün malvarlığı ile sorumludur (MK 224). MK 224
+hükmünün sınırsız sorumluluk kuralı gereği, edinilmiş mallara katılma rejimi,
+eşlerin icra yolu ile takibi bakımından bir engel oluşturmaz. Bunun dışında
+edinilmiş mallara katılma rejimi, eşler arasındaki borçların muacceliyetine
+engel olmaz.
+
+.MK 224
+....
+Eşlerden her biri kendi borçlarından bütün malvarlığıyla sorumludur.
+....
+
+=== VI. SONA ERME ve TASFİYE
+
+==== 1- Sona Erme
+
+.MK 225
+....
+f.1 - Mal rejimi, eşlerden birinin ölümü veya başka bir mal rejiminin kabulüyle
+sona erer.
+f.2 - Mahkemece evliliğin iptal veya boşanma sebebiyle sona erdirilmesine veya
+mal ayrılığına geçilmesine karar verilmesi hâllerinde, mal rejimi dava
+tarihinden geçerli olmak üzere sona erer.
+....
+
+==== 2- Tasfiye
+
+===== _a. Tasfiye anlaşması ve tasfiye davası_
+
+Sona eren bir edinilmiş mallara katılma rejiminde tasfiye, kural olarak eşler
+arasında -- geçerlilik şekline tabi olmayan -- bir tasfiye anlaşmasına dayalı
+olarak, kendilerince belirlenen kurallar çerçevesinde yapılabilir. Ancak
+eşlerin tasfiyenin yapılması hususunda anlaşamadıkları noktada tasfiye eşlerden
+birisi veya mirasçılarınca açılacak bir yenilik doğuran dava niteliğindeki
+tasfiye davası ile yapılır.
+
+Ancak ölüm dışında bazı mal rejiminin sona ermesi sebepleri bakımından salt
+mal rejiminin sona ermesi tasfiyenin istenebilmesi için yeterli değildir. 
+
+TIP: Eşler arasındaki edinilmiş mallara katılma rejimi, boşanma (veya evliliğin
+iptali) davasının açılmasıyla sona erse de, tasfiyenin yapılabilmesi,
+*kesinleşmiş* bir boşanma (veya iptal) kararının varlığını gerektirir.
+
+Her ne kadar değer artış payı alacağı edinilmiş mallara katılma rejiminde,
+ancak tasfiyenin tamamlanmasıyla muaccel olsa da, salt değer artış payı alacağı
+talebi, mal rejiminin tasfiyesi talebi anlamına gelmez.
+
+Tasfiye davasını eşlerden birisinin ölümü halinde, hayatta kalan eş veya ölen
+eşin mirasçıları açabilirler. Boşanma veya evlilik birliğinin iptali durumunda
+da eşler veya ölmeleri halinde mirasçıları diğer eşe veya miraşçılarına karşı
+tasfiye davası açabilir.
+
+Tasfiye davasının açılması için bir hak düşürücü süre veya zamanaşımı
+öngörülmemiştir. Tasfiye talebinin ileri sürülmesi bakımından zamansal sınırı
+dürüstlük kuralı belirler. MK 178 uygulama bulmaz.
+
+Boşanma veya evlilik birliğinin iptali durumunda da eşler veya ölmeleri
+halinde mirasçıları diğer eşe veya miraşçılarına karşı tasfiye davası
+açabilir.
+
+Tasfiye davasının açılması için bir hak düşürücü süre veya zamanaşımı
+öngörülmemiştir. Tasfiye talebinin ileri sürülmesi bakımından zamansal sınırı
+dürüstlük kuralı belirler. MK 178 uygulama bulmaz.
+
+.MK 178
+....
+Evliliğin boşanma sebebiyle sona ermesinden doğan dava hakları, boşanma
+hükmünün kesinleşmesinin üzerinden bir yıl geçmekle zamanaşımına uğrar.
+....
+
+Yetkili mahkeme ise MK 214'de hükme bağlanmıştır.
+
+.MK 214
+....
+Eşler veya mirasçılar arasında bir mal rejiminin tasfiyesine ilişkin davalarda,
+aşağıdaki mahkemeler yetkilidir:
+    1. Mal rejiminin ölümle sona ermesi durumunda ölenin son yerleşim yeri
+    mahkemesi,
+    2. Boşanmaya, evliliğin iptaline veya hâkim tarafından mal ayrılığına karar
+    verilmesi durumunda, bu davalarda yetkili olan mahkeme,
+    3. Diğer durumlarda davalı eşin yerleşim yeri mahkemesi.
+....
+
+===== _b. Malların geri verilmesi, eşlerin paylı mülkiyetindeki bir malın eşlerden birisine tahsisi ve borçlara ilişkin eşlerarası düzenlemeler_
+
+.MK 226
+....
+f.1 - Her eş, diğer eşte bulunan mallarını geri alır.
+f.2 - Tasfiye sırasında, paylı mülkiyete konu bir mal varsa, eşlerden biri
+kanunda öngörülen diğer olanaklardan yararlanabileceği gibi, daha üstün bir
+yararı olduğunu ispat etmek ve diğerinin payını ödemek suretiyle o malın
+bölünmeden kendisine verilmesini isteyebilir.
+f.3 - Eşler karşılıklı borçları ile ilgili düzenleme yapabilirler.
+....
+
+===== _c. Malvarlığı kesimlerinin birbirinden ayrılması_
+
+Edinilmiş mallara katılma rejiminde bir sonraki aşama eşlerin kişisel malları
+edinilmiş mallarının, mal rejiminin sona erdiği andaki durumlarına göre
+ayrılmasıdır (tespit edilmesidir) (MK 228/1). Sona erme anı ise MK 225'e göre
+belirlenir.
+
+.MK 228
+....
+f.1 - Eşlerin kişisel malları ile edinilmiş malları, mal rejiminin sona ermesi
+anındaki durumlarına göre ayrılır.
+f.2 - Eşlerden birine sosyal güvenlik veya sosyal yardım kurumlarınca yapılmış
+olan toptan ödemeler veya iş gücünün kaybı dolayısıyla ödenmiş olan tazminat,
+toptan ödeme veya tazminat yerine ilgili sosyal güvenlik veya sosyal yardım
+kurumunca uygulanan usule göre ömür boyunca irat bağlanmış olsaydı, mal
+rejiminin sona erdiği tarihte bundan sonraki döneme ait iradın peşin sermayeye
+çevrilmiş değeri ne olacak idiyse, tasfiyede o miktarda kişisel mal olarak
+hesaba katılır.
+....
+
+Eşler arasındaki mal rejimi sona erdikten sonra, artık eşlerin (değer olarak)
+paylaşabileceği bir adinilmiş mal kavramından (ve dolayısıyla kişisel mal
+kavramından) bahsedilemez. Özellikle mal rejimi sona erdikten sonra edinilmiş
+malların yerine geçen değerlerden de bahsedilemez (MK 219/2 b.5); mal rejiminin
+tasfiyesi, artık eşin malvarlığında olmayan, elden çıkarılmış malvarlığı konusu
+üzerinden yürütülür. Tasfiyede esas alınacak değer ise, elden çıkarılan malın
+devir anındaki değeridir.
+
+===== _d. Değer artış payı alacağı_
+
+Değer artış payı alacağı, edinilmiş mallara katılma rejimi içindeki yasal
+dayanağını MK 227'de bulur.
+
+.MK 227
+....
+f.1 - Eşlerden biri diğerine ait bir malın edinilmesine, iyileştirilmesine veya
+korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuşsa, tasfiye
+sırasında bu malda ortaya çıkan değer artışı için katkısı oranında alacak
+hakkına sahip olur ve bu alacak o malın tasfiye sırasındaki değerine göre
+hesaplanır; bir değer kaybı söz konusu olduğunda katkının başlangıçtaki değeri
+esas alınır.
+f.2 - Böyle bir malın daha önce elden çıkarılmış olması hâlinde hâkim, diğer
+eşe ödenecek alacağı hakkaniyete uygun olarak belirler.
+f.3 - Eşler, yazılı bir anlaşmayla değer artışından pay almaktan
+vazgeçebilecekleri gibi, pay oranını da değiştirebilirler.
+....
+
+... _Şartları_
+
+.... Diğer eşe ait bir malvarlığı unsuruna yönelik katkı
++
+Her şeyden önce eşlerden birisinin diğer eşin *bir malvarlığı unsuruna* yönelik
+bir katkısı mevcut olmalıdır.
++
+Bu katkı bir para veya başka bir maddi edim veya -- düzensiz ve ufak tefek
+yardımlar niteliğinde olmamak şartıyla -- iş görme edimi ile gerçekleşebilir.
+Aile hukukundan doğan yükümlülüklerin ifası niteliğindeki katkılar, değer artış
+payı alacağı doğurmaz.
++
+Kanun katkıyı malvarlığının iktisabı, iyileştirilmesi ve korunması ile
+sınırlamıştır:
+
+* *İktisap*, bir taşınmazın mülkiyet hakkının iktisabındaki katkı kadar ayni
+hak iktisaplarını ve eşe ait borçların ödenmesini de içerir.
+* *İyileştirme*, diğer eşin malvarlığı konusuna ilişkin _esaslı_ bir değer
+sağlayıcı fiilleri içerir.
+* Malvarlığı unsurunun *korunması*, malvarlığı unsurunun kullanımı veya zamana
+bağlı olarak gerçekleşecek _önemli_ değer azalmalarının önlenmesini ifade
+eder.
+.... Bağışlama kastı ve karşı edimin olmaması
++
+Eğer ki eş, diğer eşe ait malvarlığı unsuruna bir katkıda bulunurken bağışlama
+kastı ile hareket ediyorsa, MK 227'ye dayalı alacağı da sona erer.
++
+Bunun dışında eşlerden birisi diğer eşe yaptığı katkı karşılığında bir karşı
+edime (para, faiz, ücret vs.) hak kazanıyorsa, yine bir değer artış payı
+alacağı söz konusu değildir. Bir eşin karşı edim talep etmemesi -- aksi
+tarflarca açıkça öngörülmedikçe -- değer artış payı alacağından vazgeçme
+anlamına gelmez.
+.... Mal rejiminin tasfiyesi anında bir değer artışının varlığı
++
+Bir değer artış payı alacağının varlığı, son olarak MK 227 anlamında bir değer
+artışını zorunlu kılar.
++
+MK 227, MK 230'daki denkleştirme alacağından farklı olarak, değer azalması
+bakımından bir katılımı öngörmemiştir. Bu, MK 227/1'deki "...bir değer kaybı söz
+konusu olduğunda katkının başlangıçtaki değeri esas alınır" ifadesinden de
+anlaşılır.
++
+MK 227 anlamında değer artışı, piyasadaki arz-talep değişikliklerinden
+kaynaklanan değer artışını ifade eder. Eşin kendi faaliyetine dayalı değer
+artışları, MK 227/1 kapsamında yer almaz.
+.... Mal rejiminin tasfiyesinin talep edilmesi
++
+1.1.2002 tarihinde yürürlüğe giren 4721 sayılı MK'da yasal mal rejimi oalrak
+kabul edilen edinilmiş mallara katılma rejiminin yürürlüğü döneminde bir eş
+diğer eşin malvarlığına yaptığa katkı nedeniyle sahip olduğu değer artış payı
+alacağını, -- değer artış payı alacağının ancak tasfiyenin tamamlanması ile
+muaccel olacak olması nedeniyle -- *mal rejiminin sona ermesinden sonra*
+açacağı mal rejiminin tasfiyesi davasından bağımsız bir talep olarak ileri
+süremez.
+... _Hesaplanması_
+
+.... Değer artışının hesaplanması
++
+Bir malvarlığı unsurundaki değer artışı; *sona erme değeri* ile *başlangıç
+değeri* arasındaki farktan ibarettir.
+
+* *Sona erme değeri*, katkıda bulunulan malvarlığı unsurunun tasfiye anındaki
+sürüm veya ürün değeridir.
+* *Başlangıç değeri*, 
+** Eğer bir malvarlığı unsuruna yapılan katkı, söz konusu _malvarlığı unsurunun
+iktisap edildiği anda_ yapılıyorsa, diğer eş tarafından katkıda bulunulan
+malvarlığı unsurunun edinim (satın alma) değeri ile, yapılan katkı
+tutarının/yatırımın (temel alacağın) toplamından ibarettir.
+** Buna karşılık katkı, yöneldiği _malvarlığı değerinin iktisabından sonraki
+bir zamanda_ yapılıyorsa, başlangıç değeri, katkının yapıldığı tarihteki
+malvarlığı unsurunun sürüm değeri ile katkının tutarının/yatırımın (temel
+alacağın) toplamından ibaret olacaktır.
+.... Değer artış payının hesaplanması
++
+Değer artış payı, başlangıç değerine olan katkının oransal olarak katkıdan
+bulunulan malvarlığı unsurundaki değer artışına yansıtılması yoluyla bulunur.
++
+[TIP]
+====
+Bayan A, 1.5.2005 tarihinde eşine annesinden kalan (katkı tarihindeki sürüm
+değeri itibariyle) 300.000 TL'lik daireye, 60.000 TL dairenin yenilenmesi
+amaçlı katkıda bulunmuştur. Dairenin tasfiye anındaki değeri 540.000 TL'dir.
+
+Bu durumda:
+
+*Değer artışı*: 540.000 - (300.000 + 60.000) = 180.000 TL
+
+*Katılma ilişkisi*: (300.000 + 60.000) / 60.000 = 6
+
+Katkıda bulunan eş, *6* pay harcamanın, *1* payını kendisi sağlamıştır.
+
+*Değer artış payı*: 180.000 / 6 = 30.000 TL
+
+Değer artış payı alacağı, temel alacak (yatırım) ve hesaplanan değer artış
+payının toplamıdır.
+
+*Değer artış payı alacağı*: 60.000 TL (yatırım) + 30.000 TL (değer artış payı)
+= 90.000 TL
+====
+.... Değer artış payı alacağının artık değer (ve dolayısıyla katılma alacağına)
+hesabına etkisi
++
+MK 227 kapsamında bir tür denkleştirmenin ortaya çıkardığı bu değer artış payı
+alacağının katılma alacağı hesabına etkisi bakımından yapılan katkının yönüne
+göre dört farklı ihtimalle karşılaşılır:
+
+. Bir eşin *kişisel mallarından* diğer eşin *kişisel mallarına* yönelik bir
+katkı söz konusu olabilir. Bu durumda ortaya çıkan değer artış payı alacağı,
+yatırımcı eşin kişisel malları içerisinde yer alacağından katılma alacağının
+hesabında bu alacak göz önüne alınmaz.
+. Bir eşin *kişisel mallarından* diğer eşin *edinilmiş mallarına* yönelik bir
+katkı söz konusu olabilir. Bu durumda değer artış payı alacağı katkıda
+bulunulan eşin artık değer hesabının pasifinde yer alır. Bu ise, katkıda
+bulunan (yatırımcı) eşin artık değerini ve aynı zamanda artık değer alacağını
+azaltır. Bu ihtimalde aslında bir değer artış payı borcunun artık değer
+hesabına katılması söz konusudur.
+. Bir eşin *edinilmiş mallarından* diğer eşin *kişisel mallarına* yönelik bir
+katkı söz konusu olabilir. Bu durumda değer artış payı alacağı katkıda bulunan
+(yatırımcı) eşin artık değer hesabının aktifinde yer alacaktır. Bu ise katkıda
+bulunulan eşin artık değerini ve dolayısıyla artık değer alacağını artırır. Bu
+ihtimalde bir değer artış payı alacağının artık değer hesabına katılması söz
+konusudur. 
+. Bir eşin *edinilmiş mallarından* diğer eşin *edinilmiş mallarına* yönelik bir
+katkı söz konusu olabilir. Bu durumda söz konusu alacak katkıda bulunan
+(yatırımcı) eşin artık değer hesabının aktifinde yer alacak olmakla birlikte,
+katkıda bulunulan eşle yarı yarıya paylaşılacaktır. Bu ihtimalde değer artış
+payı alacağının miktarında bir fark yaratmayacaktır ve bir değer artış payı
+alacağının artık değer hesabına katılması söz konusudur.
+.... Muacceliyet
++ 
+MK 227'ye göre, değer artış payı alacağı, ilk olarak mal rejiminin tasfiyesinin
+tamamlanmasıyla muaccel (ifası istenebilir) hale gelir (MK 239/3).
++
+.MK 239/3
+....
+Aksine anlaşma yoksa, tasfiyenin sona ermesinden başlayarak katılma alacağına
+ve değer artış payına faiz yürütülür; durum ve koşullar gerektiriyorsa ayrıca
+borçludan güvence istenebilir.
+....
+.... Eşlerin değer artış payı üzerindeki tasarrufları
++
+.MK 227/3
+....
+Eşler, yazılı bir anlaşmayla değer artışından pay almaktan vazgeçebilecekleri
+gibi, pay oranını da değiştirebilirler.
+....
++
+Hükmün uygulaması tasfiye tarihine kadardır. Buna karşılık değer artış
+payından tasfiyeden sonra vazgeçme, şekilsiz olarak akdedilebilecek bir ibra
+sözleşmesi ile yapılabilir.
+
+===== _e. Denkleştirme alacağı_
+
+Eşin belirli bir malvarlığı kesiminde yer alan borcun diğer malvarlığı
+kesimince finanse edilmesi, finanse den malvarlığı kesimi lehine bir alacak
+hakkı doğurur. Bu alacağa denkleştirme alacağı denir.
+
+MK 230'un 1 ve 3. fıkraları, bir eşin kendi malvarlığı kesimleri arasındaki,
+bir malvarlığı kesiminden diğerine (edinilmiş mallardan kişisel mallara veya
+kişisel mallardan edinilmiş mallara) yönelik değer kaymalarının
+denkleştirilmesine yönelik iki farklı *denkleştirme alacağı* öngörür.
+
+.MK 230
+....
+f.1 - Bir eşin kişisel mallara ilişkin borçları edinilmiş mallardan veya
+edinilmiş mallara ilişkin borçları kişisel mallarından ödenmiş ise, tasfiye
+sırasında denkleştirme istenebilir.
+f.2 - Her borç, ilişkin bulunduğu mal kesimini yükümlülük altına sokar. Hangi
+kesime ait olduğu anlaşılamayan borç, edinilmiş mallara ilişkin sayılır.
+f.3 - Bir mal kesiminden diğer kesimdeki malın edinilmesine, iyileştirilmesine
+veya korunmasına katkıda bulunulmuşsa, değer artması veya azalması durumunda
+denkleştirme, katkı oranına ve malın tasfiye zamanındaki değerine veya mal daha
+önce elden çıkarılmışsa hakkaniyete göre yapılır.
+....
+
+Denkleştirme alacağının tespiti öncelikle eşlerin girmiş oldukları borçlarının,
+edinilmiş mallara katılma rejimi içerisinde malvarlıklarının hangi kesimini
+yükleyeceğinin tespitini zorunlu kılar.
+
+... _Eşlerin borçlarının malvarlığı kesimlerindeki konumu_
++
+Evlenmeden önce eşlerin girmiş oldukları borçlar, istisnasız, yani kişinin
+mesleki gelişimine yönelik, elde edeceği geliri (ve dolayısıyla edinilmiş
+malları) artırıcı nitelikte olsa dahi, kişisel mallara ilişkin sayılır.
++
+Buna karşılık mal rejimi süresince, eşlerin kazançları ile ödedikleri borçlar,
+edinilmiş malları yükler.
++
+Bir malvarlığı konusunun iktisabına ilişkin yüklenilen borçlar ilgili olduğu
+malvarlığı kesimini yükler.
+... _Denkleştirme alacağının türleri_
+
+* Olağan denkleştirme alacağı: MK 230, 1 ve 3. fıkralarında iki farklı
+denkleştirme alacağı düzenlemiştir. 1. fıkrada, düzenlenen denkleştirme
+alacağı *olağan denkleştirme alacağı* olarak nitelendirilebilir.
++
+Buna gören bir eşin kişisel mallarını yükleyen borcu, kendi edinilmiş
+mallarından ödenmişse, olağan denkleştirme alacağı artık değer hesabında eşin
+aktifinde yer alırken; eşin edinilmiş mallarını yükleyen bir borcu, kendi
+kişisel mallarından ödenmişse, olağan denkleştirme alacağı artık değer
+hesabında eşin pasifinde yer alacaktır.
+* Buna karşılık eşlerden birinin belirli bir malvarlığı kesiminden diğer
+malvarlığı kesimindeki bir malvarlığı unsurunun edinilmesine,
+iyileştirilmesine veya korunmasına katkıda bulunulmuşsa, asli alacak
+(yatırım) ve değer artış payı veya değer azalma payının toplamından oluşan
+(olağanüstü) denkleştirme alacağı ortaya çıkar. Buradaki olağanüstü
+denkleştirme alacağı, MK 227'de düzenlenen değer artış payı alacağı ile
+benzerlik göstermektedir. Ancak, MK 227 değer azalmaları bakımından yatırımcı
+eşin katılımını öngörmezken; olağanüstü denkleştirme alacağında hem değer
+artışına hem de değer azalmasına katılım söz konusudur.
++
+Olağanüstü denkleştirme alacağı, asıl alacak ve değer artış payı veya değer
+azalma payının toplamından ibarettir. Olağanüstü denkleştirme alacağının
+belirlenmesinde değer azalması da olsa artması da olsa, kural olarak malın
+tasfiye anındaki değeri, daha önce elden çıkarılmış olması halinde ise
+hakkaniyete göre hesaplanacak değer esas alınacaktır (MK 230/3).
++
+Burada da bir eşin kişisel mallarında yer alan malvarlığı unsuruna kendi
+edinilmiş mallarından katkıda bulunulmuşsa, olağanüstü denkleştirme alacağı
+artık değer hesabında eşin aktifinde yer alırken; eşin edinilmiş mallarında yer
+alan bir malvarlığı unsuruna, kişisel mallardan katkıda bulunulmuşsa,
+olağanüstü denkleştirme alacağı artık değer hesabında eşin pasifinde yer
+alacaktır.
++
+Denkleştirme alacağı tasfiye anında kişisel malları yüklüyorsa tek taraflı
+olarak feragat edilebilirken, edinilmiş malları yükleyen denkleştirme
+alacağından feragat ancak diğer eşin rızası ile olanaklıdır.
+
+===== _f. Eklenecek değerler_
+
+.MK 229
+....
+f.1 - Aşağıda sayılanlar, edinilmiş mallara değer olarak eklenir:
+    1. Eşlerden birinin mal rejiminin sona ermesinden önceki bir yıl içinde
+    diğer eşin rızası olmadan, olağan hediyeler dışında yaptığı karşılıksız
+    kazandırmalar,
+    2. Bir eşin mal rejiminin devamı süresince diğer eşin katılma alacağını
+    azaltmak kastıyla yaptığı devirler.
+    3. Kişisel mallar ile edinilmiş mallar arasında denkleştirme
+f.2 - Bu tür kazandırma veya devirlere ilişkin uyuşmazlıklarda mahkeme kararı,
+davanın kendisine ihbar edilmiş olması koşuluyla, kazandırma veya devirden
+yararlanan üçüncü kişilere karşı da ileri sürülebilir.
+....
++
+Düzenleme eşlerin diğer eşin rızası olmaksızın edinilmiş mallarından üçüncü
+kişilere yaptıkları belirli özelliklerdeki (MK 229/1 b.1-2) *geçerliliklerin,
+koruyan sağlararası*, ivazsız kazandırmaların, mal rejiminin tasfiyesi
+sırasında *değeri itibariyle* artık değer hesanında edinilmiş mallar arasında
+aktiflere yazılmasını sağlamaktadır.
++
+Kanunun eklenecek değerler olarak öngördüğü kazandırmalar belirli
+özelliklerdeki kural olarak ivazsız sağlar arası kazandırma (örn. bağışlama,
+ibra, vakıf kurma vs.) ve devirler olarak ortaya çıkar. Ekleme talebinde
+bulunan eşin öncelikle kural olarak ivazsız kazandırmanın üçüncü kişiye diğer
+eşin edinilmiş mallarından yapıldığını ispatlaması gerekir.
+
+===== _g. Değer tespiti_
+
+Edinilmiş mallara katılma rejiminde rejimin tasfiyesinin gerektirdiği farklı
+işlemler ve alacak haklarının çeşitliliği malvarlığı değerlerinin
+değerlemesinin parasal olarak yapılmasını gerekli kılar.
+
+.MK 232
+....
+Mal rejiminin tasfiyesinde malların sürüm değerleri esas alınır.
+....
+
+Buna göre tasfiye sırasında tasfiyeye dahil olan malvarlığı konularının rayiç
+(sürüm) değeri hesaplamaya esas alınacaktır. Sürüm değeri değerleme konusu
+eşyanın serbest piyasada normal ilişkiler çerçevesinde sahip olabileceği değer
+tespiti anındaki parayla ifade edilebilir olağan değişim değeridir.
+
+.MK 233
+....
+f.1 - Bir eşin malik olarak bizzat işletmeye devam ettiği veya sağ kalan eş ya
+da altsoyundan birinin kendisine bir bütün olarak özgülenmesini istemeye haklı
+olduğu bir tarımsal işletme için değer artışından alacağı pay ve katılma
+alacağı, bunların gelir değeri göz önünde tutularak hesaplanır.
+f.2 - Tarımsal işletmenin maliki veya mirasçıları, diğer eşe karşı ileri
+sürebilecekleri değer artışı payının veya katılma alacağının, işletmenin sadece
+sürüm değeri üzerinden hesaplanmasını isteyebilir.
+f.3 - Değerlendirmeye ve işletmenin kazancından mirasçılara pay ödenmesine
+ilişkin miras hukuku hükümleri kıyas yoluyla  uygulanır.
+....
+
+.MK 234
+....
+Özel hâller gerektirdiği takdirde hesaplanan değer, uygun bir miktarda
+artırılabilir.
+Özellikle sağ kalan eşin geçim koşulları, tarımsal işletmenin alım değeri,
+ayrıca tarımsal işletme kendisine ait olan eşin yaptığı yatırımlar veya malî
+durumu özel hâllerden sayılır.
+....
+
+===== _h. Değer tespiti zamanı_
+
+Edinilmiş mallara katılma rejiminde mal rejiminin sona erdiği sırada mevcut
+olan edinilmiş mallar, kural olarak tasfiye anındaki değerleriyle hesaba
+katılırlar (MK 235/1). 
+
+.MK 235
+....
+f.1 - Mal rejiminin sona erdiği sırada mevcut olan edinilmiş mallar, tasfiye
+anındaki değerleriyle hesaba katılırlar.
+f.2 - Edinilmiş mallara hesapta eklenecek olanların değeri, malın devredildiği
+tarih esas alınarak hesaplanır.
+....
+
+MK 235/1 anlamında mal rejiminin tasfiye anını öncelikle eşler anlaşarak
+belirleyebilirler. Tarafların anlaşamadığı hallerde tasfiye (ve dolayısıyla
+değer tespiti) zamanı hakimin tasfiye kararını verdiği tarihtir.
+
+İstisnaen MK 229/2 uyarınca edinilmiş mallara hesapta eklenecek olan ivazsız
+kazandırmaların değeri, malın devredildiği tarih (kazandırma tarihi) esas
+alınarak hesaplanır (MK 235/2).
+
+===== _i. Katılma alacağı ve hesaplanması_
+
+... _Artık değer ve hesaplanması_
++
+Edinilmiş mallara katılma rejimin eşlerin katılma alacağının hesaplanması
+bakımından omurga kavramı *artık değer* oluşturmaktadır. Zira her iki eşe ait
+artık değer üzerinden her iki eşin artık değer alacakları ve alacakların takası
+ile de eşlerden birisi lehine doğacak olan katılma alacağı hesaplanmaktadır.
++
+.MK 231
+....
+f.1 - Artık değer, eklenmeden ve denkleştirmeden elde edilen miktarlar da dahil
+olmak üzere her eşin edinilmiş mallarının toplam değerinden bu mallara ilişkin
+borçlar çıkarıldıktan sonra kalan miktardır.
+f.2 - Değer eksilmesi göz önüne alınmaz. 
+....
++
+Artık değer, her eş için ayrı ayrı hesaplanır. Buna göre artık değer, değer
+artış payı alacağı, eklenecek değer ve denkleştirme alacağı ile edinilmiş
+malların toplamından, edinilmiş malları yükleyen borçların, denkleştirme
+borcunun ve değer artış payı borcunun çıkarılmasından kalan olumlu bakiyeden
+(aktif bakiyeden) başka bir şey değildir. Yapılan hesaplama sonucu ortaya çıkan
+eksik değer yani edinilmiş mallara ilişkin olumsuz bakiye gözönüne alınmaz.
+Dolayısıyla mevcut eksik değer *0 (sıfır)* olarak hesaba katılır.
++
+[cols="2*"]
+|===
+| *Aktif*
+| *Pasif*
+
+| Edinilmiş malların toplamı
+| Edinilmiş malları yükleyen borçlar
+
+| Değer artış payı alacağı
+| Değer artış payı borcu
+
+| Denkleştirme alacağı
+| Denkleştirme borcu
+
+| Eklenecek değerler
+| 
+|===
++
+TIP: Artık değer = Aktif - Pasif
+
+... _Artık değer alacağı ve katılma alacağı_
++
+.MK 236/1
+....
+Her eş veya mirasçıları, diğer eşe ait artık değerin yarısı üzerinde hak sahibi
+olurlar. Alacaklar takas edilir.
+....
++
+Buna göre, yasal olarak karının artık değerinin yarısı *kocanın artık değer
+alacağı* iken; kocanın artık değerinin yarısı ise *karının artık değer
+alacağıdır*.
++
+[TIP]
+====
+* Karının artk değer alacağı = (Kocanın aktifi - Kocanın pasifi) / 2
+* Kocanın artık değer alacağı = (Karının aktifi - Karının pasifi) / 2
+==== 
++
+Söz konusu katılma alacağı doğumuyla birlikte artık temlik edilebileceği gibi,
+rehnedilebilir ve alacaklılar tarafından haczedilebilir. Hakim görüş ve
+uygulamaya göre katılma alacağı tasfiye kararının verilmesi ile doğar (ve
+muaccel olur) ve tarihten itibaren temlik ve haczedilebilir.
++
+Bu kapsamda katılma alacaklısı, takas sonucu lehine katılma alacağı doğan eş
+veya mirasçılarıdır. Katılma borçlusu, MK 241 hükmü saklı kalmak üzere diğer eş
+veya mirasçılarıdır.
++
+.MK 241
+....
+f.1 - Tasfiye sırasında, borçlu eşin malvarlığı veya terekesi, katılma
+alacağını karşılamadığı takdirde, alacaklı eş veya mirasçıları, edinilmiş
+mallarda hesaba katılması gereken karşılıksız kazandırmaları bunlardan
+yararlanan üçüncü kişilerden eksik kalan miktarla sınırlı olarak isteyebilir.
+f.2 - Dava hakkı, alacaklı eş veya mirasçılarının haklarının zedelendiğini
+öğrendikleri tarihten başlayarak bir yıl ve her hâlde mal rejiminin sona
+ermesinin üzerinden beş yıl geçmekle düşer.
+f.3 - Yukarıdaki fıkra hükümleri ve yetki kuralları dışında mirastaki tenkis
+davasına ilişkin hükümler kıyas yoluyla  uygulanır.
+....
++
+[TIP]
+====
+E1'in MK 231'e göre hesaplanan artık değeri 240 TL,
+
+E2'nin MK 231'e göre hesaplanan artık değeri 200 TL'dir.
+
+Bu durumda taraflar MK 237'ye göre aksini kararlaştırmamışlarsa, MK 236/1
+hükmünün uygulanması sonucu
+
+E1'in artık değer alacağı 200 / 2 = 100 TL,
+
+E2'nin artık değer alacağı 240 / 2 = 120 TL'dir.
+
+Söz konusu alacaklar MK 236/1 gereği kendiliğinden takasa gireceğinden, yapılan
+takas sonucu ortaya çıkan
+
+120 TL (E2'nin artık değer alacağı) - 100 TL (E1'nin artık değer alacağı) = 20 TL,
+
+E2'nin E1'den olan katılma alacağıdır.
+====
+... _Artık değere sözleşmesel katılma_
+
+.... Mal rejiminin ölüme sona ermesi halinde
++
+.MK 237
+....
+f.1 - Artık değere katılmada mal rejimi sözleşmesiyle başka bir esas kabul
+edilebilir.
+f.2 - Bu tür anlaşmalar, eşlerin ortak olmayan çocuklarının ve onların
+altsoylarının saklı paylarını zedeleyemez.
+....
+.... Mal rejiminin ölüm dışında bir sebeple sona ermesi halinde
++
+.MK 238
+....
+Mahkemece evliliğin iptal veya boşanma sebebiyle sona erdirilmesine veya mal
+ayrılığına geçilmesine karar verilmesi hâllerinde, kanundaki artık değere
+katılmaya ilişkin düzenlemeden farklı anlaşmalar, ancak mal rejimi
+sözleşmesinde bunun açıkça öngörülmüş olması hâlinde geçerlidir.
+....
++
+MK 237 hükmü evliliğin eşlerden birisinin ölümü dışındaki bir sebeple sona
+ermesi halinde akdi olarak belirlenmiş artık değere katılma kurallarının
+uygulanmayacağı yönünde bir karine getirmektedir. Bu karinenin çürütülmesi ise
+MK 238'in açık lafzı karşısında ancak eşlerin mal rejimi sözleşmesinde
+cisimlenen eşlerin açık iradesinin ispatı ile mümkün olacaktır.
+... _Katılma alacağı için muacceliyet anı ve temerrüt_
++
+Katılma alacağı mal rejiminin tasfiyesinin tamamlandığı andan itibaren muaccel
+hale gelir. Muacceliyet sonrasında borçlu eşin, katılma alacaklısı eş
+tarafından yapılacak ihtarla temerrüde düşürülmesine gerek yoktur. Tasfiyenin
+tamamlanmasıyla borçlu eş temerrüde düşer.
+.... Zamanaşımı
++
+Tasfiye davası bir zamanaşımı süresine veya hak düşürücü süreye tabi değildir;
+davanın zamansal sınırını dürüstlük kuralı çizer. Tasfiye sonrası doğan katılma
+alacağı Yargıtay'ın da kabul ettiği üzere, TBK 146 uyarınca muacceliyet
+tarihinden itibaren on yıl içerisinde zamanaşımına uğrar. Yargıtay'a göre
+zamanaşımı süresi mal rejiminin sona erdiği tarihte işlemeye başlar.
+.... Katılma alacağının hukuksal niteliği, ödenmesi ve haim karaarıyla
+azaltılması ve ortadan kaldırılması
++
+Türk Hukukunda *katılma borcu* tam anlamıyla bir *soyut değer borcu* şeklinde
+düzenlenmiş ve borçlu eşe, katılma alacağı ile borçlandığı *değeri*, *ayın ve
+para* olarak sağlayabilmesi hususunda, seçimlik borç veya seçimlik yetki
+niteliği taşımayan, yenilik doğuran hak niteliğinde bir seçim hakkı tanımıştır.
++
+.MK 239/1
+....
+Katılma alacağı ve değer artış payı ayın veya para olarak ödenebilir. Aynî
+ödemede malların sürüm değeri esas alınır; bir mesleğin icrasına ayrılmış
+birimler ile işletmelerin ekonomik bütünlüğü gözetilir.
+....
++
+.MK 236/2
+....
+Zina veya hayata kast nedeniyle boşanma hâlinde hâkim, kusurlu eşin artık
+değerdeki pay oranının hakkaniyete uygun olarak azaltılmasına veya
+kaldırılmasına karar verebilir.
+....
+.... Katılma alacağının ifasının ertelenmesi
++
+.MK 239/2
+....
+Katılma alacağının ve değer artış payının derhâl ödenmesi kendisi için ciddî
+güçlükler doğuracaksa, borçlu eş ödemelerinin uygun bir süre ertelenmesini
+isteyebilir.
+....
+.... Faiz ödeme ve teminat gösterme yükümü
++
+MK 239/3'e göre aksine anlaşma yoksa, tasfiyenin sona ermesinden başlayarak
+katılma alacağına ve değer artış payına faiz yürütülür; durum ve koşullar
+gerektiriyorsa ayrıca borçludan güvence istenebilir. Faiz alacağı, kural olarak
+mal rejiminin tasfiyesinin sona erdiği ve böylece katılma alacağının muaccel
+olduğu tarihten itibaren işlemeye başlar. Teminatın türünü ise eşler anlaşarak
+belirleyebileceği gibi, anlaşmazlık noktasında belirleme hakim tarafından
+yapılır.
+.... Katılma alacağından feragat
++
+Eşlerin katılma alacağından, edinilmiş mallara katılma rejimi devam ederken
+vazgeçmeleri olanaklıdır. Bu vazgeçme ise, MK 237/1 hükmü kapsamında eşler
+arasında akdedilecek mal rejimi sözleşmesi ile gerçekleşmek zorundadır. Mal
+rejiminin sona ermesinden tasfiye tamamlanana kadar muhtemel bir alacağın,
+tasfiye sonrası ise geçerli olarak doğmuş bir alacağın ibrası söz konusu olur.
+
+===== _j. Aile konutu ve ev eşyası üzerinde sağ kalan eşin talep hakkı_
+
+.MK 240
+....
+f.1 - Sağ kalan eş, eski yaşantısını devam ettirebilmesi için, ölen eşine ait
+olup birlikte yaşadıkları konut üzerinde kendisine katılma alacağına mahsup
+edilmek, yetmez ise bedel eklenmek suretiyle intifa veya oturma hakkı
+tanınmasını isteyebilir; mal rejimi sözleşmesiyle kabul edilen başka
+düzenlemeler saklıdır.
+f.2 - Sağ kalan eş, aynı koşullar altında ev eşyası üzerinde kendisine mülkiyet
+hakkı tanınmasını isteyebilir.
+f.3 - Haklı sebeplerin varlığı hâlinde, sağ kalan eşin veya ölen eşin yasal
+mirasçılarının istemiyle intifa veya oturma hakkı yerine, konut üzerinde
+mülkiyet hakkı tanınabilir.
+f.4 - Sağ kalan eş, mirasbırakanın bir meslek veya sanat icra ettiği ve
+altsoyundan birinin aynı meslek veya sanatı icra etmesi için gerekli olan
+bölümlerde bu hakları kullanamaz. Tarımsal taşınmazlara ilişkin miras hukuku
+hükümleri saklıdır.
+....
+
+===== _k. Üçüncü kişilere karşı dava hakkı_
+
+.MK 241
+....
+f.1 - Tasfiye sırasında, borçlu eşin malvarlığı veya terekesi, katılma
+alacağını karşılamadığı takdirde, alacaklı eş veya mirasçıları, edinilmiş
+mallarda hesaba katılması gereken karşılıksız kazandırmaları bunlardan
+yararlanan üçüncü kişilerden eksik kalan miktarla sınırlı olarak isteyebilir.
+f.2 - Dava hakkı, alacaklı eş veya mirasçılarının haklarının zedelendiğini
+öğrendikleri tarihten başlayarak bir yıl ve her hâlde mal rejiminin sona
+ermesinin üzerinden beş yıl geçmekle düşer.
+f.3 - Yukarıdaki fıkra hükümleri ve yetki kuralları dışında mirastaki tenkis
+davasına ilişkin hükümler kıyas yoluyla  uygulanır.
+....
+
+== 3- PRATİKLER
+
+=== OLAY I
+'''
+
+Bayan A ile Bay B, 02.05.2007 tarihinde evlenmişler ve mal rejimine ilişkin
+herhangi bir sözleşme yapmamışlardır. Çift, daha sonra aralarında geçimsizlik
+baş göstermesi üzerine boşanma kararı alıp, mahkemeye başvurarak, 01.04.2013
+tarihinde boşanmışlardır. Eşler arasındaki mal rejiminin tasfiyesi sırasında
+Bayan A'nın kazancından biriktirdiği 500.000 TL ile 02.06.2006'da satın aldığı
+bir ofisi; yine kazancından biriktirerek 08.07.2008'de satın aldığı, o sırada
+evin değeri 300.000 TL iken, Bay B'nin kendisine miras kalan 100.000 TL'yi
+vererek içinde tadilat yaptırdığı çiftin boşanana kadar birlikte oturduğu,
+tasfiye sırasındaki değeri 800.000 TL olan bir evi; kendisine hediye edilen
+10.000 TL değerinde pırlanta bir yüzüğü bulunmaktadır. Bay B'nin ise kendisine
+bırakılan mirastan geriye kalan 100.000 TL'yi bankada vadeli mevduatta
+değerlendirmesi sonucunda tasfiye sırasında 140.000 TL birikmiş parası;
+kazancından biriktirdiği para ile 05.04.2012'de satın aldığı tasfiye
+sırasındaki değeri 60.000 TL olan bir otomobili bulunmaktadır. Ayrıca Bay B,
+01.08.2008 tarihinde çok sevdiği yeğeni Y'ye 20.000 TL değerindeki mücevheri
+evlilik hediyesi olarak vermiştir.
+
+==== Soru
+
+Bayan A ile Bay B arasındaki mal rejimini tasfiye ederek kimin ne kadar
+katılım alacağına sahip olacağını hesaplayınız.
+
+==== Cevap 
+
+Eşler Medeni Kanunun yürürlük tarihi olan 1 Ocak 2002 tarihinden sonra
+evlenmiş ve seçimlik mal rejimlerinden birini seçmemişlerse bu eşler arasında
+yasal mal rejimi olan edinilmiş mallara katılma rejimi uygulanır. Bu tarihten
+önce evlenen eşler arasında bu tarihe kadar tabi oldukları mal rejimi devam
+eder. Eşler kanunun yürürlüğe girdiği tarihten itibaren 1 yıl içinde başka bir
+mal rejimini seçmedikleri takdirde, bu tarihten geçerli olmak üzere yasal mal
+rejimini seçmiş sayılırlar. Bayan A ile Bay B, 02.05.2007 tarihinde evlenmişler
+ve mal rejimine ilişkin bir sözleşme de yapmamışlardır. Dolayısıyla uygulanacak
+mal rejimi MK 202/1 uyarınca edinilmiş mallara katılma rejimidir. Çift
+01.04.2013 tarihinde boşanmışlardır. MK 225/2'e göre mal rejimi boşanma kararı
+verilmesiyle sona erer. Bu noktadan sonra MK 226 uyarınca tasfiye yapılacaktır.
+Tasfiye eşlerin aralarında şekle bağlı olmadan yapabilecekleri bir tasfiye
+anlaşması ile veya eşlerden birisi tarafından açılacak tasfiye davası ile
+yapılır. Boşanma kararını veren mahkeme, MK 214'e göre bu dava için de
+yetkilidir. Edinilmiş mallara katılma rejiminin tasfiyesinde bir sonraki aşama
+eşlerin kişisel malları ile edinilmiş mallarının, mal rejiminin sona erdiği
+andaki duruma göre tespit edilmesidir (MK 228/1).
+ 
+* Bayan A ile Bay B 02.05.2007 tarihinde evlenmişlerdir. Bayan A'nın 02.06.2006'da kazancından
+biriktirerek 500.000 TL ile satın aldığı ofisi evlilik birliğinin kurulmasından
+önce satın alındığından kişisel mal yerine geçen değerdir.
+* Bayan A'ya hediye edilen pırlanta yüzük MK 220/b.2 uyarınca kişisel maldır.
+* Bayan A'nın 08.07.2008 tarihinde satın aldığı evi edinilmiş mal yerine geçen
+değerdir. Bay B kişisel mal niteliğinde olan 100.000 TL'yi vererek 300.000 TL
+değerindeki evin değerini arttırmıştır. Bu durumda evin tadilat sonrası 300.000
++ 100.000 = 400.000 TL olmuştur. Bu bakımdan Bay B'nin MK 227 uyarınca tasfiye
+sırasında evde ortaya çıkan değer artışı için alacak hakkı doğmuştur. Buna
+*değer artış payı alacağı* denilmektedir. Değer artış payı alacağı şu şekilde
+hesaplanır:
+ 
+====
+* Evin başlangıç değeri = 300.000 + 100.000 = 400.000 TL 
++
+Evin tasfiye anındaki sürüm değeri = 800.000 TL
+
+* Değer artışı = (Tasfiye anındaki sürüm değeri) - (Başlangıç değeri)
++
+Değer artışı = 800.000 - 400.000 = 400.000 TL
+
+* Katılma ilişkisi = (300.000 + 100.000) / 100.000 = 4
++
+Bay B, 4 pay harcamanın, 1 payını kendisi sağlamıştır.
+
+* Değer artış payı = Değer artışı / Katılma ilişkisi
++
+Değer artış payı = 400.000 / 4 = 100.000 TL
+
+* Değer artış payı alacağı = Yatırım + Değer artış payı
++
+Değer artış payı alacağı = 100.000 + 100.000 = 200.000 TL
+====
+ 
+[cols="2*"]
+|===
+| *Bayan A'nın edinilmiş malları*
+| *Bayan A'nın kişisel malları*
+
+| 08.07.2008'de kazancından biriktirdiği 300.000 TL ile satın aldığı tasfiye sırasında değeri 800.000 TL olan ev 
+| Hediye edilen 10.000 TL değerinde pırlanta yüzük
+
+| 200.000 TL değer artış payı borcu
+| 02.06.2006'da kazancından biriktirdiği 500.000 TL ile satın alınan ofis
+|===
+ 
+Bay B'nin kişisel malından Bayan A'nın edinilmiş malına katkısından doğan değer
+artış payı alacağı Bayan A'nın edinilmiş malının pasifine, Bay B'nin ise
+kişisel malının aktifine yazılacaktır.
+ 
+* Bay B'ye bırakılan mirastan geriye kalan 100.000 TL MK 220/b.2 uyarınca
+kişisel maldır. Ancak bu paranın değerlendirimesi sonucu birikmiş 100.000 +
+40.000 TL = 140.000 TL'nin 40.000 TL'si MK 219/2 b.4 gereği edinilmiş maldır.
+* Bay B'nin kazancından biriktirdiği ve evlilik birliğinin devamı sırasında
+satın aldığı 60.000 TL değerindeki otomobil edinilmiş maldır.
+* Bay B'nin yeğenine aldığı mücevher mal kaçırma kastına dair veri
+olmadığından MK 229/1 b.2'ye ve evlilik birliğinin sona ermesinden önceki 1
+yıl içinde işlem yapılmadığından MK 229/1 b.1'e girmez ve bu kapsamda
+edinilmiş mala eklenecek değer olarak kabul edilemezler.
+ 
+[cols="2*"]
+|===
+| *Bay B'nin edinilmiş malları*
+| *Bay B'nın kişisel malları*
+
+| Miras kalan 100.000 TL'nin getirisi 40.000 TL
+| Miras kalan 100.000 TL
+
+| Kazancından biriktirdiği para ile 05.04.2012'de satın aldığı tasfiye
+sırasında değeri 60.000 TL olan otomobil
+|
+|===
+ 
+Edinilmiş mallara katılma rejiminde eşlerin katılma alacağının hesaplanması
+bakımından temel kavram *artık değerdir*. Zira he iki eşe ait artık değer
+üzerinden her iki eşin artık değer alacakları ve alacakların takası ile de
+eşlerden birisi lehine doğacak olan katılma alacağı hesaplanmaktadır.
+ 
+MK 231'e göre artık değer, değer artış payı alacağı, eklenecek değer ve
+denkleştirme alacağı ile edinilmiş malların toplamından, edinilmiş malları
+yükleyen borçların, denkleştirme borcunun ve değer artış payı borcunun
+çıkarılmasından sonra kalan miktardır. Diğer bir deyişle her iş için artık
+değer, eşin aktifinde pasifinin çıkarılmasıyla belirlenir.
+ 
+[cols="2*"]
+|===
+| *Aktif*
+| *Pasif*
+
+| Edinilmiş malların toplamı
+| Edinilmiş malları yükleyen borçlar
+
+| Değer artış payı alacağı
+| Değer artış payı borcu
+
+| Denkleştirme alacağı
+| Denkleştirme borcu
+
+| Eklenecek değerler
+| 
+|===
+ 
+MK 236/1'e göre, karının artık değerinin yarısı *kocanın artık değer alacağı*,
+kocanın artık değerinin yarısı *karının artık değer alacağıdır*. Hakim görüş ve
+uygulamaya göre katılma alacağı tasfiye kararının verilmesi ile doğar ve
+muaccel olur. Bu kapsamda katılma alacaklısı, takas sonucu lehine katılma
+alacağı doğan eş veya mirasçılarıdır. Katılma borçlusu diğer eş veya
+mirasçılarıdır.
+ 
+====
+* Bayan A'nın artık değeri
+ 
+800.000 TL (ev) - 200.000 TL (değer artış payı borcu) = 600.000 TL
+* Bay B'nin artık değeri
+ 
+40.000 TL (kişisel malın geliri) + 60.000 TL (otomobil) = 100.000 TL
+* Bayan A'nın katılma alacağı
+ 
+100.000 TL (Bay B'nin artık değeri) / 2 = 50.000 TL
+* Bay B'nin katılma alacağı
+ 
+600.000 TL (Bayan A'nın artık değeri) / 2 = 300.000 TL
+====
+ 
+MK 236/1 gereği alacaklar takas edildiğinde; 300.000 TL - 50.000 TL =
+250.000 TL; lehine katılma alacağı doğan eş Bay B'dir. Buna göre Bay B, Bayan
+A'dan 250.000 TL katılma alacağı talep edebilir.
+
+=== OLAY II
+
+5.1.1998 tarihinde evlenen A ile B, 11.6.2014 tarihinde boşanmışlardır. A ile
+B, B'nin 2001 yılında kendi adına satın aldığı ve boşanma davasının açıldığı
+tarihte 1.200.000 TL değerindeki villada yaşamaktadırlar. B, 2003 yılında
+babasından kalan 50.000 TL'yi X şirketine ortak olabilmesi amacıyla A'ya
+vermiştir. A ile bu paraya o tarihte bankada olan kendisine ait 100.000 TL'yi
+ekleyerek X şirketine %50 oranında ortak olmuştur. Boşanma davasının açıldığı
+tarihte A'nın X şirketindeki hissesinin değeri 750.000 TL'dir. X şirketinin
+2008 yılından itibaren yapmış olduğu kardan A'nın hissesine düşen 550.000 TL
+boşanma davasının açılmasından kısa bir süre önce A'ya ödenmiştir. Ancak A,
+B'nin söz konusu para üzerinde hak ileri sürememesi amacıyla bu parayla derhal
+değerli bir saat alarak kullanmaya başlamıştır. Boşanma davasının açıldığı
+tarihte A'nın 50.000 TL kredi kartı borcu ve bankada 250.000 TL parası
+bulunmaktadır. B, 2010 yılında bankadan kredi çekerek 650.000 TL değerinde bir
+yazlık almıştır. Bu yazlığın değeri boşanma davasının açıldığı tarihte 950.000
+TL'dir. B'nin ayrıca bankaya bu kredi dolayısıyla hala 150.000 TL borcu vardır.
+B boşanma davasının açılmasından kısa bir süre evvel 450.000 TL değerinde bir
+otomobil almıştır. B'nin ayrıca boşanma davasının açıldığı tarihte değeri
+600.000 TL olan ofisi bulunmaktadır. Ancak B bu ofisi boşanma davası açtıktan
+sonra 600.000 TL'ye satmış ve bu parayı yurt dışında kumar oynayarak
+harcamıştır.
+
+==== Soru
+
+. Boşanma davası sonucunda A ve B'nin malvarlıkları ne şekilde tasfiye
+edilecektir? Bu tasfiye sonucunda taraflar birbirlerinden hangi miktarlarda ne
+tür alacak taleplerinde bulunabileceklerdir? Açıklayınız.
+
+==== Cevap
+
+Eşler Medeni Kanunun yürürlük tarihi olan 1 Ocak 2002 tarihinden sonra evlenmiş
+ve seçimlik mal rejimlerinden birini seçmemişlerse bu eşler arasında yasal mal
+rejimi olan edinilmiş mallara katılma rejimi uygulanır. Bu tarihten önce
+evlenen eşler arasında bu tarihe kadar tabi oldukları mal rejimi devam eder. A
+ile B, 5.1.1998 tarihinde evlenmişlerdir. Dolayısıyla A ile B'nin evliliğinde
+yürürlükte olan mal rejimi 5.1.1998'ten 1.1.2002 tarihine kadarki kısımda mal
+ayrılığı rejimi, 1 Ocak 2002'de yeni MK'nın yürürlüğe girmesinden sonraki
+dönemde ise 1 yıl içinde başka bir mal rejimini seçmedikleri takdirde, bu
+tarihten geçerli olmak üzere MK 202/1 uyarınca yasal mal rejimi olan edinilmiş
+mallara katılma rejimidir. Ancak eşler bu bir yıllık sürede yapacakları bir
+mal rejimi sözleşmesiyle yasal mal rejiminin evlenme tarihinden geçerli
+olacağını kabul edebilirler. Böyle bir anlaşmanın varlığına dair veri
+bulunmadığından yasal mal rejimi 1 Ocak 2002 tarihinden itibaren
+uygulanacaktır.
+
+A ile B 11.6.2014 tarihinde boşanmışlardır. MK 225/2'e göre mal rejimi boşanma
+kararı verilmesiyle davanın açıldığı tarihten geçerli olmak üzere sona erer. Bu
+noktadan sonra MK 226 uyarınca tasfiye yapılacaktır. Tasfiye eşlerin aralarında
+şekle bağlı olmadan yapabilecekleri bir tasfiye anlaşması ile veya eşlerden
+birisi tarafından açılacak tasfiye davası ile yapılır. Boşanma kararını veren
+mahkeme, MK 214'e göre bu dava için de yetkilidir. Edinilmiş mallara katılma
+rejiminin tasfiyesinde bir sonraki aşama eşlerin kişisel malları ile edinilmiş
+mallarının, mal rejiminin sona erdiği andaki duruma göre tespit edilmesidir (MK
+228/1). Söz konusu malların parasal karşılıkları tespit edilecektir. Bu hususta
+tasfiye anındaki sürüm değeri esas alınır (MK 232, MK 235).
+
+Her bir eşin malvarlığı tasfiye edilerek, diğer eşin bu malvarlığındaki
+edinilmiş mallar üzerindeki katılım alacağı hesaplanır (MK 236). Bunun için
+artık değerin hesaplanması gerekir. Artık değer ise, MK 231 uyarınca edinilmiş
+malların toplamına eklenecek değerlerin ve denkleştirmeden elde edilen
+bedellerin dahil edilmesi ve bu mallara ilişkin borçların çıkarılmasıyla
+bulunacaktır. Katılma alacağı ise kural olarak, MK 236 gereği bu şekilde tespit
+edilen artık değerin yarısıdır.
+
+B'nin katılma alacağının hesaplanması için A'nın malvarlığının tasfiyesi:
+
+* A'nın kişisel malları
+
+. 550.000 TL (saat)
+
+** Bu saat kişisel malın gelirinden alınmış. MK 219/2 b.4'e göre kişisel malın
+gelirleri, edinilmiş maldır. Aynı maddenin 5. bendinde de edinilmiş mal yerine
+geçen değerlerin de edinilmiş mal olduğu kabul edilmiştir.
+** Ancak bu saat kişisel kullanıma yaradığı için esasen kişisel eşya niteliğine
+bürünüyor (MK 220/b.1). 
+** Ancak A bu saati B'nin katılma alacağını azaltmak amacıyla aldığı için MK
+229/b.2 uyarınca eklenecek değerdir.
+
+* A'nın edinilmiş malları
+
+. 750.000 TL (şirket hissesi)
+
+** B bu malın alınmasına kişisel malından katkı yapmıştır. A'nın bu hisseleri
+söz konusu katkı dışında bankada olan parasından karşıladığı ifade edilmiştir.
+Bu paranın ne şekilde kazanıldığı açıklanmamış olduğu için MK 222/son gereği
+edinilmiş mal sayılır.
+
+. 250.000 TL (bankada olan para)
+
+** Paranın ne şekilde kazanıldığı açıklanmamış olduğu için MK 222/son gereği
+edinilmiş mal sayılır.
+
+* Eklenecek değer
+
+. 550.000 TL değerinde saat her ne kadar kişisel mal da olsa, bedeli edinilmiş
+maldan karşılanmış olup, A bu saati B'nin katılma alacağını azaltmak kastıyla
+aldığından MK 229/b.2 gereği eklenecek değer olarak kabul edilecektir.
+
+A'nın ayrıca 50.000 TL kredi kartı borcu bulunmaktadır. Edinilmiş mallara
+katılma rejiminde her borç ilişkin bulunduğu mal kesmini yükümlülük altına
+sokar. Ayrıca hangi mal kesimine ilişkin olduğu anlaşılamayan borç, yasanın
+öngördüğü karine gereği edinilmiş mallara ilişkin sayılmaktadır (MK 230/2).
+O nedenle buradaki 50.000 TL borç edinilmiş mallara sayılır.
+
+A şirket hissesi alırken B'den 50.000 TL almıştır. Bu durumda mal rejiminin
+sona ermesi halinde B, A'dan değer artış payı talep edebilecektir. Şirket
+hissesi toplam 150.000 TL karşılığında alınmış olup, 50.000 TL B'den
+alınmıştır. Bu durumda B'nin bu mala yapmış olduğu katkı oranı=1/3'dür. Şirket
+hisselerinin tasfiye anındaki değeri 750.000 TL'dir. Bu durumda bu değerden
+katkı oranı uyarınca 1/3 lük miktarının A'nın edinilmiş malından çıkarak B'nin
+kişisel malına gitmesi gerekir. Söz konusu miktar 250.000 TL'dir. 250.000 katkı
+A'nın edinilmiş malına yapıldığından edinilmiş mala ilişkin borç olarak işlem
+görecektir.
+
+KA = (750.000 TL (EM) + 250.000 TL (EM) + 550.000 TL (ED) - (50.000 TL + 250.000 TL)) / 2 = 1.250.000 / 2 = 625.000 TL
+
+A'nın katılma alacağının hesaplanması için B'nin malvarlığının tasfiyesi:
+
+* B'nin kişisel malları
+
+. 1.200.000 TL (villa)
+
+** 2001 yılında, yani edinilmiş mallara katılma rejiminin yürürlükte olmadığı
+sırada alındığından kişisel maldır.
+
+* B'nin edinilmiş malları
+
+. 800.000 TL (yazlık)
+
+** Yazlık mal rejimi yürürlükteyken karşılığı verilerek alınmıştır,
+dolayısıyla edinilmiş maldır. Ancak bu yazlık dolayısıyla bankaya olan 150.000
+TL miktarındaki borç yazlığın tasfiye anındaki sürüm değerinden düşülür. 
+
+. 450.000 TL (otomobil)
+
+** Otomobil mal rejiminin devamı esnasında karşılığı verilerek elde edilmiştir.
+Paranın nereden edinildiği belirtilmediğinden MK 222/son gereği edinilmiş mal
+kabul edilir.
+
+. 600.000 TL (ofis)
+
+** Ofisin hangi tarihte ve nasıl alındığı belirtilmiyor. MK 222/son gereği
+edinilmiş mal kabul edilir. Boşanma davası açıldıktan sona satılsa da dikkate
+alınır. Zira eşlerin malvarlıkları mal rejiminin sona erdiği boşanma davası
+tarihinde malvarlıklarına yer alan değerler ile tasfiyeye girer (MK m.228/1).
+KA = (800.000 TL (EM) + 450.000 TL (EM) + 600.000 TL (EM)) / 2 = 1.850.000 / 2 = 925.000 TL
+
+A ve B'nin katılma alacakları MK 236 uyarınca kanun gereği takas edilir. Bu
+durumda daha yüksek katılma alacağı ödeme borcu daha az olan borç oranında sona
+erer. Dolayısıyla somut olayda B'nin A'ya 925.000 - 625.000 = 300.000 TL
+katılma alacağı ödemesi gerekir.
+
+B ayrıca A'dan 250.000 TL değer artış payı talep edebilecektir. Ancak B'nin
+değer artış payını talep etmesi gerekmektedir. Hakim böyle bir talep olmadan
+kendiliğinden değer artış payı alacağına hükmedemez. Ayrıca bu para B'nin
+kişisel malına ait olduğu için tasfiyede dikkate alınmamıştır.
+
+=== OLAY III
+
+A ile C 5.1.2002 tarihinde evlenmiş ve 1.6.2015 tarihinde boşanmışlardır. C,
+evlilik sonrası geçirdiği bir kaza nedeniyle 50.000 TL maddi tazminat almış ve
+babaannesinin düğün hediyesi olarak verdiği 50.000 TL ile bu tazminatı
+birleştirerek 100.000 TL'ye bir araba almıştır. Boşanma davasının açıldığı
+tarihte arabanın değeri 70.000 TL'dir. C, düğünde babasının hediye ettiği
+30.000 TL'yi bankaya koyarak elde ettiği faiz geliri 10.000 TL'yi de bu paraya
+ekleyerek bir laboratuvar kurmuştur. Laboratuvarın boşanma davasının açılmış
+olduğu tarihteki değeri 60.000 TL'dir. C ayrıca 2014 yılında Cihangir'de bir
+daire almıştır. Bu dairenin değeri boşanma davasının açıldığı tarihte 450.000
+TL'dir. C'nin boşanma davasının açılmış olduğu tarihte bankaya 55.000 TL kredi
+borcu bulunmaktadır. A ise evlendikten sonra maaşından 80.000 TL
+biriktirmiştir. A, bu paranın 30.000 TL'sini C'ye danışmadan yurtdışında dil
+eğitimi almak isteyen kardeşine 2015 yılbaşında hediye olarak vermiştir. A,
+boşanma davası açıldıktan sonra bankadan 5.000 TL kredi çekmiştir.
+
+==== Soru
+
+Boşanma kararı sonunda eşlerin malvarlığının tasfiyesi ne şekilde yapılacaktır?
+Tasfiye sonucunda hangi eş diğerinden, ne miktarda katılma alacağı talep
+edebilir?
+
+==== Cevap
+
+4721 sayılı Medeni Kanunun yürürlüğe girdiği 1.1.2002'den sonra evlenmiş ve
+kanunda belirtilen seçimlik mal rejimlerinden birini seçmemiş eşler, MK 202/1
+gereği yasal mal rejimi olan edinilmiş mallara katılma rejimine tabidir. A ile
+C 5.1.2002 tarihinde evlendiğinden tabi olacakları mal rejimi edinilmiş mallara
+katılma rejimidir. 
+
+A ile C 1.6.2015 tarihinde boşanmışlardır. Edinilmiş mallara katılma rejiminin
+boşanma dolayısyla sona ermesi halinde, sona erme tarihi davanın açıldığı
+tarihtir (MK 225/2). Mal rejiminin tasfiyesine sona erme tarihinde tarafların
+malvarlıklarında yer alan değerler girecektir (MK 228). Söz konusu değerlerin
+parasal karşılıklarının tespiti gerekir, bu hususta da tasfiye anındaki sürüm
+değeri esas alınacaktır (MK 232, MK 235).
+
+Her bir eşin malvarlığı tasfiye edilerek, diğer eşin bu malvarlığındaki
+edinilmiş mallar üzerindeki katılma alacağı hesaplanır (MK 236). Bunun için
+artık değerin hesaplanması gerekir. Artık değer ise, MK 231 uyarınca edinilmiş
+malların toplamına eklenecek değerlerin ve denkleştirmeden elde edilen
+bedellerin dahil edilmesi ve bu mallara ilişkin borçların çıkarılmasıyla
+bulunacaktır. Katılma alacağı ise kural olarak, MK 236 gereği bu şekilde tespit
+edilen artık değerin yarısıdır.
+
+. C'nin katılma alacağının hesaplanması için A'nı malvarlığının tasfiyesi:
+
+* A'nın kişisel malları: *YOK*
+
+* A'nın edinilmiş malları
+.. 50.000 TL (bankada para)
+** Maaşından biriktirdiği ifade ediliyor. Mal rejiminin devamında çalışma
+karşılığı alınan para olduğundan MK 219'a göre edinilmiş maldır.
+
+* Eklenecek değer
+.. A'nın kardeşine bağışladığı 30.000 TL edinilmiş maldan harcanmıştır. A bunu
+eşinin (C'nin) onayını almadan yaptığı için ve bu karşılıksız kazandırma mal
+rejiminin sona ermesinden önceki 1 yıl içinde olduğu için MK 229/b.1 uyarınca
+bu değer edinilmiş mallar toplamına eklenir.
+
+* A'nın ayrıca 5.000 TL kredi borcu bulunmaktadır. Olayda bu kredi boşanma davası
+açıldıktan sonra alınmıştır. Malvarlığı ise sona erme tarihindeki duruma göre
+tasfiye edileceğinden buradaki borç diğer eşin katkı alacağının hesaplanmasında
+dikkate alınmayacaktır (MK 228).
++
+KA = (50.000 TL (EM) + 30.000TL (ED)) / 2 = 80.000 TL / 2 = 40.000 TL
+
+. A'nın katılma alacağının hesaplanması için C'nin malvarlığının tasfiyesi:
+
+* C'nin kişisel malları
+.. 60.000 TL (laboratuvar)
+** Laboratuvar büyük oranda kişisel maldan karşılandığı için kişisel mal olarak
+nitelendirilecektir. Ancak edinilmiş maldan laboratuvarın kurulmasına yapılan
+katkı oranında denkleştirme yapılacaktır.
+
+* C'nin edinilmiş malları
+.. 70.000 TL (araba)
+** Bu araba 100.000 TL karşılığında alınmış, yarısı kişisel maldan yarısı
+edinilmiş maldan karşılanmıştır. Kişisel malın katkı oranı ile edinilmiş malın
+katkı oranı aynı olduğu için burada araba edinilmiş mal olacak ancak kişisel
+mal lehine denkleştirme yapılacaktır.
+.. 450.000 TL (Cihangir'de daire)
+** Bu dairenin bedelinin ne şekilde karşılandığı belirtilmemiştir. MK 222/son
+gereği edinilmiş mal olarak kabul edilir.
+
+* Denkleştirmeden elde edilen değerler
+
+** Olayda öncelikle araba bakımından denkleştirme yapılmalıdır. Araba ilk
+alındığı tarihte 100.000 TL'ye alınmıştır. Bunun yarısı edinilmiş maldan diğer
+yarısı kişisel maldan karşılanmıştır. O halde MK 230/3 gereği denkleştirme
+oranı 1/2'dir (50.000 TL maddi tazminat edinilmiş maldır. Babaanneden kalan
+50.000 TL kişisel maldır. Malın toplam bedeli 100.000 TL, kişisel madan yapılan
+50.000 TL'dir. Kişisel madan yapılan katkının malın toplam değerine oranı
+50.000 / 100.000 = 1/2). Malın tasfiye anındaki sürüm değeri ise 70.000 TL'dir.
+1/2 oranında kişisel mal lehine denkleştirme yapıldığında 35.000 TL'nin tekrar
+kişisel mala dönmesi gerekir.
+** Laboratuvar 40.000 TL karşılığında kurulmuştur. 30.000 TL'si C'nin babası
+tarafından düğün hediyesi olarak verilen paradan karşılanmıştır. Bu para
+kişisel maldır. Dolayısıyla laboratuvar büyük oranda kişisel maldan
+karşılanarak kurulduğu için kişisel mal niteliğindedir. Ancak 40.000 TL ile
+kurulan laboratuvarın 10.000 TL'si baba tarafından bağışlanan paranın faizi ile
+karşılanmıştır. Kişisel malın geliri edinilmiş mal olduğu için burada 10.000 TL
+edinilmiş mal olarak nitelendirilecektir. Sonuçta edinilmiş maldan kişisel mala
+katkı yapılmıştır. Denkleştirme oranı ise, edinilmiş maldan yapılan katkının
+malın toplam değerine oranı bulunurak tespit edilmelidir. Buna göre 10.000 TL /
+40.000 TL = 1/4 denkleştirme oranıdır. Laboratuvarın tasfiye anındaki sürüm
+değeri 60.000 TL'dir. Buna göre bu değerin 1/4'ü, yani 15.000 TL'si tekrar
+edinilmiş mala dönmelidir. 
+
+* Çıkarılacak değer
+** C'nin 55.000 TL kredi borcu bulunmaktadır. Bu borcun ne için oluşturulduğu
+bilgisi olmadığından burada borcun MK 230/2 gereği edinilmiş mallara ilişkin
+olduğu kabul edilmelidir.
+
+* KA = (70.000 (EM) + 450.000 (EM) + 15.000 (ED) - (35.000 (DB) + 55.000 (B))) / 2 = 445.000 / 2 = 222.500 TL
+
+
+A ve C'nin katılma alacakları MK 236 uyarınca kanun gereği takas edilir. Bu
+durumda daha yüksek olan katılma alacağı ödeme borcu daha az olan borç oranında
+sona erer. Dolayısıyla somut olayda C'nin A'ya 222.500 - 40.000 = 182.500 TL
+katılma alacağı ödemesi gerekir.

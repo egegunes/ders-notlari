@@ -1,0 +1,3304 @@
+:icons: font
+:toc:
+:toc-title: TİCARET ŞİRKETLERİ
+:toclevels: 4
+
+== ADİ ŞİRKET
+
+====
+*TBK 620*: (1) Adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini
+ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri
+sözleşmedir.
+
+(2) Bir ortaklık, kanunla düzenlenmiş ortaklıkların ayırt edici niteliklerini
+taşımıyorsa, bu bölüm hükümlerine tabi adi ortaklık sayılır.
+====
+
+Ortaklık ilişkisinden bahsedebilmek için en az iki kişi olması gerekir. Bu
+ortaklar gerçek kişi de tüzel kişi de olabilir.
+
+NOTE: Bazı ortaklık tiplerinde bu kurala sınırlama getirilmiştir. Örneğin
+*kolektif şirket ortakları ancak gerçek kişi olabilir*. Yine *komandit şirketin
+komandite ortakları ancak gerçek kişi olabilir*.
+
+Adi şirkette ortaklık ilişkisi aynı zamanda sözleşme temelli bir ilişkidir.
+Ortakların katıldığı sözleşme bir *birleşme sözleşmesidir*.
+
+Ortaklık ilişkisinde ortakların birbirleriyle çatışan çıkarları değil, aynı
+yönde amaçları vardır. Amaçları, ortaklık amacını gerçekleştirmektir.
+
+Ortaklığın genel sözleşmelerden farkı ortaklığın temel borcu olan sermayedir.
+Sermaye borcu bir mülkiyetin geçirilmesi veya para borcu olabilir. Bu borç ifa
+edildiğinde mülkiyet devirle birlikte devralana geçer. Ancak ortaklık tüzel
+kişi ise hukuki mülkiyet burada da devir alana geçmekle birlikte ortağın
+ekonomik mülkiyeti devam eder.
+
+Tüzel kişiliği olmayan adi şirkette ise mülkiyetin şirkete devredilmesi halinde
+elbirliği ortaklığı tesis edilir. Elbirliği ortaklığının en önemli sonucu her
+ortağın şirketin tüm malvarlığının her zerresinde hak sahibi olmasıdır. Adi
+şirkette sadece ekonomik mülkiyet değil hukuki anlamda da mülkiyet devam eder.
+
+Tüzel şirkette, ortaklık kurulana kadar şirket yoktur. Dolayısıyla sözleşmenin
+tarafı sadece kurucu ortaklardır. Şirket kurulup tüzel kişilik kazandıktan
+sonra şirketin ortakları, nasıl yönetileceği, kararların nasıl alınacağı bu
+sözleşmeye göre belirlenir.
+
+Ortaklık sürekli etkili sözleşmelerdir. Yani ortaklık ilişkisi sürekli borç
+ilişkisi niteliğindedir. TBK'daki sözleşme hükümleri ancak ve ancak mahiyetine
+uygun olduğu ölçüde ortaklık ilişkilerine uygulanır.
+
+[NOTE]
+====
+*Gabine ilişkin TBK 28* kural olarak ortaklık sözleşmesine uygulanamaz. Çünkü
+karşılıklılık yoktur. Bu açıdan edimler arası dengesizlikten söz edilemez.
+Ortakların taahhüt ettiği sermayenin birbirleriyle eşit olması zorunluluğu
+yoktur.
+
+*Ödemezlik defi (TBK 97)* de ortaklık ilişkisine uygulanamaz. Çünkü taahhüt
+edilen sermaye; ivaz ve karşı ivaz niteliğinde değildir.
+====
+
+Yapılan işlemlerin irade sakatlığı nedeniyle iptal edilmesi de ortaklıkta
+mahiyetine uygun olduğu ölçüde uygulanır.
+
+İrade sakatlığı durumunda TBK'ya göre yenilik doğurucu bir beyan ile sözleşme
+iptal edilebilirken TTK'daki özel hükümlere göre mahkemeye gidilip fesih davası
+açılmalıdır.
+
+Ortaklıkta muhakkak sermaye unsurunun bulunması gerekir. Ekonomik değeri olan
+her şey sermaye olabilir.
+
+Ortak amaç genel olarak ekonomik menfaattir. Şirkette ortaklara ekonomik
+menfaatin sağlanması amacıdır. Ekonomik menfaat kavramı kazanç kavramından daha
+geniştir.
+
+Tanımda geçmemesine rağmen öğretide ortaklık ilişkisinin ortak çabaya
+dayandığı kabul edilir. Ortak amacın gerçekleşmesiyle bağlantılı olarak
+ortaklar az veya çok bu ortak amacın gerçekleştirilmesi için aktif çaba
+göstermek zorundadır.
+
+[NOTE]
+====
+Ön ortaklık ilişkisi için özel mevzuatta hüküm olmadığında adi şirket hükümleri
+uygulanır. *Ticaret şirketi tüzel kişiliği haizdir ama tüzel kişi olabilmek
+için kuruluş aşamasının tamamlanması ve ticaret siciline tescili gerekir.*
+Kuruluş işlemleri, şirket sözleşmesinin imzalanmasından, ticaret siciline
+tescil arasındaki zaman diliminde gerçekleşen tüm işlemlerdir.
+
+Ön ortaklık, ortaklar arasında şirket sözleşmesinin imzalanmasından ticaret
+siciline tescile kadar olan aşamaların hukuki ilişkideki adıdır.
+====
+
+Adi şirketin kurulmasında önem taşıyan husus sözleşme ilişkisidir. Sözleşme
+yoksa adi ortaklık ilişkisi söz konusu değildir. Kanundan kaynaklanan
+ilişkiler kural olarak adi ortaklık sayılmaz.
+
+Adi ortaklıkta sakatlık halinde, belirli şartlar da varsa ortaklık geriye
+etkili olarak ortadan kalkmaz, geçersizliğin ileri sürülmesinden itibaren
+ileriye etkili olarak sonuç doğurur. Bu şartlar:
+
+. Ortaklıktan başka korunan özel bir menfaat olmaması gerekir. Başka menfaatler
+varsa sakat ortaklık hükümleri uygulanmaz, sözleşme baştan itibaren geçersiz
+olur.
+. Şirket üçüncü kişilerle faaliyete başlamış olmalıdır. Dış ilişkide faaliyet
+başlamalı ve üçüncü kişilerde şirketin varlığı algısı oluşturulmalıdır.
+. Üçüncü kişilerin de korunmasını gerektiren bir emredirici hükme aykırılık
+varsa yine sakat ortaklık hükümleri uygulanmaz.
+
+Bu üç şart bir arada bulunursa sakat ortaklıktan bahsedilebilir.
+
+** Sözleşme ileriye etkili olarak geçersiz kabul edilir.
+** Tasfiye gene adi şirket hükümlerine göre yapılır.
+
+Sakat ortaklık şartlarının üç koşulu bir arada gerçekleşmezse sözleşme baştan
+itibaren geçersiz olur.
+
+** Tarafların sermaye taahhütleri varsa geçersiz ilişkide verildiği için
+sebepsiz zenginleşme hükümlerine göre iade edilir.
+** Üçüncü kişilerle ilişkilerde sanki o güne kadar geçerli bir adi ortaklık
+varmış gibi sorumluluk devam eder.
+
+Şirketin malvarlığı ortakların sermaye borçlarını ifa etmeleri ve faaliyete
+başlandığında elde edilen ekonomik kazançla oluşur. Şirketin bu malvarlığı
+üzerinde elbirliği ortaklığı söz konusudur.
+
+Şirketin malvarlığında *şirket yöneticileri* ve *temsilcileri* ile *oy birliğiyle
+tüm ortaklar* tasarrufta bulunabilir.
+
+Elbirliği ortaklığının pratik sonucu, ortağın alacaklısı (şirketin değil),
+alacağını kural olarak şirketin malvarlığından tahsil edemez. Alacaklı şirket
+malvarlığına ulaşamazsa da ortağın şirketteki payını isteyebilir.
+
+[caption=""]
+.Ortaklığın yönetimi
+====
+*TBK 625*: (1) Yönetim, sözleşme veya kararla yalnızca bir veya birden çok
+ortağa ya da üçüncü bir kişiye bırakılmış olmadıkça, bütün ortaklar ortaklığı
+yönetme hakkına sahiptir.
+
+(2) Ortaklık, ortakların tümü veya birkaçı tarafından yönetilmekte ise,
+bunlardan her biri, diğerleri katılmaksızın işlem yapabilir; ancak ortaklığı
+yönetmeye yetkili olan her ortak, tamamlanmasından önce işleme itiraz etmek
+suretiyle, bu işlemin yapılmasını engelleyebilir.
+
+(3) Ortaklığa genel yetkili bir temsilci atanması ve ortaklığın olağan dışı
+işlerinin yürütülmesi için, bütün ortakların oybirliği gereklidir. Ancak,
+gecikmesinde sakınca olan hâllerde, bu konuda yönetici ortaklardan her biri
+yetkilidir.
+====
+
+Ortaklığın *dar anlamdaki yönetimi* iç ilişkideki yönetimdir. Dış ilişkideki
+yönetim şirketin temsilidir. *Geniş anlamdaki yönetim* ise iç ve dış ilişkideki
+yönetimi ifade eder.
+
+Kanuni düzende tüm ortaklar yönetici sıfatına haizdir. Sözleşmede aksine bir
+hüküm yoksa tüm ortaklar şirketin yöneticisidir. Her biri yönetim hakkı ve
+görevine haizdir. Ortaklar kanuni düzenlemeye göre şirketi tek başına yönetme
+hakkına sahiplerdir.
+
+Yönetim;
+
+* kanuni sistemin uygulanmasıyla,
+* sözleşme ile tayinle,
+* sonradan alınan kararla belirlenebilir.
+
+[caption=""]
+.Ortaklığın kararları
+====
+*TBK 624*: (1) Ortaklığın kararları, bütün ortakların oybirliğiyle alınır.
+
+(2) Sözleşmede kararların oy çokluğuyla alınacağı belirtilmişse çoğunluk, ortak
+sayısına göre belirlenir.
+====
+
+Kararla göreve getirilen kişinin azli için sözleşmeyi değiştirmek gerekmez,
+yine karar almak yolu ile kişiyi değiştirmek mümkündür. Sözleşme ile atanan
+kişi için ise sözleşmenin değiştirilmesi şarttır.
+
+CAUTION: Sözleşme değişikliği tüm ortakların bu yönde karar vermesi ile olur.
+Aksi düzenlenemez.
+
+[caption=""]
+.Yönetim yetkisinin kaldırılması ve sınırlanması
+====
+*TBK 629*: (1) Ortaklık sözleşmesiyle ortaklardan birine verilen yönetim
+yetkisi, haklı bir sebep olmaksızın, diğer ortaklarca kaldırılamaz ve
+sınırlanamaz.
+
+(2) Ortaklık sözleşmesinde yetkinin kaldırılamayacağına ilişkin bir hüküm
+bulunsa bile, haklı bir sebep varsa, diğer ortaklardan her biri yönetim
+yetkisini kaldırabilir.
+
+(3) Haklı sebepler, özellikle yönetici ortağın görevini aşırı ölçüde ihmal
+etmesi veya iyi yönetim için gerekli olan yeteneği kaybetmesi durumlarında
+vardır.
+====
+
+*Haklı sebeple azli her hangi bir ortak yapabilir*. Haklı sebeplere kanunda
+verilen örnekler sınırlı sayıda değildir. Yönetici borç ve yükümlülükleriyle
+bağdaşmayan işler yaparsa haklı sebep söz konusu olabilir. Hakim görüşe göre
+azlin tek taraflı beyanla karşı tarafa ulaşmasıyla sonuç doğar.
+
+Azil dışında *vekalete dayalı sona erme sebepleri* de yöneticinin görevini sona
+erdirir. Vekalet ilişkisinin sona erme sebepleri:
+
+* belirlenmiş görev süresinin dolması
+* ölüm
+* fiil ehliyetinin kaybı gibi nedenlerdir.
+
+[caption=""]
+.Ortaklığın yönetimi
+====
+*TBK 625*: (1)Yönetim, sözleşme veya kararla yalnızca bir veya birden çok
+ortağa ya da üçüncü bir kişiye bırakılmış olmadıkça, bütün ortaklar ortaklığı
+yönetme hakkına sahiptir.
+
+(2) Ortaklık, ortakların tümü veya birkaçı tarafından yönetilmekte ise,
+bunlardan her biri, diğerleri katılmaksızın işlem yapabilir; ancak ortaklığı
+yönetmeye yetkili olan her ortak, tamamlanmasından önce işleme itiraz etmek
+suretiyle, bu işlemin yapılmasını engelleyebilir.
+
+(3) Ortaklığa genel yetkili bir temsilci atanması ve ortaklığın olağan dışı
+işlerinin yürütülmesi için, bütün ortakların oybirliği gereklidir. Ancak,
+gecikmesinde sakınca olan hâllerde, bu konuda yönetici ortaklardan her biri
+yetkilidir.
+====
+
+Yöneticinin yetkisi olağan işlemlerle sınırlıdır. Olağanüstü işlemler için
+ortakların oybirliği ile karar alması gerekir.
+
+Olağan işlerin ne olduğu kanunda belirtilmemiştir. Bu konuda çeşitli görüşler
+vardır:
+
+. *Birinci görüş*: Başka bir şahıs şirketi olan kollektif şirket hükümleri
+uygulanmalıdır.
++
+[caption=""]
+.Yönetimin kapsamı
+====
+*TTK 223*: (1) Şirketin yönetimi kapsamındaki hususlar, şirketin amacını ve
+konusunu elde etmek için yapılması gereken olağan işlem ve işler ile
+sınırlıdır. Şirketi yönetenler, şirket menfaatine uygun gördükleri işlerde,
+olağan işlem ve işlerle sınırlı olmak şartıyla, sulh, feragat ve kabul ile
+tahkime de yetkilidirler. Şu kadar ki, bağışta bulunmak, kefil olmak, üçüncü
+kişi lehine garanti vermek, ticari mümessil tayin etmek ve şirket konusuna
+girmiyorsa taşınmazları satmak, satın almak, teminat göstermek, şirketin özüne
+ilişkin üretim araçlarını elden çıkarmak, rehnetmek veya ticari işletme rehni
+kurmak gibi olağan iş ve işlemler dışında kalan hususlarda ortakların oybirliği
+şarttır.
+====
+. *İkinci görüş*: Vekalet hükümlerinde özel yetkiyi gerektiren işlemler
+olağanüstü sayılmalıdır.
++
+[caption=""]
+.Vekaletin kapsamı
+====
+*TBK 504*: (1) Vekâletin kapsamı, sözleşmede açıkça gösterilmemişse, görülecek
+işin niteliğine göre belirlenir.
+
+(2) Vekâlet, özellikle vekilin üstlendiği işin görülmesi için gerekli hukuki
+işlemlerin yapılması yetkisini de kapsar.
+
+(3) Vekil, özel olarak yetkili kılınmadıkça dava açamaz, sulh olamaz, hakeme
+başvuramaz, iflas, iflasın ertelenmesi ve konkordato talep edemez, kambiyo
+taahhüdünde bulunamaz, bağışlama yapamaz, kefil olamaz, taşınmazı devredemez ve
+bir hak ile sınırlandıramaz.
+====
+. *Üçüncü görüş (_Kürsü görüşü_)*: Somut olay irdelemesinde işletmenin
+faaliyetleri, işlem hacmi, cirosu, faaliyet türü dikkate alınmalıdır. Bunlara
+göre hakim işlemin olağan-olağanüstü olmasını değerlendirmelidir.
++
+*Özellikle duran varlıklara ilişkin işlemler olağanüstü sayılmalıdır.*
+
+Olağan işlemde, işlemi yapmazsa doğal olarak yöneticinin sorumluluğu doğar.
+Olağanüstü işlemde de gecikmesinde sakınca bulunan bir hal söz konusuysa
+harekete geçmediği takdirde yöneticin sorumluluğu doğabilir.
+
+====
+*TBK 637*: (1) Kendi adına ve ortaklık hesabına bir üçüncü kişi ile işlemde
+bulunan ortak, bu kişiye karşı bizzat kendisi alacaklı ve borçlu olur.
+
+(2) Ortaklardan biri, ortaklık veya bütün ortaklar adına bir üçüncü kişi ile
+işlem yaparsa, diğer ortaklar ancak temsile ilişkin hükümler uyarınca, bu
+kişinin alacaklısı veya borçlusu olurlar.
+
+(3) Kendisine yönetim görevi verilen ortağın, ortaklığı veya bütün ortakları
+üçüncü kişilere karşı temsil etme yetkisi var sayılır. Ancak, temsil yetkisine
+sahip yönetici ortağın yapacağı önemli tasarruf işlemlerine ilişkin yetkinin,
+bütün ortakların oybirliğiyle verilmiş olması ve yetki belgesinde bu hususun
+açıkça belirtilmiş olması şarttır.
+====
+
+*Örtülü tayin:* İç ilişkide temsilci olarak atanan kişi zamanla dış ilişkide de
+işlem yapmaya başlamış ve ortaklar buna ses çıkarmamış ise o kişinin dış
+ilişkide de temsilci hale geldiği kabul edilir.
+
+Şirketi temsil eden kişi yetkisiz işlem yaparlarsa ikili ayrıma gidilmelidir.
+
+. Eğer *temsilci aynı anda ortaksa* yaptığı işlem hem kendi adına hem de diğer
+ortaklar adına olur. Yetkisiz hareket etmişse işlem kesin olarak geçerlidir ve
+en azından kendi adına sonuç doğurur.
+. Eğer *temsilci ortak değilse* TBK'daki _yetkisiz temsil_ hükümleri uygulanır.
+
+TIP: Her bir ortak sadece kendi açısından şirket temsilcisinin yetkisini geri
+alabilir. Temsilcinin atanmış ya da ortak olması açısından fark yoktur.
+
+[caption=""]
+.Temsilin sonuçları
+====
+*TBK 638*: (1) Ortaklık için edinilen veya ortaklığa devredilen şeyler,
+alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde
+bütün ortaklara ait olur.
+
+(2) Ortaklık sözleşmesinde aksine bir hüküm bulunmadıkça, bir ortağın
+alacaklıları, haklarını ancak o ortağın tasfiyedeki payı üzerinde
+kullanabilirler.
+
+(3) Ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye
+karşı, ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi
+kararlaştırılmamışsa müteselsilen sorumlu olurlar.
+====
+
+Ortakların adi şirkette temel borcu *sermaye koyma* borcudur. Sermaye borcu
+genellikle para olarak ifa edilir.
+
+====
+
+*TTK 127*: (1) Kanunda aksine hüküm olmadıkça ticaret şirketlerine sermaye
+olarak;
+
+.. Para, alacak, kıymetli evrak ve sermaye şirketlerine ait paylar,
+.. Fikrî mülkiyet hakları,
+.. Taşınırlar ve her çeşit taşınmaz,
+.. Taşınır ve taşınmazların faydalanma ve kullanma hakları,
+.. Kişisel emek,
+.. Ticari itibar,
+.. Ticari işletmeler,
+.. Haklı olarak kullanılan devredilebilir elektronik ortamlar, alanlar, adlar
+ve işaretler gibi değerler,
+.. Maden ruhsatnameleri ve bunun gibi ekonomik değeri olan diğer haklar,
+.. Devrolunabilen ve nakden değerlendirilebilen her türlü değer,
+konabilir.
+
+(2) Kanunun 307 nci maddesinin ikinci, 342 nci maddesinin birinci ve 581 inci
+maddesinin birinci fıkra hükümleri saklıdır.
+====
+
+Sermaye borcunun bir taşınır veya taşınmazın mülkiyetinin devri ile ifa
+edilmesi mümkün olduğu gibi mülkiyet devredilmeden kullanma hakkı ile de ifa
+edilebilir. Tereddüt halinde asıl olan mülkiyetin devredildiğidir.
+
+====
+*TTK 131*: (2) Şirket sözleşmesinde veya esas sözleşmede aksi
+kararlaştırılmamışsa, sermaye olarak konan ayınların mülkiyeti şirkete ait ve
+haklar şirkete devredilmiş olur.
+====
+
+Taşınmaz sermaye olarak koyulduğunda devri ve vaadi resmi şekle tabidir. Satış
+vaadi için noterden satış vaadi, devir için de tapuda tescil yapılmalıdır.
+İster tapu aşamasında ister noter aşamasında mülkiyetin devredilip
+devredilmediği sözleşmede kontrol edilip işlem yapılır.
+
+TBK'nın adi şirket hükümlerinde sermaye borcunun ifa edilmemesinin sonuçları
+düzenlenmemiştir. Düzenlenmediğinden öğretide genel hükümlerin ve TTK 128'in
+uygulanacağı kabul edilmektedir.
+
+====
+*TTK 128*: (1) Her ortak, usulüne göre düzenlenmiş ve imza edilmiş şirket
+sözleşmesiyle koymayı taahhüt ettiği sermayeden dolayı şirkete karşı borçludur.
+
+(2) Şirket sözleşmesinde veya esas sözleşmede bilirkişi tarafından belirlenen
+değerleriyle yer alan taşınmazlar tapuya şerh verildiği, fikrî mülkiyet hakları
+ile diğer değerler, varsa özel sicillerine, bu hüküm uyarınca kaydedildikleri
+ve taşınırlar güvenilir bir kişiye tevdi edildikleri takdirde ayni sermaye
+kabul olunur. Özel sicile yapılan kayıt iyiniyeti kaldırır.
+
+(3) Sermaye olarak taşınmaz mülkiyeti veya taşınmaz üzerinde var olan veya
+kurulacak olan ayni bir hakkın konulması borcunu içeren şirket sözleşmesi
+hükümleri, resmî şekil aranmaksızın geçerlidir.
+
+(4) Paradan başka ekonomik bir değer veya bir taşınırın sermaye olarak
+konulmasının borçlanılması hâlinde şirket, tüzel kişilik kazandığı andan
+itibaren bunlar üzerinde malik sıfatıyla doğrudan tasarruf edebilir.
+
+(5) Taşınmaz mülkiyetinin veya diğer ayni bir hakkın sermaye olarak konulması
+hâlinde, şirketin bunlar üzerinde tasarruf edebilmesi için tapu siciline tescil
+gereklidir.
+
+(6) Mülkiyet ve diğer ayni hakların tapu siciline tescili istemi ile diğer
+sicillere yapılacak tescillerle ilgili bildirimler, ticaret sicili müdürü
+tarafından, ilgili sicile resen ve hemen yapılır. Şirketin tek taraflı istemde
+bulunabilme hakkı saklıdır.
+
+(7) Şirket, her ortağın sermaye koyma borcunu yerine getirmesini isteyebileceği
+ve dava edebileceği gibi, yerine getirmede gecikme sebebiyle uğradığı zararın
+tazminini de isteyebilir. Tazminat istemi için ihtar şarttır. Şahıs
+şirketlerinde bu davayı ortaklar da açabilir.
+
+(8) Ortaklarca, sermaye olarak konulması taahhüt edilen hakların korunması
+için, kurucular tarafından ortaklar aleyhine ihtiyati tedbir istenebilir.
+Tedbir üzerine açılacak davalar için, Hukuk Usulü Muhakemeleri Kanununda
+öngörülen süre ancak şirketin tescil ve ilanı tarihinden itibaren işlemeye
+başlar.
+====
+
+Para borcu varsa temerrüt faizi işletilebilir. Fazile karşılanmayan munzam
+zararlar için tazminat talep edilebilir. Sözleşmede öngörülmüşse cezai şart da
+talep edilebilir.
+
+TIP: Sermaye borcunun ödenmemesi şirketin feshi ve sona ermesi konusunda haklı
+sebep oluşturabilir.
+
+Sermaye borcunun yerine getirilmemesinde _actio pro socio_ davası da
+açılabilir. Normalde sermaye borcunu ortaktan şirketin yöneticileri ve
+temsilcileri talep edebilir çünkü sermaye borcu adi şirketin diğer ortakları
+açısından bir sermaye alacağı oluşturur. Bu davanın özelliği ise, yönetimin
+dışında ortakların da sermaye borcunun ifasını talep edebilmesidir. Bir nevi
+ifa davasıdır ve her ortak tarafından açılabilir.
+
+*Yönetimin açacağı sermaye borcu ifası davası da alternatif bir davadır.*
+
+[NOTE]
+====
+Sermaye borcunu yerine getirmeyen ortak sermaye borcunu ifa etmeyen başka
+bir ortağa karşı bu davayı açabilir mi?
+
+Genel kanaat, kendi sermaye borcunu ifa etmeyen ortağın bu davayı açamayacağı
+yönündedir. Sebebi ise, ödemezlik defi ve dürüstlük kuralıdır. Ödemezlik defi,
+mahiyetine uygun olduğu ölçüde adi şirkete uygulanabilir.
+====
+
+[caption=""]
+.Kazanç ve zarara katılma
+====
+*TTK 623*: (1) Sözleşmede aksi kararlaştırılmamışsa, her ortağın kazanç ve
+zarardaki payı, katılım payının değerine ve niteliğine bakılmaksızın eşittir.
+
+(2) Sözleşmede ortakların kazanç veya zarara katılım paylarından biri
+belirlenmişse bu belirleme, diğerindeki payı da ifade eder.
+
+(3) Bir ortağın zarara katılmaksızın yalnız kazanca katılacağına ilişkin
+anlaşma, ancak katılma payı olarak yalnızca emeğini koymuş olan ortak için
+geçerlidir.
+====
+
+Temel kural *eşitliktir*. Her ortak eşit oranda kar ve zarara katılma
+yükümlülüğü ve hakkına sahiptir. Ortaklar hangi oranda sermaye taahhüt etmiş
+olurlarsa olsun eşitlik vardır. Aksine sözleşme yapılarak tarafların
+koydukları sermaye ile orantılı olarak kar ve zarara katılacağı
+kararlaştırılabilir. Sözleşmede kısmen düzenleme varsa, biri için yapılan
+belirleme diğeri açısından da geçerlidir.
+
+CAUTION: Emeğini sermaye olarak koyan ortağın zarara katılmayacağı
+kararlaştırılabilir.
+
+Kar-zarara katılma oranı aynı zamanda şirketin tasfiyesinde de işlev görür.
+Şirket tasfiye edildikten sonra bu orana göre ortaklar tasfiyeden paylarını
+alır. Şirket zarar etmişse, ortaklar yine bu orana göre borca katılır.
+
+Ortaklar adi şirkette rekabet yasağına tabilerdir çünkü şirket amacıyla
+bağdaşmayan zararlı faaliyetleri ortakların yürütemeyeceği hüküm altına
+alınmıştır.
+
+[caption=""]
+.Rekabet yasağı
+====
+*TBK 626*: Ortaklar, kendilerinin veya üçüncü kişilerin menfaatine olarak,
+ortaklığın amacını engelleyici veya zarar verici işleri yapamazlar.
+====
+
+Yasağın ihlali halinde tazminat yükümlülüğü söz konusu olur. Rekabet yasağının
+ihlali şartları somut olayda varsa şirketin sona erdirilmesi için haklı sebep
+oluşturabilir.
+
+Adi şirkette ortaklar sınırsız ve müteselsil sorumlu oldukları için çok ağır
+sorumluluk üstlenmektedirler. Kanun koyucu, emredici ve aksi düzenlenemez
+şekilde ortakların *denetleme hakkını* düzenlemiştir.
+
+[caption=""]
+.Ortaklık işlerini inceleme
+====
+*TBK 631*: (1) Yönetim yetkisi olmasa bile, her ortağın, ortaklığın işleyişi
+hakkında bilgi alma, defter ve kayıtlarını inceleme, bunlardan örnek alma ve
+mali durumu hakkında özet çıkarma hakkı vardır.
+
+(2) Aksine sözleşmeler kesin olarak hükümsüzdür.
+====
+
+Ortaklardan biri şirket işlerinden dolayı, şirkete ödünç verdiyse ödünç verdiği
+tarihten itibaren faize hak kazanır. Yine yönetici ortaklar şirkete yaptıkları
+masrafları ortaklardan talep edebilirler.
+
+[caption=""]
+.Ortakların yaptıkları giderler ve işler
+====
+*TBK 627*: (1) Ortaklardan birinin ortaklık işleri için yaptığı giderlerden
+veya üstlendiği borçlardan dolayı diğer ortaklar, ona karşı sorumlu olurlar; bu
+ortağın, yönetim işleri yüzünden doğrudan doğruya uğradığı zararlar ile
+ortaklığın yönetiminden kaynaklanan tehlikeler sonucunda doğan zararları, diğer
+ortaklar gidermekle yükümlüdürler.
+
+(2) Ortaklığa avans olarak para veren ortak, verdiği günden başlamak üzere faiz
+isteyebilir.
+
+(3) Yükümlü olmadığı hâlde ortaklık işleri için emek sarfetmiş olan bir ortak,
+hakkaniyetin gerektirdiği bir karşılık ödenmesini isteyebilir.
+====
+
+[caption=""]
+.Yeni ortak alımı ve alt katılım
+====
+*TBK 632*: (1) Ortaklığa, yeni bir ortak alınması, bütün ortakların rızasına
+bağlıdır.
+
+(2) Ortaklardan biri tek taraflı olarak bir üçüncü kişiyi ortaklıktaki payına
+ortak eder veya payını ona devrederse, bu üçüncü kişi ortak sıfatını kazanamaz.
+====
+
+Kanuni düzende ortaklıktan çıkma-çıkarılma mümkün değildir. Ancak sözleşmede
+varsa sözleşmesel olarak bu imkanlardan yararlanılabilir.
+
+====
+*TBK 633*: Bir ortağın fesih bildiriminde bulunması, kısıtlanması, iflası,
+tasfiyedeki payının cebrî icra yoluyla paraya çevrilmesi veya ölmesi hâlinde,
+sözleşmede ortaklığın diğer ortaklarla devam edeceğine ilişkin bir hüküm varsa,
+bu durumlardan biri gerçekleştiğinde, o ortak veya temsilcisi ya da ölen
+ortağın mirasçısı ortaklıktan çıkabilir veya diğer ortaklar tarafından yazılı
+olarak yapılacak bir bildirimle ortaklıktan çıkarılabilir.
+====
+
+[caption=""]
+.Ortaklık payının tasfiyesi
+====
+*TBK 634*: (1) Bir ortağın ortaklıktan çıkması veya çıkarılması durumunda payı,
+diğer ortaklara payları oranında kendiliğinden geçer.
+
+(2) Diğer ortaklar, ortaklıktan çıkan veya çıkarılan ortağa, kullanımını
+ortaklığa bıraktığı eşyayı geri vermekle yükümlü oldukları gibi, kendisini
+ortaklığın muaccel borçlarından doğan müteselsil sorumluluktan kurtararak,
+ortak sıfatının sona erdiği tarihte ortaklık tasfiye edilmiş olsaydı ödenmesi
+gereken tasfiye payını ödemekle yükümlüdürler. Ortaklığın henüz muaccel olmayan
+borçları için diğer ortaklar, çıkan veya çıkarılan ortağı borçtan kurtarmak
+yerine, kendisine bir güvence verebilirler.
+
+(3) Çıkan veya çıkarılan ortağın tasfiye payı, ortaklık sıfatının sona erdiği
+tarih itibarıyla, mali işlerde uzman bir kişiye hesaplattırılır. Tarafların
+uzman kişi üzerinde anlaşamamaları durumunda bu kişi, hâkim tarafından atanır.
+====
+
+Çıkma açısından şekil öngörülmemiştir. Şartlar varsa çıkma hakkı
+kullanılabilir. Çıkarılma ise kanunen şekle tabi tutulmuştur. Diğer ortaklar
+ilgili ortağın çıkarılması için *oybirliği ile karar almalı* ve *çıkarılan
+ortağa yazılı bildirimde bulunmalıdır*.
+
+====
+*TBK 639*: Ortaklık, aşağıdaki durumlarda sona erer:
+
+. Ortaklık sözleşmesinde öngörülen amacın gerçekleşmesi veya gerçekleşmesinin
+imkânsız duruma gelmesiyle.
+. Sözleşmede ortaklığın mirasçılarla sürdürülmesi konusunda bir hüküm yoksa,
+ortaklardan birinin ölmesiyle.
+. Sözleşmede ortaklığın devam edeceğine ilişkin bir hüküm yoksa, bir ortağın
+kısıtlanması, iflası veya tasfiyedeki payının cebrî icra yoluyla paraya
+çevrilmesiyle.
+. Bütün ortakların oybirliğiyle karar vermesiyle.
+. Ortaklık için kararlaştırılmış olan sürenin bitmesiyle.
+. Ortaklık sözleşmesinde feshi bildirme hakkı saklı tutulmuş veya ortaklık
+belirsiz bir süre için ya da ortaklardan birinin ömrü boyunca kurulmuşsa, bir
+ortağın fesih bildiriminde bulunmasıyla.
+. Haklı sebeplerin bulunması hâlinde, her zaman başkaca koşul aranmaksızın,
+fesih istemi üzerine mahkeme kararıyla.
+====
+
+Adi şirketin sona erme çeşitleri iki tanedir (Kanunda böyle bir ayrım yok,
+öğretide kabul edilir):
+
+. *İnfisah*: Herhangi bir kişinin işlemine veya kararına (örn. mahkeme kararı)
+ihtiyaç olmaksızın kanunda belirtilen sebebin gerçekleşmesiyle doğrudan
+şirketin sona ermesidir.
+
+.. Şirketin amacının gerçekleşmesi veya gerçekleşmesinin imkansız olması bir
+infisah nedenidir. Örneğin belirli bir proje için şirket kurulmuşsa projenin
+iptali halinde de projenin tamamlanması halinde de infisah söz konusu olur.
+.. Ölüm de bir infisah nedenidir. Ortaklardan birinin ölmesi şirketi doğrudan
+sona erdirir. Başka hiçbir işlem veya karara gerek yoktur.
+.. İflas, kısıtlama, tasfiye payının ortağın alacaklıları tarafından haczi ve
+cebri icrada paraya çevrilmesi sebepleri de yine infisah sebebidir.
+.. Şirket için bir süre belirlenmiş olabilir. Şirket süre sonunda infisah eder.
+Süre geçmesine rağmen infisah edildiyse, şirket süresiz hale gelir ve
+faaliyetine devam eder.
+. *Fesih*: Bir işlem veya karar sonucunda şirketin sona ermesidir.
+
+.. Ortaklar istedikleri zaman oybirliği ile fesih kararı alabilirler.
+.. Fesih bildirimi de fesih sebebidir. Ancak her ortak canı istediğinde fesih
+bildiriminde bulunamaz. Şirket sözleşmesinde ortaklara bu hak tanınmışsa
+bildirimde bulunabilir.
++
+Süresiz olan şirket için ortaklar istediğinde fesih bildiriminde
+bulunabilir. Sözleşmede hüküm olmasına gerek yoktur. En az altı ay önceden
+bildirim yapılması gerekir. Bildirim, hesap yılı sonu itibariyle hüküm ifade
+eder. Eğer haklı sebep varsa o zaman fesih davası açılabilir ve mahkemeden
+şirketin feshi talep edilir.
+
+[caption=""]
+.Belirsiz süreli ortaklık
+====
+*TBK 640*: (1) Ortaklık, belirsiz süre için veya ortaklardan birinin ömrü
+boyunca sürmek üzere kurulmuşsa, ortaklardan her biri, altı ay önceden fesih
+bildiriminde bulunabilir.
+
+(2) Fesih bildirimi, dürüstlük kurallarına aykırı olarak ve özellikle uygun
+olmayan bir zamanda yapılamaz. Fesih bildirimi, ancak hesap yılı sonunda hüküm
+ifade eder.
+
+(3) Sözleşmede öngörülmüş olan sürenin bitiminden sonra ortaklık, ortakların
+örtülü iradesiyle sürdürülürse, belirsiz süreli ortaklığa dönüşür.
+====
+
+Sona erme adi ortaklığın tamamen bitmesi değildir. Sona erme kanunda veya
+sözleşmede belirtilen sebeplerle şirketin tasfiyeye girmesidir. Tasfiye
+tamamlanmadığı sürece şirket ilişkisi ortadan kalkmaz.
+
+Tasfiye ile şirketin alacakları tahsil edilip borçları ödenir ve şirketin
+malvarlığı tamamen paraya çevrilir. Sermayeler geri verilir ve kar elde
+edilmişse dağıtımı sağlanır. Şirket zarar etmişse zararın paylaştırılması
+gerekir.
+
+Şirketin tasfiyesi halinde:
+
+. Şirketin mevcut yönetimi görevi sona erer ve kanunda ve sözleşmede öngörülen
+biçimde tasfiye yönetimi göreve gelir.
+. Şirketin ortak amacı tasfiye amacına dönüşür.
+
+Tasfiye yönetimi göreve başladığında mevcut yönetimi görevini bırakır.
+İstisnaen mevcut yönetim henüz tasfiyeyi öğrenmemişse iyi niyetli işlemlere
+devam edebilirler.
+
+[caption=""]
+.Sona ermenin ortaklığın yönetimine etkisi
+====
+*TBK 641*: (1) Ortaklık, fesih bildiriminden başka bir yolla sona ererse, bir
+ortağın ortaklık işlerini yönetme konusundaki yetkisi, sona ermeyi öğrendiği
+veya durumun gerektirdiği özeni gösterseydi öğrenebileceği zamana kadar,
+kendisi hakkında devam eder.
+
+(2) Ortaklık, ortaklardan birinin ölümüyle sona ererse, ölen ortağın mirasçısı,
+durumu hemen diğer ortaklara bildirmekle yükümlüdür. Mirasçı, gerekli önlemler
+alınıncaya kadar, ölen ortağın daha önce yürütmekte olduğu işlere, dürüstlük
+kuralları çerçevesinde devam eder. Diğer ortaklar da, geçici olarak, ortaklık
+işlerini aynı şekilde yürütmeye devam ederler.
+====
+
+CAUTION: Fesih bildiriminde TBK 641 uygulanmaz. Zira bildirim herkese
+yapılmıştır ve iyiniyet ortadan kalkar.
+
+[caption=""]
+.Tasfiye usulü
+====
+*TBK 644*: (1) Ortaklığın sona ermesi hâlinde tasfiye, yönetici olmayan
+ortaklar da dâhil olmak üzere, bütün ortakların elbirliğiyle yapılır. Ancak,
+ortaklık sözleşmesinde, ortaklardan biri tarafından kendi adına ve ortaklık
+hesabına belirli bazı işlemlerin yapılması öngörülmüşse, bu ortak, ortaklığın
+sona ermesinden sonra da o işlemleri tek başına yapmak ve diğerlerine hesap
+vermekle yükümlüdür.
+
+(2) Ortaklar, tasfiye işlerini yürütmek üzere tasfiye görevlisi atayabilirler.
+Bu konuda anlaşamamaları hâlinde, ortaklardan her biri, tasfiye görevlisinin
+hâkim tarafından atanması isteminde bulunabilir.
+
+(3) Tasfiye görevlisine ödenecek ücret, sözleşmede buna ilişkin bir hüküm veya
+ortaklarca oybirliğiyle verilmiş bir karar yoksa tasfiyenin gerektirdiği emek
+ile ortaklık malvarlığının geliri göz önünde tutularak hâkim tarafından
+belirlenir ve ortaklık malvarlığından, buna imkân bulunamazsa, ortaklardan
+müteselsilen karşılanır.
+
+(4) Tasfiye usulüne veya tasfiye sonucunda her bir ortağa dağıtılacak paya
+ilişkin olarak doğabilecek uyuşmazlıklar, ilgililerin istemi üzerine hâkim
+tarafından çözüme bağlanır.
+====
+
+[caption=""]
+.Katılım payı için yapılacak işlem
+====
+*TBK 642*: (1) Katılım payı olarak bir şeyin mülkiyetini koyan ortak,
+ortaklığın sona ermesi üzerine yapılacak tasfiye sonucunda, o şeyi olduğu gibi
+geri alamaz; ancak koyduğu katılım payına ne değer biçilmişse, o değeri
+isteyebilir.
+
+(2) Bu değer belirlenmemişse, geri alma, o şeyin katılım payı olarak konduğu
+zamandaki değeri üzerinden yapılır.
+====
+
+NOTE: Mülkiyetin kullanma hakkı sermaye olarak verildiyse aynen iade
+zorunludur.
+
+====
+*TBK 643*: (1) Ortaklığın borçları ödendikten ve ortaklardan her birinin
+ortaklığa verdiği avanslar ile ortaklık için yaptığı giderler ve koymuş olduğu
+katılım payı geri verildikten sonra bir şey artarsa, bu kazanç, ortaklar
+arasında paylaşılır.
+
+(2) Ortaklığın, borçlar, giderler ve avanslar ödendikten sonra kalan varlığı,
+ortakların koydukları katılım paylarının geri verilmesine yetmezse, zarar
+ortaklar arasında paylaşılır.
+====
+
+[caption=""]
+.Üçüncü kişilere karşı sorumluluk
+====
+*TBK 645*: Ortaklığın sona ermesi, üçüncü kişilere karşı olan yükümlülükleri
+değiştirmez.
+====
+
+== TİCARET ŞİRKETLERİ
+
+Şirketler; *kollektif*, *komandit*, *anonim*, *limited* ve *kooperatif*
+şirketlerden ibarettir. Bunlardan başka ticaret şirketi olamaz, sınırlı sayı
+ilkesi geçerlidir.
+
+Ticaret şirketinin tüzel kişiliğe haiz olmasının sonuçları:
+
+. Ortakların malvarlığından bağımsız, ayrı bir malvarlığına sahiplerdir.
+. Ayrı sorumlulukları vardır. *Tüzel kişiliğe sahip şirketlerin üstlendiği
+borçlardan kural olarak şirket sorumludur*.
++
+Şirketin ortakları görevleri gereği haksız fiil işlerse bundan şirket sorumlu
+olur.
++
+*Anonim şirket* açısından ortakların sorumluluğu olmaması mutlaktır.
+
+TIP: Şirket borçlu ortağın borcuna kefil olabilir.
+
+Adi şirket, kollektif ve adi komandit şirketler *şahıs şirketleridir*; anonim,
+limited, paylı komandit şirketler *sermaye şirketleridir*.
+
+*Kooperatifler* ne şahıs ne de sermaye şirketidir. Melez bir yapıya sahiptir.
+Hem şahıs şirketi hem de sermaye şirketi özelliklerini taşır.
+
+Şahıs şirketlerinde, şirket borçlarından *ortakların sınırsız sorumluluğu* söz
+konusudur. Sermaye şirketlerinde ise hiç bir şekilde sınırsız sorumluluk söz
+konusu olmaz, *ortaklar taahhüt ettiği sermaye kadar* sorumludur.
+
+*Özden ortak*, ortakların kanunen başka bir işleme gerek kalmaksızın şirketi
+yönetme hakkına ve yükümlüğüne sahip olmasıdır. Şahıs şirketlerinde geçerli
+olan bu ilke sermaye şirketlerinde geçerli değildir.
+
+Sermaye şirketlerinde; ortaklar otomatik olarak şirketin yöneticisi sayılmaz,
+şirketin yönetim organı sözleşmede belirlenir daha sonra da genel kurulda
+alınan kararlarla yöneticiler belirlenir.
+
+Şahıs şirketlerinde kararlar kural olarak *oybirliğiyle* alınır. Sermaye
+şirketlerinde ise *oy çokluğu* esastır.
+
+Sermaye şirketlerinde asgari bir sermaye konulmak zorundadır. Şahıs
+şirketlerinde bu zorunluluk yoktur.
+
+Şahıs şirketlerinde ortakların başına gelen önemli olaylar, ortaklık ilişkisini
+bitirebilir. Bu tip olaylar sermaye şirketlerinde ortaklığa etki etmez.
+
+Şahıs şirketlerinde ortak çaba unsuru çok yoğundur. Zira şahıs şirketlerinde
+ortakların kişisel özellikleri önemlidir. Sermaye şirketlerinde ise ortak çaba
+unsuru daha azdır.
+
+Kanun hangi şirketlerin ticaret şirketi olduğunu saymıştır. Ticaret
+şirketleri; *kollektif*, *komandit*, *anonim*, *limited* ve *kooperatif*
+şirketlerden oluşmaktadır. Komandit şirket de *adi komandit* ve *sermayesi
+paylara bölünmüş komandit* şirket olarak ikiye ayrılmıştır.
+
+====
+*TTK 124*:  (1) Ticaret şirketleri; kollektif, komandit, anonim, limited ve
+kooperatif şirketlerden ibarettir.
+
+(2) Bu Kanunda, kollektif ile komandit şirket şahıs; anonim, limited ve
+sermayesi paylara bölünmüş komandit şirket sermaye şirketi sayılır.
+====
+
+Ticaret şirketleri adi şirketten farklı olarak tüzel kişiliği haizdir. Ticaret
+şirketinin tüzel kişiliğinin olmasının doğal sonucu, ortakların varlığından
+bağımsız şekilde tüzel kişinin hak ehliyetine ve fiil ehliyetine sahip
+olmasıdır.
+
+[caption=""]
+.Tüzel kişilik ve ehliyet
+====
+*TTK 125*: (1) Ticaret şirketleri tüzel kişiliği haizdir.
+
+(2) Ticaret şirketleri, Türk Medenî Kanununun 48 inci maddesi çerçevesinde
+bütün haklardan yararlanabilir ve borçları üstlenebilirler. Bu husustaki kanuni
+istisnalar saklıdır.
+====
+
+Şirket sözleşmesi kanunda belirtilen şekle uygun yapılmalıdır. İmzalar noterce
+onaylanmalıdır. Daha sonra şirketin tescili ve ilanı gerekir. Tescil kurucu,
+ilan açıklayıcıdır. *Şirket tescille birlikte haklara ve borçlara ehil hale
+gelir.*
+
+Şirketin tüzel kişiliğe sahip olmasının bir diğer sonucu *organların görevleri
+nedeniyle işledikleri haksız fiillerden şirketin sorumlu olmasıdır*.
+
+Tüzel kişi yerleşim yerini belirleme özgürlüğüne sahiptir. Tüzel kişiler
+merkezlerini kuruluş belgelerinde belirtebilir. Belirtmediyse yönetim yeri,
+yerleşim yeri sayılır. *TTK'da neredeyse tüm şirketlerin sözleşmelerinde
+yerleşim yerlerini belirtmeleri zorunludur*.
+
+Şirket tüzel kişilik kazanınca artık ortakların malvarlığından bağımsız bir
+malvarlığına sahip olur. Ayrı malvarlığının sonucu olarak ortakların kişisel
+alacaklıları şirkete olan borcuyla alacaklarını takas edemez. Ortakların
+kişisel alacaklısı, şirketin malvarlığına doğrudan başvuramaz, haciz işlemleri
+yapamaz.
+
+NOTE: Alacaklı, ortağın şirketten olan alacaklarını, şirket karını, tasfiye
+payını haczedebilir. Sermaye şirketlerinde ortağın kişisel alacaklısı sermaye
+payını da haczedebilir.
+
+Şirket malvarlığının ortakların malvarlığından ayrı olmasının bir diğer sonucu,
+şirketin iflasının ortakların da iflas etmesi sonucu doğurmamasıdır.
+
+=== SERMAYE
+
+Ticaret şirketlerinde sermayenin konusu TTK 127 vd. düzenlenmiştir. Söz konusu
+hüküm adi şirkete konulacak sermaye için de yol göstericidir.
+
+====
+*TTK 127*: (1) Kanunda aksine hüküm olmadıkça ticaret şirketlerine sermaye
+olarak;
+
+.. Para, alacak, kıymetli evrak ve sermaye şirketlerine ait paylar,
+.. Fikrî mülkiyet hakları,
+.. Taşınırlar ve her çeşit taşınmaz,
+.. Taşınır ve taşınmazların faydalanma ve kullanma hakları,
+.. Kişisel emek,
+.. Ticari itibar,
+.. Ticari işletmeler,
+.. Haklı olarak kullanılan devredilebilir elektronik ortamlar, alanlar, adlar
+ve işaretler gibi değerler,
+.. Maden ruhsatnameleri ve bunun gibi ekonomik değeri olan diğer haklar,
+.. Devrolunabilen ve nakden değerlendirilebilen her türlü değer,
+konabilir.
+
+(2) Kanunun 307 nci maddesinin ikinci, 342 nci maddesinin birinci ve 581 inci
+maddesinin birinci fıkra hükümleri saklıdır.
+====
+
+Sermayeye konulan değer;
+
+* bir ekonomik değer olmalıdır.
+* devredilebilir olmalıdır.
+* parayla ölçülebilir olmalıdır.
+
+NOTE: Sermaye şirketlerinde nakit dışı (ayni) sermaye konulduğunda bilirkişi
+incelemesi gerekmektedir ve şirkete konulan değer bilançoda gösterilmek
+zorundadır. Şahıs şirketlerinde ise nakit dışı sermaye için bilirkişi
+incelemesi şart değildir ama bilançoda gösterilmek üzere parasal değer
+belirtilmelidir.
+
+Sermaye şirketlerinde *kişisel emek*, *ticari itibar* ve *vadeli alacaklar*
+sermaye olarak konulamaz. Çünkü sermaye şirketlerinde sermaye, alacaklıları
+koruyan bir güvence fonu oluşturur. Sayılan değerler güvence fonu olma
+niteliğini haiz değildir.
+
+====
+*TTK 128*: (1) Her ortak, usulüne göre düzenlenmiş ve imza edilmiş şirket
+sözleşmesiyle koymayı taahhüt ettiği sermayeden dolayı şirkete karşı borçludur.
+
+(2) Şirket sözleşmesinde veya esas sözleşmede bilirkişi tarafından belirlenen
+değerleriyle yer alan taşınmazlar tapuya şerh verildiği, fikrî mülkiyet hakları
+ile diğer değerler, varsa özel sicillerine, bu hüküm uyarınca kaydedildikleri
+ve taşınırlar güvenilir bir kişiye tevdi edildikleri takdirde ayni sermaye
+kabul olunur. Özel sicile yapılan kayıt iyiniyeti kaldırır.
+
+(3) Sermaye olarak taşınmaz mülkiyeti veya taşınmaz üzerinde var olan veya
+kurulacak olan ayni bir hakkın konulması borcunu içeren şirket sözleşmesi
+hükümleri, resmî şekil aranmaksızın geçerlidir.
+
+(4) Paradan başka ekonomik bir değer veya bir taşınırın sermaye olarak
+konulmasının borçlanılması hâlinde şirket, tüzel kişilik kazandığı andan
+itibaren bunlar üzerinde malik sıfatıyla doğrudan tasarruf edebilir.
+
+(5) Taşınmaz mülkiyetinin veya diğer ayni bir hakkın sermaye olarak konulması
+hâlinde, şirketin bunlar üzerinde tasarruf edebilmesi için tapu siciline tescil
+gereklidir.
+
+(6) Mülkiyet ve diğer ayni hakların tapu siciline tescili istemi ile diğer
+sicillere yapılacak tescillerle ilgili bildirimler, ticaret sicili müdürü
+tarafından, ilgili sicile resen ve hemen yapılır. Şirketin tek taraflı istemde
+bulunabilme hakkı saklıdır.
+
+(7) Şirket, her ortağın sermaye koyma borcunu yerine getirmesini isteyebileceği
+ve dava edebileceği gibi, yerine getirmede gecikme sebebiyle uğradığı zararın
+tazminini de isteyebilir. Tazminat istemi için ihtar şarttır. Şahıs
+şirketlerinde bu davayı ortaklar da açabilir.
+
+(8) Ortaklarca, sermaye olarak konulması taahhüt edilen hakların korunması
+için, kurucular tarafından ortaklar aleyhine ihtiyati tedbir istenebilir.
+Tedbir üzerine açılacak davalar için, Hukuk Usulü Muhakemeleri Kanununda
+öngörülen süre ancak şirketin tescil ve ilanı tarihinden itibaren işlemeye
+başlar.
+====
+
+TTK 128'deki düzenlemeye göre, usulüne uygun olarak şirket sözleşmesinin
+imzalanması tarihinden itibaren artık taşınmazlar açısından aranan resmi şekil
+sağlanmış olur. İfa aşamasında şirket taşınmazın tescilini talep edebilir. TTK
+128/6'ya göre tescili ticaret sicil müdürü de re'sen yapabilir.
+
+Taşınmazın şirkete ifasından önce üçüncü kişiye tesciline karşı kanun şerh
+uygulamasını getirmiştir. Şerh yapılmadığı sürece ilgili taşınmaz ayni sermaye
+olarak kabul edilemez.
+
+Sicile tabi olan diğer hakların da sermaye olarak konulmasında şerh konulması
+gereklidir.
+
+Taşınırlar için *güvenli kişiye tevdi* şartı vardır. Tevdi yapılacak kişi
+herhangi bir kişi olabileceği gibi yediemin sıfatına haiz bir kişi de olabilir.
+Ortaklardan biri de güvenli kişi olabilir. Önemli olan taahhüt eden kişiden
+başka kişiye malın tevdiidir. Şirketin kuruluşunun gerçekleşmesi anından
+itibaren, tevdi edilen taşınır güvenilir kişinin zilyetliğinden şirketin
+mülkiyetine geçer.
+
+Alacakların sermaye olarak konulmasında ise usul şirket sözleşmesinde buna yer
+verilmesidir. Şirket kurulduğu andan itibaren alacak şirket mülkiyetine geçer.
+Ayrıca yazılı bir temlik işlemi yapılmasına gerek yoktur.
+
+Ortaklar sermaye olarak konulan hakların korunması için ortaklar aleyhine
+ihtiyati tedbir isteyebilir. İhtiyati tedbir konulduktan sonra tedbirin ortadan
+kalkmaması için usul hukuku kurallarına göre belirli süre içerisind dava
+açılması gerekir. Bu süre tescil ve ilandan itibaren işlemeye başlar (TTK
+128/8).
+
+[caption=""]
+.Temerrüt faizi
+====
+*TTK 129*: (1) Zamanında ifa edilmeyen sermaye para ise, 128 inci madde
+gereğince tazminat hakkına halel gelmemek şartıyla, aksine şirket sözleşmesinde
+veya esas sözleşmede hüküm yoksa, şirketin tescili anından itibaren temerrüt
+faizi de ödenir.
+====
+
+[caption=""]
+.Sorumlu olma
+====
+*TTK 130*: (1) Sermaye olarak şirkete alacaklarını devretmiş olan bir ortak,
+alacaklar şirketçe tahsil edilmiş olmadıkça sermaye koyma borcundan kurtulmaz.
+
+(2) Alacak, vadesi gelmemiş ise aksi kararlaştırılmış olmadıkça, vade gününden,
+muaccel ise şirket sözleşmesi veya esas sözleşme tarihinden itibaren bir ay
+içinde şirketçe tahsil edilmelidir.
+
+(3) Her ne sebeple olursa olsun, bu süre içinde tahsil edilemediği takdirde,
+gecikmeden dolayı şirketin tazminat hakkına halel gelmemek şartıyla, ortak,
+sürenin bitiminden itibaren geçecek günlerin temerrüt faizini de öder.
+
+(4) Alacak kısmen tahsil edilmişse, yukarıdaki hükümler tahsil edilmemiş olan
+kısım hakkında geçerlidir.
+====
+
+Şirket sözleşmesi TBK'daki iki taraflı akitlerden farklıdır ancak oradaki
+kurallar mahiyetine uygun düştüğü ölçüde şirketler hukukuna uygulanır. Çok
+taraflı ilişki olan şirket sözleşmesinde borca aykırı davranılmasına temerrüt
+TTK'da özel olarak düzenlenmiştir. TBK'da borçlunun temerrüdü üzerine
+sözleşmeden dönme düzenlenmiştir. Şirketler hukukunda ise sözleşmeden dönme
+mümkün değildir. Ancak TTK'da özel olarak düzenlenen *ıskat* ve *çıkarılma*
+hükümleri vardır. Sermaye borcunu yerine getirmeyip temerrüde düşen ortak
+şirketten haklı sebeple çıkarılabilir. Iskat ise sadece anonim şirket için söz
+konusudur. Iskatta eğer ortak bazı paylardan dolayı borcunu ödemediyse yalnızca
+ilgili paylar açısından haklarından mahrum kalması sağlanır.
+
+TIP: Sermaye borcunun ödenmemesinde haklı sebeple fesih de gündeme gelebilir.
+Çünkü sermaye borcu ortağın asli borcudur ve ortak bunu yerine getirmediği
+takdirde diğer ortaklar için ortaklığın devamı çekilmez bir hale gelebilir.
+
+Sermaye borcu için ticaret şirketlerinde zamanaşımına ilişkin açık hüküm
+yoktur. Adi şirketteki 5 yıllık zamanaşımı ticaret şirketleri için de
+uygulanabilir. Sermaye şirketleri açısından ise iki görüş vardır:
+
+. İster nakdi ister ayni sermaye olsun sermaye şirketlerinde sermaye borcu
+zamanaşımına uğramaz. Sermayenin korunması ilkesi gereği böyledir. Sermaye
+zamanaşımına uğrar ve defi geçerli kılınırsa bu durum sermaye şirketlerinde,
+sermayenin her halükarda ve emredici olarak getirilmesi zorunluluğunu bertaraf
+eder.
+. _Kürsünün de katıldığı görüşe göre_ kanunda özel hüküm olmadığından adi
+şirketteki zamanaşımı hem şahıs hem de sermaye şirketlerine uygulanmalıdır.
+Sermaye borcu zamanaşımına uğrayabilir ancak borcunu zamanaşımına uğratan
+yöneticilerin sorumluluğu saklıdır.
+
+[NOTE]
+====
+Ticaret şirketine bir taşınmaz ayni sermaye olarak taahhüt ediliyor ancak ifa
+edilmiyor ve şirket de tescil talebinde bulunmuyor. Aradan 15 sene geçmiş olsa
+sermaye borcunun zamanaşımına uğradığı söylenebilir mi?
+
+Taşınmazlarda tescilsiz iktisap görüşü benimsenirse, mülkiyetin şirkete geçtiği
+kabul edilir. Yapılan tescil açıklayıcı olacağından zamanaşımı defii ileri
+sürülemeyecektir çünkü şirket hem alacağını hem de mülkiyetini aalmış olur.
+
+Taşınmazlar kurucu tescil görüşü benimsenirse (hakim görüş budur), _kürsüye
+göre_ yine zamanaşımının olmadığı savunulabilir. TTK 128'e göre taşınmazlar
+için şirketin tescil talebinde bulunma imkanı vardır. Şirketin sermaye alacağı,
+normal alacak hakkından bir adım daha ileri olduğundan tasarrufi yetkiye
+sahiptir. Tasarruf yetkisinin geçmiş olması bile zamanaşımı definin öne
+sürülmesini engeller.
+====
+
+Bir ticaret şirketini kurmak üzere faaliyete geçildiği andan itibaren şirketin
+tesciline kadar geçen sürede *ön ortaklık* kurulmuş olur ve ön ortaklığa adi
+şirket hükümleri uygulanır.
+
+== ŞAHIS ŞİRKETLERİ
+
+=== KOLLEKTİF ŞİRKETLER
+
+[caption=""]
+.Tanım
+====
+*TTK 211*: (1) Kollektif şirket ticari bir işletmeyi bir ticaret unvanı altında
+işletmek amacıyla, gerçek kişiler arasında kurulan ve ortaklarından hiçbirinin
+sorumluluğu şirket alacaklılarına karşı sınırlanmamış olan şirkettir.
+====
+
+* Kollektif şirket bir *şahıs şirketidir*.
+* Kuruluş masrafı çok azdır.
+* Ortaklar arasında yüksek güvene dayalıdır.
+* Ortaklar arasında *2. dereceden sınırsız* ve *müteselsil* sorumluluk vardır.
+* Büyük yatırımlara uygun bir şirket değildir.
+* Asgari sermaye zorunluluğu yoktur.
+* Şahıs şirketleri halka arz yapamazlar.
+* Çok sayıda ortak barındırmaya uygun bir şirket değildir.
+* Ortaklar *en az iki kişi* ve *gerçek kişi* olmalıdır.
+
+==== KURULUŞU
+
+====
+*TTK 212*: (1) Kollektif şirket sözleşmesi yazılı şekle tabidir; ayrıca,
+sözleşmedeki imzaların noterce onaylanması veya şirket sözleşmesinin ticaret
+sicili müdürü yahut yardımcısı huzurunda imzalanması şarttır. Şirketin
+kuruluşunda, şirket sözleşmesini ihtiva eden kâğıtlardan değerli kâğıt bedeli
+alınmaz.
+====
+
+Ticaret şirketlerinin kuruluşu bir sözleşmenin hazırlanması ile olur. Sözleşme
+imzaları noterce onaylanır ve son aşamada tescil ve ilan yapılır.
+
+Kollektif şrkette sözleşme hazırlanırken dikkat edilmesi gereken noktalar
+vardır. TTK 213 asgari zorunluluk içeriğini düzenlemektedir.
+
+[caption=""]
+.Zorunlu kayıtlar
+====
+*TTK 213*: (1) Kollektif şirket sözleşmesine aşağıdaki kayıtların yazılması
+zorunludur:
+
+.. Ortakların ad ve soyadlarıyla yerleşim yerleri ve vatandaşlıkları.
+.. Şirketin kollektif olduğu.
+.. Şirketin ticaret unvanı ve merkezi.
+.. Esaslı noktaları belirtilmiş ve tanımlanmış bir şekilde şirketin işletme
+konusu.
+.. Her ortağın sermaye olarak koymayı taahhüt ettiği para miktarı; para
+niteliğinde olmayan sermayenin değeri ve bu değerin ne suretle biçilmiş olduğu;
+sermaye olarak kişisel emek konulmuşsa bu emeğin niteliği, kapsamı ve değeri.
+.. Şirketi temsile yetkili kimselerin ad ve soyadları, bunların yalnız başına
+mı, yoksa birlikte mi imza koymaya yetkili oldukları.
+
+(2) Ortaklar, emredici hükümlere aykırı olmamak şartıyla, şirket sözleşmesine
+diledikleri kayıtları koyabilirler.
+====
+
+[caption=""]
+.Noksanlıklar
+====
+*TTK 214*:  (1) Sözleşmesi kanuni şekilde yapılmamış veya sözleşmeye konması
+zorunlu olan kayıtlardan biri veya bazıları eksik yahut geçersiz olan bir
+kollektif şirket, adi şirket hükmünde olup, hakkında 216 ncı madde hükmü saklı
+kalmak şartıyla, Türk Borçlar Kanununun adi şirketlere ilişkin hükümleri
+uygulanır.
+
+(2) 12 nci madde hükmü saklıdır.
+====
+
+Tescil ve ilan kanunun 15 günlük süre içerisinde yapılmalıdır. Ancak bu süre
+düzen kuralıdır ve süre geçirilse bile tescil ve ilan yapılabilir.
+
+[caption=""]
+.Yükümlülük
+====
+*TTK 215*:  (1) Kollektif şirketi kuranlar, şirket sözleşmesinin noterlikçe
+onaylı bir suretini onay tarihinden itibaren onbeş gün içinde şirket merkezinin
+bulunduğu yerdeki ticaret siciline vererek şirketin tescilini istemek
+zorundadır. Suret, sicil müdürlüğünce saklanır ve 213 üncü madde gereğince
+sözleşmeye konması zorunlu olan kayıtlar ile kanunun emreylediği diğer hususlar
+tescil ve ilan olunur. Şirket sözleşmesinin ticaret sicili müdürü veya
+yardımcısı huzurunda imzalanması hâlinde de sureti ticaret sicili müdürlüğü
+tarafından saklanarak yukarıda öngörülen tescil ve ilan sağlanır.
+====
+
+TTK 215'te şirketi kuranların tescil talebinde bulunabileceği söyleniyor.
+Bundan çıkan sonuç, tüm kurucuların birlikte tescil talebinde bulunması
+gerektiğidir. Ortaklardan biri tescil talebine yanaşmaz ise diğer ortaklar
+ticaret sicilinden tescile davet prosedürünü işletebilirler (TTK 33). Tescil
+yükümlüğünü yerine getirmeyen kişiye uygun bir süre verip ihtar çeker ve sonuç
+alınamazsa fesih davası da açabilirler (TTK 243).
+
+[caption=""]
+.Yükümlülüğün yerine getirilmemesi
+====
+*TTK 216*: (1) Tescil yükümlülüğü yerine getirilmeksizin şirket adına işlere
+başlanmışsa, ortaklar giriştikleri işlerden dolayı üçüncü kişilere karşı
+müteselsilen sorumludur.
+
+(2) Bir kollektif şirket sözleşmesi yapılmaksızın, şirketin türünü gösterir bir
+kaydı içermese bile, ortak bir unvan altında, üçüncü kişilerle işlem yapılması
+veya onlara karşı haksız bir fiil işlenmesi hâlinde de aynı hüküm geçerlidir.
+====
+
+==== YÖNETİM
+
+====
+*TTK 218*: (1) Ortaklardan her biri, ayrı ayrı şirketi yönetme hakkını ve
+görevini haizdir. Ancak, şirket sözleşmesiyle veya ortakların çoğunluğunun
+kararıyla yönetim işleri ortaklardan birine, birkaçına veya tümüne verilebilir.
+
+(2) Ticari mümessillere ve diğer ticari vekillere ilişkin hükümler saklıdır.
+====
+
+Kollektif şirketin yönetiminde *özden organ ilkesi* geçerlidir. Tüm ortaklar
+şirketin yöneticisi konumundadırlar. Ortakların hepsi tek başına yönetim
+hakkına sahiptir. Bu kuralın aksi sözleşmeyle kararlaştırılabilir.
+Ortaklardan bir kısmına, birine ya da hepsine yönetim işleri bırakılabilir.
+
+IMPORTANT: Kanunda sadece ortaklara yöneticilik verilebileceği belirtilmiştir.
+Bunun aksine sözleşme yapılamaz ve ortak olmayan kimse yönetim organı üyesi
+olamaz. Ancak üçüncü kişiler yönetime farklı şekilde dahil edilebilir. Ticari
+vekil ve temsilci olarak atanabilirler (TTK 218/2).
+
+[caption=""]
+.Yönetim işlerinde yalnız başına veya birlikte hareket
+====
+*TTK 221*: (1) Şirket işlerinin yönetimi, ortakların tümüne veya birkaçına
+verilmiş ise, bunların her biri yalnız başına yönetim hak ve görevini haizdir.
+Bununla beraber, şirketi yönetmekle yükümlü olan ortaklardan bazısı, yapılacak
+bir işin, şirketin menfaatlerine uygun olmadığını ileri sürerlerse, yönetim hak
+ve görevini haiz diğer ortaklar, çoğunluk kararıyla o işi yapabilirler.
+
+(2) Şirket sözleşmesinde şirket işlerinin yönetimi kendilerine verilmiş
+ortakların birlikte hareket etmeleri yazılı ise, ortakların, gecikmesinde
+tehlike görülen hâller istisna olmak üzere, her işte anlaşmaları gerekir.
+Anlaşamadıkları takdirde durum ortaklar kuruluna götürülür ve bu kurulca
+verilecek karara göre hareket edilir.
+====
+
+İtiraz hakkı da kanunda düzenlenmiştir. Yönetici olan ortağın yapmayı düşündüğü
+işleme diğer bir yönetici ortak itiraz edebilir. Bu durumda işlemin
+yapılabilmesi için ortakların *oy çokluğuyla* işlem yapması gerekir.
+
+*Yönetici olmayan ortak yapılacak işlemlere karşı itirazda bulunamaz*. Hileye
+dayalı işlemlerde ise her otak itiraz hakkını kullanabilir. Yönetici ortağın
+yapacağı her türlü zarar verici işlem hile olarak nitelendirilebilir.
+
+İtiraza rağmen iyiniyetli üçüncü kişilerle işlem yapılırsa, iyiniyet korunur.
+Ancak itiraza rağmen işlemi yapan yöneticinin sorumluluğu doğacaktır.
+
+[caption=""]
+.Diğer ortakların itirazı
+====
+*TTK 222*:  (1) Yönetim şirket sözleşmesiyle bir ortağa verilmişse, bu ortak,
+diğer ortaklar itiraz etseler ve karşı çıksalar bile, hileye dayalı olmamak
+şartıyla, şirketin yönetimi için gereken işlemleri yapabilir.
+====
+
+Yönetim yetkisi iç ilişkide her türlü şekilde sınırlandırılabilir. Kanuni
+sınırlandırma ise TTK 223'tür. Olağan-olağanüstü işlem ayrımı vardır. Yönetici,
+şirketin olağan işlemlerini yapmaya yetkilidir. Şirketin türü ve somut olayın
+özelliklerine göre olağan-olağanüstü işlem ayrımı yapılır.
+
+[caption=""]
+.Yönetimin kapsamı
+====
+*TTK 223*: (1) Şirketin yönetimi kapsamındaki hususlar, şirketin amacını ve
+konusunu elde etmek için yapılması gereken olağan işlem ve işler ile
+sınırlıdır. Şirketi yönetenler, şirket menfaatine uygun gördükleri işlerde,
+olağan işlem ve işlerle sınırlı olmak şartıyla, sulh, feragat ve kabul ile
+tahkime de yetkilidirler. Şu kadar ki, bağışta bulunmak, kefil olmak, üçüncü
+kişi lehine garanti vermek, ticari mümessil tayin etmek ve şirket konusuna
+girmiyorsa taşınmazları satmak, satın almak, teminat göstermek, şirketin özüne
+ilişkin üretim araçlarını elden çıkarmak, rehnetmek veya ticari işletme rehni
+kurmak gibi olağan iş ve işlemler dışında kalan hususlarda ortakların oybirliği
+şarttır.
+====
+
+Sözleşme ile yönetici tayini yapıldıysa sözleşmenin değişikliği de oybirliği
+kuralına tabi olduğundan değişiklikte de oybirliği ile karar alınması
+gerekecektir. Eğer kanuni düzen uyarınca tüm ortaklar yönetici ise yeni bir
+yönetim belirlemek için oyçokluğu yeterlidir.
+
+[caption=""]
+.Şirket sözleşmesiyle atama
+====
+*TTK 219*: (1) Yönetim işleri şirket sözleşmesiyle bir ortağa verilmiş ise,
+onun yönetim hak ve görevi diğer ortaklar tarafından sınırlandırılamayacağı
+gibi kendisi görevden de alınamaz. Ancak, haklı sebeplerin varlığında,
+ortaklardan birinin istemi üzerine, mahkeme kararı ile yönetim hak ve görevi
+sınırlandırılabilir veya geri alınabilir. Görevin yerine getirilmesinde
+basiretsizlik, ağır ihmal veya yönetimde iktidarsızlık gibi hâller, haklı sebep
+sayılır.
+====
+
+[caption=""]
+.Ortaklar kararıyla atama
+====
+*TTK 220*: (1) Yönetim işleri, şirket sözleşmesi yapıldıktan sonra alınan bir
+kararla bir ortağa verilmişse o ortak, ortakların çoğunluğunun kararıyla
+görevden alınabilir. Çoğunluk elde edilemediği takdirde, yönetim işlerine bakan
+ortağın şirket sözleşmesini ihlal ettiği veya olayda haklı sebep bulunduğu
+iddiasıyla, her ortak ilgili yönetici ortağın görevden alınması için mahkemeye
+başvurabilir.
+====
+
+==== KARARLAR
+
+[caption=""]
+.Oy hakkı ve kararlar
+====
+*TTK 226*: (1) Her ortak bir oy hakkını haizdir. Buna aykırı sözleşme
+geçersizdir.
+
+(2) Şirket sözleşmesinin her ne şekilde olursa olsun değiştirilmesine ilişkin
+kararlar oybirliğiyle, diğer kararlar ise, kanunda veya şirket sözleşmesinde
+aksine hüküm yoksa, ortakların çoğunluğunun oylarıyla verilir.
+
+(3) “Oybirliği” şirketteki ortakların tümünün, “çoğunluk” şirketteki ortakların
+salt çoğunluğunun olumlu oylarıyla alınması gereken kararları ifade eder.
+====
+
+TTK 226 uyarınca sözleşme değişikliğinde oybirliği aranır. Değişiklik dışındaki
+kararlar oyçokluğuna tabidir. Kararların alınması için oy hakkı emredicidir.
+Kişi sayısına göre oylar belirlenir. Tartışmalı olan sermayeye oranla oy
+hakkının belirlenip belirlenemeyeceğidir. _Kürsüye göre_ sermayeye oranla oy
+hakkına sahip olunması geçersizdir.
+
+==== TEMSİL
+
+====
+*TTK 233*: (1) Şirketi temsile yetkili olan kimse, şirketin işletme konusuna
+giren her türlü işi ve hukuki işlemleri şirket adına yapmak ve şirketin
+unvanını kullanmak yetkisine sahiptir. Bu yetkiyi sınırlayan her şart,
+iyiniyetli üçüncü kişilere karşı ileri sürülemez.
+
+(2) Ancak, şirket sözleşmesinin tescil ve ilanı gerekli hükümlerine göre
+şirketin bağlanabilmesi için birlikte imza şart kılınmışsa, bu şart, üçüncü
+kişilere karşı da geçerlidir.
+====
+
+TTK 213'e göre kollektif şirketin temsili, temsilin nasıl yapılacağı, kimlerin
+yetkili olacağı şirket sözleşmesinde yazılmak zorundadır. Sözleşmede temsile
+ilişkin hüküm bulunmaması halinde iki görüş vardır:
+
+. Zorunluğu içeriğin olmadığı sözleşme geçersizdir, şirket adi şirket
+hükümlerine tabidir.
+. Kollektif şirketin geçerli olarak kurulduğu kabul edilir. Adi şirket
+hükümlerinde temsile ilişkin şart konulmamışsa yöneticilerin temsilci sayılması
+kuralı burada da uygulanır.
+
+====
+*TTK 234*: (1) Şirketi temsil yetkisini haiz olan kimseler tarafından, açık
+veya zımni olarak şirket adına yapılmış olan işlemlerden dolayı, şirket
+alacaklı ve borçlu olur.
+
+(2) Bir ortağın şirkete ait görevlerini yerine getirirken işlediği haksız
+fiillerden şirket de doğrudan doğruya sorumludur.
+====
+
+Ticari temsilci tayini TTK 223'e göre olağanüstü işlemlerdendir ve oybirliği
+ile karar alınmasını gerektirir. Ancak ticari temsilcinin azlinde oybirliği
+aranmaz, TTK 235/2 uyarınca yönetici ortakların tümü ticari temsilciyi her
+zaman azledebilir.
+
+[caption=""]
+.Temsil yetkisinin kaldırılması
+====
+*TTK 235*: (1) Haklı sebeplerin varlığı hâlinde temsil yetkisi, bir ortağın
+başvurusu üzerine, mahkemece kaldırılabilir. Gecikmesinde tehlike bulunan
+hâllerde mahkeme temsil yetkisini ihtiyati tedbir olarak kaldırıp bu yetkiyi
+bir kayyıma verebilir. Kayyımın atanmasını, görevlerini, mahkemece verilen
+temsil yetkisini ve bunların sınırlarını, mahkeme resen tescil ve ilan ettirir.
+
+(2) Ticari mümessil, temsil yetkisini haiz ortakların tümü tarafından üçüncü
+kişilere karşı geçerli olacak şekilde görevden alınabilir.
+====
+
+==== ORTAKLARIN SORUMLULUĞU
+
+Kollektif ortaklıkta ortakların sorumluluğu müteselsil, sınırsız ve 2.
+dereceden sorumluluktur.
+
+[caption=""]
+.Ortakların kişisel sorumluluğu
+====
+*TTK 236*:  (1) Ortaklar, şirketin borç ve taahhütlerinden dolayı müteselsilen
+ve bütün malvarlığı ile sorumludur.
+
+(2) Şirkete yeni giren kişi, girme tarihinden evvel doğmuş olsa bile, şirketin
+borçlarından ve taahhütlerinden diğer ortaklarla birlikte müteselsilen ve bütün
+malvarlığı ile sorumludur.
+
+(3) Birinci ve ikinci fıkralara aykırı olarak sözleşmeye konan şartlar, üçüncü
+kişiler hakkında geçerli olmaz.
+====
+
+NOTE: Müteselsil ve sınırsız sorumluluk, şirkete sonradan dahil olan ortaklar
+için de geçerlidir. Sonradan gelen ortaklar şirkete girmeden önceki eski
+borçlardan da sorumlu olurlar. Bu emredici bir sorumluluktur ve aksine sözleşme
+yapılamaz.
+
+[caption=""]
+.Sorumluluğun derecesi
+====
+*TTK 237*: (1) Şirketin borç ve taahhütlerinden dolayı birinci derecede şirket
+sorumludur. Ancak, şirkete karşı yapılan icra takibi semeresiz kalmış veya
+şirket herhangi bir sebeple sona ermiş ise, yalnız ortak veya ortakla birlikte
+şirket aleyhine dava açılabilir ve takip yapılabilir.
+
+(2) Yukarıdaki hükümler, ortakların kişisel mallarına ihtiyati haciz koymaya
+mani değildir. Bu fıkra hükmünce konulmuş bulunan ihtiyati hacizler hakkında
+İcra ve İflas Kanununun 264 üncü maddesinin birinci fıkrasında öngörülen süre,
+birinci fıkranın ikinci cümlesi hükmünce ortağa karşı dava veya takibe başlama
+yetkisinin doğduğu tarihten itibaren işlemeye başlar. Bununla beraber, ihtiyati
+haciz tutanağının tebliğinden itibaren kanuni süre içinde şirkete karşı takibe
+veya davaya başlanmadığı takdirde ihtiyati haciz düşer.
+====
+
+Sorumluluğun 2. dereceden olması, kanundaki şartlar gerçekleşmediği sürece
+alacaklı doğrudan ortaklara gidemeyeceğini ifade eder. Kanundaki koşullar
+gerçekleşirse ancak bu takdirde ortakların 1. derecede sorumluluğu gündeme
+gelir. 1. derece sorumlulukta alacaklılar artık şirkete gitmeden de ortaklara
+başvurabilir.
+
+1.dereceden sorumluluğun ortaya çıkması için iki halden birinin gerçekleşmesi
+gerekir:
+
+. *Şirkete karşı yapılan icra takibinin semeresiz kalması*
++
+TIP: İcra takibinin semeresiz kalmasında alacaklının takibi bizatihi yapması
+şart değildir. Başka bir alacaklının yaptığı takip sonuçsuz kalmışsa yine diğer
+alacaklı da ortaklara başvurabilir. Genelde *aciz belgesi* ile tespit edilir
+ancak şirketin yeterli malvarlığı olmadığına dair haciz tutanağı varsa bu da
+başvuru için yeterlidir.
+. *Şirketin sona ermesi*
++
+Şirketin sona ermesi, şirketin ortadan kalkması demek değil, şirketin tasfiye
+aşamasına girmesidir. Tasfiyenin tamamlanması şart değildir.
+
+Kanunda ortaklara müracaat için 3 yıllık zamanaşımı öngörülmüştür.
+
+[caption=""]
+.Zamanaşımı
+====
+*TTK 264*: (1) Şirketin borçları için, şirket alacaklılarının ortaklara ileri
+sürebilecekleri istem hakları, ortağın şirketten ayrılmasının, şirketin sona
+erdiğinin veya iflasının ilan edildiğinin Türkiye Ticaret Sicili Gazetesinde
+yayımlanmasından itibaren üç yıl geçmesiyle zamanaşımına uğrar; ancak, niteliği
+nedeniyle, alacağın daha kısa bir zamanaşımına bağlandığı durumlarda o
+zamanaşımı süresi uygulanır.
+
+(2) Alacak ilandan sonra muaccel olursa, zamanaşımı muacceliyet anından
+itibaren işlemeye başlar.
+
+(3) Bu maddede öngörülen zamanaşımı ortakların birbirlerine karşı olan
+alacaklarına uygulanmaz.
+====
+
+Kollektif şirkette sorumluluğun 1. dereceye çıkması ile ortak iflas yoluyla da
+takip edilebilir. Kural iflasa sadece tacir olanların tabi olmasıdır. Burada
+esasında tacir kollektif şirkettir. Ortak sırf ortak sıfatıyla tacir sıfatını
+kazanmaz. Ancak TTK 238 vd. ortakların iflas yoluyla takip edilebileceği
+düzenlenmiştir.
+
+[caption=""]
+.Mahkeme kararı
+====
+*TTK 238*: (1) Yalnız şirket aleyhine alınmış olan mahkeme kararı, şirket
+hakkındaki takip semeresiz kalmadıkça veya şirket herhangi bir sebeple sona
+ermiş olmadıkça ortaklar hakkında icra edilemez.
+
+(2) İcra emrinin şirkete tebliğine rağmen borç ödenmediği takdirde, alacaklı,
+şirketle birlikte ortakların veya bazılarının da doğrudan iflasını isteyebilir.
+====
+
+[caption=""]
+.Şirketin iflası
+====
+*TTK 239*: (1) Şirketin iflası hâlinde, şirket alacaklıları alacaklarını
+almadıkça, ortakların kişisel alacaklıları şirket mallarına başvuramazlar.
+====
+
+[caption=""]
+.Şirketin ve ortakların iflası
+====
+*TTK 240*: (1) Şirketin iflası, ortakların iflasını gerektirmez. Ancak, depo
+kararına rağmen para yatırılmadığı takdirde alacaklı, depo kararının ortaklara
+veya içlerinden bazılarına da tebliğini ve gereğini yerine getirmedikleri
+takdirde şirketle birlikte iflaslarına karar verilmesini mahkemeden
+isteyebilir. Bu hakkını kullanmamış olan alacaklının, şirket masasından
+alacağını tamamen alamaması hâlinde ortakları iflas yoluyla da ayrıca takip
+hakkı saklıdır.
+
+(2) Ortakların mallarına adi takip veya iflas yolu ile başvurulursa bunların
+kişisel alacaklıları ile şirket alacaklıları arasında bir öncelik ve imtiyaz
+hakkı yoktur. Ancak, kişisel alacaklılar arasında kanunen rüçhan hakkı
+bulunanların bu hakları saklıdır.
+====
+
+[caption=""]
+.Ortakların hakları
+====
+*TTK 241*: (1) Şirketin iflası hâlinde ortaklar, koydukları sermaye ve
+işlemekte olan faizler için masaya giremezler; ancak, işlemiş faizlerle
+ücretler ve şirket lehine yaptıkları giderler için herhangi bir alacaklı gibi
+masaya girebilirler.
+====
+
+==== ORTAKLIK İLİŞKİSİNDE DEĞİŞİKLİKLER
+
+Yeni bir ortağın şirkete girmesi şirket sözleşmesinde değişiklik gerektirir ve
+TTK 226/2 uyarınca oybirliği sağlanmalıdır. *Sicile tescil ve ilanı da
+gerekir*.
+
+Ortaklardan birinin ölümü halinde normalde şirket sona erip tasfiyeye girer.
+Ancak sözleşmede devam hükmü varsa şirket sona ermez. Mirasçılar şirkete
+katılıp katılmayacaklarını 3 ay içerisinde şirkete bildirirler, bildirimde
+bulunmamaları halinde devamhükmü gereği kendiliğinden ortak sıfatını
+kazanırlar. Mirasçılar şirkete girmeyeceklerini belirtip tasfiye paylarını da
+alabilirler ve yine devam hükmü gereği şirket sona ermez.
+
+[caption=""]
+.Ortağın ölümü
+====
+*TTK 253*: (1) Şirket sözleşmesinde şirketin ölen ortağın mirasçılarıyla devam
+edeceğine ilişkin düzenleme yoksa, mirasçılarla diğer ortakların oybirliği ile
+verecekleri karar üzerine şirket bunların arasında devam edebilir. Mirasçılar
+veya içlerinden biri şirkette kalmaya razı olmazlarsa, diğer ortaklar, ölen
+ortağın razı olmayan mirasçılarına düşen payları ödeyerek onları şirketten
+çıkarır ve aralarında şirkete devam edebilirler. Bu durumda sağ kalan
+ortaklardan birinin şirketin devamına onay vermemesi sebebiyle oybirliği
+sağlanamadığı takdirde şirket sona erer.
+
+(2) Şirketin, ölen ortağın mirasçılarıyla diğer ortaklar arasında kollektif
+şirket olarak devam edeceği hakkında şirket sözleşmesinde hüküm varsa,
+mirasçılar kollektif sıfatıyla şirkete devam edip etmemekte serbesttirler.
+Mirasçılar şirketin devam etmesini isterlerse, diğer ortaklar bu isteği kabul
+etmek zorundadır. Ancak, kollektif sıfatıyla şirkette kalmak istemeyen mirasçı
+varsa, ölen ortağın payından kendisine düşen tutar ile komanditer olarak
+şirkete kabul edilmesini önerebilir. Diğer ortaklar bu öneriyi kabul etmek
+zorunda değildir. Mirasçılar şirkete kollektif ortak veya komanditer olarak
+girip girmeyeceklerini ortağın ölüm tarihinden itibaren üç ay içinde şirkete
+ihbar etmelidir.  Durumun şirkete ihbarına kadar, mirasçılar şirkette
+komanditer olarak kalmış sayılırlar. Bu süre içinde ihbarda bulunmamış olan
+mirasçılar, sürenin sona ermesinden itibaren kollektif ortak sıfatını alırlar.
+====
+
+Ortağın kendi isteğiyle şirketten çıkması kanunda düzenlenmemiştir. Bu durumda
+şirketin onayı ya da haklı sebep aranmaz.
+
+Çıkarılma ortağın iradesi dışında ortakla şirketin ilişkisinin kesilmesidir.
+
+[caption=""]
+.Ortağın iflası
+====
+*TTK 254*: (1) Ortaklardan birinin iflası hâlinde, müflis ortak şirketten
+çıkarılabilir. Bu takdirde şirket diğer ortaklar arasında devam eder ve
+müflisin payı, masaya ödenir. Şu kadar ki, sözleşme ile ortakların bu hakkı
+kaldırılabilir.
+====
+
+[caption=""]
+.Haklı sebepler
+====
+*TTK 255*: (1) Bir ortağın kendisinden kaynaklanan sebeplerden dolayı şirketin
+feshinin istenebileceği durumlarda, diğer ortakların tümü o ortağın şirketten
+çıkarılmasına ve şirketin devamına karar verebilir. Şirket sözleşmesinde bu
+kararın çoğunlukla alınması öngörülebilir.
+
+(2) Çıkarılan ortak, bu kararın noter aracılığıyla tebliğinden itibaren üç
+aylık hak düşürücü süre içinde şirkete karşı çıkarılmanın iptali davasını
+açabilir.
+
+(3) Birinci fıkra uyarınca çıkarma kararı alınamadığı takdirde, her ortak,
+şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesinden söz konusu
+ortağın şirketten çıkarılmasını ve ayrılma payının belirlenmesini isteyebilir.
+====
+
+[caption=""]
+.Fesih ihbarı
+====
+*TTK 256*: (1) Süresiz şirketlerde ortaklardan biri şirketin feshi ihbarında
+bulunduğu takdirde, diğer ortaklar feshi kabul etmeyerek, o ortağı şirketten
+çıkarıp şirketin kendi aralarında devam etmesine karar verebilirler.
+
+(2) Birinci fıkra hükmü, bir ortağın kişisel alacaklısının 248 veya 249 uncu
+maddeler gereğince itiraz veya fesih hakkını kullanması hâllerinde de
+geçerlidir.
+
+(3) Bu takdirde şirketin devam edeceğine ilişkin karar, alacaklıya tebliğ
+edilir ve borçlu ortak faaliyet dönemi sonunda şirketten çıkarılır.
+====
+
+İki kişilik ortaklıkta çıkarılma ancak mahkemeye başvuru yoluyla olur. Tek
+ortaklı kollektif şirket olamayacağı için mahkeme çıkarma kararı verdiğinde
+kendiliğinden ve tasfiyesiz şekilde şirket kalan ortağa geçer ve şahıs şirketi
+bir şahıs işletmesine dönüşür.
+
+[caption=""]
+.Haklı sebeplerin varlığında
+====
+*TTK 257*: (1) Yalnız iki kişiden oluşan bir kollektif şirkette, ortaklardan
+birinin şirketten çıkarılmasını gerektiren haklı sebepler varsa, diğer ortağın
+istemi üzerine mahkeme fesih ve tasfiyeye karar vermeksizin şirketin bütün iş
+ve işlemleri, varlıkları, alacak ve borçlarıyla davacı ortağa bırakılmasına ve
+diğer ortağın şirketten çıkarılmasına karar verebilir. Bu hâlde, çıkarılan
+ortak hakkında 262 nci madde hükmü uygulanır.
+====
+
+[caption=""]
+.Diğer sebeplerin varlığında
+====
+*TTK 258*: (1) İki kişiden oluşan bir şirkette, ortaklardan birinin kişisel
+alacaklısı, 248, 249 ve 256 ncı maddelere göre sahip olduğu itiraz veya fesih
+hakkını kullanır veya ortaklardan biri iflas ederse, diğer ortak, 257 nci
+maddeden yararlanabilir.
+====
+
+[caption=""]
+.Tescil
+====
+*TTK 259*: (1) Bir ortağın şirketten çıkması veya çıkarılması hâlinde, diğer
+ortaklar bunu tescil ve ilan ettirmekle yükümlüdür.
+
+(2) Bir ortağın ölümü hâlinde 250 nci maddenin ikinci fıkrası uygulanır.
+
+(3) Bir ortağın şirketten çıkması veya çıkarılması üçüncü kişilere karşı ancak
+tescil ve ilan tarihinden itibaren geçerli olur.
+
+(4) Çıkan veya çıkarılan ortak, bu durumun tescil ve ilan edildiği tarihe kadar
+yapılan şirket işlemlerinden üçüncü kişilere karşı sorumludur.
+====
+
+==== ŞİRKETİN SONA ERMESİ
+
+====
+*TTK 243*: (1) Kollektif şirketler, 253 üncü madde hükmü saklı kalmak kaydıyla
+Türk Borçlar Kanununun 639 ve 640 ıncı maddelerinde öngörülen ve aşağıda yazılı
+sebeplerden birinin gerçekleşmesiyle sona erer:
+
+.. Konkordato ile sonuçlanmış olsa bile şirketin iflası.
+.. Şirket sermayesinin tamamının veya üçte ikisinin kaybedilmesine rağmen,
+sermayenin tamamlanmasına veya geri kalan sermaye ile yetinmeye karar
+verilmemiş olması.
+.. Şirketin diğer bir şirket ile birleşmesi.
+.. Kanunun 215 inci maddesinde gösterilen süre içinde veya sonra tescil ve ilan
+yapılmamışsa, aradan ne kadar süre geçmiş olursa olsun, ortaklardan herhangi
+birinin istemi üzerine ve bu ortağın noter aracılığıyla diğer ortaklara uygun
+bir süreyi içeren ihtar göndermiş olması şartıyla mahkemece feshe karar
+verilmesi.
+.. 254 üncü madde hükmü saklı kalmak üzere ortaklardan birinin iflası.
+====
+
+TTK 243 vd. düzenlenmiştir. TTK 243'te adi şirketteki sone erme hükümlerine
+açık atıf yapıldığından TBK 639-640'ta yer alan sona erme nedenleri kollektif
+şirket için de geçerlidir.
+
+TTK'da TBK'ya ek sona erme nedenleri belirtilmiştir:
+
+. *Birleşme*: Adi şirketten farklı olarak ticaret şirketlerinde birleşme sona
+erme sebebidir.
+. *İflas*: Adi şirkette tüzel kişilik olmadığından iflas söz konusu olmaz ancak
+ticaret şirketlerinde iflas söz konusudur.
+
+====
+*TTK 244*: (1) Şirket sözleşmesinde belirli bir veya birkaç sebep
+göstermeksizin hükümde infisah sebeplerinden herhangi birinin varlığı hâlinde
+şirketin sona ermeyeceğinin ifade edildiği genel nitelikteki hüküm geçerli
+olmaz. Ancak, kanunun emredici hükümlerine aykırı olmamak kaydıyla, bazı
+belirli fesih sebeplerinin şirketin sona ermesi sonucu doğurmayacağı şirket
+sözleşmesinde kabul olunabilir.
+====
+
+TTK 245'te haklı sebepler verilmiştir. Madde kollektif şirket hükmüdür ama
+ticaret şirketlerine uygulanır. Önemli haklı sebep hallerine değinilmiştir,
+sınırlı sayıda değildir.
+
+[caption=""]
+.Haklı sebepler
+====
+*TTK 245*: (1) Haklı sebep, şirketin kuruluşuna yol açan fiili veya kişisel
+sebeplerin şirketin işletme konusunun elde edilmesini imkânsız kılacak veya
+güçleştirecek şekilde ortadan kalkmış olmasıdır; özellikle;
+
+.. Bir ortağın, şirketin yönetim işlerinde veya hesaplarının çıkarılmasında
+şirkete ihanet etmiş olması,
+.. Bir ortağın kendisine düşen asli görevleri ve borçları yerine getirmemesi,
+.. Bir ortağın kişisel menfaatleri uğruna şirketin ticaret unvanını veya
+mallarını kötüye kullanması,
+.. Bir ortağın, uğradığı sürekli bir hastalık veya diğer bir sebepten dolayı,
+üstüne aldığı şirketin işlerini yapmak için gerekli olan yeteneği ve ehliyetini
+kaybetmesi,
+
+gibi hâller haklı sebeplerdendir.
+
+(2) (a), (b) ve (c) bentleri gereğince kendisinde fesih sebebi doğmuş olan
+ortağın dava hakkı yoktur.
+====
+
+Haklı sebebin varlığı için mutlaka kusurun bulunması gerekmez. Kusur, ilgili
+ortakta bulunmasa bile onun şahsında haklı sebep gerçekleşebilir. Ortağın
+şahsında gerçekleşen hal şirketin devamlılığını imkansız kılıyorsa haklı sebep
+vardır.
+
+=== ADİ KOMANDİT ŞİRKET
+
+====
+*TTK 304*: (1) Ticari bir işletmeyi bir ticaret unvanı altında işletmek
+amacıyla kurulan, şirket alacaklılarına karşı ortaklardan bir veya birkaçının
+sorumluluğu sınırlandırılmamış ve diğer ortak veya ortakların sorumluluğu
+belirli bir sermaye ile sınırlandırılmış olan şirket komandit şirkettir.
+
+(2) Sorumluluğu sınırlı olmayan ortaklara komandite, sorumluluğu sınırlı
+olanlara komanditer denir.
+
+(3) Komandite ortakların gerçek kişi olmaları gerekir. Tüzel kişiler ancak
+komanditer ortak olabilirler.
+====
+
+Adi komandit şirket bir *şahıs şirketidir*. Kollektif ortaklıkla büyük ölçüde
+benzeşen bir şirket türüdür.
+
+Adi komandit şirkette iki tür ortak vardır:
+
+. *Komandite ortak*: Sınırsız sorumludur.
+. *Komanditer ortak*: Sorumluluğu taahhüt ettiği sermaye ile sınırlıdır.
+
+Adi komandit şirkette de özden organ ilkesi geçerlidir. Ancak bu sadece
+komandite ortaklar için geçerlidir. Komanditer ortaklar yönetime katılamazlar.
+Komanditer ortakların şirket işlerine itiraz hakları yoktur.
+
+[caption=""]
+.Şirketin temsili
+====
+*TTK 318*: (1) Komandit şirketler, kural olarak, komandite ortaklar tarafından
+temsil edilir. Kollektif şirketin temsil yetkisinin kapsamı ve
+sınırlandırılmasına ilişkin hükümleri komandit şirkete de uygulanır.
+
+(2) Komanditer ortaklar, ortak sıfatıyla şirketi temsile yetkili olamazlar.
+Ancak, şirket sözleşmesinde aksine hüküm bulunmamak şartıyla, komanditer ortak
+ticari mümessil, ticari vekil veya seyyar tacir memuru olarak atanabilir.
+====
+
+Komaditer ortak kanuna aykırı olarak komandite ortak gibi şirket yönetiminde
+görev alırsa yaptığı işlemler geçerli olur ancak komandite ortak gibi sorumlu
+olur.
+
+Komanditer ortağın sorumluluğu belirli hallerde genişler:
+
+. İradi olarak sorumluluğun genişletilmesi
+. Komandit şirket unvanına komanditer ortağın adının yazılması
+. Organ temsilciliği yapması
+
+== SERMAYE ŞİRKETLERİ
+
+Sermaye şirketlerinde ortaklar şirkete karşı sadece taahhüt ettikleri sermayeyi
+ödemekle yükümlüdür. Bu yükümlülüğün dışında şirket alacaklılarına karşı
+sorumlulukları yoktur.
+
+=== ANONİM ŞİRKET
+
+Kanun koyucu bazı faaliyetlerin ancak ve ancak anonim ortaklıkta
+yürütülebileceğini öngörmüştür. Bankacılık faaliyetinde bulunmak, finansal
+kiralama yapmak, halka açılmak, menkul kıymetleri halka ihraç etmek ancak
+anonim şirket ile mümkündür.
+
+Anonim ortaklığın iki temel ayağı vardır:
+
+. Pay sahipleri
+. Şirket alacaklıları
+
+====
+*TTK 329*: (1) Anonim şirket, sermayesi belirli ve paylara bölünmüş olan,
+borçlarından dolayı yalnız malvarlığıyla sorumlu bulunan şirkettir.
+
+(2) Pay sahipleri, sadece taahhüt etmiş oldukları sermaye payları ile ve
+şirkete karşı sorumludur.
+====
+
+TTK 329'da iki temel özellikten bahsedilmiştir:
+
+. Şirketin sermayesi belirli paylara bölünmüştür.
+. Pay sahipleri anonim ortaklıkta sadece taahhüt etmiş oldukları sermaye
+payları ile sınırlı sorumluluk üstlenmiştir.
+
+Anonim ortaklıkta esas sermayenin asgari 50bin TL, kayıtlı sermayenin 100bin TL
+olması gerekmektedir.
+
+[caption=""]
+.En az sermaye tutarı
+====
+*TTK 332*: (1) Tamamı esas sözleşmede taahhüt edilmiş bulunan sermayeyi ifade
+eden esas sermaye ellibin Türk Lirasından ve sermayenin artırılmasında yönetim
+kuruluna tanınmış yetki tavanını gösteren kayıtlı sermaye sistemini kabul etmiş
+bulunan halka açık olmayan anonim şirketlerde başlangıç sermayesi yüzbin Türk
+Lirasından aşağı olamaz. Bu en az sermaye tutarı Bakanlar Kurulunca
+artırılabilir.
+
+(2) Bu Kanun anlamında kayıtlı sermayeli anonim şirketlerde başlangıç
+sermayesi, kuruluşta ve sisteme ilk geçildiğinde haiz olunması zorunlu
+sermayedir; çıkarılmış sermaye ise, çıkarılmış payların tümünün itibarî
+değerlerinin toplamını temsil eder.
+
+(3) Halka açık olmayan anonim şirketler gerekli şartları artık haiz olmadıkları
+takdirde, Gümrük ve Ticaret Bakanlığından izin alarak kayıtlı sermaye
+sisteminden çıkabilecekleri gibi, bu sisteme alınırken aranan nitelikleri
+kaybettiklerinde, istemleri bulunmasa bile aynı Bakanlık tarafından sistemden
+çıkartılırlar.
+
+(4) 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası Kanununun 12 nci maddesi
+hükmü saklıdır.
+====
+
+NOTE: 50bin TL sermayeli bir anonim ortaklıkta 50 pay varsa her bir payın
+nominal değeri 1000 TL'dir. Anonim ortaklığın gerek kuruluşunda gerekse
+sonradan yapılacak sermaye artışında nominal değerin altında pay ihraç edilmesi
+yasaktır. Böyle bir ihraç yapılmışsa TTK 353 uyarınca fesih davası açılması
+gerekir. Payın itibari değerinin üstünde yapılan ihraçta ise herhangi bir engel
+yoktur.
+
+Anonim ortaklıkta diğer ortaklıklardan farklı olarak kural payların serbestçe
+devredilebileceğidir. Ortaklar paylarını satmak suretiyle ortaklıktan
+çıkabilir. Paylar devredilebilir, haczedilebilir, üzerinde intifa hakkı
+kurulabilir.
+
+Anonim şirket ortakları sadece şirkete karşı ve sadece taahhüt ettikleri
+payların değeriyle sınırlı sorumludur. Anonim şirket de kendi alacaklılarına
+karşı sadece malvarlığıyla sorumludur.
+
+Anonim şirket tek ortakla dahi kurulabilir, şirketin sonradan tek ortağa
+düşmesi de mümkündür. Ancak ortaksız anonim ortaklık mümkün değildir.
+
+[caption=""]
+.Asgari sayı
+====
+*TTK 338*: (1) Anonim şirketin kurulabilmesi için pay sahibi olan bir veya daha
+fazla kurucunun varlığı şarttır.
+330 uncu madde hükmü saklıdır.
+
+(2) Pay sahibi sayısı bire düşerse, durum, bu sonucu doğuran işlem tarihinden
+itibaren yedi gün içinde yönetim kuruluna yazılı olarak bildirilir. Yönetim
+kurulu bildirimi aldığı tarihten itibaren yedi gün içinde, şirketin tek pay
+sahipli bir anonim şirket olduğunu tescil ve ilan ettirir. Ayrıca, hem şirketin
+tek pay sahipli olarak kurulması hem de payların tek kişide toplanması hâlinde
+tek pay sahibinin adı, yerleşim yeri ve vatandaşlığı da tescil ve ilan edilir.
+Aksi hâlde doğacak zarardan, bildirimde bulunmayan pay sahibi ve tescil ve
+ilanı yaptırmayan yönetim kurulu sorumludur.
+
+(3) Şirket, tek pay sahibi olacak şekilde kendi payını iktisap edemez;
+ettiremez.
+====
+
+Anonim ortaklığa hakim temel ilkeler:
+
+* *Sınırlı sorumluluk ilkesi*: Ortak taahhüt ettiği sermaye ile şirket ilse
+malvarlığı iler sorumludur.
+* *Sermayenin korunması ilkesi*: Alacaklıların korunması amacıyla getirilen
+ilkelerden biridir. Kuruluş aşamasında sermayenin tamamının taahhüt edilmesi
+şarttır. Nakdi sermayenin de en az dörtte biri getirilmelidir.
+* *Oransallık ilkesi*: Anonim ortaklıkta bir ortak bir payla, diğer ortak bin
+payla ortak olmuşsa; bir paylı ortak elde edilen kardan bir, bin paylı ortak
+elde edilen kardan bin oranında kar alır.
++
+Yine bir paya sahip olan ortak genel kurulda bir oy kullanır, bin paya sahip
+olan bin oy kullanır.
++
+NOTE: Kanun koyucu pay sahiplerini korumak bakımından ilkeye istisnalar
+getirmiştir. Bazı haklar bakımından pay oranının önemi yoktur. Örneğin genel
+kurul kararlarına karşı iptal davasının alılması bireysel haktır. Yine
+yöneticilere karşı iptal davası açmak da bireysel haktır.
+* *Çoğunluk ilkesi*: Anonim ortaklıkta kararların alınmasına kural olarak oy
+çokluğu yeterlidir.
+* *Eşit işlem ilkesi*: Aynı konumdaki ortaklara eşit işlem yapılacağı anlamına
+gelir.
+
+Anonim ortaklıklar:
+
+. Halka açık olanlar
+
+.. Hisse senetleri borsada işlem görenler
+.. Hisse senetleri borsada işlem görmeyenler
+
+. Halka kapalı olanlar
+
+Bir anonim ortaklıkta paradan başka bir şey sermaye olarak getiriliyorsa ya da
+ileride kurulacak olan anonim ortaklığa ilişkin olarak yatırım mahiyetinde
+sayılabilecek bir malvarlığı satın alınmasına karar verilmişse iki yükümlülük
+ortaya çıkar.
+
+. *Değerleme yükümlülüğü*: Şirketin merkezinin bulunacağı yerdeki
+mahkemece atanacak bilirkişiler tarafından sermayenin değer tespiti yapılması
+gerekir. Ortaklar iradi olarak değer tespitinde bulunamazlar.
+. *Açıklama yükümlülüğü*: Sermayenin bilirkişilerce belirlenmiş değeri şirket
+sözleşmesine açıkça ve ayrıntılı bir şekilde yazılmalıdır.
+
+[caption=""]
+.Ayni sermaye konulabilecek malvarlığı unsurları
+====
+*TTK 342*: (1) Üzerlerinde sınırlı ayni bir hak, haciz ve tedbir bulunmayan,
+nakden değerlendirilebilen ve devrolunabilen, fikrî mülkiyet hakları ile sanal
+ortamlar da dâhil, malvarlığı unsurları ayni sermaye olarak konulabilir.
+Hizmet edimleri, kişisel emek, ticari itibar ve vadesi gelmemiş alacaklar
+sermaye olamaz.
+
+(2) 128 inci madde hükmü saklıdır.
+====
+
+[caption=""]
+.Değer biçme
+====
+*TTK 343*: (1) Konulan ayni sermaye ile kuruluş sırasında devralınacak
+işletmelere ve ayınlara, şirket merkezinin bulunacağı yerdeki asliye ticaret
+mahkemesince atanan bilirkişilerce değer biçilir. Değerleme raporunda,
+uygulanan değerleme yönteminin somut olayın özellikleri bakımından herkes için
+en adil ve uygun seçim olduğu; sermaye olarak konulan alacakların
+gerçekliğinin, geçerliğinin ve 342 nci maddeye uygunluğunun belirlendiği,
+tahsil edilebilirlikleri ile tam değerleri; ayni olarak konulan her varlık
+karşılığında tahsis edilmesi gereken pay miktarı ile Türk Lirası karşılığı,
+tatmin edici gerekçelerle ve hesap verme ilkesinin icaplarına göre açıklanır.
+Bu rapora kurucular ve menfaat sahipleri itiraz edebilir. Mahkemenin onayladığı
+bilirkişi kararı kesindir.
+====
+
+TIP: Kural olarak anonim şirketin tüzel kişilik kazanmasından itibaren 2 yıl
+içerisinde şirketin sermayesinin 1/10'unu aşan bir değerle yatırım malvarlığı
+satın alınacaksa bunun için mutlaka kuruluşta olduğu gibi mahkemeye başvurarak
+devralınacak malvarlığının değerini tespit ettirmek ve ayrıca devir alma
+işlemini genel kurulda %75 nisapla onaylatmak gerekir. Aksi takdirde yapılan
+işlem geçersiz olacaktır.
+
+[caption=""]
+.Kanuna karşı hile
+====
+*TTK 356*: (1) Şirketin tescilinden itibaren iki yıl içinde bir işletme veya
+aynın, sermayenin onda birini aşan bir bedel karşılığında devralınmasına veya
+kiralanmasına ilişkin sözleşmeler, genel kurulca onaylanıp ticaret siciline
+tescil edilmedikçe geçerli olmaz. Bu sözleşmelerin onaylanmasından ve
+tescilinden önce, bunların ifası amacıyla yapılmış olan ödemeler dâhil, her
+türlü tasarruf geçersizdir.
+
+(2) Genel kurul kararını vermeden önce, yönetim kurulunun istemi üzerine
+şirketin bulunduğu yer asliye ticaret mahkemesince atanacak bilirkişi, şirket
+tarafından devralınacak ya da kiralanacak işletme ve ayınlara değer biçer.
+Rapor resmî nitelik taşır.
+
+(3) Toplantı ve karar nisabına 421 inci maddenin üçüncü ve dördüncü fıkraları
+uygulanır.
+
+(4) Sözleşme genel kurulun onay kararıyla birlikte tescil ve ilan olunur.
+
+(5) Şirketin işletme konusunu oluşturan veya cebrî icra yoluyla iktisap edilen
+ayın ve işletmeler hakkında bu madde hükmü uygulanmaz.
+====
+
+==== KURULUŞ İŞLEMLERİ
+
+Anonim şirketin esas sözleşmesini imzalayan ve sermaye taahhüt eden herkes
+kurucudur. Anonim ortaklığın kurulması kurucular tarafından yapılacak sözleşmek
+için TTK 339'daki içeriği sağlamalıdır.
+
+[caption=""]
+.İçerik
+====
+*TTK 339*: (1) Esas sözleşmenin yazılı şekilde yapılması ve bütün kurucuların
+imzalarının noterce onaylanması veya esas sözleşmenin ticaret sicili müdürü
+yahut yardımcısı huzurunda imzalanması şarttır.
+
+(2) Esas sözleşmeye aşağıdaki hususlar yazılır:
+
+.. Şirketin ticaret unvanı ve merkezinin bulunacağı yer.
+.. Esaslı noktaları belirtilmiş ve tanımlanmış bir şekilde şirketin işletme
+konusu.
+.. Şirketin sermayesi ile her payın itibarî değeri, bunların ödenmesinin şekil
+ve şartları.
+.. Pay senetlerinin nama veya hamiline yazılı olacakları; belirli paylara
+tanınan imtiyazlar; devir sınırlamaları.
+.. Paradan başka sermaye olarak konan haklar ve ayınlar; bunların değerleri;
+bunlara karşılık verilecek payların miktarı, bir işletme ve ayın devir alınması
+söz konusu olduğu takdirde, bunların bedeli ve şirketin kurulması için
+kurucular tarafından şirket hesabına satın alınan malların ve hakların
+bedelleriyle, şirketin kurulmasında hizmetleri görülenlere verilmesi gereken
+ücret, ödenek veya ödülün tutarı.
+.. Kurucularla yönetim kurulu üyelerine ve diğer kimselere şirket kârından
+sağlanacak menfaatler.
+.. Yönetim kurulu üyelerinin sayıları, bunlardan şirket adına imza koymaya
+yetkili olanlar.
+.. Genel kurulların toplantıya nasıl çağrılacakları; oy hakları.
+.. Şirket bir süre ile sınırlandırılmışsa, bu süre.
+.. Şirkete ait ilanların nasıl yapılacağı.
+.. Pay sahiplerinin taahhüt ettiği sermaye paylarının türleri ve miktarları.
+.. Şirketin hesap dönemi.
+
+(3) İlk yönetim kurulu üyeleri esas sözleşme ile atanır.
+====
+
+TTK 339 dışında kalan ve *kanunun cevaz verdiği her şey* ana sözleşmeye
+yazılabilir.
+
+Kuruculara bedelsiz pay verilemez ancak ileride elde edilecek karın %10'una
+kadar olan kısmı ana sözleşmede taahhüt edilebilir.
+
+Ana sözleşme imzalandıktan sonra imzalar noterce onaylanmalıdır. Ancak kanun
+koyucu ana sözleşmenin tescil edileceği ticari sicili müdürü ya da yardımcısı
+önünde imzalanmasına da imkan tanımıştır.
+
+[caption=""]
+.Kurucu işlem
+====
+*TTK 335*: (1) Şirket, kurucuların, kanuna uygun olarak düzenlenmiş bulunan,
+sermayenin tamamını ödemeyi, şartsız taahhüt ettikleri, imzalarının noterce
+onaylandığı veya ticaret sicili müdürü yahut yardımcısı huzurunda imzaladığı
+esas sözleşmede, anonim şirket kurma iradelerini açıklamalarıyla kurulur.
+Şirketin kuruluşunda, esas sözleşmeyi ihtiva eden kâğıtlardan değerli kâğıt
+bedeli alınmaz.
+
+(2) 355 inci maddenin birinci fıkrası hükmü saklıdır.
+====
+
+Sözleşmede belirtilen nakdi sermaye değerinin en az 1/4'ü ileride kurulacak
+anonim şirket adına tevdi edilmelidir.
+
+[caption=""]
+.Nakdî sermaye
+====
+*TTK 344*: (1) Nakden taahhüt edilen payların itibarî değerlerinin en az yüzde
+yirmibeşi tescilden önce, gerisi de şirketin tescilini izleyen yirmidört ay
+içinde ödenir. Payların çıkarma primlerinin tamamı tescilden önce ödenir.
+
+(2) Sermaye Piyasası Kanununun pay bedellerinin ödenmelerine ilişkin hükümleri
+saklıdır.
+====
+
+[caption=""]
+.Ödeme yeri
+====
+*TTK 345*: (1) Nakdî ödemeler, 19/10/2005 tarihli ve 5411 sayılı Bankacılık
+Kanununa bağlı bir bankada, kurulmakta olan şirket adına açılacak özel bir
+hesaba, sadece şirketin kullanabileceği şekilde yatırılır. Taahhüt edilen
+payların, kanunda veya esas sözleşmede öngörülmüş bulunan ve kanunda yazılı
+olandan daha yüksek olan tutarlarının ödendiği, ticaret siciline yöneltilecek
+bir banka mektubu ile ispatlanır. Banka, bu tutarı, şirketin tüzel kişilik
+kazandığını bildiren bir sicil müdürlüğü yazısının sunulması üzerine, sadece
+şirkete öder.
+
+(2) Şirket, 335 inci maddenin birinci fıkrasında öngörülen noter onayı veya
+şirket sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda imzalanma
+tarihinden itibaren, üç ay içinde tüzel kişilik kazanamadığı takdirde, bu
+hususu doğrulayan bir sicil müdürlüğü yazısının sunulması üzerine, bedeller
+banka tarafından sahiplerine geri verilir.
+====
+
+Kural olarak izne tabi olmaksızın anonim şirket kurulabilmektedir. Ama kanun
+koyucu bazı alanlarda faaliyet gösteren anonim ortaklıkların kurulmasını izne
+tabi tutmuştur. Bunların TTK 333 uyarınca Gümrük ve Ticaret Bakanlığı'ndan izin
+alması gereklidir. *Bakanlık ekonomik araştırma yapmaz, sadece ana sözleşmenin
+kanuna uygun olup olmadığına bakar*.
+
+[caption=""]
+.İzin
+====
+*TTK 333*: (1) Gümrük ve Ticaret Bakanlığınca yayımlanacak tebliğle, faaliyet
+alanları belirlenip, ilan edilecek anonim şirketler Gümrük ve Ticaret
+Bakanlığının izni ile kurulur. Bu şirketlerin esas sözleşme değişiklikleri de
+aynı Bakanlığın iznine bağlıdır. Bakanlık incelemesi sadece kanunun emredici
+hükümlerine aykırılık bulunup bulunmadığı yönünden yapılabilir. Bunun dışında
+hukuki konumu, niteliği ve işletme konusu ne olursa olsun anonim şirketin
+kuruluşu ve esas sözleşme değişiklikleri herhangi bir makamın iznine
+bağlanamaz.
+====
+
+Esas sözleşme yapıldıktan sonra şirketin kurulması için son aşama ticaret
+siciline tescildir. Tescil ile birlikte anonim ortaklık tüzel kişilik kazanır
+ve tacir sıfatına haiz olur. Sicile tescilin olumlu ve olumsuz etkileri doğar.
+
+Tescil edilen şirketin yokluğu, butlanı ileri sürülemez. Sadece feshi talep
+edilebilir (*olumlu etki*).
+
+Anonim ortaklık kurmak amacıyla bir araya gelindiğinde aradaki ilişki *adi
+ortaklık* ilişkisidir. Tescil gerçekleşmeden biri ortaklıktan vazgeçerse
+ileride kurulacak anonim ortaklık için yapılmış hukuki işlemlerin akıbeti
+şirketin kurulmasından itibaren 3 ay içerisinde genel kurul tarafından kabul
+edilmelerine bağlıdır. Genel kurul tarafından kabul edilmemesi halinde yapılan
+tüm işlem masrafları kurucular tarafından ödenir, pay sahiplerine rücu
+edilemez.
+
+[caption=""]
+.Tüzel kişiliğin kazanılması
+====
+*TTK 355*: (1) Şirket ticaret siciline tescil ile tüzel kişilik kazanır.
+
+(2) Tescilden önce şirket adına işlem yapanlar ve taahhütlere girişenler, bu
+işlem ve taahhütlerden şahsen ve müteselsilen sorumludurlar. Ancak, işlem ve
+taahhütlerin, ileride kurulacak şirket adına yapıldığı açıkça bildirilmiş ve
+şirketin ticaret siciline tescilinden sonra üç aylık süre içinde bu taahhütler
+şirket tarafından kabul olunmuşsa, yalnız şirket sorumlu olur.
+
+(3) Şirketçe kabul olunmadığı takdirde kuruluş giderleri kurucular tarafından
+karşılanır. Bunların pay sahiplerine rücu hakları yoktur.
+====
+
+==== ORGANLAR
+
+Anonim ortaklıkların kanunen öngörülmüş iki zorunlu organı vardır:
+
+. *Genel kurul (karar organı)*: Genel kurul sürekli bir organ değil, karar
+organıdır ve kural olarak yılda 1 defa toplanması yeterlidir.
+. *Yönetim kurulu (yönetim ve temsil organı)*: Şirketi yöneten ve dış ilişkide
+şirketi üçüncü kişilere karşı temsil eden dolayısıyla işlemleriyle şirkete hak
+kazandıran veya şirketi borç altına sokan sürekli organdır.
++
+====
+*TTK 374*: (1) Yönetim kurulu ve kendisine bırakılan alanda yönetim, kanun ve
+esas sözleşme uyarınca genel kurulun yetkisinde bırakılmış bulunanlar dışında,
+şirketin işletme konusunun gerçekleştirilmesi için gerekli olan her çeşit iş ve
+işlemler hakkında karar almaya yetkilidir.
+====
+
+[caption=""]
+.Organların eksikliği
+====
+*TTK 530*: (1) Uzun süreden beri şirketin kanunen gerekli olan organlarından
+biri mevcut değilse veya genel kurul toplanamıyorsa, pay sahipleri, şirket
+alacaklıları veya Gümrük ve Ticaret Bakanlığının istemi üzerine, şirket
+merkezinin bulunduğu yerdeki asliye ticaret mahkemesi, yönetim kurulunu da
+dinleyerek şirketin durumunu kanuna uygun hâle getirmesi için bir süre
+belirler. Bu süre içinde durum düzeltilmezse, mahkeme şirketin feshine karar
+verir.
+
+(2) Dava açıldığında mahkeme, taraflardan birinin istemi üzerine gerekli
+önlemleri alabilir.
+====
+
+===== GENEL KURUL
+
+Pay sahipleri genel kurul toplantısına katılıp oy kullanmak suretiyle bir
+kararın alınmasını sağlarlar. Genel kurulda alınan kararlar ilke olarak sadece
+iç ilişkide etkili sonuç doğurur.
+
+[caption=""]
+.Görev ve yetkileri
+====
+*TTK 408*: (1) Genel kurul, kanunda ve esas sözleşmede açıkça öngörülmüş
+bulunan hâllerde karar alır.
+
+(2) Çeşitli hükümlerde öngörülmüş bulunan devredilemez görevler ve yetkiler
+saklı kalmak üzere, genel kurula ait aşağıdaki görevler ve yetkiler
+devredilemez:
+
+.. Esas sözleşmenin değiştirilmesi.
+.. Yönetim kurulu üyelerinin seçimi, süreleri, ücretleri ile huzur hakkı,
+ikramiye ve prim gibi haklarının belirlenmesi, ibraları hakkında karar
+verilmesi ve görevden alınmaları.
+.. Kanunda öngörülen istisnalar dışında denetçinin seçimi ile görevden
+alınması.
+.. Finansal tablolara, yönetim kurulunun yıllık raporuna, yıllık kâr üzerinde
+tasarrufa, kâr payları ile kazanç paylarının belirlenmesine, yedek akçenin
+sermayeye veya dağıtılacak kâra katılması dâhil, kullanılmasına dair kararların
+alınması.
+.. Kanunda öngörülen istisnalar dışında şirketin feshi.
+.. Önemli miktarda şirket varlığının toptan satışı.
+
+(3) Tek pay sahipli anonim şirketlerde bu pay sahibi genel kurulun tüm
+yetkilerine sahiptir. Tek pay sahibinin genel kurul sıfatıyla alacağı
+kararların geçerlilik kazanabilmeleri için yazılı olmaları şarttır.
+====
+
+Genel kurulun gündeminde yıllık faaliyet sonuçlarının değerlendirilmesi yani
+bilançoya ilişkin gündem maddeleri varsa yapılan kurula *olağan genel kurul*
+denilmektedir.
+
+[caption=""]
+.Toplantılar
+====
+*TTK 409*: (1) Genel kurullar olağan ve olağanüstü toplanır. Olağan toplantı
+her faaliyet dönemi sonundan itibaren üç ay içinde yapılır. Bu toplantılarda,
+organların seçimine, finansal tablolara, yönetim kurulunun yıllık raporuna,
+kârın kullanım şekline, dağıtılacak kâr ve kazanç paylarının oranlarının
+belirlenmesine, yönetim kurulu üyelerinin ibraları ile faaliyet dönemini
+ilgilendiren ve gerekli görülen diğer konulara ilişkin müzakere yapılır, karar
+alınır.
+
+(2) Gerektiği takdirde genel kurul olağanüstü toplantıya çağrılır.
+
+(3) Aksine esas sözleşmede hüküm bulunmadığı takdirde genel kurul, şirket
+merkezinin bulunduğu yerde toplanır.
+====
+
+TTK 409/1 uyarınca olağan genel kurul faaliyet döneminin bitiminden itibaren 3
+ay içinde toplanır. Söz konusu 3 aylık süre *düzen hükmüdür*.
+
+Bir genel kurulun olağan-olağanüstü ayrımının yapılabilmesi için gündem
+maddelerine bakılır. Olağanüstü genel kurul toplantılarında kanun koyucu
+belirli bir süre öngörmemiştir, içerik olarak istenilen maddeler görüşülebilir.
+
+Kuruluşu TTK 333 uyarınca bakanlığın iznine tabi anonim ortaklıkların genel
+kurul toplantılarına bakanlık temsilcisinin katılması zorunludur. Aksi takdirde
+toplantıda alınan kararların tamamı geçersizdir.
+
+====
+*TTK 407*: (1) Pay sahipleri şirket işlerine ilişkin haklarını genel kurulda
+kullanırlar. Kanuni istisnalar saklıdır.
+
+(2) Murahhas üyelerle en az bir yönetim kurulu üyesinin genel kurul
+toplantısında hazır bulunmaları şarttır. Diğer yönetim kurulu üyeleri genel
+kurul toplantısına katılabilirler. Denetçi genel kurulda hazır bulunur. Üyeler
+ve denetçiler görüş bildirebilirler.
+
+(3) 333 üncü madde gereğince belirlenen şirketlerin genel kurul toplantılarında
+Gümrük ve Ticaret Bakanlığının temsilcisi de yer alır. Diğer şirketlerde, hangi
+durumlarda Bakanlık temsilcisinin genel kurulda bulunacağı ve genel kurul
+toplantıları için temsilcilerin görevlendirilmelerine ilişkin usul ve esaslar
+ile bunların nitelik, görev ve yetkileri ayrıca ücret tarifeleri Gümrük ve
+Ticaret Bakanlığınca çıkarılacak bir yönetmelikle düzenlenir. Bakanlık
+temsilcisinin toplantıya katılma giderleri ve ücretleri ilgili şirket
+tarafından karşılanır.
+====
+
+Kuruluşu bakanlığın iznine tabi olmayan anonim ortaklıklarda ise bazı
+durumlarda genel kurula bakanlık temsilcisinin katılması zorunlu tutulmuştur.
+Aşağıdaki konularda kararların alınacağı genel kurul toplantılarına bakanlık
+temsilcisi katılmalıdır:
+
+* Esas sermayenin artırılması
+* Esas sermayenin azaltılması
+* Esas sözleşmedeki faaliyet konusunun değiştirilmesi
+* Kayıtlı sermayeye ilişkin kararlar alınması
+* Birleşme, bölünme ve tür değiştirmeye ilişkin kararların alınması
+
+Bir anonim ortaklık genel kurul toplantısına katılabilmek için pay
+sahiplerinin mutlaka toplantının yapılacağı yerde fiziken kendilerinin ya da
+temsilcilerinin bulunması gerekir. Ancak esas sözleşmede düzenlenmişse pay
+sahipleri elektronik ortamda da katılım sağlayabilir.
+
+Pay sahipleri şirket yönetimine ancak ve ancak genel kurula katılmak ve oy
+kullanmak suretiyle katılabilir. Pay sahibinin de genel kurula katılabilmesi
+için öncelikle davet edilmesi, çağrı prosedürüne uyulması gerekir. Çağrı
+prosedürüne uyulmadan genel kurul toplantısı yapılırsa alınan karar geçersizlik
+yaptırımıyla karşılaşabilir.
+
+[caption=""]
+.Yetkili ve görevli organlar
+====
+*TTK 410*: (1) Genel kurul, süresi dolmuş olsa bile, yönetim kurulu tarafından
+toplantıya çağrılabilir. Tasfiye memurları da, görevleri ile ilgili konular
+için, genel kurulu toplantıya çağırabilirler.
+
+(2) Yönetim kurulunun, devamlı olarak toplanamaması, toplantı nisabının
+oluşmasına imkân bulunmaması veya mevcut olmaması durumlarında, mahkemenin
+izniyle, tek bir pay sahibi genel kurulu toplantıya çağırabilir. Mahkemenin
+kararı kesindir.
+====
+
+Genel kurul için çağrıyı yapmaya yetkili asıl organ yönetim kuruludur. TTK
+410/1 uyarınca görev süresi dolmuş olsa bile yönetim kurulu genel kurulu
+toplantıya çağırabilir.
+
+TIP: Yargıtay'ın yerleşmiş içtihadına göre şirket bakımından acele olan işler
+yönetim kurulu tarafından genel kurul gündemine eklenebilir.
+
+Yönetim kurulu çağrı yetkisini kullanmazsa azlık hakları devreye girer. Azınlık
+(anonim ortaklıklarda sermayenin 1/10'unu, halka açık ortaklıklarda 1/20'sini
+oluşturan pay sahipleri) genel kurulu toplantıya çağırabilir.
+
+====
+*TTK 411*: (1) Sermayenin en az onda birini, halka açık şirketlerde yirmide
+birini oluşturan pay sahipleri, yönetim kurulundan, yazılı olarak gerektirici
+sebepleri ve gündemi belirterek, genel kurulu toplantıya çağırmasını veya genel
+kurul zaten toplanacak ise, karara bağlanmasını istedikleri konuları gündeme
+koymasını isteyebilirler. Esas sözleşmeyle, çağrı hakkı daha az sayıda paya
+sahip pay sahiplerine tanınabilir.
+
+(2) Gündeme madde konulması istemi, çağrı ilanının Türkiye Ticaret Sicili
+Gazetesinde yayımlanmasına ilişkin ilan ücretinin yatırılması tarihinden önce
+yönetim kuruluna ulaşmış olmalıdır.
+
+(3) Çağrı ve gündeme madde konulması istemi noter aracılığıyla yapılır.
+
+(4) Yönetim kurulu çağrıyı kabul ettiği takdirde, genel kurul en geç kırkbeş
+gün içinde yapılacak şekilde toplantıya çağrılır; aksi hâlde çağrı istem
+sahiplerince yapılır.
+====
+
+Azınlık, hakkını yönetim kuruluna karşı ileri sürmelidir. Eğer azınlık, yönetim
+kuruluna genel kurulu toplantıya çağırma talebini iletirse (talep, noter
+tarafından düzenlenmelidir) yönetim kurulu talebi kabul edebilir, reddedebilir
+veya 7 gün boyunca sessiz kalabilir.
+
+Ret ve sessiz kalma durumunda azınlık mahkemeye başvurur. Mahkemece atanan
+kayyım genel kurul toplantısını yapar.
+
+[caption=""]
+.Mahkemenin izni
+====
+*TTK 412*: (1) Pay sahiplerinin çağrı veya gündeme madde konulmasına ilişkin
+istemleri yönetim kurulu tarafından reddedildiği veya isteme yedi iş günü
+içinde olumlu cevap verilmediği takdirde, aynı pay sahiplerinin başvurusu
+üzerine, genel kurulun toplantıya çağrılmasına şirket merkezinin bulunduğu
+yerdeki asliye ticaret mahkemesi karar verebilir.  Mahkeme toplantıya gerek
+görürse, gündemi düzenlemek ve Kanun hükümleri uyarınca çağrıyı yapmak üzere
+bir kayyım atar. Kararında, kayyımın, görevlerini ve toplantı için gerekli
+belgeleri hazırlamaya ilişkin yetkilerini gösterir.  Zorunluluk olmadıkça
+mahkeme dosya üzerinde inceleme yaparak karar verir. Karar kesindir.
+====
+
+Yönetim kurulunun azınlığın talebini kabul etmesi durumunda genel kurul 45 gün
+içerisinde yönetim kurulu tarafından toplantıya çağırılmalıdır. 45 gün
+içerisinde çağrı yapılmaz ise çağrı yetkisi azınlığa geçer.
+
+CAUTION: Azınlık oranı anonim ortaklıklarda sermayenin 1/10'u, halka açık
+anonim ortaklıklarda 1/20'sidir. Esas sözleşme ile oranlar azaltılabilir ancak
+*artırılamaz*.
+
+Genel kurulun toplantıya çağrılmasında:
+
+. Türkiye ticaret sicili gazetesinde çağrı yayınlanmalıdır.
+. Ana sözleşmede öngörülen şekle uygun çağrı yapılmalıdır.
+
+====
+*TTK 414*: (1) Genel kurul toplantıya, esas sözleşmede gösterilen şekilde,
+şirketin internet sitesinde ve Türkiye Ticaret Sicili Gazetesinde yayımlanan
+ilanla çağrılır. Bu çağrı, ilan ve toplantı günleri hariç olmak üzere, toplantı
+tarihinden en az iki hafta önce yapılır. Pay defterinde yazılı pay sahipleriyle
+önceden şirkete pay senedi veya pay sahipliğini ispatlayıcı belge vererek
+adreslerini bildiren pay sahiplerine, toplantı günü ile gündem ve ilanın
+çıktığı veya çıkacağı gazeteler, iadeli taahhütlü mektupla bildirilir.
+
+(2) Sermaye Piyasası Kanununun 11 inci maddesinin altıncı fıkrası hükmü
+saklıdır.
+====
+
+Çağrı, ilan ve toplantı günü hariç 14 gün önceden yapılmalıdır. Önemli olan
+iadeli taahhütlü mektubun 14 gün önceden postaya verilmesidir. *Halka açık
+ortaklıklarda bu süre 3 haftadır*.
+
+Çağrıda, kimin çağrıda bulunduğu, hangi şirket için genel kurul toplantısı
+yapılacağı, zaman, yer ve saat bilgileri ile toplantı gündemi bulunmalıdır.
+
+Kural olarak anonim ortaklıkta gündeme bağlılık ilkesi geçerlidir. Gündemde
+gösterilmeyen konu toplantıda görüşülemez ve karara bağlanamaz.
+
+[caption=""]
+.Gündem
+====
+*TTK 413*: (1) Gündem, genel kurulu toplantıya çağıran tarafından belirlenir.
+
+(2) Gündemde bulunmayan konular genel kurulda müzakere edilemez ve karara
+bağlanamaz. Kanuni istisnalar saklıdır.
+
+(3) Yönetim kurulu üyelerinin görevden alınmaları ve yenilerinin seçimi yılsonu
+finansal tablolarının müzakeresi maddesiyle ilgili sayılır.
+====
+
+Gündeme bağlılık ilkesinin istisnalarından biri her pay sahibinin genel kurul
+gündeminde olmasa bile şirketin özel denetimini talep edebilmesidir. Olağan
+genel kurul toplantısında gündemde olmasa dahi yönetim kurulu üyeleri
+azledilebilir ve yerine yenisi seçilebilir.
+
+[caption=""]
+.Görevden alma
+====
+*TTK 364*: (1) Yönetim kurulu üyeleri, esas sözleşmeyle atanmış olsalar dahi,
+gündemde ilgili bir maddenin bulunması veya gündemde madde bulunmasa bile haklı
+bir sebebin varlığı hâlinde, genel kurul kararıyla her zaman görevden
+alınabilirler. Yönetim kurulu üyesi olan tüzel kişi, kendi adına tescil edilmiş
+bulunan kişiyi her an değiştirebilir.
+
+(2) 334 üncü madde hükmü ve görevden alınan üyenin tazminat hakkı saklıdır.
+====
+
+TTK 364'e göre de olağan genel kurulda gündemde olmasa bile yönetim kurulu
+üyeleri haklı sebeple azledilebilir. Haklı sebebin olmadığı hallerde yine azil
+gerçekleşir ancak şirket azledilen yönetim kurulu üyelerine tazminatla
+yükümlüdür.
+
+İki şartın varlığı halinde genel kurul çağrısız yapılabilir:
+
+. Tüm pay sahiplerinin toplantı yerinde hazır bulunması
+. Pay sahiplerinden birinin toplantı yapılmasına ve karar alınmasına muhalefet
+etmemiş olması
+
+[caption=""]
+.Çağrısız genel kurul
+====
+*TTK 416*: (1) Bütün payların sahipleri veya temsilcileri, aralarından biri
+itirazda bulunmadığı takdirde, genel kurula katılmaya ve genel kurul
+toplantılarının yapılmasına ilişkin hükümler saklı kalmak şartıyla, çağrıya
+ilişkin usule uyulmaksızın, genel kurul olarak toplanabilir ve bu toplantı
+nisabı varolduğu sürece karar alabilirler.
+
+(2) Çağrısız toplanan genel kurulda, gündeme oybirliği ile madde eklenebilir;
+aksine esas sözleşme hükmü geçersizdir.
+====
+
+Çağrısız genel kurulda bütün kararlar alınabilir. Ancak alınan kararların
+olağan nisaplarla alınması gerekmektedir.
+
+Genel kuruldan söz edebilmek için öncelikle toplantıya katılma hakkı olan
+kişilet katılmalıdır. Genel kurul toplantısına katılma hakkı olan ilk grup pay
+sahipleridir. Pay sahiplerinin genel kurula katılma hakkı vazgeçilmez bir
+haktır, esas sözleşmeyle ya da genel kurul kararıyla sınırlandırılamaz.
+
+Kanun koyucu bazı pay sahiplerinin genel kurulda oy kullanmasını
+sınırlandırmıştır. Örneğin, bir yönetim kurulu üyesi yönetim kurulu üyelerinin
+ibrasında oy kullanamaz. *Oydan yoksunluk genel kurul toplantısına katılmaya
+engel değildir*.
+
+Toplantı zamanında pay sahibi olduğunu kanıtlayan herkes toplantıya katılma
+hakkına sahiptir. Anonim ortaklıkta paylar için hisse senedi çıkarılmamışsa
+kimin pay sahibi olduğu **pay defteri**nden anlaşılır.
+
+Hamiline yazılı pay sahipleri bakımından ise bir yükümlülük getirilmiştir.
+Hamiline yazılı pay sahipleri en geç toplantıdan 1 gün öncesine kadar pay
+senedi sahibi olduklarını ispatlayan belgeleri şirkete ibraz etmek suretiyle
+toplantıya giriş kartı almak zorundadır, aksi takdirde toplantıya katılamazlar.
+
+Pay sahipleri genel kurul toplantısına bizzat da katılabilir, üçüncü bir kişiye
+temsil yetkisi de verebilir.
+
+Pay üzerinde intifa varsa, toplantıya katılma ve oy kullanma hakkı intifa hakkı
+sahibinindir. Ancak pay sahibi yine de toplantıya katılabilir, sadece oy
+kullanamaz.
+
+Pay üzerinde rehin hakkı tesis edilmiş ise rehin hakkı sahibi pay sahibi
+tarafından yetki belgesi verilip toplantıya katılmasına cevaz verildiği
+takdirde toplantıya katılıp oy kullanabilir.
+
+====
+*TTK 427*: (1) Katılma haklarını temsilci olarak kullanan kişi, temsil edilenin
+talimatına uyar. Talimata aykırılık, oyu geçersiz kılmaz. Temsil edilenin
+temsilciye karşı hakları saklıdır.
+
+(2) Hamiline yazılı pay senedini, rehin, hapis hakkı, saklama sözleşmesi veya
+kullanım ödüncü sözleşmesi ve benzeri sözleşmeler sebebiyle elde bulunduran
+kimse, pay sahipliği haklarını, ancak pay sahibi tarafından özel bir yazılı
+belge ile yetkilendirilmişse kullanabilir.
+====
+
+Bir pay üzerinde birden çok kişi iştirak halinde ya da müştereken malik
+olabilir.
+
+[caption=""]
+.Birden çok hak sahibi
+====
+*TTK 432*: (1) Bir pay, birden çok kişinin ortak mülkiyetindeyse, bunlar
+içlerinden birini veya üçüncü bir kişiyi, genel kurulda paydan doğan haklarını
+kullanması için temsilci olarak atayabilirler.
+
+(2) Bir payın üzerinde intifa hakkı bulunması hâlinde, aksi
+kararlaştırılmamışsa, oy hakkı, intifa hakkı sahibi tarafından kullanılır.
+Ancak, intifa hakkı sahibi, pay sahibinin menfaatlerini hakkaniyete uygun bir
+şekilde göz önünde tutarak hareket etmemiş olması dolayısıyla pay sahibine
+karşı sorumludur.
+====
+
+[NOTE]
+====
+*TTK 407*: "_(2) Murahhas üyelerle en az bir yönetim kurulu üyesinin genel kurul
+toplantısında hazır bulunmaları şarttır. Diğer yönetim kurulu üyeleri genel
+kurul toplantısına katılabilirler. Denetçi genel kurulda hazır bulunur. Üyeler
+ve denetçiler görüş bildirebilirler._"
+
+TTK 407'deki *murahhas üye*, yönetim kurulu üyesi olup da şirketi temsil ve
+yönetim yetkisi kendisine bırakılmış olan üyedir. Murahhas üyelerle en az bir
+yönetim kurulu üyesinin toplantıda hazır bulunmaması durumunda toplantıda
+alınan kararların akıbeti ne olacaktır?
+
+Doktrinde bir yazara göre tıpkı bakanlık temsilcisi gibi değerlendirilip,
+temsilcinin katılmadığı toplantıda alınan kararlar yok hükmünde kabul
+edilmelidir.
+
+Bir başka yazar, maddenin emredici olması dolayısıyla alınan kararların kesin
+hükümsüzlük ile batıl olduğunu ileri sürmüştür.
+
+Bir başka yazar, bu kişilerin toplantıya katılmasının bilgi alma hakkıyla
+ilgili olduğunu ve burada olsa olsa iptal edilebilirliğin gündeme geleceğini
+savunmuştur.
+
+Diğer bir yazar, iptal edilebilirliğin sadece pay sahiplerinin bilgi alma
+hakkı gerçekten ihlal edilmişse gündeme gelebileceğini söylemektedir.
+
+Son olarak bir başka yazar ise TTK 407'nin yönetim kurulu üyeleri bakımından
+bir yükümlülük olduğunu ileri sürerek toplantıya katılınmaması halinde zarar
+meydana gelirse üyelerin sorumluluğunun doğacağını savunmuştur.
+
+*Kürsüye göre*, söz konusu kişilerin toplantıya katılmasını öngören TTK 407 bir
+düzen hükmüdür. Toplantıya ilgili kişilerin katılmamış olması pay sahiplerinin
+bilgi alma hakkına engel olduysa, ihlale yol açan kararlar bakımından iptal
+edilebilirlik söz konusu olabilir.
+====
+
+Yönetim kurulu pay defterine göre toplantıya katılacaklar listesi adında bir
+liste hazırlar. Toplantıya gelen pay sahipleri de isimleri karşısına denk gelen
+yeri imzalar. İşte bu listeye *hazır bulunanlar listesi* (hazırun cetveli)
+denir. Bu liste toplantı nisabının sağlanıp sağlanmadığını denetlemek için
+önemlidir.
+
+Toplantı açılışından sonra yapılacak ilk şey, toplantı yöneticisinin (toplantı
+başkanı) seçimidir. Toplantı başkanın pay sahibi olması şart değildir. Başkan,
+katip (yazman) ve oy toplama memurunu toplantıda atayabilir. Bu üç kişi
+toplantının başkanlığını oluşturur. Toplantı nisabının sağlanıp sağlanmadığını
+kontrol ederler. Nisap sağlanmışsa, gündemdeki maddelerin görüşülmesine
+başlanır. Nisap sağlanmamışsa toplantı ertelenir.
+
+Toplantı iki halde ertelenebilir:
+
+. *Nisabın sağlanamaması*
+. *Azınlığın erteleme talebi*
++
+[caption=""]
+.Toplantının ertelenmesi
+====
+*TTK 420*: (1) Finansal tabloların müzakeresi ve buna bağlı konular, sermayenin
+onda birine, halka açık şirketlerde yirmide birine sahip pay sahiplerinin
+istemi üzerine, genel kurulun bir karar almasına gerek olmaksızın, toplantı
+başkanının kararıyla bir ay sonraya bırakılır. Erteleme, 414 üncü maddenin
+birinci fıkrasında yazılı olduğu şekilde pay sahiplerine ilanla bildirilir ve
+internet sitesinde yayımlanır. İzleyen toplantı için genel kurul, kanunda
+öngörülen usule uyularak toplantıya çağrılır.
+
+(2) Azlığın istemiyle bir defa ertelendikten sonra finansal tabloların
+müzakeresinin tekrar geri bırakılmasının istenebilmesi, finansal tabloların
+itiraza uğrayan ve tutanağa geçmiş bulunan noktaları hakkında, ilgililer
+tarafından, dürüst hesap verme ölçüsü ilkeleri uyarınca cevap verilmemiş olması
+şarttır.
+====
++
+Azınlık bilançonun görüşülmesini ertelenmesi talep ettiği anda bilanço veya
+bilançoya bağlı maddeler o toplantıda görüşülmez, ertelenir. Eğer 1 ay sonraki
+toplantıya kadar azınlıklar bilançoya ilişkin bazı hususların açıklanması
+talebinde bulunmuş ancak yönetim yeterli açıklama yapmamışsa bu toplantı da
+ertelenebilir.
+
+Toplantı nisabı sağlanmış ve azınlık tarafından erteleme talebinde
+bulunulmamışsa gündemde yer alan maddeler tek tek müzakere edilerek karar
+alınır. Kararlar yazman ve başkan tarafından tutanak haline getirilir. Tutanağı
+toplantı başkanı ve bulunuyorsa bakanlık temsilcisi imzalar.
+
+[caption=""]
+.Tutanak
+====
+*TTK 422*: (1) Tutanak, pay sahiplerini veya temsilcilerini, bunların sahip
+oldukları payları, gruplarını, sayılarını, itibarî değerlerini, genel kurulda
+sorulan soruları, verilen cevapları, alınan kararları, her karar için
+kullanılan olumlu ve olumsuz oyların sayılarını içerir. Tutanak, toplantı
+başkanlığı ve Bakanlık temsilcisi tarafından imzalanır; aksi hâlde geçersizdir.
+
+(2) Yönetim kurulu, tutanağın noterce onaylanmış bir suretini derhâl ticaret
+sicili müdürlüğüne vermek ve bu tutanakta yer alan tescil ve ilana tabi
+hususları tescil ve ilan ettirmekle yükümlüdür; tutanak ayrıca hemen şirketin
+internet sitesine konulur.
+====
+
+*Toplantı nisabı*, ilk toplantıda sermayenin 1/4'ünü oluşturan pay sahiplerinin
+hazır bulunmasıdır. Toplantı nisabı toplanamadığından toplantı ertelenirse
+ikinci toplantıda tek payı dahil temsil eden pay sahibi hazır bulunursa
+yeterlidir. İkinci toplantıda asgari nisap aranmamıştır.
+
+*Karar nisabı*; kanunda ve sözleşmede aksine hüküm bulunmadığı sürece
+toplantıda alınan karar, *toplantıda temsil edilen oyların çoğunluğu* ile
+alınır.
+
+[caption=""]
+.Toplantı ve karar nisabı
+====
+*TTK 418*: (1) Genel kurullar, bu Kanunda veya esas sözleşmede, aksine daha
+ağır nisap öngörülmüş bulunan hâller hariç, sermayenin en az dörtte birini
+karşılayan payların sahiplerinin veya temsilcilerinin varlığıyla toplanır. Bu
+nisabın toplantı süresince korunması şarttır. İlk toplantıda anılan nisaba
+ulaşılamadığı takdirde, ikinci toplantının yapılabilmesi için nisap aranmaz.
+
+(2) Kararlar toplantıda hazır bulunan oyların çoğunluğu ile verilir.
+====
+
+Kanun koyucu iki konuda nisabı oybirliğine kadar taşımıştır:
+
+. Ortaklara ek yükümlülükler getirilmesi
+. Şirket merkezinin yurtdışına çıkarılması
+
+[caption=""]
+.Esas sözleşme değişikliklerinde toplantı ve karar nisapları
+====
+*TTK 421*: (1) Kanunda veya esas sözleşmede aksine hüküm bulunmadığı takdirde,
+esas sözleşmeyi değiştiren kararlar, şirket sermayesinin en az yarısının temsil
+edildiği genel kurulda, toplantıda mevcut bulunan oyların çoğunluğu ile alınır.
+İlk toplantıda öngörülen toplantı nisabı elde edilemediği takdirde, en geç bir
+ay içinde ikinci bir toplantı yapılabilir.  İkinci toplantı için toplantı
+nisabı, şirket sermayesinin en az üçte birinin toplantıda temsil edilmesidir.
+Bu fıkrada öngörülen nisapları düşüren veya nispî çoğunluğu öngören esas
+sözleşme hükümleri geçersizdir.
+
+(2) Aşağıdaki esas sözleşme değişikliği kararları, sermayenin tümünü oluşturan
+payların sahiplerinin veya temsilcilerinin oybirliğiyle alınır:
+
+.. Bilanço zararlarının kapatılması için yükümlülük ve ikincil yükümlülük koyan
+kararlar.
+.. Şirketin merkezinin yurt dışına taşınmasına ilişkin kararlar.
+
+(3) Aşağıdaki esas sözleşme değişikliği kararları, sermayenin en az yüzde
+yetmişbeşini oluşturan payların sahiplerinin veya temsilcilerinin olumlu
+oylarıyla alınır:
+
+.. Şirketin işletme konusunun tamamen değiştirilmesi.
+.. İmtiyazlı pay oluşturulması.
+.. Nama yazılı payların devrinin sınırlandırılması.
+
+(4) İkinci ve üçüncü fıkralarda öngörülen nisaplara ilk toplantıda
+ulaşılamadığı takdirde izleyen toplantılarda da aynı nisap aranır.
+
+(5) Pay senetleri menkul kıymet borsalarında işlem gören şirketlerde, aşağıdaki
+konularda karar alınabilmesi için, yapılacak genel kurul toplantılarında, esas
+sözleşmelerinde aksine hüküm yoksa, 418 inci maddedeki toplantı nisabı
+uygulanır:
+
+.. Sermayenin artırılması ve kayıtlı sermaye tavanının yükseltilmesine ilişkin
+esas sözleşme değişiklikleri.
+.. Birleşmeye, bölünmeye ve tür değiştirmeye ilişkin kararlar.
+
+(6) İşletme konusunun tamamen değiştirilmesi veya imtiyazlı pay oluşturulmasına
+ilişkin genel kurul kararına olumsuz oy vermiş nama yazılı pay sahipleri, bu
+kararın Türkiye Ticaret Sicili Gazetesinde yayımlanmasından itibaren altı ay
+boyunca payların devredilebilirliği hakkındaki kısıtlamalarla bağlı
+değildirler.
+====
+
+IMPORTANT: Kanunda öngörülen nisaplar, tek taraflı emredici hükümlerdir. Tek
+taraflı hükümler olduğu için nisaplar azaltılamaz ama artırılabilir.
+Yargıtay'ın yerleşik içtihadına göre nisabın artırılması kararı getirilmek
+istenen nisap ile alınmalıdır.
+
+TTK 418'e göre toplantı nisabının "_toplantı süresince korunması şarttır_".
+Toplantı esnasında nisabın yitirilmesinin o ana kadar alınan kararlara etkisi
+tartışma konusu olmuştur. Doktrinde bir görüş o ana kadar alınan kararların
+geçerli olduğunu savunurken, diğer bir görüş tüm kararların geçersiz olacağını
+savunmaktadır.
+
+NOTE: Yargıtay'ın yerleşik içtihadına göre bir genel kurulda karar nisabı
+sağlanmamışsa alınan kararlar yok hükmündedir. Aynı şekilde bakanlık
+temsilcisinin bulunmasının zorunlu olduğu ancak katılmadığı toplantılarda
+alınan kararlar da Yargıtay tarafından yok hükmünde kabul edilmektedir.
+
+TIP: Eğer bir ortaklıkta imtiyazlı paylar varsa ve genel kurul bu imtiyazlı
+payları kaldırmak veya sınırlandırmak istiyorsa alınan kararın uygulanabilmesi
+için o imtiyazlı payların oluşturduğu kurulun söz konusu kararı onaylaması
+gerekir. Karar onaylanana kadar askıda hükümsüzdür.
+
+[caption=""]
+.Butlan
+====
+*TTK 447*: (1) Genel kurulun, özellikle;
+
+.. Pay sahibinin, genel kurula katılma, asgari oy, dava ve kanundan kaynaklanan
+vazgeçilemez nitelikteki haklarını sınırlandıran veya ortadan kaldıran,
+.. Pay sahibinin bilgi alma, inceleme ve denetleme haklarını, kanunen izin
+verilen ölçü dışında sınırlandıran,
+.. Anonim şirketin temel yapısını bozan veya sermayenin korunması hükümlerine
+aykırı olan, kararları batıldır.
+====
+
+TTK 447'de sayılan butlan halleri için numerus clausus (sınırlı sayı) ilkesi
+geçerli değildir.
+
+Kanun koyucu genel kurul kararına karşı iptal davası açılabilmesi için bir
+takım kurallar getirmiştir:
+
+* Genel kurul kararının verildiği tarihten itibaren 3 aylık hak düşürücü süre
+vardır.
+* Dava şirket merkezinin bulunduğu yer asliye ticaret mahkemesinde açılmalıdır.
+* Davalı olarak anonim şirket gösterilmelidir.
+
+Pay sahipleri, yönetim kurulu veya alınan genel kurul kararı bireysel
+sorumluluğa yol açıyorsa her bir yönetim kurulu üyesi dava açabilir. Genel
+kurul toplantısına katılmış bir pay sahibinin iptal davası açabilmesi için
+karara olumsuz oy vermesi ve toplantı tutanağına muhalefetini geçirmesi
+gerekir.
+
+Toplantıya katılsın katılmasın, olumsuz oy kullansın kullanmasın tüm pay
+sahiplerinin iptal davası açabileceği bazı haller öngörülmüştür.
+
+[caption=""]
+.İptal davası açabilecek kişiler
+====
+*TTK 446*: (1)
+
+.. Toplantıda hazır bulunup da karara olumsuz oy veren ve bu muhalefetini
+tutanağa geçirten,
+.. Toplantıda hazır bulunsun veya bulunmasın, olumsuz oy kullanmış olsun ya da
+olmasın; çağrının usulüne göre yapılmadığını, gündemin gereği gibi ilan
+edilmediğini, genel kurula katılma yetkisi bulunmayan kişilerin veya
+temsilcilerinin toplantıya katılıp oy kullandıklarını, genel kurula katılmasına
+ve oy kullanmasına haksız olarak izin verilmediğini ve yukarıda sayılan
+aykırılıkların genel kurul kararının alınmasında etkili olduğunu ileri süren
+pay sahipleri,
+.. Yönetim kurulu,
+.. Kararların yerine getirilmesi, kişisel sorumluluğuna sebep olacaksa yönetim
+kurulu üyelerinden her biri,
+
+iptal davası açabilir.
+====
+
+[caption=""]
+.İlan, teminat ve kanun yolu
+====
+*TTK 448*: (1) Yönetim kurulu iptal veya butlan davasının açıldığını ve duruşma
+gününü usulüne uygun olarak ilan eder ve şirketin internet sitesine koyar.
+
+(2) İptal davasında üç aylık hak düşüren sürenin sona ermesinden önce duruşmaya
+başlanamaz. Birden fazla iptal davası açıldığı takdirde davalar birleştirilerek
+görülür.
+
+(3) Mahkeme, şirketin istemi üzerine muhtemel zararlarına karşı davacıların
+teminat göstermesine karar verebilir.  Teminatın nitelik ve miktarını mahkeme
+belirler.
+====
+
+[caption=""]
+.Kararın yürütülmesinin geri bırakılması
+====
+*TTK 449*: (1) Genel kurul kararı aleyhine iptal veya butlan davası açıldığı
+takdirde mahkeme, yönetim kurulu üyelerinin görüşünü aldıktan sonra, dava
+konusu kararın yürütülmesinin geri bırakılmasına karar verebilir.
+====
+
+Genel kurulda alınan karar hukuka aykırı ise ve açılacak olan iptal davasında
+kararın iptal edilmesi olasılığı yüksek ise, karar davanın sonuçlanmasını
+beklemeden ortadan kaldırılabilir. Ortadan kaldırılamayacak tek karar **ibra
+kararı**dır.
+
+[caption=""]
+.Kararın etkisi
+====
+*TTK 450*: (1) Genel kurul kararının iptaline veya butlanına ilişkin mahkeme
+kararı, kesinleştikten sonra bütün pay sahipleri hakkında hüküm ifade eder.
+Yönetim kurulu bu kararın bir suretini derhâl ticaret siciline tescil ettirmek
+ve internet sitesine koymak zorundadır.
+====
+
+[caption=""]
+.Kötüniyetle iptal ve butlan davası açanların sorumluluğu
+====
+*TTK 451*: (1) Genel kurulun kararına karşı, kötüniyetle iptal veya butlan
+davası açıldığı takdirde, davacılar bu sebeple şirketin uğradığı zararlardan
+müteselsilen sorumludurlar.
+====
+
+Pay sahibi iptal davası açtıktan sonra paylarını devrederse açılmış olan
+davanın akıbeti ne olacaktır? Külli intikalde davaya devam olunabilecektir.
+
+TODO: Cüzi intikalde ne olur?
+
+===== YÖNETİM KURULU
+
+Yönetim kurulu, genel kurulun aksine daimi organdır. Yönetim kurulu idare ve
+temsil organıdır.
+
+Yönetim kurulu TTK 374 uyarınca, "_kanun ve esas sözleşme uyarınca genel
+kurulun yetkisinde bırakılmış bulunanlar dışında, şirketin işletme konusunun
+gerçekleştirilmesi için gerekli olan her çeşit iş ve işlemler hakkında karar
+almaya yetkilidir._"
+
+Anonim şirkette esas sözleşmede açık hüküm bulunması şartıyla yönetim ve temsil
+yetkisinin tamamı yönetim kurulu üyesi olsun-olmasın üçüncü kişilere
+devredilebilir. Devir için esas sözleşmede açık hüküm olmalı ve yönetim kurulu
+bu yönde karar almalıdır. Devir halinde sorumluluk görevi devralan kişiye
+geçer ancak yönetim kurulunun gözetim borcu her halükarda devam eder.
+
+Ancak TTK 375 kapsamındaki görev ve yetkiler üçüncü kişiye devredilemez. TTK
+375'te sayılan görevler üçüncü kişilere devredilmiş olsa dahi yönetim kurulunun
+sorumluluğu devam etmekedir.
+
+*TTK 375'e göre devredilemez görev ve yetkiler:*
+
+.. Şirketin üst düzeyde yönetimi ve bunlarla ilgili talimatların verilmesi
+.. Şirket yönetim teşkilatının belirlenmesi
+.. Muhasebe, finans denetimi ve şirketin yönetiminin gerektirdiği ölçüde,
+finansal planlama için gerekli düzenin kurulması.
+.. Müdürlerin ve aynı işleve sahip kişiler ile imza yetkisini haiz bulunanların
+atanmaları ve görevden alınmaları.
+.. Yönetimle görevli kişilerin, özellikle kanunlara, esas sözleşmeye, iç
+yönergelere ve yönetim kurulunun yazılı talimatlarına uygun hareket edip
+etmediklerinin üst gözetimi.
+.. Pay, yönetim kurulu karar ve genel kurul toplantı ve müzakere defterlerinin
+tutulması, yıllık faaliyet raporunun ve kurumsal yönetim açıklamasının
+düzenlenmesi ve genel kurula sunulması, genel kurul toplantılarının
+hazırlanması ve genel kurul kararlarının yürütülmesi.
+.. Borca batıklık durumunun varlığında mahkemeye bildirimde bulunulması.
+
+Yönetim kurulu ile şirket arasındaki ilişki _organ ilişkisi_, anonim ortaklıkla
+yönetim kurulu üyesi arasındaki ilişki __sözleşme ilişkisi__dir.
+
+TIP: Organların haksız fiillerinden şirket sorumludur.
+
+Anonim şirkette genel kurulun vazgeçilemez ve devredilemez görevlerinden birisi
+yönetim kurulunu seçmektir. Kural olarak yönetim kurulu, genel kurul tarafından
+alınacak bir karar ile seçilir.
+
+*Yönetim kurulunun genel kurul tarafından seçilmesinin istisnaları:*
+
+* Kuruluşta genel kurul henüz olmadığı için yönetim kurulu üyeleri esas
+sözleşmede belirtilen kişilerdir.
+* Genel kurul tarafından seçilmiş yönetim kurulu üyelerinden biri görev süresi
+içerisinde ölürse diğer yönetim kurulu üyeleri görevi sona eren üyenin yerine
+ilk genel kurul toplantısına kadar görev yapmak üzere yeni bir üye seçebilir.
+Seçilen üye genel kurul toplantısında onaylanırsa görevine devam eder ve yerine
+seçilen üyenin süre bitimine kadar göreve devam eder.
+
+Genel kurul yönetim kurulu üyelerini seçer. Yönetim kurulu üyeleri en fazla 3
+yıllığına seçilebilir. Bu 3 yılın azaltılması esas sözleşmeye getirilecek açık
+hükümle mümkündür. Üye 3 yıldan fazla bir süre için seçilirse alınan genel
+kurulu kısmi hükümsüz olur ve 3 yıldan fazla olan süre kısım batıl olacaktır.
+Seçilen üyenin görev süresi sona erdiğinde bir daha seçilmesine engel yoktur.
+Hatta görev süresi sona eren üye ibra edilmemiş olsa bile yeninden yönetim
+kuruluna üye olarak seçilebilir.
+
+TIP: Finansal tabloların görüşülmesi, yönetim kurulu üyelerinin
+seçilmesi/azledilmesi demektir. Dolayısıyla finansal tabloların görüşüleceği
+bir genel kurul toplantısında açıkça yazılı olmasa dahi mevcut yönetim kurulu
+üyeleri azledilip yerlerine yenisi seçilebilir. *Haklı sebebin varlığı halinde
+her zaman yönetim kurulu üyeleri azledilebilir*.
+
+Seçilen yönetim kurulu üyelerinin görev süresi farklı olarak öngörülebilir.
+Örneğin biri 1 yıllığına diğeri 3 yıllığına seçilebilir.
+
+TTK'da yönetim kuruluna üye seçilebilmek için bir takım şartlar düzenlenmiştir:
+
+* Seçilen kişi gerçek veya tüzel kişi olabilir.
+* Tam ehliyetli olmalıdır.
+* Yönetim kurulu üyesi iflas etmemiş olmalıdır.
+* Kısıtlanmamış olmalıdır.
+* Esas sözleşmede ek şartlar getirilmişse bu şartları da sağlamalıdır.
+
+Kanunda öngörülen şartlara uymayan birinin (örneğin iflas etmiş kişinin)
+yönetim kurulu üyesi olarak seçildiği genel kurul kararı batıldır. Esas
+sözleşmede öngörülen şartlara uymayan birinin seçildiği karar ise iptal
+edilebilir bir karardır.
+
+TTK 360'a göre, "_Esas sözleşmede öngörülmek şartı ile, belirli pay gruplarına,
+özellik ve nitelikleriyle belirli bir grup oluşturan pay sahiplerine ve azlığa
+yönetim kurulunda temsil edilme hakkı tanınabilir. Bu amaçla, yönetim kurulu
+üyelerinin, belirli bir grup oluşturan pay sahipleri, belirli pay grupları ve
+azlık arasından seçileceği esas sözleşmede öngörülebileceği gibi, esas
+sözleşmede yönetim kurulu üyeliği için aday önerme hakkı da tanınabilir. Genel
+kurul tarafından yönetim kurulu üyeliğine önerilen adayın veya hakkın tanındığı
+gruba ve azlığa mensup adayın haklı bir sebep bulunmadığı takdirde üye
+seçilmesi zorunludur._"
+
+Aşağıdaki hallerde yönetim kurulu üyeliği sona erer:
+
+* Kanunda veya esas sözleşmede öngörülen niteliklerden birisi yitirilirse
+yönetim kurulu üyeliği kendiliğinden sona erer.
+* İstifa ile genel kurulun onayına gerek olmaksızın üyelik sona erer.
+* Genel kurulun azli sonucunda da üyelik sona erer.
+
+Yönetim kurulunun seçimi ve üyeliğin sona ermesi halinin ticaret siciline
+tescil ve ilan edilmesi gerekir. Tescil açıklayıcı mahiyettedir. Örneğin
+üyeliğin sona ermesi tescil edilmemiş olsa dahi üyelik sona ermiş haldedir
+ancak sicile tescil ve ilan edilinceye kadar iyiniyetli üçüncü kişilere karşı
+sicilin fonksiyonları açısından şirketi yapılan işlemlerle bağlar (hukuki
+görünüş).
+
+NOTE: Kişinin yönetim kuruluna seçiminin tescilinden sonra, seçim kararı sakat
+olsa dahi kişinin iyiniyetle üçüncü kişilere yaptığı işlemler yine şirketi
+bağlar (hukuki görünüş).
+
+Yönetim kurulu üye tam sayısının çoğunluğu ile toplanır ve kararlarını
+toplantıda hazır bulunan üyelerin çoğunluğu ile alır. Yönetim kurulu üyeleri
+birbirlerini temsilen oy veremeyecekleri gibi, toplantılara vekil aracılığıyla
+da katılamazlar. Oylar eşit olduğu takdirde o konu gelecek toplantıya
+bırakılır. İkinci toplantıda da eşitlik olursa söz konusu öneri reddedilmiş
+sayılır.
+
+TIP: Başkanın üstün oyuna ilişkin düzenleme, esas sözleşmede yer alırsa
+hukukun geçerli midir? Anonim ortaklıkta başkanın üstün oyuna dair açık hüküm
+olmamasına rağmen kanunun lafzından imkan tanınmadığı anlaşılabilmektedir.
+Limited ortaklıkta ise başkanın üstün oyuna açıkça izin verilmiştir.
+
+Yönetim kurulu toplantıları bakımından gündeme bağlılık söz konusu değildir,
+yapılan toplantıda her konu görüşülüp karara bağlanabilir. Kararların geçerli
+olabilmesi için mutlaka tutanağa bağlanması ve toplantıya katılanlar bakımından
+yazılı imza edilmiş olması şarttır.
+
+Yönetim kurulunun kararının batıl olduğunun tespiti mahkemeden istenebilir.
+Özellikle;
+
+.. Eşit işlem ilkesine aykırı olan,
+.. Anonim şirketin temel yapısına uymayan veya sermayenin korunması ilkesini
+gözetmeyen,
+.. Pay sahiplerinin, özellikle vazgeçilmez nitelikteki haklarını ihlal eden
+veya bunların kullanılmalarını kısıtlayan ya da güçleştiren,
+.. Diğer organların devredilemez yetkilerine giren ve bu yetkilerin devrine
+ilişkin kararlar batıldır.
+
+TIP: Eşit işlem ilkesine aykırı genel kurul kararlarının butlanı değil iptal
+edilebilirliği söz konusu olur.
+
+Kural olarak yönetim kurulu kararlarına karşı iptal davası açılamaz. Ancak
+istisnaen kayıtlı sermaye sistemini uygulayan anonim ortaklıklarda, yönetim
+kurulunun almış olduğu kayıtlı sermaye ile ilgili kararlara karşı iptal davası
+açılabilmektedir. Zira bu durumda yönetim kurulu genel kurul yerine geçerek
+karar vermektedir.
+
+Yönetim kurulunun idare görevi iç ilişkide sonuç doğururken, temsil dış
+ilişkide sonuç doğurur. Temsil yoluyla ortaklık hak sahibi yapılabilir ve borç
+altına sokulabilir.
+
+Kural olarak anonim ortaklık pay sahiplerinin hukuki işlemle bağlı olabilmeleri
+için en az 2 yönetim kurulu üyesinin imzası şarttır. Esas sözleşmede aksine
+düzenleme yapılabilir.
+
+NOTE: Organ temsilinde organın eylemleri tüzel kişiyi bağlarken iradi temsilde
+bağlamaz.
+
+TTK 373'e göre "_Yönetim kurulu, temsile yetkili kişileri ve bunların temsil
+şekillerini gösterir kararının noterce onaylanmış suretini, tescil ve ilan
+edilmek üzere ticaret siciline verir. Temsil yetkisinin ticaret sicilinde
+tescilinden sonra, ilgili kişilerin seçimine veya atanmalarına ilişkin herhangi
+bir hukuki sakatlık, şirket tarafından üçüncü kişilere, ancak sakatlığın bunlar
+tarafından bilindiğinin ispat edilmesi şartıyla ileri sürülebilir._"
+
+Yönetim kurulu, temsil yetkisini bir veya daha fazla murahhas üyeye veya müdür
+olarak üçüncü kişilere devredebilir. *En az bir yönetim kurulu üyesinin temsil
+yetkisini haiz olması şarttır*.
+
+Temsile yetkili olanlar şirketin amacına ve işletme konusuna giren her tür
+işleri ve hukuki işlemleri, şirket adına yapabilir ve bunun için şirket
+unvanını kullanabilirler. Kanuna ve esas sözleşmeye aykırı işlemler dolayısıyla
+şirketin rücû hakkı saklıdır.
+
+Temsile yetkili olanların, üçüncü kişilerle, işletme konusu dışında yaptığı
+işlemler de şirketi bağlar; meğerki, üçüncü kişinin, işlemin işletme konusu
+dışında bulunduğunu bildiği veya durumun gereğinden, bilebilecek durumda
+bulunduğu ispat edilsin. Şirket esas sözleşmesinin ilan edilmiş olması, bu
+hususun ispatı açısından, tek başına yeterli delil değildir.
+
+Temsil yetkisinin sınırlandırılması, iyiniyet sahibi üçüncü kişilere karşı
+hüküm ifade etmez; ancak, temsil etkisinin sadece merkezin veya bir şubenin
+işlerine özgülendiğine veya birlikte kullanılmasına ilişkin tescil ve ilan
+edilen sınırlamalar geçerlidir.
+
+Temsile yetkili kişiler tarafından yapılan işlemin esas sözleşmeye veya genel
+kurul kararına aykırı olması, iyiniyet sahibi üçüncü kişilerin o işlemden
+dolayı şirkete başvurmalarına engel değildir.
+
+Temsile veya yönetime yetkili olanların, görevlerini yaptıkları sırada
+işledikleri haksız fiillerden şirket sorumludur. Şirketin rücû hakkı saklıdır.
+
+Temsil yetkisinin eksikliği halinde yapılan işleme icazet verilebilir. İcazeti
+vermesi gereken organ genel kuruldur.
+
+NOTE: Yönetim kurulu genel kurul kararlarına karşı kurul olarak dava açabilir.
+Eğer genel kurul kararı yönetim kurulu üyelerinin kişisel sorumluluğuna yol
+açıyorsa bireysel olarak da iptal davası açılabilir.
+
+Yönetim kurulu üyelerinin kardan pay alabilmeleri için esas sözleşmede açık
+hüküm bulunmak zorundadır. Açık hüküm yoksa yönetim kurulu üyelerine kardan pay
+dağıtılamaz. Kardan pau dağıtabilmesi için öncelikle şirketin kar etmiş olması
+gerekir.
+
+TIP: Tescili zorunlu bir husus tescil edilmişse üçüncü kişilerin bunu bildiği
+kabul edilir.
+
+Yönetim kurulu faaliyeti esnasında haksız fiillerde bulunursa şirket bunlarda
+sorumludur. Ancak şirketin rücu hakkı mevcuttur.
+
+Yönetim kurulu üyeleri kendisine ilişkin şirket dışı bir menfaati ya da eşinin
+ve üçüncü dereceye kadar yakını olan kişilerin menfaati söz konusu olduğu
+yönetim kurulu toplantılarına katılamaz. Yönetim kurulu bunu bildirmek
+zorundadır.
+
+Yönetim kurulu üyelerinin şirketle kendisi adına ya da bir başkası adına işlem
+yapması ancak genel kuruldan izin almak kaydıyla mümkündür.
+
+Yönetim kurulu üyeleri bir başka şirketin yönetim kuruluna giremez, şirket
+konusu ile aynı konuda iş yapan bir sınırsız sorumluluk gerektiren şirkete
+ortak olamaz.
+
+Yönetim kurulu üyesinin bilgi alma hakkı, esas sözleşmeyle veya başka bir yolla
+kısıtlanamaz. Kural olarak yönetim kurulu üyeleri, yönetim kurulu toplantısı
+sırasında çalışanlardan, yönetim kurulu üyelerinden bilgi almak hakkı
+sahiptirler. Şirket evrakını da, yine yönetim kurulu toplantısında olmak
+kaydıyla görme imkanına sahiptir. Bu hakkın toplantı dışında kullanılması için
+mutlaka yönetim kurulu başkanından izin alınması gerekir. Yönetim kurulu
+başkanı izin vermediği takdirde, ilgili yönetim kurulu üyesi iki gün içerisinde
+yönetim kurulunun toplantıya çağırılmasını ve bu kararın yönetim kurulunda
+tartışılmasını isteyebilir. Eğer yönetim kurulu toplantıya çağırılmazsa veya
+yapılan toplantıda yine bilgi alma hakkına izin verilmezse, bu durumda ilgili
+yönetim kurulu üyesi asliye ticaret mahkemesine müracaat ederek bilgi alma
+hakkını kullanabilir.
+
+Kurucular, yönetim kurulu üyeleri, yöneticiler ve tasfiye memurları, kanundan
+ve esas sözleşmeden doğan yükümlülüklerini kusurlarıyla ihlal ettikleri
+takdirde, hem şirkete hem pay sahiplerine hem de şirket alacaklılarına karşı
+verdikleri zarardan sorumludurlar.
+
+Kanundan veya esas sözleşmeden doğan bir görevi veya yetkiyi, kanuna dayanarak,
+başkasına devreden organlar veya kişiler, bu görev ve yetkileri devralan
+kişilerin seçiminde makul derecede özen göstermediklerinin ispat edilmesi hâli
+hariç, bu kişilerin fiil ve kararlarından sorumlu olmazlar.
+
+Yönetim kurulu üyeleri ile şirket arasındaki ilişkinin genel olarak vekalet
+ilişkisi olduğu kabul edilmektedir. Dolayısıyla yönetim kurulu üyelerinin
+sorumluluklarının temeli sözleşmeseldir.
+
+Yönetim kurulu üyelerinin sorumluluğu kusur sorumluluğudur. Yönetim kurulu
+üyelerinin haksız fiillerine karşı dava açıldığında ispat yükü yönetim kurulu
+üyesinde olacaktır. Sözleşmesel sorumlulukta ispat yükü borçlunun üzerinde
+doğmaktadır.
+
+Yönetim kurulu üyeleri ve yönetimle görevli üçüncü kişiler, görevlerini
+tedbirli bir yöneticinin özeniyle yerine getirmek ve şirketin menfaatlerini
+dürüstlük kurallarına uyarak gözetmek yükümlülüğü altındadırlar.
+
+Bir pay sahibinin yönetim kurulunun sorumluluğuna ilişkin 2 dava açma hakkı
+mevcuttur:
+
+. Şirketin doğrudan zararı ve kendi uğradığı dolaylı zararları için (tazminatın
+ancak şirkete ödenmesi istenebilir)
+. Kendisinin uğradığı doğrudan zararlar için
+
+TIP: Paj sahibi hata ile tazminatın kendisine ödenmesini istemişse Yargıtay'a göre
+dava reddedilmez ve tazminat şirkete ödenir.
+
+Şirketin alacaklıları uğradıkları zararlardan dolayı davacı sıfatıyla dava
+açamazlar ancak iflas idaresinden dava açılmasını talep ederler. İflas idaresi
+parayı tahsil ettiğinde ilk önce alacaklılar sonra pay sahipleri haklarını
+alır. İflas idaresi dava açmazsa alacaklılar doğrudan dava açabilirler.
+
+Sorumlu olanlara karşı tazminat istemek hakkı, davacının zararı ve sorumluyu
+öğrendiği tarihten itibaren iki ve her hâlde zararı doğuran fiilin meydana
+geldiği günden itibaren beş yıl geçmekle zamanaşımına uğrar.
+
+*İbra*, genel kurul tarafından alınan yönetim kurulu üyelerinin belirli bir
+dönemdeki işlemlerini hukuka uygun ve ortaklık açısından uygun bulma kararıdır.
+Yönetim kurulu üyelerinin sorumsuzluğu sonucunu doğurur.
+
+Şirket genel kurulunun, sorumluluktan ibraya ilişkin kararı, ibranın kapsadığı
+açıklanan maddi olaylara ilişkin olarak, şirketin, ibraya olumlu oy veren ve
+ibra kararını bilerek payı iktisap etmiş olan pay sahiplerinin dava hakkını
+kaldırır. Diğer pay sahiplerinin dava hakları ibra tarihinden itibaren altı ay
+geçmesiyle düşer.
+
+İbra kararı, genel kurulun devredilemez yetkilerindendir. İbra kararına ilişkin
+özel bir nisap öngörülmemiştir, adi nisap yeterlidir.
+
+NOTE: Normal bir genel kurul kararının alınabilmesinde nisap, toplantıya
+katılanların salt çoğunluğudur. Salt çoğunluktan kasıt olumlu oylardır.
+
+Şirket yönetim kurulu üyeleriyle yönetimde görevli imza yetkisini haiz kişiler,
+yönetim kurulu üyelerinin ibra edilmelerine ilişkin kararlarda kendilerine ait
+paylardan doğan oy haklarını kullanamaz.
+
+İki tür ibra vardır:
+
+. *Açık ibra*: Genel kurulun gündemindeki ibra maddesiyle karar alır.
+. *Kapalı ibra*: Bilançonun oylanmasına ilişkin bir karar varsa o toplantıda
+açık ibra görüşmesi olmasa bile bilançonun onaylanması kural olarak yönetim
+kurulunun ibrası anlamına gelir.
+
+İbra halinde genel kurul kararı geri alamaz ve artık sorumluluk davası açamaz.
+İbrayı bilerek pay iktisap edenin ve ibra kararına olumlu oy kullananların
+sorumluluk davası hakkı yoktur. 
+
+Bazı yönetim kurulu faaliyetleri doğrudan pay sahiplerine zarar vermiş
+olabilir. Böyle bir durumda ibra oylamasında olumlu oy veren pay sahiplerinin
+doğrudan zararları için dava açabileceği kabul edilmektedir.
+
+Kurucuların, yönetim kurulu üyelerinin, denetçilerin, şirketin kuruluşundan ve
+sermaye artırımından doğan sorumlulukları, şirketin tescili tarihinden itibaren
+dört yıl geçmedikçe sulh ve ibra yoluyla kaldırılamaz.  Bu sürenin geçmesinden
+sonra da sulh ve ibra ancak genel kurulun onayıyla geçerlilik kazanır. Bununla
+beraber, esas sermayenin onda birini, halka açık şirketlerde yirmide birini
+temsil eden pay sahipleri sulh ve ibranın onaylanmasına karşı iseler, sulh ve
+ibra genel kurulca onaylanmaz.
+
+===== DENETİM
+
+Anonim ortaklığın denetimi dışardan seçilen muhasebeci, mali müşavir gibi
+kimseler tarafından yapılır.
+
+*Denetim yapılmasının sebepleri:*
+
+. Şirketin kendi durumunu görmesi
+. Üçüncü şahısların şirketin gerçek durumunu görmesi
+. Devletin kontrolü
+
+Denetçinin kim olacağını genel kurul belirler. Denetim faaliyeti, mali yıl ile
+sınırlıdır. Genel kurulun seçmiş olduğu denetçiyi değiştirebilmek kural olarak
+mümkün değildir. Sadece yönetim kurulu veya 1/10 azınlık (halka açık anonim
+şirket ise 1/20 azınlık) sicilin bulunduğu yer asliye ticaret mahkemesine
+başvurarak denetçinin kasti hareket ettiğini kanıtlamak kaydıyla denetçinin
+değiştirilmesini isteyebilir. Bu talepte bulunmak için, denetçinin seçildiği
+tarihten itibaren 3 hafta içerisinde harekete geçilmelidir.
+
+Azınlığın dava hakkını kullanabilmesi için denetçinin seçimine olumsuz oy
+vermiş olması ve en az genel kurul tarihinden önceki 3 ay boyunca hisseleri
+elinde bulundurmuş olması şarttır.
+
+Denetçinin istifa etmesi veya denetçilik vasfı sağlayan koşulları kaybetmesi
+halinde yönetim kurulu acil olarak denetçi tespit eder ve bunu yapılacak ilk
+genel kurul toplantısında genel kurulun onayına sunar.
+
+Denetim faaliyetinde; şirketin evrakı denetlenir, muhasebe evrakı denetlenir,
+defterleri denetlenir, yönetim kurulunun faaliyet raporu mali tabloları
+denetlenir. Bu denetim bir yerindelik denetimi değildir. Sadece kayıtların
+sıhhatine bakılır. Bunların sonunda denetçi faaliyeti dönemine ilişkin bir
+rapor hazırlar ve sunar. Bu raporda 4 olası görüşten birini bildirir:
+
+. *Olumlu görüş*: Denetlenmesi gereken kısımlar denetlenmiş ve olumsuz bir
+duruma rastlanmamıştır.
+. *Sınırlı olumlu görüş*: Denetçi bu durumda neden tam bir olumlu görüş
+vermediğini açıklamalıdır.
+. *Olumsuz görüş*: Yapılan işin usule uygun olmadığı söylenmektedir.
+. *Görüş bildirmekten kaçınma*: Ya denetim görevinin yapılması için gereken
+iznin kendisine verilmediğini ya da bir takım hususların kendisinden
+saklandığını düşünen denetçi herhangi bir görüş bildirmekten kaçındığını
+belirtir.
+
+Olumsuz görüş ve görüş bildirmekten kaçınma halinde yönetim kurulu rapor alınır
+alınmaz derhal genel kurulu toplantıya çağırır ve yönetim kurulu yeniden
+seçilir. Esas sözleşmede aksine hüküm yoksa eski yönetim kurulunun tekrar
+seçilmesi mümkündür. Yeni seçilen yönetim kurulu mutlaka yeni denetçi atayarak
+yeni bir denetim faaliyeti yürütülmesini sağlar.
+
+=== PAY SAHİPLİĞİ
+
+*Pay sahipliği* sıfatı, kuruluşta ve sermayenin artırımında tescille doğar.
+Anonim şirkette payların senede bağlanması zorunluluğu yoktur. Senede
+bağlanmadan önce de pay mevcuttur. Payların doğması senede bağlı değil, tescile
+bağlıdır.
+
+Kural payların serbestçe devredilebilmesidir, diğer ortakların onayı aranmaz.
+Ancak payların devri için yönetim kurulunun onayının aranacağına ilişkin açık
+hüküm esas sözleşmeye eklenebilir.
+
+TIP: Payın *itibari değeri*, esas sözleşmede yazan esas sermaye/pay sayısıdır.
+Örneğin 100.000 TL esas sermayeli şirkette 100 pay varsa bir payın itibari
+değeri 1.000 TL'dir.
+
+Payın itibari değeri ile gerçek değeri birbirinden bağımsızdır. İtibari değer
+ile gerçek değerin aynı olduğu an kuruluş anıdır. Şirketin faaliyete geçmesi
+ile şirket kar ederse gerçek değer yükselir, zarar ederse gerçek değeri düşer.
+
+İtibari değer özellikle pay sahipliği haklarının kullanılmasında hesaba alınır.
+Mesela, oy hakkı payların itibari değerine göre kullanılır. 100.000 TL esas
+sermayeli 100 paylı şirkette sermayenin 50.000 TL'sine sahip olan kişinin oy
+hakkı %50'dir yani 50 oy hakkına sahiptir.
+
+İlk esas sözleşme ile veya esas sözleşme değiştirilerek bazı paylara imtiyaz
+tanınabilir. *İmtiyaz*; kâr payı, tasfiye payı, rüçhan ve oy hakkı gibi
+haklarda, paya tanınan üstün bir hak veya kanunda öngörülmemiş yeni bir pay
+sahipliği hakkıdır.
+
+IMPORTANT: İmtiyaz sadece paya tanınabilir, kişiye tanınamaz.
+
+İmtiyazlı pay sahipleri esas sözleşmede haklarını ihlal eden değişikliklere
+karşı veto hakkı kullanabilirler.
+
+==== PAY SENETLERİ
+
+Şirket paylarını seneden bağlamak zorunda değildir ancak isteğe bağlı olarak
+senede bağlanmasına sakınca görülmemiştir. Pay senetleri, kıymetli evraktır.
+Pay senetlerinin nama veya hamiline yazılı olacakları şirket esas sözleşmesinde
+belirtilmelidir.
+
+*Çıplak pay*, senede bağlanmamış paydır. Devir şekli alacağı temliki yoluyla
+gerçekleştirilir.
+
+Bedelleri tamamen ödenmemiş olan paylar için hamiline yazılı pay senetleri
+çıkarılamaz. Bu hükme aykırı olarak çıkarılanlar geçersizdir. İyiniyet
+sahiplerinin tazminat hakları saklıdır.
+
+Nama yazılı pay senetlerinin hamiline yazılı pay senetlerine dönüştürülebilmesi
+için payların bedellerinin tamamen ödenmiş olması şarttır.
+
+Paylar hamiline yazılı ise yönetim kurulu, pay bedelinin tamamının ödenmesi
+tarihinden itibaren üç ay içinde pay senetlerini bastırıp pay sahiplerine
+dağıtır. Yönetim kurulunun hamiline yazılı pay senetlerinin bastırılmasına
+ilişkin kararı tescil ve ilan edilir, ayrıca şirketin internet sitesine
+konulur. Pay senedi bastırılıncaya kadar ilmühaber çıkarılabilir.
+İlmühaberlere kıyas yoluyla nama yazılı pay senetlerine ilişkin hükümler
+uygulanır.
+
+Şirketin ve sermaye artırımının tescilinden önce çıkarılan paylar geçersizdir.
+Tescilden önce pay senedi çıkaran kimse, bundan doğan zararlardan sorumludur.
+
+Azlık istemde bulunursa nama yazılı pay senedi bastırılıp tüm nama yazılı pay
+senedi sahiplerine dağıtılır.
+
+Pay senetlerinin; şirketin unvanını, sermaye tutarını, kuruluş tarihini, bu
+tarihteki sermaye tutarını, çıkarılan pay senedinin tertibini, bunun tescili
+tarihini, senedin türünü ve itibarî değerini, kaç payı içerdiğini belirtmesi ve
+şirket adına imza etmeye yetkili olanlardan en az ikisi tarafından imza edilmiş
+olması şarttır.
+
+Kanunda veya esas sözleşmede aksi öngörülmedikçe, nama yazılı paylar, herhangi
+bir sınırlandırmaya bağlı olmaksızın devredilebilirler. Nama yazılı payın
+devrinin sınırlandırılmasının teknik adı **bağlam**dır.
+
+*Kanuni bağlam*: Bedeli tamamen ödenmemiş nama yazılı paylar, ancak şirketin
+onayı ile devrolunabilir; meğerki, devir, miras, mirasın paylaşımı, eşler
+arasındaki mal rejimi hükümleri veya cebrî icra yoluyla gerçekleşsin.  Şirket,
+sadece, devralanın ödeme yeterliliği şüpheli ise ve şirketçe istenen teminat
+verilmemişse onay vermeyi reddedebilir. Ödeme yeterliliğine sahip olunup
+olunmadığı konusunda karar verecek olan yönetim kuruludur.
+
+*Sözleşmesel bağlam*: Esas sözleşme, nama yazılı payların ancak şirketin
+onayıyla devredilebileceğini öngörebilir. Bu sınırlama intifa hakkı kurulurken
+de geçerlidir. Şirket tasfiyeye girmişse devredilebilirliğe ilişkin
+sınırlamalar düşer.
+
+CAUTION: İşletme konusunun tamamen değiştirilmesi veya imtiyazlı pay
+oluşturulmasına ilişkin genel kurul kararına olumsuz oy vermiş nama yazılı pay
+sahipleri, bu kararın Türkiye Ticaret Sicili Gazetesinde yayımlanmasından
+itibaren altı ay boyunca payların devredilebilirliği hakkındaki kısıtlamalarla
+bağlı değildirler.
+
+Şirket, esas sözleşmede öngörülmüş önemli bir sebebi ileri sürerek veya
+devredene, paylarını, başvurma anındaki gerçek değeriyle, kendi veya diğer pay
+sahipleri ya da üçüncü kişiler hesabına almayı önererek, onay istemini
+reddedebilir.
+
+NOTE: Limited şirkette pay sahiplerine alım, önalım hakkı açıkça tanınabilirse
+de anonim şirkette mümkün değildir.
+
+Pay sahipleri çevresinin bileşimine ilişkin esas sözleşme hükümleri, şirketin
+işletme konusu veya işletmenin ekonomik bağımsızlığı yönünden onayın reddini
+haklı gösteriyorsa, önemli sebep oluşturur.  Bundan başka, devralan, payları
+kendi adına ve hesabına aldığını açıkça beyan etmezse şirket, devrin pay
+defterine kaydını reddedebilir.
+
+Pay sahiplerinin çevresinin bileşiminin korunması iki sebepten söz konusu
+olabilir:
+
+. Şirketin işletme konusu ile pay sahipleri bileşimi arasında ilişkinin olması
+. Pay sahipleri çevresinin bileşiminin şirketin ekonomik bağımsızlığı
+yönünden önem arz ediyor olması
+
+Esas sözleşmede şirketin işletme konusu ile ilgili olarak pay sahiplerinde
+belli mesleki nitelikler ya da yeterlilikler arayan hükümler önemli sebep
+teşkil edebilir.
+
+Paylar; miras, mirasın paylaşımı, eşler arasındaki mal rejimi hükümleri veya
+cebrî icra gereği iktisap edilmişlerse, şirket, payları edinen kişiye, sadece
+paylarını gerçek değeri ile devralmayı önerdiği takdirde onay vermeyi
+reddedebilir.
+
+Devralan, paylarının gerçek değerinin belirlenmesini, şirketin merkezinin
+bulunduğu yerdeki asliye ticaret mahkemesinden isteyebilir; bu hâlde mahkeme
+şirketin karar tarihine en yakın tarihteki değerini esas alır. Değerleme
+giderlerini şirket karşılar.
+
+Devralan, gerçek değeri öğrendiği tarihten itibaren bir ay içinde bu fiyatı
+reddetmezse, şirketin devralma önerisini kabul etmiş sayılır.
+
+Devir için gerekli olan onay verilmediği sürece, payların mülkiyeti ve paylara
+bağlı tüm haklar devredende kalır.
+
+Payların miras, mirasın paylaşımı, eşler arasındaki mal rejimi hükümleri veya
+cebrî icra gereği iktisap edilmeleri hâlinde, bunların mülkiyeti ve bunlardan
+kaynaklanan malvarlığına ilişkin haklar derhâl; genel kurula katılma haklarıyla
+oy hakları ise ancak şirketin onayı ile birlikte devralana geçer.
+
+Şirket, onaylamaya ilişkin istemi, aldığı tarihten itibaren en geç üç ay içinde
+reddetmemişse veya ret haksızsa, onay verilmiş sayılır.
+
+Şirketin kuruluşu veya esas sermayenin artırılması tarihinden itibaren iki yıl
+içerisinde şirket iflas etmiş ve payı iktisap eden kimse paydan doğan haklardan
+yoksun bırakılmış (ıskat) olursa şirket dönüp devredene başvurur.
+
+==== PAY DEFTERİ
+
+Şirket, senede bağlanmamış pay ve nama yazılı pay senedi sahipleriyle, intifa
+hakkı sahiplerini, ad, soyad, unvan ve adresleriyle, pay defterine kaydeder.
+Payın usulüne uygun olarak devredildiği veya üzerinde intifa hakkı kurulduğu
+ispat edilmediği sürece, devralan ve intifa hakkı sahibi pay defterine
+yazılamaz.
+
+Kural olarak deftere kayıt talep üzerine olur. Pay sahibi olduğunun ispatı
+gereklidir. Çıplak paysa alacağın temliki beyanıyla, nama yazılı pay söz
+konusuysa ciro + teslim beyanıyla, intifa hakkı söz konusuysa yazılı bir intifa
+devri veya tesisi beyanıyla ispat olunduğunda deftere kayıt gerçekleşir.
+
+Pay defterine yazılma, pay sahipliğinin kazanılmasında açıklayıcı etkiye
+sahiptir. Ancak şirketle ilişkilerde, sadece pay defterinde kayıtlı bulunan
+kimse pay sahibi ve intifa hakkı sahibi olarak kabul edilir.
+
+==== PAY SAHİPLİĞİNDEN DOĞAN HAKLAR
+
+Toplantıya katılacaklar için şirketin pay defteri nazara alınır. Toplantıya
+katılan pay sahipleri, bilgi alma, oy kullanma haklarına sahiptirler ve bu
+hakların kullanılması için pay sahipliği sıfatı önem arz etmektedir.
+
+Hamiline yazılı pay sahipleri, sahiplik sıfatını ispatlayan belgeleri en geç
+toplantıdan 1 gün önce ibraz edip giriş kartı almak zorundadır. Aksi halde
+toplantıya katılmaları mümkün değildir. Ancak, giriş kartının verilmesinden
+sonraki bir tarihte hamiline yazılı pay senedini devraldığını ispatlayan pay
+sahipleri de genel kurula katılabilirler.
+
+Pay sahibi, paylarından doğan haklarını kullanmak için, genel kurula kendisi
+katılabileceği gibi, pay sahibi olan veya olmayan bir kişiyi de temsilcisi
+olarak genel kurula yollayabilir. Temsilcinin pay sahibi olmasını öngören esas
+sözleşme hükmü geçersizdir.
+
+Senede bağlanmamış paylardan, nama yazılı pay senetlerinden ve ilmühaberlerden
+doğan pay sahipliği hakları, pay defterinde kayıtlı bulunan pay sahibi veya pay
+sahibince, yazılı olarak yetkilendirilmiş kişi tarafından kullanılır.
+
+Hamiline yazılı pay senedinin zilyedi bulunduğunu ispat eden kimse, şirkete
+karşı pay sahipliğinden doğan hakları kullanmaya yetkilidir.
+
+Katılma haklarını temsilci olarak kullanan kişi, temsil edilenin talimatına
+uyar. Talimata aykırılık, oyu geçersiz kılmaz. Temsil edilenin temsilciye karşı
+hakları saklıdır.
+
+Hamiline yazılı pay senedini, rehin, hapis hakkı, saklama sözleşmesi veya
+kullanım ödüncü sözleşmesi ve benzeri sözleşmeler sebebiyle elde bulunduran
+kimse, pay sahipliği haklarını, ancak pay sahibi tarafından özel bir yazılı
+belge ile yetkilendirilmişse kullanabilir.
+
+Oy hakkı, payın, kanunen veya esas sözleşmeyle belirlenmiş bulunan en az
+miktarının ödenmesiyle doğar. Nakden ödemelerde en az %25'inin ödenmesi
+gerekir.
+
+Pay sahipleri, oy haklarını genel kurulda, paylarının toplam itibarî değeriyle
+orantılı olarak kullanır. Her pay sahibi sadece bir paya sahip olsa da en az
+bir oy hakkını haizdir. Şu kadar ki, birden fazla paya sahip olanlara tanınacak
+oy sayısı esas sözleşmeyle sınırlandırılabilir.
+
+Pay sahibi kendisi, eşi, alt ve üstsoyu veya bunların ortağı oldukları şahıs
+şirketleri ya da hâkimiyetleri altındaki sermaye şirketleri ile şirket
+arasındaki kişisel nitelikte bir işe veya işleme veya herhangi bir yargı kurumu
+ya da hakemdeki davaya ilişkin olan müzakerelerde oy kullanamaz.
+
+Şirket yönetim kurulu üyeleriyle yönetimde görevli imza yetkisini haiz kişiler,
+yönetim kurulu üyelerinin ibra edilmelerine ilişkin kararlarda kendilerine ait
+paylardan doğan oy haklarını kullanamaz.
+
+Oyda imtiyaz, eşit itibarî değerdeki paylara farklı sayıda oy hakkı verilerek
+tanınabilir. Bir paya en çok onbeş oy hakkı tanınabilir. Bu sınırlama,
+kurumlaşmanın gerektirdiği veya haklı bir sebebin ispatlandığı durumlarda
+uygulanmaz. Bu iki hâlde, şirketin merkezinin bulunduğu yerdeki asliye ticaret
+mahkemesinin, kurumlaşma projesini veya haklı sebebi inceleyip, bunlara bağlı
+olarak, sınırlamadan istisna edilme kararını vermesi gerekir.
+
+Oyda imtiyaz aşağıdaki kararlarda kullanılamaz:
+
+.. Esas sözleşme değişikliği.
+.. İbra ve sorumluluk davası açılması.
+
+NOTE: Paylara imtiyaz tanınması esas sözleşme değişikliği ile olacaksa %75 ağır
+nisabın gerçekleşmesi gerekir.
+
+Pay sahibi genel kurulda, yönetim kurulundan, şirketin işleri; denetçilerden
+denetimin yapılma şekli ve sonuçları hakkında bilgi isteyebilir. Verilecek
+bilgiler, hesap verme ve dürüstlük ilkeleri bakımından özenli ve gerçeğe uygun
+olmalıdır.
+
+Bilgi verilmesi, sadece, istenilen bilgi verildiği takdirde şirket sırlarının
+açıklanacağı veya korunması gereken diğer şirket menfaatlerinin tehlikeye
+girebileceği gerekçesi ile reddedilebilir.
+
+Pay sahiplerinden herhangi birine bu sıfatı dolayısıyla genel kurul dışında bir
+konuda bilgi verilmişse, diğer bir pay sahibinin istemde bulunması üzerine,
+aynı bilgi, gündemle ilgili olmasa da aynı kapsam ve ayrıntıda verilir. Bu
+durumda yönetim kurulu yukarıdaki sebeple bilgi vermeyi reddedemez.
+
+Şirketin ticari defterleriyle yazışmalarının, pay sahibinin sorusunu
+ilgilendiren kısımlarının incelenebilmesi için, genel kurulun açık izni veya
+yönetim kurulunun bu hususta kararı gerekir. İzin alındığı takdirde inceleme
+bir uzman aracılığıyla da yapılabilir.
+
+Bilgi alma veya inceleme istemleri cevapsız bırakılan, haksız olarak
+reddedilen, ertelenen ve bu fıkra anlamında bilgi alamayan pay sahibi, reddi
+izleyen on gün içinde, diğer hâllerde de makul bir süre sonra şirketin
+merkezinin bulunduğu asliye ticaret mahkemesine başvurabilir. Başvuru basit
+yargılama usulüne göre incelenir. Mahkeme kararı, bilginin genel kurul dışında
+verilmesi talimatını ve bunun şeklini de içerebilir. Mahkeme kararı kesindir.
+
+Bilgi alma ve inceleme hakkı, esas sözleşmeyle ve şirket organlarından birinin
+kararıyla kaldırılamaz ve sınırlandırılamaz.
+
+Her pay sahibi, pay sahipliği haklarının kullanılabilmesi için gerekli olduğu
+takdirde ve bilgi alma veya inceleme hakkı daha önce kullanılmışsa, belirli
+olayların özel bir denetimle açıklığa kavuşturulmasını, gündemde yer almasa
+bile genel kuruldan isteyebilir. Genel kurul istemi onaylarsa, şirket veya her
+bir pay sahibi otuz gün içinde, şirket merkezinin bulunduğu yerdeki asliye
+ticaret mahkemesinden bir özel denetçi atanmasını isteyebilir.
+
+Genel kurulun özel denetim istemini reddetmesi hâlinde, sermayenin en az onda
+birini, halka açık anonim şirketlerde yirmide birini oluşturan pay sahipleri
+veya paylarının itibarî değeri toplamı en az birmilyon Türk Lirası olan pay
+sahipleri üç ay içinde şirket merkezinin bulunduğu yer asliye ticaret
+mahkemesinden özel denetçi atamasını isteyebilir. Dilekçe sahiplerinin,
+kurucuların veya şirket organlarının, kanunu veya esas sözleşmeyi ihlal ederek,
+şirketi veya pay sahiplerini zarara uğrattıklarını, ikna edici bir şekilde
+ortaya koymaları hâlinde özel denetçi atanır.

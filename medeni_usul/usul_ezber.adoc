@@ -1,0 +1,234 @@
+:icons: font
+
+== GÖREV
+
+Görev, dava konusunun niteliğine göre bir davaya hangi mahkemenin bakacağının
+belirlenmesidir. Görevli mahkeme belirlenirken, 6100 sayılı HMK ile özel
+mahkemelerin kuruluşuna ilişkin mevzuat ve 5235 sayılı kanun birlikte dikkate
+alınmalıdır.
+
+Medeni yargı içinde görevli mahkeme belirlenirken, bu mahkemenin genel mahkeme
+mi, yoksa özel mahkeme mi olacağı öncelikle belirlenmelidir. Zira özel
+mahkemelerin görevi genel mahkemelerden önce gelir. Özel mahkemelerin
+görevlerin ilişkin hükümler muhtelif mevzuatta yer almaktadır.
+
+Özel mahkemelerin görev alanına giren bir uyuşmazlık söz konusu değilse, Asliye
+Hukuk ve Sulh Hukuk mahkemelerinin hangisinin görev alanına girdiğinin
+belirlenmesi gerekir. 5253 sayılı kanunun 6. maddesi çerçevesinde Sulh Hukuk
+Mahkemeleri 6100 sayılı HMK ile diğer kanunlarda belirtilen görevleri yerine
+getirir. Asliye Hukuk Mahkemeleri ise Sulh Hukuk Mahkemelerinin görevleri
+dışında kalan ve özel hukuk ilişkilerinden doğan her türlü dava ve işler ile
+kanunların verdiği diğer dava ve işlere bakar. Dolayısıyla söz konusu
+uyuşmazlık Sulh Hukuk Mahkemesinin görev alanına girmiyorsa görevli mahkeme
+Asliye Hukuk Mahkemesi olacaktır.
+
+Görev kuralları kamu düzenine ilişkindir ve dava şartıdır. Mahkeme, görevli
+olup olmadığını yargılamanın her safhasında re'sen inceler. Görev kurallarına
+aykırılık, ilk derece mahkemesinde fark edilmese bile gerek Bölge Adliye
+Mahkemesinde gerek Yargıtay Hukuk Dairesinde re'sen incelenir.
+
+.Asliye Ticaret Mahkemesi
+****
+Asliye Ticaret Mahkemeleri, ticari davaları ve işleri görür. TTK 4, hangi
+davaların ticari dava olduğunu belirlemiştir. Ticari davalar mutlak ticari
+davalar ve nispi ticari davalar olarak ikiye ayrılmaktadır. Mutlak ticari
+davalar, tarafların tacir olup olmamalarına ve uyuşmazlığın bir ticari işletme
+ile ilgili olup olmamasına bakılmaksızın ticari dava sayılır ve bu davaların
+mutlaka ticaret mahkemelerinde görülmesi gerekir. TTK'da veya özel kanunlarda
+açıkça ticari dava olduğu belirtilen davalar mutlak ticari dava sayılır. Nispi
+ticari davalar ise, uyuşmazlığın bir ticari işletmeyi ilgilendirdiği ve iki
+tarafın da tacir olduğu davalardır.
+****
+
+== YETKİ
+
+Yetki, bir davaya hangi yerdeki görevli mahkeme tarafından bakılacağının
+belirlenmesidir. Mahkemelerin bakabileceği ihtilaflar onların kaza çevreleri
+ile sınırlandırılmıştır. Her mahkeme kendi kaza çevresi içinde meydana gelen
+ihtilaflara bakmaya yetkilidir.
+
+Yetki kuralları, kesin ve kesin olmayan yetki şeklinde ikiye ayrılır. Kesin
+yetki kuralında dava sadece kanunda belirtilen yetkili mahkemede açılabilir.
+Kesin yetki, kamu düzenindendir ve dava şartıdır. Taraflar yargılamanın her
+aşamasında kesin yetki itirazında bulunabilir, mahkeme de bu hususu her aşamada
+re'sen dikkate alır.
+
+Kesin olmayan yetki ise genel yetki ve tali yetki olmak üzere ikiye
+ayrılmaktadır. Genel yetkili mahkeme HMK 6'ya göre, kanunda aksi bir hüküm
+bulunmadıkça MK gereğince davalı gerçek veya tüzel kişinin davanın açıldığı
+tarihteki yerleşim yeri mahkemesidir. Genel yetkili mahkemenin yanında, kanun
+bazı davalar için tali yetki kuralları da öngörmüştür. Tali yetki kaideleri,
+genel yetkili mahkemenin yetkisini bertaraf etmeyip, onun yanında ek yetkili
+mahkemelerdir.
+
+Sözleşmeden doğan davalar, sözleşmenin ifa edileceği yer mahkemesinde de
+açılabilir. Bu hüküm niteliği itibariyle tali bir yetki kuralıdır. İfa yerini
+taraflar aralarında kararlaştırmış iseler, davanın kararlaştırılmış ifa yeri
+mahkemesinde de açılması mümkündür. Taraflar ifa yerini kararlaştırmamış
+iseler, ifa yeri TBK 89'a göre belirlenir.
+
+TBK 89'a göre;
+
+. *para borcu* alacaklının ödeme zamanındaki yerleşim yerinde,
+. *parça borcu* söz konusu malın sözleşmenin kurulduğu zamanda bulunduğu yerde,
+. diğer borçlar doğumu zamanında borçlunun yerleşim yerinde
+
+ifa edilir.
+
+Yetkinin kesin olmadığı davalarda, mahkemenin yetkili olmadığına ilişkin
+muhalefet bir ilk itirazdır. Yetki ilk itirazının, cevap dilekçesinde ileri
+sürülmesi gerekir. Yetki itirazında bulunan taraf, yetkili mahkemeyi; birden
+fazla yetkili mahkeme varsa seçtiği mahkemeyi bildirir. Aksi takdirde yetki
+itirazı dikkate alınmaz ve yetkisiz mahkeme yetkili hale gelir.
+
+Mahkemenin yetkisinin kamu düzeni esasına göre belirlenmediği hallerde
+taraflar, aralarındaki ilişkiden doğmuş veya doğabilecek olan ihtilafların
+belirli bir mahkemede görülmesini kararlaştırabilir. Taraflar bunu bağımsız bir
+sözleşme ile yapabilecekleri gibi (yetki sözleşmesi), aralarında yaptıkları
+sözleşmenin içinde bir şart (yetki şartı) olarak da belirleyebilirler.
+
+Yetki sözleşmesi, usul hukuku sözleşmesidir. Zira yetki sözleşmesi asıl
+etkisini usul hukuku alanında göstermektedir. Yetki sözleşmesi ile aslında
+yetkili olmayan bir mahkeme yetkili hale gelmektedir.
+
+Taraflar, yetki sözleşmesinde aksini kararlaştırmadıkça, dava sadece sözleşme
+ile belirlenen mahkemede veya mahkemelerde açılabilecektir. Bu durumda, yapılan
+yetki sözleşmesi *münhasır yetki sözleşmesi* olacaktır. Taraflar, yetkili
+kıldıkları mahkemenin yanında, kanunen yetkili kılınan genel veya özel yetkili
+mahkemelerin de yetkisinin devam etmesini istiyorlarsa bu durumun yetki
+sözleşmesinde ayrıca belirtilmesi gerekecektir.
+
+Yetki sözleşmesinin caiz olduğu hallerde, yetki sözleşmesinin geçerli olarak
+yapılabilmesi için aranan şartlar şunlardır:
+
+. Tarafların üzerinde serbestçe tasarruf edebileceği bir uyuşmazlık olmalıdır.
+. Kesin yetki bulunmamalıdır.
+. Yetki sözleşmesi yazılı yapılmalıdır. Ancak yetkili olmayan bir mahkemede
+aleyhine dava açılan kimse ilk itiraz olarak bu konuda itirazda bulunmazsa o
+mahkemenin yetkisini kabul etmiş sayılır ve bu halde yetki sözleşmesi zımni
+olarak yapılmış kabul edilir.
+. Uyuşmazlığın belirli veya belirlenebilir olması gerekir.
+. Uyuşmazlığın götürüleceği mahkemenin de belirli olması gerekir. Belirli bir
+mahkeme tayin etmeksizin Türkiye genelindeki tüm mahkemeleri ya da bir
+bölgedeki veya belirli nitelikteki mahkemeleri yetkili kılan yetki sözleşmeleri
+geçersizdir.
+. Yetki sözleşmelerine yalnızca tacirler ve kamu tüzel kişileri taraf
+olabilecektir.
+
+== TAHKİM
+
+Tahkim sözleşmesi, tarafların, sözleşme veya sözleşme dışı bir hukuki ilişkiden
+doğmuş veya doğabilecek uyuşmazlıkların tamamı veya bir kısmının çözümünün
+hakem veya hakem kuruluna bırakılması hususunda yaptıkları anlaşmadır.
+
+Tahkim sözleşmesi, taraflar arasındaki sözleşmenin bir şartı veya ayrı bir
+sözleşme şeklinde yapılabilir. Tahkim sözleşmesi yazılı şekilde yapılır. Yazılı
+şekil şartının yerine getirilmiş sayılması için, tahkim sözleşmesinin
+taraflarca imzalanmış yazılı bir belgeye veya taraflar arasında teati edilen
+mektup, telgraf, faks gibi bir iletişim aracında veya elektronik ortama
+geçirilmiş olması ya da dava dilekçesinde yazılı bir tahkim sözleşmesinin
+varlığının iddia edilmesine davalı tarafından cevap dilekçesinde itiraz
+edilmemiş olması gerekir.
+
+Tahkime gidileceği kararlaştırılan konuların, tarafların iradeleri ile etki
+edebilecekleri (sulh olabilecekleri) konular olması gerekir. Bu konuda kabul
+edilen kriter şu şekildedir: Taraflar aralarındaki uyuşmazlığı gidermek için
+(özellikle sulh yolu ile) serbestçe anlaşma yapabiliyorlar ve bu anlaşma
+mahkemenin kararına gerek olmaksızın geçerli oluyorsa, o uyuşmazlık hakkında
+tahkim sözleşmesi yapılabilir.
+
+6100 sayılı HMK'ya göre taşınmaz üzerindeki ayni haklardan ve iki tarafın
+iradelerin tabi olmayan işlerden kaynaklanan uyuşmazlıklar tahkime elverişli
+değildir.
+
+Uyuşmazlığın tahkim yoluyla çözümlenmesi gerektiği itirazı, ilk
+itirazlardandır. İlk itirazların hepsi cevap dilekçesinde ileri sürülmek
+zorundadır, aksi halde dinlenmez. İlk itirazlar, ön sorunlar gibi incelenir ve
+karara bağlanır. Tahkim sözleşmesinin konusunu oluşturan bir uyuşmazlığın
+çözümü için mahkemede dava açılmışsa, karşı taraf tahkim ilk itirazında
+bulunabilir. Bu durumda tahkim sözleşmesi hükümsüz, tesirsiz veya uygulanması
+imkansız değil ise mahkeme tahkim itirazını kabul eder ve davayı usulden
+reddeder.
+
+== FER'İ MÜDAHİL
+
+*Davanın ihbarı*, davanın taraflarınca görülmekte olan davaya müdahalesini
+sağlamak için davanın üçüncü kişiye bildirilmesidir. Davanın ihbarı ile
+taraflardan biri davayı kaybettiği takdirde üçüncü kişiye veya üçüncü kişinin
+kendisine rücu edeceğini düşünüyorsa, tahkikat sonuçlanıncaya kadar davayı
+üçüncü kişiye ihbar ederek üçüncü kişinin görülmekte olan davaya müdahalesini
+sağlayabilir.
+
+Davanın ihbarı görülmekte olan davanın taraflarınca üçüncü kişiye yapılır.
+Kendisine dava ihbar edilen üçüncü kişi de aynı şartlarla bu davayı bir
+başkasına ihbar edebilir.
+
+Davanın ihbarı yazılı olarak yapılır. Yapılacak olan ihbarda, ihbar sebepleri
+ve yargılamanın hangi aşamada olduğu açıkça belirtilmelidir. Davanın üçüncü
+kişiye ihbarı tahkikat sonuçlanıncaya kadar her aşamada yapılabilir.
+
+Dava kendisine ihbar edilen üçüncü kişi davayı kazanmasında hukuki yararının
+bulunduğu taraf yanında davaya katılabilir.
+
+Dava kendisine ihbar edilen üçüncü kişi, ihbar eden taraf yanında davaya fer'i
+müdahil olarak katılmadığı hallerde aralarındaki rücu ilişkisi bakımından asıl
+davadaki uyuşmazlık hakkında yanlış karar verildiğini ileri süremeyecektir.
+Bununla birlikte, ihbar alan kişi, ihbar eden tarafından ihbarın zamanında
+yapılmamış olduğunu veya iddia ve savunma imkanlarının asıl davada ihbar eden
+tarafından ağır kusurlu olarak kullanılmayarak davayı hatalı yürüttüğünü ileri
+sürebilecektir.
+
+Üçüncü kişilerin dava sonunda verilen hükümden dolaylı olarak etkilenmesi
+halinde, onların davada bir üçüncü taraf olarak yer alması mümkün değilse de,
+kendi haklarını korumak için fer'i müdahil olarak davaya katılmaları ve davayı
+kazanmasında menfaati olan tarafın yanında yer almaları kabul edilmiştir.
+
+Fer'i müdahil taraf yardımcısı olması sebebiyle, tarafa rağmen bir işlem
+yapamayacaktır. Asıl taraf, müdahilin yaptığı işlemi geçersiz kılabilir.
+
+Fer'i müdahil olarak davaya katılmak isteyen kişi, davanın tarafı olmamalıdır.
+Mecburi dava arkadaşlığında tek bir dava bulunduğundan, zorunlu dava
+arkadaşları diğerinin yanında fer'i müdahil olamazlar. Buna karşılık ihtiyari
+dava arkadaşları, birbirlerinin davasına fer'i müdahil olarak katılabilirler.
+
+Fer'i müdahil, davanın tarafı gibi taraf ve dava ehliyetine sahip olmalıdır.
+Bunun yanında, davaya katılmak isteyen kişinin hukuki yaraı bulunmalıdır. Sırf
+ekonomik yarar, hukuki yarar için geçerli değildir.
+
+Fer'i müdahalenin etkisi, fer'i müdahil ile taraflar arasında değil, sadece
+fer'i müdahil ile yanında davaya katıldığı taraf arasında geçerlidir.
+Müdahalenin etkisi, ilk davada verilen hüküm ne olursa olsun müdahilin hem
+lehine hem de aleyhine uygulanır.
+
+Müdahalenin etkisi önceki davada verilen hükmün sadece hüküm fıkrası ile değil,
+hükmün dayandığı maddi ve hukuki unsurlarla da geçerli olacaktır. Bu açıdan
+müdahalenin etkisi kesin hükme göre daha geniştir. Fer'i müdahil asıl davadaki
+uyuşmazlık hakkında verilen hükmün yanlış olduğunu ileri süremeyeceği gibi
+hükmün dayandığı vakıaların da yanlış olduğunu ileri süremez.
+
+Fer'i müdahil, zamanında ihbar yapılmadığı için davaya geç katıldığını veya
+yanında katıldığı tarafın iddia ve savunma imkanlarını kullanmasını
+engellediğini ya da kendisince bilinmeyen iddia ve savunma imkanlarının,
+tarafın ağır kusuru sebebiyle kullanılamadığını belirterek, yanında katıldığı
+tarafın yargılamayı hatalı yürüttüğünü ileri sürebilir.
+
+== DOSYANIN İŞLEMDEN KALDIRILMASI
+
+Duruşma günü celseye katılma imkanı olmayan tarafın bu mazeretini bildirip
+belgeleyerek, bildirim giderlerini de yatırarak duruşmanın ertelenmesini isteme
+olanağı bulunmaktadır. Bunun için, dilekçede yer alan mazeretin geçerli bir
+nedene dayanması, ispatına yönelik belgelerin dilekçeye eklenmesi ve duruşma
+zaptının ve duruşma gününün tebliğ edilmesi için gerekli masrafların mazeret
+dilekçesi ile birlikte verilmesi gerekmektedir. Davacı mazeret bildirmiş ancak
+belgelendirmemişse ya da gönderdiği mazeret geçerli değilse dosyanın işlemden
+kaldırılmasına ilişkin HMK 150 uygulama alanı bulacaktır.
+
+HMK 150'ye göre, usulüne uygun şekilde davet edilmiş olan taraflar, duruşmaya
+gelmedikleri veya gelip de davayı takip etmeyeceklerini bildirdikleri takdirde
+dosyanın işlemden kaldırılmasına karar verilir. 
+
+Usulüne uygun şekilde davet edilmiş olan taraflardan biri duruşmaya gelir,
+diğeri gelmezse gelen tarafın talebi üzerine ya yargılamaya gelmeyen tarafın
+yokluğunda devam edilir veya dosya işlemden kaldırılır. Geçerli bir özrü
+olmaksızın duruşmaya gelmeyen taraf, yokluğunda yapılan işlemlere itiraz
+edemez.

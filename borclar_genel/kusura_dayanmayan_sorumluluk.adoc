@@ -1,0 +1,1238 @@
+= KUSUR ARANMAYAN SORUMLULUK HALLERİ
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== 1- TBK'DE DÜZENLENEN KUSURSUZ SORUMLULUK HALLERİ
+
+=== I. ADAM ÇALIŞTIRANIN SORUMLULUĞU
+
+.TBK m.66
+....
+f.1 - Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında
+başkalarına verdiği zararı gidermekle yükümlüdür. 
+f.2 - Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken,
+gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli
+özeni gösterdiğini ispat ederse, sorumlu olmaz.
+....
+
+==== 1. Sorumluluğun Dayandığı Esas
+
+TBK m.66'da düzenlenen kusursuz sorumluluk başkalarına emri altında çalıştıran
+kimsenin (istihdam edenin), kendisine yükletilmiş özen gösterme yükümlülüğünü
+yerine getirmemiş olduğu esasına dayanmaktadır.
+
+Kanunun aradığı özen, emri altında çalışanların işlerini görürken üçüncü
+kişilere zarar vermemeleri hususunda durumun ve işin gerektirdiği bütün dikkat
+ve özendir. Bu bakımdan, adam çalıştıranın içinde bulunduğu kişisel durumun
+dikkate alınmadığı, objektif bir yükümlülük söz konusudur.
+
+==== 2. TBK m.66'nın uygulama alanı
+
+.. TBK m.66'da düzenlenen sorumluluk, özel hukuk hükümleri çerçevesinde
+başkalarını çalıştıranlara uygulanır. Adam çalıştran bir gerçek kişi veya bir
+tüzel kişi olabilir.
++
+Kamu tüzel kişilerinin, özel hukuk hükümleri çerçevesinde çalıştırdıkları
+şahısların üçüncü kişilere verdikleri zararlardan adam çalıştıran sıfatıyla
+sorumlulukları TBK m.66'ya tabidir.
++
+.. Çalışanın, adam çalıştıran için gördüğü iş, çalıştıranın bir üçüncü kişiye
+olan borcunun ifasına yardımcı olmaktan ibaret ise ve çalışan bu borca aykırı
+bir davranışla alacaklıya zarar vermiş ise, çalıştıranın bu yardımcı kişisinin
+borca aykırılık oluşturan fiilinden borçlu sıfatıyla sorumluluğu TBK m.66'ya
+değil, TBK m.116 hükmüne tabidir.
+
+.TBK m.116
+....
+f.1 - Borçlu, borcun ifasını veya bir borç ilişkisinden doğan hakkın
+kullanılmasını, birlikte yaşadığı kişiler ya da yanında çalışanlar gibi
+yardımcılarına kanuna uygun surette bırakmış olsa bile, onların işi
+yürüttükleri sırada diğer tarafa verdikleri zararı gidermekle yükümlüdür.  
+f.2 - Yardımcı kişilerin fiilinden doğan sorumluluk, önceden yapılan bir
+anlaşmayla tamamen veya kısmen kaldırılabilir.  
+f.3 - Uzmanlığı gerektiren bir hizmet, meslek veya sanat, ancak kanun veya
+yetkili makamlar tarafından verilen izinle yürütülebiliyorsa, borçlunun
+yardımcı kişilerin fiillerinden sorumlu olmayacağına ilişkin anlaşma kesin
+olarak hükümsüzdür.
+....
+
+Buna karşılık, yardımcı kişinin alcaklıya verdiği zarar borcun ihlali olmayıp
+da genel davranış kurallarına aykırılık oluşturuyorsa, yardımcı kişiyi
+çalıştıran borçlunun adam çalıştıran sıfatıyla sorumluluğu TBK m.66'ya tabidir.
+
+İki sorumluluğun yarıştığı hallerde, mağdur dilediği sorumluluğa dayanmakta
+serbesttir. Mağdur davasını TBK m.66'ya dayandırsa, adam çalıştıran sıfatıyla
+davalı durumunda olan kişi, özen yükümlülüğünü yerine getirdiğini ispat ederek
+veya özen yükümlülüğünü yerine getirse bile zararın meydana gelmesini
+önleyemeyeceğini ispat ederek sorumluluktan kurtulabilir. Davanın TBK m.116'ya
+dayanması halinde, adamın borcun ifasında yardımcı olarak çalıştıran borçlu,
+aynı imkana sahip değildir.  O, ancak borcu kendisi ifa etse idi dahi aynı
+zararın ortaya çıkacağını ve kendisinin de bundan sorumlu tutulamayacağını
+ispat ederek sorumluluktan kurtulabilir.
+
+Diğer taraftan TBK m.66'ya dayanan sorumlulukta zamanaşımı TBK m.72'deki
+sürelere tabi iken, TBK m.116'ya dayanan sorumlulukta zamanaşımı süresi TBK
+m.146 hükmüne tabidir.
+
+Ayrıca, TBK m.66 uyarınca çalıştırılan kişi mutlaka bir gerçek kişi olacak
+iken, TBK m.116 uyarınca bir tüzel kişi de ifa yardımcısı olabilir.
+
+==== 3. TBK m.66'ya göre sorumluluğun şartları ve sorumluluk karinesi 
+
+===== a. Sorumluluk için aranan şartlar
+
+.. Üçüncü kişi bir zarara uğramış olmalıdır. Bunu ispat etmek mağdur olan
+üçüncü kişiye düşer. Zarar kavramı, maddi zararı da manevi zararı da kapsar.
++
+.. Zarar, çalıştıralının hukuka aykırı fiilinden doğmuş olmalıdır. Burada da
+mağdur, zararı veren kişinin adam çalıştıranın çalıştırdığı bir kişi olduğunu,
+bu kişinin fiilini, fiilin hukuka aykırılığını ve fiil ile zarar arasındaki
+uygun nedensellik bağını ispat edecektir. Fakat çalıştırılanın kusuru aranmaz.
+Zarar ile çalıştırılanın fiili arasında uygun nedensellik bağı yoksa veya
+kesilmişse, adam çalıştıran için sorumluluk söz konusu olmaz.
++
+Fiilin hukuka aykırılığına gelince, adam çalıştıranın sorumlu olması için
+çalıştırılanın fiilinin hukuka aykırı olması gerektiği, öğretide ve mahkeme
+içtihatlarında kabul edilmektedir. Bu bakımdan, çalıştırılanın üçüncü kişinin
+bir mutlak hakkını ihlal eden fiilinin hukuka aykırılığını önleyen bir sebep
+varsa adam çalıştıranın sorumluluğu da söz konusu olmayacaktır.
++
+Zararı veren kişi, sorumlu tutulmak istenen kimsenin işe aldığı elemanı
+olmalıdır. Bu şart TBK m.66'da aranan bir şattır ve üzerinde özel olarak
+durulması gereklidir.
++
+Bir kimsenin diğer bir kişinin işe aldığı kimse (müstahdemi) olduğunu kabul
+edebilmek için, çalışanın çalıştırana tabi olması, onun emri altında çalışması
+icab eder. Adam çalıştırana özen yükümlülüğü yükletilmesi, bu bağımlılık
+ilişkisi, emir verme yetkisi ile ilgilidir.  Bağlı olarak çalışmanın bir
+sözleşme bağına (hizmet/iş sözleşmesine) dayanması şart değildir.
++
+Buna karşılık, eser(istisna) sözleşmesi, vekalet sözleşmesi ve ortaklık
+sözleşmesi uyarınca çalışanlar ile hiçbir sözleşmeye dayanmaksızın sadece bir
+konuda yardımcı olmak için başkasının işini gören kişiler, bağımlı çalışma
+şartı gerçekleşmediğinden, işini gördükleri kişilerin TBK m.66 uyarınca sorumlu
+olmasına yol açmazlar.
++
+Adam çaıştıranın onayı ile çalıştırdığı kişi de başkalarını çalıştırmışsa, bu
+sonuncuların davranışından gerek ilk adam çalıştıran gerekse bunun elemanı olan
+adam çalıştıran TBK m.66 uyarınca müteselsilen sorumlu olacaklardır.
++
+.. Zarar, çalıştırılan kişi kendisini çalıştıranın işini görürken verilmiş
+olmalıdır. Bu husus, zarar verici fiil ile adam çalıştıranın görülü işi
+arasında fonksiyonel bağlılık bulunması gerektiği tarzında da ifade
+edilmektedir.
++
+Çalıştırılanın kendisine verilen talimatı yanlış anlaması veya işgüzarlığı
+sebebiyle göreceği işin sahası dışına taşması sırasında üçüncü kişiye verdiği
+zararlarda, işlevsel bağlılığın devam edeceği kabul edilmektedir.
+Çalıştırılanın işi görürken kendisini çalıştıranın bir başka elemanına zarar
+vermesi durumunda da TBK m.66 uyarınca sorumluluk doğar.
+
+===== b.Sorumluluk karinesi
+
+TBK m.66'da öngörülen şartların gerçekleşmesi, adam çalıştıran için bir
+sorumluluk karinesi oluşturur. Bu sorumluluk karinesi, biri çalıştırılan kişiye
+ilişkin, diğeri işletme şartlarına ilişkin iki karine şeklinde düzenlenmiştir.
+
+.. Çalıştırılan, kendisini çalıştıranın işini görürken hukuka aykırı bir
+fiille bir üçüncü kişiye zarar vermişse, “adam çalıştıran, çalışanını seçerken,
+işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın
+doğmasını engellemek için gerekli özeni gösterdiğini ispat ederse, sorumlu
+olmaz.” (TBK m.66/f.2)
+
+.. İkinci karine, işletme şartlarına ilişkindir. Buna göre, “Bir işletmede
+adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını önlemeye
+elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep
+olunan zararı gidermekle yükümlüdür.”
++
+Adam çalıştıran, kendisine yükletilen davranış yükümlülüğünü yerine getirdiğini
+ispat ettiği veya zararla yükümlülüğü arasında nedensellik bağı bulunmadığını
+ispat ettiği takdirde, çalıştırdığı kişi bakımından sorumluluk şartları mevcut
+olmasına rağmen, adam çalıştıran sorumlu olmaz.
+
+==== 4. Sorumluluk karinesinin çürütülmesi (Kurtuluş beyyinesi)
+
+TBK m.66'da aranan şartlar gerçekleştiği için hakkında sorumluluk karinesi
+oluşan adam çalıştıran, kendisine yükletilen sorumluluktan, sorumluluğun
+dayandığı iki karineden birisini çürütmek suretiyle kurtulabilir.
+
+===== a. Çalıştırılana yönelik karinenin çürütülmesi
+
+Adam çalıştıran:
+
+Çalıştırdığı kişini seçiminde özen gösterdiğini ispat edecektir. Bu hususun
+ispatı, bu kişi işe alınırken veya sonradan kendisine yeni bir iş verilirken,
+onun, yapacağı iş için gerekli kişiliğe, bilgiye, ehliyete, tecrübeye sahip
+olduğu hususunda yeterli araştırma yapıldığına hakimi ikna edecek delillerin
+sunulması suretiyle olur.
+
+Çalıştırdığı kişiye talimat vermede özen gösterdiğini de ispat edecektir. Bu
+hususun ispatı da bu kişiye, yapacağı iş konusunda gerekli bilgilerin
+verildiği, uyarıların yapıldığı hususunda hakimi ikna edecek delillerle
+sağlanabilir.
+
+Denetlemekte özen gösterdiğini de ispat etmesi gerekmektedir. Bu hususun
+ispatı, çalıştırılanın, işin gerektirdiği ölçüde onu çalıştıran veya onun
+görevlendirdiği kişilerce denetlendiğine, verilen talimatlara uyup uymadığının
+kontrol edildiğine hakimi ikna edecek delillerle sağlanır.
+
+Bunlardan birinin yerine getirilmemiş olması halinde adam çalıştıran bu
+karineyi çürütmüş olmaz.
+
+===== b. İşletme şartlarına yönelik karinenin çürütülmesi
+
+Adam çalıştıran işletmenin çalışma düzeninin zararın doğmasını önlemeye
+elverişli olduğunu ispat ederse, bu karineyi çürütür.
+
+Temelinde yatay düşünce, çalıştırılan kişiyi seçmede, talimat vermede,
+denetlemede hiçbir özen eksiği olmasa da, işletmenin çalışma şartlarının
+elverişsizliği yüzünden üçüncü kişinin zarara uğrayabilecek olmasıdır. Dikkat
+edilmelidir ki, burada da zararla çalıştırılan kişinin bir fiili arasında
+nedensellik bağı vardır. Fakat işletme şartlarının kötülüğü yüzünden, onu
+seçmede, talimat vermede ve denetlemede hiçbir yetersizlik bulunmamasına rağmen
+çalıştırılan kişi bu zararı vermiştir.
+
+===== c. Nedensellik bağının olmaması
+
+Özen yükümünü yerine getirdiğini ispatlayamayan fail, artık sadece bu özen
+eksikliği ile zarar arasında nedensellik bağının bulunmadığını ispat ederek
+sorumluluktan kurtulabilir.
+
+Fakat, burada bulunmadığı ispat edilecek nedensellik, çalıştırılanın fiili ile
+zarar arasındaki nedensellik değil, adam çalıştıranın özen göstermemesi ile
+zarar arasındaki nedenselliktir.
+
+==== 5. Tazminata ilişkin diğer esaslar
+
+.. TBK m.66'da düzenlenen sorumlulukta, adam çalıştıranın veya çalıştırılanın
+kusuru aranmadığı için, kusursuzluğu ispat ile sorumluluktan kurtulmak mümkün
+olmadığı gibi, varsa kusurun derecesi de tazminatın belirlenmesinde önem
+taşımaz. TBK m.51'deki tazminatın belirlenmesinde kusurun ağırlık derecesinin
+dikkate alınmasına ilişkin esas adam çalıştıranın sorumluluğunda rol oynamaz. 
++
+Fakat, adam çalıştıranın zararın meydana gelmesinde kusuru varsa, örneğin adam
+çalıştıran yanlış talimat verdiği, bozuk araç kullandırttığı için çalıştırdığı
+kişi bir üçüncü kişiye zarar vermişse, bu “munzam kusur”, adam çalıştıranın
+sorumluluğuna ilişkin karineleri çürütmesine engel olacağı gibi, tazminatın
+indirilmesini gerektiren sebepler bulunsa bile bu indirime de engel olabilir.
+Zarardan sorumlu başka kişiler varsa, munzam kusur, rücu konusunda etkili
+olabilir.
++
+.. Tazminatın belirlenmesinde durum gereğinin (TBK m.51), mağdurun birlikte
+kusurunun (TBK m.52/f.1), tazminatın davalıyı yoksulluğa düşürecek olmasının
+(TBK m.52/f.2) dikkate alınacağına dair esaslar adam çalıştıranın tazminat
+borcu bakımından da uygulanacaktır.
++
+.. TBK m.66 uyarınca sorumlulukta da zamanaşımı TBK m.72 hükümlerine tabidir.
++
+Adam çalıştırana karşı iki yıllık zamanaşımının işlemeye başlaması için
+mağdurun, zararı ve zararı veren çalışanı öğrenmesi yetmez, çaılştırma
+ilişkisini ve kişiyi çalıştıranı da öğrenmiş olması gereklidir.
++
+Çalıştırılanın fiilinin suç oluşturması, adam çalıştıranın sorumluluğunun ceza
+davası zamanaşımına tabi tutulmasına yol açamaz. TBK m.72/f.1 ancak adam
+çalıştıranın gerekli özeni göstermemiş olması suç oluşturursa uygulanabilir.
++
+.. Zarardan başka kişiler de başka sebeplerle sorumlu ise, TBK m.62 uyarınca
+birbirlerine rücu imkanı TBK m.66/f.4'de özel olarak öngörülmüştür.
+
+.TBK m.66
+....
+f.4 - Adam çalıştıran, ödediği tazminat için, zarar veren çalışana, ancak onun
+bizzat sorumlu olduğu ölçüde rücu hakkına sahiptir.
+....
+
+Böylece, adam çalıştıranın çalıştırılana rücu edebilmesi için, ya çalıştırılan
+kişi şahsen kusurlu olduğu için TBK m.49 uyarınca mağdura karşı kendisi de
+sorumlu olmalı veya çalıştırılanın davranışı kendisini çalıştırana karşı
+yüklendiği borca aykırılık oluşturduğu için TBK m.112'deki esaslara veya özel
+hükümlere göre adam çalıştırana karşı çalıştırılan sorumlu olmalıdır.  
+
+=== II.  HAYVAN İDARE EDENLERİN SORUMLULUĞU
+
+.TBK m.67: 
+....
+f.1 - Bir hayvanın bakımını ve yönetimini sürekli veya geçici olarak üstlenen
+kişi, hayvanın verdiği zararı gidermekle yükümlüdür.  
+f.2 - Hayvan bulunduran, bu zararın doğmasını engellemek için gerekli özeni
+gösterdiğini ispat ederse sorumlu olmaz.  
+f.3 - Hayvan, bir başkası veya bir başkasına ait hayvan tarafından ürkütülmüş
+olursa, hayvanı bulunduranın, bu kişilere rücu hakkı saklıdır.
+....
+
+==== 1. Sorumluluğun dayandığı esas
+
+TBK m.67'de düzenlenen kusursuz sorumluluk, bir hayvanı fiili egemenliği
+altında tutan kimsenin, bu hayvanın başkalarına zarar vermemesi için gerekli
+önlemleri alma konusunda kendisine yükletilmiş özen gösterme yükümlülüğünü
+yerine getirmemiş olması esasına dayanmaktadır.
+
+Bu özeni gösterme yükümlülüğü de hayvanı egemenliği altında bulundurana
+yükletilmiştir. İlk plandaki unsur egemenliktir. Egemenlik olmadan hayvandan
+yararlanan kimse olmak önem taşımaz.
+
+.Örnek
+TIP: Hayvanı satan (S) henüz bunu teslim etmemişse, teslime kadar hayvandan
+elde edilecek tüm yararlara alıcının sahip olacağı kararlaştırılmış olsa bile,
+fiili hakimyet sahibi satıcı (S) olduğu için, hayvanın bu dönemde ika ettiği
+zarardan TBK m.67 uyarınca sorumlu kişi (S)'dir.
+
+==== 2. TBK m.67'nin uygulama alanı
+
+TBK m.67 ancak üzerinde egemenlik bulunan hayvanların verdikleri zararlarda
+uygulanabilir. Tutulmamış av hayvanlarının örneğin biri  tarafından
+ürkütülmesi/kovalanması sebebiyle verdikler zararlar TBK m.67'nin kapsamına
+girmez.
+
+Daha önce egemenlik altında ike terkediken hayvanın verdiği zararların TBK
+m.67'nin kapsamına girip girmeyeceği tartışmalıdır. Hayvanı terk ederken,
+hayvanın başkalarına zarar vermemesi için alınması gereken tedbirleri almayan
+kimsenin terk edilen hayvanın verdiği zarardan TBK m.67 sorumlu olduğu kabul
+edilebilir. Terk ederken tedbir almanın gerekli olup olmadığı, gerekli ise
+alınacak tedbirin ne olduğu, terkedilen hayvana ve terk etme sırasındaki hal ve
+şartlara göre tayin edilecektir.
+
+Egemenlik altındaki hayvanın kaçması halinde de terkdekine benzer bir çözüm
+dikkate alınabilir. Hayvanın kaçmasına engel olacak tedbir alınması gerekiyor
+idiyse, bu tedbiri almamış olan kimse, kaçan hayvanın verdiği zarardan TBK m.67
+uyarınca sorumlu olur.
+
+==== 3. TBK m.67'ye göre sorumluluğun şartları ve sorumluluğun karinesi
+
+Bir kimsenin egemenliği altındaki bir hayvanın bir üçüncü kişiye zarar vermesi,
+hayvan üzerinde egemenlik sahibi olan kişinin zararı tazminle sorumlu olması
+için gerekli ve yeterlidir. Bu şartlar gerçekleşmişse, TBK m.67 egemenlik
+sahibinin sorumluluğunu karine olarak kabul etmektedir. Ancak egemenlik sahibi
+bu karineyi çürütübilirse sorumluluktan kurtulur.
+
+===== a. Sorumluluk için aranan şartlar
+
+.. Üçüncü kişi bir zarara uğramış olmalıdır.
+
+.. Zarar, egemenlik altındaki bir hayvanın hareketinden doğmuş olmalıdır.
++
+Hayvan kendiliğinden/içgüdüsü ile bir hareket yapmış olmayıp, bir kişinin
+fiiline vasıtalık yaparken zarar vermişse TBK m.67 uygulanmaz. 
++
+.Örnek
+TIP: Bir binicinin sürdüğü at veya bir arabayı çeken at bu gidiş sırasında
+birine veya bir şeye çarparak zarar verirse, bu durumda sorumluluk TBK m.67'ye
+tabi değildir.
++
+.. Zararı meydana getiren hareketi yaoan hayvan, sorumlu tutulmak istenen
+kişinin egemenliği altında bir hayvan olmalıdır.
++
+Egemenlik ile kastedilen “bir hayvanın bakımı ve yönetimini sürekli veya geçici
+olarak üstlenmek”tir (TBK m.67/f.1). Bu anlamda fiili egemenlik, dolaysız
+zilyedliktir. 
++
+.Örnek
+TIP: Dolaysız zilyed, hayvanın maliki olabileceği gibi, kiracı veya hayvanı
+çalmış olan bir hırsız da olabilir. Önemli olan hayvan üzerinde hak sahibi
+olmak değil, fiili egemenliktir.
++
+Fiili egemenliğin devam ettiği süre de önemli değildir. Hayvan zarara yol
+açtığı sırada kimin egemenliği altında ise TBK m.67'ye göre o kimse sorumlu
+olur. 
++
+Zilyed yardımcısı adı verilen ve hayvan üzerinde doğrudan fiili egemenlikleri
+bulunmaksızın, hizmet sebebiyle hayvanla ilgilenenler, zilyet olmadıkları için
+“hayvan bulunduran” kavramına girmezler. 
++
+.Örnek
+TIP: Bir atın sadece yemini veren, temizliğini yapan seyis, evdeki kedi ve
+köpeklerin yemeklerini veren, temizliklerini yapan hizmetçi böyledir.
++
+Buna karşılık, başkası için zilyed durumunda olan ve hayvan üzerinde kendisi
+için hiçbir ayni veya şahsi hak ileri sürmeksizin başkasının bir hakkı
+sebebiyle hayvan üzerinde fiili egemenliği bulunan kimse TBK m.67'nin
+uygulanması bakımından “hayvan bulunduran” durumundadır.
++
+.Örnek
+TIP: Atın eğitimi ile meşgul seyis,hayvanı güden çoban, bir köpeği
+dolaştırmaya çıkaran hizmetçi, hayvanı tedavi için alıkoyan veteriner böyledir.
++
+Bunların içinde, başkası adına egemenliği kullanan kişi, adına egemenlik
+kullandığı kimsenin emrinde olarak bu işi görüyorsa, “çalıştırılan” durumunda
+olduğu için, adına egemenlik kullanılan kimse, örneğin hayvanın maliki de
+ayrıca meydana gelen zarardan TBK m.66 uyarınca sorumlu olur.
+
+===== b. Sorumluluk karinesi
+
+Yukarıda belirtilen şartların varlığı sabit olunca zararı veren hayvanı
+bulunduran kimsenin (fiili egemenliği bulunan kimsenin = dolaysız zilyedin)
+kendisine yükletilmiş olan özen gösterme yükümlülüğünü yerine getirmediği ve
+zararın bu yüzden meydana geldiği hususu TBK m.67'de karine olarak kabul
+edilmiş ve hayvan bulunduran bu zarardan sorumlu tutulmuştur.
+
+Buna göre, bir hayvanın hareketi bir kişiye zarar vemişse, hayvanı bulunduran
+kimse, “bu zararın doğmasını engellemek için gerekli özeni” göstermemiş
+sayılacaktır. Burada kastedilen objektif özendir. Buna “fiil karinesi”
+denmektedir.
+
+Böylece, hayavanı bulunduran, gerekli özeni göstermeme tarzındaki olumsuz fiili
+yüzünden sorumlu olmaktadır. Hayvanın hareketi bu sorumluluğa yol açan bir
+olgudur. Bu sebepledir ki, hayvanı bulunduran, kendisine yükletilen davranış
+yükümlülüğünü yerine getirdiğini veya zararla yükümlülüğün yerine getirilmemesi
+arasında nedensellik bağı bulunmadığını ispat ettiği takdirde, hayvanın
+hareketlerinin yol açtığı zarardan sorumlu tutulmaz.
+
+==== 4. Karinenin çürütülmesi (Kurtuluş kanıtı)
+
+===== a. Fiil karinesinin çürütülmesi
+
+Hayvanı idare eden gerekli özeni gösterdiğini ispat ederse, sorumluluktan
+kurtulur. İspat edilecek özen, hal ve şartlara göre tedbir alınmasında
+gösterilecek objektif özendir.
+
+===== b. Nedensellik karinesinin çürütülmesi
+
+Hayvan idare edenin sorumluluktan kurtulmak için başvurabileceği ikinci imkan
+nedensellik karinesi çürütmektir. Ancak, burada bulunmadığı ispat edilecek
+nedensellik, hayvanın hareketi ile zarar arasındaki nedensellik değil, hayvan
+bulunduranın gereklı özeni göstermemesi ile zarar arasındaki nedenselliktir.
+
+==== 5. Tazminata ilişkin diğer esaslar
+
+.. TBK m.67'de düzenlenen sorumlulukta hayvan bulunduranın kusuru aranmadığı
+için, kusursuzluğu ispat ile sorumluluktan kurtulmak mümkün olmadığı gibi varsa
+kusurun derecesi de tazminatın belirlenmesinde önem taşımaz.
++
+Fakat, hayvan bulunduranın zararın meydana gelmesinde kusuru varsa, örneğin
+zarar vermesi için hayvanı tahrik etmişse, bu “munzam kusur”, sorumluluğa
+ilişkin karineleri çürütmesine engel olacağı gibi, tazminatın indirilmesini
+gerektiren sebepler bulunsa bile bu indirime de engel olabilir. Zarardan
+sorumlu başka kişiler varsa, munzam kusur, rücu konusunda etkili olabilir.
++
+.. Tazminatın belirlenmesinde durum gereğinin (TBK m.51), mağdurun birlikte
+kusurunun (TBK m.52/f.1), tazminatın davalıyı yoksulluğa düşürecek olmasının
+(TBK m.52/f.2) dikkate alınacağına dair esaslar hayvan bulunduranın tazminat
+borcu bakımından da uygulanacaktır.
+
+.. TBK m.66 uyarınca sorumlulukta da zamanaşımı TBK m.72 hükümlerine tabidir.
+
+.. Zarardan başka kişiler de başka sebeplerle sorumlu ise, bunların birbirine
+rücu imkanını hakim belirler.
++
+Ancak, rücu konusunda, zarar veren hayvanın başka bir kişi veya tarafından
+ürkütülmüş olması halinde hayvanı bulunduranın rücu imkanı, TBK m.67/f.3'de
+özel olarak öngörülmüştür.
+
+.TBK m.67
+....
+f.3 - Hayvan, bir başkası veya bir başkasına ait hayvan tarafından ürkütülmüş
+olursa, hayvanı bulunduranın, bu kişilere rücu hakkı saklıdır.
+....
+
+==== 6. Hayvanın bir taşınmaza zarar vermesi halinde taşınmaz zilyedine tanınan haklar ve yükümlülükler
+
+.TBK m.68
+....
+f.1 - Bir kişinin hayvanı, başkasının taşınmazı üzerinde bir zarar verdiği
+takdirde, taşınmazın zilyedi, o hayvanı yakalayabilir, zararı giderilinceye
+kadar alıkoyabilir; hatta durum ve koşullar haklı gösteriyorsa hayvanı diğer
+yollarla etkisiz hâle getirebilir.  
+f.2 - Bu durumda, taşınmazın zilyedi derhâl hayvan sahibine bilgi vermek ve
+sahibini bilmiyorsa, onun bulunması için gerekli girişimleri yapmak zorundadır.
+....
+
+=== III. YAPI MALİKİNİN SORUMLULUĞU
+
+.TBK m.69
+....
+f.1 - Bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki
+bozukluklardan veya bakımındaki eksikliklerden doğan zararı gidermekle
+yükümlüdür.  
+f.2 - İntifa ve oturma hakkı sahipleri de, binanın bakımındaki eksikliklerden
+doğan zararlardan, malikle birlikte müteselsilen sorumludurlar.  
+f.3 - Sorumluların, bu sebeplerle kendilerine karşı sorumlu olan diğer kişilere
+rücu hakkı saklıdır.
+....
+
+==== 1. Sorumluluğun dayandığı esas 
+
+Hüküm bir bina veya yapının yapılışındaki bozukluk vyea bakımındaki eksiklikler
+yüzünden üçüncü kişilerin uğradıkları zararlardan, o bina veya yapıdan en üst
+düzeyde yararlanan kimsenin (mailikin ve bazı durumlarda intifa ve oturma hakkı
+sahibinin) sorumlu olması esasına dayanmaktadır. Malikin sorumluluğu için,
+kusurunun aranmaması bir yana, kendisine yükletilmiş özen yükümlülüğünün
+varlığından ve bunu yerine getirmemesinden sorumlu tutulduğundan da söz
+edilemez. Zira, bina ve yapıyı yeni satın alan (veya başka bir sebeple
+devralan) malik, eski malikin dönemindeki yapı bozuklukları veya bakım
+eksikliklerinden kendi mülkiyet döneminde meydana gelen zarardan sorumlu
+tutulmuştur. Malikin TBK m.69 uyarınca sorumlu tutulması için, bina veya yapı
+üzerinde fiili egemenliği bulunması da şart değildir.  Sorumluluk, fiili
+egemenliğe ve buna bağlı olarak gerekli tedbirleri almada özen gösterme esasına
+dayanmadığı için, TBK m.69'da bir sorumluluk karinesi ve bu karinenin
+çürütülmesi de söz konusu değildir.
+
+==== 2. TBK m.69'un uygulama alanı
+
+TBK m.69'da düzenlenen sorumluluk bina veya diğer bir yapının veya yapılış
+bozukluğu veya bakım eksikliğinden doğan zararları kapsar. Bina veya yapı
+kavramına girmeyen imal edilmiş şeyler TBK m. 69'un kapsamı dışında kalır. 
+
+TBK m.69'daki sorumlulukta ilk öngörülen “bina”dır. Bina, barınmak veya diğer
+ihtiyaçlar için insan tarafından yapılmış etrafı ve üstü az veya çok kapalı,
+araziye bağlı, inşa eseri olarak tarif edilebilir.
+
+Bina tanımına girmeyen, fakat yeryüzüne vağlı olan inşa eserleri kanunun
+ifadesiyle “diğer yapılar” olarak TBK m.69 kapsamındadır.
+
+Ancak inşaatı tamamlanmış binalar ve diğer yapılar, TBK m.69 kapsamına girer.
+İnşaat tamamlanmadan önce bina veya yapı değil, bina veya yapı inşaatı söz
+konusudur.
+
+==== 3. TBK m.69'a göre sorumluluğun şartları
+
+TBK m.69 uyarınca sorumluluk için, bir kimsenin maliki bulunduğu bir bina veya
+diğer bir yapının inşaat bozukluğu veya bakım eksikliği yüzünden bir üçüncü
+kişi zarara uğramış olmalıdır. Sorumlu tutulacak kişi intifa veya oturma hakkı
+sahibi ise, zararın yapının bakımındaki eksiklikten kaynaklanması gereklidir.
+
+TBK m.69'da bir sorumluluk karinesi ve bu karinenin çürütülmesi ile
+sorumluluktan kurtulma söz konusu değildir.
+
+Olayın cereyan tarzına göre zarar verici olgunun, bina veya diğer bir yapının
+yapılış bozukluğuna veya bkım eksikliğine bağlanması hayatın normal akışına
+uygun ise hakim, zararın yapılış bozukluğundan veya bakım noksanından
+kaynaklandığını esas kabul eder. Aksini ispat davalıya düşer.
+
+Yapılışta bozukluk veya bakımda eksiklik bulunmadığını ispat daha güçtür.
+Fakat, yapılışta bozukluk veya bakım eksikliği olarak ileri sürülen hususun
+binanın ve diğer yapının tipi veya tahsis edildiği amaç bakımından gerekli
+olmaması, sorumluluk için aranan bu unsurun söz konusu olmayacağını gösterir.
+
+==== 4. Tazminata ilişkin diğer esaslar
+
+.. TBK m.69'da düzenlenen sorumluluk kusur aranmayan bir sorumluluk olduğu
+için, malikin kusursuzluğu ispat ile sorumluluktan kurtulması mümkün olmadığı
+gibi varsa kusurunun derecesi de tazminatın belirlenmesinde önem taşımaz.
++
+Fakat, bina malikinin zararın meydana gelmesinde kusuru varsa, örneğin bina ile
+hiç ilgilenmemişse, bu “munzam kusur”, tazminatın indirilmesini gerektiren
+sebepler bulunsa bile bu indirime engel olabilir. Zarardan sorumlu başka
+kişiler varsa, munzam kusur, rücu konusunda etkili olabilir.
++
+.. Tazminatın belirlenmesinde durum gereğinin (TBK m.51), mağdurun birlikte
+kusurunun (TBK m.52/f.1), tazminatın davalıyı yoksulluğa düşürecek olmasının
+(TBK m.52/f.2) dikkate alınacağına dair esaslar bina veya diğer yapı malikinin
+tazminat borcu bakımından da uygulanacaktır.
+
+.. TBK m.66 uyarınca sorumlulukta da zamanaşımı TBK m.72 hükümlerine tabidir.
+
+.. Zarardan başka kişiler de başka sebeplerle sorumlu ise, bunların birbirine
+rücu imkanını hakim belirler. (TBK m.62)
++
+Buna karşılık mağdura karşı sorumluluğu olmayan fakat mailikin (veya intifa,
+oturma hakkı, üst hakkı sahibinin) tazminat ödemekle yükümlü olmasına yol açan
+kimselere rücu etmesi, aralarındaki ilişki sebeiyle mümkün olabilir. TBK
+m.62'nin kapsamına girmeyen bu konu, TBK m.69/f.3'de özel olarak
+düzenlenmiştir.
+
+==== 5. Tehlikeyi bertaraf etme yükümlülüğü
+	
+Bir bina veya diğer bir yapı henüz bir zarara yol açmış olmamakla beraber zarar
+tehlikesi varsa veya gtazminata yol açmış bir olgu zarar tehlikesi yaratmaya
+devam ediyorsa, bu tehlikeyle karşılaşan herkes, bu tehlikenin giderilmesi için
+gerekli önlemlerin alınmasını TBK m.69'a göre sorumlu hak sahiplerinden talep
+edebilir (TBK m.70/f.1). Hak sahipleri bu talebi yerine getirmezse, tehlikeye
+maruz bulunan kişi tehlikenin bertaraf edilmesi için dava açabilir.
+
+.TBK m.70
+....
+f.1 - Bir başkasına ait bina veya diğer yapı eserlerinden zarar görme
+tehlikesiyle karşılaşan kişi, bu tehlikenin giderilmesi için gerekli önlemlerin
+alınmasını hak sahiplerinden isteyebilir.
+....
+
+=== IV. AYIRT ETME GÜCÜ BULUNMAYANLARIN SORUMLULUĞU
+
+.TBK m.65
+....
+Hakkaniyet gerektiriyorsa; hâkim, ayırt etme gücü bulunmayan kişinin verdiği
+zararın, tamamen veya kısmen giderilmesine karar verir.
+....
+
+.TBK m.59
+....
+Ayırt etme gücünü geçici olarak kaybeden kişi, bu sırada verdiği zararları
+gidermekle yükümlüdür. Ancak, ayırt etme gücünü kaybetmede kusuru olmadığını
+ispat ederse, sorumluluktan kurtulur.
+....
+
+==== 1. Sorumluluğun dayandığı esas bakımından ayırt etme gücü bulunmayanların TBK m.65 ve TBK m.59 hükümlerine göre sorumluluğu
+
+Zarar verici fiili işleyen kişi fiili işlerken ayırt etme gücünden yoksun
+idiyse onu TBK m.49 uyarınca sorumlu tutmak mümkün değildir. Zira sorumluluk
+için gerekli kusur unsuru eksiktir.
+
+Buna karşılık:
+
+.. TBK m.65 haksız fiil sorumluluğunun diğer unsurları bulunmasına rağmen bir
+kimsenin sırf ayırt etme gücü bulunmadığı için sorumluluktan kurtulmasının
+hakkaniyet duygusu ile bağdaşmadığı hallerde, hakime ayırt etme gücü bulunmayan
+faili tazminata mahkum etme imkanını sağlamaktadır.
+
+.. TBK m.59, ayırt etme gücünü geçici olarak kaybetmiş olanların, bu duruma
+kendi kusurları ile düştüklerini karine olarak kabul etmekte ve bu kişilerin,
+söz konusu durumdayken verdikleri zararları tazmine mecbur olduklarını kabul
+etmektedir.  c) Gerek TBK m.65 kuralının gerekse TBK m.59 kuralının kıyasen
+borca aykırılık hallerinde de uygulanması kabul edilmektedir.
++
+Ayırt etme gücünü kusuru olmadan geçici olarak kaybettiğini ispat ederek TBK
+m.59'da öngörülen sorumluluktan kurtulan kişi, hakkaniyet gerektiriyorsa TBK
+m.65 uyarınca sorumlu tutulabilir.
+
+==== 2. TBK m.65'e göre sorumluluğun şartları
+
+Bir kimse ister sürekli bir sebeple ayırt etme gücünden yoksun olsun, ister
+geçici bir sebeple ayırt etme gücünü kaybetmiş olsun, bu durumda iken başkasına
+verdiği zarardan kusura dayanan sorumluluğun (TBK m.49) kusur dışındaki
+unsurları gerçekleşmişse ve hakkaniyet gerektiriyorsa, TBK m.65 uyarınca
+sorumludur.
+
+==== 3. Tazminata ilişkin diğer esaslar
+
+.. Sorumluluk için kusur aranmadığından, kusur derecesi tazminatın
+belirlenmesinde önem taşımaz.
+
+.. Tazminatın belirlenmesinde durum gereğinin (TBK m.51), mağdurun birlikte
+kusurunun (TBK m.52/f.1), tazminatın davalıyı yoksulluğa düşürecek olmasının
+(TBK m.52/f.2) dikkate alınacağına dair esaslar bina veya diğer yapı malikinin
+tazminat borcu bakımından da uygulanacaktır.
+
+.. TBK m.66 uyarınca sorumlulukta da zamanaşımı TBK m.72 hükümlerine tabidir.
+
+.. Zarardan başka kişiler de başka sebeplerle sorumlu ise, bunların birbirine
+rücu imkanını hakim belirler. (TBK m.62).  Rücu zamanaşımı TBK m.73 hükmüne
+tabi olacaktır.
+
+=== V. IZTIRAR HALİNDE VERİLEN ZARARDAN SORUMLULUK
+
+.TBK m.64
+....
+f.2 - Hakkını kendi gücüyle koruma durumunda kalan kişi, durum ve koşullara
+göre o sırada kolluk gücünün yardımını zamanında sağlayamayacak ise ve hakkının
+kayba uğramasını ya da kullanılmasının önemli ölçüde zorlaşmasını önleyecek
+başka bir yol da yoksa, verdiği zarardan sorumlu tutulamaz.
+....
+
+==== 1. Sorumluluğun dayandığı esas
+
+Hukuka aykırılık ve kusur aranmayan bu sorumluluk, mağdurun, ıztırar halindeki
+bir kimsenin mallarına zarar vermesine katlanarak fedakarlık gösterm zorunda
+olmasına karşılık, ıztırar halinde zarar veren kimsenin de hukuka aykırı
+olmayan fiilinin verdiği zararı hakkaniyetin gerektirdiği ölçüde tazmin ederek
+karşı bir fedakarlıkta bulunması gerektiği esasına dayanmaktadır. Buna
+“fedakarlığın denkleştirilmesi” denilmektedir.
+
+==== 2. TBK m.64/f.2'ye göre sorumluluğun şartları
+
+.. Fail ıztırar halinde başkasının mallarına zarar vermiş olmalıdır.
++
+Kurtulmak istediği zararla bağdaşmayacak kadar ağır bir şekilde başkasına zarar
+veren kişi, ıztırar halinde olduğu gerekçesiyle hukuka uygun davranmış
+sayılmaz. Burada esasen kusurundan dolayı zararı tazminle yükümlü olup,
+denkleştirme talebine yer ve gerek yoktur.
++
+Kişiye zarar verilmesinde ıztırar hali kabul edilmemektedir.
++
+Bir üçüncü kişi değil de bizzat tehlikeden kurtarılmak istenen kişi
+malvarlığına bu maksatla zarar verilmişse, gene TBK m.64/f.2 hükmüne kıyasen,
+bu zarar da denkleştirmeye konu olabilmelidir.
++
+.. Hakkaniyet zararın tazminin gerektirmelidir.  
+
+==== 3. Tazminata ilişkin diğer esaslar
+
+.. Hukuka aykırılık ve kusur şartları aranmayacaksa da, zarar ile ıztırar
+halinde işlenen fiil arasında uygun nedensellik bağı bulunması gereklidir.
+
+.. Hakim durumun özelliklerini dikkate alarak, ıztırar halinde zarar verenin ne
+ölçüde fedakarlığa katlanması gerektiğini hakkaniyete uygun şekilde
+belirleyecektir.
+
+.. Iztırar halinde zarardan sorumluluğun zamanaşımı da TBK m.72 hükümlerin
+tabidir.
+
+.. Şayet fail, zarar veren fiili ile başkasını tehlikeden kurtarmış ise, TBK
+m.64/f.2 uyarınca ödedii tazminat için, tehlikeden kurtaran fiilinden
+yararlanan kimseye vekaletsiz iş görme hükümlerine (TBK m.529) göre rücu
+edebilir.
+
+=== VI. TEHLİKE SORUMLULUĞU
+
+.TBK m.71
+....
+f.1 - Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu
+takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur.  
+f.2 - Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya
+da güçler göz önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm
+özenin gösterilmesi durumunda bile sıkça veya ağır zararlar doğurmaya elverişli
+olduğu sonucuna varılırsa, bunun önemli ölçüde tehlike arzeden bir işletme
+olduğu kabul edilir. Özellikle, herhangi bir kanunda benzeri tehlikeler arzeden
+işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu işletme de önemli
+ölçüde tehlike arzeden işletme sayılır.  
+f.3 - Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri
+saklıdır.
+f.4 - Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk
+düzenince izin verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin
+sebep olduğu zararlarının uygun bir bedelle denkleştirilmesini isteyebilirler.
+....
+
+==== 1. İşletmelerin yol açacağı zararlar için düzenlenmiş olması
+
+Tehlike sorumluluğu, herhangi bir tehlikeli ürün veya eşya yahut faaliyet için
+değil; sadece işletmeler için öngörülmüştür. TBK m.71/f.1 ticari işletmeden
+değil sadece işletmeden söz ettiğinden,  esnaf işletmesinin de tehlike
+sorumluluğu hükümlerine tabi olduğu kabul edilecektir. Keza, kamu tüzel
+kişilerine ait işletmeler bakımından da aynı hükümler uygulama alanı
+bulmalıdır. Buna karşılık, işletme niteliğinde olmayan fakat mesleki faaliyet
+gösterilen yerle (örn. Doktor muayenehanesi) bu hükmün dışındadır.
+
+==== 2. Tehlikenin işletmenin niteliğinden kaynaklanması
+
+Her işletme değil, sadece “önemli ölçüde tehlike arzeden” işletmeler tehlike
+sorumluluğu hükümlerine tabidir. Önemli ölçüde tehlike arzetmenin nasıl
+belirleneceği TBK m.71/f.2 hükümlerinde açıklanmıştır.
+
+Zarar işletmenin faaliyetinden doğmalıdır. Buna karşılık, işletmenin üretip
+piyasaya çıkardığı ürünlerin verdiği zararlardan sorumluluk, bunlar tehlikeli,
+özel tipte bir zarar doğurmaya yatkın olsalar bile; TBK m.71 kapsamına
+girmezler.
+
+==== 3. Sorumlu tutulan kişi
+
+Kanun, işletme sahibinden başka, varsa işletenin de aynı prensibe göre sorumlu
+olacağını belirtmiştir. İşleten, işletmenin sahibi olmamakla birlikte,
+işletmeyi kira sözleşmesi veya yönetim sözleşmesi ile çalıştıran veya kayyım
+olarak atanan gerçek veya tüzel kişilerdir. Buna karşılık, işletmede hizmet
+veya vekalet sözleşmeleri çerçevesinde yönetici veya müdür olarak çalışanlar,
+tehlike sorumluluğu çerçevesinde sorumlu olmazlar. İşletme sahibi ile işletenin
+ayrı kişiler olması halinde, mağdur müteselsil sorumluluk hükümlerine göre
+bunlardan dilediğine başvurabilecektir.
+
+==== 4. Hukuken izin verilmiş ve kurallara uygun faaliyetlerden doğan zararlardan sorumluluk
+
+TBK m.71/f.4'e göre, işletmenin ilgili mevzuat bakımından yasal ve gerekli tüm
+izinler alınmış olarak ve bu çerçevede gösterdiği faaliyetlerden dolayı,
+işletme sahibi ve işleten, gene de kusursuz sorumlu tutulacaklarsa da; tüm
+zararı tazminle yükümlü olmayacaklardır. Fıkrada geçen “uygun bir bedelle
+denkleştirme” ifadesi, iki türlü yorumlanabilir:
+
+Birincisi, bu ifade ile burada “fedakarlığın denkleştirilmesi” ilkesine göre
+sorumluluk kastedilmiştir denebilir. Bu takdirde, önemli ölçüde tehlike arzeden
+işletmenin mevzuata uygun ve gerekli izinler alınarak çalıştırılmasına rağmen
+zarara sebep olmak, kanunen hukuka aykırı sayılmamış demektir. Ortada bir
+haksız fiilden dolayı kusursuz sorumluluğu aşan, hukuka uygun bir davranıştan
+doğan zararı paylaşma yükümü getiren bir düzenlemeden söz edilecektir. 
+
+İkinci ihtimal, burada denkleştirme ifadesinin fedakarlığın denkleştirilmesi
+anlamında kullanılmadığı; tamamen yasak faaliyetine rağmen haksız fiilden
+kusursuz sorumlu olacak fail için tazminattan indirim sebebi getirdiğidir. Buna
+göre ortada gene de bir haksız fiil bulunduğu kabul edilecek, fakat hakime
+tazminattan indirim yapması görevi verilmiş olacaktır.
+
+== 2- KARAYOLLARI TRAFİK KANUNUNDA DÜZENLENEN SORUMLULUKLAR
+
+=== I. İŞLETİLEN MOTORLU ARACIN SEBEP OLDUĞU ZARARDAN SORUMLULUK
+
+.KTK m.85
+....
+f.1 – Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına
+yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün
+unvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen biletle
+işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi,
+doğan zarardan müştereken ve müteselsilen sorumlu olurlar.
+....
+
+==== 1. KTK m.85/f.1'de düzenlenen sorumluluğun dayandığı esas
+
+KTK m.85/f.1'de düzenlenen bu kusursuz sorumluluk, tehlike esasına dayanan bir
+sorumluluktur.
+
+==== 2. KTK m.85/f.1'de düzenlenen sorumluluğun uygulama alanı
+
+.. KTK m.85/f.1'in uygulama alanı, karayollarında sebep olunan zararlarla
+sınırlıdır.
++
+Kanuna göre, “Karayolu, trafik için, kamunun yararlanmasına açık olan arazi
+şeridi, köprüler ve alanlardır.” Bunların dışında KTK m.85/f.1 uygulanmaz.
+Havada, denizde, demiryolunda meydana gelen zararlar hükmün kapsamı dışında
+olduğu gibi, özel mülkiyete tabi bir arazinin içinde bulunan ve kamunun
+yararlanmasına açık olmayan yollarda, yol dışı arazide meydana gelen zararlarda
+da uygulanmaz.  
++
+.. Ancak motorlu araçların sebep olduğu zararlardan sorumluluk
+hükmün kapsamına girer.
+
+.. Ancak işletilme halindeki motorlu araçların işletilmesinin sebep olduğu
+zararlardan sorumluluk KTK m.85/f.1 kapsamındadır.
++
+KTK bakımından motorlu aracın işletilmesinden maksat, motoru çalıştırılarak
+aracın hareket haline konulmasıdır. Motoru çalışır vaziyette de olsa duran
+aracın sebep olduğu zarardan sorumluluk KTK m.85/f.1'e değil, işletme halinde
+olmayan araçtan sorumluluğa tabidir.
++
+.. Motorlu aracın işletilmesinin sebep olduğu bütün zararlardan sorumluluk
+değil, aracın bir kimsenin ölmesi veya yaralanmasına sebep olmasından doğan
+maddia zararlarla bir mala verilen zararlardan sorumluluk KTK m.85/f.1'in
+kapsamındadır.
++
+Zarar görenin beraberinde bulunan bagaj ve benzeri eşya dışında araçta taşınan
+eşyanın uğradığı zararlardan sorumluluk KTK m.85/f.1'in kapsamı dışındadır.
++
+Keza, yaralanan veya ölen kişi hatır için karşılıksız taşınmakta ise veya
+motorlu araç, yaralanan veya ölen kişiye hatır için karşılıksız verilmiş
+bulunuyorsa, sorumluluk KTK m.85/f.1'in kapsamı dışındadır.
++
+İşletenin aracın malikinden başkası olduğu hallerde araca verilen zarardan
+işletenin ve bağlı olduğu teşebbüs sahibinin aracın malikine karşı sorumluluğu
+da KYK m.85/f.1 kapsamı dışındadır.
+
+==== 3. KTK m.85/f.1'de düzenlenen sorumluluğun şartları
+
+.. Bir kimse ölmüş veya yaralanmış vyea bir mal zarara uğramış olmalıdır.
+
+.. Zarara, bir motorlu aracın karayolunda veya KTK m.2'de belirtilen bir yerde
+işletilmesi sebep olmalıdır. 
++
+.KTK m.2
+....
+f.1 - Bu Kanun, trafikle ilgili kuralları, şartları, hak ve yükümlülükleri,
+bunların uygulanmasını ve denetlenmesini, ilgili kuruluşları ve bunların görev,
+yetki ve sorumluluk, çalışma usulleri ile diğer hükümleri kapsar.  
+f.2 - Bu Kanun, karayollarında uygulanır. Ancak aksine bir hüküm yoksa; 
+    a) Karayolu dışındaki alanlardan kamuya açık olanlar ile park, bahçe, park
+    yeri, garaj, yolcu ve eşya terminali, servis ve akaryakıt istasyonlarında
+    karayolu taşıt trafiği için faydalanılan yerler ile, 
+    b) Erişme kontrollü karayolunda ve para ödenerek yararlanılan karayollarının
+    kamuya açık kesimlerinde ve belirli bir karayolunun bağlantısını sağlayan
+    deniz, göl ve akarsular üzerinde kamu hizmeti gören araçların, karayolu
+    araçlarına ayrılan kısımlarında da, Bu Kanun hükümleri uygulanır.
+....
++
+Aracın işleteni ve işletenin bağlı olduğu teşebbüs sahibi, kendisinin ve
+eylemlerinden sorumlu bulunduğu kişilerin kusuru bulunmaksızın, trafik
+kazasının bir mücbir sebepten veya zarar görenin ya da bir üçüncü şahsın ağır
+kusurundan ileri geldiğini ispat ederse sorumluluktan kurtulur (KTK m.86).
++
+Aracın lastiğinin patlamaso, rotunun çıkması, direksiyonunun kitlenmesi gibi
+araçta beklenmedik durumlardan kaynaklanan trafik kazalarının sebep olduğu
+zararlardan aracın işleteni sorumludur. 
++
+Hatta araçta bir bozukluk varsa veya işletenin fiillerinden sorumlu olduğu
+kimselerin veya kendisinin kusuru varsa, zarara sadece mücbir sebep, mağdurun
+veya üçüncü kişinin ağır kusuru yol açmamış dmeektir. Aracın işleteni
+sorumluluktan kurtulamaz. Ancak mağdurun kusuru tazminatın indirilmesine yol
+açabilir (KTK m.86/f.2)
++
+İşletenin fiillerinden sorumlu olduğu kimseler, aracın sürücüsü ve aracın
+kullanılmasına katılan yardımcılardır. KTK m.85/f.5'e göre işleten bu
+kimselerin kusurundan kendi kusuru gibi sorumludur.
++
+.. Sorumlu tutulmak istenen kişi, zarara sebep olan aracın işleteni veya
+işletenin bağlı olduğu teşebbüs sahibi olmalıdır.
+
+===== aa. İşleten kavramı
+
+.KTK m.3
+....
+İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı
+sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya
+rehini gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak ilgili
+tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait
+olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat
+edilirse, bu kimse işleten sayılır.
+....
+
+.. KTK m.3'deki tarife göre, her şeyden önce araç sahibi işletendir. Araç
+sahibi, araç için adına yetkili idarece tescil belgesi verilmiş veya sahiplik
+ya da satış belgesi düzenlenmiş kişidir. Tescil edilmiş araçların her çeşit
+satış ve devirleri, araç sahibi adına düenlenmiş tescil belgesi esas alınarak
+noterlerce yapılır. Noterlerce yapılmayan her çeşit satış ve devir geçersizdir
+(KTK m.20).
++
+Şayet, araç mülkiyeti muhafaza kaydıyla satılmış ise alıcı sıfatıyla sicilde
+kayıtlı olan kişi işletendir.
++
+Yukarıdaki tarife göre işleten kabul edilen kimseden başka bir kişinin aracı
+kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç
+üzerinde fiili tasarrufu bulunduğu ispat edilirse bu kişi işleten sayılır.
+Aracı çalmış veya gasbetmiş olan kimseler de bu durumdadır. Keza aracı uzun
+süre için kiralamış olan kiracı, ödünç alan, rehin alan kişi işletendir. Bu
+hallerde araç sahibi işleten değildir. Alıcının, kiracının, ödünç alanın, rehin
+alanın işleten olarak kabul edilmeleri için, mülkiyeti muhafaza kaydı ile
+satış, kira, ödünç, rehin sözleşmelerinin yapılmış olması yetmez. Aracın
+zilyetliğini de elde etmiş olmaları gerekir.
++
+.. Motorlu araçlarla ilgili mesleki faaliyette bulunan teşebbüslerin sahibi,
+gözetim, onarım, bakım, alım-satım, araçta değişiklik yapılması amacı ile veya
+benzeri bir amaçla kendisine bırakılan bir motorlu aracın sebep olduğu
+zararlardan dolayı, işleten gibi sorumludur (KTK m.104). Böyle bir sorumlu
+varsa, aracın işleteni sorumlu olmaz.
++
+.. Yarış düzenleyicileri, yarışa katılanların veya onlara eşlik edenlerin
+araçları ile gösteride kullanılan diğer araçların sebep olacakları zararlardan
+dolayı motorlu araç işletenin sorumluluğuna ilişkin hükümler uyarınca
+sorumludurlar (KTK m.105). Bu hallerde aracın işletenin sorumluluğunun devam
+ettiği söylenebilir.
++
+.. Bir motorlu aracı çalan veya gasbeden kimse işleten gibi sorumlu tutulur.
+Aynı zamanda aracın işleteninin sorumluluğu devam  eder. Fakat işleten,
+kendisinin veya fiillerinden sorumlu olduğu kişilerden birinin, aracın
+çalınmasında veya gasbedilmesine kusurlu olamdığını ispat ederse, sorumluluktan
+kurtulur.
+
+===== bb. İşletenin bağlı olduğu teşebbüs kavramı
+
+İşletenin bağlı olduğu teşebbüs sahibinin işleten sayılmadığı halde ayrı bir
+kişi olarak sorumluluğu, ancak başkasına ait bir aracın gene başkası tarafından
+kendi tasarrufu altında fakat bir teşebbüs için yolcu taşıdığı durumlarda söz
+konusu olacaktır.
+
+KTK m.85/f.1 uyarınca işletenin bağlı olduğu teşebbüs sahibi sayılmak için,
+işletenin hizmet sözleşmesiyle bu kişiye bağlı olması aranmayıp, kira, ortaklık
+veya sadece hatır ilişkisiyle bir teşebbüs için aracını tahsis etmek yeterli
+sayılacaktır. Maddedeki “bağlılık” kelimesi, tabi olmak değil, ilişki içinde
+bulunmak olarak anlaşılmalıdır. Bu sonucun doğması için aracın bu şartlar
+altında bir kez işletilmesi yeterli olup süreklilik aranmaz.
+
+==== 4. Tazminata ilişkin diğer esaslar
+
+.. Tehlike esasına dayanan bir kusursuz sorumluluk söz konusu olduğu için,
+tazminatın belirlenmesinde kusurun ağırlık derecesinin tazminatı etkilemesi söz
+konusu değildir. Ancak, işletenin ve bağlı olduğu teşebbüs sahibinin munzam
+kusuru, onun mücbir sebebe veya mağdurun ya da üçüncü şahsın ağır kusuruna
+dayanarak sorumluluktan kurtulmasına engel olur. İşletenin fiillerinde sorumlu
+olduğu kişilerin kusuru da aynı etkiyi yapar (KTK m.86/f.1).
++
+Mağdurun kusuru ise, tazminatın indirilmesine imkan verebilir. Bu husus durum
+ve şartlara göre hakim tarafından takdir edilecektir (KTK m.86/f.2). Tazminatın
+tarzı ve kapsamı TBK m.51 hükümlerine tabidir.
++
+.. Kanunda, işletenin KTK m.85/f.1 kapsamına giren sorumlulukları için mali
+sorumluluk sigortası yaptırma zorunluluğu kabul edilmiştir (KTK m.91). Zarar
+gören, zorunlu mali sorumluluk sigortasında öngörülen sınırlar içinde doğrudan
+doğruya sigortacıdan talepte bulunabilir ve gerekirse sigortacıya karşı dava
+açabilir (KTK m.97).
++
+.. Tazminat davasında yetkili mahkeme için KTK m.110'da özel bir hükme yer
+verilmiştir.
++
+KTK m.110: Motorlu araç kazalarından dolayı hukuki sorumluluğa ilişkin davalar,
+sigortacının merkez veya şubesinin veya sigorta sözleşmesini yapan acentenin
+bulunduğu yer mahkemelerinden birinde açılabileceği gibi, kazanın vuku bulduğu
+yer mahkemesinde de açılabilir.
++
+.. Zarardan birden fazla kişinin sorumlu olması halinde uygulanacak hükümler de
+KTK m.88 ve 89'da özel olarak düzenlendiği gibi, sigortacının sigorta ettirene
+rücu etmesi de KTK m.95/f.2'de düzenlenmiştir.
++
+.KTK m.88
+....
+f.1 - Bir motorlu aracın katıldığı bir kazada, bir üçüncü kişinin uğradığı
+zarardan dolayı, birden fazla kişi tazminatla yükümlü bulunuyorsa, bunlar
+müteselsil olarak sorumlu tutulur.  
+f.2 - Birden fazla kişinin sorumlu olduğu durumlarda, bunlar arasındaki ilişki
+bakımından zarar, olayın bütün şartları değerlendirilerek paylaştırılır. Özel
+durumlar ve özellikle araçlarınişletme tehlikeleri, zararın iç ilişkide başka
+türlü paylaştırılmasını haklı göstermedikçe, işletenler ve araç işleticisinin
+bağlı olduğu teşebbüs sahipleri kusurları oranında zarara katlanırlar.
+....
++
+.KTK m.89
+....
+f.1 - Birden çok motorlu aracın katıldığı bir kazada işletenlerden biri
+bedensel bir zarara uğrarsa, özel durumlar ve özellikle işletme tehlikeleri
+başka türlü paylaştırmayı haklı göstermedikçe, kazaya katılan araçların
+işletenleri ve araç işleticisinin bağlı olduğu teşebbüs sahipleri kendilerine
+düşen kusur oranında, zararı gidermekle yükümlüdürler.  
+f.2 - İşletenlerden ve araç işleticisinin bağlı olduğu teşebbüs sahiplerinden
+birine ait bir şeyin zarara uğraması halinde, zarar gören, ancak zarar veren
+işletenin veya araç işleticisinin bağlı olduğu teşebbüs sahibinin veya
+eylemlerinden sorumlu tutulduğu kimsenin kusuru veya geçici olarak temyiz
+gücünü kaybetmesi veya zarar verene ait araçtaki bir bozukluk yüzünden zararın
+vuku bulduğunu ispat etmesi halinde zarar veren işleten veya işleticinin bağlı
+olduğu teşebbüs sahibi tazminatla yükümlü tutulur.  
+f.3 - Tazminatla yükümlü olan işletenler veya işleticinin bağlı olduğu teşebbüs
+sahipleri zarar gören işletene veya işleticinin bağlı olduğu teşebbüs sahibine
+karşı müteselsilen sorumludurlar.
+....
++
+.KTK m.95
+....
+f.2 - Ödemede bulunan sigortacı, sigorta sözleşmesine ve bu sözleşmeye ilişkin
+kanun hükümlerine göre, tazminatın kaldırılmasını veya azaltılmasını
+sağlayabileceği oranda sigorta ettirene başvurabilir.
+....
++
+.. İşletenin ve bağlı olduğu teşebbüs sahibinin KTK m.85/f.1 uyarınca
+sorumluluğunda zamanaşımı KTK m.109 hükmüne tabidir.
++
+.KTK m.109
+....
+f.1 - Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin
+talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten
+başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde
+zamanaşımına uğrar.  
+f.2 - Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için
+daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat
+talepleri için de geçerlidir.  
+f.3 - Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da
+kesilmiş olur. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü
+bakımından da kesilmiş sayılır.  
+f.4 - Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu
+hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek
+kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.  
+f.5 - Diğer hususlarda, genel hükümler uygulanır.  
+....
+++
+.. İşletenin ve bağlı bulunduğu teşebbüs sahibinin KTK m.85/f.1 kapsamındaki
+sorumluluğunu kaldıran veya daraltan anlaşamalar KTK m.111/f.1 uyarınca
+geçersizdir.
++
+.KTK m.111
+....
+f.1 - Bu Kanunla öngörülen hukuki sorumluluğu kaldıran veya daraltan anlaşmalar
+geçersizdir.  
+f.2 - Tazminat miktarlarına ilişkin olup da,yetersiz veya fahiş olduğu açıkça
+belli olan anlaşmalar veya uzlaşmalar yapıldıkları tarihten başlayarak iki yıl
+içinde iptal edilebilir.
+....
+
+==== 5. Kazaya karışan aracın devrinin önlenmesi
+
+.KTK m.85
+....
+f.2 - Motorlu araç ölüme veya yaralanmaya sebebiyet vermiş ise, kazaya karışan
+aracın başkalarına devir ve temliki veya üzerinde bir hak tesisini önlemek
+amacıyla olaya el koyan Cumhuriyet Savcılıklarınca, aracın tescilli olduğu
+tescil kuruluşuna trafik kaydı üzerine şerh düşülmesi için talimat verilir.
+Kaza anı ile Cumhuriyet Savcılığınca trafik kaydı üzerine şerh düşülmesi
+arasında geçen süreler içinde kötü niyetle yapılan araç tescilleri hükümsüz
+sayılır. Şerhin konulduğu tarihten itibaren bir ay içerisinde, şerhin
+kaldırıldığına veya devamına ilişkin mahkeme kararı ibraz edilmediği takdirde
+bu şerh hükümsüz sayılır.
+....
+
+Görüldüğü üzere, bu hükümde, belirli bir süre için savcılık kararıyla tasarruf
+yetkisinin sınırlanması imkanı geitirilmiştir. Ayrıca, bu karar bir tür geçmişe
+etkili olmakta, kaza anından savcılık kararı alınması ve bu kararın sicile
+tesciline kadar, kötü niyetle yapılan araç devir ve tescilleri geçersiz
+sayılmaktadır. Kötü niyet ile kastedilenin, kazaya karışan araç sahibi ile
+aracı devralan veya üzerinde rehin hakkı kazanan kişinin kazadan doğacak üçüncü
+kişilere ait hakların kullanılmasını önlemek maksadıyla anlaşarak bu işlemi
+yapmaları olduğu kabul edilmelidir. 
+
+Şerhin konulmasından itibaren bir ay geçmesi üzerine, o tarihe kadar, tasarruf
+yetkisini kısıtlayan bir mahkeme kararı sicile ibraz edilmez ise, şerh
+kendiliğinden hükümsüzleşecek ve kazaya karışan araç maliki bu araç üzerinde
+geçerli şekilde tasarruf işlemi yapabilecektir.
+
+=== II. İŞLETİLME HALİNDE OLMAYAN ARACIN SEBEP OLDUĞU TRAFİK KAZASINDAKİ SORUMLULUK
+		
+==== 1. İşletilme halinde olmayan araçtan doğan sorumluluğun şartları
+
+.. Bir kimse ölmüş veya yaralanmış veya bir mal zarara uğramış olmalıdır. 
+
+.. Zarar, işletme halinde olmayan bir motorlu aracın sebep olduğu bir trafik
+kazasından doğmuş olmalıdır.
+
+.. Kazanın oluşumunda işletenin veya fiillerinden sorumlu tutulduğu kişilerin
+kusuru bulunmalı veya kazaya araçtaki bir bozukluk yol açmış olmalıdır.
+
+==== 2. Tazminata ilişkin diğer esaslar
+	
+.. Mağdurun kusuru tazminatın tenkisine imkan verebilir.
+
+.. İşletilme halinde olmayan araçtan sorumluluk, zorunlu mali sorumluluk
+sigortası kapsamında değildir.
+
+.. İşletilme halinde olmayan araçtan dolayı sorumluluğa dayanan tazminat
+davalarında yetkili mahkemenin tayininde KTK m.110'un bir etkisi olmaz. Zira
+zarar mali sorumluluk sigortası kapsamı dışındadır.
+
+.. Zarardan birden fazla kişinin sorumlu olması halinde KTK m.88 ve 89'daki
+hükümler burada da uygulanır.
+
+..  İşletilme halinde olmayan araçtan dolayı sorumluluğa dayanan taleplerin
+zamanaşımı da KTK m.109 hükmüne tabidir.
+
+.. Sorumluluğa ilişkin anlaşmalar için KTK m.111'de yer alan hükümler, burada
+da dikkate alınmalıdır.
+
+=== III. TRAFİK KAZASINDA YARDIM EDENLERİN 	ZARARLARINDAN SORUMLULUK
+		
+==== 1. Yardım edenlerin zararlarından doğan sorumluluğun dayanağı
+
+Burada kusurlu veya kusursuz bir haksız fiil sorumluluğundan çok, vekaletsiz iş
+görmenin özel bir tipinde işi görülenin yükümlülüğü söz konusudur. Kanun,
+işletenin ve bağlı olduğu teşebbüsü sahibinin trafik kazasından sorumlu olduğu
+hallerde yardıma gelerek bu zararı sınırlandırmaya çalışmış olanlara, işletenin
+bağlı olduğu teşebbüs sahibinin sorumluluğu bakımından doğrudan doğruya
+teşebbüs sahibine veya aracındakilere yardıma çalışmış olanların; bu yardım
+çalışmaları sebebi ile uğradıkları zararların, yardım edilen işleten ve bağlı
+olduğu teşebbüs sahibi tarafından, hakkaniyet çerçevesinde hakimin takdir
+edeceği miktarda, tazmin edilmesini öngörmektedir.
+		
+==== 2. Yardım edenlerin zararlarından doğan sorumluluğun uygulanma alanı	
+
+Bu özel hüküm trafik kazasında yardım edenlerin yardım dolayısıyla uğradıkları
+zararların, yardımdan yararlanan araç işleteni ve işletici teşebbüs sahibi
+tarafından tazmin edilmesini kapsamaktadır. Yardımda bulunma, kendiliğinden
+vuku bulunmuş olabileceği gibi, talep üzerine veya önceki bir taahhüt gereği de
+vuku bulmuş olabilir.
+
+==== 3. Yardım edenlerin zararlarından doğan sorumluluğun şartları
+		
+.. Bir trafik kazasında bir kimse yardım çalışmasında bulunmuş olmalıdır. 
+
+.. Trafik kazasına, yardımdan yararlanan işletenin aracı katılmılş olmalıdır.
+
+.. Yardım eden yardım çalışmalarından dolayı bir zarara uğramış olmalıdır.
++
+Uğranılan zarar, yardım çalışması sırasında meydana gelmiş olabileceği gibi,
+yardım sebebiyle de meydana gelmiş olabilir. 
++
+Yardım dolayısıyla yardım edenin yaptığı masraflar zarar kavramına girmezse de
+bu masrafları, kendiliğinden yardım edenler TBK m.413, borç ilişkisi uyarınca
+yardım edenler TBK m.394 uyarınca talep edebilirler.
++
+.. Hakim bütün hal ve şartları dikkate alarak, işletenin trafik kazasından
+yardım edenin zararını tazmin etmesi gerektiği sonucuna varmalıdır.
+
+==== 4. Tazminata ilişkin diğer esaslar 
+
+.. Tazminatın tayini hakimin takdirine bırakılmıştır. Hakim, işletenin ve
+işletici teşebbüs sahibinin yardımdan yararlanma derecesini, yardımda bulunanın
+zarara uğramada kendi kusuru bulunup bulunmadığını ve diğer bütün hal ve
+şartları dikkate alarak tazminat miktarını tayin edecektir.
+
+.. Yardım edenlerin zararlarından dolayı sorumluluk, zorunlu mali sorumluluk
+sigortası kapsamında değildir.
+
+.. Yetkili mahkeme tayininde KTK m.110'un etkisi olmaz.
+
+.. Bir yardımdan birden fazla işleten veya işletici teşebbüs sahibi
+yararlanmışsa, bunlar zarardan müteselsilen sorumlu olurlar. Kendi aralarında
+rücu sorununu çözümünde KTK m.88 ve 89 kıyasen uygulanabilir.  
+
+.. Zamanaşımı KTK m.109 hükmüne tabidir.
+
+.. Sorumluluğa ilişkin anlaşmalar için KTK m.111 dikkate alınmalıdır.
+
+=== IV. GENEL HÜKÜMLERE TABİ TUTULAN SORUMLULUKLAR 
+
+.. Trafik kazalarında manevi tazminat konusunda TBK m.56 uygulanacaktır.  
+.. Yaralanan veya ölen kişi hatır için karşılıksız taşınmakta ise veya motorlu
+araç yaralanan veya ölen kişiye karşılıksız verilmişse, işletenin ve bağlı
+olduğu teşebbüs sahibinin sorumluluğu için şartları gerçekleştirdiği takdirde
+TBK m.49 ve 66 uygulanacaktır.  
+.. Trafik kazasında zarar gören motorlu araç işleteninin ve bağlı olduğu
+teşebbüs sahibinin malike karşı sorumluluğu aralarındaki borç ilişkisinin
+hükümlerine tabidir.
+.. Trafik kazasında zarar görenin beraberinde bulunan bagaj ve benzeri eşya
+dışında araçta taşınan eşyanın uğradığı zararlardan dolayı sorumluluk ve trafik
+kazası yüzünden mala verilen zarar dışındaki malvarlığı zararlarından
+sorumluluk için şartları gerçekleştiği takdirde TBK m.49 ve 66 uygulanacaktır.
+
+== 3- ÇEVRE KANUNUNA GÖRE ÇEVREYİ KİRLETENİN SORUMLULUĞU
+
+=== I. ÇEVRE KANUNUN 28. MADDESİNDE	DÜZENLENEN SORUMLULUK
+		
+.ÇK m.28
+....
+f.1 - Çevreyi kirletenler ve çevreye zarar verenler sebep oldukları kirlenme ve
+bozulmadan doğan zararlardan dolayı kusur şartı aranmaksızın sorumludurlar.  
+f.2 - Kirletenin, meydana gelen zararlardan ötürü genel hükümlere göre de
+tazminat sorumluluğu saklıdır.  
+f.3 - Çevreye verilen zararların tazminine ilişkin talepler zarar görenin
+zararı ve tazminat yükümlüsünü öğrendiği tarihten itibaren beş yıl sonra
+zamanaşımına uğrar. 
+....
+
+==== 1. Sorumluluğun uygulanma alanı
+
+ÇK m.28'de düzenlenen kusursuz sorumluluk, hükmün metninde de ifadesini bulan
+amacı ile sınırlıdır. Buradaki sorumluluk, çevrenin kirletilmesi ve
+bozulmasından doğan zararlar içindir. Bunun dışında kalan durumlar, hükmün
+kapsamına girmez.
+
+.ÇK m.2
+....
+Çevre: Canlıların yaşamları boyunca ilişkilerini sürdürdükleri ve karşılıklı
+olarak etkileşim içinde bulundukları biyolojik, fiziksel, sosyal, ekonomik ve
+kültürel ortamı, 
+Çevre kirliliği: Çevrede meydana gelen ve canlıların sağlığını, çevresel
+değerleri ve ekolojik dengeyi bozabilecek her türlü olumsuz etkiyi, 
+Kirleten: Faaliyetleri sırasında veya sonrasında doğrudan veya dolaylı olarak
+çevre kirliliğine, ekolojik dengenin ve çevrenin bozulmasına neden olan gerçek
+ve tüzel kişileri ifade eder.
+....
+
+Çerçeveyi kirletmeden söz edebilmek için ilgili yönetmeliklerde belirlenen
+standartlara ve yöntemlere aykırı davranılmış olmalıdır. Şayet bu standartlara
+ve yöntemlere uyulmuş ise “kirletme” söz konusu olmaz, buna rağmen bir zarar
+verilmemişse, bu zarardan sorumluluk ÇK m.28 kapsamına girmez.
+		
+==== 2. Sorumluluğun şartları
+		
+.. Bir kimse zarara uğramış olmalıdır. Zarar maddi olabileceği gibi manevi de
+olabilir. Zarar gören, bir gerçek kişi olabileceği gibi bir özel hukuk tüzel
+kişisi veya kamu tüzel kişisi de olabilir.
+
+.. Zarara, bir kişinin, çevreyi kirletmiş olması sebep olmalıdır. Bu şartın
+gerçekleşmesi için bir kişi çevreyi kirletmiş olmalı ve çevre kirlenmesi ile
+zarar arasında uygun nedensellik bağı bulunmalıdır.
+
+.. Yönetmeliği bulunmayan konularda bir standart ve yöntem söz konusu
+olmadığından, kirlenme şartlarını hakim takdir edecektir.
+
+.. Çevreyi kirletme halinde kirletmenin ÇK'ya aykırılığı sebebiyle hukuka
+aykırılık unsuru gerçekleştiği için ayrıca fiilin hukuka aykırılığının
+araştırılması söz konusu değildir.  Çevreyi kirletme, aktif bir davranış
+tarzında olabileceği gibi yapması gerekeni yapmama tarzında da olabilir.
+Gerekli önlemlerin alınmamış olması böyledir. Bir kimsenin çalıştırdığı
+kişilerin çevreyi kirletmesi halinde de, çevre kirliliğine adam çalıştıran
+sebep olmuş demektir. TBK m.66'nın uygulanmasına gerek yoktur. 
++
+Davalı, kirlenmenin başka yerden kaynaklandığını ispat ederse sorumluluktan
+kurtulur. Çevre kirlenmesi kendi işletmesinden kaynaklanmasına rağmen bunun bir
+mücbir sebep ya da mağdurun veya üçüncü şahsın ağır kusuru sonucu
+gerçekleştiğini ispat ederek davalının sorumluluktan kurtulup kurtulamayacağı
+hususunda kanunda bir açıklık yoktur. Bu hallerde kirlenmeye bu olguların sebep
+olduğu kabul edilebilir.
+
+==== 3. Tazminata ilişkin diğer esaslar
+
+.. Sorumluluk kusur aranmayan bir sorumluluk olduğu için kusurun derecesi de
+tazminatın belirlenmesinde rol oynamaz. Fakat davalının kusuru da varsa, bu
+munzam kusur tazminatın indirilmesine imkan verecek sebeplerin dikkate
+alınmasına engel olabileceği gibi, birden fazla sorumlu varsa, rücu konusunda
+da etkili olabilir.
+
+.. Kusur derecesi göz önüne alınmazsa da, hakimin tazminatı belirlerken durumun
+gereğine göre bu belirlemede bulunmasını öngören TBK m.51/f.1 hükmünün, ÇK
+m.28'e dayanan tazminat davalarında özel bir önem taşıyacağı öğretide ifade
+edilmektedir. Özellikle, işletmelerin çok büyük tazminat ödeme ihtimallerinin
+iş hayatını ve yatırımları olumsuz yönde etkilemesini bir derece önlemek üzere,
+hakimin tazminatı belirlerken ÇK m.3'de genel ilkeler arasında ifade edilen
+“sürdürülebilir kalkınma ilkeleri”ni dikkate alması uygun görülmektedir.
+
+.. Davalının kusuru bulunmadğı takdirde, hükmedilecek tazminatın TBK m.52
+hükümlerine göre tenkisi mümkündür.
+
+.. Zamanaşımı açısından ÇK m.28/f.3 uygulanacaktır. Şayet kirletme fiili
+süreklilik arzediyorsa, bu fiil sona ermeden hiçbir zamanaşımı işlemeye
+başlamaz.
+
+.. Zarardan başka kişiler de kirleten sıfatıyla veya başka sebeplerle sorumlu
+iseler, bunların birbirine rücu imkanını TBK m.62 uyarınca hakim belirler.
+
+.. Çevreyi kirleten meydana gelen zarardan başka sebeplerle de sorumlu ise bu
+sorumluluklara dayanan tazminat talepleri, ÇK m.28'e dayanan tazminat talebi
+ile yarışabilir.

@@ -1,0 +1,2629 @@
+:icons: font
+
+== CİNSEL SALDIRI
+
+====
+*TCK 102*: (1) Cinsel davranışlarla bir kimsenin vücut dokunulmazlığını ihlâl
+eden kişi, mağdurun şikâyeti üzerine, beş yıldan on yıla kadar hapis cezası ile
+cezalandırılır. Cinsel davranışın sarkıntılık düzeyinde kalması hâlinde iki
+yıldan beş yıla kadar hapis cezası verilir.
+
+(2) Fiilin vücuda organ veya sair bir cisim sokulması suretiyle
+gerçekleştirilmesi durumunda, on iki yıldan az olmamak üzere hapis cezasına
+hükmolunur. Bu fiilin eşe karşı işlenmesi hâlinde, soruşturma ve kovuşturmanın
+yapılması mağdurun şikâyetine bağlıdır.
+
+(3) Suçun;
+
+.. Beden veya ruh bakımından kendisini savunamayacak durumda bulunan kişiye
+karşı,
+.. Kamu görevinin, vesayet veya hizmet ilişkisinin sağladığı nüfuz kötüye
+kullanılmak suretiyle,
+.. Üçüncü derece dâhil kan veya kayın hısımlığı ilişkisi içinde bulunan bir
+kişiye karşı ya da üvey baba, üvey ana, üvey kardeş, evlat edinen veya evlatlık
+tarafından,
+.. Silahla veya birden fazla kişi tarafından birlikte,
+.. İnsanların toplu olarak bir arada yaşama zorunluluğunda bulunduğu ortamların
+sağladığı kolaylıktan faydalanmak suretiyle,
+
+işlenmesi hâlinde, yukarıdaki fıkralara göre verilen cezalar yarı oranında
+artırılır.
+
+(4) Cinsel saldırı için başvurulan cebir ve şiddetin kasten yaralama suçunun
+ağır neticelerine neden olması hâlinde, ayrıca kasten yaralama suçuna ilişkin
+hükümler uygulanır.
+
+(5) Suç sonucu mağdurun bitkisel hayata girmesi veya ölümü hâlinde,
+ağırlaştırılmış müebbet hapis cezasına hükmolunur.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Cinsel saldırı suçuyla korunan hukuki değer, *bireyin cinsel özgürlüğüdür*.
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+.. *FAİL*: Cinsel saldırı suçu, faili bakımından bir özellik arz etmez ve
+herkes tarafından işlenebilir. 
++
+Failin belirli kimseler olması cezanın arttırılmasını gerektiren nitelikli hal
+olarak düzenlenmiştir (TCK 103/3-b,c).
+.. *MAĞDUR*: Suçun mağduru yetişkin herkes olabilir. 
++
+Suçun nitelikli hali eşe karşı da işlenebilir. Kanun koyucu nitelikli cinsel
+saldırıyı teşkil eden hareketlerin evlilik birliği içinde gerçekleştiği
+hallerde soruşturma ve kovuşturma yapılmasını diğer eşin şikayetine bağlı
+tutmuştur.
+.. *SUÇUN KONUSU*: Cinsel davranışlardan etkilenen kişinin vücududur.
+.. *FİİL*: Cinsel saldırının temel şekli, *vücut dokunulmazlığını ihlal eden
+cinsel davranışlarla* tamamlanan sırf hareket suçudur. Dolayısıyla suçun
+tamamlanması için herhangi bir neticenin gerçekleşmesi aranmamıştır.
+
+==== TİPİKLİĞİN MANEVİ UNSURLARI
+
+Tipikliğin manevi unsuru *kasttır*. Suçun taksirle işlenmesi mümkün değildir.
+Kast, suçun kanuni tarifindeki unsurların bilerek gerçekleştirilmesini ifade
+etmektedir (TCK 21/1). Buna göre failin kastı; mağduru, cinsel davranışı ve
+vücut dokunulmazlığının ihlalini kapsamalıdır. 
+
+==== SUÇUN HUKUKA AYKIRILIK UNSURU
+
+Cinsel dokunulmazlık kişinin üzerinde tasarrufta bulunabileceği hukuki değerler
+kategorisinde yer aldığından, *ilgilinin rızası*, hukuki sınırlar içinde kalmak
+kaydıyla cinsel davranışları hukuka uygun hale getirecektir. İlgilinin
+rızasının fiili hukuka uygun hale getirebilmesi, ilgilinin rıza göstermeye ehil
+olması, fiilin icrasından önce verilmiş olması ve gerçekleştirilen davranışın
+rızanın sınırları içinde kalmış olmasına bağlıdır.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+==== CEZADA ARTIRIM YAPILMASINI GEREKTİREN NİTELİKLİ HALLER
+
+.. Suçun *vücuda organ veya sair cisim sokulması* suretiyle işlenmesi
+.. Suçun *beden veya ruh bakımından kendisini savunamayacak kişiye karşı*
+işlenmesi
+.. Suçun *kamu görevinin veya hizmet ilişkisinin sağladığı nüfuzu kötüye
+kullanmak* suretiye işlenmesi
+.. Suçun *üçüncü derece dahil kan veya kayın hısımlığı ilişkisi içinde bulunan
+bir kişiye karşı* işlenmesi ya da fiilin *üvey baba, üvey ana, üvey kardeş,
+evlat edinen veya evlatlık tarafından* işlenmesi
+.. Suçun *silahla* veya *birden fazla kişi tarafından birlikte* işlenmesi
+.. Suçun *insanların toplu olarak bir arada yaşama zorunluluğunun bulunduğu
+ortamların sağladığı kolaylıktan faydalanmak suretiyle* işlenmesi
+
+==== CEZADA İNDİRİM YAPILMASINI GEREKTİREN NİTELİKLİ HALLER
+
+TCK 102'de cinsel davranışın *sarkıntılık düzeyinde kalması* daha az
+cezalandırılmayı gerektiren nitelikli hal olarak düzenlenmiştir. 
+
+Vücut dokunulmazlığını ihlal etmeyen bir davranışın, ne kadar ısrarcı olursa
+olsun cinsel saldırı olarak nitelendirilmesi ve dolayısıyla sarkıntılık
+kapsamında değerlendirilmesi mümkün değildir. Buna göre, sarkıntılık her
+halükarda vücut dokunulmazlığını ihlal eden davranışlar şeklinde tezahür
+edebilir. 
+
+Bir cinsel saldırının, ısrarcı bir hal almadığı, basit bir düzeyde kaldığı, ani
+ve kesintili hareketlerle gerçekleştirildiği hallerde sarkıntılık düzeyinde
+kaldığı söylenebilir. 
+
+TIP: Bir cinsel saldırının sarkıntılık düzeyinde kalıp kalmadığı, cinsel
+davranışın işleniş şekline göre fiilden sonra yapılacak bir değerlendirmeye
+göre belirlenmelidir. Dolayısıyla henüz cinsel saldırının tamamlanmadığı
+hallerde, bu nitelikli halin uygulanması mümkün değildir.
+
+=== SUÇUN NETİCESİ SEBEBİYE AĞIRLAŞMIŞ HALLERİ
+
+Cinsel saldırı sonucunda *mağdurun bitkisel hayata girmesi veya ölmesi*
+neticesi sebebiyle ağırlaşmış hal olarak muhafaza edilmiştir (TCK 102/5).
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Suçun temel şekli, cinsel saldırı bakımından doğrudan doğruya icraya başlama
+niteliğindeki harketlerin icrasına başlanıp failin elinde olmayan nedenlerle
+tamamlanamadığı hallerde teşebbüs aşamasında kalmış olacaktır.
+
+Vücuda organ veya sair cisim sokma suretiyle işlenen cinsel saldırı, cinsel
+saldırının nitelikli hali olduğu için bu nitelikli hal gerçekleşmedikçe failin
+bundan dolayı sorumluluğuna gidilemez.
+
+Cinsel saldırının icrasına başlandıktan sonra gönüllü olarak icra
+hareketlerinden vazgeçen fail bu suça teşebbüsten dolayı
+cezalandırılmayacaktır. Gönüllü vazgeçme anına kadar gerçekleştirilen
+hareketler başka bir suçu oluşturuyorsa, fail sadece bu suçtan dolayı
+cezalandırılacaktır.
+
+Neticesi sebebiyle ağırlaşmış suçlara teşebbüs kabul edilmemektedir.
+
+==== İŞTİRAK
+
+Cinsel saldırının temel şekli bakımından cinsel arzuları tatmin amacıyla vücut
+dokunulmazlığını ihlal eden davranışları gerçekleştiren kişi faildir. Bu
+davranışları birlikte suç işleme kararının icrası kapsamında gerçekleştirenler
+*müşterek fail* olarak sorumlu tutulacaklardır. Cinsel saldırı suçunda müşterek
+failliğin kabul edilebilmesi, failin mutlaka cinsel bir hareketi icra etmesine
+bağlı değildir. Suçun icrasına yönelik katkıyla fiil üzerinde fonksiyonel
+anlamda hakimiyet kuran kişiler de fail olarak cezalandırılacaklardır.
+
+Cinsel saldırının, gerek temel şeklinin gerekse nitelikli şeklinin birlikte suç
+işleme kararının icrası kapsamında fiil üzerinde fonksiyonel hakimiyet kurmak
+suretiyle birden çok kişi tarafından birlikte işlenmesi cezanın artırılmasını
+gerektiren nitelikli hal olarak kabul edilmiştir (TCK 102/3-d).
+
+Faile, cinsel saldırada bulunma konusunda karar verdiren kişi *azmettiren*,
+cinsel saldırının icrasını kolaylaştıracak yardımlarda bulunanlar ise *yardım
+eden* olarak sorumlu olacaktır.
+
+==== İÇTİMA
+
+Cinsel saldırı mağdur üzerinde cebir ve tehdit kullanarak icra edildiğinde,
+cebir ve tehdit suçun unsuru olduğundan, fail ayrıca tehdit ve cebir kullanma
+suçlarında cezalandırılmaz. Ancak cinsel saldırıda bulunmak için kullanılan
+cebrin kasten yaralamanın neticesi sebebiyle ağırlaşmış hallerine yol açması
+halinde, fail ayrıca kasten yaralamadan dolayı cezalandırılacaktır (TCK 102/4).
+
+Cinsel saldırının temel ve nitelikli şeklini gerçekleştirmek üzere bir kişinin
+hürriyetinden yoksun bırakıldığı hallerde, gerçek içtima hükümleri uygulanarak,
+fail, hem cinsel saldırıdan hem de kişiyi hürriyeti yoksun kılma suçundan
+cezalandırılacaktır (TCK 109/5).
+
+CAUTION: Sırf cinsel saldırı fiilinin zorunlu sonucu olarak saldırı süresince
+kişinin özgürlüğünün kısıtlanması halinde, kişiyi özgürlüğünden yoksun kılma
+suçu oluşmaz. Zira bu durumda failin kişinin özgürlüğünü kısıtlama kastı
+bulunmadığı gibi, özgürlük kısıtlaması işlenen suçun zorunlu sonucudur.
+
+Fail cinsel saldırı suçunu işlemek için mağdurun konutuna girmişse, ayrıca
+konut dokunulmazlığına ihlalden de sorumlu olur.
+
+Cinsel saldırı teşkil eden hareketlerin bir suç işleme kararının icrası
+kapsamında değişik zamanlarda aynı kişiye yönelik olarak birden fazla
+gerçekleştirilmesi halinde *zincirleme suç hükümleri* uygulanır. Bir suçun
+temel şekli ile daha ağır veya daha az cezayı gerektiren nitelikli şekilleri
+aynı suç kapsamında değerlendirileceğinden (TCK 43/1), failin bir suç işleme
+kararının icrası kapsamında önce cinsel saldırının temel şeklini daha sonra
+nitelikli şeklini gerçekleştirdiği hallerde, zincirleme suç hükümleri
+uygulanacaktır. Buna karşılık, cinsel saldırının temel ve nitelikli şekli ile
+neticesi sebebiyle ağırlaşmış şekilleri arasında zincirleme suç ilişkisi
+kurulamaz. Zira neticesi sebebiyle ağırlaşmış suç, bağlı olduğu temel suç
+tipine göre ayrı bir haksızlığın ortaya çıkması durumudur.
+
+NOTE: Cinsel saldırının temel veya nitelikli şekli ile neticesi sebebiyle
+ağırlaşmış şekli arasında *görünüşte içtima* ilişkisi söz konusudur. Cinsel
+saldırının temel veya nitelikli şekli genel norm, neticesi sebebiyle ağırlaşmış
+cinsel saldırı ise özel normdur. Dolayısıyla özel norm, genel norma ilişkin
+unsurların yanı sıra ek özel bir unsuru da içerdiğinden öncelikle
+uygulanacaktır. Bu gibi hallerde fail sadece özel normun ihlalini oluşturan
+haksızlıktan dolayı, yani sadece neticesi sebebiyle ağırlaşmış cinsel
+saldırıdan dolayı cezalandırılacaktır. 
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Cinsel saldırı suçunun temel şeklinin soruşturulması ve kovuşturulması mağdurun
+şikayetine bağlıdır.
+
+Cinsel saldırının cezanın artırılmasını gerektiren nitelikli şekli, eşler
+arasında işlenen dışında, re'sen soruşturma ve kovuşturmaya tabidir.
+
+<<<
+
+== ÇOCUKLARIN CİNSEL İSTİSMARI
+
+====
+*TCK 103*: *(Yeniden düzenlenen birinci ve ikinci cümle: 24/11/2016-6763/13
+md.)* Çocuğu cinsel yönden istismar eden kişi, sekiz yıldan on beş yıla kadar
+hapis cezası ile cezalandırılır. Cinsel istismarın sarkıntılık düzeyinde
+kalması hâlinde üç yıldan sekiz yıla kadar hapis cezasına hükmolunur. *(Ek
+cümle: 24/11/2016-6763/13 md.)* Mağdurun on iki yaşını tamamlamamış olması
+hâlinde verilecek ceza, istismar durumunda on yıldan, sarkıntılık durumunda beş
+yıldan az olamaz.  Sarkıntılık düzeyinde kalmış suçun failinin çocuk olması
+hâlinde soruşturma ve kovuşturma yapılması mağdurun, velisinin veya vasisinin
+şikâyetine bağlıdır. Cinsel istismar deyiminden;
+
+.. On beş yaşını tamamlamamış veya tamamlamış olmakla birlikte fiilin hukuki
+anlam ve sonuçlarını algılama yeteneği gelişmemiş olan çocuklara karşı
+gerçekleştirilen her türlü cinsel davranış,
+.. Diğer çocuklara karşı sadece cebir, tehdit, hile veya iradeyi etkileyen
+başka bir nedene dayalı olarak gerçekleştirilen cinsel davranışlar, anlaşılır.
+
+(2) *(Yeniden düzenleme: 24/11/2016-6763/13 md.)* Cinsel istismarın vücuda
+organ veya sair bir cisim sokulması suretiyle gerçekleştirilmesi durumunda, on
+altı yıldan aşağı olmamak üzere hapis cezasına hükmolunur. Mağdurun on iki
+yaşını tamamlamamış olması hâlinde verilecek ceza on sekiz yıldan az olamaz.
+
+(3) Suçun;
+
+.. Birden fazla kişi tarafından birlikte,
+.. İnsanların toplu olarak bir arada yaşama zorunluluğunda bulunduğu ortamların
+sağladığı kolaylıktan faydalanmak suretiyle,
+.. Üçüncü derece dâhil kan veya kayın hısımlığı ilişkisi içinde bulunan bir
+kişiye karşı ya da üvey baba, üvey ana, üvey kardeş veya evlat edinen
+tarafından,
+.. Vasi, eğitici, öğretici, bakıcı, koruyucu aile veya sağlık hizmeti veren ya
+da koruma, bakım veya gözetim yükümlülüğü bulunan kişiler tarafından,
+.. Kamu görevinin veya hizmet ilişkisinin sağladığı nüfuz kötüye kullanılmak
+suretiyle, işlenmesi hâlinde, yukarıdaki fıkralara göre verilecek ceza yarı
+oranında artırılır.
+
+(4) Cinsel istismarın, birinci fıkranın (a) bendindeki çocuklara karşı cebir
+veya tehditle ya da (b) bendindeki çocuklara karşı silah kullanmak suretiyle
+gerçekleştirilmesi hâlinde, yukarıdaki fıkralara göre verilecek ceza yarı
+oranında artırılır.
+
+(5) Cinsel istismar için başvurulan cebir ve şiddetin kasten yaralama suçunun
+ağır neticelerine neden olması hâlinde, ayrıca kasten yaralama suçuna ilişkin
+hükümler uygulanır.
+
+(6) Suç sonucu mağdurun bitkisel hayata girmesi veya ölümü hâlinde,
+ağırlaştırılmış müebbet hapis cezasına hükmolunur.
+====
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+.. *FAİL*: Cinsel istismar suçunun faili herkes olabilir
+.. *MAĞDUR*: Suçun mağduru, erkel veya kız bir *çocuk olabilir*.
++
+Buna göre, *15 yaşını tamamlamamış çocuklar* ile *15 yaşını tamamlamış
+olmakla birlikte fiilin hukuki anlam ve sonuçlarını algılama yeteneği
+gelişmemiş çocuklara* karşı gerçekleştirilen cinsel davranışlar cinsel istismar
+suçunu oluşturmaktadır.
++
+*15-18 yaş grubunda yer alan çocuklara* ise *cebir, tehdit, hile veya iradeyi
+etkileyen başka bir nedene dayalı olarak* gerçekleştirilen cinsel davranışlar
+cinsel istismar suçunu oluşturacaktır. Buna göre, 15 yaşını tamamlamış ve
+algılama yeteneği gelişmiş çocuklara karşı rıza üzerine gerçekleştirilen cinsel
+davranışlar bu madde kapsamında cezalandırılmamaktadır.
+.. *SUÇUN KONUSU*: Cinsel davranışa maruz kalan çocuğun vücududur.
+.. *FİİL*: Cinsel istismar suçu ancak vücut dokunulmazlığını ihlal eden
+hareketlerle işlenebilir. 
+
+==== TİPİKLİĞİN MANEVİ UNSURU
+
+Cinsel istismar suçu ancak kasten işlenebilir. Failin mağduru yaşı konusunda
+yanılgısı kastı kaldırır. 
+
+=== KUSURLULUK
+
+Haksızlık yanılgısı, kaçınılmaz olması halinde, işlemiş olduğu fiilden dolayı
+failin kusurlu sayılmasına ve cezalandırılmasına engel olmaktadır. Yanılgının
+kaçınılabilir olup olmadığı, tamamıyla failin bireysel özellikleri göz önünde
+bulundurularak değerlendirilmesi gereken bir konudur. Onbeş yaşından küçüklerin
+düğün merasimleri ile evlendirildiği hallerde, haksızlık yanılgısına ilişkin
+hüküm uygulanabilir.
+
+Cinsel istismarın, çocuklar tarafından işlendiği hallerde, ergenlik dönemindeki
+bu kişilerin cinsel isteklerine karşı koyabilme konusunda yetişkinlere nazaran
+daha az irade yeteneklerine sahip oldukları göz önünde bulundurulmalıdır.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+==== CEZADA ARTIRIM YAPILMASINI GEREKTİREN NİTELİKLİ HALLER
+
+.. Suçun *vücuda organ veya sair cisim sokulması* suretiyle işlenmesi
+.. Suçun *insanların toplu olarak bir arada yaşama zorunluluğunun bulunduğu
+ortamların sağladığı kolaylıktan faydalanmak suretiyle* işlenmesi
+.. Suçun *üçüncü derece dahil kan veya kayın hısımlığı ilişkisi içinde bulunan
+bir kişiye karşı* işlenmesi ya da fiilin *üvey baba, üvey ana, üvey kardeş,
+evlat edinen veya evlatlık tarafından* işlenmesi
+.. Suçun *vasi, eğitici, öğretici, bakıcı, koruyucu aile veya sağlık hizmeti
+veren ya da koruma, bakım veya gözetim yükümlülüğü bulunan kişiler tarafından*
+işlenmesi
+.. Suçun *kamu görevinin veya hizmet ilişkisinin sağladığı nüfuzu kötüye
+kullanmak* suretiye işlenmesi
+.. Suçun *silahla* veya *birden fazla kişi tarafından birlikte* işlenmesi
+
+==== CEZADA İNDİRİM YAPILMASINI GEREKTİREN NİTELİKLİ HALLER
+
+Cinsel saldırı suçunda olduğu gibi cinsel istismar suçunda da fiilin
+sarkıntılık düzeyinde kalması cezada indirim yapılmasını gerektiren nitelikli
+hal olarak kabul edilmiştir.
+
+=== NETİCESİ SEBEBİYE AĞIRLAŞMIŞ CİNSEL İSTİSMAR
+
+Cinsel istismarın, mağdurun bitkisel hayata girmesine veya ölümüne neden olması
+bu suçun neticesi sebebiyle ağırlaşmış halini oluşturmaktadır.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Elverişli hareketlerle cinsel istismarın nitelikli şeklinin icrasına başlandığı
+ve fakat icra hareketlerinin tamamlanmasından gönüllü vazgeçildiği hallerde,
+failin cinsel istismarın temel şeklinden cezalandırılacağı yönünde istikrar
+kazanmış bir uygulama bulunmaktadır. Bu uygulama, cinsel istismarın nitelikli
+şeklinin ayrı bir suç olarak değerlendirilmesinden kaynaklanmaktadır.
+
+==== İŞTİRAK
+
+Cinsel istismar, iştirak bakımından özellik göstermez. Bununla birlikte, cinsel
+istismarın birden fazla kişi tarafından birlikte gerçekleştirilmesi (müşterek
+faillik) cezada artırım yapılmasını gerektiren nitelikli hal olarak
+düzenlenmiştir. 
+
+==== İÇTİMA
+
+Cinsel istismar için başvurulan cebrin kasten yaralama suçunun ağır
+neticelerine sebep olması halinde *gerçek içtima hükümleri* uygulanarak, cinsel
+istismar ve kasten yaralamanın neticesi sebebiyle ağırlaşmış şeklinden ayrı
+ayrı cezaya hükmolunacaktır (TCK 103/5).
+
+Cinsel istismarın temel şekli ile nitelikli şekilleri ve neticesi sebebiyle
+ağırlaşmış şekilleri arasında *görünüşte içtima* kurallarından genel norm-özel
+norm ilişkisi söz konusudur.
+
+*Zincirleme suç hükümleri*, şartlarının oluşması halinde cinsel istismar suçu
+bakımından da uygulama alanı bulur. Buna göre, bir suç işleme kararının icrası
+kapsamında, aynı çocuğa karşı değişik zamanlarda gerçekleştirilen cinsel
+istismardan doalyı faile tek ceza verilecek ve fakat ceza dörtte birinden
+dörtte üçüne kadar artırılacaktır.
+
+Gerçekleştirilen cinsel istismarın doğal sonucu olan hürriyet kısıtlamaları,
+kişiyi hürriyetinden yoksun kılma suçu kapsamında değerlendirilmez.
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Cinsel istismar, çocuklar tarafından sarkıntılık düzeyinde kalan işleniş şekli
+hariç, re'sen soruşturulan ve kovuşturulan suçlardandır. Cinsel istismarın
+sarkıntılık şeklinde işlenmesinin failinin çocuk olması halinde, bu suçtan
+dolayı soruşturma ve kovuşturma yapılması mağdurun velisinin veya vasisinin
+şikayetine bağlı tutulmuştur.
+
+<<<
+
+== REŞİT OLMAYANLA CİNSEL İLİŞKİ
+
+====
+*TCK 104*: (1) Cebir, tehdit ve hile olmaksızın, onbeş yaşını bitirmiş olan
+çocukla cinsel ilişkide bulunan kişi, şikayet üzerine, iki yıldan beş yıla
+kadar hapis cezası ile cezalandırılır.
+
+(2) *(İptal: Ana.Mah.nin 23/11/2005 tarihli ve E: 2005/103, K: 2005/89 sayılı
+kararı ile; Yeniden düzenleme: 18/6/2014-6545/60 md.)* Suçun mağdur ile
+arasında evlenme yasağı bulunan kişi tarafından işlenmesi hâlinde, şikâyet
+aranmaksızın, on yıldan on beş yıla kadar hapis cezasına hükmolunur.
+
+(3) *(Ek: 18/6/2014-6545/60 md.)* Suçun, evlat edineceği çocuğun evlat edinme
+öncesi bakımını üstlenen veya koruyucu aile ilişkisi çerçevesinde koruma, bakım
+ve gözetim yükümlülüğü bulunan kişi tarafından işlenmesi hâlinde, şikâyet
+aranmaksızın ikinci fıkraya göre cezaya hükmolunur.
+====
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+.. *FAİL*: Suçun faili 18 yaşını doldurmuş herkes olabilir. 15-18 yaş
+grubundaki iki çocuğun karşılıklı rıza çerçevesinde gerçekleştirdikleri cinsel
+ilişki TCK 104'ün ilgi alanına girmemektedir.
+.. *MAĞDUR*: Suçun mağduru, 15-18 yaş grubunda yer alıp cinsel ilişkiye razı
+olan, yani cebir, tehdit ve hile olmaksızın cinsel ilişkiye giren çocuklardır.
+15-18 yaş arasında olmakla birlikte evlenme ya da mahkeme kararıyla reşit
+sayılan kişi ile rızası üzerine girilen cinsel ilişki bu suçu
+oluşturmayacaktır.
+.. *SUÇUN KONUSU*: Suçun konusu, cinsel ilişkiye girilen küçüğün vücududur.
+.. *FİİL*: Suç, 15 yaşını doldurmuş, ancak 18 yaşını doldurmamış bir çocukla
+rızaya dayalı olarak cinsel ilişkiye girilmesini gerektirmektedir.
+
+==== TİPİKLİĞİN MANEVİ UNSURU
+
+Reşit olmayanla cinsel ilişki kasten işlenebilen suçlardandır. Dolayısıyla
+fail, reşit olmayan mağdurla cinsel ilişkiye girdiğini bilmelidir.
+
+==== SUÇUN HUKUKA AYKIRILIK UNSURU
+
+Bu suçta mağdurun rızası suçun unsuru olarak kabul edilmiştir. Şayet mağdurun
+rızası yoksa fiil TCK 103'deki cinsel istismar suçun oluşturacaktır.
+Dolayısıyla ilgilinin rızası bu suç tipi bakımında bir hukuka uygunluk nedeni
+oluşturmamaktadır.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+Cinsel ilişkinin, 15 yaşını tamamlamış ve fakat reşit olmayan çocukla MK 129
+kapsamında hısımlık ilişkisi bulunan bir kişi arasında gerçekleşmesi hali
+cezanın artırılmasını gerektiren bir nitelikli hal olarak düzenlenmiştir.
+
+====
+*MK 129*: Aşağıdaki kimseler arasında evlenme yasaktır:
+
+. Üstsoy ile altsoy arasında; kardeşler arasında; amca, dayı, hala ve teyze ile
+yeğenleri arasında,
+. Kayın hısımlığı meydana getirmiş olan evlilik sona ermiş olsa bile, eşlerden
+biri ile diğerinin üstsoyu veya altsoyu arasında,
+. Evlât edinen ile evlâtlığın veya bunlardan biri ile diğerinin altsoyu ve eĢi
+arasında.
+====
+
+Suçun, evlat edineceği çocuğun evlat edinme öncesi bakımını üstlenen veya
+koruyucu aile ilişkisi çerçevesinde koruma, bakım ve gözetim yükümlülüğü
+bulunan kişi tarafından işlenmesi hali diğer nitelikli hali oluşturmaktadır.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Cinsel ilişki gerçekleşinceye kadar teşebbüs mümkündür. Fail, suçun icra
+hareketlerini tamamlamaktan gönüllü olarak vazgeçtiği takdirde, 15 yaşını
+tamamlamış küçüğün cinsel ilişki dışındaki cinsel davranışlara gösterdiği rıza
+fiili suç olmaktan çıkaracağından herhangi bir suçu oluşturmayacaktır.
+
+==== İŞTİRAK
+
+Reşit olmayanla cinsel ilişki suçuna bir başkasını azmettirmek veya yardım
+etmek mümkündür.
+
+==== İÇTİMA
+
+Onbeş yaşını tamamlamış bir küçükle rızasıyla değişik zamanlarda aynı suç
+işleme kararının icrası kapsamında cinsel ilişkiye giren kişi hakkında
+zincirleme suç hükümleri uygulanır.
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Reşit olmayanla cinsel ilişki suçunun temel şekli, takibi şikayete bağlı
+suçlardandır. Mağdurun açıkça "şikayetçi değilim" dediği hallerde artık
+anne-babanın şikayetçi olması mümkün değildir. Küçük, fiilin suç teşkil
+ettiğini öğrendiği tarihten itibaren altı ay içinde şikayet hakkını kullanarak
+failin takibata uğramasını sağlayabilecektir.
+
+Reşit olmayanla cinsel ilişkinin daha fazla cezayı gerektiren nitelikli halleri
+takibi şikayete bağlı olmayan suçlardandır.
+
+<<<
+
+== CİNSEL TACİZ
+
+====
+*TCK 105*: (1) Bir kimseyi cinsel amaçlı olarak taciz eden kişi hakkında,
+mağdurun şikayeti üzerine, üç aydan iki yıla kadar hapis cezasına veya adlî
+para cezasına fiilin çocuğa karşı işlenmesi hâlinde altı aydan üç yıla kadar
+hapis cezasına hükmolunur. 
+
+(2) *(Değişik: 18/6/2014-6545/61 md.)* Suçun;
+
+.. Kamu görevinin veya hizmet ilişkisinin ya da aile içi ilişkinin sağladığı
+kolaylıktan faydalanmak suretiyle,
+.. Vasi, eğitici, öğretici, bakıcı, koruyucu aile veya sağlık hizmeti veren ya
+da koruma, bakım veya gözetim yükümlülüğü bulunan kişiler tarafından,
+.. Aynı işyerinde çalışmanın sağladığı kolaylıktan faydalanmak suretiyle,
+.. Posta veya elektronik haberleşme araçlarının sağladığı kolaylıktan
+faydalanmak suretiyle,
+.. Teşhir suretiyle,
+
+işlenmesi hâlinde yukarıdaki fıkraya göre verilecek ceza yarı oranında
+artırılır. Bu fiil nedeniyle mağdur; işi bırakmak, okuldan veya ailesinden
+ayrılmak zorunda kalmış ise verilecek ceza bir yıldan az olamaz.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Korunan hukuki değer, kişinin cinsel dokunulmazlığıdır.
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+.. *FAİL*: Herkes bu suçu işleyebilir.
+.. *MAĞDUR*: Herkes bu suçun mağduru olabilir.
+.. *SUÇUN KONUSU*: Suçun konusu, cinsel taciz teşkil eden hareketlere muhatap
+olan kişidir. 
+.. *FİİL*: Bir kimseye karşı vücut dokunulmazlığını ihlal etmeden cinsel amaçlı
+davranışların gerçekleştirilmesi, bu suçun maddi unsurunu oluşturmaktadır.
+Cinsel taciz, cinsel yönden ahlaka aykırı olarak mağdurun rahatsız edilmesinden
+ibarettir. Cinsel tacizin oluşabilmesi, fiilin belirli bir kişiye yönelmiş olmasına
+bağlıdır.
+
+==== TİPİKLİĞİN MANEVİ UNSURU
+
+Cinsel taciz kasten işlenebilen suçlardandır. Ancak suçun oluşumu için failin
+ayrıca cinsel bir amaçla hareket etmelidir.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+Cinsel tacizin mağdurunun çocuk olduğu haller cezanın arttırılmasını gerektiren
+nitelikli hal olarak düzenlenmiştir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Cinsel taciz, bünyesinde neticeye unsur olarak yer vermeyen sırf hareket
+suçudur. Bu nedenler, tacizi oluşturan hareketlerin icrasıyla birlikte suç
+tamamlanır. İcra hareketlerinin kısımlara bölünebildiği hallerde bu suça
+teşebbüs mümkündür.
+
+==== İŞTİRAK
+
+Suç iştirak bakımından özellik arz etmez, yani iştirakin her şekli mümkündür.
+
+==== İÇTİMA
+
+Cinsel tacizin, aynı kişiye karşı aynı suç işleme kararının icrası kapsamında
+değişik zamanlarda icra edildiği hallerde zincirleme suç hükümleri
+uygulanacaktır. Tek fiille farklı kişilere cinsel tacizde bulunulması halinde
+(*aynı neviden fikri içtima*), yine zincirleme suç hükümlerinden hareketle
+faile ceza verilecektir. 
+
+İşkencenin cinsel taciz teşkil eden hareketlerle işlenmesi, işkence suçunun
+nitelikli hali olarak düzenlenmiştir. Bu gibi hallerde cinsel tacizi oluşturan
+hareketler işkence suçunun unsurunu oluşturduğundan bileşik suç hükümleri
+uygulanacak ve fail cinsel tacizden ayrıca cezalandırılmayacaktır.
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Cinsel tacizin temel şekli, soruşturulması ve kovuşturulması şikayete bağlı
+suçlardandır. Buna karşılık suçun çocuğa karşı işlenen nitelikli şekli ile 2.
+fıkrada düzenlenen nitelikli halleri takibi şikayete bağlı olmayan re'sen
+kovuşturulan suçlardandır.
+
+<<<
+
+== TEHDİT
+
+====
+*TCK 106*: (1) Bir başkasını, kendisinin veya yakınının hayatına, vücut veya
+cinsel dokunulmazlığına yönelik bir saldırı gerçekleştireceğinden bahisle
+tehdit eden kişi, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
+Malvarlığı itibarıyla büyük bir zarara uğratacağından veya sair bir kötülük
+edeceğinden bahisle tehditte ise, mağdurun şikayeti üzerine, altı aya kadar
+hapis veya adlî para cezasına hükmolunur.
+
+(2) Tehdidin;
+
+.. Silahla,
+.. Kişinin kendisini tanınmayacak bir hale koyması suretiyle, imzasız mektupla
+veya özel işaretlerle,
+.. Birden fazla kişi tarafından birlikte,
+.. Var olan veya var sayılan suç örgütlerinin oluşturdukları korkutucu güçten
+yararlanılarak,
+
+İşlenmesi halinde, fail hakkında iki yıldan beş yıla kadar hapis cezasına
+hükmolunur.
+
+(3) Tehdit amacıyla kasten öldürme, kasten yaralama veya malvarlığına zarar
+verme suçunun işlenmesi halinde, ayrıca bu suçlardan dolayı ceza verilir.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Korunan hukuki değer, kişinin sükunu, güvenlik duygusu ve iç hürriyetidir.
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+.. *FAİL*: Herkes bu suçu işleyebilir.
++
+Eğer kamu görevlisi tehdit suçunu işlerken kendisine görev dolayısıyla verilmiş
+vasıtaları kullanacak olursa cezası artırılacaktır.
+.. *MAĞDUR*: Herkes bu suçun mağduru olabilir. Ancak mağdurun belli bir kişi ya
+da kişiler olması gerektiğinden, muhatabı belli olmayan tehdit eylemleri TCK
+106'daki suçu oluşturmayacaktır. Muhatabı belli olmayan tehditler, diğer
+şartlarının da gerçekleşmesi kaydıyla TCK 213'deki "Halk arasında korku ve panik
+yaratmak amacıyla tehdit" kapsamında değerlendirilebilecektir.
++
+Tehdit suçunun oluşabilmesi bakımından muhatabın tehdidin konusunu oluşturan
+saldırının anlamını kavrayabilecek ve algılayabilecek durumda olması gerekir.
+.. *SUÇUN KONUSU*: Tehdit suçunun konusunu, tehdide muhatap olup iç huzuru,
+sükunu ve güvenlik duygusu, irade oluşturma ve iradi hareket serbestisi
+etkilenen kişi oluşturmaktadır.
+.. *FİİL*: Bu suç, bir kişiyi, kendisinin veya yakınının hayatına, vücut veya
+cinsel dokunulmazlığına yönelik bir saldırı gerçekleştirileceğinden, malvarlığı
+itibariyle büyük bir zarara uğratılacağından veya sair bir kötülük
+yapılacağından bahisle korkutarak işlenmektedir. Buna göre fiil, tehditten
+ibarettir. Tehdit, gerçekleştirilmesi failin isteğinin yerine getirilmemesi
+kaydıyla bağlı bir kötülüğün mağdura bildirilmesini ifade etmektedir.
++
+Tehdidin konusunu oluşturan fenalığın bizzat tehdit edence icra edilebilir
+olması şart değildir.
++
+Tehdidin konusunu oluşturan kötülüğün gerçekleşip gerçekleşmemesi, failin bunu
+hakikaten icra etmek isteyip istememesi önemsizdir.
++
+Tehdir suçu *objektif olarak* mağduru korkutmaya, endişeye sevk etmeye ve onun
+irade özgürlüğünü etkilemeye elverişli bir kötülük beyanının varlığını
+gerektirir.
++
+Tehdidin mağdurua bildirilmesini, onun tehditten haberdar olmasını sağlayacak,
+her türlü vasıtayı kapsar şekilde düşünmek gerekir. Tehdit bildiriminin, açık
+ya da örtülü yahut da doğrudan veya dolaylı yapılması mümkündür.
++
+Kanun koyucu kişinin hayatına, vücut ve  dokunulmazlığına yönelik saldırı
+bildiriminin ciddi olmasını tehdidin gerçekleşmesi bakımından yeterli
+saymıştır. Buna karşılık malvarlığı değerlerine yönelik tehditlerin haksızlık
+teşkil edebilmesi, diğer bir deyişle zarar bildiriminin kişiyi huzursuz etmeye
+ve onun iradesini etkileyecek bir düzeye ulaşmış sayılabilmesi için
+malvarlığına yönelik zarar bildiriminin büyük olması aranmıştır. Malvarlığı
+itibariyle gerçekleştireceği bildirilen zararın bu nitelikte olup olmadığı
+somut olayın özelliklerine göre hakim tarafından belirlenecektir.
++
+Tehdidin hangi hukuki değerlere yönelik olduğunun belirli olması gerekir.
++
+Suça vücut veren "sair kötülük edeceğinden bahsetmek" şeklindeki bildirimlerin
+suç teşkil etmesi gerekli değildir. Haksız olmak, mağdurun huzurunu bozmak ve
+iradesini etkilemek kaydıyla her türlü kötülük bildirimi tehdit kapsamında
+değerlendirilecektir.
+
+==== TİPİKLİĞİN MANEVİ UNSURU
+
+Tehdit kasten işlenebilen suçlardandır. Failin bildirmiş olduğu saldırıyı
+gerçekten gerçekleştirme niyetinde olup olmaması, hangi saikle hareket ettiği
+ve amacının ne olduğu önemli değildir.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+. Suçun *silahla* işlenmesi
++
+Failin silahını tehdit edilenin iç huzurunun bozulmasına yetecek şekilde
+göstermesi, taşıması ve bulundurmasının yeterli olduğu belirtilmektedir.
+. Suçun *kişinin kendisini tanınmayacak bir hale koyması* suretiyle işlenmesi
++
+Failin kendini tanınmayacak hale getirmesini geniş yorumlayarak, kişiyi
+tanınmayacak hale getiren her türlü fiziksel değişikliği kapsar şekilde
+düşünmek gerekmektedir. Bir görüşe göre, objektif olarak failin kendini
+tanınmayacak hale sokması yeterli değildir, somut olayda mağdurun onu
+tanıyamaması da gerekmektedi.r Ancak baskın görüş, failin kendini tanınmayacak
+hale sokmuş olmasının yeterli olduğu, yapılan değişikliğe rağmen mağdurun faili
+tanımasının veya değişiklikten korkmuş olmasının önemli olmadığı yönündedir.
+. Suçun *imzasız mektupla* işlenmesi
++
+Bir kişiye karşı söylenen ve muhatabın kendisine hitap edeni tanımasına imkan
+vermeyen her türlü yazılı bildirimi imzasız mektup kapsamında düşünmek
+gerekmektedir.
+. Tehdidin *özel işaretlerle* gerçekleştirilmesi
+. Tehdidin *birden fazla kişi tarafından birlikte* işlenmesi
+. Tehdidin *var olan veya var sayılan suç örgütlerinin oluşturdakları korkutucu
+güçten yararlanarak* gerçekleştirilmesi
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Kanuni tarifinde neticeye unsur olarak yer verilmediğinden tehdit sırf hareket
+suçları arasında yer almaktadır. İcra hareketlerinin kısımlara bölünemediği
+hallerde suçun teşebbüse elverişli olmadığı kabul edilmektedir. Buna karşılık
+icra hareketlerinin kısımlara bölünebildiği hallerde, örneğin mektupla icra
+edilen tehdidin muhataba ulaştırılamadığı hallerde, teşebbüs söz konusu
+olabilecektir.
+
+==== İŞTİRAK
+
+Azmettirenin üstsoy ve altsoy ilişkisinden doğan nüfuzu kullandığı, örneğin bir
+babanın oğluna tehdit konusunda karar verdirdiği hallerde, azmettirmeden dolayı
+verilen ceza artırılacaktır. Çocukların tehdide azmettirildiği hallerde üstsoy
+ve altsoy ilişkisi aranmaksızın azmettirmeden dolayı verilecek ceza
+artırılacaktır.
+
+==== İÇTİMA
+
+Tehdidin başka bir suçun unsurunu (TCK 148) veya nitelikli unsurunu (TCK 109/2)
+oluşturduğu hallerde bileşik suç söz konusudur ve fail ayrıca tehdit suçundan
+dolayı cezalandırılmaz (TCK 42).
+
+Aynı suç işleme kararının icrası kapsamında değişik zamanlarda aynı kişiye
+karşı gerçekleştirilen tehditler için tek ceza verilecek ve ancak bu ceza TCK
+43/1 uyarınca artırılacaktır.
+
+Tehdit oluşturan fiillerin tek fiille birden fazla kişiye karşı işlenmesi
+halinde TCK 43/2 uyarınca *aynı neviden fikri içtima* hükümleri uygulanacaktır.
+
+Tehdit niteliğindeki sözlerin aynı zamanda hakaret suçunu oluşturduğu hallerde
+*farklı neviden fikti içtima* söz konusu olacağından, faile sadece ağır cezayı
+gerektiren suçtan dolayı ceza verilecektir (TCK 44/1).
+
+Tehdit amacıyla kasten öldürme, kasten yaralama veya malvarlığına zarar verme
+suçunun işlenmesi halinde ayrıca bu suçlardan ceza verileceği TCK 106/3'de
+belirtilmiştir.
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Tehdidin temel şekli ve cezanın artırılmasını gerektiren nitelikli şekli
+ilgilinin şikayeti aranmaksızın re'sen soruşturulacak veya kovuşturulacaktır.
+Buna karşılık tehdidin daha az ceza verilmesini gerektiren nitelikli şekli
+bakımından mağduru şikayeti aranacaktır.
+
+<<<
+
+== ŞANTAJ
+
+====
+*TCK 107*: (1) Hakkı olan veya yükümlü olduğu bir şeyi yapacağından veya
+yapmayacağından bahisle, bir kimseyi kanuna aykırı veya yükümlü olmadığı bir
+şeyi yapmaya veya yapmamaya ya da haksız çıkar sağlamaya zorlayan kişi, bir
+yıldan üç yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
+cezalandırılır.
+
+(2) Kendisine veya başkasına yarar sağlamak maksadıyla bir kişinin şeref veya
+saygınlığına zarar verecek nitelikteki hususların açıklanacağı veya isnat
+edileceği tehdidinde bulunulması halinde de birinci fıkraya göre cezaya
+hükmolunur.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Korunan hukuki değer, kişinin iç hürriyetidir.
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+. *FAİL*: Şantaj suçu, fail bakımından özellik göstermeyen, herkes tarafından
+işlenebilen bir suçtur. Ancak TCK 107/1 bakımından hak sahibi olan veya belli
+bir yükümlülük altında bulunan bir kişi suçun faili olabilir. 
++
+CAUTION: Hak sahibinin veya yükümlülük altında bulunan kişinin kamu görevlisi
+olduğu ve bu kişinin hakkını veya yükümlülüğünü zorlama vasıtası olarak
+kullanıp yarar sağlaması veya yarar vaadinde bulunulmasını sağlaması halinde
+*irtikap suçu* oluşacaktır.
+. *MAĞDUR*: Şantaj suçunun mağduru ancak gerçek kişiler olabilir.
+. *SUÇUN KONUSU*: Şantaj suçunun konusunu, şantaja muhatap olup irade
+oluşturabilme ve oluşturmuş olduğu irade yönünde davranabilme hürriyeti ihlal
+edilen kişi oluşturmaktadır. Suçun oluşumu bakımından suçun konusunun zarar
+görmesi aranmadığından şantaj tehlike suçudur.
+. *FİİL*
+
+.. *TCK 107/1'deki şekil bakımından*: Fail, mağdurun kullanılmasını
+istemeyeceği, kullanılması halinde bundan etkileneceğini bildiği bir hakkını
+kullanmaktan bahsederek, onu belli bir yönde davranmaya zorlamaktadır. Kişi
+hakkı olan veya yükümlü olduğu bir şeyi yapacağından veya yapmayacağından
+bahsederek de muhatabı kanunen yükümlü olmadığı bir davranışta bulunmaya
+zorlayabilir.
++
+Kanuna aykırı bir yapılmaması için bir hakkın veya yükümlülüğün
+kullanılacağından bahsedilmesi şantaj teşkil etmeyecektir.
++
+Haber vermek gazetecilik mesleğini icra edenler bakımından bir haktır. Ancak
+bir gazeteci bu hakkını kullanmayı veya kullanmamayı kanuna aykırı bir şeyin
+yapılması veya yapılmaması veya çıkar sağlanması şartına bağlar şantaj suçunu
+işlemiş olacaktır.
++
+TIP: Gerçekte herhangi bir hak veya yükümlülük bulunamakla birlikte, mağduru
+belli bir şeyi yapmak veya yapmamak hususunda hak sahibi olduğu veya belli bir
+şeyi yapmak veya yapmamakla yükümlü olduğuna inandıran kişinin fiili TCK 107/1
+bakımından tipik değildir. Burada olayın özelliğine ve sağlanmak istenen
+menfaatin mahiyetine göre, dolandırıcılık gibi başkaca suçları tartışmak
+gerekir.
+
+.. *TCK 107/2'deki şekil bakımından*: Suçun oluşumu şeref veya saygınlığa zarar
+verebilecek bir hususun açıklanacağı veya isnat edileceği tehdidinin varlığını
+ve bunun mağdurun iradesini zorlamaya elverişli olmasını gerektirmektedir. Eğer
+açıklanacağı veya isnat edileceği bildirilen husus şeref veya saygınlığa zarar
+verebilecek nitelikte değilse şantaj suçu oluşmaz. Tehdidin konusu olmuş bitmiş
+ve geçmişte kalmış bir olay olmalıdır. Suçun oluşumu açısından mağdurun içinde
+bulunduğu duruma düşmesinde failin katkısının olup olmaması da önemsizdir.
++
+Şeref veya saygınlığa zarar verebilecek bir hususun açıklanacağı tehdidinin
+şantaj suçunu olşuturabilmesi, tehdidin objektif olarak iradeyi etkilemeye
+elverişli olmasına bağlıdır.
+
+==== TİPİKLİĞİN MANEVİ UNSURLARI
+
+Şantaj, kasten işlenebilen suçlardandır. Ancak suçun her iki işleniş şekli
+bakımından suçun oluşumu için kasten hareket edilmesi yeterli değildir, kastın
+yanı sıra ayrıca belli bir maksatla hareket edilmiş olması da gerekmektedir.
+
+Failin bir hakkını veya yükümlülüğünü kullanarak haksız bir yarar elde etmek
+maksadıyla hareket etmiş olması gerekir. Sağlanmak istenen çıkar haksız
+olmalıdır. Fail haklı bir çıkarını elde etmek için bir hakkını veya
+yükümlülüğünü kullanacağından bahsederse şantaj oluşmayacaktır.
+
+Suçun oluşumu için mağduru zorlamaya elverişli şantajın gerçekleştirilmesi
+yeterlidir. Mağdurun zorlama sonucunda kendisinden beklenen yönde davranmış
+olması veya istenilen yararı sağlamış olması gerekli değildir. Bunun dışında
+şantajla elde edilmek istenen yararın doğrudan faile veya üçüncü bir şahsa
+sağlanmak istenmesi, suçun oluşumu bakımından etkili değildir.
+
+==== SUÇUN HUKUKA AYKIRILIK UNSURU
+
+Somut olayda şantajın ilk türü bakımından hukuka aykırılık unsurunun oluşup
+oluşmadığının tespitinde, hakkın veya yükümlülüğün kötüye kullanımının oluşup
+oluşmadığının belirlenmesi gerekir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Suçun tamamlanabilmesi için, herhangi bir neticenin gerçekleşmesi
+aranmadığından, zorlamaya yönelik hareketlerin icrası yeterli görüldüğünden
+şantaj sırf hareket suçlarındandır. Buna göre icra hareketlerinin tamamlandığı
+aşamaya kadar teşebbüs mümkündür.
+
+==== İŞTİRAK
+
+Şantaj suçu iştirak bakımından bir özellik göstermemektedir.
+
+==== İÇTİMA
+
+Şantaj suçu içtima bakımından bir özellik göstermemektedir.
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Şantaj takibi şikayete bağlı olmayan re'sen kovuşturulan suçlardandır. 
+
+Şantaj fiili sonucunda bir tüzel kişi yararına haksız menfaat sağlanmışsa,
+tüzel kişiler hakkında TCK 60'da öngörülen güvenlik tedbirleri uygulanacaktır
+(TCK 111).
+
+<<<
+
+== CEBİR
+
+====
+*TCK 108*: (1) Bir şeyi yapması veya yapmaması ya da kendisinin yapmasına
+müsaade etmesi için bir kişiye karşı cebir kullanılması halinde, kasten
+yaralama suçundan verilecek ceza üçte birinden yarısına kadar artırılarak
+hükmolunur.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Korunan hukuki değer, bireyin irade oluşturma, geleceğini belirleme ve buna
+uygun olarak hareket edebilme serbestisidir.
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+. *FAİL*: Fail bakımından özellik göstermeyen, herkes tarafından işlenebilen
+bir suçtur.
+. *MAĞDUR*: Suç, mağdur açısından da özellik göstermez, her gerçek kişiye karşı
+işlenebilir. 
++
+TIP: Cebrin bir kamu görevlisine karşı görevini yapmasını engellemek için
+uygulanması hali, TCK 265'te düzenlenen görevi yaptırmamak için direnme suçunu
+oluşturacaktır.
+. *SUÇUN KONUSU*: Cebir kullanma suçunun konusunu, cebre muhatap olup irade
+oluşturma ve iradi hareket serbestisi etkilenen kişi oluşturmaktadır.
+. *FİİL*: Failin, mağduru, bir şey yapması veya yapmaması ya da o şeyin kendisi
+tarafından yapılmasına izin vermesi için cebir kullanması gerekmektedir. Buna
+göre, acı veren veya sağlığı bozan ya da algılama yeteneğini etkileyen
+hareketler TCK 108 anlamında cebri oluşturmaktadır.
++
+Cebir koşulu yerine getirmesi beklenen kişiye karşı uygulanmış olabileceği
+gibi, onun yakınlık duyduğu üçüncü bir kişiye karşı da kullanılmış olabilir.
+Ancak üçüncü kişi üzerinde uygulanan cebir, mağdurun iradesini etkilemeye
+elverişli olmalıdır.
+
+==== TİPİKLİĞİN MANEVİ UNSURLARI
+
+Cebir kullanma, kasten işlenebilen suçlardandır. Bunun dışında fail, cebri, bir
+şey yaptırmak veya yaptırmamak ya da o şeyin kendisi tarafından yapılmasına
+müsaade ettirmek maksadıyla uygulanmalıdır. Failde kastın yanı sıra, bulunması
+gereken bu gaye, bu suçu cebrin unsur olduğu diğer suçlardan ayırmaya yarar.
+
+==== SUÇUN HUKUKA AYKIRILIK UNSURU
+
+_Cebir kullanımı bir görevin ifasının gereğiyse_, bu davranışa hukuk düzeninde
+başka bir kural onay vermiş olacağından haksızlık teşkil eden bir fiilin
+varlığından söz edilemeyecektir.
+
+_Cebir kullanımı meşru savunma kapsamında_ da söz konusu olabilir. 
+
+Eğer _kişinin rızası üzerine_ cebir teşkil eden hareketler
+gerçekleştiriliyorsa, zaten kişinin irade oluşturma ve buna uygun davranma
+hürriyetinin ihlal edildiğinden bahsedilemez.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Failin istediğini elde etmesi suçun oluşumu bakımından önemli değildir. Fail
+istediğine ulaşamamış olsa bile irade oluşturma ve buna uygun davranma
+hürriyetini ihlal etmeye elverişli bir kullanmasıyla cebir kullanma suçu
+tamamlanmış olmaktadır. Fail tarafından kasten yaralama niteliğindeki
+hareketlerin icrasına başlandığı andan itibaren suç teşebbüs aşamasına
+girmiş, bu hareketlerin tamamlandığı anda ise sona ermiş olur.
+
+Doktrinde bir görüşe göre cebir kullanma suçu salt hareket suçu olduğundan,
+ancak icra hareketlerinin kısımlara bölünebildiği hallerde teşebbüs söz konusu
+olabilir. Diğer bir görüşe göre ise cebir kullanma suçu, fiziki güç
+kullanıldığı ve elde edilmek istenen şey açıklandığı anda suç tamamlanacağından
+teşebbüse elverişli değildir.
+
+==== İŞTİRAK
+
+Cebir kullanma, iştirak açısından özellik göstermeyen, bu bakımdan genel
+kurallara tabi olan bir suç tipidir.
+
+==== İÇTİMA
+
+Cebir kullanma suçu genel ve tali bir suç tipidir. Cebrin diğer bir suçun temel
+veya nitelikli şeklinin unsurunu oluşturduğu hallerde, bileşik suç hükümlerine
+göre hareket edilecek, fail ayrıca cebir kullanma suçundan dolayı
+cezalandırılmayacaktır.
+
+Kanun koyucu, cebir kullanma suçunun işlenmesi halinde fiilin aynı zamanda
+kasten yaralama suçunu da oluşturacağını belirtmiş ve özel bir fikri içtima
+düzenlemesine yer vererek cebir kullanma suçunu işleyen kişi hakkında kasten
+yaralama suçundan verilecek cezanın üçte birinden yarısına kadar artırılmasını
+öngörmüştür. O halde, cebir kullanma suçunun işlenmesi suretiyle kasten
+yaralamanın temel, nitelikli ve neticesi sebebiyle ağırlaşmış hallerini meydana
+getiren tüm haller bakımından bu artırımın yapılması gerekir.
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Cebir kullanma re'sen kovuşturulan, takibi için şikayet gerekmeyen bir suçtur.
+Suç, cebir kullanmayı oluşturan hareketlerin, kasten yaralamanın basi tıbbi
+müdahale ile giderilebilecek şekli olarak tezahür ettiği hallerde dahi re'sen
+kovuşturulur.
+
+<<<
+
+== KİŞİYİ HÜRRİYETİNDEN YOKSUN KILMA
+
+====
+*TCK 109*: (1) Bir kimseyi hukuka aykırı olarak bir yere gitmek veya bir yerde
+kalmak hürriyetinden yoksun bırakan kişiye, bir yıldan beş yıla kadar hapis
+cezası verilir.
+
+(2) Kişi, fiili işlemek için veya işlediği sırada cebir, tehdit veya hile
+kullanırsa, iki yıldan yedi yıla kadar hapis cezasına hükmolunur.
+
+(3) Bu suçun;
+
+.. Silahla,
+.. Birden fazla kişi tarafından birlikte,
+.. Kişinin yerine getirdiği kamu görevi nedeniyle,
+.. Kamu görevinin sağladığı nüfuz kötüye kullanılmak suretiyle,
+.. Üstsoy, altsoy veya eşe karşı,
+.. Çocuğa ya da beden veya ruh bakımından kendini savunamayacak durumda bulunan
+kişiye karşı,
+
+İşlenmesi halinde, yukarıdaki fıkralara göre verilecek ceza bir kat artırılır.
+
+(4) Bu suçun mağdurun ekonomik bakımdan önemli bir kaybına neden olması
+halinde, ayrıca bin güne kadar adlî para cezasına hükmolunur.
+
+(5) Suçun cinsel amaçla işlenmesi halinde, yukarıdaki fıkralara göre verilecek
+cezalar yarı oranında artırılır.
+
+(6) Bu suçun işlenmesi amacıyla veya sırasında kasten yaralama suçunun neticesi
+sebebiyle ağırlaşmış hallerinin gerçekleşmesi durumunda, ayrıca kasten yaralama
+suçuna ilişkin hükümler uygulanır.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Korunan hukuki değer, kişilerin bir yerde kalma veya bir yere gitme konusunda
+irade oluşturabilme ve bu konuda tercihte bulunma serbestisidir.
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+. *FAİL*: TCK 109'da farklı bir özellik aranmadığından bu suçun faili herhangi
+bir kimse olabilir. Fiilin kamu görevlisi tarafından görevinin sağladığı nüfuz
+kötüye kullanılarak işlenmesi cezanın artırılmasını gerektiren nitelikli hali
+oluşturmaktadır.
+. *MAĞDUR*: Hürriyetten yoksun kılma mağdur bakımından özellik arz etmeyen,
+herkese karşı işlenebilen bir suçtur.
++
+Bir yere gitme veya bir yerde kalma konusunda aktüel bir irade oluşturulması
+aranmadığından, suçun oluşumu için mağdurun hürriyetinin sınırlandığını
+hissetmesi gerekli değildir.
+. *SUÇUN KONUSU*: Kişiyi hürriyetinden yoksun bırakma suçunda hareketin
+konusunu bir yere gitme veya bir yerde kalma hürriyetinden yoksun bırakılan
+kişi oluşturmaktadır.
+. *FİİL*: Bu suç serbest hareketli bir suçtur. Kişinin bulunduğu yerden
+ayrılmasını, yani fiziki olarak yer değiştirmesini engellemeye yönelik
+hareketlerin  gerçekleştirilmesi gerekli ve yeterlidir.
+. *NETİCE*: Kişinin fiziki hürriyetinin kaldırılması bu suçun netice unsurunu
+oluşturur. Ancak mağdurun istediği biçimde ve türde bulunduğu yerden
+ayrılmasının engellenmesi, bu suçun oluşumu için yeterli değildir. Fail çıkışı
+olan bir yere kapatmakla birlikte mağdurun çıkışı bilmediği için
+faydalanamadığı veya çıkış için öngörülen mekanizmayı çalıştıramadığı veya
+çıkış için öngörülen yolun zor veya tehlikeli olduğu hallerde de suç
+oluşacaktır.
++
+Kişiyi hürriyetinden yoksun bırakma, aynı zamanda kesintisiz suçlardandır. Suç,
+kişinin bir yere gitme ve bir yerde kalma hürriyetinin önemsiz sayılamayacak
+bir zaman dilimi için sınırlanmasıyla *tamamlanır* ve mağdur yeniden
+hürriyetini elde edince *sona erer*.
+
+==== TİPİKLİĞİN MANEVİ UNSURLARI
+
+Kişiyi hürriyetinden yoksun kılma, kasten işlenebilen suçlardandır. Suçun
+oluşumu için varlığı aranan kast, failin hareketinin diğer bir insanın bir
+yere gitme veya bir yerde kalma yolundaki iradesini engelleyeceğini bilmesi
+veya en azından mümkün görmesi halinde vardır.
+
+==== SUÇUN HUKUKA AYKIRILIK UNSURU
+
+CMK 90'da kişiye suç işlerken rastlanması, suçüstü bir fiilden dolayı izlenen
+kişinin kaçma ihtimalinin bulunması veya hemen kimliğini belirleme imkanının
+bulunmaması halinde herkese yakalama yetkisi verilmiştir.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+. Fiili işlemek için veya işlendiği sırada *cebir, tehdit veya hile*
+kullanılması
+. Suçun *silahla* işlenmesi
+. Suçun *birden fazla kişi tarafından birlikte* işlenmesi
+. Suçun *üstsoy, altsoy veya eşe karşı* işlenmesi
+. Suçun *kişinin yerine getirdiği kamu görevi nedeniyle* işlenmesi
+. Suçun *kamu görevinin sağladığı nüfuz kötüye kullanılmak* suretiyle işlenmesi
+. Suçun *çocuğa, beden veya ruh bakımından kendini savunamayacak durumda
+bulunan kişiye karşı* işlenmesi
+. Suçun *cinsel amaçla* işlenmesi
+
+=== SUÇUN NETİCESİ SEBEBİYLE AĞIRLAŞMIŞ HALİ
+
+Kişiyi hürriyetinden yoksun bırakmaye yönelik fiil, mağduru hürriyetinden
+yoksun bırakmanın dışında, ayrıca onun ekonomik bakımdan önemli bir kayba
+uğramasına neden olması neticesi sebebiyle ağırlaşmış hal olarak
+düzenlenmiştir. Hürriyeti sınırlamaya yönelik fiilin yol açtığı bu ağır
+neticeden failin sorumlu tutulabilmesi için taksirin varlığı yeterlidir. Bu
+şekilde, hem kasten hem taksirle işlenmesi mümkün olan neticesi sebebiyle
+ağırlaşmış suçlara *görünüşte neticesi sebebiyle ağırlaşmış suç* denilmektedir.
+
+=== CEZAYI ETKİLEYEN ŞAHSİ SEBEP
+
+TCK 110'a göre kişiyi hürriyetinden yoksun bırakan kişi, bu suç nedeniyle
+soruşturmaya başlanmadan önce mağdurun şahsına dokunmaksızın, onu kendiliğinden
+gücenli bir yerde serbest bırakırsa cezanın üçte ikisine kadarı indirilecektir.
+
+Soruşturma, yetkili mercilerce suç şüphesinin öğrenilmesinden itibaren başlayıp
+iddianamenin kabulüne kadar geçen evreyi ifade etmektedir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Suç, mağdurun serbest iradesiyle hareket edemediği anda tamamlanır ve
+özgürlüğüne kavuştuğu ana kadar işlenmeye devam eder. Failin mağduru
+hürriyetinden yoksun bırakmak için icra hareketlerine başlayıp elinde olmayan
+nedenlerle tamamlayamadığı hallerde teşebbüs söz konusu olacaktır.
+
+==== İŞTİRAK
+
+Kişiyi hürriyetinden yoksun bırakma suçuna kural olarak iştirakin her şekliyle
+katılmak mümkündür. Kişiyi hürriyetinden yoksun bırakmanın müşterek faillerce
+birlikte işlenmesi, suçun nitelikli halini oluşturmaktadır.
+
+==== İÇTİMA
+
+TCK 109/6'ya göre, kişiyi hürriyetinden yoksun bırakma suçunun işlenmesi
+amacıyla veya işlenmesi sırasında kasten yaralama suçunun neticesi sebebiyle
+ağırlaşmış halleri gerçekleştirilmişse, fail hakkında ayrıca kasten yaralama
+suçuna ilişkin hükümler uygulanacaktır.
+
+Failin suçu işlemek için veya işlediği sırada cebir veya tehdit kullanması
+nitelikli hal olarak suçun unsuru haline getirildiğinden bileşik suç hükümleri
+uygulanarak cebir ve tehdit suçlarından ayrıca cezalandırılmayacaktır.
+
+Fail, hürriyetinden yoksun bıraktığı kişiye karşı cinsel saldırı, cinsel
+istismar veya cinsel taciz şeklindeki hareketler gerçekleştirmişse, ayrıca bu
+fiillerden de sorumlu tutulacaktır (*gerçek içtima*).
+
+Hürriyetten yoksun bırakma bazı suçların icrası sırasında zorunlu olarak eşlik
+edebilen bir fiil olarak yer alabilir. İşlenen fiilin zorunlu sonucu olarak
+mağdurun kısa bir süre özgürlüğünden yoksun kaldığı bu gibi hallerde, işlenen
+suç dışında failin sorumluluğunu gerektiren ayrı bir fiilin varlığından
+bahsetmek mümkün değildir. Buna karşılık, işlenen fiilin zorunlu sonucu
+olmamakla birlikte, amaç suçun işlenebilmesi için mağdurun hürriyetinden yoksun
+bırakıldığı hallerde, fail amaç suçun yanı sıra ayrıca hürriyeti yoksun kılma
+suçundan dolayı sorumlu tutulacaktır.
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Kişiyi hürriyetinden yoksun kılma takibi şikayete bağlı olmayan, re'sen
+kovuşturulan bir suçtur. 
+
+Kişiyi hürriyetinden yoksun kılma suçunun işlenmesi sonucunda yararına haksız
+menfaat sağlanan tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine
+hükmolunacaktır (TCK 111).
+
+<<<
+
+== HAKARET
+
+====
+*TCK 125*: (1) Bir kimseye onur, şeref ve saygınlığını rencide edebilecek
+nitelikte somut bir fiil veya olgu isnat eden veya sövmek suretiyle bir
+kimsenin onur, şeref ve saygınlığına saldıran kişi, üç aydan iki yıla kadar
+hapis veya adlî para cezası ile cezalandırılır. Mağdurun gıyabında hakaretin
+cezalandırılabilmesi için fiilin en az üç kişiyle ihtilat ederek işlenmesi
+gerekir.
+
+(2) Fiilin, mağduru muhatap alan sesli, yazılı veya görüntülü bir iletiyle
+işlenmesi halinde, yukarıdaki fıkrada belirtilen cezaya hükmolunur.
+
+(3) Hakaret suçunun;
+
+.. Kamu görevlisine karşı görevinden dolayı,
+.. Dini, siyasi, sosyal, felsefi inanç, düşünce ve kanaatlerini açıklamasından,
+değiştirmesinden, yaymaya çalışmasından, mensup olduğu dinin emir ve
+yasaklarına uygun davranmasından dolayı,
+.. Kişinin mensup bulunduğu dine göre kutsal sayılan değerlerden bahisle,
+
+İşlenmesi halinde, cezanın alt sınırı bir yıldan az olamaz.
+
+(4) Hakaretin alenen işlenmesi halinde ceza altıda biri oranında artırılır.
+
+(5) Kurul hâlinde çalışan kamu görevlilerine görevlerinden dolayı hakaret
+edilmesi hâlinde suç, kurulu oluşturan üyelere karşı işlenmiş sayılır. Ancak,
+bu durumda zincirleme suça ilişkin madde hükümleri uygulanır.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Suç ile korunan hukuki değer, kişinin manevi tamlığının bir parçası olan
+şerefidir.
+
+=== SUÇUN UNSURLARI
+
+==== TİPİKLİĞİN MADDİ UNSURLARI
+
+. *FAİL*: Hakaret, fail bakımından bir özellik göstermeyen, herkes tarafından
+işlenebilen bir suçtur. Kusurlu hareket etme yeteneğine sadece gerçek kişiler
+sahip olabildiğinden, ancak gerçek bir kişi suçun faili olabilir. 
++
+Hakaret teşkil eden fiillerin özel hukuk tüzel kişilerinin organları veya
+temsilcilerinin iştirakiyle işlendiği hallerde, bu fiiller nedeniyle kanunda
+ayrıca öngörülmediği için bu tüzel kiş hakkında güvenlik tedbiri de
+uygulanmayacak, doğrudan fiili icra eden üyeler veya temsilci
+cezalandırılacaktır.
++
+Hakaret suçunun basın yoluyla işlendiği hallerde suçun failinin kimler olduğu
+hususu Basın Kanunu'na göre belirlenir. Buna göre, süreli ve süresiz yayınlar
+yoluyla işlenen suçlardan eser sahibi sorumludur. Eser sahibi belirlenemiyorsa
+kademeli sorumluluk kabul edilmiştir.
+. *MAĞDUR*: Şeref, kişilerin sırf insan olmaları nedeniyle sahip oldukları bir
+özelliktir. Bu nedenle, şeref, kişilerin bunun farkında olmamalarından, yani
+kendisinin saygın bir kişi olduğu yolunda kanaat oluşturma yeteneğine sahip
+olup olmamalarından bağımsız şekilde korunmaktadır. Dolayısıyla, çocuklar ve
+akıl hastaları da hakaret suçunun mağduru olabilir. Aynı şekilde toplumda
+şerefsiz olarak bilinen kişilerin korunması gereken bir saygınlığı
+bulunduğundan, bunlar da hakaret suçunun mağduru olabilecektir.
++
+Bir suçun mağduru ancak sağ ve gerçek kişiler olabileceğinden, hakaret suçunun
+da ölmüş kişilere karşı işlenmesi mümkün değildir.
++
+Suçun oluşumu bakımından mağdurun sıfatı önemli olmamakla birlikte, hakaretin
+kamu görevlisine karşı yerine getirdiği kamu görevi nedeniyle işlenmesi suçun
+nitelikli halini oluşturmaktadır.
++
+Hakaret suçunun oluşabilmesi mağdurun belli olmasına veya belirlenmesinin
+mümkün olmasına bağlıdır. Hakaretin muhatabının ismen zikredilmediği hallerde,
+mağdurun kim olduğununun kullanılan sözlerden belirlenebilmesi suçun oluşması
+için yeterlidir.
+. *SUÇUN KONUSU*: Yaşayan belli bir kişinin onuru, şrefi ve saygınlığıdır.
+. *FİİL*: Hakaret suçunun oluşumu, isnat edilen somut fiil veya olgunun
+kişinin, onur, şeref ve saygınlığını rencide edebilecek nitelikte olmasını;
+sövmenin ise, kişinin onur, şerefi ve saygınlığı için saldırı oluşturmasını
+gerektirir.
++
+Bir kişiye yöneltilen söz veya hareketin o kişiyi küçük düşürücü nitelikte olup
+olmadığı belirlenirken, toplumda hakim görüşleri, örf ve adetleri, fiilin
+işlendiği sıradaki hal ve şartları dikkate almak gerekmektedir.
++
+Hakaret ilk olarak *bir kişiye somut bir fiil veya olgu isnat edilerek*
+işlenebilir. Somut bir fiil veya olgu isnadı, sırf bir değer yargısında bulunma
+teşkil etmeyen, gerçek olması da gerekmeyen belli bir fiilin işlendiğinin veya
+belli bir olayın gerçekleştiğinin belli bir kişiyle bağlantılı bir şekilde
+izafe edilmesini ifade etmektedir. Toplumdaki geçerli ahlak, örf ve adet
+kurallarıyla bağdaşmayan bir fiilin isnadı suçun oluşumu için yeterli değildir.
+Ancak isnat edilen fiilin suç oluşturması gerekli değildir. Suç teşkil etmese
+dahi, haksızlık teşkil eden bir fiilin isnadıyla hakaret oluşacaktır.
++
+Hakaret suçunun diğer seçimlik hareketini oluşturan *sövme, kişinin onuruna,
+şerefine ve saygınlığına yönelik olumsuz değer yargılarında bulunmayı* ifade
+etmektedir. Hakaretin bu şeklinde somut bir fiil veya olgu isnat edilmemekte,
+mağdurun onur, şeref ve saygınlığına saldırı teşkil eden soyut yakıştırmalarda,
+soyut fiil veya olgu isnadında bulunulmaktadır.
++
+Hakaret, bir değer yargısının veya somut bir fiil veya olgu isnadının açıkça
+veya zımnen açıklanmasını gerektiren bir suçtur. Suçun oluşumu, bu düşünce
+açıklamasının mağdurun veya üçüncü şahsın bilgisine ulaşmasına bağlıdır.
++
+Somut bir fiil veya olgu isnadının veya sövmenin mağdurun buna doğrudan vakıf
+olabileceği şekilde gerçekleştirildiği hallerde *huzurda hakaret* vardır. Buna
+göre, yüz yüze olmasalar da failin, hakareti herhangi bir aracıya gerek
+kalmaksızın mağdurun işitebileceği şekilde gerçekleştirmesi de huzurdadır.
++
+Kanunda "_fiilin, mağduru muhatap alan sesli, yazılı veya görüntülü bir
+iletiyle işlenmesi_" huzurda gerçekleştirilen hakarette sayılmıştır. 
++
+Mağdurun doğrudan vakıf olamayacağı şekilde gerçekleştirilen hakaret *gıyapta
+hakarettir*. Ancak kanun koyucu gıyapta gerçekleştirilen hakaretin
+cezalandırılabilmesini, bunun en az üç kişiyle _ihtilat_ edilerek işlenmesi
+kaydına bağlamıştır. İhtilat, hakaret suçu bakımından *objektif
+cezalandırılabilme şartı* değil, tipikliğin unsuru olarak kabul edilmek
+gerekir.
++
+İhtilat edilen kimselerin bir arada bulunmaları ve aynı anda hakaret teşkil
+eden fiilleri öğrenmiş olmaları gerekli değildir. Değişik zamanlarda farklı
+kişilere ayrı ayrı hakaret teşkil eden aynı veya benzer fiillerin bildirildiği
+hallerde de ihtilat gerçekleşmiş olacaktır.
+
+==== TİPİKLİĞİN MANEVİ UNSURLARI
+
+Hakaret, kasten işlenebilen suçlardandır. Suçun oluşumu için olası kast
+yeterlidir. Bu nedenle, failin somut olayda tipikliğin objektif unsurlarını
+bilerek hareket etmesi, açıklamanın objektif olarak kişi onurunu ve şerefini
+zedeleyici bir içeriğe sahip olduğu bilincinin varlığı, suçun manevi unsurunun
+oluşumu için yeterlidir.
+
+==== SUÇUN HUKUKA AYKIRILIK UNSURU
+
+Şeref, insan haysiyetinin vazgeçilmez bir unsuru olduğundan, ilgilinin üzerinde
+mutlak şekilde tasarruf edebileceği haklardan değldir. Dolayısıyla, ilgilinin
+rızası bu suç tipi bakımından hukuka uygunluk nedeni olarak gündeme
+gelmeyecektir.
+
+. *Düşünce, ifade özgürlüğü ve eleştiri hakkı*: Yer yer ifade edilen sözler,
+düşünce özgürlüğü çerçevesinde yapılan beyanlar tahkir edici olabilir. Ancak
+sarfedilen sözler eleştiri hakkı kapsamında değerlendirilecek nitelikte ise
+hukuka uygunluk nedeninin varlığı kabul edilmelidir.
++
+Eleştiri hakkı bakımından özellikle muhatabın kimliği ve kişiliği, sarfedilen
+sözlerin eleştirinin amacına uygun olup olmadığı araştırılmalıdır. Kamuoyu
+önünde olan kişiler bakımından eleştiri hakkının sınırları çok daha geniştir.
+Eleştiride kullanılan ifadelerin eleştirinin konusu ile ya da eleştirinin
+yöneldiği hususla ölçülü olması gerekir.
+. *İddia ve savunma hakkı*: Her şikayet dilekçesi somut bir fiil ya da olgu
+isnadıdır. TCK 128, bu tür şikayet dilekçelerini ve benzer şekilde karşı
+taraftan gelen savunmaları hukuka uygunluk nedeni çerçevesinde
+değerlendirmektedir.
++
+====
+*TCK 128*: (1) Yargı mercileri veya idari makamlar nezdinde yapılan yazılı veya
+sözlü başvuru, iddia ve savunmalar kapsamında, kişilerle ilgili olarak somut
+isnadlarda ya da olumsuz değerlendirmelerde bulunulması halinde, ceza verilmez.
+Ancak, bunun için isnat ve değerlendirmelerin, gerçek ve somut vakıalara
+dayanması ve uyuşmazlıkla bağlantılı olması gerekir.
+====
++
+Söz konusu hukuka uygunluk nedeni sadece yargısal mercilere yönelik değil,
+idari mercilere yapılan talepler bakımından da geçerlidir. Yine salt yazılı
+beyanlar değil sözlü beyanlar da bundan yararlanacaktır.
++
+Burada varlığının araştırılması gereken iki husus; isnat ve değerlendirmelerin
+gerçek ve somut vakıalara dayanması ve uyuşmazlıkla bağlantılı olmasıdır.
+Somutluk mutlak bir şekilde iddianın doğruluğu değil iddianın bir şekilde somut
+olaylarla ilişkilendirilebilmesidir. Uyuşmazlıkla bağlantılı olma meselesi de
+talep, savunma ya da başvurunun amaca ulaşması bakımından gerekli, faydalı ya
+da yerinde olması şeklinde anlaşılmak gerekir.
+. *Haber verme hakkı*: Haber verme hakkı, eleştiri, inceleme ve yaratma
+hakkıyla birlikte basın özgürlüğünün unsurları arasında yer almaktadır.
+*Güncel*, *kamunun ilgisini çeken* ve *açıklanmasında kamu yararı bulunan*
+olguların, görüşlerin, yorumların, eleştirilerin açıklanması haber olup, böyle
+bir haberin *gerçeğe uygun* ve *objektif ölçüler içinde* yayınlanması basın
+mesleğinden doğan bir hakkın icrası sayılır.
++
+TIP: Basının haber verme hakkı bakımından uygulama sahası haber içerikli
+yayınlardır. Yorum söz konusu olduğunda bu, düşünce, ifade özgürlüğü ve
+eleştiri hakkı bakımından değerlendirilmelidir.
++
+Basının haber verme hakkı bakımından genel kabul bu hukuka uygunluk sebebinin
+somut fiil veya olgu isnadı niteliğindeki beyanlar için geçerli olduğudur.
+Ancak haberin içinde yer alan ve haberi etkili kılmaya yönelik ifadeler, ağır
+sözler sövgü niteliğinde olsa bile hukuk uygunluk nedeninden faydalanırlar.
+
+=== OBJEKTİF CEZALANDIRILABİLİRLİK KOŞULU
+
+*İsnadın ispat edilmemiş olması*, bir objektif cezalandırılabilirlik koşuludur.
+İsnat ispat edilirse failin cezalandırılabilmesi mümkün değildir.
+ 
+_Kanunda bir kimseye suç teşkil eden bir fiili işlediğinin isnat edildiği
+hallerde_, isnada konu olan suç dolayısıyla isnatta bulunduğu kişi hakkında
+hüküm verilmemiş olması koşuluyla, isnadını ispat hakkı mutlak bir şekilde
+tanınmıştır.
+ 
+_Konusu suç teşkil etmeyen isnatlarda_, ispat sisteminin kabulü iki şarttan
+birisinin gerçekleşmesine bağlı kılınmıştır. Buna göre, *isnat olunan fiilin
+doğru olup olmadığının anlaşılmasında kamu yararı bulunmalı* veya *şikayetçi
+ispata razı olmalıdır*.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+. Suçun *kamu görevlisine görevinden dolayı* işlenmesi
+. Suçun *dini, siyasi, sosyal, felsefi inanç, düşünce ve kanaatlerini
+açıklamasından, değiştirmesinden, yaymaya çalışmasından, mensup olduğu dinin
+emir ve yasaklarına uygun davranmasından dolayı* işlenmesi
+. Suçun *kişinin mensup olduğu dine göre kutsal sayılan değerlerden bahisle*
+işlenmesi
+. Suçun *alenen* işlenmesi
+
+=== KUSURLULUK
+
+Gerçekleştirdiği hakaret nedeniyle fail hakkında kusur yargısında bulunma
+bakımından genel kurallar geçerlidir. Ancak haksız tahrik, hakaret suçunda
+kusur yeteneğine etkisi bakımından özel olarak düzenlenmiştir.
+
+. *Hakaretin haksız bir fiile tepki olarak işlenmesi*
++
+====
+*TCK 129/1*: Hakaret suçunun haksız bir fiile tepki olarak işlenmesi halinde,
+verilecek ceza üçte birine kadar indirilebileceği gibi, ceza vermekten de
+vazgeçilebilir.
+====
++
+Haksızlığın suç teşkil etmesi gerekli değildir. Kabahat neviden haksızlık
+olabileceği gibi, özel hukuk haksızlığı da olabilir. Burada, genel haksız
+tahrik hükmünde olduğu gibi, haksızlığın failde öfke ve elem doğurması
+aranmamıştır. Madde tepkiden bahsedilerek haksız fiilin failin tepki vermesini
+gerektirecek boyutta olmasının yeterli olduğuna işaret edilmiştir. Ayrıca,
+haksız fiilin mutlaka hakaret edene karşı olması gereklidir, hakaretin üçüncü
+kişilere yönelik haksız fiillere tepki olarak gerçekleştirildiği hallerde genel
+haksız tahrik hükmü uygulanır. 
+. *Hakaretin kasten yaralamaya tepki olarak işlenmesi*
++
+====
+*TCK 129/2*: Bu suçun, kasten yaralama suçuna tepki olarak işlenmesi halinde,
+kişiye ceza verilmez.
+====
+. *Karşılıklı hakaret*
++
+====
+*TCK 129/3*: Hakaret suçunun karşılıklı olarak işlenmesi halinde, olayın
+mahiyetine göre, taraflardan her ikisi veya biri hakkında verilecek ceza üçte
+birine kadar indirilebileceği gibi, ceza vermekten de vazgeçilebilir.
+====
++
+Karşılıklılık mahiyeti itibariyle cevap niteliğindeki karşı hakaretin vakit
+geçirmeksizin derhal gerçekleştirilmesini gerektirir. Buna göre, karşı hakaret
+ilkinin etkisinin devam ettiği bir süreç içerisine buku bulmalıdır. Karşı
+hakaretin ilk hakaretle aynı zaman ve yerde gerçekleştirilmesi şart değildir.
+İlk hakaretin ardından ilk fırsatta karşılık veren kişi TCK 129/3 hükmünden
+yararlanacaktır. Gıyapta hakaret halinde ise, mağdurun bu hakareti öğrendikten
+sonra karşılık vermesi halinde de karşılıklı hakaret hükmü uygulanacaktır.
+
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Hakaret, sırf hareket suçlardandır. Bu nedenle, hakareti oluşturan hareketlerin
+icrasıyla birlikte suç tamamlanır. Bu nedenle, hakaret prensip olarak teşebbüse
+elverişli değildir. Ancak icra hareketleriniin kısımlara bölünebildiği, örneğin
+hakaretin yazılı iletişim vasıtalarıyla gerçekleştirildiği hallerde, teşebbüs
+düşünülebilir ve teorik olarak sadece bu ihtimal bakımından failin gönüllü
+vazgeçmesi mümkündür.
+
+==== İŞTİRAK
+
+Bu suç, iştirak bakımından özellik göstermez.
+
+==== İÇTİMA
+
+Failin, hakareti aynı suç işleme kararının icrası kapsamında aynı kişiye karşı
+değişik zamanlarda işlemesi halinde zincirleme suç hükümlerine göre hareket
+edilir. Aynı basılı eserde veya bir mektupta değişik yerlerde, diğerinden
+bağımsız olark hakaretin işlendiği hallerde hukuki anlamda tek fiil söz konusu
+oluşacak ve zincirleme suç hükümleri uygulanmayacaktır.
+
+Fail bir kişi topluluğunun belirlenebilir, ayırt edilebilir bazı üyelerine veya
+birkaç kişiye yönelik bir hakaret gerçekleştirmişse *aynı neviden fikri içtima*
+söz konusu olacaktır.
+
+Hakaret teşkil eden fiiller kurul halinde çalışan kamu görevlilerine karşı
+görevlerinden dolayı gerçekleştirilmişse bunun *aynı neviden fikri içtima*
+oluşturacağını ve bu nedenle zincirleme suç hükümleri uygulanacağı kanunda
+açıkça düzenlenmiştir.
+
+=== YAPTIRIM VE KOVUŞTURMA USULÜ
+
+Hakaret suçu temel şekli ve kamu görevlisine görevinden dolayı işlenenler hariç
+nitelikli şekillerinden dolayı soruşturmanın ve kovuşturmanın şikayete bağlı
+olduğu suçlardandır.
+
+<<<
+
+== BELGEDE SAHTECİLİK SUÇLARI
+
+*Belge kavramı*: Genel olarak doktrinde belge belirli bir kişinin hukuken önem
+taşıyan bir beyanını içeren yazı parçası olarak tanımlanmaktadır. Suçun maddi
+konusunu oluşturan belgeler, toplum içerisinde her an kurulmakta olan hukuki
+ilişkilerin yürümesini sağlayan, kanıtlayan ve delil niteliği olan evraklardır.
+
+Belgeden bahsedebilmek için üç unsurun varlığı gereklidir.
+
+. _Yazılılık_: Belgenin yazılı olması, irade beyanının kaydedilmesi anlamına
+gelmektedir. Yazılı olma unsurunun varlığı için bazı şartların varlığı
+gereklidir.
+
+.. Bir dilin kullanılması
+.. Yazının bir vasıtayla kaydedilmesi
+.. Yazının elverişli bir cisme kaydedilmesi
+.. Yazının okunabilir olması
+
+. _Düzenleyenin belli olması_: Bu imzadan veya başka işaretlerden
+anlaşılabilir. Kimin yazdığı belli olmuyorsa hukuki anlamda belge sayılmaz.
+
+. _Hukuken anlamı olan belirli bir içeriğinin olması_: Yazılı evrakın belge
+olarak kabul edilebilmesi için hukuken korunmaya değer bir içeriğinin olması
+gerekir. Belgenin belirli bir düşünce veya olayın aktarımını ya da bir hukuki
+ilişkinin varlığı yada yokluğunu gösterme gibi bir irade beyanını içermesi
+halinde hukuken korunduğu, delil niteliğinin bulunduğu kabul edilir.
+
+. _İçeriğin süreklilik arz etmesi_
+
+*Belge türleri*:
+
+. *_Resmi belge_*: Resmi belge bakımından üç unsurdan söz edilmektedir:
++
+****
+.. _Kamu görevlisi tarafından düzenlenmesi_
+.. _Kamu görevlisinin görevi gereği düzenlediği bir belge olması_: Belgeyi
+düzenleyenin kamu görevlisi olması her durumda yeterli bir ölçüt değildir. Kamu
+görevlisinin kamu göreviyle ilgisiz bir belge düzenlemesi durumunda, özel
+belgeden söz edilir.
+.. _Kanundaki usullere uygun düzenlenmiş olması_
+****
++
+Resmi belgenin de kendi içinde ayrımları bulunmaktadır:
++
+****
+.. _Aksi sabit oluncaya dek geçerli resmi belgeler_: Yetkili memurların
+düzenlediği tüm belgeler bu sınıftadır.
+.. _Sahteliği sabit oluncaya dek geçerli resmi belgeler_: Bu nitelemeyi
+yapabilmek için mutlaka açık bir hüküm olması gerekir. Örneğin; düzenleme
+şeklindeki noter senetleri, mahkeme ilamları, duruşma tutanakları.
+****
++
+. *_Özel belge_*: Resmi belge unsurlarını taşımayan tüm belgeler bu grupta
+incelenir.
+
+. *_Resmi belge sayılan özel belge_*: Aslında özel belge niteliği taşıyan bazı
+belgeler ekonomik ve sosyal yaşamdaki önemleri sebebiyle resmi belge korumasına
+tabi tutulmuştur.
++
+****
+.. _Emre ve hamiline yazılı kambiyo senetleri_
+.. _Emtiayı temsil eden belgeler_
+.. _Hisse senedi ve tahviler_
++
+Bu bağlamda TCK 198'de sayılan durumlarda bu değerler parayla eşit
+sayıldığından ötürü cezai sorumluluk bu şekilde doğacaktır.
++
+[caption=""]
+.Paraya eşit sayılan değerler
+====
+*TCK 198*: (1) Devlet tarafından ihraç edilip de hamiline yazılı bonolar, hisse
+senetleri, tahviller ve kuponlar, yetkili kurumlar tarafından çıkarılmış olup
+da kanunen tedavül eden senetler, tahviller ve evrak ile milli ziynet
+altınları, para hükmündedir.
+====
+.. _Vasiyetnameler_: Bunların MK uyarınca üç türü bulunmaktadır.
+
+... *Resmi vasiyetname*: Bunlar noter ve sulh hakimi tarafından düzenlenir.
+Dolayısıyla zaten resmi belgedir.
+... *El yazısı ile vasiyetname*: Bunlar kişinin kendisi tarafından ya da katip
+aracılığıyla düzenlenen vasiyetnamelerdir. Bunların da vasiyetnamelere özgü
+gerekli koşulları sağlaması durumunda resmi belge sayılacakları kabul
+edilmektedir.
+... *Sözlü vasiyetname*: Sözlü olduğu için belge niteliği taşımaz ve resmi
+belgede sahtecilik suçlarının konusunu oluşturmaz.
+
+.. _Kamu görevlisi olmayan sağlık mesleği mensuplarının düzenlediği belgeler_
+****
+
+*Sahtecilik ve aldatma kabiliyeti*: Sahte kavramının niteliği itibariyle kendi
+içerisinde aldatmayı içerdiği kabul edilmektedir. Dolayısıyla her ne kadar
+sahte olarak düzenleme kavramında açıkça aldatma vurgulanmamış olsa da bunlar
+da bir aldatma içerir. Aldatma esasen ilk bakışta anlaşılamayan, özel bir
+inceleme gerektiren sahteciliktir.
+
+Sahtecilik eyleminin somut bir zarara yol açması zorunlu bulunmamakla birlikte,
+doktrinde zarar verme olasılığının bulunmaması durumunda suçun oluşmayacağı
+kabul edilmektedir. Fakat sahteciliğin icrasıyla kamu güveni bozulup sarsıldığı
+veya tehlikeye düşürüldüğü için, zararın gerçekleştiğinin araştırılması veya
+ispat edilmesi gerekli değildir. 
+
+<<<
+
+== HERKES TARAFINDAN İŞLENEN RESMİ BELGEDE SAHTECİLİK
+
+====
+*TCK 204*: (1) Bir resmi belgeyi sahte olarak düzenleyen, gerçek bir resmi
+belgeyi başkalarını aldatacak şekilde değiştiren veya sahte resmi belgeyi
+kullanan kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Tüm belgede sahtecilik suçlarında olduğu gibi korunan hukuki değer kamu
+güvenidir. Aynı zamanda bu belgelerin gerçekliğine karşı toplumun duyduğu güven
+de korunmaktadır.
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *SUÇUN KONUSU*: Suçun konusu resmi belgedir. Resmi belge kamu görevlisinin
+görevi gereği kanunda öngörülmüş usullere uygun olarak düzenlediği belgedir.
+Resmi belge sayılan özel belgeler de bu suçun konusunu teşkil eder.
+. *FİİL*: Birbirine alternatif üç fiilden söz edilmiştir:
+
+.. _Resmi belgeyi sahte olarak düzenleme_: Burada sahtecilikten kastedilen esas
+itibarıyla maddi sahteciliktir ve bundan da ilk anlaşılması gereken taklit
+etmektir. Bu taklit etme durumu tamamen veya kısmen olabilir. Belirli bir
+kısmın, örneğin yalnızca imzanın taklidi söz konusu olabileceği gibi belgenin
+tamamı da taklit edilebilir.
++
+NOTE: Taklit etme düzenleyen olarak gözüken kişiden başka bir kişinin yetkisiz
+olarak ilgili resmi belgeyi düzenlemesidir.
++
+Burada maddi sahtecilik ön planda olduğu için içeriğin gerçeği yansıtıp
+yansıtmadığı önemli değildir.
++
+CAUTION: Sahteciliğin aldatıcı nitelikte olması şarttır.
+.. _Gerçek resmi belgeyi başkalarını aldatacak biçimde değiştirme_: Eğer bir
+belgede tahrifat yapılıyorsa bu tahrifatın etkisine bakılmalıdır. Eğer ki
+tahrifat belgenin ispat gücünü farklılaştırma, farklı bir şeyi ispat niteliği
+taşıyorsa ve bu anlamda içeriği aldatıcı hale getiriyor ise resmi belgede
+sahtecilik suçu var denebilir.
++
+Fakat tahrifat belgenin ispat gücünü ortadan kaldırmaya veya azaltmaya yönelik
+ise TCK 205'deki "_Resmi belgeyi bozmak, yok etmek veya gizlemek_" suçu
+oluşacaktır.
++
+CAUTION: Tahrif edilen belge gerçek bir belge olmalıdır.
+.. _Sahte resmi belgeyi kullanma_: Kullanma hareketini sahteciliği yapan kişi
+gerçekleştirmiş ise artık o kişi açısından seçimlik hareketin tekrarı demektir
+ve bu bağlamda cezalandırılmayan sonraki hareket olarak nitelendirilecek ve
+yeni bir haksızlık olarak cezalandırılmayacaktır. 
++
+Kullanma hareketi sahteciliğe katılmayan kişiler açısından önem taşır. Sahte
+resmi belgeyi kast ile kullanan kişi bu hareket doğrultusunda resmi belgede
+sahtecilik suçunu işlemiş olacaktır.
++
+NOTE: Salt sahte belgeyi yanında bulundurmak onu kullanmak anlamına gelmez.
+Fiilen kullanılmış olması gerekir.
+. *FAİL*: Fail bakımından bu suç genel bir suç tipidir ve herkes tarafından
+işlenebilir.
+. *MAĞDUR*: Suç, kamu güvenine karşı işlendiğinden, mağdurun toplum olduğu
+belirltilmiştir. Ancak suçla korunan ikincil yararın kişilere ilişkin olduğu
+düşünüldüğünde suçtan dolayı haksızlığa uğrayan kişilerin de suçtan zarar
+gördükleri ve davaya katılma haklarının bulunduğu kabul edilmelidir.
+
+==== MANEVİ UNSURLAR
+
+Bu suçun taksirle işlenmesi mümkün değildir, failin en azından olası kastla
+hareket etmesi gerekir.
+
+==== HUKUKA AYKIRILIK UNSURU
+
+Kanun, kamu güvenine mazhar olan resmi belgelerin sahihliği ve orjinalliğine
+müdahale niteliğindeki eylemleri hukuka aykırı olarak kabul etmiştir. Resmi
+belgede sahtecilik suçuna ilişkin kanunda düzenlenen tipik hareketin bilerek ve
+istenerek işlenilmesi ile suçun hukuka aykırılık unsuru gerçekleşir.
+
+Bu suç bakımından ilgilinin rızasının hukuka uygunluk nedeni olması
+düşünülemez. Zira suçla korunan yarar kamu güvenidir. Bu nedenle, sahte
+belgenin kullanılması nedeniyle hakları ihlal edilen bireylerin rızası, suçun
+oluşmasını önlemeyecektir.
+
+Buna karşılık, adına belge düzenlenen kişinin fiilden önce buna rıza göstermiş
+olması halinde, failde zarar verme bilincinin bulunmaması nedeniyle suçun
+oluşmadığı kabul edilmelidir.
+
+=== NİTELİKLİ HALLER
+
+TCK 204/3'e göre sahteliği sabit oluncaya kadar geçerli resmi belgelerde
+sahtecilik cezanın artırılmasını gerektiren nitelikli hal olarak
+düzenlenmiştir.
+
+====
+*TCK 204*: (3) Resmi belgenin, kanun hükmü gereği sahteliği sabit oluncaya
+kadar geçerli olan belge niteliğinde olması halinde, verilecek ceza yarısı
+oranında artırılır.
+====
+
+Suçun TCK 211'deki amaçla işlenmesi ise daha az cezayı gerektiren nitelikli
+unsurdur.
+
+====
+*TCK 211*: (1) Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir
+durumun belgelenmesi amacıyla belgede sahtecilik suçunun işlenmesi halinde,
+verilecek ceza, yarısı oranında indirilir.
+====
+
+=== KUSURLULUK
+
+Kusurluluğu etkileyen nedenlerden zorunluluk hali, cebir ve tehdit gündeme
+gelebilir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Bu suçta seçimlik hareketlerden herhangi birine yönelik icra hareketlerinin
+bitirilmesi suçun tamamlanması için yeterli olmakta, ayrıca bir zararın doğması
+aranmamaktadır. 
+
+Failin sahte belge düzenleme ve kullanma biçimindeki seçenek hareketlerden
+ikisini de yerine getirmesi durumunda, suç sahte belgenin düzenlenmesiyle
+tamamlanmakla birlikte suçun işlenmesi kullanma ile bitmektedir. Belgenin
+kullanma halinin sürüyor olması, eylemin sürdüğü anlamına gelmez. 
+
+==== İŞTİRAK
+
+Suça iştirake ait genel hükümler uygulanır. Her türlü iştirak statüsü gündeme
+gelebilir.
+
+==== İÇTİMA
+
+Seçimlik hareketlerden birden fazlasının işlenmesi halinde de eylem tek suç
+olarak kabul edilir. Yargıtay, sahte belgenin birden fazla kullanılması halinde
+de tek suç oluştuğunu ve zincirleme suçun uygulanmayacağını kabul edilmektedir.
+
+TCK 212 ile özel bir gerçek içtima kuralı düzenlenmiştir.
+
+====
+*TCK 212*: (1) Sahte resmi veya özel belgenin bir başka suçun işlenmesi
+sırasında kullanılması halinde, hem sahtecilik hem de ilgili suçtan dolayı ayrı
+ayrı cezaya hükmolunur.
+====
+
+Birden fazla sahte belge düzenlenmişse, aynı suç işleme kararı bulunuyorsa
+zincirleme suç sayılarak TCK 43 uygulanır. 
+
+====
+*TCK 43*: (1) Bir suç işleme kararının icrası kapsamında, değişik zamanlarda
+bir kişiye karşı aynı suçun birden fazla işlenmesi durumunda, bir cezaya
+hükmedilir. Ancak bu ceza, dörtte birinden dörtte üçüne kadar artırılır. Bir
+suçun temel şekli ile daha ağır veya daha az cezayı gerektiren nitelikli
+şekilleri, aynı suç sayılır. Mağduru belli bir kişi olmayan suçlarda da bu
+fıkra hükmü uygulanır.
+
+(2) Aynı suçun birden fazla kişiye karşı tek bir fiille işlenmesi durumunda da,
+birinci fıkra hükmü uygulanır.
+
+(3) Kasten öldürme, kasten yaralama, işkence ve yağma suçlarında bu madde
+hükümleri uygulanmaz.
+====
+
+<<<
+
+== KAMU GÖREVLİSİ TARAFINDAN İŞLENEN RESMİ BELGEDE SAHTECİLİK SUÇU
+
+====
+*TCK 204*: (2) Görevi gereği düzenlemeye yetkili olduğu resmi bir belgeyi sahte
+olarak düzenleyen, gerçek bir belgeyi başkalarını aldatacak şekilde değiştiren,
+gerçeğe aykırı olarak belge düzenleyen veya sahte resmi belgeyi kullanan kamu
+görevlisi üç yıldan sekiz yıla kadar hapis cezası ile cezalandırılır.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Tüm belgede sahtecilik suçlarında olduğu gibi korunan hukuki değer kamu
+güvenidir. Aynı zamanda bu belgelerin gerçekliğine karşı toplumun duyduğu güven
+de korunmaktadır.
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *SUÇUN KONUSU*: Suçun konusu failin görevi gereği düzenlemeye yetkili olduğu
+bir belge olmalıdır. Aksi takdirde birinci fıkradaki suç oluşacaktır.
+. *FİİL*: Bu suç seçimlik hareketli bir suçtur.
+
+.. _Sahte resmi belge olarak düzenleme_: Düzenleyen olarak gözüken kişi yerine
+başka bir kişinin taklit yoluyla bu belgeyi düzenlemesidir. Örneğin çift imza
+gerektiren belgelerde diğer kişinin imzasının taklit edilmesi.
+.. _Gerçek resmi belgeyi başkalarını aldatacak şekilde değiştirme_: Kamu
+görevlisinin bu seçimlik hareketten sorumlu tutulması için değiştirme
+yetkisinin sona ermiş olması lazımdır. Eğer değişiklik yetkisine sahipse zaten
+bu suç oluşmayacaktır.
+.. _Gerçeğe aykırı belge düzenleme_: Bu hareket fikri sahteciliğe ilişkindir.
+Kamu görevlisinin gerçek olmayan durumları içeriğe eklemesi veya gerçek durumu
+içerikten çıkarması bu hareketi oluşturur. Bu durumun da aldatıcı nitelikte
+olması gerekir.
+.. _Sahte resmi belgeyi kullanma_: Burada kişinin belgeyi düzenlememiş olması
+gerekir. Eğer hem düzenlemiş hem de kullanmış ise kullanma cezalandırılmayan
+sonraki hareket olacaktır.
+
+. *FAİL*: Bu suç özgü bir suçtur. Fail yalnızca kamu görevlisi olabilir.
+. *MAĞDUR*: Suç, kamu güvenine karşı işlendiğinden, mağdurun toplum olduğu
+belirltilmiştir. Ancak suçla korunan ikincil yararın kişilere ilişkin olduğu
+düşünüldüğünde suçtan dolayı haksızlığa uğrayan kişilerin de suçtan zarar
+gördükleri ve davaya katılma haklarının bulunduğu kabul edilmelidir.
+
+==== MANEVİ UNSURLAR
+
+Bu suç kasten işlenebilen suçlardandır. Failin en azından olası kastı
+bulunmalıdır.
+
+==== HUKUKA AYKIRILIK UNSURU
+
+Kanun, kamu güvenine mazhar olan resmi belgelerin sahihliği ve orjinalliğine
+müdahale niteliğindeki eylemleri hukuka aykırı olarak kabul etmiştir. Resmi
+belgede sahtecilik suçuna ilişkin kanunda düzenlenen tipik hareketin bilerek ve
+istenerek işlenilmesi ile suçun hukuka aykırılık unsuru gerçekleşir.
+
+Bu suç bakımından ilgilinin rızasının hukuka uygunluk nedeni olması
+düşünülemez. Zira suçla korunan yarar kamu güvenidir. Bu nedenle, sahte
+belgenin kullanılması nedeniyle hakları ihlal edilen bireylerin rızası, suçun
+oluşmasını önlemeyecektir.
+
+Buna karşılık, adına belge düzenlenen kişinin fiilden önce buna rıza göstermiş
+olması halinde, failde zarar verme bilincinin bulunmaması nedeniyle suçun
+oluşmadığı kabul edilmelidir.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+TCK 204/3'e göre sahteliği sabit oluncaya kadar geçerli resmi belgelerde
+sahtecilik cezanın artırılmasını gerektiren nitelikli hal olarak
+düzenlenmiştir.
+
+====
+*TCK 204*: (3) Resmi belgenin, kanun hükmü gereği sahteliği sabit oluncaya
+kadar geçerli olan belge niteliğinde olması halinde, verilecek ceza yarısı
+oranında artırılır.
+====
+
+Suçun TCK 211'deki amaçla işlenmesi ise daha az cezayı gerektiren nitelikli
+unsurdur.
+
+====
+*TCK 211*: (1) Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir
+durumun belgelenmesi amacıyla belgede sahtecilik suçunun işlenmesi halinde,
+verilecek ceza, yarısı oranında indirilir.
+====
+
+=== KUSURLULUK
+
+Kusurluluğu etkileyen nedenlerden hukuka aykırıcı bağlayıcı emir, zorunluluk,
+cebir ve tehdit gündeme gelebilir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Bu suçta seçimlik hareketlerden herhangi birine yönelik icra hareketlerinin
+bitirilmesi suçun tamamlanması için yeterli olmakta, ayrıca bir zararın doğması
+aranmamaktadır. 
+
+Failin sahte belge düzenleme ve kullanma biçimindeki seçenek hareketlerden
+ikisini de yerine getirmesi durumunda, suç sahte belgenin düzenlenmesiyle
+tamamlanmakla birlikte suçun işlenmesi kullanma ile bitmektedir. Belgenin
+kullanma halinin sürüyor olması, eylemin sürdüğü anlamına gelmez. 
+
+==== İŞTİRAK
+
+Bu suç özgü bir suç olduğundan özel faillik niteliği taşımayan kişiler burada
+müşterek fail olamayacaktır. Diğerlerinin ancak azmettiren veya yardım eden
+olarak sorumluluğu gündeme gelecektir. 
+
+==== İÇTİMA
+
+Seçimlik hareketlerden birden fazlasının işlenmesi halinde de eylem tek suç
+olarak kabul edilir. Yargıtay, sahte belgenin birden fazla kullanılması halinde
+de tek suç oluştuğunu ve zincirleme suçun uygulanmayacağını kabul edilmektedir.
+
+TCK 212 ile özel bir gerçek içtima kuralı düzenlenmiştir.
+
+====
+*TCK 212*: (1) Sahte resmi veya özel belgenin bir başka suçun işlenmesi
+sırasında kullanılması halinde, hem sahtecilik hem de ilgili suçtan dolayı ayrı
+ayrı cezaya hükmolunur.
+====
+
+Birden fazla sahte belge düzenlenmişse, aynı suç işleme kararı bulunuyorsa
+zincirleme suç sayılarak TCK 43 uygulanır. 
+
+====
+*TCK 43*: (1) Bir suç işleme kararının icrası kapsamında, değişik zamanlarda
+bir kişiye karşı aynı suçun birden fazla işlenmesi durumunda, bir cezaya
+hükmedilir. Ancak bu ceza, dörtte birinden dörtte üçüne kadar artırılır. Bir
+suçun temel şekli ile daha ağır veya daha az cezayı gerektiren nitelikli
+şekilleri, aynı suç sayılır. Mağduru belli bir kişi olmayan suçlarda da bu
+fıkra hükmü uygulanır.
+
+(2) Aynı suçun birden fazla kişiye karşı tek bir fiille işlenmesi durumunda da,
+birinci fıkra hükmü uygulanır.
+
+(3) Kasten öldürme, kasten yaralama, işkence ve yağma suçlarında bu madde
+hükümleri uygulanmaz.
+====
+
+<<<
+
+== RESMİ BELGENİN DÜZENLENMESİNDE YALAN BEYAN
+
+====
+*TCK 206*: (1) Bir resmi belgeyi düzenlemek yetkisine sahip olan kamu
+görevlisine yalan beyanda bulunan kişi, üç aydan iki yıla kadar hapis veya adlî
+para cezası ile cezalandırılır.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Tüm belgede sahtecilik suçlarında olduğu gibi korunan hukuki değer kamu
+güvenidir. Aynı zamanda bu belgelerin gerçekliğine karşı toplumun duyduğu güven
+de korunmaktadır.
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *SUÇUN KONUSU*: Burada suçun konusu kamu görevlisinin yalan beyana itibar
+ederek düzenlediği resmi belgedir. Beyan ile belgenin ispat gücü arasında
+doğrudan bir bağlantı olmalıdır. Eğer kamu görevlisinin bir araştırma
+yükümlülüğü varsa veya kendi başına düzenleyebileceği bir belge söz konusu ise
+bu suç oluşmayacaktır. Burada salt bir beyan ile yetinilerek belgenin
+düzenlenmesi söz konsudur.
+. *FİİL*: Resmi belge düzenleme yetkisine sahip kamu görevlisine yalan beyanda
+bulunmak ile bu suçun fiil unsuru gerçekleşir. Beyan sözlü veya yazılı
+olabilir.
++
+Genel kabule göre bu beyan kayda geçmeli ve bu kapsamda bir belge
+oluşturulmalıdır.
++
+Beyan mutlaka düzenlenen belge ile ilgili olmalıdır. Belgeyle alakasız olan
+beyanlar bu suçun fiil unsurunu teşkil etmeyecektir.
++
+Beyan gerçeğe aykırı olmalıdır. Burada beyan tarihi önemlidir. Yapılan bir
+beyan sonradan gerçeğe aykırı gelmiş olabilir. Burada önemli olan beyan
+tarihinde yapılmış olan beyanın gerçekliğidir.
++
+Bu suç kapsamında bir zarar oluşması aranmamaktadır.
+. *FAİL*: Herkes bu suçun faili olabilir.
++
+Kamu görevlisi bu suça iştirak edebilir. Örneğin, beyanın yalan olduğu bilerek
+belgeyi düzenlemiş olabilir. Böyle bir durumda kamu görevlisi TCK 204/2'yi
+gerçekleştirmiş, bu suçun da şeriki olmuştur.
++
+Kişi doğruyu söylemiş ancak kamu görevlisi beyanı yanlış kaydetmiş olabilir.
+Böyle bir durumda kamu görevlisinin kastı varsa TCK 204/2'den sorumlu
+olacaktır.
+. *MAĞDUR*: Tüm belgede sahtecilik suçlarında olduğu gibi mağdur kamu
+güvenidir.
+
+==== MANEVİ UNSURLAR
+
+Bu suç kasten işlenebilen suçlardandır. Failin en azından olası kastla hareket
+etmesi gerekir.
+
+==== HUKUKA AYKIRILIK UNSURU
+
+Burada tartışılan husus ceza yargılamasındaki şüheli veya sanığın yalan beyanda
+bulunmasının bu suçu oluşturup oluşturmayacağıdır.
+
+Kimliğe ilişkin sorularla ilgili şüpheli ve sanığın doğru söyleme zorunluluğu
+vardır. Dolayısıyla bu kapsamda yalan söylemesi halinde bu suç kapsamında
+sorumluluğu doğabilir.
+
+Kişi kimliğine ilişkin tamamen hayali bir kişinin kimliği verirse bu durumda
+sadece bu suç bakımından sorumluluk tartışılır. Ancak başka bir gerçek kişinin
+kimliğini verirse iftira suçundan da sorumlu olur.
+
+Diğer bir husus ise kişinin kimlik bilgilerini doğru vermesi ancak suçu
+başkasının işlediği söylemesidir. Şüpheli veya sanığın kimlik bilgileri dışında
+doğru söyleme yükümlülüğü yoktur dolayısıyla böyle bir durumda bu suçtan
+sorumlu olmazlar ancak iftira suçunun oluşması saklıdır.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+Suçun TCK 211'deki amaçla işlenmesi ise daha az cezayı gerektiren nitelikli
+unsurdur.
+
+====
+*TCK 211*: (1) Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir
+durumun belgelenmesi amacıyla belgede sahtecilik suçunun işlenmesi halinde,
+verilecek ceza, yarısı oranında indirilir.
+====
+
+=== KUSURLULUK
+
+Bu bakımdan özellik arzeden herhangi bir durum yoktur.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Sırf beyanla suçun oluştuğu kabul edilirse, beyanın kamu görevlisine
+ulaşmasında bir yarıda kalma halinde bu suça teşebbüs gündeme gelebilir. Kayda
+geçme ile suçun oluştuğu kabul edilirse, bu beyanın yapılmış ancak bir şekilde
+kayda geçirilememiş olması durumunda teşebbüs gündeme gelebilecektir. 
+
+==== İŞTİRAK
+
+İştirak bakımından bu suç herhangi bir özellik arz etmemektedir.
+
+Kamu görevlisi bu suça iştirak edebilir. Örneğin, beyanın yalan olduğu bilerek
+belgeyi düzenlemiş olabilir. Böyle bir durumda kamu görevlisi TCK 204/2'yi
+gerçekleştirmiş, bu suçun da şeriki olmuştur.
+
+==== İÇTİMA
+
+Herhangi bir belge düzenlenmesi söz konusu değilse yalnızca kabahat söz konusu
+olacaktır.
+
+Hukuka aykırılık unsurunda açıklandığı gibi iftira ile de ilişkilendirilebilir.
+
+<<<
+
+== RESMİ BELGEYİ BOZMA, YOK ETME VEYA GİZLEME SUÇU
+
+====
+*TCK 205*: (1) Gerçek bir resmi belgeyi bozan, yok eden veya gizleyen kişi, iki
+yıldan beş yıla kadar hapis cezası ile cezalandırılır. Suçun kamu görevlisi
+tarafından işlenmesi halinde, verilecek ceza yarı oranında artırılır.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Tüm belgede sahtecilik suçlarında olduğu gibi korunan hukuki değer kamu
+güvenidir. Aynı zamanda bu belgelerin gerçekliğine karşı toplumun duyduğu güven
+de korunmaktadır.
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *SUÇUN KONUSU*: Ancak gerçek bir resmi belge bu suçun konusunu teşkil
+edebilir. Sahte belgelerin bozulması, yok edilmesi bir korumaya tabi
+tutulmamıştır.
++
+Resmi belge sayılan özel belgelerin de bozulması, yok edilmesi halinde de bu
+suç oluşabilir. Dolayısıyla örneğin bir çek, bu suçun konusunu oluşturabilir.
+. *FİİL*: Bu suçun seçimlik hareketleri bozma, yok etme veya gizlemedir. Yok
+etmek belgenin maddi varlığını ortadan kaldırmak, bozmak ise o belgeden
+yararlanılmasına engel olan her türlü harekettir. Gizlemek ise belgeyi
+bozmaksızın ve varlığını yok etmeksizin belgeye erişilmesini engellemk ve
+yararlanma olanağını ortadan kaldırmaktır.
+. *FAİL*: Herkes bu suçun faili olabilir.
+. *MAĞDUR*: Tüm belgede sahtecilik suçlarında olduğu gibi mağdur kamu
+güvenidir.
+
+==== MANEVİ UNSURLAR
+
+Bu suç kasten işlenebilen suçlardandır. Failin en azından olası kastla hareket
+etmesi gerekir.
+
+==== HUKUKA AYKIRILIK UNSURU
+
+Hukuka uygunluk sebeplerinden kanun hükmünü icra, görevin ifası gündeme
+gelebilir.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+Failin kamu görevlisi olması cezanın artırılmasını gerektiren bir nitelikli hal
+olarak düzenlenmiştir. Failin kamu görevlisi olması yeterli görülmüş, görevi
+gereği bu suçu işlemesi aranmamıştır.
+
+=== KUSURLULUK
+
+Bu suç bakımından mazeret şartları, zorunluluk hali, cebir-tehdit gibi durumlar
+şartları varsa gündeme gelebilir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Teşebbüs bakımından bir özellik arz etmemektedir. Bu suç bir hareket suçudur.
+Yok etme, bozma, gizleme gibi fiiller zamana yayılmış ise teşebbüs söz konusu
+olabilir.
+
+==== İŞTİRAK
+
+Tüm iştirak türleri bu suç bakımından gündeme gelebilir.
+
+==== İÇTİMA
+
+TCK 212 ile özel bir gerçek içtima kuralı düzenlenmiştir.
+
+====
+*TCK 212*: (1) Sahte resmi veya özel belgenin bir başka suçun işlenmesi
+sırasında kullanılması halinde, hem sahtecilik hem de ilgili suçtan dolayı ayrı
+ayrı cezaya hükmolunur.
+====
+
+TCK 281'de suç delillerini yok etme, gizleme veya değiştirme şeklinde bir suç
+tipi vardır. Bu deliller belge niteliğinde ise resmi belgeyi yok etme, bozma
+veya gizleme suçunun içtiması olarak gündeme gelebilir. Fakat TCK 281'de ayrıca
+özel bir amaç öngörülmüştür. Ancak bu amacın varlığında TCK 281 ile TCK 205'in
+içtiması söz konusu olur.
+
+====
+*TCK 281*: (1) Gerçeğin meydana çıkmasını engellemek amacıyla, bir suçun
+delillerini yok eden, silen, gizleyen, değiştiren veya bozan kişi, altı aydan
+beş yıla kadar hapis cezası ile cezalandırılır. Kendi işlediği veya işlenişine
+iştirak ettiği suçla ilgili olarak kişiye bu fıkra hükmüne göre ceza verilmez.
+====
+
+<<<
+
+== HERKES TARAFINDAN İŞLENEBİLEN ÖZEL BELGEDE SAHTECİLİK SUÇU
+
+====
+*TCK 207*: (1) Bir özel belgeyi sahte olarak düzenleyen veya gerçek bir özel
+belgeyi başkalarını aldatacak şekilde değiştiren ve kullanan kişi, bir yıldan
+üç yıla kadar hapis cezası ile cezalandırılır.
+
+(2) Bir sahte özel belgeyi bu özelliğini bilerek kullanan kişi de yukarıdaki
+fıkra hükmüne göre cezalandırılır.
+====
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *SUÇUN KONUSU*: Bu suçun konusu özel belgedir. Özel belge, resmi belge
+olmayan tüm belgelerdir.
++
+Mutlak butlanla sakat olan sözleşmeler bu suçun konusunu oluşturamazlar. Zira
+bunlara ilişkin bir koruma öngörülmemiştir.
+. *FİİL*: Özel belgede sahtecilik suçu, kısmen seçimlik hareketli ve çok
+hareketli bir suçtur.
++
+Bu seçimlik hareketler;
+
+.. _Özel belgeyi sahte olarak düzenlemek ve kullanmak_: Burada sahte olarak
+düzenlemek maddi sahteciliğe ilişkindir.
++
+TIP: Maddi sahtecilik varsa fikri sahtecilik tartışılmaz. Zira bir başkası
+adına düzenlenmiş bir belge söz konusuysa içeriğin doğruluğu önemsizdir. Fikri
+sahtecilik yalnızca maddi sahteciliğin olmadığı durumlara özgü olarak
+kullanılan bir kavramdır. Düzenleyen gerçek ancak içerik gerçeği yansıtmıyorsa
+fikri sahtecilik vardır.
+.. _Gerçek bir özel belgeyi başkalarını aldatacak şekilde değiştirmek ve
+kullanmak_: Değiştirme hareketinin aldatıcı nitelikte olması gerekmektedir.
+Bu suçun özel belgeyi bozma, yok etmek veya gizleme suçundaki bozma
+hareketinden farkını bu aldatıcılık koymaktadır.
+.. _Sahte özel belgeyi kullanmak_: Burada sahteciliğe katılmaksızın doğrudan
+sahte özel belgeyi kullanmak suretiyle suçun işlenmesi söz konusudur. Buradaki
+sahte ifadesi yalnızca maddi sahteciliği değil, fikri sahteciliği de ifade
+etmektedir. 
++
+Kullanma; hukuki anlamda olup, belgenin hukuki anlamda sonuç doğuracak şekilde
+kullanılmasını ifade eder. 
+. *FAİL*: Herkes bu suçun faili olabilir.
+. *MAĞDUR*: Mağdur genel olarak kamu güvenidir ancak belirli kişiler de ayrıca
+mağdur olabilir. 
+
+==== MANEVİ UNSURLAR
+
+Bu suç kasten işlenebilen bir suçtur. Birinci fıkra açısından olası kast
+yeterlidir ancak ikinci fıkra için doğrudan kast aranır.
+
+==== HUKUKA AYKIRILIK UNSURU
+
+Kişinin rızasının bulunması yani onun adına imzasının atılmasına rıza
+göstermesi bir hukuka uygunluk nedeni olarak kabul edilemez. Zira bu mutlak
+suretle tasarruf edilebilecek bir yetki değildir.
+
+Bu kapsamda rıza bir hukuka uygunluk nedeni değildir. Ancak imzayı atan kişi
+bunun bir suç teşkil etmediğini düşünebilir. Böyle bir durumda haksızlık hatası
+vardır ve bu kaçınılmaz ise o kişinin kusurluluğunu etkileyecektir.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+Suçun TCK 211'deki amaçla işlenmesi daha az cezayı gerektiren nitelikli
+unsurdur.
+
+====
+*TCK 211*: (1) Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir
+durumun belgelenmesi amacıyla belgede sahtecilik suçunun işlenmesi halinde,
+verilecek ceza, yarısı oranında indirilir.
+====
+
+=== KUSURLULUK
+
+Burada yukarıda bahsedilen haksızlık hatası gündeme gelebilir. Bunun dışında
+şartları varsa zorunluluk hali, cebir-tehdit gibi mazeret nedenleri de söz
+konusu olabilir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Kişi sahte özel belgeyi düzenledikten sonra daha kullanma fırsatı bulamadan
+yakalanırsa teşebbüs kapsamında değerlendirilecek midir? 
+
+Doktrinde bazı yazarlar kullanma hareketi gerçekleşmediği için teşebbüs de
+oluşmaz demektedir. _Kürsüye göre_ ise kişinin belgeyi düzenlerken ya da
+değiştirirken kullanmaya ilişkin kastı tespit edilirse teşebbüsten sorumlu
+olur. 
+
+==== İŞTİRAK
+
+İştirakin tüm şekilleri bu suç kapsamında görülebilir.
+
+==== İÇTİMA
+
+TCK 212 ile özel bir gerçek içtima kuralı düzenlenmiştir.
+
+====
+*TCK 212*: (1) Sahte resmi veya özel belgenin bir başka suçun işlenmesi
+sırasında kullanılması halinde, hem sahtecilik hem de ilgili suçtan dolayı ayrı
+ayrı cezaya hükmolunur.
+====
+
+Zincirleme suç bakımından tartışma vardır. Acaba resmi belgede sahtecilik suçu
+ile özel belgede sahtecilik aynı suç mudur?
+
+Bu noktada Yargıtay bir kararında bu iki suçu aynı suç olarak kabul etmiştir.
+Bu husus doktrinde eleştirilmiştir. Zira korunan hukuki değerler aynı olsa da
+unsurlar itibariyle farklılıklar vardır ve dolayısıyla bunlar farklı suçlar
+olmalıdır.
+
+<<<
+
+== KAMU GÖREVLİSİ OLMAYAN SAĞLIK MESLEĞİ MENSUBUNUN ÖZEL BELGEDE FİKRİ SAHTECİLİĞİ
+
+====
+*TCK 210*: (2) Gerçeğe aykırı belge düzenleyen tabip, diş tabibi, eczacı, ebe,
+hemşire veya diğer sağlık mesleği mensubu, üç aydan bir yıla kadar hapis cezası
+ile cezalandırılır. Düzenlenen belgenin kişiye haksız bir menfaat sağlaması ya
+da kamunun veya kişilerin zararına bir sonuç doğurucu nitelik taşıması halinde,
+resmi belgede sahtecilik hükümlerine göre cezaya hükmolunur.
+====
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *SUÇUN KONUSU*: Suçun konusu sağlık mensuplarının meslekleri dolayısıyla
+düzenledikleri bir özel belgedir.
+. *FİİL*: Bu suç açısından tek fiil söz konusudur, o da gerçeğe aykırı
+düzenlemedir. Burada bir fikri sahtecilik söz konusudur. Maddi sahtecilik bu
+kapsamda değerlendirilmez. 
++
+Örneğin, bir hemşirenin doktorun imzasını taklit ederek bir belge düzenlemesi
+sahte özel belge düzenlemektir ve kullanma hareketiyle birlikte TCK 207'deki
+özel belgede sahtecilik suçundan ötürü sorumluluk doğacaktır.
++
+Bu belgenin ayrıca kullanılması halinde, özellikle de bir doktoru azmettirerek
+kişinin ona gerçeğe aykırı belge düzenlettirmesi ve bu belgeyi de gerçeğe
+aykırı olarak kullanması halinde TCK 207/2'den sorumluluk doğacaktır.
+. *FAİL*: Bu suç bir özgü suçtur. Dolayısıyla herkes bu suçun faili olamaz. 
++
+Maddede sayılanlar dışında diğer sağlık mensupları da bu suçun faili olabilir.
+Dolayısıyla sınırlı sayıda değildir. Ancak sağlık mensuplarının kamu görevlisi
+olmaması gerekir, zira bu durumda TCK 204/2 gündeme gelecektir.
+. *MAĞDUR*: Belgede sahtecilik suçları, topluma karşı işlenen suçlar olduğu
+için burada öncelikli mağdur kamudur, toplumu oluşturan herkestir.
+
+==== MANEVİ UNSURLAR
+
+Bu suç kasten işlenebilen suçlardandır. 
+
+==== HUKUKA AYKIRILIK UNSURU
+
+Kusur bakımından herhangi bir özellik arz etmez.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+Düzenlenen sahte özel belge kişilerin zararına sonuç doğurucu nitelik taşıyorsa
+resmi belgede sahtecilik hükümlerine göre cezaya hükmolunacaktır. Yani bu
+cezanın artırılmasını gerektiren nitelikli bir haldir. Burada bir zarar
+oluşması değil buna elverişli olması aranmaktadır.
+
+Belgenin kişiye haksız bir menfaat sağlaması halinde de resmi belgede
+sahtecilik hükümlerine göre cezaya hükmolunacaktır. Burada kastedilen sağlık
+meslek mensubunun belge düzenleme karşılığı karşı taraftan menfaat elde etmesi
+değil, belgenin içeriğinden hareketle, belgenin kullanılması suretiyle yarar
+sağlanmasıdır.
+
+TCK 211 uyarınca daha az cezayı gerektiren nitelikli hal burada da
+uygulanacaktır.
+
+====
+*TCK 211*: (1) Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir
+durumun belgelenmesi amacıyla belgede sahtecilik suçunun işlenmesi halinde,
+verilecek ceza, yarısı oranında indirilir.
+====
+
+=== KUSURLULUK
+
+Kusur bakımından bir özellik arz etmemektedir. Şartları varsa mazeret sebepleri
+uygulanabilir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Düzenleme ile suç tamamlandığı için ancak düzenleme yarıda kalmış ise bu suça
+teşebbüs söz konusu olabilir. Zira bu suç bir sırf hareket suçudur. 
+
+==== İŞTİRAK
+
+Bu suç bir özgü suç olduğu için ancal özel faillik niteliği taşıyan kişiler
+fail olabileceklerdir. Diğer kişiler ancak şerik olabilirler. Özellikle
+düzenlemeyi talep eden kişi azmettiren olarak sorumlu olacaktır.
+
+==== İÇTİMA
+
+TCK 212 ile özel bir gerçek içtima kuralı düzenlenmiştir.
+
+====
+*TCK 212*: (1) Sahte resmi veya özel belgenin bir başka suçun işlenmesi
+sırasında kullanılması halinde, hem sahtecilik hem de ilgili suçtan dolayı ayrı
+ayrı cezaya hükmolunur.
+====
+
+<<<
+
+== ÖZEL BELGEYİ BOZMA, YOK ETME VEYA GİZLEME 
+
+====
+*TCK 208*: (1) Gerçek bir özel belgeyi bozan, yok eden veya gizleyen kişi, bir
+yıldan üç yıla kadar hapis cezası ile cezalandırılır.
+====
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *SUÇUN KONUSU*: Suçun konusu gerçek bir özel belgedir. Dolayısıyla sahte
+belgelerin yok edilmesi, bozulması veya gizlenmesi bir suç niteliği
+taşımamaktadır.
+. *FİİL*: Üç adet seçimlik hareket öngörülmüştür: bozma, yok etme ve gizleme.
++
+Bozma esasen karalama, silme, boyama gibi filleri ifade etmektedir. Burada amaç
+belgenin ispat gücünü ortadan kaldırmaktır. Değiştirmek amacıyla bir hareket,
+örneğin bir karalama varsa bu durumda aldatıcılık söz konusu olacağından
+sorumluluk TCK 207'den doğacaktır.
++
+Yok etme, belgenin maddi varlığını ortadan kaldırmaktır. Yırtma şeklinde
+gerçekleşmiş de yırtılan belgenin parçaları birleştirilmek suretiyle belgenin
+ispat gücü tekrar ortaya konulabilmişse suç teşebbüs aşamasında kalmıştır.
++
+Gizleme fiili, bozma ve yok etme olmaksızın belgeden yararlanmanın engellenmesi
+durumudur. 
+. *FAİL*: Fail açısından bir özellik arz etmemektedir. Herkes bu suçun faili
+olabilir. Kişinin kamu görevlisi olması bir nitelikli hal olarak
+düzenlenmiştir.
+. *MAĞDUR*: Mağdur genel olarak kamu güvenidir ancak belirli kişiler de ayrıca
+mağdur olabilir. 
+
+==== MANEVİ UNSURLAR
+
+Bu suç kasten işlenebilen suçlardandır.
+
+==== HUKUKA AYKIRILIK UNSURU
+
+Kişi belgeyi yırtarsa ve bu belge üzerinde tasarruf yetkisi varsa suç oluşacak
+mıdır? Bu durum hakkın kullanılmasını gündeme getirebilir.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+Herhangi bir nitelikli hal öngörülmüş değildir. TCK 211 de burada uygulanamaz,
+zira burada bir sahtecilik söz konusu değildir.
+
+=== KUSURLULUK
+
+Kusurluluk bakımından bir özellik arz etmemektedir. Mazeret sebepleri şartları
+varsa uygulanabilir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Özellikle yok etme hareketi bağlamında yırtılan kısımların birleştirilmesi
+suretiyle belgenin ispat gücü elde edilebiliyor ise fiil tamamlanamamış
+demektir. Bu durumda teşebbüs söz konusu olacaktır.
+
+==== İŞTİRAK
+
+İştirakin her şekliyle bu suça katılım mümkündür.
+
+==== İÇTİMA
+
+TCK 212 burada gündeme gelmez zira ortada sahte bir belge yoktur.
+
+TCK 281'de suç delillerini yok etme, gizleme veya değiştirme şeklinde bir suç
+tipi vardır. Bu deliller belge niteliğinde ise özel belgeyi yok etme, bozma
+veya gizleme suçunun içtiması olarak gündeme gelebilir. Fakat TCK 281'de ayrıca
+özel bir amaç öngörülmüştür. Ancak bu amacın varlığında TCK 281 ile TCK 205'in
+içtiması söz konusu olur.
+
+====
+*TCK 281*: (1) Gerçeğin meydana çıkmasını engellemek amacıyla, bir suçun
+delillerini yok eden, silen, gizleyen, değiştiren veya bozan kişi, altı aydan
+beş yıla kadar hapis cezası ile cezalandırılır. Kendi işlediği veya işlenişine
+iştirak ettiği suçla ilgili olarak kişiye bu fıkra hükmüne göre ceza verilmez.
+====
+
+<<<
+
+== AÇIĞA İMZANIN KÖTÜYE KULLANILMASI SUÇU
+
+====
+*TCK 209*: (1) Belirli bir tarzda doldurulup kullanılmak üzere kendisine teslim
+olunan imzalı ve kısmen veya tamamen boş bir kağıdı, verilme nedeninden farklı
+bir şekilde dolduran kişi, şikayet üzerine, üç aydan bir yıla kadar hapis
+cezası ile cezalandırılır.
+
+(2) İmzalı ve kısmen veya tamamen boş bir kağıdı hukuka aykırı olarak ele
+geçirip veya elde bulundurup da hukuki sonuç doğuracak şekilde dolduran kişi,
+belgede sahtecilik hükümlerine göre cezalandırılır.
+====
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *SUÇUN KONUSU*: Kısmen ve tamamen boş ve imzalı kağıt bu suçun konusunu
+oluşturur.
++
+Bu kağıt bir resmi belge de olabilir, bir özel belge de olabilir. Bu kağıdın
+imzalı olması ve imzanın mutlaka iradi olarak atılmış olması aranmaktadır. 
++
+TIP: İmza zorla, cebir ve tehdit ile attırılmış ise bu durumda senedin yağması
+suçu oluşacaktır. Hile ile attırılmış ise dolandırıcılık suçu oluşur.
++
+İmzalı kağıdın kısmen veya tamamen boş olması gerekmektedir. Kağıt kısmen
+doluysa bu dolu kısmın bir hukuki sonuç doğurmaması gerekmektedir.
++
+Kağıdın failin zilyetliğinde olması gerekir. Birinci fıkra açısından kağıdın
+faile rıza ile teslim edilmiş olması ve teslimin amacının da belirli tarzda
+doldurup kullanma olması gerekir. Yani esasen burada bir vekalet ilişkisi söz
+konusudur.
++
+İkinci fıkra açısından ise imzalı ve kısmen veya tamamen boş kağıdın hukuka
+aykırı olarak ele geçirilip hukuki sonuç doğuracak şekilde doldurulması söz
+konusudur. Burada rızai bir teslim yoktur.
++
+CAUTION: Rızai bir teslim bulunmakla birlikte amaç bunun belirli tarzda
+doldurulup kullanılması değil de örneğin saklama ise yine ikinci fıkradan
+sorumluluk doğacaktır.
+. *FİİL*: İmzalı boş kağıdı verilme nedeninden farklı şekilde doldurmak veya
+hukuka aykırı şekilde ele geçirip hukuki sonuç doğuracak şekilde doldurmak bu
+suçun fiil unsurunu oluşturacaktır.
++
+Burada bir tartışma konusu suçun oluşumu bakımından bu kağıdı doldurmanın tek
+başına yeterli olup olmadığıdır. Doktrinde iki görüş bulunmaktadır. Birinci
+görüş imzalı boş kağıdın sadece doldurulmasının bu suçun oluşumu bakımından
+yeterli olduğunu belirtmekle birlikte karşıt ikinci görüş sadece doldurmayı
+yeterli görmeyip bunun kullanılmak üzere doldurulmasını da aramaktadır. Yani
+doldurduktan sonra kullanma ile suçun oluşacağını belirtmektedir.
++
+TCK 209/1'in lafzına bakıldığında doldurmanın yeterli olduğu sonucuna ulaşmak
+mümkündür. Zira bunun tedavüle sokulması ile ilgili herhangi bir durum
+belirtilmemiştir.
++
+TCK 209/2 açısından ise hareket hukuki sonuç doğuracak hale getirmek ile
+oluşmaktadır. Az önce bahsedilen kullanmanın gerekip gerekmediği tartışması
+burada söz konusu olmamaktadır zira bu fıkrada direkt belgede sahtecilik
+suçlarına atıf vardır. Buna göre oluşturulan belge resmi belge ise düzenlenme
+fiili ile suç oluşacak, özel belge ise kullanma şartının gerçekleşmesi
+aranacaktır.
+. *FAİL*: Herkes bu suçun faili olabilir.
+. *MAĞDUR*: Burada mağdurun kamu güveni olduğu söylenebilir. Bunun dışında
+imzası kötüye kullanılan kişi de belirli bir mağdur olarak söz konusu olabilir.
+
+==== MANEVİ UNSURLAR
+
+Bu suç kasten işlenebilen suçlardandır. Ayrıca bir amaç öngörülmüş değildir.
+
+==== HUKUKA AYKIRILIK UNSURU
+
+İmza sahibinin doldurmadan önceki rızası tipikliği etkiler. Zira bu durumda
+amaca aykırı doldurma gerçekleşmemiş olacaktır. Fakat icazet bir etki doğurmaz.
+
+=== SUÇUN NİTELİKLİ HALLERİ
+
+TCK 211 uyarınca daha az cezayı gerektiren nitelikli hal burada da
+uygulanacaktır.
+
+====
+*TCK 211*: (1) Bir hukuki ilişkiye dayanan alacağın ispatı veya gerçek bir
+durumun belgelenmesi amacıyla belgede sahtecilik suçunun işlenmesi halinde,
+verilecek ceza, yarısı oranında indirilir.
+====
+
+=== KUSURLULUK
+
+Kusurluluk bakımından bir özellik arz etmemektedir. Mazeret sebepleri şartları
+varsa uygulanabilir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Doldurmanın suçun oluşması için yeterli görülmediği görüş benimsenirse kullanma
+gerçekleşmemiş olduğunda suç teşebbüs aşamasında kalmış olacaktır.
+
+==== İŞTİRAK
+
+Her türlü iştirak hali gerçekleşebilir.
+
+==== İÇTİMA
+
+TCK 212 ile özel bir gerçek içtima kuralı düzenlenmiştir.
+
+====
+*TCK 212*: (1) Sahte resmi veya özel belgenin bir başka suçun işlenmesi
+sırasında kullanılması halinde, hem sahtecilik hem de ilgili suçtan dolayı ayrı
+ayrı cezaya hükmolunur.
+====
+
+TCK 209/2 uyarınca ele geçirme durumu başka suçları da oluşturuyorsa gerçek
+içtima ilişkisi gündeme gelecektir.
+
+<<<
+
+== KONUT DOKUNULMAZLIĞININ İHLALİ SUÇU
+
+====
+*TCK 116*: (1) Bir kimsenin konutuna, konutunun eklentilerine rızasına aykırı
+olarak giren veya rıza ile girdikten sonra buradan çıkmayan kişi, mağdurun
+şikayeti üzerine, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
+
+(2) Birinci fıkra kapsamına giren fiillerin, açık bir rızaya gerek
+duyulmaksızın girilmesi mutat olan yerler dışında kalan işyerleri ve
+eklentileri hakkında işlenmesi hâlinde, mağdurun şikâyeti üzerine altı aydan
+bir yıla kadar hapis veya adlî para cezasına hükmolunur.
+
+(3) Evlilik birliğinde aile bireylerinden ya da konutun veya işyerinin birden
+fazla kişi tarafından ortak kullanılması durumunda, bu kişilerden birinin
+rızası varsa, yukarıdaki fıkralar hükümleri uygulanmaz.  Ancak bunun için rıza
+açıklamasının meşru bir amaca yönelik olması gerekir.
+
+(4) Fiilin, cebir veya tehdit kullanılmak suretiyle ya da gece vakti işlenmesi
+halinde, bir yıldan üç yıla kadar hapis cezasına hükmolunur.
+====
+
+=== KORUNAN HUKUKİ DEĞER
+
+Korunan hukuki değer, konut dokunulmazlığıdır.
+
+=== SUÇUN UNSURLARI
+
+==== MADDİ UNSURLAR
+
+. *FİİL*: Bu suç seçimlik hareketli bir suçtur. Seçimlik hareketler girmek ve
+çıkmamaktır.
++
+Girmek; doktrindeki bir görüşe göre vücudun bütünüyle dahil olmasıdır, diğer
+bir görüşe göre ise vücudun bir kısmının dahi konuta dahil olması yeterlidir.
+Konuta nereden girildiğinin bir önemi yoktur, damdan, kapıdan, bacadan
+girilebilir.
++
+Çıkmamak ise, hak sahibinin söz, hareket ve tavırlarıyla kendisini çıkmaya
+davet etmesine rağmen, failin rıza ile girdiği yerden ayrılmamasıdır. Suçun
+oluşması için, bu hukuka aykırı durumun belirli bir süre devam etmesi gerekir.
+Çıkmamak bakımından, bir an için tereddüt edilmesi durumunda konut
+dokunulmazlığının ihlali fiili gerçekleşmiş olmaz. Dışarı çıkmaya davet edilen
+kişinin, aslında çıkmak yönünde bir iradesi olmasına rağmen, evi terk
+edebilmesi için makul bir süre gerekiyorsa, o makul süre boyunca orada
+bulunması, konut dokunulmazlığının ihlali suçu oluşturmaz.
++
+Failin, hak sahibinin kendisinin oraya girmesi veya çıkmaması bakımından
+rızasının bulunmadığını bilmesi veya bunu tasavvur etmesi gerekir.
++
+İhlal fiili sırasında hak sahibinin orada olması şart değildir. Kişi konutunda
+bulunmadığı sırada da konut dokunulmazlığı ihlal edilebilir. Ayrıca bir
+kimsenin hukuka aykırı eylemleri, onun konutuna girilmesi hakkı vermez.
++
+Hile ile girmek de rıza hilafına girmek sayılır. Hile ile açıklanmış rıza,
+şekli bir rızadır, gerçek bir rıza değildir.
++
+Girmek veya çıkmamak bakımından konutta bulunan, huzur ve sükunu ile orada
+yaşama hakkına sahip olan, meşru bir hakka dayanarak orada bulunan kişi rıza
+açıklamaya yetkilidir.
++
+CAUTION: Burada korunan mülkiyet veya başka bir ayni hak değildir!
++
+Bir konut içerisinde, ayrı odalarda birden fazla kişi yaşıyorsa; her kişinin
+kendisine ayrılmış oda o kişi bakımından konut hükmündedir. Evde birlikte
+yaşadığı diğer kişiler, onun odasına rızasına aykırı olarak girdiği takdirde,
+konut dokunulmazlığının ihlali fiili işlenmiş olacaktır.
++
+Verilen rıza meşru bir amaca yönelik olmalıdır. Örneğin, evli kişilerden
+birisinin eşini aldatmak üzere eve başka birisini alması durumunda meşru bir
+hakka dayalı rıza yoktur ve dolayısıyla konuk dokunulmazlığının ihlali suçu
+işlenmiştir.
++
+NOTE: Misafirin rıza açıklamaya yetkisi yoktur.
+. *FAİL*: Bu suçun faili herkes olabilir.
+. *MAĞDUR*: Konutta yaşayan hak sahipleridir.
++
+Aile fertleri aynı konutta birlikte yaşıyorlarsa, bu konut dahilinde
+birbirlerine karşı bu suçu işlemeleri mümkün değildir.
++
+Aile fertleri olmakla beraber, birlikte yaşamayan kimseler arasında konut
+dokunulmazlığının ihlali suçunun işlenmesi mümkündür. Ancak bu gibi hallerde
+konuta girilmemesi hususunda açıkça irade beyanında bulunulmuş olmalıdır. Zira
+günlük hayat tecrübesi çerçevesinde burada bir varsayılan rızadan söz
+edilebilir.
++
+Hakim tarafından ayrılık karar verilmesi durumunda eşler, birbirlerine karşı bu
+suçun faili olabilirler.
++
+Kiraya veren, kiracıya karşı bu suçun faili olabilir. Çünkü burada korunan
+hukuki değer mülkiyet ya da başka bir ayni hak değil, kişinin huzuru, sükunu ve
+güvenliğidir.
+. *SUÇUN KONUSU*: Bu suçun konusu birinci fıkraya göre konut ve konut
+eklentisi; ikinci fıkraya göre ise açık bir rızaya gerek duyulmaksızın
+girilmesi mutad olan yerler dışında kalan işyerleri ve bunların eklentileridir.
++
+*Konut*; gece istirahatine tahsis edilmesi, yapı şekli, devamlı bir şekil
+kullanılması önemli olmayan, dış alemden ayrılık izleri taşıyan, kişi veya
+kişiler halen ve fiilen yaşamsal faaliyetlerini sürdürdükleri yerdir.
++
+*Konut eklentisi*; konuta bağlı olan, fakat bitişik ya da yakın olması şart
+olmayan, dış dünyadan belirli işaretlerle ayrılan ve rıza hilafına girildiğinde
+konuttakilerin huzur ve sükununun bozulduğu yerdir.
++
+İşyeri ve eklenti bakımından konut dokunulmazlığının ihlali suçunun işlenmesi,
+daha az cezayı gerektiren bir nitelikli unsur olarak düzenlenmiştir.
++
+Mahallin kullanılmasının meşru bir sebebe dayanması gerekir.
+
+==== MANEVİ UNSURLAR
+
+Bu suç kasten işlenebilen suçlardandır.
+
+==== HUKUKA AYKIRILIK UNSURU
+
+Hukuka uygunluk sebeplerinden ilgilinin rızası, kanun hükmünü icra, görevin
+ifası, hukuka aykırı bağlayıcı emir, zorunluluk hali gündeme gelebilir.
+
+=== SUÇUN NİTELİKLİ HALLERİ 
+
+====
+*TCK 119*: (1) ... konut dokunulmazlığının ihlali ... suçlarının;
+
+.. Silahla,
+.. Kişinin kendisini tanınmayacak bir hale koyması suretiyle, imzasız mektupla
+veya özel işaretlerle,
+.. Birden fazla kişi tarafından birlikte,
+.. Var olan veya var sayılan suç örgütlerinin oluşturdukları korkutucu güçten
+yararlanılarak,
+.. Kamu görevinin sağladığı nüfuz kötüye kullanılmak suretiyle,
+
+İşlenmesi halinde, verilecek ceza bir kat artırılır.
+====
+
+====
+*TCK 116*: (4) Fiilin, cebir veya tehdit kullanılmak suretiyle ya da gece vakti
+işlenmesi halinde, bir yıldan üç yıla kadar hapis cezasına hükmolunur.
+====
+
+Konut dokunulmazlığının ihlali ile alakalı, herhangi bir kimseye karşı cebir
+veya tehdit kullanılması nitelikli halin uygulanması için kafidir, mutlaka hak
+sahibi kimseye/kimseler karşı uygulanmış olması aranmaz. 
+
+Suçun gece vakti işlenmesi bir diğer cezayı ağırlaştıran nitelikli haldir.
+Gece; güneşin batmasından bir saat sonra başlayıp, güneşin doğmasından bir saat
+öncesine kadar geçen süredir. Konuta gündüz vakti girilip gece vakti çıkılmışsa
+da suç gece işlenmiştir. 
+
+=== KUSURLULUK
+
+Kusurluluk bakımından bir özellik arz etmemektedir. Mazeret sebepleri şartları
+varsa uygulanabilir.
+
+=== SUÇUN ÖZEL GÖRÜNÜŞ BİÇİMLERİ
+
+==== TEŞEBBÜS
+
+Bu suç sırf hareket suçudur. İcra hareketleri parçalara bölünebiliyorsa
+teşebbüs mümkündür.
+
+==== İŞTİRAK
+
+Evlilik birliği içerisinde sadakat yükümlülüğüne aykırı olarak bir kimseyi eve
+alan eş, bu fiil bakımından müşterek fail ya da azmettiren sayılabilir mi?
+
+Yargıtay'a göre evlilik birliğinin devamı süresince, karı koca arasında işlenen
+konut dokunulmazlığının ihlali eylemi suç oluşturmaz ve bu nedenle konut
+dokunulmazlığının ihlali suçuna azmettirme eylemi de suç oluşturmaz. 
+
+==== İÇTİMA
+
+Konut dokunulmazlığının ihlali suçunun işlenebilmesi için kullanılan cebir,
+basit bir müdahalenin ötesine geçen boyutta ise, yani yaralamam suçunun temel
+şeklini oluşturuyorsa TCK 116/4 değil, TCK 119/2 uygulanır.
+
+====
+*TCK 119*: (2) Bu suçların işlenmesi sırasında kasten yaralama suçunun neticesi
+sebebiyle ağırlaşmış hallerinin gerçekleşmesi durumunda, ayrıca kasten yaralama
+suçuna ilişkin hükümler uygulanır.
+====
+
+Hırsızlık ve mala zarar verme suçları, konut dokunulmazlığının ihlali suçu ile
+birlikte gerçekleşebilir. Bu gibi hallerde hem hırsızlık / mala zarar vermeden,
+hem de konut dokunulmazlığının ihlali suçundan ayrı ayrı sorumluluk doğacaktır.
+
+Failin girdiği konut veya eklentisinde birden fazla kişinin hak sahibi olması,
+suçun sayısını değiştirmez.

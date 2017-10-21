@@ -1,0 +1,326 @@
+= ANAYASAL GELİŞME
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+
+== İNGİLTERE
+
+* *1628 Haklar Dilekçesi*
+
+** Kral Charles I döneminde çıkarılmıştır. 
++
+Kral, savaşın finansmanı için gereken paranın sağlanmasının parlamentonun
+görevi olduğunu; buna karşılık parlamentonun haklar konusunda söz sahibi
+olmayacağı görüşündeydi. Halkın desteğinin arkasında bulunduğu yanılsamasıyla,
+1625 ve 1626'da parlamentoya karşı tavır almıştı.
+** Halk, krala gönüllü olarak para vermeye yanaşmadığı gibi, yargıçlar da,
+kralın saldığı zorunlu ödünç para verme kararının yasadışı olduğuna karar
+verdiler.
+** Bunun üzerine parlamento ünlü Haklar Dilekçesini hazırladı.
++
+Bu belge üç anayasal ilkeyi kurumsallaştırmış olmaktadır:
+
+. Parlamentonun onayı olmaksızın vergi salınamayacağı
+. Nedensiz ya da keyfi olarak kişilerin hapsedilemeyeceği
+. Barış zamanında savaş hukukunun (sıkıyönetimin) uygulanamayacağı
+** Kral ile parlamento arasındaki iktidar mücadelesi sürdü ve kolay bir çözüme
+kavuşmadı.
++
+Kralın 1629-1640 arasında, parlamentoyu kapatarak tek başına yönetimi
+sürdürmesi gerilimi daha da arttırdı. Parlamento ordusu ile Krallık kuvvetleri
+1645'te savaştı. Parlamentodaki muhalif fraksiyonun önderi Olliver Cromwell,
+sonuçta parlamentodaki ılımlı kesimi de kendi tarafına çekerek, kralın, ihanet
+suçlamasıyla mahkeme önüne çıkarılması kararını aldırdı.
+** Kral Charles I, 1649 yılında idam edildi.
++
+Kralın ölüm cezasına çarptırılmasına öncü rol oynayan Cromwell'in denediği
+cumhuriyet yönetimi uzun soluklu olamadı. Gerek kralcı gerekse dini çevrelerde
+büyüyen tepki siyasal istikrarsızlığa yol açtı. 
++
+1660'da, Charles II, krallığın yeniden tesisi halinde İngiliz özgürlüklerine
+riayet edeceğine dair söz verdiği bir açıklama yaptı. Yeni parlamento seçildi
+ve Charles II'yi krallığı üstlenmeye çağırdı. 
++
+Ancak 25 yıl süren Charles II döneminde de, gerilim tam olarak son bulmadı ve
+ülkede Katolik erkin egemen olacağı endişesi yaygınlaştı.
+
+* *1670 Habeas Corpus Act*
+
+** Kral Charles II tarafından çıkarılmıştır.
+** Uzlaşma niteliğinde bir metindir.
+** Kişilerin tutuklanmaları ve alıkonmalarıyla ilgili düzenlemeler getirmiştir.
+
+* *1689 Haklar Bildirisi*
++
+** Kral Charles II'den sonra krallığa gelen, onun erkek kardeşi James II
+döneminde de ülkede karışıklıklar sürmüştü. 
++
+James II'nin *katolik* ikinci eşi, 1688'de bir erkek çocuk doğurunca, hanedanın
+geleceği konusunda kaygılar arttı. 
+
+** Bunun üzerine Hollanda'nın yöneticisi William ile karısı Mary, soy bakımından
+en yakın protestan olarak, ülkede geleneksel özgürlükler talebiyle ortaya çıkan
+harekete önderlik etmeye davet edildi. 
++
+Mary, Kral James'in birinci karısından doğan *protestan* kızıdır.
+
+** Çıkan savaşta Kral James'e bağlı kuvvetler yenildi. 
++
+Fiilen boşalmış bulunan krallık makamının nasıl doldurulacağına ilişkin
+tartışmalardan sonra, parlamentodaki iki ana siyasal grup uzlaştılar ve William
+ile Mary'ye tacı almaları hususunda resmi öneri götürüldü. Ancak tac onlara,
+koşullu olarak önerilmişti. 
+** William ile Mary'ye tac için öne sürülen koşul, İngiltere'de özgürlüklerin
+ilk kapsamlı ve yazılı olan belgesi Haklar Bildirisi'nin kabul edilmesiydi.
+** Bildirinin önemli maddeleri şunlardır:
++
+====
+*MADDE 1.* Parlamentonun onayı bulunmaksızın, Krallık yetkisine dayanarak,
+yasaların ya da yasaların icra edilmesinin askıya alınmasına ilişkin sözde
+yetki yasadışıdır.
+
+*MADDE 2.* Krallık yetkisine dayanarak, yasalardan ya da yasaların icra
+edilmesinden kendini bağışık kılmak sözde yetkisi yasadışıdır.
+
+*MADDE 6.* Barış zamanında krallık sınırları içinde sürekli bir ordu kurmak ve
+muhafaza etmek, Parlamento'nun onayı bulunmadıkça, yasalara aykırıdır.
+
+*MADDE 7.* Protestan inancına bağlı tebaa, kendilerini savunmak üzere, kendi
+koşullarına uygun olarak ve yasayla cevaz verildiği biçimde silah taşıyabilir.
+
+*MADDE 9.* İfade özgürlüğü ve Parlamentodaki müzakereler ve işlemler, Parlamento
+dışında hiçbir mahkeme önünde ya da başka bir yerde soruşturmaya ya da
+suçlamaya konu olmayacaktır.
+====
+
+* *1701 Act of Settlement*
+
+** Bu belge, kralın yetkilerini daha da sınırlayan ve tebaanın hakları ve
+özgürlükleri için daha sağlam güvence getiren bir yasadır. Söz konusu belge,
+1689 tarihli Haklar Bildirisinde düzenlenenlere birkaç anayasal hüküm daha
+getiriyordu.
+
+. Kral, İngiliz Kilisesi cemaatinden olmalıdır.
+. Kral, parlamentonun onayı bulunmadıkça, ülke dışında bir yere gidemez.  
+. İngiltere, İskoçya veya İrlanda'da doğmayan hiç kimse, parlamentonun hiçbir
+kanadının üyesi olamayacak ya da sivil ya da askeri makam yahut görevde
+bulunamaz. 
+. Kral yararına görev ifa eden yahut krallıktan maaş alan bir kimse, Avam
+Kamarası üyesi olamaz. 
+
+** Önemli diğer bir hüküm ise, yargıçların belirli maaş ile hukuka uygun
+davrandıkları sürece görevden azledilemeyecekleri ve görevden azletmenin sadece
+parlamentonun her iki kanadına yönelen istem üzerine kral tarafından
+yapılabileceğidir. Böylece, yargı bağımsızlığının temin edilmesi yolunda önemli
+bir adım da atılmış olmaktaydı.  
+
+Bu belgelerin ortak özelliği, kapsamlı bir haklar ve özgürlükler listesini
+içermemeleri nedeniyle, klasik anlamdaki hak bildirileri sayılamayacaklarıdır.
+Hak ve özgürlüklerin gelişimine katkıları, daha çok, aristokrasinin ve onlarla
+işbirliği yapan burjuvazinin, kendi varlıklarını ve güçlerini kabul ettirmek
+yoluyla kralın yetkilerini belirleme doğrultusundaki etkileridir. Bununla
+birlikte, söz konusu yasalar ya da şartlar, değişik alanlara ilişkin
+düzenlemeleri ekseninde, dolaylı biçimde hakların ve özgürlüklerin tanınmasına
+katkıda bulunmuşlardır.
+
+== AMERİKA
+
+* *1765 Haklar Bildirisi*
+
+** İngiltere parlamentosu Mart 1765'te _Damga Vergisi Kanunu_ çıkartmıştı. Bu
+kanun uyarınca Amerikan kolonilerinde kullanılan bütün yasal belgelerin
+geçerlilik şartı olarak İngiltere hükümetinin damgasının taşıması gerektiği
+hükme bağlanmıştı. Bu kanunun çıkarılması 13 koloninin tümünde büyük tepkilere
+yol açtı. Bunun üzerine, kolonilerin kendi inisiyatifi ile ilk koloniler arası
+toplantı gerçekleşti. Bu toplantıda söz konusu kanunun çıkarılması protesto
+edildiği gibi, haklarını ilan eden bir bildiri çıkardılar.
+** *_Haklar Bildirisi_* iki açıdan önemlidir:
+
+. Kolonilerdeki halkların bazı temel haklarını belirlemesi ve en önemlisi vergi
+yükümlülüğü başta olmak üzere olası yükümlülüklerinin ancak kendi özgür
+seçimleriyle belirledikleri temsilcileri tarafından vazedilebileceğini ortya
+koyması açısından önemlidir.
+. Bu metin soyut bir bildiri, dolayısıyla bir haklar ilanı metni olmaktan çok,
+kolonide ticareti güçleştiren düzenlemelere bir karşı duruşu ifade etmektedir.
+Ama aynı zamanda, kaçınılmaz biçimde, koloninin bağımsızlaşmasına doğru gidişin
+işaretlerini de vermektedir. 
+
+** 1765 tarihli bu bildiriden sonra, İngiltere'de Mart 1766 tarihinde _Damga
+Vergisi Kanunu_ yürürlükten kaldırılmıştır.
+** 1765 *_Haklar Bildirisinin_* odaklandığı anayasal mesele, _halkın
+temsilcileri tarafından konulmadıkça vergi yükümlülüğü getirilemeyeceği_
+hususudur. Koloni halkları açısından meselenin özü, İngiltere'de Avam
+Kamarasında kendi temsilcileri bulunmadığına göre, bu kanunun koloniler
+bakımından geçerli olamayacağı idi. Kanunun yürürlükte kaldırılması,
+Amerikalılar bakımından bir siyasal zafer oldu.
+
+* *1776 Virginia Haklar Bildirisi*
+
+** Virginia İnsan Hakları Bildirisinin klasik ya da temel haklar listesi
+bakımından bazı boşluklar içerdiği dikkati çekmektedir. Örneğin, ifade
+özgürlüğü, toplanma, dilekçe hakları, yasaların geriye yürümezliği kuralı,
+savunmadan yararlanma vb. gibi haklar yer almamaktadır. Buna karşılık, doğuştan
+sahip olunan doğal haklar kavramının vurgulanmış olması, Thomas Jefferson
+üzerinde, Amerikan Bağımsızlık Bildirisinin biçimlendirilmesi sürecinde etkili
+olmuştur.
+** Öte yanda, Virginia Bildirisinde doğuştan özgürlük ilkesi kabul edilmekle
+birlikte, köleliğin ilgası doğrultusunda açık bir ifadeye rastlanmadığı da
+görülmektedir. 
++
+Bağımsızlık Savaşının hemen başlangıç evresinde, Amerikan kolonilerinde
+yaklaşık yarım milyon civarında köle bulunmaktaydı. Bir yanda, kendileri için
+*yaşam, özgürlük ve mutluluk hakkı* talep edilirken, kölelerin ya da yerlilerin
+*doğal haklarının* inkarı bir çelişki oluşturmaktaydı. Kolonilerde Afrikalı
+köle ticaretine yönelik eleştiri ve karşı çıkışlar kendini göstermeye başladı.
+Köle ticaretini sınırlandıran ya da yasaklayan düzenlemeler çıkarılmaya
+başlandı. Bağımsızlığın ilanından itibaren 10 yıl içinde, Georgia haricinde
+köle ticareti ya yasaklandı ya da ağır kayıtlamalara tabi tutulur hale geldi.
+Bununla birlikte, New York ve New England'dan çok sayıda gemi, yasa dışı olarak
+Afrika'dan köle getirmeye ve güney kolonilerde bu köleleri satmaya devam
+etmekteydi. Kuzey kolonilerinde köleliğin kaldırılması güney eyaletlerine göre
+daha kolay oldu.
+
+* *1775 Mecklenburg Bağımsızlık Bildirisi* ve *1776 Amerikan Bağımsızlık Bildirisi*
+
+** 1776 tarihli *_Amerikan Bağımsızlık Bildirisi_*, insan haklarına ilişkin
+ilkelerin metne geçirilmesi bakımından, Virginia Haklar Bildirisine göre çok
+daha geri planda kalmaktadır.
+** Amerikan devriminin arkasındaki düşünsel temel bakımından önemli rol oynayan
+Locke, *yaşam, özgürlük ve mülkiyet* formülünü geliştirirken, Bağımsızlık
+Bildirisinde Jefferson bunu *yaşam, özgürlük ve mutluluğa erişme hakkı*
+biçiminde dönüştürerek sloganlaştırmıştır.
+** Bağımsızlık Bildirisi tek yanlı bir işlemdir. Pratikte, ilan edilen
+bağımsızlığın başka devletlerce, ve özellikle de Büyük Britanya tarafından
+tanınması, anılan ilanın somut sonuca bağlanmasını sağlayacaktı. 1783'de
+Paris'te imzalanan _ABD ve Birleşik Krallık Arasındaki Barış Andlaşması_, işte
+atılan bağımsızlık adımını tamamlayan belge oldu.
+
+* *1776 Pennsylvania Anayasası* ve *1780 Massachusetts Anayasası*
+* *1787 ABD Anayasası*
+
+** Haklar listesi ayrıntılı olarak düzenlenmemiş fakat belirli güvenceleri
+vardır.
++
+1791'de *_Haklar Bildirisi_* olarak bilinen ilk On Ek Madde eklendi.
+** Teşkilat ile ilgili temel kuvvetler ayrılığı olarak belirlenmiştir. Sert
+kuvvetler ayrılığı anlayışı benimsenmiştir. Parlamento ile başkan arasında
+belirli bir ayrım var; senato meclisi var, böylece federe devletlerin eşit
+temsili sağlanıyor. Alt kademedeki yargıçların halk tarafından seçilmesi söz
+konusudur.
+** Anayasanın üstünlüğü belirtilmiştir. Bu Marksist anayasalardan farklı olarak
+anayasaya uygunluk denetiminin yolunu açan bir ilkedir. Yani, anayasanın
+üstünlüğü ilkesi kullanılarak yargı kendisini anayasanın bekçisi kabul ediyor.
+
+== FRANSA
+
+* *Paris Parlamentosunun 1788 Tarihli Bildirisi*
+
+** Monarşik düzen içinde kalmayı kabul etmekle birlikte, Devrim sonrasında
+ortaya çıkacak olan _İnsan ve Yurttaş Hakları Bildirisinin_ habercisidir.
+** Aydınlanma döneminin filozoflarınca ortaya atılan görüşler hakkında, bu tarz
+bildirilerle kamuouyu oluşturulmaya çalışılmıştır.
+
+* *1789 Feodal Sistemin İlgası Kararnamesi*
+
+** Fransız Devrimi, monarşik düzene olduğu kadar feodalizme karşı da bir
+hareketti.
+** Bu kararname ile ayrımlar, ayrıcalıklar ve özel yerel imtiyazlar kaldırıldı.
+Öngörülen, bütün Fransızların aynı hakları ve yükümlülükleri olacağı,
+yeteneklerine göre mesleğe alınacakları ve eşit vergi ödeyecekleriydi.
+
+* *1789 İnsan ve Yurttaş Hakları Bildirisi*
+
+** Bildiriye rengini veren bir doğal hak olarak *mülkiyet hakkıdır*.
+** Evrensellik teması işlenmiş ancak kölelik ilga edilmemiştir.
+** Sömürücü, baskıcı erklere karşı ulusların bağımsızlık ve özgürlük için
+ayaklanmalarını meşrulaştırmıştır.
+
+* *1791 Kadının ve Kadın Yurttaşın Hakları Bildirisi*
+
+** Sadece haklar ve özgürlükler bakımından değil yükümlülükler ve sorumluluklar
+bakımından da kadın, erkek ile eşit tutulmuştur. Bu anlamda kadın haklarından
+çok, *genel eşitlik ilkesinin* dile getirilmesidir.
+** Kadının kamusal ve özel hayatına ilişkin haklar tanınmıştır.
+** Mülkiyet eşitliği talep edilmiştir. O dönemde, mülkiyet hakkı, siyasal
+haklara sahip olmanın ön koşuluydu. Dolayısıyla bir anlamda siyasi hak
+talebidir.
+
+* *1791 ve 1793 Fransa Anayasaları*
+
+** _1791 Anayasası_
+
+*** 1789 bildirisi anayasallık kazanmıştır.
+*** Egemenlik, bütün ve bölünemez şekilde ulusa aittir.
+*** Monarşik yönetimi benimsemiştir.
+*** En üst yetke hukuktur.
+*** Fransız sömürgeleri Anayasaya dahil değildir.
+
+** _1793 Anayasası_
+
+*** 1792'de monarşi devrildi ve ilga edildi.
+*** Yetişkin erkeklere genel oy hakkı tanındı.
+
+== RUSYA
+
+* *1917 Barış Üzerine Sovyetler İkinci Kongresi Kararnamesi*
+
+** Barışa, uluslararası dayanışmaya, güç kullanımından kaçınmaya yer verir.
+** *Halkların kendi kaderini tayin hakkını*, yönetim biçimini belirleme hakkını
+açıkça ifade etmiştir.
+
+* *1917 Rusya Halklarının Hakları Bildirisi*
+
+** Rusya'da dinsel ve ulusal tüm ayrıcalık ve kayıtlamalar kaldırılmış oldu.
+
+* *1918 Emekçi ve Sömürülen Hakları Bildirisi*
+
+** Ulusların özgür istencine dayanan birliktelik
+** Sömrürünün ortadan kaldırılması
+** Özel mülkiyetin ilgası
+** Uluslararasında demokratik barış
+** Ulusların kendi kaderini tayin hakkı
+** Temel ödevler de belirtilmiştir.
+
+* *1918 Rus Sosyalist Federal Sovyet Cumhuriyeti Anayasası*
+
+** Sosyalist devlet değil, geçiş dönemi öngörülmüştür.
+** Haklar kataloguna yer verilmiştir, ancak bu haklar devrim aleyhine
+kullanılamaz.
+** Seçme ve seçilme hakkı kadın ve erkeklere eşit olarak tanınmıştır.
+
+* *1924 SSCB Anayasası*
+
+** Kurucu Cumhuriyetlerin, Birlikten özgürce ayrılma hakları düzenlenmişti.
+** Halkların barış içinde bir arada yaşama ilkesine dayanan federal bir devlet
+öngörülmüştür.
+** Haklar katalogu yer almaz, her Cumhuriyetin kendi anayasasında
+düzenlenmiştir.
+** Güçler ayrılığı ilkesi tanınmaz, çünkü yargı erkinin bağımsızlığı, sosyalist
+anlayışta yoktur.
+
+== JAPONYA
+
+* M.S 7. yüzyılda, Çin'in etkisiyle, bireyin hakları değil, bireyin ödevleri düzenleniyordu.
+* 1542'de batıyla tanıştıktan sonra tepki olarak, _Konfüçyüsçülük_ resmi öğreti
+olarak kabul edildi. Shogunların ürettikleri hukuk kuralları yazılı hale
+getirildi. _Konfüçyüsçülük'ün_ bir sonucu da arabuluculuktur. 
+* *Meiji Restorasyonu*
+
+** 1868 yılından başlayarak, hukuk sisteminde köklü değişiklikler yapılmış ve
+bireyin haklarını kurumsallaştırmaya yönelik adımlar atılmıştır.
+
+*** 1868'de Shogunluk tasfiye edildi.
+*** 1871'de derebeylik kaldırıldı, ardından da ülke illere ayrıldı.
+*** 1872'de kadın-erkek için zorunlu ilköğretim getirildi.
+*** 1873'te zorunlu askerlik sistemi getirildi ve düzenli ordu kuruldu.
+
+** 1881'de, İmparator, halka bir anayasa ve parlamento sözü verdi.
+
+* *1889 Japonya Anayasası*
+
+** İmparatorun gücü devam ediyor ancak Avrupa'dan farklı olarak, Meiji
+monarşisi modernleşme sürecinin itici gücü olmuştur.
+** İnsan hakları, doğal haklar olarak ele alınmıyordu; daha çok, yürütme gücüne
+karşı bir ölçüde haklar korunuyordu. Dolayısıyla, 1889 Anayasası, 1868'de
+başlayan Meiji Restorasyonu sürecinin, yani liberal insan hakları anlayışı
+çerçevesinde hakların tanınması ve garanti altına alınması sürecinin sona
+ermesine yol açmıştı.

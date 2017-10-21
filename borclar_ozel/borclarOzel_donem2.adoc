@@ -1,0 +1,1585 @@
+:icons: font
+:toc:
+:toc-title: BORÇLAR ÖZEL II. DÖNEM
+
+== KİRA SÖZLEŞMESİNİN SONA ERMESİ
+
+Fesih, borç ilişkisini ileriye etkili olarak sona erdiren *bozucu yenilik
+doğuran* bir beyandır.
+
+[caption=""]
+.Ayıbın giderilmesini isteme ve fesih
+====
+*TBK 306*: (1) Kiracı, kiraya verenden kiralanandaki ayıbın uygun bir sürede
+giderilmesini isteyebilir; bu sürede ayıp giderilmezse kiracı, ayıbı kiraya
+veren hesabına gidertebilir ve bundan doğan alacağını kira bedelinden
+indirebilir veya kiralananın ayıpsız bir benzeri ile değiştirilmesini
+isteyebilir.
+
+(2) Ayıbın, kiralananın öngörülen kullanıma elverişliliğini ortadan kaldırması
+ya da önemli ölçüde engellemesi ve verilen sürede giderilmemesi hâlinde kiracı,
+sözleşmeyi feshedebilir.
+
+(3) Kiraya veren, kiralanandaki ayıbı gidermek yerine, uygun bir süre içinde
+ayıpsız benzeriyle değiştirebilir.
+
+(4) Kiraya veren, kiracıya aynı malın ayıpsız bir benzerini hemen vererek ve
+uğradığı zararın tamamını gidererek, onun seçimlik haklarını kullanmasını
+önleyebilir.
+====
+
+[caption=""]
+.Kiracının temerrüdü
+====
+*TBK 315*: (1) Kiracı, kiralananın tesliminden sonra muaccel olan kira bedelini
+veya yan gideri ödeme borcunu ifa etmezse, kiraya veren kiracıya yazılı olarak
+bir süre verip, bu sürede de ifa etmeme durumunda, sözleşmeyi feshedeceğini
+bildirebilir.
+
+(2) Kiracıya verilecek süre en az on gün, konut ve çatılı işyeri kiralarında
+ise en az otuz gündür. Bu süre, kiracıya yazılı bildirimin yapıldığı tarihi
+izleyen günden itibaren işlemeye başlar.
+====
+
+[caption=""]
+.Özenle kullanma ve komşulara saygı gösterme borcu
+====
+*TBK 316*: (1) Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve
+kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı
+göstermekle yükümlüdür.
+
+(2) Kiracının bu yükümlülüğüne aykırı davranması durumunda kiraya veren, konut
+ve çatılı işyeri kirasında, en az otuz gün süre vererek, aykırılığın
+giderilmesi, aksi takdirde sözleşmeyi feshedeceği konusunda yazılı bir ihtarda
+bulunur. Diğer kira ilişkilerinde ise, kiraya veren, kiracıya önceden bir
+ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi hemen feshedebilir.
+
+(3) Konut ve çatılı işyeri kirasında, kiracının kiralanana kasten ağır bir
+zarar vermesi, kiracıya verilecek sürenin yararsız olacağının anlaşılması veya
+kiracının bu yükümlülüğe aykırı davranışının kiraya veren veya aynı taşınmazda
+oturan kişiler ile komşular bakımından çekilmez olması durumlarında kiraya
+veren, yazılı bir bildirimle sözleşmeyi hemen feshedebilir.
+====
+
+[caption=""]
+.Sürenin geçmesi
+====
+*TBK 327*: (1) Açık veya örtülü biçimde bir süre belirlenmişse, kira sözleşmesi
+bu sürenin sonunda kendiliğinden sona erer.
+
+(2) Taraflar, bu durumda, açık bir anlaşma olmaksızın kira ilişkisini
+sürdürürlerse, kira sözleşmesi belirsiz süreli sözleşmeye dönüşür.
+====
+
+====
+*TBK 328*: (1) Belirsiz süreli kira sözleşmelerinde taraflardan her biri, daha
+uzun bir fesih bildirim süresi veya başka bir fesih dönemi kararlaştırılmış
+olmadıkça, yasal fesih dönemlerine ve fesih bildirim sürelerine uyarak
+sözleşmeyi feshedebilir. Fesih dönemlerinin hesabında, kira sözleşmesinin
+başlangıç tarihi esas alınır.
+
+(2) Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine
+uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur.
+====
+
+[caption=""]
+.Taşınmaz ve taşınır yapı kiralarında
+====
+*TBK 329*: Taraflardan her biri, bir taşınmaza veya taşınır bir yapıya ilişkin
+kira sözleşmesini yerel âdette belirlenen kira döneminin sonu için veya böyle
+bir âdetin bulunmaması durumunda, altı aylık kira döneminin sonu için, üç aylık
+fesih bildirim süresine uyarak feshedebilir.
+====
+
+[caption=""]
+.Taşınır kiralarında
+====
+*TBK 330*: (1) Taraflardan her biri, bir taşınıra ilişkin kira sözleşmesini üç
+gün önceden yapılacak fesih bildirim süresine uyarak her zaman feshedebilir.
+
+(2) Kiraya verenin meslekî faaliyeti gereği kiraya verdiği ve kiracının da özel
+kullanımına yarayan taşınır bir malın kiracısı, kira sözleşmesini, üç aylık
+kira dönemi sonu için en az bir ay önceden yapacağı bir fesih bildirimiyle sona
+erdirebilir. Bu durumda kiraya verenin, zararının giderilmesini isteme hakkı
+yoktur.
+====
+
+[caption=""]
+.Önemli sebepler
+====
+*TBK 331*: (1) Taraflardan her biri, kira ilişkisinin devamını kendisi için
+çekilmez hâle getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal
+fesih bildirim süresine uyarak her zaman feshedebilir.
+
+(2) Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin
+parasal sonuçlarını karara bağlar.
+====
+
+[caption=""]
+.Kiracının iflası 
+====
+*TBK 332*: (1) Kiracı, kiralananın tesliminden sonra iflas ederse kiraya veren,
+işleyecek kira bedelleri için güvence verilmesini isteyebilir.
+
+(2) Kiraya veren, güvence verilmesi için kiracı ve iflas masasına yazılı olarak
+uygun bir süre verir. Bu süre içinde kendisine güvence verilmezse kiraya veren,
+sözleşmeyi herhangi bir fesih bildirim süresine uymaksızın hemen feshedebilir.
+====
+
+[caption=""]
+.Kiracının ölümü
+====
+*TBK 333*: Kiracının ölmesi durumunda mirasçıları, yasal fesih bildirim
+süresine uyarak en yakın fesih dönemi sonu için sözleşmeyi feshedebilirler.
+====
+
+== KONUT VE ÇATILI İŞYERİ KİRALARININ SONA ERMESİ
+
+Konut ve çatılı işyeri kiralarında sürenin sona ermesiyle sözleşme
+kendiliğinden sona ermez. Sözleşmenin sona erebilmesi için belirli bir süre
+içinde bildirimde bulunulması gerekir. Eğer bu bildirim yapılmamış ise sözleşme
+*kendiliğinden 1 yıl daha uzar*. Bu sebeple genel hükümlerde yer alan süreli
+sözleşmelerde sürenin bitmesi ile sözleşmenin de sona ermesi hükmü konut ve
+çatılı işyerleri için öngörülmüş özel hüküm nedeniyle uygulanamaz. 
+
+TBK genel hükümlerine göre sözleşmenin sona erme sebepleri:
+
+.. İfa edilmesi
+.. İfanın imkansızlaşması
+.. İbra
+.. Yenileme
+
+Yukarıdaki sebepler özel hükümlere aykırı olmamak koşuluyla, konut ve çatılı
+işyeri kiralarında da uygulanabilir.
+
+Konut ve çatılı işyeri kira sözleşmelerinin sona erme şekilleri iki gruba ayrılabilir:
+
+. *Bildirim* yoluyla
+. *Dava* yoluyla
+
+Sona erme sebepleri de iki gruba ayrılır:
+
+. Kiracıdan kaynaklanan sebepler
+. Kiraya verenin ihtiyacından kaynaklanan sebepler
+
+[CAUTION]
+====
+[underline]#Kiraya veren ancak kanunda sayılan sınırlı sebeplere dayanarak kira
+sözleşmesini feshedebilir.#
+
+Kira sözleşmesinin dava yoluyla kiraya veren tarafından sona erdirilmesi
+açısından düzenlenen sebepler kiracı aleyhine genişletilemez. Kiraya verene
+TBK 349 vd. düzenlenen sebepler dışında bir sebebe dayanarak sözleşmeyi fesih
+yetkisi tanınanamaz. Ancak kiracı lehine yeni bir dava yoluyla sona erdirme
+sebebi tanınması mümkündür.
+====
+
+=== BİLDİRİM YOLUYLA SONA ERME
+
+====
+*TBK 347*: (1) Konut ve çatılı işyeri kiralarında kiracı, belirli süreli
+sözleşmelerin süresinin bitiminden en az onbeş gün önce bildirimde
+bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya
+veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Ancak,
+on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her uzama
+yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla, herhangi bir
+sebep göstermeksizin sözleşmeye son verebilir.
+
+(2) Belirsiz süreli kira sözleşmelerinde, kiracı her zaman, kiraya veren ise
+kiranın başlangıcından on yıl geçtikten sonra, genel hükümlere göre fesih
+bildirimiyle sözleşmeyi sona erdirebilirler.
+
+(3) Genel hükümlere göre fesih hakkının kullanılabileceği durumlarda, kiraya
+veren veya kiracı sözleşmeyi sona erdirebilir.
+====
+
+NOTE: Fesih bildiriminde kiracının bildirimi hangi tarihte yaptığı belirleyici
+değildir. Önemli olan fesih bildiriminin kiraya verene ne zaman ulaştığıdır.
+
+====
+*TBK 348*: Konut ve çatılı işyeri kiralarında fesih bildiriminin geçerliliği,
+yazılı şekilde yapılmasına bağlıdır.
+====
+
+NOTE: Konut ve çatılı işyeri kirası sayılabilmesi için sözleşmenin *6 aydan
+fazla* süre geçerli olması gerekir. Geçici amaçla yapılan kiralamalar bu kanun
+hükümleri kapsamında değerlendirilemez. Kiralamanın sürekli olması, en azından
+6 aylık bir süre öngörülmesi gerekir.
+
+Fesih beyanı şekle uygun olarak ve zamanında yapılırsa, söz konusu kira
+sözleşmesi *sözleşmenin bittiği tarihle birlikte* sona erer.
+
+CAUTION: Kiraya veren ancak *10 yıllık uzama süresi sonunda* sözleşme süresinin
+her *1 yıllık uzama süresinden en az 3 ay önce* bildirimde bulunarak sözleşmeyi
+sona erdirebilir.
+
+Kira sözleşmesi yaparken taraflar istedikleri süreyi belirleyebilirler. Kiraya
+verenin  fesih bildiriminde bulunarak sözleşmeyi sona erdirme hakkına sahip
+olabilmesi için, sözleşmede öngörülen süreye ek olarak en  10 yıl daha
+sözleşmenin kendiliğinden uzamış olması gerekir.
+
+Sözleşme eğer berlirsiz süreli sözleşme ise kiracı sözleşmeyi her zaman sona
+erdirebilir. Kiraya veren ise sözleşmenin başlangıcından itibaren 10 yıl
+geçtikten sonra, 11. yılda sözleşmeyi sona erdirebilir.
+
+WARNING: 10. yıldan sonra da *6 aylık fesih ihbar dönemine* uymalı ve dönemin
+bitiminden *en az 3 ay önce* fesih ihbar bildirimini kiracıya ulaştırmalıdır.
+
+.Aile Konutu
+****
+
+====
+*TBK 349*: (1) Aile konutu olarak kullanılmak üzere kiralanan taşınmazlarda
+kiracı, eşinin açık rızası olmadıkça kira sözleşmesini feshedemez.
+
+(2) Bu rızanın alınması mümkün olmazsa veya eş haklı sebep olmaksızın rızasını
+vermekten kaçınırsa kiracı, hâkimden bu konuda bir karar vermesini isteyebilir.
+
+(3) Kiracı olmayan eşin, kiraya verene bildirimde bulunarak kira sözleşmesinin
+tarafı sıfatını kazanması hâlinde kiraya veren, fesih bildirimi ile fesih
+ihtarına bağlı bir ödeme süresini kiracıya ve eşine ayrı ayrı bildirmek
+zorundadır.
+====
+
+Diğer eş izin veya icazet beyanını *sözlü olarak* da yapabilir. Eşin iradesini
+açık bir şekilde belirtmesi yeterlidir. 
+
+****
+<<<
+=== DAVA YOLUYLA SONA ERME
+
+[caption=""]
+.Dava sebeplerinin sınırlılığı
+====
+*TBK 354*: Dava yoluyla kira sözleşmesinin sona erdirilmesine ilişkin hükümler,
+kiracı aleyhine değiştirilemez.
+====
+
+==== İHTİYAÇ SEBEBİYLE TAHLİYE
+
+Kiraya veren oluşan bir ihtiyacı sebebiyle ve kanunda öngörülen sebepler
+oluşmuş ise kira sözleşmesini sona erdirebilir. Kanun koyucu burada kişinin
+kendisinin ya da yakınlarının bir ihtiyacını aramaktadır.
+
+[caption=""]
+.Gereksinim, yeniden inşa ve imar
+====
+*TBK 350*: Kiraya veren, kira sözleşmesini;
+
+. Kiralananı kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü
+olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma
+zorunluluğu varsa,
+. Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi
+ya da değiştirilmesi gerekli ve bu işler sırasında kiralananın kullanımı
+imkânsız ise,
+
+belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde
+kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için
+öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde
+açacağı dava ile sona erdirebilir.
+====
+
+Böyle bir dava söz konusu olduğunda hakim, kiraya verenin ihtiyacının gerçek ve
+samimi olup olmadığını öncelikle inceler.
+
+Dava açacak kimsenin kiraya veren olması gerekir. Malik olması şart değildir.
+Dolayısıyla intifa hakkı sahibi kiraya veren ise o da dava açabilir.
+
+Paylı mülkiyet söz konusu ise önemli bir yönetim işi olduğu için paydaşların,
+pay ve paydaş çoğunluyla böyle bir dava açılmasına karar vermesi gerekir.
+Elbirliği halinde mülkiyet var ise davanın bütün hak sahipleri tarafından
+açılması gerekir.
+
+Kiracılar birden çok ise tahliye talebi bölünmesi mümkün olmayan bir talep
+olduğu için davanın tüm kiracılara karşı açılması gerekir. Kiracıların bu
+davada aralarında zorunlu dava arkadaşlığı söz konusu olur.
+
+Kira sözleşmesi belirli süreli ise kira sözleşmesinin *sona erme tarihinden
+itibaren 1 ay içinde* kiracıya tahliye içinde bildirimde bulunulur. Kiracı
+bildirime rağmen konutu tahliye etmezse kiraya veren davayı kira sözleşmesinin
+birinci uzama yılında açabilir.
+
+Kira sözleşmesi belirsiz süreli ise *6 aylık fesih döneminin sonunda 1 ay
+içinde* bildirimde bulunmak gerekir. Bildirime rağmen tahliye edilmezse dava
+açarak kiracının konutu tahliye etmesi sağlanır.
+
+[caption=""]
+.Yeniden kiralama yasağı
+====
+*TBK 355*: (1) Kiraya veren, gereksinim amacıyla kiralananın boşaltılmasını sağladığında, haklı sebep olmaksızın,
+kiralananı üç yıl geçmedikçe eski kiracısından başkasına kiralayamaz.
+
+(3) Kiraya veren, bu hükümlere aykırı davrandığı takdirde, eski kiracısına son kira yılında ödenmiş olan bir yıllık kira
+bedelinden az olmamak üzere tazminat ödemekle yükümlüdür.
+====
+
+Kiracıyı ihtiyaç sebebiyle tahliye etmenin kötüye kullanılmasını önlemek
+amacıyla kanun koyucu kiraya verenin söz konusu konutu ya da işyerini *3 yıl
+boyunca* bir başkasına kiraya veremeyeceğini düzenlemiştir. Kiraya veren söz
+konusu konutu 3 yıl içinde başka bir kimseye kiralarsa, kiraya veren eski
+kiracıya tazminat ödemekle yükümlüdür. Eski kiracının en son ödediği kira
+bedeli esas alınarak *1 yıl boyunca ödediği kira bedelinden az olmamak
+kaydıyla* kiraya veren eski kiracıya tazminat ödemelidir.
+
+NOTE: Yargıtay'a göre kiraya veren ihtiyaç sebebiyle tahliye edilmesini
+bildirdikten sonra kiracı rıza ile konutu tahliye eder ve dava konusu yapmazsa
+ve kiraya verenin 3 yıl içerisinde söz konusu konutu başkasına kiraladığı
+ortaya çıkarsa, eski kiracı tazminattan yoksun kalacaktır. Bu öğretide çokça
+eleştirilmiş bir karardır. Öğretiye göre ister cebri icra yoluyla ister rıza
+ile tahliye etmiş olsun kiracı bu tazminatı alabilmelidir.
+
+==== YENİ MALİKİN İHTİYACI SEBEBİYLE TAHLİYE
+
+[caption=""]
+.Yeni malikin gereksinimi
+====
+*TBK 351*: (1) Kiralananı sonradan edinen kişi, onu kendisi, eşi, altsoyu,
+üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut veya
+işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa, edinme tarihinden
+başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla,
+kira sözleşmesini altı ay sonra açacağı bir davayla sona erdirebilir.
+
+(2) Kiralananı sonradan edinen kişi, dilerse gereksinim sebebiyle sözleşmeyi
+sona erdirme hakkını, sözleşme süresinin bitiminden başlayarak bir ay içinde
+açacağı dava yoluyla da kullanabilir.
+====
+
+Yeni malik, söz konusu taşınmazın *kendisine tescilinden itibaren 1 ay içinde*
+kiracıya tahliye için bildirimde bulunmalıdır. Kiracı tahliye istemine uymazsa
+kiraya veren tahliyenin sağlanması için *tescil tarihinden 6 ay sonra* dava
+açarak tahliyenin yapılmasını sağlayabilir.
+
+Kiraya verenin ihtiyaç sebebiyle tahliye tarihinden itibaren 3 yıl içinde konut
+ve işyerini başkasına kiralaması halinde tazminat ödeme yükümlülüğü kuralı
+burada da geçerlidir.
+
+<<<
+
+==== YENİDEN İMAR VE İNŞA SEBEBİYLE TAHLİYE
+
+[caption=""]
+.Gereksinim, yeniden inşa ve imar
+====
+*TBK 350*: Kiraya veren, kira sözleşmesini;
+
+. Kiralananı kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü
+olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma
+zorunluluğu varsa,
+. Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi
+ya da değiştirilmesi gerekli ve bu işler sırasında kiralananın kullanımı
+imkânsız ise,
+
+belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde
+kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için
+öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde
+açacağı dava ile sona erdirebilir.
+====
+
+[caption=""]
+.Yeniden kiralama yasağı
+====
+*TBK 355*: (2) Yeniden inşa ve imar amacıyla boşaltılması sağlanan taşınmazlar, eski hâli ile, haklı sebep olmaksızın üç yıl
+geçmedikçe başkasına kiralanamaz. Eski kiracının, yeniden inşa ve imarı gerçekleştirilen taşınmazları, yeni durumu ve yeni
+kira bedeli ile kiralama konusunda öncelik hakkı vardır. Bu hakkın, kiraya verenin yapacağı yazılı bildirimi izleyen bir ay
+içinde kullanılması gerekir; bu öncelik hakkı sona erdirilmedikçe, taşınmaz üç yıl geçmeden başkasına kiralanamaz.
+
+(3) Kiraya veren, bu hükümlere aykırı davrandığı takdirde, eski kiracısına son kira yılında ödenmiş olan bir yıllık kira
+bedelinden az olmamak üzere tazminat ödemekle yükümlüdür.
+====
+
+Bunun için kiralanan konutun yıkılması ya da esaslı biçimde yenilenmesi gerekli
+olabilir. Fakat iki faaliyetten biri yapılırken kiracının söz konusu konuttan
+yararlanması fiziken ve teknik konulara göre mümkün olmamalıdır. Bu çerçevede
+kiraya veren bir tahliye davası açtığında hakim bir bilirkişi heyeti oluşturur.
+Gerçekten bir yıkım ya da tadilat yapılmasının gerekli olup olmadığı ve bu
+tadliat esnasında kiracının orada oturup oturamayacağı tespit edilir. Eğer bu
+çerçevede yıkım ya da tadilatın gereksiz olduğu ya da tadilat yapılırken
+kiracının konutta kalmasının fiziken ve teknik olarak mümkün olduğu tespit
+edilirse dava reddedilir.
+
+Kiraya verenin yapacağı tadilat veya yıkım fen kurallarına uygun olmalıdır.
+Yapacağı iyileştirme imar hukukuna uygun olmalı ve plan da mahkemeye
+sunulmalıdır. Eğer imar mevzuatına aykırı, uygulanamayacak bir proje sunulmuş
+ise hakim davayı reddeder.
+
+[caption=""]
+.Dava süresinin uzaması
+====
+*TBK 353*: (1) Kiraya veren, en geç davanın açılması için öngörülen sürede dava
+açacağını kiracıya yazılı olarak bildirmişse, dava açma süresi bir kira yılı
+için uzamış sayılır.
+====
+
+<<<
+
+==== KİRACIDAN KAYNAKLANAN SEBEPLERLE
+
+[caption=""]
+.Kiracıdan kaynaklanan sebeplerle
+====
+*TBK 352*: (1) Kiracı, kiralananın teslim edilmesinden sonra, kiraya verene
+karşı, kiralananı belli bir tarihte boşaltmayı yazılı olarak üstlendiği hâlde
+boşaltmamışsa kiraya veren, kira sözleşmesini bu tarihten başlayarak bir ay
+içinde icraya başvurmak veya dava açmak suretiyle sona erdirebilir.
+
+(2) Kiracı, bir yıldan kısa süreli kira sözleşmelerinde kira süresi içinde; bir
+yıl ve daha uzun süreli kira sözleşmelerinde ise bir kira yılı veya bir kira
+yılını aşan süre içinde kira bedelini ödemediği için kendisine yazılı olarak
+iki haklı ihtarda bulunulmasına sebep olmuşsa kiraya veren, kira süresinin ve
+bir yıldan uzun süreli kiralarda ihtarların yapıldığı kira yılının bitiminden
+başlayarak bir ay içinde, dava yoluyla kira sözleşmesini sona erdirebilir.
+
+(3) Kiracının veya birlikte yaşadığı eşinin aynı ilçe veya belde belediye
+sınırları içinde oturmaya elverişli bir konutu bulunması durumunda kiraya
+veren, kira sözleşmesinin kurulması sırasında bunu bilmiyorsa, sözleşmenin
+bitiminden başlayarak bir ay içinde sözleşmeyi dava yoluyla sona erdirebilir.
+====
+
+Kiracılar çeşitli sebeplerle konutu veya işyerini belirli bir tarihte tahliye
+edeceğini taahhüt edebilir. Buna *kiracının tahliye taahhüdü* denir. Bu
+taahhütler tek taraflı olarak yapılır. Bu taahhüt ile kiracı söz konusu kira
+sözleşmesinin o tarihten itibaren sona ereceğini ve kiralananı tahliye
+edeceğini bildirir. Kiraya veren bu iradeye dayanarak eğer belirtilen tarihte
+kiracı kiralananı tahliye etmemişse dava açarak veya icra takibi yaparak
+kiracıyı oradan çıkartabilir.
+
+Tahliye taahhüdünün hukuken sonuç doğurabilmesi için bazı özellikleri taşıması
+gerekir. Öncelikle tahliye taahhüdü yazılı olmalıdır. Kanun koyucu bunu bir
+geçerlilik şartı olarak aramaktadır.
+
+Kira sözleşmesi kurulurken verilen taahhütler, Yargıtay'a göre geçerli
+değildir. TBK da tahliye taahhüdünün ancak malın kiracıya tesliminden itibaren
+yapılabileceğini öngörmüştür.
+
+Bu geçerlilik koşullarına sahip olan tahliye taahhütlerinde kiracı, taahhüt
+ettiği tarihte konutu tahliye etmezse kiraya veren, o tarihten itibaren 1 ay
+içinde dava açabilir ya da cebri icra yoluna başvurabilir. Ancak o bir ay
+içerisinde kiraya veren, kiracıya dava yolu ile ya da cebri icra yolu ile
+tahliye ettireceğini bildirirse dava süresi 1 yıl uzar.
+
+Kiracıdan kaynaklanan bir diğer sebep ise *kiracının iki haklı ihtar ile
+tahliyeye sebep olması* halidir. Kiracının en az iki aylık kira bedelini
+ödememiş olması ve bunun için iki ayrı ihtara sebebiyet vermiş olması gerekir.
+Kiracı sadece bir aylık kira bedelini ödememişse sadece TBK 315 uygulanabilir.
+
+WARNING: Haklı ihtara sebebiyet vermiş kira bedellerinin aynı kira dönemine ait
+olması gerekir.
+
+CAUTION: Kiracı kira bedelinin ödenmesi için yapılan ihtardan sonra kira
+bedelini ödemiş olsa bile bu durum kiraya verenin bir kira yılı içinde iki
+farklı ihtarın yapılması sebebiyle kira sözleşmesini feshedebilme hakkını
+engellemez.
+
+Kiracıdan kaynaklanan bir diğer fesih sebebi ise kiracının oturduğu ilçe
+sınırları içerisinde *kendisinin veya eşinin oturulabilir bir konutu
+bulunmasıdır*. Bu sadece konut olarak kiralanan taşınmazlar için söz konusu
+olabilen bir sebeptir. 
+
+CAUTION: Kiraya verenin kira sözlşemesi kurulurken kiracının veya eşinin böyle bir
+konutu olduğunu bilmemesi gerekir. 
+
+CAUTION: Kiracı ve eşi ayrı yaşamakta ise kiraya veren eşinin konutu bulunması
+dolayısıyla sözleşmeyi feshedemez.
+
+== ESER SÖZLEŞMESİ
+
+====
+*TBK 470*: Eser sözleşmesi, yüklenicinin bir eser meydana getirmeyi,
+işsahibinin de bunun karşılığında bir bedel ödemeyi üstlendiği sözleşmedir.
+====
+
+Her iki tarafa da karşılıklı olarak borç altına girmekte olduğu için eser
+sözleşmesi *tam iki tarafa borç yükleyen* bir sözleşmedir. Dolayısıyla tam iki
+tarafa borç yükleyen sözleşmelere özgü özellikler eser sözleşmesine de
+uygulanabilir.
+
+Öğretide baskın görüş eser sözleşmesinin *ani edimli bir borç ilişkisi* olduğu
+yönündedir. Bu açıdan eserin meydana getirilme süresi hazırlık aşaması olarak
+değerlendirilir. Burada alacaklının edimden sağlayacağı menfaate bakılarak,
+alacaklının menfaatinin hazırlık aşamasında değil, eserin tamamlanıp iş
+sahibine teslimi ile bir defada sağlandığı için eser sözleşmesinin ani edimli
+bir borç ilişkisi olduğu savunulmaktadır.
+
+Olaya yüklenici açısından bakan diğer bir görüş ise borçlunun ilk görüş
+çerçevesinde hazırlık hareketi olarak nitelendirilen hareketlerine edimin ifası
+gözüyle bakmakta ve borcun ifası (eserin meydana getirilmesi) bir zaman
+sürecine yayıldığı için *sürekli borç ilişkisi* olarak görmektedir.
+
+Doktrinde bazı yazarların ve Yargıtay'ın görüşüne göre ise eser sözleşmesinin
+ani edimli ya da sürekli edimli olup olmadığı somut olayın şartlarına göre
+değerlendirilmelidir.
+
+[NOTE]
+====
+Yargıtay arsa payı karşı inşaat sözleşmeleri bakımından verdiği kararlarda
+özellikle bu sözleşmenin sürekli ve geçici ani edimli bir borç ilişkisi
+niteliği taşıdığına içtihat etmiştir. Bu tespitin önemi yüklenicinin borcunu
+gereği gibi ifa etmediğinde ortaya çıkar. Bu durumda iş sahibi sözleşmeyi
+temerrüt sebebiyle sona erdirmek istediğinde sona erdirme beyanı dönme midir
+yoksa sözleşmenin feshi midir? 
+
+Eğer dönme sayılırsa borç ilişkisi geçmişe etkili olarak ortadan kalkacak ve
+herkes birbirinden almış olduklarını öğretideki baskın görüşe göre sebepsiz
+zenginleşme hükümlerine göre iade edecektir. Dolayısıyla temerrüde düşen
+yüklenicinin o ana kadar yaptığı şeyler "üst alta tabidir" kuralı gereği arsa
+sahibine ait olacaktır. 
+
+Fesih sayılırsa, fesih borç ilişkisini ileriye etkili olarak sona erdirdiği
+için fesih beyanının yükleniciye vardığı tarihten itibaren borç ilişkisi sona
+erer. Ancak o ana kadar yapılanlar geçerliliğini korur. Yani yüklenici o ana
+kadar yapılan inşaatın bedelini iş sahibinden isteyebilir. Hatta Yargıtay'a
+göre, sadece bedeli değil, arsa payı karşılığı inşaat sözleşmelerinde yaptığı
+işe karşılık gelen dairelerin devrini de isteyebilir.
+====
+
+Eser sözleşmesinin üç unsuru bulunmaktadır:
+
+. *Bir eserin meydana getirilmesi*
++
+*Eser*, yüklenicinin meydana getirme faaliyeti sonucu ortaya çıkan ve iş
+sahibine teslim ile borçlu olduğu sonuçtur.
++
+Eser sözleşmesinde bir sonuç meydana getirme borcu ön plandadır. Eser
+sözleşmesini diğer sözleşmelerden, özellikle de vekalet sözleşmelerinden ayıran
+en önemli unsur iş sahibine bir sonucun teslim edilecek olmasıdır. Yüklenici
+bir sonuç meydana getirme borcu altındadır. O sonuç ortaya çıkmaz ya da ortaya
+çıkmasına rağmen iş sahibine teslim edilmezse, yüklenici asli borcunu yerine
+getirmemiş olur.
+. *Eser karşılığında bir bedel ödenmesi*
+. *Tarafların iradelerinin uyuşması*
++
+Eser sözleşmesi kural olarak herhangi bir şekle tabi değildir. Taraflar
+sözleşmeyi kurmaya yönelik irade beyanlarını istedikleri gibi açıklayabilirler.
++
+CAUTION: Arsa payı karşılığı inşaat sözleşmesinde taşınmaz satışı ya da
+taşınmaz satış vaadi ile eser sözleşmesi bir araya getirilerek bir karma
+sözleşme oluşturulmuştur. Uygulamada bu sözleşmenin geçerliliğinin Yargıtay
+kararları ile şekle tabi kabul edilir.
+
+=== ESER SÖZLEŞMESİNİN DİĞER SÖZLEŞMELERLE KARŞILAŞTIRILMASI
+
+Eser sözleşmesi ile vekalet sözleşmesini ayırt etmek isterken dikkate alınması
+gereken unsur, sözleşmeyle amaçlananın ne olduğudur. Tarafların iradeleri, bir
+sonucun meydana getirilmesini istiyorsa ya da sonuç sağlama unsurunun baskın
+olduğu söylenebiliyorsa eser sözleşmesi söz konusudur. Buna karşın sonuçtan çok
+borcun özenle yerine getirilmesi daha baskın halde ise vekalet sözleşmesinin
+kabul edilmesi gerekir.
+
+Eser sözleşmesinde meydana getirme ve malın teslimi karşılığında iş sahibinin
+bir bedel ödemesi zorunludur. Bedel unsuru sözleşmenin asli ve kurucu
+unsurlarından bir tanesidir. Oysa vekalet sözleşmesinde ücret esaslı bir unsur
+değildir. Taraflar isterlerse ya da kanunda gerçekleşen bazı durumlar
+gerçekleşirse vekile ücret ödenir. 
+
+Eser sözleşmesinde sözleşmeyi tek taraflı olarak sona erdirme olanağı
+sınırlıdır. Buna karşın vekalet sözleşmesinde vekil ile müvekkili arasında
+yoğun bir güven ilişkisi olduğundan dolayı vekil her an istifa edebilir,
+müvekkil de vekili her an azledebilir. 
+
+Yüklenici kural olarak taahhüt ettiği işi meydana getirmeyi bir başkasına
+yaptırabilir. Ancak vekalette asıl olan şahsen ifadır. 
+
+Hizmet ile eser sözleşmelerini birbirinden ayıran kriterlerden birisi
+bağımlılık-bağımsızlık unsurudur. Hizmet sözleşmesinde işçi işverene
+bağımlıdır. Oysa eser sözleşmesinde iş sahibi talimat verebilir olsa da
+yüklenici bağımsızlığını korumaktadır. 
+
+Eser sözleşmesinde somut sonuç için emek harcanırken hizmet sözleşmesinde
+işveren için emek harcanır. O yüzden sonucun meydana getirilmesi hizmet
+sözleşmesinde önem taşımaz.
+
+=== TARAFLARIN HAK VE BORÇLARI
+
+==== YÜKLENİCİNİN BORÇLARI
+
+====
+*TBK 471*: (1) Yüklenici, üstlendiği edimleri işsahibinin haklı menfaatlerini
+gözeterek, sadakat ve özenle ifa etmek zorundadır.
+
+(2) Yüklenicinin özen borcundan doğan sorumluluğunun belirlenmesinde, benzer
+alandaki işleri üstlenen basiretli bir yüklenicinin göstermesi gereken meslekî
+ve teknik kurallara uygun davranışı esas alınır.
+
+(3) Yüklenici, meydana getirilecek eseri doğrudan doğruya kendisi yapmak veya
+kendi yönetimi altında yaptırmakla yükümlüdür. Ancak, eserin meydana
+getirilmesinde yüklenicinin kişisel özellikleri önem taşımıyorsa, işi başkasına
+da yaptırabilir.
+
+(4) Aksine âdet veya anlaşma olmadıkça yüklenici, eserin meydana getirilmesi
+için kullanılacak olan araç ve gereçleri kendisi sağlamak zorundadır.
+====
+
+Yüklenicinin asli borcu eseri meydana getirme ve teslim etme borcudur. Eserin
+teslim borcu, tamamlanmış eserin iş sahibine ifa olarak sunulması ile
+gerçekleşir. Dolayısıyla teslimden söz edebilmek için öncelikle meydana
+getirilmesi taahhüt edilen eserin tamamlanmış olması gerekir. Tamamlanmış
+olması, sözleşmenin şartlarına ve tarafların iradesine göre o eserin objektif
+olarak karşı taraf açısından fayda sağlayacak düzeyde olmasıdır.
+
+Eser tamamlanmamışsa iş sahibi eseri teslim almaya zorlanamaz, teslim almıyor
+ise alacaklı temerrüdüne düşmez. Basit, küçük nitelikli eksiklikler söz konusu
+ise teslim almaktan kaçınmak dürüstlük kuralına aykırı sayılabilir. Ancak yine
+de söz konusu eksiklikler teslim tutanağına yazılarak ayıp hükümlerine göre
+düzeltilmesi istenebilir.
+
+Ayıba karşı tekeffül hükümlerinin uygulanmasında iş sahibinin gözden geçirme ve
+bildirme külfetlerinin tayini açısından, ayıptan dopan hakların
+kullanılmasındaki zamanaşımı süresinin başlangıcı açısından teslim zamanı
+önemlidir.
+
+Teslim zamanı ayrıca yüklenicinin alacağı ücretin muaccel olacağı zamanı
+belirler. Taraflar aksine bir düzenleme yapmamışlarsa yüklenicinin alacak hakkı
+ancak teslim borcunun ifa edilmesiyle muaccel olur. 
+
+Yarar ve hasarın iş sahibine geçmesinde de yine teslim anının önemi vardır. 
+
+Sözleşmede aksine bir düzenleme yoksa ve bir taşınmazın teslimi söz konusuysa,
+taşınmazın bulunduğu yerde teslim yapılmalıdır. Diğer şeylerin tesliminde ise
+yüklenicinin bulunduğu yerde teslim yapılmalıdır.
+
+NOTE: Teslim ile eserin kabulü birbirinden farklı kavramlardır. Teslim
+tamamlanmış olan eserin ifa olarak sunulmasıdır. Eğer eser tamamlanmışsa, iş
+sahibi teslim almaktan kaçınamaz. Eserin kabulü ise eserin yüklenici tarafından
+sözleşmeye uygun olarak ifa edildiği, meydana getirildiği ve teslim edildiğinin
+iş sahibi tarafından kabul edilmesidir.
+
+[NOTE]
+====
+İş sahibi İ ile yüklenici Y arasında bir eser sözleşmesi vardır. Bu sözleşme
+gereğince yüklenici Y bir bina meydana getirmelidir. Ancak Y, bu binanın
+boyasını yapmamışsa, taahhüde asansör sistemini kurmamış, duşa kabinleri
+taktırmamışsa *eksik ifa* söz konusu olur. Buna karşılık duş kabinlerinin
+camları çatlaksa ya da duş teknesi su sızdırıyor ise ifa vardır ancak gereği
+gibi olmadığı için *ayıplı ifa* söz konusudur.
+
+Y, İ'ye 80 metrekarelik bir daire teslim etmeyi taahhüt etmişten 79
+metrekarelik bir daire teslim etmişse ayıplı ifa mı eksik ifa mı vardır
+tartışmalıdır. Yargıtay'a göre burada eksik ifa vardır, öğreti ise ayıplı
+ifanın varlığını savunmaktadır.
+
+Eksik ifada ifa gereği gibi olmadığı için ürün teslim alınır ancak eksik ifa
+sebebiyle aradaki fark tazmin edilir. Ayıplı ifada ise iş sahibinin sahip
+olduğu olanaklar tazminatla sınırlı değildir.
+====
+
+Yargıtay, yüklenicinin imar mevzuatına aykırı davranmış ve yapı ruhsatı
+alamamış olmasına rağmen yapının iş sahibi tarafından teslim alınmasının teslim
+sayılıp sayılmayacağı hususunda bir içtihat geliştirmiştir. Buna göre iş
+sahibinin söz konusu bina ruhsatı verilmemiş yapıyı bizzat kullanmadıkça ya da
+kiraya vermedikçe teslim almış sayılmayacağı kabul edilmiştir.
+
+Yüklenici sözleşmede kararlaştırılandan daha fazla eser ortaya koymuşsa
+öncelikle sözleşmede bir düzenleme olup olmadığına bakılır. Sözleşmede ilgili
+düzenleme bulunmuyorsa Yargıtay'a göre tarafların farazi iradelerine dayanarak
+sözleşmede o ana kadar yapılan inşaatın nasıl paylaşılacağı düzenlenmişse o
+oran burada da uygulanır.
+
+Uygulamada genellikle sözleşmelere teknik şartname eklenerek müteahhidin hangi
+malzemeyi hangi kalitede kullanacağı kararlaştırılır. Yüklenici
+kararlaştırılandan lüks malzeme kullanmış ise yine öncelikle sözleşmeye
+bakılır. Sözleşmede hüküm yoksa yüklenicinin yapmış olduğu fazlalılığı
+yapıldığı zamanki değerine göre iş sahibinden vekaletsiz iş görme hükümlerine
+dayanarak isteyebileceği kabul edilir.
+
+Eser sözleşmesi iki tarafa borç yükleyen bir sözleşme olduğundan iş sahibi,
+yüklenici temerrüde düşerse bir takım isteklerde bulunabilir:
+
+. Aynen ifa + gecikme tazminatı (olumsuz zarar)
+. Mehil süre + olumlu zararın tazmini
+. Mehil süre + sözleşmeden dönme + olumsuz zarar veya sözleşmenin feshi +
+olumlu zarar
+
+NOTE: Yargıtay'a göre yükleniciye fesih veya dönme beyanı ulaştığında eğer
+yüklenici bunu kabul etmezse bu durumda iş sahibi dava açmak zorunda
+kalacaktır.
+
+Eser sözleşmesi bir yapma borcu olduğu için TBK 113 önemlidir. Yüklenici
+temerrüde düştüğü takdirde iş sahibi masrafı yükleniciye ait olmak üzere işi
+başkasına yaptırabilir.
+
+[caption=""]
+.Yapma ve yapmama borçlarında
+====
+*TBK 133*: (1) Yapma borcu, borçlu tarafından ifa edilmediği takdirde alacaklı,
+masrafı borçluya ait olmak üzere edimin kendisi veya başkası tarafından ifasına
+izin verilmesini isteyebilir; her türlü giderim isteme hakkı saklıdır.
+
+(2) Yapmama borcuna aykırı davranan borçlu, bu aykırı davranışının doğurduğu
+zararı gidermekle yükümlüdür.
+
+(3) Alacaklı, ayrıca borca aykırı durumun ortadan kaldırılmasını veya bu konuda
+masrafı borçluya ait olmak üzere kendisinin yetkili kılınmasını isteyebilir.
+====
+
+====
+*TBK 471*: (1) Yüklenici, üstlendiği edimleri işsahibinin haklı menfaatlerini
+gözeterek, sadakat ve özenle ifa etmek zorundadır.
+
+(2) Yüklenicinin özen borcundan doğan sorumluluğunun belirlenmesinde, benzer
+alandaki işleri üstlenen basiretli bir yüklenicinin göstermesi gereken meslekî
+ve teknik kurallara uygun davranışı esas alınır.
+
+(3) Yüklenici, meydana getirilecek eseri doğrudan doğruya kendisi yapmak veya
+kendi yönetimi altında yaptırmakla yükümlüdür. Ancak, eserin meydana
+getirilmesinde yüklenicinin kişisel özellikleri önem taşımıyorsa, işi başkasına
+da yaptırabilir.
+
+(4) Aksine âdet veya anlaşma olmadıkça yüklenici, eserin meydana getirilmesi
+için kullanılacak olan araç ve gereçleri kendisi sağlamak zorundadır.
+====
+
+[caption=""]
+.Şahsen ifa zorunluluğunun olmaması
+====
+*TBK 83*: (1) Borcun, bizzat borçlu tarafından ifa edilmesinde alacaklının
+menfaati bulunmadıkça borçlu, borcunu şahsen ifa etmekle yükümlü değildir.
+====
+
+Genel hükümlere göre kural borcun şahsen ifa edilmesinin zorunlu olmamasıdır.
+Ancak TBK 471/3, TBK 83'ün istisnasını oluşturur. Yüklenici, eseri bizzat kendi
+yerine getirecek ya da kendi yönetimi altında bağımlı ifa yardımcılarına
+yaptıracaktır.
+
+Yüklenicinin kişisel özellikleri iş bakımından önem taşımıyorsa yüklenici işi
+tamamen bağımsız kişilere, alt yüklenicilere de yaptırabilir.
+
+Yüklenici ile alt yüklenici arasındaki sözleşme, yüklenici ile iş sahibi
+arasındaki sözleşmeden *bağımsız* bir sözleşmedir.
+
+Alt yüklenici eseri meydana getirirken sözleşmenin tarafı olmayan iş sahibine
+bir zarar vermişse, yüklenici alt yüklenicinin verdiği zarar nedeniyle iş
+sahibine karşı sorumludur. Burada ifa yardımcısının fiilinden sorumluluk söz
+konusudur.
+
+[caption=""]
+.Yardımcı kişilerin fiillerinden sorumluluk
+====
+*TBK 116*: (1) Borçlu, borcun ifasını veya bir borç ilişkisinden doğan hakkın
+kullanılmasını, birlikte yaşadığı kişiler ya da yanında çalışanlar gibi
+yardımcılarına kanuna uygun surette bırakmış olsa bile, onların işi
+yürüttükleri sırada diğer tarafa verdikleri zararı gidermekle yükümlüdür.
+
+(2) Yardımcı kişilerin fiilinden doğan sorumluluk, önceden yapılan bir
+anlaşmayla tamamen veya kısmen kaldırılabilir.
+
+(3) Uzmanlığı gerektiren bir hizmet, meslek veya sanat, ancak kanun veya
+yetkili makamlar tarafından verilen izinle yürütülebiliyorsa, borçlunun
+yardımcı kişilerin fiillerinden sorumlu olmayacağına ilişkin anlaşma kesin
+olarak hükümsüzdür.
+====
+
+Yüklenici, iş sahibi ile aralarındaki sözleşmeye aykırı olarak alt yüklenici
+ile anlaşmışsa hakim görüşe göre iş sahibi TBK 112'ye de TBK 116'ya da
+dayanabilir.
+
+TBK 471/4'te yüklenicinin eseri meydana getirmesi için kullacak olduğu araç ve
+gereçlerin kendisi tarafından sağlanması gerektiği düzenlenmiştir. 
+
+[caption=""]
+.Malzeme bakımından
+====
+*TBK 472*: (1) Malzeme yüklenici tarafından sağlanmışsa yüklenici, bu
+malzemenin ayıplı olması yüzünden işsahibine karşı, satıcı gibi sorumludur.
+
+(2) Malzeme işsahibi tarafından sağlanmışsa yüklenici, onları gereken özeni
+göstererek kullanmakla ve bundan dolayı hesap ve artanı geri vermekle
+yükümlüdür.
+
+(3) Eser meydana getirilirken, işsahibinin sağladığı malzemenin veya eserin
+yapılması için gösterdiği yerin ayıplı olduğu anlaşılır veya eserin gereği gibi
+ya da zamanında meydana getirilmesini tehlikeye düşürecek başka bir durum
+ortaya çıkarsa, yüklenici bu durumu hemen işsahibine bildirmek zorundadır;
+bildirmezse bundan doğacak sonuçlardan sorumlu olur.
+====
+
+TBK 472/1'e göre malzemenin yüklenici tarafından sağlanması ve ayıplı olması
+durumunda yüklenici ayıptan satıcı gibi sorumlu olacaktır. Burada eser
+sözleşmesinin ayıp hükümleri değil satış sözleşmesinin ayıp hükümleri
+uygulanır.
+
+Malzeme iş sahibi tarafından sağlanmışsa yüklenici bu malzemeleri kullanırken
+özenli davranmalıdır ve üçüncü kişilerden gelebilecek zararlara karşı gerekli
+önlemleri almalıdır. Yine kullanılan malzemelerin nerede ve ne miktarda
+kullanıldığının iş sahibine bildirilmesi gerekir.
+
+Taahhüt edilen işin anlaşılan şekilde yapılmasını ya da zamanında bitirilmesini
+engelliyici her türlü durumun iş sahibine bildirilmesi şarttır. Zamanında
+bildirilmemesi nedeniyle iş sahibi ayrıca bir zarar görmüşse Yargıtay
+içtihatlarına göre iş sahibi sırf bu sebeple uğradığı zararın tazminini
+yükleniciden isteyebilir.
+
+[caption=""]
+.İşe başlama ve yürütme
+====
+*TBK 473*: (1) Yüklenicinin işe zamanında başlamaması veya sözleşme hükümlerine
+aykırı olarak işi geciktirmesi ya da işsahibine yüklenemeyecek bir sebeple
+ortaya çıkan gecikme yüzünden bütün tahminlere göre yüklenicinin işi
+kararlaştırılan zamanda bitiremeyeceği açıkça anlaşılırsa, işsahibi teslim için
+belirlenen günü beklemek zorunda olmaksızın sözleşmeden dönebilir.
+
+(2) Meydana getirilmesi sırasında, eserin yüklenicinin kusuru yüzünden ayıplı
+veya sözleşmeye aykırı olarak meydana getirileceği açıkça görülüyorsa, işsahibi
+bunu önlemek üzere vereceği veya verdireceği uygun bir süre içinde yükleniciye,
+ayıbın veya aykırılığın giderilmesi; aksi takdirde hasar ve masrafları
+kendisine ait olmak üzere, onarımın veya işe devamın bir üçüncü kişiye
+verileceği konusunda ihtarda bulunabilir.
+====
+
+Yüklenicinin işe zamanında başlaması, işi geciktirmeden tamamlaması ve
+kararlaştırılan zamanda iş sahibine teslim etmesi gerekir. TBK 473 bu
+yükümlülüğün ifası bakımından iş sahibine bir takım haklar vermektedir. Hüküm
+işe zamanında başlanılmaması, gecikmesi veya zamanında bitirilemeyeceğinin
+anlaşılması durumlarında *henüz borç muaccel olmadan* iş sahibine sözleşmeden
+dönme olanağı sağlar.
+
+[NOTE]
+====
+Gecikme ya da işe başlamama ihtimallerinde sözleşmeden dönme hakkının
+kullanılabilmesi için yükleniciye sözleşmeden döneceğine dair bir ihtarda
+bulunması şart mıdır?
+
+TBK 473'ü borçlu temerrüdünün özel bir görünümü olarak değerlendiren doktrin
+görüşüne göre belirli vade yoksa temerrüde düşürmek için ihtar şart olduğundan
+iş sahibinin bildirimde bulunması gereklidir. İhtarda bulunduktan sonra
+sözleşmeden dönebileceği gibi aynen ifa ve gecikme tazminatı veya süre vererek
+olumlu zararın tazminini isteyebilir.
+
+Doktrindeki baskın görüş ise TBK 473'ü temerrüt olarak değerlendirmemektedir.
+Zira borçlunun temerrüde düşmesi için borcun muaccel olması gerekir. TBK 473'te
+ise daha borç muaccel olmadan iş sahibine sözleşmeden dönme hakkı
+tanınmaktadır. Sözleşmeden dönmek için ihtar şart değildir. İş sahibinin olumlu
+zararın tazminini, aynen ifa ve gecikme tazminatı istemesi mümkün değildir.
+====
+
+Yine TBK 473/2'de iş sahibine tanınmış bir hak ile TBK 113 uyarınca nama ifa
+için hakimden izin alınması gereği kaldırılmıştır. TBK 473/2'deki sözleşmeden
+dönme için aranan şartlar mevcutsa iş sahibi hakimden izin almaksızın
+masrafları yükleniciye ait olmak üzere işi başkasına yaptırabilir. Ancak bunun
+için yükleniciye bir ihtarla uygun süre verilmesi şarttır.
+
+==== YÜKLENİCİNİN AYIP SEBEBİYLE SORUMLULUĞU
+
+Ayıptan doğan sorumluluğun söz konusu olabilmesi için, öncelikle eserin
+yüklenici tarafından iş sahibine teslim edilmiş olması gerekir. 
+
+[caption=""]
+.Ayıbın belirlenmesi
+====
+*TBK 474*: (1) İşsahibi, eserin tesliminden sonra, işlerin olağan akışına göre
+imkân bulur bulmaz eseri gözden geçirmek ve ayıpları varsa, bunu uygun bir süre
+içinde yükleniciye bildirmek zorundadır.
+
+(2) Taraflardan her biri, giderini karşılayarak, eserin bilirkişi tarafından
+gözden geçirilmesini ve sonucun bir raporla belirlenmesini isteyebilir.
+====
+
+Taraflar meydana getirilecek eserin hangi özelliklere sahip olacağını açıkça ya
+da örtülü kararlaştırmışlarsa bu niteliklerin meydana getirilen eserde
+bulunmaması halinde ayıptan söz edilir.
+
+Taraflar açık ya da örtülü iradeleri ile eserde bulunması gerekli olan
+nitelikleri kararlaştırmamışlarsa güven teorisi çerçevesinde tarafların farazi
+iradelerine göre nasıl bir eser meydana getirilmesi istenebileceği belirtilir.
+Burada özellikle iş sahibinin meydana getirilecek eseri kullanım amacına
+bakılmalıdır. Somut olayda bunun tespitinin yanı sıra yüklenici tarafından da
+bu durumun bilinebilir olması gerekir.
+
+[caption=""]
+.İşsahibinin seçimlik hakları
+====
+*TBK 475*: (1) Eserdeki ayıp sebebiyle yüklenicinin sorumlu olduğu hâllerde
+işsahibi, aşağıdaki seçimlik haklardan birini kullanabilir:
+
+. Eser işsahibinin kullanamayacağı veya hakkaniyet gereği kabule
+zorlanamayacağı ölçüde ayıplı ya da sözleşme hükümlerine aynı ölçüde aykırı
+olursa sözleşmeden dönme.
+. Eseri alıkoyup ayıp oranında bedelden indirim isteme.
+. Aşırı bir masrafı gerektirmediği takdirde, bütün masrafları yükleniciye ait
+olmak üzere, eserin ücretsiz onarılmasını isteme.
+
+(2) İşsahibinin genel hükümlere göre tazminat isteme hakkı saklıdır.
+
+(3) Eser, işsahibinin taşınmazı üzerinde yapılmış olup, sökülüp kaldırılması
+aşırı zarar doğuracaksa işsahibi, sözleşmeden dönme hakkını kullanamaz.
+====
+
+[caption=""]
+.İşsahibinin sorumluluğu
+====
+*TBK 476*: (1) Eserin ayıplı olması, yüklenicinin açıkça yaptığı ihtara karşın,
+işsahibinin verdiği talimattan doğmuş bulunur veya herhangi bir sebeple
+işsahibine yüklenebilecek olursa işsahibi, eserin ayıplı olmasından doğan
+haklarını kullanamaz.
+====
+
+[caption=""]
+.Eserin kabulü
+====
+*TBK 477*: (1) Eserin açıkça veya örtülü olarak kabulünden sonra, yüklenici her
+türlü sorumluluktan kurtulur; ancak, onun tarafından kasten gizlenen ve usulüne
+göre gözden geçirme sırasında fark edilemeyecek olan ayıplar için sorumluluğu
+devam eder.
+
+(2) İşsahibi, gözden geçirmeyi ve bildirimde bulunmayı ihmal ederse, eseri
+kabul etmiş sayılır.
+
+(3) Eserdeki ayıp sonradan ortaya çıkarsa işsahibi, gecikmeksizin durumu
+yükleniciye bildirmek zorundadır; bildirmezse eseri kabul etmiş sayılır.
+====
+
+TBK 474/2'ye göre taraflardan her biri, giderini karşılayarak, eserin bilirkişi
+tarafından gözden geçirilmesini isteyebilir. Ayıbın tespiti halinde tazminat
+talebinde bilirkişiye ödenmiş olan ücret de istenebilir.
+
+Kasten gizleme halinde, muayene ve ihbar külfetinin yerine getirilmemiş olması,
+ayıptan doğan hakların yitirilmesine neden olmaz.
+
+[caption=""]
+.Zamanaşımı
+====
+*TBK 478*: (1) Yüklenici ayıplı bir eser meydana getirmişse, bu sebeple
+açılacak davalar, teslim tarihinden başlayarak, taşınmaz yapılar dışındaki
+eserlerde iki yılın; taşınmaz yapılarda ise beş yılın ve yüklenicinin ağır
+kusuru varsa, ayıplı eserin niteliğine bakılmaksızın yirmi yılın geçmesiyle
+zamanaşımına uğrar.
+====
+
+==== İŞ SAHİBİNİN BORÇLARI
+
+[caption=""]
+.Bedelin muacceliyeti
+====
+*TBK 479*: (1) İşsahibinin bedel ödeme borcu, eserin teslimi anında muaccel
+olur.
+
+(2) Eserin parça parça teslim edilmesi kararlaştırılmış ve bedel parçalara göre
+belirlenmişse, her parçanın bedeli onun teslimi anında muaccel olur.
+====
+
+Meydana getirilecek eser karşılığında iş sahibinin asli borcu bedel ödeme
+borcudur. Tarafların iradelerinin bu konuda uyuşması, eser sözleşmesinin kurucu
+unsurudur. Fakat sözleşme kurulurken taraflar ödenecek bedelin miktarı
+konusunda anlaşmamış olabilir.
+
+Sözleşme kurulurken, iş sahibi tarafından ödenecek bedel kesin olarak
+hesaplandıysa *kesin bedel* (götürü bedel) söz konusudur. Kesin bedel
+belirlendiği takdirde öngörülen masrafta değişiklik olsa dahi sonradan
+değiştirilemez.
+
+TIP: Taraflar kesin bedel kararlaştırmış olmakla beraber değişen koşullara göre
+bedelde değişiklik yapılabileceğini düzenleyebilirler. 
+
+[caption=""]
+.Götürü bedel
+====
+*TBK 480*: (1) Bedel götürü olarak belirlenmişse yüklenici, eseri o bedelle
+meydana getirmekle yükümlüdür. Eser, öngörülenden fazla emek ve masrafı
+gerektirmiş olsa bile yüklenici, belirlenen bedelin artırılmasını isteyemez.
+
+(2) Ancak, başlangıçta öngörülemeyen veya öngörülebilip de taraflarca göz
+önünde tutulmayan durumlar, taraflarca belirlenen götürü bedel ile eserin
+yapılmasına engel olur veya son derece güçleştirirse yüklenici, hâkimden
+sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün olmadığı veya karşı
+taraftan beklenemediği takdirde sözleşmeden dönme hakkına sahiptir. Dürüstlük
+kurallarının gerektirdiği durumlarda yüklenici, ancak fesih hakkını
+kullanabilir.
+
+(3) Eser, öngörülenden az emek ve masrafı gerektirmiş olsa bile işsahibi,
+belirlenen bedelin tamamını ödemekle yükümlüdür.
+====
+
+TBK 480/2'de kesin bedelin değiştirilemeyeceği kuralının istisnası
+düzenlenmiştir. Buna göre öngörülemeyen olağanüstü bir durum yüklenicinin
+yükünü dürüstlük kuralına aykırı bir şekilde ağırlaştırmışsa sözleşmenin
+uyarlanması yüklenici tarafından istenebilir. TBK 480/2, TBK 138'in özel bir
+görünümüdür.
+
+[caption=""]
+.Aşırı ifa güçlüğü
+====
+*TBK 138*: (1) Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve
+öngörülmesi de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir
+sebeple ortaya çıkar ve sözleşmenin yapıldığı sırada mevcut olguları,
+kendisinden ifanın istenmesini dürüstlük kurallarına aykırı düşecek derecede
+borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa etmemiş veya ifanın
+aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olursa
+borçlu, hâkimden sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün
+olmadığı takdirde sözleşmeden dönme hakkına sahiptir. Sürekli edimli
+sözleşmelerde borçlu, kural olarak dönme hakkının yerine fesih hakkını
+kullanır.
+====
+
+TBK 480/2'den yararlanmak için olağanüstü durumun öngörülemez olması
+gerekmektedir. Eğer basiretli, özenli bir yükleniciden somut olayda olağanüstü
+olayı öngörmesi beklenebiliyor ise, bunu öngörememesi ve olağanüstü olayın
+ortaya çıkması halinde TBK 480/2 uygulanamayacaktır.
+
+TBK 480/2 uyarınca sözleşmenin uyarlanabilmesi için yüklenicinin borcunu ifa
+etmemiş olması gerekir. Borcunu ifa etmiş olsa dahi TBK 480/2'deki haklarını
+çekince olarak ileri sürmüş olmalıdır. Aksi takdirde sözleşmenin
+uyarlanmasından bahsedilemez.
+
+TBK 480/2 emredici bir hüküm değildir. Taraflar yapacakları sözleşme ile bu
+hükmün aksini kararlaştırabilirler.
+
+Yüklenici TBK 480/2'deki koşullar gerçekleştiği takdirde hakimden sözleşmenin
+uyarlanmasını talep edecektir. Sözleşmenin değişen koşullara ne şekilde
+uyarlanabileceğini hakim takdir eder. Sözleşmenin uyarlanamayacağına kanaat
+getirirse bu doğrultuda bir tespit hükmü verecektir. Bu hükümden sonra
+yüklenici isterse sözleşmeden dönebilir.
+
+**Birim bedel**de ise inşaat işlerinde kullanılacak malzemeler belirlenir ve
+her bir birim için ne kadar kullanılırsa o kadar masraf doğar. 
+
+Taraflar bir alt ve üst sınır belirleyerek ödenecek bedelin koşullara göre
+belirlenmesini kararlaştırabilirler. 
+
+[caption=""]
+.Değere göre bedel
+====
+*TBK 481*: (1) Eserin bedeli önceden belirlenmemiş veya yaklaşık olarak
+belirlenmişse bedel, yapıldığı yer ve zamanda eserin değerine ve yüklenicinin
+giderine bakılarak belirlenir.
+====
+
+**Yaklaşık bedel**de taraflar anlaşamazlarsa bedel bilirkişi tarafından
+belirlenir. Eserin değeri masraflara göre belirlenir. Değer hesaplanırken işin
+yapıldığı yer ve zamandaki değerler esas alınmalıdır.
+
+[caption=""]
+.Yaklaşık bedelin aşılması
+====
+*TBK 482*: (1) Başlangıçta yaklaşık olarak belirlenen bedelin, işsahibinin
+kusuru olmaksızın aşırı ölçüde aşılacağı anlaşılırsa işsahibi, eser henüz
+tamamlanmadan veya tamamlandıktan sonra sözleşmeden dönebilir.
+
+(2) Eser, işsahibinin arsası üzerine yapılıyorsa işsahibi, bedelden uygun bir
+miktarın indirilmesini isteyebileceği gibi, eser henüz tamamlanmamışsa,
+yükleniciyi işe devamdan alıkoyarak, tamamlanan kısım için hakkaniyete uygun
+bir bedel ödemek suretiyle sözleşmeyi feshedebilir.
+====
+
+Ancak iş sahibi ödenecek bedelin üst sınırı aşırı ölçüde aşacağını fark ederse
+dönme hakkını kullabilir. Üst sınırın aşırı ölçüde aşılması İsviçre hukukuna
+göre üst sınırın %10'unu aşmasıdır. Türk hukukunda da uygulamada bu kural kabul
+edilmektedir.
+
+Bedelin aşılması iş sahibinin talimatından veya sağladığı malzemeden
+kaynaklanıyorsa TBK 482'den yararlanılamaz.
+
+Yapı iş sahibinin arsası üzerinde yapılıyorsa sözleşmeden dönüldüğünde "_üst
+alta tabidir_" kuralı gereği iş sahibinde kalacaktır. Yüklenicinin menfaatinin
+korunması için kanun koyucu sözleşmeden dönme hakkını sınırlandırmıştır.
+Bu durumda sözleşmeden dönmek yerine aşırı bedelde indirime gidilebilir ya da
+yükleniciye uygun bir bedel ödenerek sözleşme feshedilebilir.
+
+=== ESERDE HASAR MEYDANA GELMESİ
+
+Yüklenici tarafından eserin iş sahibine teslimine kadar _karşı edim hasarı_
+yüklenicidedir. Teslimden sonra eserin başına bir şey gelirse eserin bedelini
+isteyebilir. Aynı şekilde iş sahibi alacaklı temerrüdüne düşmüşse de eserin
+hasara uğraması halinde bedel istenebilir.
+
+[caption=""]
+.Eserin yok olması
+====
+*TBK 483*: (1) Eser teslimden önce beklenmedik olay sonucu yok olursa işsahibi,
+eseri teslim almada temerrüde düşmedikçe yüklenici, yaptığı işin ücretini ve
+giderlerinin ödenmesini isteyemez. Bu durumda malzemeye gelen hasar, onu
+sağlayana ait olur.
+
+(2) Eserin işsahibince verilen malzeme veya gösterilen arsanın ayıbı veya
+işsahibinin talimatına uygun yapılması yüzünden yok olması durumunda yüklenici,
+doğabilecek olumsuz sonuçları zamanında bildirmişse, yaptığı işin değerini ve
+bu değere girmeyen giderlerinin ödenmesini isteyebilir. İşsahibinin kusuru
+varsa, yüklenicinin ayrıca zararının giderilmesini de isteme hakkı vardır.
+====
+
+Öğretiye göre eserin objektif olarak yeniden meydana getirilmesi mümkün ise bu
+durumda yüklenici, ekstra bir bedel istemeden o eseri tekrar yapmak zorundadır.
+
+TBK 483/2'ye göre eserin iş sahibinden kaynaklanan nedenlerle telef olması
+durumunda bedel ancak yüklenici iş sahibini doğabilecek olumsuz sonuçlar
+hakkında uyarmışsa istenebilir. İş sahibinin kusuru varsa yüklenici ayrıca
+zararını da isteyebilir.
+
+TBK 483 emredici bir düzenleme değildir, aksi taraflarça düzenlenebilir.
+
+=== ESER SÖZLEŞMESİNİN SONA ERMESİ
+
+[caption=""]
+.Tazminat karşılığı fesih
+====
+*TBK 484*: (1) İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın
+karşılığını ödemek ve yüklenicinin bütün zararlarını gidermek koşuluyla
+sözleşmeyi feshedebilir.
+====
+
+TBK 484 uyarınca iş sahibi, hiçbir haklı sebep olmaksızın o ana kadar yapılan
+kısmın karşılığını ve varsa yüklenicinin zararlarını ödemek suretiyle
+sözleşmeyi feshedebilir.
+
+[caption=""]
+.İşsahibi yüzünden ifanın imkânsızlaşması
+====
+*TBK 485*: (1) Eserin tamamlanması, işsahibi ile ilgili beklenmedik olay
+dolayısıyla imkânsızlaşırsa yüklenici, yaptığı işin değerini ve bu değere
+girmeyen giderlerini isteyebilir.
+
+(2) İfa imkânsızlığının ortaya çıkmasında işsahibi kusurluysa, yüklenicinin
+ayrıca tazminat isteme hakkı vardır.
+====
+
+[caption=""]
+.Yüklenicinin ölümü veya yeteneğini kaybetmesi
+====
+*TBK 486*: (1) Yüklenicinin kişisel özellikleri göz önünde tutularak yapılmış
+olan sözleşme, onun ölümü veya kusuru olmaksızın eseri tamamlama yeteneğini
+kaybetmesi durumunda kendiliğinden sona erer. Bu durumda işsahibi, eserin
+tamamlanan kısmından yararlanabilecek ise, onu kabul etmek ve karşılığını
+vermekle yükümlüdür.
+====
+
+== ARSA PAYI KARŞILIĞI İNŞAAT SÖZLEŞMESİ
+
+Arsa payı karşılığı inşaat sözleşmesi, eser sözleşmesi ile taşınmaz satış ya
+da taşınmaz satış vaadi sözleşmelerinin bir araya gelmeleri ile oluşmuş karma
+bir sözleşmedir.
+
+Arsa payı karşılığı bir kaç farklı şekilde düzenlenebilir:
+
+.. Taraflar bir satış vaadi sözleşmesi yaparak arsa üzerinde yapılacak bağımsız
+bölümleri paylaşırlar. Sözleşmede yapılacak inşaatın özellikleri yanında iş
+karşılığında yükleniciye devredilecek olan pay da belirlenir. Sözleşme
+yapıldıktan sonra, daha inşaat başlamadan yükleniciye taahhüt edilen pay
+devredilir.
++
+Çoğunlukla paylar üzerinde arsa sahibi lehine ipotek yapılır. Böylelikle arsa
+sahibi yükleniciye devrettiği payda bir sınırlı ayni hak sahibi olmakta ve
+yüklenici kararlaştırılan işi yerine getirmezse ipotek hakkı sahibi olarak
+haklarını kullanabilmektedir. Yüklenici edimini gereği gibi ifa ederse ipoteğin
+kaldırılmasını arsa sahibinden isteyecektir.
+.. Taraflar yine noterde bir satış vaadi sözleşmesi yaparak paylaşımın hangi
+oranda yapılacağını kararlaştırırlar. Ancak burada arsa sahibi arsa paylarını
+baştan devretmemektedir. Yüklenici inşaata başladıkta sonra işin %20'sini
+tamamladığını bildirir ve arsa sahibi payların %20'sini yükleniciye devreder.
+İşin yapılma oranı bir uzmana da hesaplattırılabilir.
+.. Arsa sahibi yüklenicinin yapacağı inşaat karşılığında belirli bir payın
+mülkiyetinin devri yerine yükleniciye vekalet verir. Yüklenici kendi hissesine
+düşecek payları iktisap etmek yerine arsa sahibinden aldığı temsil yetkisine
+dayanarak üçüncü kişilere satış yapar. Aldığı bedel ile de yapının bedeli
+karşılanır.
+
+Sözleşme taşınmaz satış vaadi olarak yapılıyorsa noterde, taşınmaz satışı
+olarak yapılıyorsa tapuda yapılmalıdır. Her halükarda sözleşme adi yazılı
+şekilde yapılmışsa şekle aykırılık nedeniyle hükümsüzdür. Fakat bir Yargıtay
+içtihadı birleştirme kararına göre taraflardan ikisi de edimlerini büyük ölçüde
+tamamlamış veya ifa etmişlerse şekle aykırılığı ileri sürmek dürüstlük kuralına
+aykırı olacaktır.
+
+== HİZMET SÖZLEŞMESİ
+
+[caption=""]
+.Tanımı
+====
+*TBK 393*: (1) Hizmet sözleşmesi, işçinin işverene bağımlı olarak belirli veya
+belirli olmayan süreyle işgörmeyi ve işverenin de ona zamana veya yapılan işe
+göre ücret ödemeyi üstlendiği sözleşmedir.
+
+(2) İşçinin işverene bir hizmeti kısmi süreli olarak düzenli biçimde yerine
+getirmeyi üstlendiği sözleşmeler de hizmet sözleşmesidir.
+
+(3) Genel hizmet sözleşmesine ilişkin hükümler, kıyas yoluyla çıraklık
+sözleşmesine de uygulanır; özel kanun hükümleri saklıdır.
+====
+
+Bir sözleşmenin hizmet sözleşmesi olabilmesi için:
+
+.. _İşçi bir iş görmeyi taahhüt etmelidir._
++
+Bir sonucun meydana getirilmesi hizmet sözleşmesi bakımından önem taşımaz.
+Önemli olan bir süreye yayılmış bir emek harcama faaliyetinin gerçekleşmesidir.
+.. _İş görme faaliyetinin belirli ya da belirsiz bir süreye yayılması gerekir._
+.. _Taahhüt ettiği faaliyeti yürütürken işçinin işverene bağımlı olması
+gerekir._
+
+[caption=""]
+.Kurulması
+====
+*TBK 394*: (1) Hizmet sözleşmesi, kanunda aksine bir hüküm olmadıkça özel bir
+şekle bağlı değildir.
+
+(2) Bir kimse, durumun gereklerine göre ancak ücret karşılığında yapılabilecek
+bir işi belli bir zaman için görür ve bu iş de işveren tarafından kabul
+edilirse, aralarında hizmet sözleşmesi kurulmuş sayılır.
+====
+
+Hizmet sözleşmesi tam iki tarafa borç yükleyen sözleşmedir. İşçi iş görme
+faaliyeti yürütürken işveren de bunun karşılığında bir bedel ödemelidir. Hizmet
+sözleşmesi sürekli borç ilişkisi doğurur.
+
+Hizmet sözleşmeleri kural olarak bir şekle tabi değildir.
+
+=== İŞÇİNİN BORÇLARI
+
+İşçi işi bizzat yerine getirmelidir.
+
+[caption=""]
+.Bizzat çalışma borcu
+====
+*TBK 395*: (1) Sözleşmeden veya durumun gereğinden aksi anlaşılmadıkça, işçi
+yüklendiği işi bizzat yapmakla yükümlüdür.
+====
+
+İşçi yüklendiği işi özenle yerine getirmelidir. Bu çerçevede iş sırasında
+kullandığı iş vasıtalarını da usulüne uygun olara ve özen göstererek
+kullanmalıdır.
+
+[caption=""]
+.Özen ve sadakat borcu
+====
+*TBK 396*: (1) İşçi, yüklendiği işi özenle yapmak ve işverenin haklı
+menfaatinin korunmasında sadakatle davranmak zorundadır.
+
+(2) İşçi, işverene ait makineleri, araç ve gereçleri, teknik sistemleri,
+tesisleri ve taşıtları usulüne uygun olarak kullanmak ve bunlarla birlikte işin
+görülmesi için kendisine teslim edilmiş olan malzemeye özen göstermekle
+yükümlüdür.
+
+(3) İşçi, hizmet ilişkisi devam ettiği sürece, sadakat borcuna aykırı olarak
+bir ücret karşılığında üçüncü kişiye hizmette bulunamaz ve özellikle kendi
+işvereni ile rekabete girişemez.
+
+(4) İşçi, iş gördüğü sırada öğrendiği, özellikle üretim ve iş sırları gibi
+bilgileri, hizmet ilişkisinin devamı süresince kendi yararına kullanamaz veya
+başkalarına açıklayamaz. İşverenin haklı menfaatinin korunması için gerekli
+olduğu ölçüde işçi, hizmet ilişkisinin sona ermesinden sonra da sır saklamakla
+yükümlüdür.
+====
+
+Sadakat borcunun gereği olarak işçi iş sırasında öğrendiği sırları üçüncü
+kişilerle paylaşmamalıdır. Ayrıca bir ücret karşılığında üçüncü kişiye hizmette
+bulunmak ve özellikle işvereni ile rekabet etmek de sadakat borcuna aykırıdır.
+
+[caption=""]
+.Teslim ve hesap verme borcu
+====
+*TBK 397*: (1) İşçi, üstlendiği işin görülmesi sırasında üçüncü kişiden işveren
+için aldığı şeyleri ve özellikle paraları derhâl ona teslim etmek ve bunlar
+hakkında hesap vermekle yükümlüdür.
+
+(2) İşçi, hizmetin ifasından dolayı elde ettiği şeyleri de derhâl işverene
+teslim etmekle yükümlüdür.
+====
+
+İşçi haklı bir sebebi yoksa işvereninin fazla çalışma teklifini reddedemez.
+
+[caption=""]
+.Fazla çalışma borcu
+====
+*TBK 398*: (1) Fazla çalışma, ilgili kanunlarda belirlenen normal çalışma
+süresinin üzerinde ve işçinin rızasıyla yapılan çalışmadır. Ancak, normal
+süreden daha fazla çalışmayı gerektiren bir işin yerine getirilmesi zorunluluğu
+doğar, işçi bunu yapabilecek durumda bulunur ve aynı zamanda kaçınması da
+dürüstlük kurallarına aykırı olursa işçi, karşılığı verilmek koşuluyla, fazla
+çalışmayı yerine getirmekle yükümlüdür.
+
+(2) Özel kanunlardaki hükümler saklıdır.
+====
+
+İşçi, işverenin talimatlarıya bağlıdır. Bu çerçevede işveren işçiye bir takım
+talimatlar verebilir ve bunlara uymasını isteyebilir.
+
+[caption=""]
+.Düzenlemelere ve talimata uyma borcu
+====
+*TBK 399*: (1) İşveren, işin görülmesi ve işçilerin işyerindeki davranışlarıyla
+ilgili genel düzenlemeler yapabilir ve onlara özel talimat verebilir. İşçiler,
+bunlara dürüstlük kurallarının gerektirdiği ölçüde uymak zorundadırlar.
+====
+
+İşçi işverene *kusuruyla* verdiği zararlardan sorumludur.
+
+[caption=""]
+.İşçinin sorumluluğu
+====
+*TBK 400*: (1) İşçi, işverene kusuruyla verdiği her türlü zarardan sorumludur.
+
+(2) Bu sorumluluğun belirlenmesinde; işin tehlikeli olup olmaması, uzmanlığı ve
+eğitimi gerektirip gerektirmemesi ile işçinin işveren tarafından bilinen veya
+bilinmesi gereken yetenek ve nitelikleri göz önünde tutulur.
+====
+
+=== İŞVERENİN BORÇLARI
+
+İşverenin asli borcu ücret ödemektir.
+
+====
+*TBK 401*: (1) İşveren, işçiye sözleşmede veya toplu iş sözleşmesinde
+belirlenen; sözleşmede hüküm bulunmayan hâllerde ise, asgari ücretten az
+olmamak üzere emsal ücreti ödemekle yükümlüdür.
+====
+
+TBK 398 uyarınca işçi fazla çalışma yapmış ise normal çalışma ücretinin en az
+%50 fazlası fazla çalışma ücreti olarak ödenmelidir.
+
+[caption=""]
+.Fazla çalışma ücreti
+====
+*TBK 402*: (1) İşveren, fazla çalışma için işçiye normal çalışma ücretini en az
+yüzde elli fazlasıyla ödemekle yükümlüdür.
+
+(2) İşveren, işçinin rızasıyla fazla çalışma ücreti yerine, uygun bir zamanda
+fazla çalışmayla orantılı olarak izin verebilir.
+====
+
+İşçinin iş sonucunda pay alması da mümkündür.
+
+[caption=""]
+.İşin sonucundan pay alma
+====
+*TBK 403*: (1) Sözleşmeyle işçiye ücretle birlikte üretilenden, cirodan veya
+kârdan belli bir pay verilmesi kararlaştırılmışsa, hesap dönemi sonunda bu pay,
+yasal hükümler veya genellikle kabul edilmiş ticari esaslar göz önünde
+tutularak belirlenir.
+
+(2) İşçiye belli bir pay verilmesi kararlaştırılan hâllerde, payın
+hesaplanmasında uyuşulamazsa işveren, işçiye veya onun yerine, birlikte
+kararlaştırdıkları ya da hâkimin atadığı bilirkişiye bilgi vermek ve bilginin
+dayanağını oluşturan işletmeyle ilgili defter ve belgeleri incelemesine sunmak;
+kârdan bir pay verilmesi kararlaştırılmışsa, işveren işçiye, istemi üzerine
+ayrıca yıl sonu kâr zarar cetvelini vermek zorundadır.
+====
+
+İşçi ile belirli bir işte aracılık yapması için sözleşme kurulabilir. Bu
+durumda işçiye bir ücret ödenmelidir.
+
+[caption=""]
+.Aracılık ücreti
+====
+*TBK 404*: (1) İşçiye belli işlerde aracılık yapması karşılığında işverence bir
+ücret ödeneceği kararlaştırılmışsa, aracılık yapılan işlemin üçüncü kişi ile
+geçerli olarak kurulmasıyla işçinin istem hakkı doğar.
+
+(2) Borçların kısım kısım ifa edileceği sözleşmeler ile sigorta
+sözleşmelerinde, her kısma ilişkin ücret isteminin bu kısma ilişkin borcun
+muaccel olmasıyla veya yerine getirilmesiyle doğacağı yazılı olarak
+kararlaştırılabilir.
+
+(3) İşçinin aracılığı suretiyle işveren ile üçüncü kişi arasında kurulan
+sözleşme, işveren tarafından kusuru olmaksızın ifa edilmezse veya üçüncü kişi
+borçlarını yerine getirmezse, ücret istemine yönelik hak sona erer. Sadece
+kısmi ifa hâlinde, ücretten orantılı olarak indirim yapılır.
+
+(4) Sözleşmeyle işçiye, kendisine ödenecek aracılık ücretinin hesabını tutma
+yükümlülüğü getirilmemişse, işveren işçiye ücretin muaccel olduğu her dönem
+için, bu ücrete tabi işlemleri de içeren yazılı hesap vermekle yükümlüdür.
+
+(5) Hesabı gözden geçirme ihtiyacı ortaya çıkarsa işveren, işçiye veya onun
+yerine, birlikte kararlaştırdıkları ya da hâkimin atadığı bilirkişiye bilgi
+vermek ve bilginin dayanağını oluşturan işletmeyle ilgili defter ve belgeleri
+onun incelemesine sunmak zorundadır.
+====
+
+Sözleşmede bir hüküm olması ya da işverenin taahhüt etmesi halinde bayram,
+yılbaşı, doğumgünü gibi özel günlerde işçiye özel ikramiye verilir.
+
+[caption=""]
+.İkramiye
+====
+*TBK 405*: (1) İşveren, bayram, yılbaşı ve doğum günü gibi belirli günler
+dolayısıyla işçilerine özel ikramiye verebilir. Ancak, işçilerin ikramiyeyi
+istem hakları bu konuda anlaşmanın veya çalışma şartının ya da işverenin tek
+taraflı taahhüdünün varlığı hâlinde doğar.
+
+(2) Hizmet sözleşmesi ikramiyenin verildiği dönemden önce sona ermişse,
+ikramiyenin çalıştığı süreye yansıyan bölümü ödenir.
+====
+
+Ücret, sözleşmede belirtilen sürede ya da her ayın sonunda ödenir.
+
+[caption=""]
+.Ödeme süresi
+====
+*TBK 406*: (1) Aksine âdet olmadıkça, işçiye ücreti her ayın sonunda ödenir.
+Ancak, hizmet sözleşmesi veya toplu iş sözleşmesiyle daha kısa ödeme süreleri
+belirlenebilir.
+
+(2) Daha kısa bir ödeme süresi kararlaştırılmamışsa veya aksine âdet yoksa,
+aracılık ücreti her ayın sonunda ödenir.  Ancak, işlemlerin yapılması altı
+aydan daha uzun bir süre gerektirdiği takdirde, aracılık ücreti asıl ücrete ek
+olarak kararlaştırılmışsa, yazılı anlaşmayla ödeme daha ileri bir tarihe
+bırakılabilir.
+
+(3) Asıl ücrete ek olarak üretilenden pay verilmesi öngörülen hâllerde, ürün
+payı belirlenir belirlenmez, cirodan veya kârdan pay verilmesi kararlaştırılan
+hâllerde ise payın, hesap dönemini izleyen en geç üç ay içinde belirlenerek
+ödenmesi şarttır.
+
+(4) İşveren, işçiye zorunlu ihtiyacının ortaya çıkması hâlinde ve hakkaniyet
+gereği ödeyebilecek durumda ise, hizmetiyle orantılı olarak avans vermekle
+yükümlüdür.
+====
+
+İşçi ücretleri bankaya yatırılır. Ayrıca işveren, işçinin rızası olmadan ondan
+olan alacak hakkını kendisinin ücret borcu ile takas edemez.
+
+[caption=""]
+.Ücretin korunması
+====
+*TBK 407*: (1) Çalıştırılan işçilerin ücret, prim, ikramiye ve bu nitelikteki
+her çeşit istihkaktan o ay içinde ödenenlerin özel olarak açılan banka hesabına
+yatırılmak suretiyle ödenmesi hususunda; tabi olduğu vergi mükellefiyeti türü,
+işletme büyüklüğü, çalıştırdığı işçi sayısı, işyerinin bulunduğu il ve benzeri
+unsurları dikkate alarak iş sahiplerini zorunlu tutmaya, banka hesabına
+yatırılacak ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakın, brüt
+ya da kanuni kesintiler düşüldükten sonra kalan net miktar üzerinden olup
+olmayacağını belirlemeye Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı
+ve Hazine Müsteşarlığından sorumlu Devlet Bakanlığı müştereken yetkilidir.
+Çalıştırdığı işçilerin ücret, prim, ikramiye ve bu nitelikteki her çeşit
+istihkakını özel olarak açılan banka hesapları vasıtasıyla ödeme zorunluluğuna
+tabî tutulan iş sahipleri, işçilerinin ücret, prim, ikramiye ve bu nitelikteki
+her çeşit istihkakını özel olarak açılan banka hesapları dışında ödeyemezler.
+Her ödeme döneminde, işçiye hesap pusulası verilir. İşçilerin ücret, prim,
+ikramiye ve bu nitelikteki her çeşit istihkaklarının özel olarak açılan banka
+hesabına yatırılmak suretiyle ödenmesine ilişkin diğer ûsul ve esaslar, anılan
+bakanlıklarca müştereken çıkarılacak yönetmelikle düzenlenir.
+
+(2) İşveren, işçiden olan alacağı ile ücret borcunu işçinin rızası olmadıkça
+takas edemez. Ancak, işçinin kasten sebebiyet verdiği yargı kararıyla sabit bir
+zarardan doğan alacaklar, ücretin haczedilebilir kısmı kadar takas edilebilir.
+
+(3) Ücretin işveren lehine kullanılacağına ilişkin anlaşmalar geçersizdir.
+====
+
+[caption=""]
+.İşverenin temerrüdü hâlinde
+====
+*TBK 408*: (1) İşveren, işgörme ediminin yerine getirilmesini kusuruyla
+engellerse veya edimi kabulde temerrüde düşerse, işçiye ücretini ödemekle
+yükümlü olup, işçiden bu edimini daha sonra yerine getirmesini isteyemez.
+Ancak, işçinin bu engelleme sebebiyle yapmaktan kurtulduğu giderler ile başka
+bir iş yaparak kazandığı veya kazanmaktan bilerek kaçındığı yararlar ücretinden
+indirilir.
+====
+
+[caption=""]
+.Ücret alacağının haczi, devri ve rehnedilmesi
+====
+*TBK 410*: (1) İşçilerin ücretinin dörtte birinden fazlası haczedilemez,
+başkasına devredilemez ve rehnedilemez.  Ancak, işçinin bakmakla yükümlü olduğu
+aile bireyleri için hâkim tarafından takdir edilecek miktar, bu orana dâhil
+değildir.  Nafaka alacaklılarının hakları saklıdır.
+
+(2) Gelecekteki ücret alacaklarının devredilmesi veya rehnedilmesi geçersizdir.
+====
+
+İşçiye ödenecek ücret zaman olarak da kararlaştırılabilir parça başına ücret
+(götürü ücret) olarak da kararlaştırılabilir. Parça başına ücret belirlenmişse,
+işveren işçiye yeterli iş vermek zorundadır.
+
+[caption=""]
+.İş verme
+====
+*TBK 411*: (1) İşçi, sözleşme gereğince yalnız bir işveren için sadece parça
+başına veya götürü iş yapmayı üstlenmişse işveren, ona yeterli iş vermekle
+yükümlüdür.
+
+(2) İşveren, kendi kusuru olmaksızın sözleşmede öngörülen parça başına veya
+götürü iş sağlayamayacak durumda bulunduğu veya işletme koşulları geçici olarak
+gerektirdiği takdirde işçiye, ücreti zaman esasına göre öder. Bu durumda,
+zamana göre ödenecek ücret, anlaşmada veya hizmet ya da toplu iş sözleşmesinde
+belirlenmemişse işveren, işçiye parça başına veya götürü olarak daha önce
+aldığı ortalama ücrete eşdeğer bir ücret ödemekle yükümlüdür.
+
+(3) Parça başına veya götürü ya da zamana göre iş sağlayamayan işveren, en
+azından işgörme edimini kabulde temerrüt hükümleri uyarınca zamana göre
+işgörmede ödeyeceği ücreti ödemekle yükümlüdür.
+====
+
+İş araç ve gereçlerinin sağlanması işveren tarafından yapılır. Sözleşmede
+işçiye ait aracın kullanılması kararlaştırılabilir. Bu durumda kullanılan
+araçta ortaya çıkabilecek olağan masraflar, iş sırasında olması şartıyla
+işveren tarafından karşılanır.
+
+[caption=""]
+.İş araç ve malzemeleri
+====
+*TBK 413*: (1) Aksine anlaşma veya yerel âdet yoksa, işveren işçiye bu iş için
+gerekli araçları ve malzemeyi sağlamakla yükümlüdür.
+
+(2) İşçi işverenle anlaşarak kendi araç veya malzemesini işin görülmesine
+özgülerse, aksi anlaşmada kararlaştırılmadıkça veya yerel âdet bulunmadıkça
+işveren, bunun için işçiye uygun bir karşılık ödemekle yükümlüdür.
+====
+
+İşveren, işçinin kişilik haklarının korunması için her türlü önlemi almakla
+yükümlüdür.
+
+====
+*TBK 417*: (1) İşveren, hizmet ilişkisinde işçinin kişiliğini korumak ve saygı
+göstermek ve işyerinde dürüstlük ilkelerine uygun bir düzeni sağlamakla,
+özellikle işçilerin psikolojik ve cinsel tacize uğramamaları ve bu tür
+tacizlere uğramış olanların daha fazla zarar görmemeleri için gerekli önlemleri
+almakla yükümlüdür.
+
+(2) İşveren, işyerinde iş sağlığı ve güvenliğinin sağlanması için gerekli her
+türlü önlemi almak, araç ve gereçleri noksansız bulundurmak; işçiler de iş
+sağlığı ve güvenliği konusunda alınan her türlü önleme uymakla yükümlüdür.
+
+(3) İşverenin yukarıdaki hükümler dâhil, kanuna ve sözleşmeye aykırı davranışı
+nedeniyle işçinin ölümü, vücut bütünlüğünün zedelenmesi veya kişilik haklarının
+ihlaline bağlı zararların tazmini, sözleşmeye aykırılıktan doğan sorumluluk
+hükümlerine tabidir.
+====
+
+[caption=""]
+.Ceza koşulu ve ibra
+====
+*TBK 420*: (1) Hizmet sözleşmelerine sadece işçi aleyhine konulan ceza koşulu
+geçersizdir.
+
+(2) İşçinin işverenden alacağına ilişkin ibra sözleşmesinin yazılı olması, ibra
+tarihi itibarıyla sözleşmenin sona ermesinden başlayarak en az bir aylık
+sürenin geçmiş bulunması, ibra konusu alacağın türünün ve miktarının açıkça
+belirtilmesi, ödemenin hak tutarına nazaran noksansız ve banka aracılığıyla
+yapılması şarttır. Bu unsurları taşımayan ibra sözleşmeleri veya ibraname kesin
+olarak hükümsüzdür.
+
+(3) Hakkın gerçek tutarda ödendiğini ihtiva etmeyen ibra sözleşmeleri veya ibra
+beyanını muhtevi diğer ödeme belgeleri, içerdikleri miktarla sınırlı olarak
+makbuz hükmündedir. Bu hâlde dahi, ödemelerin banka aracılığıyla yapılmış
+olması zorunludur.
+
+(4) İkinci ve üçüncü fıkra hükümleri, destekten yoksun kalanlar ile işçinin
+diğer yakınlarının isteyebilecekleri dâhil, hizmet sözleşmesinden doğan bütün
+tazminat alacaklarına da uygulanır.
+====
+
+[caption=""]
+.İşyerinin tamamının veya bir bölümünün devri
+====
+*TBK 428*: (1) İşyerinin tamamı veya bir bölümü hukuki bir işlemle başkasına
+devredildiğinde, devir tarihinde işyerinde veya bir bölümünde mevcut olan
+hizmet sözleşmeleri, bütün hak ve borçları ile birlikte devralana geçer.
+
+(2) İşçinin hizmet süresine bağlı hakları bakımından, onun devreden işveren
+yanında işe başladığı tarih esas alınır.
+
+(3) Yukarıdaki hükümlere göre devir hâlinde, devirden önce doğmuş olan ve devir
+tarihinde ödenmesi gereken borçlardan, devreden ve devralan işveren
+müteselsilen sorumludurlar. Ancak, devreden işverenin bu yükümlülüklerden doğan
+sorumluluğu, devir tarihinden itibaren iki yıl ile sınırlıdır.
+====
+
+[caption=""]
+.Sözleşmenin devri
+====
+*TBK 429*: (1) Hizmet sözleşmesi, ancak işçinin yazılı rızası alınmak
+suretiyle, sürekli olarak başka bir işverene devredilebilir.
+
+(2) Devir işlemiyle, devralan, bütün hak ve borçları ile birlikte, hizmet
+sözleşmesinin işveren tarafı olur. Bu durumda, işçinin, hizmet süresine bağlı
+hakları bakımından, devreden işveren yanında işe başladığı tarih esas alınır.
+====
+

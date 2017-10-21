@@ -1,0 +1,1649 @@
+= BORÇLARIN SONA ERMESİ VE ZAMANAŞIMI
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== 1- GENEL BAKIŞ
+
+Borcun sona ermesi, bir edimi yerine getirme yükümlülüğünün hukuken ortadan
+kalmasını ifade eder. Böylece borçlu borçtan kurtulur, alacaklının alacak hakkı
+kalmaz.
+
+Bu anlamda borcun sona ermesi, geniş anlamda borç ilişkisinin (sözleşme
+ilişkisinin) sona ermesinden farklı bir kavramdır. Bazen bir borç ilişkisinin
+sona ermesi, o borç ilişkisinden doğmuş bir borcun sona ermesine sebep olursa
+da (örneğin kira sözleşmesi ilişkisi sona erince, kiralayanın borcu da sona
+erer), bunun aksi de mümkündür. Gerçekten bir borç ilişkisi sona ermiş olmasına
+rağmen bu ilişkiden doğmuş bir borcun devam etmesi mümkündür (örneğin, kira
+sözleşmesi sona erse bile, işlemiş kira bedelini ödeme borcu devam eder).
+
+Diğer taraftan, bir borç ilişkisinden doğan bütün borçlar sona erip, yeni borç
+doğmasının söz konusu bulunmaması, borç ilişkisini sona erdirirse de, borç
+ilişkisini etkilemeden bir borcun sona ermesi de mümkündür (örneğin, işlemiş
+kira bedeli ödenince, buna ait borç sona erer, fakat kira sözleşmesi ilişkisi
+devam eder).
+
+Geniş anlamda borç ilişkilerinin sona ermesi çok zaman borç ilişkisinin tipine
+göre özellikler taşır. Geniş anlamda borç ilişkisini sona erdiren sebepler şu
+tarzda özetlenebilir:
+
+. Borç ilişkisinden doğan bütün borçların sona ermiş bulunması
+. Henüz bütün borçlar sona ermemişken, tarafların borç ilişkisini sona erdirmek
+için anlaşmaları: Bu anlaşmaya *ikale* denilir. İkaleye İsviçre'de ibradaki
+esas kıyasen uygulanarak bu anlaşmanın şekle tabi olmadığı kabul edilmektedir.
+. Bazı borç ilişkilerinde taraflardan birinin ölümü:
++
+
+* kullanım ödüncü sözleşmesinde (TBK m.385) 
+* hizmet sözleşmesinde (TBK m.440)
+* eser sözleşmesinde (TBK m.486)
+* yayım sözleşmesinde (TBK m.500)
+* vekalet sözleşmesinde (TBK m.513)
+
++
+Çok zaman, taraflardan birinin fiil ehliyetini kaybetmesi ölüme benzer bir etki
+yapar.
+. Bazı borç ilişkilerinde, taraflardan birinin iflası
+. Süreli borç ilişkilerinde sürenin sona ermesi; bozucu koşula bağlı borç
+ilişkilerinde koşulun gerçekleşmesi
+. Taraflardan birinin, borç ilişkisini sona erdirebilmek hususunda kendisine
+kanun veya anlaşma ile tanınmış hakkı kullanması
++
+Kanun böyle bir hakkı, devamlı borç ilişkileri için, haklı bir sebebin varlığı
+halinde, borç ilişkisi ister süreli, ister süresiz olsun tanımıştır. Buna
+*haklı sebeple fesih* denebilir. Bu fesihle borç ilişkisi ileriye etkili olarak
+sona erer.
++
+Sürekli borç ilişkilerinden belirli bir süre bulunmayanlar için kanun, herhangi
+bir sebep aramaksızın, fesih hakkı tanımaktadır. Bu fesih esas itibariyle
+derhal değil, feshi ihbar mühleti adı verilen bir süre geçtikten sonra borç
+ilişkisini ileriye etkili olarak sona erdirir. Buna da *feshi ihbarla fesih*
+denilmektedir.
++
+Bazen de istisnai bir durum olarak, yasa koyucu sözleşmenin bir tarafına keyfi
+şekilde sözleşmeden dönme hakkı tanımıştır. Bazı tüketici sözleşmelerinde
+tüketici tarafa sözleşmenin kurulmasından itibaren belli süreler içinde
+gerekçesiz olarak sözleşmeyi sona erdirme hakkı veren hükümler böyledir.
++
+Bazı sözleşmelerde taraflardan birine, *geri alma hakkı* veya *cayma hakkı*
+olarak adlandırılan, sözleşmeden dönmeye veya feshe benzer haklar tanınmıştır.
++
+
+* bağışlama taahhüdünde TBK m.296
+* elden bağışlamada TBK m.295
+* vekalet sözleşmesinde TBK m.512
+. TBK m.138 hükmüyle getirilen ve bu düzenlemeden önce öğreti ve mahkeme
+içtihatları tarafından kabul edilen bir sona erme hali de, iki tarafa borç
+yükleyen sözleşmelerde, koşulların önceden tahmin edilemeyen sebeplerle,
+özellikle para değerinin büyük ölçüde değişmesi yüzünden, esaslı surette
+değişmesi halinde sözleşmenin sona erdirilebilmesidir. Fakat bundan önce hakime
+başvurularak sözleşmeyi yeni şartlara uygun hale getirme talep edilmesi şartı
+vardır.
+
+=== 1- Borcu sona erdiren sebepler
+
+TBK, borcu sona erdiren sebepler olarak 
+
+* _ibra_, 
+* _yenileme_, 
+* _birleşme_, 
+* _ifa imkansızlığı_, 
+* _aşırı ifa güçlüğü_,
+* ve _takası_ düzenlemiştir.
+
+=== 2- Borcun sona ermesinin etkisi
+
+Borcun sona ermesi, alacağa bağlı (fer'i) hakların da sona ermesine yol açar.
+
+.TBK m.131/1
+....
+Asıl borç ifa ya da diğer bir sebeple sona erdiği takdirde, rehin, kefalet,
+faiz ve ceza koşulu gibi buna bağlı hak ve borçlar da sona ermiş olur.
+....
+
+Güvence altına aldıkları alacak sona erince kefalet ve rehnin de sona ermesi,
+bunların kurulmalarındaki amacın gereğidir. Bununla birlikte taşınmaz rehni
+bakımından özellik vardır ve TBK m.131/3'de açıklandığı üzere bu özellik
+saklıdır.
+
+.TBK m.131/3
+....
+Taşınmaz rehnine, kıymetli evraka ve konkordatoya ilişkin özel hükümler
+saklıdır.
+....
+
+Şöyle ki, MK m.858'de belirtildiği üzere taşınmaz rehni ancak kaydın terkini
+veya taşınmazın tamamen telef ve ziyanı ile sona erer. Gerçi alacağın sona
+ermesinden sonra taşınmaz rehni ancak kavramsal olarak devam eder. Mevcut
+olmayan alacak için taşınmaz hiçbir zaman paraya çevrilemez.
+
+Borç sona erince düşen bağlı (fer'i) haklar kefalet ve rehinden ibaret
+değildir.
+
+Asıl borç sona erdikten sonra artık yeni faiz işlenemeyeceği gibi, prensip
+itibariyle işlemiş faizleri talep hakkı da sona erer. Fakat, alacaklı faiz
+alacağını saklı tuttuğunu beyan etmiş ise veya durum ve koşullardan faiz
+alacağının sona ermeyeceği anlaşılıyorsa yahut sözleşmede asıl borç sona erse
+de faiz alacağının etkilenmeyeceği kararlaştırılmışsa, asıl borcun sona ermesi
+işlemiş faiz alacağının da sona ermesini gerektirmez (TBK m.131/2).
+
+.TBK m.131/2
+....
+İşlemiş faizin ve ceza koşulunun ifasını isteme hakkı sözleşmeyle veya ifa
+anına kadar yapılacak bir bildirimle saklı tutulmuş ise ya da durum ve
+koşullardan saklı tutulduğu anlaşılmaktaysa, bu faizler ve ceza koşulu
+istenebilir.
+....
+
+Asıl alacağın sona ermesinin etkileyeceği bir başka bağlı alacak da cezai şart
+(ceza koşulu) alacağıdır. Alacaklı çekince (ihtirazi kayıt) ileri sürmeden,
+yani ceza koşulundan doğan alacağını saklı tutmadan ifayı kabul etmişse, ifa
+edilen asıl borçla birlikte ödenmesi gereken ceza da sona erer.
+
+.TBK m.179/2
+....
+Ceza, borcun belirlenen zaman veya yerde ifa edilmemesi durumu için
+kararlaştırılmışsa alacaklı, hakkından açıkça feragat etmiş veya ifayı
+çekincesiz olarak kabul etmiş olmadıkça, asıl borçla birlikte cezanın ifasını
+da isteyebilir.
+....
+
+== 2- İBRA
+
+=== 1- Kavram
+
+İbra, borçluyu borcu ifa etmeden borçtan kurtarmak hususunda alacaklı ile
+borçunun anlaşmasıdır. Diğer bir ifade ile ibra, alacaklının borçlu ile yaptığı
+bir akitle alacağından vazgeçerek borçluyu borçtan kurtarmasıdır.
+
+.TBK m.132
+....
+Borcu doğuran işlem kanunen veya taraflarca belli bir şekle bağlı tutulmuş olsa
+bile borç, tarafların şekle bağlı olmaksızın yapacakları ibra sözleşmesiyle
+tamamen veya kısmen ortadan kaldırılabilir.
+....
+
+=== 2- İbra anlaşmasının şekli
+
+TBK m.132 hükümlerine göre, borç ilişkisinin kurulması kanun veya tarafların
+arzusu gereğince şekle bağlı olsa bile, alacağı ortadan kaldırmak veya azaltmak
+için yapılacak ibra anlaşması bir şekle tabi değildir.
+
+=== 3- İbraname - makbuz ilişkisi
+
+Bazen ibra, bunu gizlemek için alacağı tahsil etmeksizin makbuz verilmesi
+tarzında yapılır. Muvazaalı olması sebebiyle makbuz olarak hükümsüz olan
+vesika, ibra olarak geçerli olabilir.
+
+=== 4- İbra - alacak hakkını kullanmama taahhüdü farkı
+
+Şayet alacaklı ile borçlu borcun ortadan kaldırılması için değil de sadece
+alacaklının borçludan ifa istemeyeceği hususunda anlaşmışlarsa, ortada ibra
+değil *alacak hakkını kullanmama taahhüdü* vardır. Bir tasarruf işlemi olan
+ibra ile karıştırılmaması gereken ve sadece bir tarafa olumsuz bir edim
+yükleyen bu durumda, ibradan farklı olarak söz konusu anlaşmayı hakim
+kendiliğinden gözönüne almaz. Tarafların ibra yerine böyle bir ifa talep etmeme
+anlaşması yapmayı tercih etmelerine, alacaklının ifa talebinden vazgeçmekle
+birlikte alacak hakkını muhafaza etmek istediği durumlarda karşılaşılır.
+
+=== 5- İbranın hukuki niteliği
+
+İbra bir anlaşma olması bakımından, ayni haklarda ve yenilik doğuran haklarda
+söz konusu olan tek taraflı feragatten farklıdır. Alacak hakkından alacaklı
+tek taraflı olarak feragat edemez. Borçlu ibrayı kabul etmedikçe borç devam
+eder. Fakat borçlunun alacaklıyı ifayı kabule zorlaması mümkün değildir. İfayı
+kabul etmeyen alacaklıya karşı borçlunun yapabileceği şey, alacaklı temerrüdü
+hükümlerine başvurmaktır. İbra, alacaklının alacak hakkına doğrudan doğruya
+etki ettiği, alacağı ortadan kaldırdığı veya azalttığı için bir tasarruf
+işlemidir. Bu sebeple, ibra için alacaklının fiil ehliyetine sahip olması
+yetmez, tasarruf yetkisi de aranır.
+
+İbra, alacaklının borçluya yaptığı bir kazandırmadır. Borçlunun pasifinin
+azalması tarzında malvarlığında çoğalma meydana gelmektedir. Bu kazandırmanın
+sebebi çoğu zaman bağışlama sebebidir. Bazen de ibra bir sulh anlaşması
+niteliği taşır.
+
+İbranın, buna yol açan hukuki sebepten soyut olduğu, yani sebepteki sakatlığın
+ibrayı sakatlamayacağı, ancak bir sebepsiz zenginleşmenin söz konusu olacağı
+görüşü hakimdir.
+
+İbra mevcut bir borcu tamamen veya kısmen sona erdirmesi itibariyle, bir
+kimsenin alacağı bulunmadığı kabullenmesinden (menfi borç ikrarı) veya bir
+kimsenin alacağını talep etmeme taahhüdünde bulunmasından ayrılır.
+
+Gerçekten bir kimsenin alacağı bulunmadığını bir sözleşmede kabullenmesi ancak
+varlığı kuşkulu veya çekişmeli bir alacak için anlaşmazlığı sona erdirmek üzere
+yapılır. Alacak gerçekte mevcut değilse, anlaşmanın ibra rolü oynaması
+düşünülemez. Ancak çekişmeli alacak mevcut idiyse, yapılan sözleşme alacağı
+sona erdirir.
+
+=== 6- İbranın sınırlandığı haller
+
+Bazı durumlarda özel kanun hükümleri ibra imkanını sınırlamıştır:
+
+* İntifa ile yükümlü alacağın ancak intifa hakkı sahibinin rızasıyla ibra
+edilebilmesi(MK m.820-821)
+* üzerinde rehin hakkı bulunan alacağın ancak rehin hakkı sahibinin rızasıyla
+* ibra edilebilmesi (MK m.961)
+
+=== 7- İbranın hükmü
+
+İbra borcu sona erdirir. Borcun ne miktarda ibra edildiği bir yorum
+meselesidir. Aksi anlaşılmadıkça ibra borcun tamamı için yapılmıştır.
+
+Borcun sona ermesinin etkisi konusunda TBK m.131 hükmü ibrada da geçerlidir.
+Özellikle, alacaklı işlemiş faizleri saklı tutmuş olmadıkça veya veya bu durum
+ve koşullardan anlaşılmadıkça, esas borç ibra ile sona erince, faiz borcu da
+sona erer.
+
+== 3- YENİLEME (TECDİD)
+
+=== 1- Kavram
+
+Yenileme yeni bir borç meydana getirerek önceki bir borcun sona erdirilmesidir.
+
+.TBK m.133
+....
+Yeni bir borçla mevcut bir borcun sona erdirilmesi, ancak tarafların bu yöndeki
+açık iradesi ile olur.
+....
+
+Fakat bir borç ilişkisinin tümünün, mesela iki tarafa borç yükleyen bir
+sözleşme ilişkisinin yenilenmesine bir engel yoktur. Geniş anlamda borç
+ilişkisinin yenilenmesi ikaleye benzer. Fakat ikale ile sadece borç ilişkisi
+anlaşma ile sona erdirilir. Halbuki geniş anlamda borç ilişkisinin
+yenilenmesinde sözleşme tamamen son bulurken taraflar arasında yeni bir
+sözleşme (geniş anlamda borç ilişkisi) kurulur. Dar anlamda borç ilişkisinin
+yenilenmesinde yenilenen borç dışında sözleşme ilişkisi aynen devam eder. 
+
+TIP: 50 bin lira karşılığı X marka araba satılması sözleşmesinde satıcının X
+marka araba teslim borcu yerine Y marka araba teslim borcu kararlaştırılmışsa,
+sadece bir borç yenilenmiştir ve sözleşmenin bedel dahil diğer hükümleri
+değişmeden kalır.
+
+Sözleşmenin niteliğini değiştiren borç yenilemeleri ise geniş anlamda borç
+ilişkisinin yenilenmesi şeklinde yorumlanmalıdır.
+
+TIP: Bir satım sözleşmesinde satıcının malı teslim etme borcu yerine alıcının
+arsasına inşaat yapma borcu kararlaştırılmışsa, bunun anlamı, satım
+sözleşmesinin kaldırılarak yerine bir eser (istisna) sözleşmesinin
+getirildiğidir.
+
+Borcu sona erdiren yenileme, ya borcun konusunun, ya tabi olduğu hükümlerin, ya
+borcun sebebinin veya taraflarının değiştirilmesi tarzında olabilir. Fakat bir
+borcu sona erdirip yeni bir borç meydana getirmek amacı güdülmeksizin bir
+borcun vadesinde değişiklik yapılması yenileme sayılmaz.
+
+Borcun konusunun değiştirilmesi, örneğin bir şey verme borcu yerine para verme
+borcunun kabulü, ifa yerini tutan edaya benzerse de ondan şu bakımdan
+farklıdır. İfa yerini tutan eda borcu sona erdirip borçluyu borçtan kurtardığı
+halda, borcun konusunu değiştirerek yapılan yenileme, borçluyu yeni bir borç
+altına sokar. Yeni alacak çok zaman soyut alacak tarzında kabul edilir.
+
+=== 2- Şartları
+
+Yenileme tarafların anlaşması ile olur. Bu anlaşma da, diğer sözleşmelerin tabi
+olduğu ehliyet ve sair şartlara tabidir. Alacaklı için ayrıca tasarruf yetkisi
+aranır. Bu anlaşma bakımından önem taşıyan bir unsur da yenileme niyetidir.
+
+Ancak bu niyetin varlığıdır ki, yapılmak istenen değişikliğin önceki borcu sona
+erdirip yeni borç doğurma tarzında olacağını gösterir. Aksi halde tarafların
+borcu sona erdirmeden değişiklik yapmak istedikleri kabul edilir. 
+
+TBK m.133/2, özellikle yenileme sayılmayacak bazı işlemleri belirtmekte, fakat
+aksinin kararlaştırılabileceğini kabul etmektedir.
+
+.TBK m.133/2
+....
+Özellikle mevcut borç için kambiyo taahhüdünde bulunulması veya yeni bir alacak
+senedi ya da yeni bir kefalet senedi düzenlenmesi, tarafların açık yenileme
+iradeleri olmadıkça yenileme sayılmaz.
+....
+
+Yenileme sonucu bir borcun sona erdirebilmesi, yeni borcun geçerli olarak
+doğumuna bağlıdır. Yeni borcun konusu imkansız olduğu veya kanuna, ahlaka
+aykırı bulunduğu için yeni borç geçerli değilse veya yeni borcun doğumu şekle
+bağlı olup şekle uyulmamışsa yenileme gerçekleşemeyeceği için eski borç sona
+ermez. Yenileme işlemi, yanılma, aldatma veya korkutma sebebiyle iptal
+edilirse, eski borç sona ermemiş ve yeni borç doğmamış olur.
+
+Esas itibariyle yeni borcun doğumu eski borcun sona ermesine bağlıdır. Şayet,
+esasen geçerli olmadığı veya başka sebeple sona erdiği için, artık sona
+erdirilecek bir borç mevcut değilse, yenileme yolu ile sona erdirilmesi söz
+konusu olmaz ve yeni borç da doğmaz. Şayet yeni borç, soyut bir borç ise, bu
+takdirde, yerini alacağı borcun bulunmaması, soyut borcun varlığını etkilemez,
+fakat alacaklının edindiği soyut alacak bir sebepsiz zenginleşme oluşturur.
+
+Yenilenecek borcu bir irade bozukluğu sebebiyle iptal edilebilir olması
+halinde, şayet borçlu bu durumu bilerek yenilemeye razı olmuşsa, davranışı,
+irade bozukluğunu onama ile düzelttiği anlamına gelir.
+
+Eğer bir taraf bilmeyerek (hala yanılma veya aldatmanın etkisi altında) ya da
+devam eden korkutmanın etkisiyle sakat borcu yenilemeye razı olmuşsa, sonradan
+yaptığı iptal beyanı üzerine hem ilk borç ilişkisi hem de yeni borç ilişkisi
+ortadan kalkmış sayılır. Fakat sadece yenileme işlemini iptal ettiğini
+belirtirse, yenilemeyle sona ermemiş sayılacak ilk borç ilişkisini ayrıca
+onamış da sayılır.
+
+=== 3- Hükmü
+
+Yenilemeyle, önceki borç ve bu borca bağlı fer'i haklar (cezai şart, kefalet
+rehin) sona erer. Eski alacağa ait faizler saklı tutulmamışsa faiz alacağı da
+sona erer. Yeni borç bağımsız bir varlık taşır. Önceki borca ait def'iler yeni
+borç için ileri sürülemez. Yenilemede kefalet ve rehin hakkının saklı
+tutulması anlaşması hüküm ifade etmez. Kefil ve rehin veren ile yenilenen
+alacağın sahibinin ayrıca anlaşması gereklidir. Şayet rehin verilen şey
+borçluya aitse, durum farklıdır. Bu durumda rehin anlaşmasının örtülü olarak
+yenilendiği söylenebilir.
+
+Bununla birlikte, önceki borcun doğmadığı veya yenilemeden önce esasen sona
+ermiş olduğu yolundaki itirazlar yeni alacağın doğamayacağını yahut yeni alacak
+soyut alacak ise sebepsiz zenginleşme oluşturduğunu göstermek üzere ileri
+sürülebilir. Buna karşılık yenilenen borcun zamanaşımına uğramış borç veya
+ahlaki ödev gibi bir eksik borç olmasu yenileme sonucu doğan yeni borcun tam
+borç olmasına engel olmaz. Fakat kumar ve bahisten doğan borçlar için durum
+farklıdır. Yenileme sonucu kumar borcunun yerine geçecek yeni borç soyut borç
+olsa dahi ifası dava edilemez (TBK m.605).
+
+Eski alacak başka bir zamanaşımına tabi olsa bile yeni alacak on yıllık
+zamanaşımına (TBK m.146) tabi olur. Yenilenen alacak faiz alacağı olsa bile
+yeni alacak bu nitelikte değildir.
+
+== 4- ALACAKLI VE BORÇLU SIFATLARININ BİRLEŞMESİ
+
+=== 1- Kavram
+
+Bir borcun alacaklı ve borçlusu sıfatlarının aynı kişide toplanması çeşitli
+sebeplerle gerçekleşebilir.
+
+TIP: (A)'ya borçlu olan (B) ölür ve (A), (B)'nin tek mirasçısı olursa, (A)
+borcun hem alacaklısı hem borçlusu durumuna gelmiş olur. Aynı durum (B)'nin
+(A)'ya mirasçı olmasında da görülür.
+
+Birleşme miras dışında da olabilir.
+
+[TIP]
+====
+* (A), (B)'den olan alacağını (B)'ye devrederse
+* alacaklı ve borçlu iki şirket birleşirse
+* bir kimse alacaklısı bulunduğu bir işletmeyi devralırsa
+alacaklı ve borçlu sıfatları birleşmiş olur.
+====
+
+Fakat alacak hakkı ve borç bir kişinin malvarlığında değil de ilgili bulunduğu
+ayrı malvarlıklarına yer alırsa birleşme söz konusu olmaz.
+
+TIP: Alacaklı (A) ölür ve borçlu (B) ile birlikte başka mirasçılar da
+bulunursa, alacak hakkı, elbirliği halinde bütün mirasçılara ait olan terekede
+yer alacağı ve (B)'nin malvarlığına alacak hakkı değil, tereke üzerindeki hak
+gireceği için birleşme söz konusu değildir.
+
+Buna karşılık, alacaklı ile borçlunun malvarlıkları elbirliği halinde bir
+malvarlığı oluşturmak üzere birleşirse alacaklılık ve borçluluk aynı
+malvarlığında birleşmiş olur.
+
+TIP: Alacaklı (A) ile borçlu (B) evlenirler ve mal ortaklığı rejimini kabul
+ederlerse, alacaklılık ve borçluluk sıfatı bu malvarlığına ortaklaşa malik olan
+(A) ve (B)'de birleşmiş olur.
+
+=== 2- Hükmü
+
+Kanunun kısaca *birleşme* olarak adlandırdığı alacaklı ve borçlu sıfatlarının
+birleşmesi borcu sona erdirir. Borç sona erdiği için bağlı haklar ve özellikle
+kefalet ve rehin hakları da sona erer (TBK m.131).
+
+.TBK m.135
+....
+f.1 - Alacaklı ve borçlu sıfatlarının aynı kişide birleşmesiyle borç sona erer.
+Ancak, üçüncü kişilerin alacak üzerinde önceden mevcut olan hakları birleşmeden
+etkilenmez.  
+f.2 - Birleşme geçmişe etkili olarak ortadan kalkarsa, borç varlığını sürdürür.  
+f.3 - Taşınmaz rehni ve kıymetli evraka ilişkin özel hükümler saklıdır.
+....
+
+TIP: (A), alacağı üzerinde (Ü) lehine bir intifa hakkı veya bir rehin hakkı
+kurduktan yahut (Ü) bu alacağı haczettirdikten sonra alacak hakkı borçlu (B)'ye
+geçerse veya (A) borçlu durumuna girerse, bu birleşme borcu/alacağı sona
+erdirmez, (Ü)'nün intifa veya rehin hakkı yahut koydurduğu haciz devam eder.
+
+Şayet alacaklı ve borçlu sıfatlarının birleşmesi ortadan kalkarsa, kanun borcun
+varlığını sürdüreceğini kabul ediyor (TBK m.135/2). Zira, borcun sona ermesinin
+geçmişe etkili olarak kalması, bu borcun hiç sona ermemiş hale gelmesi
+demektir. Bu sonuç ancak birleşmeye yol açan olgunun hükümsüzleşmesine
+bağlıdır.
+
+[TIP]
+====
+* Borçlu (B)'ye tek mirasçı olan alacaklı (A)'nın mirası red etmesi halinde
+* Alacaklı (A)'nın borçlu (B)'ye bozucu koşulla yaptığı alacak devrinin koşulun
+gerçekleşmesi üzerine hükümsüz hale gelmesinde, birleşme ortadan kalkar ve bu
+borçlar sona ermemiş hale gelir.
+====
+
+Buna karşılık birleşmeye yol açan olgu hükümsüzleşmeksizin bir kimsenin
+birleşen sıfatlarını ayırması mümkün değildir.
+
+Birleşmenin ortadan kalkması üzerine borç sona ermemiş sayılınca, bağlı
+hakların da birlikte doğacağı genellikle kabul edilmekte, fakat rehin oluşturan
+mal iade edilmişse, birleşme sona erince rehnin kendiliğinden yeniden
+doğamayacağına işaret edilmektedir.
+
+== 5- İFA İMKANSIZLIĞI
+
+=== 1- Kavram
+
+Borcu sona erdiren ifa imkansızlığı borcun doğumundan sonra ifanın elde
+edilemez hale gelmesidir. Bu bakımdan borcun doğumuna engel olan borcun
+konusundaki imkansızlıktan ayrılır. İmkansızlık, doğal bir olaydan veya bir
+kişinin fiilinden doğabilir. İmkansızlık maddi bir sebepten ileri gelebileceği
+gibi hukuki bir sebepten de doğabilir.
+
+Tür borçlarında *tür telef olmaz* kuralı vardır. Ancak sınırlı tür borcu söz
+konusu olup da stokun tamamı telef olmuşsa imkansızlık hükümleri uygulanır.
+Keza tür borcuna konu olan malın devrinin yasaklanması halinde de devir
+borcunun ifası imkansızlaşmış olur.
+
+İmkansızlık geçici ise, ifa tarihinin imkansızlığın ortadan kalkmasına kadar
+ertelenmesinin tarafların varsayımsal ortak arzularına uygun olup olmayacağına
+göre, imkansızlığın etkili olup olmayacağı (borcun sona erip ermeyeceği)
+saptanmalıdır.
+
+İmkansızlık belirdiği ana göre sürekli nitelik taşıdığı için borcun son bulduğu
+sonucuna varılmış, fakat bir zaman sonra beklenmedik bir şekilde imkansızlık
+ortadan kalkmışsa; bu varılan sonucu (borcun sona ermiş olmasını)
+değiştirmez. Şu kadar ki, imkansızlığın sonuçlarını ileri sürmek dürüstlük
+kuralına aykırı kaçıyorsa, bu istisnai durumda, borç imkansızlaşmamış gibi
+sonuca varılmalıdır.
+
+=== 2- İfa imkansızlığından borçlunun sorumlu olup olmamasının rolü
+
+==== _a) Borcun sona ermesi bakımından_
+
+Öğretide baskın olan kanıya göre borcun ifasının borçlunun kusuru bulunmaksızın
+imkansızlaşması durumunda borç sona erer; imkansızlık borçlunun kusurlu
+davranışından ileri gelmişse borç sona ermez sadece içeriği değişir ve edimin
+yerini, alacaklının zararını tazmin yükümlülüğü alır. 
+
+[, Oğuzman & Öz]
+""
+Bize göre ifa imkansızlığında borcun sona ermesi sadece kusursuz imkansızlığa
+özgü değildir. Kanımızca, borçlunun kusuru ister bulunsun ister bulunmasın her
+türlü imkansızlık borcu sona erdirir. Bu sonucun meydana gelmesi bakımından
+kusurlu ve kusursuz daha doğru bir ifadeyle borçlunun sorumlu olduğu ve sorumlu
+olmadığı imkansızlık arasında fark yoktur. Fark kusurlu imkansızlık yüzünden
+borcun sona ermesi halinde alacaklının uğradığı zararı borçlunun tazminle
+yükümlü olmasına (TBK m.112) karşılık, kusursuz imkansızlıkta kural olarak
+böyle bir tazmin yükümlülüğünün söz konusu olmamasında görülür.
+""
+
+==== _b) Sona ermenin sonuçları bakımından_
+
+.TBK m.136
+....
+f.1 - Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa,
+borç sona erer.
+f.2 - Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan
+kurtulan borçlu, karşı taraftan almış olduğu edimi sebepsiz zenginleşme
+hükümleri uyarınca geri vermekle yükümlü olup, henüz kendisine ifa edilmemiş
+olan edimi isteme hakkını kaybeder. Kanun veya sözleşmeyle borcun ifasından
+önce doğan hasarın alacaklıya yükletilmiş olduğu durumlar, bu hükmün
+dışındadır.
+f.3 - Borçlu ifanın imkânsızlaştığını alacaklıya gecikmeksizin bildirmez ve
+zararın artmaması için gerekli önlemleri almazsa, bundan doğan zararları
+gidermekle yükümlüdür.
+....
+
+İfa imkansızlığının sonuçlarının bu maddeye tabi olması için borçlunun
+imkansızlıktan sorumlu olmaması, kanunun ifadesiyle imkansızlığın *borçlunun
+sorumlu tutulamayacağı sebeplerle* meydana gelmiş olması gereklidir.
+
+=== 3- İmkansızlıktan borçlunun sorumlu olmaması halinde sona ermenin sonuçları
+
+==== _a) Sona ermenin ekonomik etkisi_
+
+Borcun ifasının imkansızlaşmasından borçlu sorumlu olmadığı takdirde, şayet
+sadece onun borç altında olduğu bir borç ilişkisi söz konusu ise bu borcun sona
+ermesi dışında bir sorunla karşılaşılmaz. İmkansızlığın ekonomik etkisi
+alacaklının üzerindedir.
+
+Buna karşılık, şayet karşılıklı edimler içeren bir sözleşmede, taraflardan
+birinin borcu ifası imkansızlaştığı için sona ererse, diğer tarafın karşı
+borcunun ne olacağı sorusu ortaya çıkar. TBK m.136, bu soruya 2. fıkrasında,
+bir tarafın borcu ifası imkansızlaştığı için sona erince, karşı tarafın da
+kendi borcundan kurtulacağı, diğer bir ifade ile, borcunun ifası
+imkansızlaştığı için borçtan kurtulan tarafın, karşı alacak hakkını da
+kaybedeceği cevabını vermektedir. Şayet borcunun ifası imkansızlaşan borçlu,
+alacağını evvelce tahsil etmiş ise, elde ettiği kazanmanın sebepsiz zenginleşme
+hükümlerine göre iade edileceği de aynı maddede düzenlenmiştir. Öğretide bunun
+*sona eren sebebe dayanan zenginleşmenin iadesi talebi* ile isteneceği
+belirtilmektedir.
+
+Diğer bir görüşe göre: Burada gerçek bir sebepsiz zenginleşme değil, kanundan
+doğan bir iade yükümlülüğü vardır. İmkansızlık üzerine borç ilişkisi baştan
+itibaren ortadan kalkmaz. Bu görüşe göre TBK m.136/2 hükmünün sebepsiz
+zenginleşme hükümlerine yaptığı yollamanın anlamı, kanundan doğan iade borcunun
+kapsamının belirlenmesinde sebepsiz zenginleşme kurallarının (TBK m.79-80)
+kıyasen uygulanmasını sağlamaktır. Buna karşılık, iade talebine uygulanacak
+zamanaşımı, 2 yıllık kısa sebepsiz zenginleşme zamanaşımı (TBK m.82) değil, TBK
+m.146 uyarınca 10 yıl olmalıdır.
+
+Karşılıklı edimler içeren sözleşmelerde imkansızlıktan sorumlu olmayan borçlu,
+bu yüzden bir tazminat ödemek yükümlülüğü altında değilse de, imkansızlığın
+ekonomik etkisi borçlunun üzerindedir.
+
+Fakat şayet imkansızlığın ekonomik etkisini alacaklıya yüklemek üzere kanun
+veya sözleşme farklı bir esas kabul etmişse, bu takdirde TBK m.136 değil, kanun
+veya sözleşmeyle kabul edilmiş olan esas uygulanır.
+
+TIP: Bir sözleşmede, bir tarafın borcunun ifası kusuru bulunmaksızın
+imkansızlaşsa bile diğer tarafın kendi borcunu ifa edeceği, önceden ifa etmişse
+geri alamayacağı kararlaştırılmış olabilir. Bu takdirde borcun ifasının
+imkansızlaşmasının ekonomik etkisi borçlunun değil, alacaklının üzerine
+gerçekleşir. Çünkü alacaklı değişime tabi edimlerden kendisine ait olanı ifa
+edecek fakat karşılığını elde edemeyecektir.
+
+==== _b) Borçlunun imkansızlığı alacaklıya bildirme yükümü_
+
+Borcun ifasının imkansızlaştığını borçlunun alacaklıya bildirmesi ve zararı
+azaltıcı tedbir varsa bunu alması gerektiği TBK m.136/3'de açıkça
+öngörülmüştür. Bu yükümlülüğe aykırı hareket üzerine alacaklının bu yüzden
+uğrayacağı zararı tazmin borcu doğacaktır. Tazmin edilecek zarar, imkansızlaşan
+edimin değerine ilişkin alacaklının çıkar kaybı değil, borçlu imkansızlığı ilk
+uygun zamanda bildirseydi ve/veya zararı azaltıcı tedbirleri alsaydı
+alacaklının uğramayacağı zarardır.
+
+==== _c) Edimin yerine geçen değerlerin durumu_
+
+İfası imkansızlaşan edimin yerine borçlunun malvarlığına başka değerler
+girmişse alıcının bu değerleri borçludan talep edip edemeyeceği üzerinde
+durulması gereken bir konudur. Özellikle borcun imkansızlaşmasının ekonomik
+etkisinin alacaklının üzerinde olduğu hallerde sorun büyük önem taşır. 
+
+[TIP]
+====
+* Satıcının, satılan bir mal 
+** yandığı zaman sigortadan alacağı sigorta bedeli
+** kamulaştırıldığı zaman alacağı kamulaştırma bedeli
+** üçüncü şahıs tarafından tahrip edildiği zaman alacağı tazminat
+* veya bunlar henüz tahsil edilmemişse satıcının
++
+
+** sigorta şirketine
+** kamulaştıran idareye
+** malı tahrip eden şahsa 
+
++
+karşı edindiği alacak, satılan malın yerine satıcının malvarlığına girmiş
+değerlerdir.
+====
+
+Fransız Medeni Kanunu ve Alman Medeni Kanunu alacaklının, edimin yerini alan
+değerlerin kendisine devrini borçludan talep edebileceğini kabul etmektedir.
+
+Buna karşılık İsviçre ve Türk Borçlar Kanununda bu husuta bir hüküm mevcut
+değildir. Fakat öğreti aynı esasın İsviçre ve Türk Hukuklarında da uygulanması
+gerektiğini savunuyor. Açık hüküm bulunmamasına karşılık kanunun ruhunun bunu
+haklı gösterdiği ileri sürülmüştür.
+
+Şayet alacaklı, imkansızlaşan edimin yerini alan değerleri talep ederse, kendi
+karşı edimini ifa etmekle yükümlü olacaktır. Zira bu şıkta, imkansızlık
+gerçekleşmemiş gibi, kaim değer ile karşı edim arasında değişim ilişkisine
+dönüşmüş olan borç ilişkisi devam edecektir.
+
+Burada fark teorisinin uygulanamayacağı çünkü burada tazminat değil, edim
+değişiminin söz konusu olduğu, ayrıca, eğer kaim değer karşı edimden daha
+değerli değilse alacaklının kaim değeri istemeyerek kendi edimini ifadan
+kurtulabileceği belirtilmektedir.
+
+=== 4- Kısmi imkansızlık
+
+.TBK m.137/1
+....
+Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle kısmen imkânsızlaşırsa
+borçlu, borcunun sadece imkânsızlaşan kısmından kurtulur.  Ancak, bu kısmi ifa
+imkânsızlığı önceden öngörülseydi taraflarca böyle bir sözleşmenin
+yapılmayacağı açıkça anlaşılırsa, borcun tamamı sona erer.
+....
+
+TBK m.137/1 ile kısmi hükümsüzlüğün etkisine ilişkin TBK m.27/2'deki prensibe
+paralel bir kural getirilmiş; kısmi imkansızlık sözleşme yapılırken taraflarca
+öngörülse ide en azından birinin bu sözleşmeyi yapmayacağı söylenebiliyorsa
+artık tüm borcun (imkansızlaşmayan kısım dahil) sona ereceği belirtilmiştir.
+Taraflardan birinin kısmi imkansızlığı öngörse idi sözleşmeyi hiç yapmak
+istemeyeceği değil de başka şartlarla (örneğin daha düşük bedelle) yapmak
+isteyeceği söylenebilen durumlarda da kural olarak tüm borç sona ermelidir. Şu
+kadar ki, bir tarafın imkansızlığı öngörse idi sözleşmeyi yapmak için arayacağı
+şartları diğer taraf derhal kabul ederse, TBK m.34/2 hükmüne kıyasen, sözleşme
+bu şartlarla kurulmuş gibi devam edebilir.
+
+.TBK m.34/2
+....
+Özellikle diğer tarafın, sözleşmenin yanılanın kasdettiği anlamda kurulmasına
+razı olduğunu bildirmesi durumunda, sözleşme bu anlamda kurulmuş sayılır.
+....
+
+.TBK m.137/2
+....
+Karşılıklı borç yükleyen sözleşmelerde, bir tarafın borcu kısmen imkânsızlaşır
+ve alacaklı kısmi ifaya razı olursa, karşı edim de o oranda ifa edilir.
+Alacaklının böyle bir ifaya razı olmaması veya karşı edimin bölünemeyen
+nitelikte olması durumunda, tam imkânsızlık hükümleri uygulanır.
+....
+
+TBK m.137/2'de imkansızlaşmayan edimin bölünemez nitelikte olması halinde
+*kısmi ifaya karşı kısmi ifa* gerçekleşemeyeceğinden, gene tam imkansızlık
+hükmünün uygulanacağı belirtilmiştir. Karşı edimin bölünebilir olduğu ve
+alacaklının (karşı edim borçlusunun) da kısmi ifaya razı olduğu durumlarda,
+borç ilişkisi sona ermeyip her iki edim de azalmış olarak devam edecek ve bu
+şekilde ifa edilecektir.
+
+Kanun veya sözleşme gereği imkansızlığın ekonomik etkisi alacaklı üzerinde ise,
+bu takdirde alacaklı kendi karşı edimini tamamen yerine getirmek ve alacağının
+imkansızlaşmayan kısmıyla yetinmek zorundadır.
+
+TBK m.137 hükümlerinin uygulanmasında çıkabilecek bir sorun da şudur: 
+1. fıkrada belirtildiği üzere kısmi imkansızlığı öngörse idi bu sözleşmeyi
+yapmayacak olan borçlu, şayet karşılıklı edimler içeren bir sözleşme söz konusu
+ise, 2. fıkrada düzenlendiği üzere alacaklısının kısmi ifaya razı olması
+halinde buna uymaya (karşılıklı kısmi ifayı kabule) mecbur olacak mıdır? 
+
+İkinci fıkrayı tamamen birinciden bağımsız sayarsak evet cevabı vermek gerekir.
+Fakat bu isabetsiz bir sonuç olur. Daha isabetli görünen yorum, şayet borçlu
+kısmi imkansızlığı öngörse idi kesinlikle bu sözleşmeyi yapmayacak idiyse,
+karşılıklı edimler içeren sözleşmede karşı taraf kısmi ifayı kabul ettiğini ve
+kendi edimini de aynı oranda ifa edeceğini bildirse bile, tam imkansızlık hükmü
+uygulanıp tüm borç ilişkisini sona ermiş saymaktır. Şayet borçlunun kısmi
+imkansızlığı öngörseydi sözleşmeyi yapmayacağı söylenemiyorsa, ancak bu
+takdirde, karşı edim borçlusu alacaklının kısmi ifaya razı olup olmamasına göre
+sözleşme kısmi edimlerle devam etmeli veya sona ermelidir.
+
+Bileşik (mürekkep) sözleşmelerde borçlardan birinin borçlunun kusuru olmadan
+imkansızlaşmasının sözleşmenin diğer kısımlarına etkisi TBK m.137 ile
+belirlenemez. Hakim, taraflar bu ihtimali öngörmüş olsalardı nasıl bir hükmü
+sözleşmeye koyacakları hususundaki farazi iradelerini belirleyerek sözleşmedeki
+boşluğu doldurmak suretiyle uyuşmazlığı çözmelidir.
+
+Sürekli edim içeren borç ilişkilerinde, sürekli edimin, ifasına başlandıktan
+sonra imkansızlaşması halinde ilişki sona erer fakat ifa edilmiş kısım (ve
+varsa buna isabet eden karşı edim kısmı) bu sona ermeden etkilenmez. Bunun TBK
+m.137 anlamında kısmi imkansızlıkla ilgisi yoktur.
+
+=== 5- İfa güçlüğü ve sonuçları
+
+TBK m.138 hükümleri, *aşırı ifa güçlüğü* kenar başlığı altında, sözleşmenin
+kurulmasından sonra ortaya çıkan bazı durumların sözleşmenin uyarlanması veya
+sona erdirilmesi sebebi oluşturacağını düzenlenmiştir.
+
+.TBK m.138
+....
+f.1 - Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de
+beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya
+çıkar ve sözleşmenin yapıldığı sırada mevcut olguları, kendisinden ifanın
+istenmesini dürüstlük kurallarına aykırı düşecek derecede borçlu aleyhine
+değiştirir ve borçlu da borcunu henüz ifa etmemiş veya ifanın aşırı ölçüde
+güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olursa borçlu, hâkimden
+sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün olmadığı takdirde
+sözleşmeden dönme hakkına sahiptir. Sürekli edimli sözleşmelerde borçlu, kural
+olarak dönme hakkının yerine fesih hakkını kullanır.
+f.2 - Bu madde hükmü yabancı para borçlarında da uygulanır. 
+....
+
+TBK m.138 hükümlerine göre, sözleşme taraflarından birinin hakime yapacağı
+başvuru üzerine talep doğrultusunda bir karar verilebilmesi için aşağıdaki
+şartlar bulunmaldır.
+
+. Sözleşme kurulduktan sonra, tarafların edimleri arasındaki denge, borçludan
+sonuçları yüklenmesi istenemeyecek kadar büyük ölçüde bozulmuş olmalıdır. Bu,
+_işlemin temelinin çökmesi_ olarak da ifade edilebilir. Şayet aşırı ifa güçlüğü
+sözleşme kurulduğu sırada da mevcut olup sadece taraflarca bilinmiyorsa, bu TBK
+m.138 hükümlerine değil, şartları varsa yanılma (TBK m.30 vd.) hükümlerine göre
+iptale konu olabilir. Sonradan ortaya çıkan aşırı ifa güçlüğünün, mutlaka
+borçlunun ekonomik olarak mahvına veya ağır zararına yol açacak olması
+gerekmez. Maddede "kendisinden ifanın istenmesini dürüstlük kurallarına aykırı
+düşecek derecede borçlu aleyhine değiştirir..." olması yeterli görülmüştür.
+. Edimlerin dengesindeki değişiklik sözleşme yapılırken öngörülemeyen ve
+öngörülmesi de beklenmeyen (savaş, ekonomik kriz, devalüasyon, tabii afetler,
+ithal ve ihraç konusunda getirilen yasaklar gibi) olağanüstü bir durumdan ileri
+gelmelidir. Bu husus da _emprevizyon_ olarak ifade edilebilir. Maddede her ne
+kadar "taraflarca öngörülmeyen..." denmişse de, olağanüstü olgunun sözleşme
+kurulurken sadece aşırı ifa güçlüğüne düşen tarafından öngörülemez olması
+yeterli sayılmalıdır. Aşırı ifa güçlüğüne düşenin bu durumu sözleşme yapılırken
+öngörmediğini ispat etmesi yetmez. Bu durum onun için *öngörülmesi beklenemez*
+olmalıdır. Kendi özensizliği veya dikkatsizliği sebebiyle bu olguyu
+öngörememişse, 138. maddeden yararlanamayacaktır.
+. Aşırı ifa güçlüğü yaratan olgu borçludan kaynaklanmamalıdır. Olgunun
+kendisinin borçludan kaynaklanmaması yanında, bunun aşırı ifa güçlüğü yaratması
+da borçludan kaynaklanmamalıdır.
++
+TIP: Borcunu zamanında ifa etse olağanüstü enflasyona yakalanmayacak olan
+borçlu temerrüde düştüğü için bu öngörülemez olguya yakalanmışsa, kural olarak
+hakime uyarlama için başvuramamalı ve sözleşmeden dönememelidir.
+. Edimler henüz ifa edilmemiş olmalıdır. Kural olarak ifada bulunduktan sonra
+aşırı ifa güçlüğünden sözederek uyarlama veya sözleşmeden dönme yollarına
+başvurulamaz. Ancak, borçlu doğan haklarını saklı tutarak ifada bulunmuşsa,
+ifadan sonra da bu haklarını kullanabilecektir. Bu takdirde, uyarlamanın
+sonucuna göre veya sözleşmeden dönme halinde, ifa etmiş bulunduğu edimi
+sebepsiz zenginleşme hükümlerine göre kısmen veya tamamen geri
+isteyebilecektir.
+
+TBK m.138 uyarınca bu şartlar gerçekleştiğinde, önce hakimden uyarlama talep
+edilmesi gerekecektir. Uyarlama edim yükümünün azaltılması veya karşı edimin
+arttırılması şeklinde yapılabileceği gibi, vadelerin veya ifa tarzının
+değiştirilmesi gibi hakimin uygun bulacağı her şekilde yapılabilir. Hakim,
+davacının talebinde öngörmediği bir tarzda uyarlama da yapabilir. Ancak borç
+uyarlamaya uygun değilse veya ifa güçlüğünü katlanır kılacak herhangi bir
+uyarlama bu kez karşı taraf açısından katlanması beklenilmez bir durum
+yaratıyorsa, borçlu ancak bu şartla sözleşmeden dönme hakkını
+kullanabilecektir. Uyarlamadan farklı olarak, sözleşmeden dönmenin hakim
+tarafından gerçekleştirileceği belirtilmemiştir. Bu bakımdan, uyarlamanın
+mümkün olmadığına inanan borçlu sözleşmeden dönme hakkını mahkemede veya
+mahkeme dışı kullanabilir. Ne var ki bu teşhisi yanlışsa sözleşme devam ediyor
+olacağından, alacaklısına karşı ifa yükümü devam ettiği gibi borca aykırılık
+hükümlerine göre sorumlu da tutulabilecektir.
+
+Şayet sürekli bir sözleşme ilişkisi söz konusu ise ve ifasına başlanmışsa;
+aşırı ifa güçlüğü sonucu uyarlama da mümkün görülmüyorsa, sözleşmenin feshi söz
+konusu olacaktır. 
+
+== 6- TAKAS
+
+=== 1- Kavram
+
+Takas, birbirine karşı aynı cins alacağa sahip kişilerden birinin tek taraflı
+beyanı ile bu alacakları az olanı tutarında sona erdirmesidir. Böylece takas
+ifa masraf ve külfetine katlanmadan, her iki tarafı da borcunu ifa etmiş ve
+alacağını tahsil etmiş duruma getirir.
+
+TIP: (A), (B)'ye 1.000 lira borçlu ve (B)'den 1.200 lira alacaklı ise, (A) veya
+(B) takası yapınca, (A), (B)'ye 1.000 lira ödeyip 1.200 lira tahsil etmeksizin
+sadece 200 lira alacaklı olacak ve bu miktar ifa edilecektir. (A) 1.000 lirayı
+ödeyip 1.2000 lirayı tahsil etseydi (A)'nın ve (B)'nin malvarlıklarının durumu
+takas yapıldığı zamanki gibi olacaktı. Böylece takas lüzumsuz ifa işlemlerini
+bertaraf eden, tarafların borcu açısından bir sona erme sebebi, alacağı
+bakımından bir elde etme tarzıdır.
+
+Takas, sadece gereksiz ifa işlemlerini bertaraf etmekle kalmaz, tarafları,
+kendi borcunu ifa etmesine karşılık alacağını tahsil edememe tehlikesinden
+kurtarır.
+
+=== 2- Takasın hukuki niteliği
+
+Bir tarafın beyanı ile, tarafların birbirine olan aynı cins borçlarını azı
+tutarında sona erdirebilme yetkisi bir yenilik doğuran hak karakteri taşır. Bu
+hakkın kullanılmasını ifade eden takas bir yenilik doğuran işlemdir.
+
+Alman Medeni Kanununda olduğu gibi İsviçre ve Türk Borçlar Kanunlarında takasın
+bir tarafın beyanı ile yapılması esası kabul edilmiştir (TBK m.143/1). Bununla
+beraber, bazı borçları takas etmek alacaklının onayına bağlı tutulmuştur (TBK
+m.144). Diğer taraftan takas için bir tarafın beyanı gerekli ise de, bu beyan
+yapılınca takasın, beyandan itibaren değil, karşılıklı borçların takas
+edilebilmesi şartlarının gerçekleştiği andan itibaren hüküm ifade etmesi kabul
+edilmiştir.
+
+.TBK m.143/1
+....
+Takas, ancak borçlunun takas iradesini alacaklıya bildirmesiyle gerçekleşir. Bu
+durumda her iki borç, takas edilebilecekleri anda daha az olan borç tutarınca
+sona erer.
+....
+
+.TBK m.144
+....
+Aşağıdaki alacaklar takas haklarının doğumundan sonra, ancak alacaklıların
+rızasıyla takas edilebilir: 
+1. Tevdi edilmiş eşyanın geri verilmesine veya bedeline ilişkin alacaklar. 
+2. Haksız olarak alınmış veya aldatma sonucunda alıkonulmuş eşyanın geri
+verilmesine veya bedeline ilişkin alacaklar. 
+3. Nafaka ve işçi ücreti gibi, borçlunun ve ailesinin bakımı için zorunlu
+olup, özel niteliği gereği, doğrudan alacaklıya verilmesi gereken alacaklar.
+....
+
+=== 3- Takasın şartları
+
+Takas, takas hakkının kullanılması suretiyle bir kimsenin alacağı ile borcunu
+sona erdirmesi olduğuna göre bu sonuca varılabilmesi için hakkın mevcut olması
+ve mevcut hakkın kullanılması gerekir.
+
+==== _a) Takas hakkının varlığı için gerekli şartlar_
+
+Bir kimsenin takas yapabilmesi, diğer bir ifade ile, takas beyanında
+bulunabilmesi için üçü olumlu biri olumsuz dört şart aranır.
+
+. Karşılıklılık: _Taraflar birbirinden alacaklı olmalıdır_
++
+Bir kimsenin takas hakkına sahip olabilmesi için bu kimsenin karşı tarafa hem
+borçlu hem de ondan alacaklı olması gerekir.
++
+Şayet alacaklardan biri henüz doğmamış ise veya takastan önce başka bir sebeple
+sona ermişse, takas imkanı yoktur. Buna rağmen yapılacak takas beyanı hüküm
+ifade etmez. Zira birbirini sona erdirecek iki alacak yoktur.
++
+Takas edilecek alacakların aynı borç ilişkisinden doğmuş olması aranmaz. Fakat
+söz konusu durum gerçekleşmedikçe yani karşılıklı alacaklılık ve borçluluk
+bulunmadıkça takas mümkün değildir.
++
+Bu sebeple kefil, asıl borçlunun alacaklıya karşı mevcut bir alacağını
+kendisinin kefaletten doğan borcu ile takas edemez. Fakat TBK m.140 kefile şu
+imkanı tanımaktadır:
++
+.TBK m.140
+....
+Asıl borçlunun takası ileri sürme hakkı bulundukça, kefili de alacaklıya ifada
+bulunmaktan kaçınabilir.
+....
++
+Bir üçüncü kişi yararına taahhütte bulunan kimse de, borcunu, diğer tarafın
+kendisine borçlu olduğu şeyle takas edemez (TBK m.141).
++
+.TBK m.141
+....
+Üçüncü kişi yararına borçlanan kişi, bu borcu ile sözleşmenin diğer tarafından
+olan alacağını takas edemez.
+....
++
+Keza, bir müteselsil borçlu, diğer bir müteselsil borçlunun alacaklıdan olan
+alacağını takas edemez.
++
+Bir kimsenin takas hakkına sahip olabilmesi için aynı kişiye karşı alacaklı ve
+borçlu olması esasına alacağın devri bakımından TBK m.188 istisna koymaktadır.
++
+.TBK m.188/2
+....
+Borçlu, devri öğrendiği anda muaccel olmayan alacağını, devredilen alacaktan
+önce veya onunla aynı anda muaccel olması koşuluyla borcu ile takas edebilir.
+....
++
+TIP: (A), (B)'de olan ve 15.4.2012'de muaccel olacak alacağını 10.2.2012'de
+(Ü)'ye temlik etmişse ve (B)'nin (A)'dan 18.3.2012'de muaccel olacak bir
+alacağı varsa (B), (A)'ya karşı olan alacağını (Ü)'ye olan borcu ile takas
+edebilecektir. Böylece kanun, borçlunun, onayına bağlı olmayan alacak devrinden
+zarar görmesine engel olmak istemiştir.
++
+Şayet borçlu devri öğrendiği zaman devri yapana takas ileri sürebilecek durumda
+idiyse, bu takasın yeni alacaklıya ileri sürülebilmesi imkanı TBK m.188/1'in
+daha günün hükmü icabıdır. Hatta bu halde borçlu, devredene karşı olan alacağı,
+devirden sonra edinmiş de olabilir.
++
+.TBK m.188/1
+....
+Borçlu, devri öğrendiği sırada devredene karşı sahip olduğu savunmaları,
+devralana karşı da ileri sürebilir.
+....
++
+TBK m.188'den öngörülen her iki durumda da borçlu bir şahıstan olan alacağı ile
+başkasına olan borcunu takas edebilmekte ve böylece durum Karşılıklılık esasına
+istisna oluşturmaktadır.
+. Türdeşlik: _Tarafların birbirlerinden olan alacaklarının konusu aynı türden (cinsten)
+olmalıdır_
++
+Bu şarta en uygun olan alacaklar para alacaklarıdır ve takas en çok bu
+alacaklar için cereyan eder. Fakat paradan başka misli şeyler için de bu şart
+gerçekleşebilir.
++
+Aynen ödeme kaydı içeren (efektif) yabancı para borcu Türk parası ödeme borcu
+ile tek taraflı beyanla takas edilememelidir. Aynen ödeme kaydı içermeyen
+yabancı para borcu ile Türk parası ödeme borcunun takası mümkün sayılıyorsa da,
+bu imkan sadece yabancı para borçlusuna tanınamalıdır. Zira kanun dilerse
+ödemeyi Türk parasıyla yapma yetkisini ona tanımıştır.
+. _Takası yapmak isteyenin alacağı ifası istenebilir, borcu da ifa edilebilir
+olmalıdır_
+
+.. _Kural_
++
+TBK m.139 bu şartı her iki borcun muaccel olması şeklinde ifade etmişse de, bu
+ifade bir bakımdan geniş, diğer bir bakımdan da dardır.
++
+.TBK m.139
+....
+f.1 - İki kişi, karşılıklı olarak bir miktar para veya özdeş diğer edimleri
+birbirine borçlu oldukları takdirde, her iki borç muaccel ise her biri
+alacağını borcuyla takas edebilir.
+f.2 - Alacaklardan biri çekişmeli olsa bile takas ileri sürülebilir.
+f.3 - Zamanaşımına uğramış bir alacağın takası, ancak takas edilebileceği anda
+henüz zamanaşımına uğramamış olması koşuluyla ileri sürülebilir.
+....
++
+Bu ifade geniştir, zira, bir tarafın takas yapabilmesi için sadece kendi
+alacağının (yani karşı tarafın borcunun) muaccel olması yeter. Kendi borcunun
+muaccel olması ancak vade karşı tarafın (alacaklının) lehine is burada bir önem
+taşır. Şayet normal şekliyle vade borçlu lehine ise, bu borcu vadeden önce ifa
+edebilecek olan borçlunun, böyle bir borcu muaccel alacağı ile takas edememesi
+için mantıki bir sebep yoktur. Kanunun ruhu gözönünde tutularak sadece takas
+olanın alacağının muaccel olmasını aramak, borcunun ise ifa edilebilir olması
+ile yetinmek doğru olur.
++
+Kanunun ifadesi, şu bakımdan da dardır. Bir kimsenin takas yapabilmesi için
+alacağının sadece muaccel olması yetmez, alacağın ifası talep edilebilir bir
+alacak olması gerekir. Gerçekten bir kimsenin alacağı eksik borca ilişkinse,
+alacaklı bu alacağını dava edemeyeceğine göre takas da edemez. Zamanaşımına
+uğramış bir alacak da böyledir. Fakat TBK m.139/3 bu esası yumuşatmaktadır.
++
+Buna karşılık bir kimse eksik borcunu normal alacağı ile takas edebilir. Zira o
+kimse eksik borcunu ifa etmek imkanına sahip olduğuna göre, takas edememesi
+için bir sebep yoktur.
+.. _Def'i ileri sürülebilecek alacaklar_
++
+Haklarında bbir defi ileri sürülebilecek alacaklar da takas edilebilir; fakat
+karşı taraf def'i ileri sürerse takas hükümsüzleşir.
+.. _Çekişmeli (İhtilaflı) alacaklar_
++
+Takas hakkının doğması için alacağın ifasının istenebilir, borcun da ifa
+edilebilir olması yeterlidir. Takas edilecek alacağın veya borcun faize tabi
+olması, teminata sahip bulunması, ifa yerinin ayrı olması takasa engel
+değildir. Nihayet bir alacağın çekişmeli olması da takasa engel değildir (TBK
+m.139/2). Aksi kabul edilmiş olsa idi, takastan kurtulmak isteyen borçlu hemen
+bir uyuşmazlık çıkarıp amacına ulaşabilirdi.
++
+WARNING: Çekişmeli alacak takas edilebilir demek, takas bildirimi ile
+uyuşmazlık alacaklı lehine halledilmiş olur anlamını taşımaz. Uyuşmazlık gene
+de normal şekilde çözülecektir. Fakat bu uyuşmazlık çözülünceye kadar takası
+ileri süren kendi borcunu ifa etmekten kaçınabilecektir. 
++
+Sonuçta, çekişmeli alacağın varlığı kabul edilirse takas normal hükmünü
+doğuracak, mevcut olmadığı kabul edilirse takas hükümsüz kalacak ve takası
+ileri süren, borcunu ifada gecikmenin sonuçlarına katlanacaktır.
+.. _İflasın etkisi_
++
+Borçlunun iflas etmiş olması da kural olarak alacaklının takas yapmasına engel
+değildir. Hatta iflas alacaklının takas yapmasını kolaylaştırıcı bazı etkiler
+meydana getirebilir. Şöyle ki, iflas eden kimsenin vadesi gelmemiş borçları
+iflasın açılması ile muaccel olur (İc. İf. K. m. 195). Gerçi taşınmaz rehni ile
+teminat altına alınmış borçlar muaccel olmazsa da, TBK m.142 iflas halinde
+muaccel olmayan borçların dahi takas edilebilmesini kabul etmektedir.
++
+.TBK m.142
+....
+Borçlunun iflası hâlinde alacaklılar, muaccel olmasalar bile, alacaklarını,
+müflise olan borçları ile takas edebilirler.
+....
++
+Diğer taraftan iflas halinde, iflas edenin konusu para olmayan borçları
+değerlerine eşit para borcuna çevrileceği için (İc. İf. K. m. 198), alacaklı,
+iflas edene karşı olan para borcu ile iflas edenin paraya çevrilen borcunu
+takas edebilecektir. Oysa ki iflastan önce bu takası yapamazdı. Çünkü iflastan
+önce iki alacağın konusu aynı türden değildi.
+.. _Takastan feragat etmiş olmamalıdır_
++
+TBK m.145'te ifade edildiği üzere, bir kimse takas hakkından feragat edebilir.
++
+.TBK m.145
+....
+Borçlu, takas hakkından önceden de feragat edebilir.
+....
++
+Her şeyden önce, bir kişi daha takas hakkı doğmadan önce müstakbel takas
+hakkından feragat edebilir. Böyle bir feragatta bulunan kimse bakımından, takas
+hakkının doğumu için aranan diğer şartlar gerçekleşse bile takas hakkı doğmaz.
++
+Takastan bu suretle önceden feragat edilebileceği gibi, şartlar gerçekleşip
+takas hakkı doğduktan sonra da, takas yapmaktan yani takas hakkını kullanmaktan
+feragat olunabilir. Bu takdirde takas hakkı sona erer.
++
+Bir yenilik doğuran hak olan takas hakkından feragatin bir anlaşmayı
+gerektirdiği baskın görüştür. Beyan açık olabileceği gibi örtülü de olabilir.
+Bir borcu nakden ödeme taahhüdü, takas ihtimali düşünülerek yapılmışsa takastan
+feragat anlamına gelebilir.
+
+==== _b) Takas hakkının kullanılması: Takas beyanı_
+
+===== aa- _Kural_
+
+Takas beyanı, ancak takas hakkı doğduktan sonra ve sona ermeden önce yapılmak
+gerekir. Zira hak mevcutsa kullanılabilir. Bu sebeple bir kimse borcunu
+ödedikten sonra takas beyanında bulunamaz.
+
+Bir yenilik doğuran işlem olan takas beyanı karşı tarafa yöneltilmek gerekir ve
+beyan varma ile hüküm ifade eder. Takas, karşı tarafın kendi alacağı için
+açtığı davayı reddettirmek üzere mahkemede de ileri sürülebilir. Bu hususta,
+daha önce mahkeme dışında yapılmış takasın sonradan açılan davada ileri
+sürülmesi ile, daha önce takas yapılmış olmayıp da bir kimsenin aleyhine açılan
+davaya karşı takas bildiriminde bulunulması birbirinden farklıdır.
+
+Birinci halde, *Borçlar Kanunu esaslarına göre yapılmış takasla borcun sona
+ermiş olduğu* yolunda bir itiraz söz konusudur. Bu husus dosyada mevcut
+bilgiden anlaşılıyorsa hakim bunu re'sen gözönüne almak zorundadır. Halbuki
+dava sırasında takas bildirimi Usul Hukuku kurallarına tabi ve niteliği
+tartışmalı bir işlemdir.
+
+Takası yapan kimse, takas beyanı ile borcuna karşılık alacağını sona erdirdiği
+ve böylece alacağında tasarruf ettiği için bu kimsenin tasarruf yetkisine sahip
+olması gerekir.
+
+Takas beyanının geçerliliği bir şekle tabi değildir.
+
+Şayet taraflar karşılıklı olarak takası mümkün birden çok alacağa sahip iseler,
+takas beyanında bulunanın, hangi alacağı ile hangi borcunu takas ettiğini
+bildirmesi gerekir. Aksi halde takas beyanı hüküm ifade etmez. 
+
+Bununla birlikte, şayet takas beyanında bulunanın bir alacağı fakat birden çok
+borcu varsa ve alacağı ile hangi borcunu takas ettiğini beyanında
+belirtmemişse, TBK m.102'nin kıyasen uygulanması doğru olur.
+
+.TBK m.102
+....
+f.1 - Kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık
+bulunmadığı durumda ödeme, muaccel borç için yapılmış sayılır. Birden çok borç
+muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış
+olduğu kabul edilir. Takip yapılmamış ise ödeme, vadesi ilk önce gelmiş olan
+borç için yapılmış olur.
+f.2 - Birden çok borcun vadesi aynı zamanda gelmişse, mahsup orantılı olarak;
+borçlardan hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için
+yapılmış sayılır.
+....
+
+Bir yenilik doğuran işlem olan takas beyanı kural olarak koşula bağlanamaz.
+Fakat, koşulun yarattığı kuşkulu durum karşı taraf için zararlı bir sonuç
+doğurmuyorsa takas koşula bağlı olarak yapılabilir.
+
+Takas bildirimi karşı tarafa varınca hüküm ifade eder ve artık bundan dönmek
+mümkün değildir. Fakat karşı taraf takas beyanını öğreninceye kadar beyanın
+geri alınması mümkündür (TBK m.10 kıyasen). Bu andan sonra taraflar anlaşsa
+bile takas yapılmamış hale getirilemez. Ancak sona eren borçlarla aynı
+hükümleri içeren yeni borçlar yaratılabilir.
+
+===== bb- _İstisna_
+
+TBK m.144 hükmünde, kuraldan ayrık olarak, takas edilmesi alacaklının rızasına
+bağlı borçlar (alacaklar) söz konusudur.
+
+Bu alacakları, alacaklı takas etmek isterse, sadece onun beyanı takası
+sağlamaya yeter. Fakat borçlu takas etmek isterse, alacaklının rızasını almak
+zorundadır ki, işte kuralın istisnası bu noktadadır.
+
+Alacaklının rızası bulunmadan takas edilemeyecek borçlar (alacaklar) şunlardır:
+
+. Tevdi edilmiş eşyanın geri verilmesine veya bedeline ilişkin alacaklar (TBK
+m.44/b.1)
++
+Şayet emanet edilen şey bireysel olarak belirlenmiş ise yani geri verme borcu
+bir parça borcu ise, borçlunun hiçbir alacağının konusu bununla türdeşlik
+şartını taşımayacağı için esasen takas bu açıdan mümkün değildir (TBK m.139).
+Bu sebeple TBK m.144/b.1'in tevdi ile ilgili hükmü ancak misli şeylerin
+saklanmasınad (usulsüz vediada) ve emanet bırakılan malın değerini tazmin
+hallerinde rol oynar.
+. Haksız olarak alınmıl veya aldatma sonucunda alıkonulmuş eşyanın geri
+verilmesine veya bedeline ilişkin alacaklar (TBK m.144/b.2)
++
+Haksız olarak alınmış şeyden maksat haksız fiil ile ele geçirilen şeylerdir.
+Aldatma ile alıkonulmuş şeyden makst da bir kimsenin geri vermesi gerektiği
+halde bunu bilmesine rağmen iade etmediği şeylerdir.
+. Nafaka ve iş ücreti gibi, borçlunun ve ailesinin bakımı için zorunlu olup,
+özel niteliği gereği, doğrudan alacaklıya verilmesi gereken alacaklar (TBK
+m.144/b.3).
++
+Önemli olan takas edilmek istenen alacağı tahsil etmenin alacaklının ve
+ailesinin geçimi için zorunlu olmasıdır. Bu sebeple kanun bu husustaki borcun
+takasla sona erdirilemeyip fiilen alacaklıya ifa edilmesini aramaktadır. Bu tip
+alacaklar için kanun, nafaka alacağını ve ücret alacağını örnek olarak
+vermektedir. Ömür boyu gelir alacağı, ölünceye kadar bakmada bakım
+alacaklısının hakkı, bedensel zarara uğrayanın tazminat alacağı, ölüm halinde
+destekten yoksun kalanların alacağı bu nitelikte görülmektedir.
++
+Bir alacağın bu nitelikte olup olmadığını, uyuşmazlık halinde hakim
+belirleyecektir. Bir alacağın haczinin caiz olmaması (İc. İf. K. m. 82,83)
+alacağın konusunun alacaklının eline verilmesi gerektiğine bir karine teşkil
+edebilir.
++
+Hizmet sözleşmesinde TBK m.407/2 hükmü, işverenin işçiden olan alacağı ile
+ücret borcunu işçinin rızası olmadan takas edemeyeceğini ayrıca düzenlemiştir.
+Bu düzenleme karşısında, işçiye kendisi ve ailesi için yeterli miktar kalacak
+olsa bile, işveren takas yoluyla işçinin ücret alacağını kısmen dahi sona
+erdiremez.
+
+=== 4- Takasın hükmü
+
+Geçerli şekilde yapılan takas beyanı, bildirimde bulunanın karşı tarafa olan
+borcu ile ondan alacağını azı tutarında sona erdirir. Takas beyanı, bu sonucu
+geriye etkili olarak sağlar.
+
+İki tarafın birbirinden olan alacakları, takas hakkının doğduğu yani takas
+beyanında bulunma imkanının ortaya çıktığı andan itibaren sona ermiş sayılır.
+Bu husus TBK m.143/1'de açıkça ifade edilmiştir.
+
+Borçların sona ermesinin sonuçları da o tarihe göre belirlenir. 
+
+[TIP]
+====
+* Faiz getiren borç takas edilmişse faizin işlemesi, borcun sona erdiği kabul
+edilen tarihte durur.
+* Takas yapıldığı zaman bir taraf borçlu temerrüdünde olsa bile, takasın hüküm
+ifade ettiği ana göre temerrüdün var olup olmadığı gözönüne alınır ve o
+tarihte de temerrüt hali var idiyse her halde borcun sona ermesi ile temerrüt
+de sona ermiş olacaktır.
+====
+
+=== 5- Borçlar Kanunu hükümlerinden ayrılma imkanı
+
+Borçlar Kanununun takasa ait hükümleri emredici nitelikte değildir. Taraflar,
+takas şartları bulunmayan borçlarını anlaşarak takas edebilecekleri gibi,
+önceden yapacakları anlaşma ile takasın şartlarını değiştirebilirler, takas
+beyanına gerek kalmaksızın şartların gerçekleşmesi ile takasın kendiliğinden
+gerçekleşmesini veya takas beyanının geriye etkili olmamasını kabul
+edebilirler. Tarafların aralarında takas cereyan etmemesi hususunda anlaşmaları
+da caizdir. Hatta bir taraf, kendi takas hakkından feragat de edebilir (TBK
+m.145). Taraflar takas konusundaki anlaşmalarını bir veya birkaç alacak için
+yapabilecekleri gibi, aralarındaki bütün alacaklara yaygın tarzda da
+yapabilirler. Yapacakları anlaşmanın doğmamış alacakları da kapsaması da
+mümkündür.
+
+=== 6- Takasla mahsubun karıştırılmaması
+
+Mahsup bazı sebeplerle bir alacak miktarında indirim yapılmasıdır. Bu indirime
+esas olan miktarlar birer karşı alacak değildir ve borçlunun mahsup iddiasının
+karşılıklı alacakları sona erdirmesi söz konusu olmaz. Mahsup, alacağın
+hesabına ait bir itirazdır ve bu itirazı sadece borçlu değil, ilgili her şahıs
+ileri sürebilir.
+
+== 7- ZAMANAŞIMI
+
+=== I- GENEL BAKIŞ
+
+==== 1- Zamanaşımının geçmesinin etkileri
+
+Bazen zamanın geçmesi bir kimsenin bir ayni hak kazanmasını sağlar ki,
+_kazandırıcı zamanaşımı_ denilen bu kurum Eşya Hukukunda incelenmektedir.
+
+Bazen zamanın geçmesi bir hakkın sona ermesine yol açar. Bunun da iki şekilde
+gerçekleştiği görülür. Bazı hallerde bir hak süreye bağlı olarak mevcuttur.
+Sürenin bitiminde sona erer. Bu hallerde _süreye bağlı hak_ söz konusu olur.
+
+Buna karşılık bazı hallerde zamanın geçmesinin bir hakkın sona ermesine yol
+açması, o süre içinde hak sahibinin hakkını kullanmamış olmasından ileri gelir.
+Bu halde sürenin _hak düşürücü süre_ olduğundan bahsedilir. Kural olarak böyle
+süreler yenilik doğuran haklar için söz konusu olur.
+
+Bazen de zamanın geçmesi, o süre içinde alacaklının alacağını elde etmek
+hususunda hareketsiz kalması yüzünden artık borçluya ifadan süresiz kaçınma
+imkanı verir. İşte bu halde, _zamanaşımı_ söz konusu olur. 
+
+Geniş anlamda borç ilişkisi değil, bundan doğan dar anlamda borç ilişkileri
+Zamanaşımına tabidir. Bu bakımdan, sözleşme zamanaşımına uğramaz, bu
+sözleşmeden doğan her bir borç için zamanaşımı söz konusu olur.
+
+==== 2- Zamanaşımının dayandığı esas
+
+Borcunu ifa etmemiş bir borçlunun zamanaşımına dayanma imkanından yararlanması
+üzerine alacaklı alacak hakkını elde etmekte gösterdiği kayıtsızlığın
+sonuçlarına katlanacaktır. Borçlu zamanaşımın iler sürerse alacaklı alacağını
+elde edemeyecektir. Bu sebepledir ki zamanaşımı borcun sona ermesi bahsinde
+düzenlenmiştir. Fakat, zamanaşımına uğramış bir borcun borçlusun borcunu ifa
+etmesine engel olmak için de sebep yoktur. Şu halde zamanaşımını ileri sürüp
+sürmemek borçlunun arzusuna kalmıştır. Bu sebepledir ki, zamanaşımı borcu sona
+erdirmez, borçluya bir def'i hakkı sağlar. Bu def'i ileri sürülmedikçe hakim
+zamanaşımını kendiliğinden gözönüne alamaz (TBK m.161). Hatta borçluya
+hatırlatamaz bile.
+
+Borçlunun zamanaşımına uğramış borcu ifa etmesi, geçerli bir borcun ifası
+olacağından, bir bağış sayılamayacağı gibi, alacaklı için sebepsiz
+zenginleşmeye yol açan bir *borç olmayan şeyin ifası* da değildir.
+
+=== II- ZAMANAŞIMININ ŞARTLARI
+
+Bir alacağın zamanaşımına uğraması için aranan şartları iki grupta toplamak
+mümkündür. Şöyle ki: Alacak, zamanaşımına tabi olmalıdır ve zamanaşımı süresi
+geçmelidir.
+
+==== 1- Alacağın zamanaşımına tabi olması
+
+.TBK m.146
+....
+Kanunda aksine bir hüküm bulunmadıkça, her alacak on yıllık zamanaşımına
+tabidir.
+....
+
+Böylece, zamanaşımına tabi hakların kişisel hak niteliğindeki alacak hakları
+olduğu anlaşılmaktadır. Aynı borç ilişkisinden doğmuş her alacak ayrı ayrı
+dikkate alınır. Aynı borç ilişkisinden doğmuş alacaklar farklı zamanaşımlarına
+tabi olabilir.
+
+Bu bazen alacakların farklı vadelere bağlı olmasından
+
+TIP: Satılanın teslimi için kararlaştırılan vade bedelin ödenmesi için
+kararlaştırılan vadeden 3 ay önce ise, bu borç diğerinden 3 ay önce
+zamanaşımına uğrayacaktır.
+
+bazen de alacakların niteliği farklı olduğundan 
+
+TIP: Satım sözleşmesinde asli edimler 10 yıllık, ayıba karşı tekeffülden doğan
+haklar 2 yıllık (TBK m.231) zamanaşımına tabidir.
+
+kanunen farklı zamanaşımı süreleri söz konusu olabilir.
+
+Bununla beraber bir alacak için zamanaşımının işlemesine engel olan durumlar
+vardır. Gerçekten, MK m.884'e göre bir alacağın taşınmaz rehni ile teminat
+altına alınması halinde alacak için zamanaşımı işlemez.
+
+Bir alacağın taşınır rehni ile teminat altına alınması zamanaşımının işlemesine
+engel olmaz. Fakat alacak zamanaşımına uğramış olsa bile alacaklı rehni paraya
+çevirtme yetkisine sahiptir (TBK m.159).
+
+.TBK m.159
+....
+Alacağın bir taşınır rehniyle güvenceye bağlanmış olması, bu alacak için
+zamanaşımının işlemesine engel olmaz; bununla birlikte alacaklının, hakkını
+rehinden alma yetkisi devam eder.
+....
+
+==== 2- Zamanaşımı süresinin geçmesi
+
+Zamanaşımına tabi bir alacak için zamanaşımı süresinin dolup dolmadığını
+anlayabilmek için:
+
+. alacağın tabi olduğu zamanaşımı süresini
+. bu sürenin başlangıç tarihini ve sürenin nasıl hesaplanacağını
+. zamanaşımını durduran veya kesen bir sebep bulunup bulunmadığını
+
+tespi etmek gerekir.
+
+===== _a) Zamanaşımı süreleri_
+
+... _Normal zamanaşımı süresi_, Borçlar Kanununa göre on yıldır. Kanunda başka
+bir süre belirtilmiş olmadıkça her alacak on yıllık zamanaşımına tabidir (TBK
+m.146). Fakat kanunun daha uzun veya daha kısa süre koyduğu hallerde o süre
+gözönüne alınır.
+... _TBK m.147'ye göre beş yıllık zamanaşımına tabi alacaklar şunlardır_:
++
+.TBK m.147
+....
+Aşağıdaki alacaklar için beş yıllık zamanaşımı uygulanır:
+1. Kira bedelleri, anapara faizleri ve ücret gibi diğer dönemsel edimler.
+2. Otel, motel, pansiyon ve tatil köyü gibi yerlerdeki konaklama bedelleri ile
+lokanta ve benzeri yerlerdeki yeme içme bedelleri.
+3. Küçük sanat işlerinden ve küçük çapta perakende satışlardan doğan alacaklar.
+4. Bir ortaklıkta, ortaklık sözleşmesinden doğan ve ortakların birbirleri veya
+kendileri ile ortaklık arasındaki; bir ortaklığın müdürleri, temsilcileri,
+denetçileri ile ortaklık veya ortaklar arasındaki alacaklar.
+5. Vekâlet, komisyon ve acentalık sözleşmelerinden, ticari simsarlık ücreti
+alacağı dışında, simsarlık sözleşmesinden doğan alacaklar.
+6. Yüklenicinin yükümlülüklerini ağır kusuruyla hiç ya da gereği gibi ifa
+etmemesi dışında, eser sözleşmesinden doğan alacaklar.
+....
+
+===== _b) Sürenin başlangıcı ve hesabı_
+
+.TBK m.149
+....
+f.1 - Zamanaşımı, alacağın muaccel olmasıyla işlemeye başlar.
+f.2 - Alacağın muaccel olmasının bir bildirime bağlı olduğu hâllerde,
+zamanaşımı bu bildirimin yapılabileceği günden işlemeye başlar.
+....
+
+... Zamanaşımı alacaklının alacağını talep edebileceği andan itibaren işler.
++
+İfası derhal talep edilebilen alacaklarda zamanaşımı, alacağın doğumu ile
+beraber işlemeye başlayacaktır. Bu hususta bir borcun ne zaman doğduğunu
+saptamak zamanaşımı bakımından büyük önem taşır.
++
+Geciktirici koşula bağlı alacaklarda, alacak koşulun gerçekleşmesi ile doğar ve
+zamanaşımı bu tarihten itibaren işler.
++
+Muacceliyeti bir vadeye bağlı alacaklarda, zamanaşımı, vadeden itibaren
+işleyecektir. Eğer aynı borç ilişkisinden aynı nitelikte birden çok borç aynı
+tarihte doğuyor ayrı tarihlerde muaccel oluyorsa alacaklardan herbiri için
+zamanaşımı kendi muacceliyet tarihinden itibaren işlemeye başlar.
++
+Borca aykırılık halinde tazminat alacağının zamanaşımı, bu alacağın doğduğu
+andan itibaren işlemeye başlar. Öğretide bu husus sadece yapmama borçlarının
+ihlali için kabul edilmektedir. Diğer borçlarda tazminat borcunun asıl borcun
+yerine geçtiği ve asıl borca ait işlemekte olan zamanaşımına tabi olacağı
+savunulmaktadır.
++
+Rücu ile talep edilebilecek alacaklarda kural olarak rücu için dayanılan esasa
+göre zamanaşımı süresi ve başlangıcı belirlenir. Rücu halefiyete dayanıyorsa,
+evvelki alacaklı zamanında işlemeye başlayan zamanaşımı devam eder. Fakat
+haksız fiillerde birden fazla sorumlu kişi bulunan durumlarda tazminat ödeyenin
+diğer sorumlulara rücu hakkı bakımından TBK m.73 özel bir kural getirmiştir. 
++
+.TBK m.73
+....
+f.1 - Rücu istemi, tazminatın tamamının ödendiği ve birlikte sorumlu kişinin
+öğrenildiği tarihten başlayarak iki yılın ve her hâlde tazminatın tamamının
+ödendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar.
+f.2 - Tazminatın ödenmesi kendisinden istenilen kişi, durumu birlikte sorumlu
+olduğu kişilere bildirmek zorundadır. Aksi takdirde zamanaşımı, bu bildirimin
+dürüstlük kurallarına göre yapılabileceği tarihte işlemeye başlar.
+....
++
+Prensip, zamanaşımının alacağın muacceliyetinden itibaren işlemesi ise de,
+muacceliyetleri alacaklının muacceliyet bildirimine bağlı alacaklarda zorunlu
+olarak bu kuraldan ayrılmak gerekmiştir. Zira, aksi halde alacaklı bu bildirimi
+yapmayarak zamanaşımının işlemeye başlamamasını dilediği kadar uzun süre şöşn
+sağlayabilecektir. Böyle bir durum ise zamanaşımının dayandığı esasa, kurumun
+amacına aykırıdır. Bu sebeple TBK m.149/2, muacceliyeti bildirim yapılmasına
+bağlı alacaklarda zamanaşımının muacceliyet bildiriminin yapılabileceği günden
+itibaren işlemeye başlayacağını kabul etmektedir.
++
+Zamanaşımının işlemeye başlaması için alacaklının alacağının muaccel olduğunu
+hatta alacağı bulunduğunu bilmesi gerekli değildir. Fakat haksız fiilden doğan
+tazminat alacağında (TBK m.72) ve sebepsiz zenginleşmede iade talebinde (TBK
+m.82) iki yıllık zamanaşımının işlemeye başlaması için alacaklının bzı
+hususları bilmesi aranmıştır.
+... _Zamanaşımı süresinin hesaplanmasına gelince_, TBK m.151'de belirtildiği
+üzere zamanaşımının başladığı gün hesaba katılmaz; zamanaşımı ancak sürenin son
+gününün geçmesi ile tamamlanmış olur. Bu esas çerçevesinde olmak üzere, vade
+bakımından sürelerin hesabına ait TBK m.92 vd. zamanaşımı süresinin hesabında
+da uygulanır.
++
+.TBK m.151
+....
+f.1 - Süreler hesaplanırken zamanaşımının başladığı gün sayılmaz ve zamanaşımı
+ancak sürenin son günü de hak kullanılmaksızın geçince gerçekleşmiş olur.
+f.2 - Zamanaşımı sürelerinin hesaplanmasında da, borçların ifasındaki sürelerin
+hesaplanmasına ilişkin hükümler uygulanır.
+....
+
+===== _c) Zamanaşımının durması_
+
+Bazı sebeplerin bulunması ya toplumsal ilişkiler bakımından veya fiili durum
+itibariyle bir alacağın dava edilmesini çok güç hale sokabilir. Böyle
+durumlarda alacaklıyı korumak isteyen hukuk düzenine göre, bu durum ortaya
+çıkınca zamanaşımının işlemesi durur. Bu sebeplerle zamanaşımını durduran
+sebepler denilmektedir ve bunlar TBK m.153'de düzenlenmiştir.
+
+.TBK m.153
+....
+f.1 - Aşağıdaki durumlarda zamanaşımı işlemeye başlamaz, başlamışsa durur:
+    1. Velayet süresince, çocukların ana ve babalarından olan alacakları için.
+    2. Vesayet süresince, vesayet altında bulunanların vasiden veya vesayet
+    işlemleri sebebiyle Devletten olan alacakları için.
+    3. Evlilik devam ettiği sürece, eşlerin diğerinden olan alacakları için.
+    4. Hizmet ilişkisi süresince, ev hizmetlilerinin onları çalıştıranlardan
+    olan alacakları için.
+    5. Borçlu, alacak üzerinde intifa hakkına sahip olduğu sürece.
+    6. Alacağı, Türk mahkemelerinde ileri sürme imkânının bulunmadığı sürece.
+    7. Alacaklı ve borçlu sıfatının aynı kişide birleşmesinde, birleşmenin
+    ileride geçmişe etkili olarak ortadan kalkması durumunda, bu durumun ortaya
+    çıkmasına kadar geçecek sürece.
+f.2 - Zamanaşımını durduran sebeplerin ortadan kalktığı günün bitiminde
+zamanaşımı işlemeye başlar veya durmadan önce başlamış olan işlemesini
+sürdürür.
+....
+
+Söz konusu sebepler zamanaşımının işlemeye başlayacağı sırada mevcutsa,
+zamanaşımı işlemeye başlamaz; zamanaşımı işlerken ortaya çıkarsa zamanaşımı
+işlemeye devam etmez. Sebep devam ettikçe zamanaşımı işlemez ve sebep ortadan
+kalkınca, zamanaşımı kaldığı yerden -- yani hiç işlememişse baştan itibaren,
+bir süre işlemişse geri kalan kısım için -- işlemeye başlar. İşlemeye başlama,
+durdurma sebebinin ortadan kalktığı günün bitmesi ile olur.
+
+===== _d) Zamanaşımının kesilmesi_
+
+Zamanaşımının kesilmesinden maksat, kanunen belirli bazı olayların
+gerçekleşmesi üzerine, işlemekte olan zamanaşımının işlemiş kısmının hiçbir
+etkisinin kalmamasıdır. Zamanaşımını kesen olaydan itibaren yeni bir zamanaşımı
+süresi işlemeye başlar.
+
+Zamanaşımını kesen sebepler, TBK m.154'te gösterilmiştir. Bu sebeplerden biri
+zamanaşımının işlemeye başlamasından sonra ve henüz süre tamamlanmadan ortaya
+çıkarsa, zamanaşımı kesilmiş olur.
+
+.TBK m.154
+....
+Aşağıdaki durumlarda zamanaşımı kesilir:
+1. Borçlu borcu ikrar etmişse, özellikle faiz ödemiş veya kısmen ifada
+bulunmuşsa ya da rehin vermiş veya kefil göstermişse.
+2. Alacaklı, dava veya def’i yoluyla mahkemeye veya hakeme başvurmuşsa, icra
+takibinde bulunmuşsa ya da iflas masasına başvurmuşsa.
+....
+
+... _Zamanaşımını kesen borçlunun fiilleri_ (TBK m.154/b.1), borçlunun borçlu
+olduğunu kabullendiğini gösteren irade açıklamalarıdır. Bu hususu kanun,
+borçlunun borcu ikrar etmesi olarak ifade etmişştir. Borçlunun, borçlu olduğunu
+kabullendiğini gösteren irade açıklamasında bulunurken bu davranışının
+zamanaşımını keseceğini bilip bilmemesinin önemi yoktur.
++
+İkrarın en açık şekli sözle veya yazı ile yapılandır. Fakat böyle bir beyanın
+alacaklıya yöneltilmesi gerekir. Alacaklıya yöneltilmeyip de bir üçüncü şahsa
+yapılacak bir beyan, ikrar sayılmaz.
++
+Borçlu, sözlü veya yazılı beyan dışında, alacaklıya karşı, bazı davranışları
+ile de borçlu olduğunu kabullenmiş, borcunu ikrar etmiş olabilir. Bu hususta
+TBK m.154/b.1, borçlunun faiz ödemesinin, kısmen ifada bulunmasının, rehin
+vermesinin veya kefil göstermesinin ikrar sayılacağını belirtmiştir. Bu
+örneklere, borçlunun borcunu ödemek için ek süre talep etmesi, takas beyanında
+bulunması gibi davranışları eklenebilir.
+... _Zamanaşımını kesen alacaklının fiilleri_: Bunlar alacaklının alacağını
+talep bakımından yaptığı adli işlemlerdir. Alacaklı, alacağı için mahkemeye
+veya hakeme dava veya def'i yoluyla başvurunca; icra takibinde bulununca; iflas
+masasına başvurunca, zamanaşımı kesilir (TBK m.154/b.2).
++
+Alacaklı, zamanaşımını kesen bir adli işlemi yaptıktan sonra vazgeçip talebini
+geri alsa, bu vazgeçme, zamanaşımının kesilmiş olması olgusunu ortadan
+kaldırmaz.
+... Bir dava açılması veya def'i hakkının kullanılması ile zamanaşımı
+kesildikten sonrai _davanın devamı sırasında_ iki tarafın yargılamaya ilişkin
+her işlemi ve hakimin her emir ve hükmü ile zamanaşımı yeniden kesilmiş olur
+(TBK m.157/1). Keza, icra takibi ile zamanaşımı kesildikten sonra, takibe
+ilişkin her işlem zamanaşımını yeniden keser.
++
+.TBK m.157
+....
+f.1 - Bir dava veya def’i yoluyla kesilmiş olan zamanaşımı, dava süresince
+tarafların yargılamaya ilişkin her işleminden veya hâkimin her kararından sonra
+yeniden işlemeye başlar.
+f.2 - Zamanaşımı, icra takibiyle kesilmişse, alacağın takibine ilişkin her
+işlemden sonra yeniden işlemeye başlar.
+f.3 - Zamanaşımı, iflas masasına başvurma sebebiyle kesilmişse, iflasa ilişkin
+hükümlere göre alacağın yeniden istenmesi imkânının doğumundan itibaren yeniden
+işlemeye başlar.
+....
+
+Zamanaşımı kesildikten sonra işleyecek yeni süre, kural eski sürenin aynıdır.
+TBK m.156/1'de bu husus tam bir açıklıkla ifade edilmemişse de, TBK
+m.156/2'deki istisnai hüküm, prensibin yukarıda açıklanan tarzda olduğunu
+göstermektedir.
+
+.TBK m.156
+....
+f.1 - Zamanaşımının kesilmesiyle, yeni bir süre işlemeye başlar.
+f.2 - Borç bir senetle ikrar edilmiş veya bir mahkeme ya da hakem kararına
+bağlanmış ise, yeni süre her zaman on yıldır.
+....
+
+Zamanaşımının kesilmesinden sonra işlemeye başlayan yeni sürenin başlangıç
+tarihine gelince:
+
+* İkrar halinde hemen ikrarı takiben yeni zamanaşımı işler.
+* Dava açılması veya def'i hakkının kullanılması halinde, dava sırasında
+tarafların yargılamaya ilişkin her işleminden ve hakimin her emir ve
+hükmünden itibaren zamanaşımı kesilip yeniden işlemeye başlar. Sonunda
+alacaklı lehine hüküm verilirse, bu hükmün borçluya tefhimi veya tebliği ile
+artık on yıllık zamanaşımı işlemeye başlar (TBK m.156/2).
+* İcra takibinde, takibe ilişkin her işlemden itibaren zamanaşımı kesilip
+yeniden işlemeye başlar (TBK m.156/2). Şayet icra takibinin sonunda alacaklı
+alacağını tahsil edememiş ve bir aciz vesikası almışsa artık alacak borçluya
+karşı zamanaşımına tabi değildir. Fakat borçlu ölünce, mirasçıları, mirası
+kabullerinden itibaren bir yıl içinde hakkını aramamış olan alacaklıya karşı
+zamanaşımını iddia edebilirler (İc. İf. K. m.143/son).
+* İflas masasına müdahalede ise, iflasa ilişkin hükümlere göre alacağı yeniden
+talep etmek mümkün olduğu zamandan itibaren yeni süre işlemeye başlar (TBK
+m.157/3).
+
+Kural olarak zamanaşımının kesilmesi ancak borcunu ikrar eden veya adli işleme
+muhatap olan borçluya karşı hüküm ifade eder. Fakat TBK m.155 bu prensibe üç
+bakımdan istisna koymuştur:
+
+.TBK m.155
+....
+f.1 - Zamanaşımı müteselsil borçlulardan veya bölünemeyen borcun borçlularından
+birine karşı kesilince, diğerlerine karşı da kesilmiş olur.
+f.2 - Zamanaşımı asıl borçluya karşı kesilince, kefile karşı da kesilmiş olur.
+f.3 - Zamanaşımı kefile karşı kesilince, asıl borçluya karşı kesilmiş olmaz.
+....
+
+[WARNING]
+====
+* TBK m.155/1'in ancak tam teselsülde (aynı hukuki sebebe dayanan
+sorumluluklarda) uygulanacağı, eksik teselsülde (farklı hukuki sebeplere
+dayanan sorumluluklarda) uygulanamayacağı fikri, öğretide çoğunlukla kabul
+edildiği gibi İsviçre Federal Mahkemesi tarafından da benimsenmiş
+bulunmaktadır.
+* Diğer taraftan, öğretide, TBK m.155'in başka bir bakımdan da dar
+yorumlanması ve sadece alacaklının adli işlemleri ile kesilen zamanaşımında
+uygulanması gerektiği ileri sürülmektedir. Buna göre, bir borçlunun ikrarı
+ile zamanaşımının kesilmesinin diğer müteselsil borçlular için aynı etkiyi
+yapması TBK m.165 ile ve kanunun ruhu ile bağdaşmaz.
++
+.TBK m.165
+....
+Kanun veya sözleşme ile aksi belirlenmedikçe, borçlulardan biri kendi
+davranışıyla diğer borçluların durumunu ağırlaştıramaz.
+....
+====
+
+===== _e) Zamanaşımı süresinin uzaması_
+
+TBK m.158, usul yönünden reddedilen daca veya def'in reddedilmesine kadar geçen
+zaman içinde Zamanaşımı süresinin tamamlanması halinde, alacaklıya altmış
+günlük bir ek süre tanımaktadır.
+
+.TBK m.158
+....
+Dava veya def’i; mahkemenin yetkili veya görevli olmaması ya da
+düzeltilebilecek bir yanlışlık yapılması yahut vaktinden önce açılmış olması
+nedeniyle reddedilmiş olup da o arada zamanaşımı veya hak düşürücü süre
+dolmuşsa, alacaklı altmış günlük ek süre içinde haklarını kullanabilir.
+....
+
+=== III- ZAMANAŞIMININ HÜKÜMLERİ
+
+==== 1- Zamanaşımının asıl alacak bakımından hükümleri, kullanılması, feragat edilmesi
+
+.. Zamanaşımı, borçluya borcu ifadan kaçınmak hususunda _bir def'i hakkı
+sağlar_. Borç _zamanaşımı ile sona ermiş olmaz_. Bu sebeple de zamanaşımına
+uğramış bir borcu, zamanaşımına uğradığını bilmeksizin borçlunun ifa etmesi,
+alacaklı için sebepsiz zenginleşme oluşturmaz (TBK m.78/2).
++
+Borçlunun borcu için yeni bir senet vermesi veya teminat göstermesi de geçerli
+sayılmaktadır. Borçlu bu davranışları, borcun zamanaşımına uğradığını bilerek
+yaparsa, zamanaşımından TBK m.160 anlamında feragat etmek istemiş demektir.
++
+Zamanaşımına uğramış bir borç için üçüncü kişinin kefil olup olamayacağına veya
+rehin verip veremeyeceğine gelince aslında üçüncü kişinin böyle bir teminat
+sağlaması geçerlidir. Fakat üçüncü kişi borçluya rücu etmek istediği zaman,
+Zamanaşımı def'i ile karşılaşma tehlikesi vardır. Şayet üçüncü kişi kefil
+olurken asıl borcun zamanaşımına uğradığını biliyorsa, kendisi bakımından
+zamanaşımına dayanmaktan feragat etmiş olur. Aslında üçüncü kişi böyle bir
+davranışla bir kefaletten çok borçlunun borcunu ödeyeceğini taahhüt etmektedir
+(TBK m.128).
++
+İki tarafa borç yükleyen sözleşmelerde, bir tarafın alacağı zamanaşımına
+uğramış olsa dahi, o kimse bu alacağa dayanarak ödemezlik def'ini ileri
+sürebilir.
++
+Alacak zamanaşımına uğrasa bile, bu alacağı teminat altına alan taşınır rehni
+devam eder ve alacaklı cebri icra yolu ile rehni praya çevirebilir (TBK m.159).
++
+Alacak zamanaşımına uğramış olsa bile, takas hakkının doğduğu anda henüz
+Zamanaşımı tamamlanmış değil idiyse, takas yolu ile elde edilebilir (TBK
+m.139/3).
++
+.TBK m.139/3
+....
+Zamanaşımına uğramış bir alacağın takası, ancak takas edilebileceği anda henüz
+zamanaşımına uğramamış olması koşuluyla ileri sürülebilir.
+....
+.. _Def'i hakkını kullanıp kullanmamak borçlunun arzusuna kalmıştır_. Hakim
+zamanaşımını kendiliğinden gözönüne alamaz (TBK m.161).
++
+.TBK m.161
+....
+Zamanaşımı ileri sürülmedikçe, hâkim bunu kendiliğinden göz önüne alamaz.
+....
+.. _Borçlu zamanaşımı definden feragat edebilir_.
++
+Hatta borçlu önce zamanaşımı def'ini kullanıp borcu ifadan kaçındıktan sonra,
+bundan dönebilir ve bu da zamanaşımını kullanmaktan feragat gibi sonuç doğurur.
++
+.TBK m.160
+....
+f.1 - Zamanaşımından önceden feragat edilemez.
+f.2 - Müteselsil borçlulardan birinin feragat etmiş olması, diğerlerine karşı
+ileri sürülemez.
+f.3 - Bölünemez bir borcun borçlularından birinin feragat etmiş olması
+durumunda da aynı hüküm uygulanır.
+f.4 - Asıl borçlunun feragati de kefile karşı ileri sürülemez.
+....
++
+TBK m.160/1 uyarınca "zamanaşımından önceden feragat edilemez". Burada
+yasaklanın zamanaşımı süresi dolmadan önce feragat mı, yoksa borç doğmadan önce
+feragat mı olduğu tartışmalıdır. Borç doğduktan sonra fakat zamanaşımı dolmadan
+önce feragat mümkün sayılırsa, bu aşamada ancak borçlunun açık bir feragatı
+(zamanaşımı süresi dolsa da bu hususta def'i ileri sürmeyeceği taahhüdü) ile
+müstakbel zamanaşımı def'i kaybedilir. Henüz zamanaşımı dolmadan borçlunun
+borcunu ikrarı veya teminat vermesi, TBK m.160 uyarınca feragat olarak
+yorumlanamaz, sadece TBK m.154/1 uyarınca zamanaşımının kesilmesini sağlar.
+Zamanaşımı dolduktan sonra aynı işlemler ve beyanlar ise, esasen dolmuş
+zamanaşımı kesilemeyeceğinden, örtülü irade beyanıyla feragat sayılacaktır.
++
+Zamanaşımı def'ini kullanmaktan feragat, borçlunun ikrarı ile zamanaşımının
+kesilmesinden farklı olarak sadece feragatte bulunan borçlu bakımından hüküm
+ifade eder. Diğer müteselsil borçlulara, bölünemeyen borcun diğer borçlularına
+veya kefile etkisi yoktur (TBK m.160/2,3). Borçlunun zamanaşımı def'inden
+feragat edebilmesi için, fiil ehliyetinden başka tasarruf yetkisi bulunması
+gerektiği doktrinde kabul edilmektedir.
+
+==== 2- Zamanaşımının bağlı haklar bakımından hükümleri
+
+.. Alacağın zamanaşımına uğraması _faiz ve diğer bağlı alacakların da
+zamanaşımına uğraması sonucunu doğurur_ (TBK m.152).
++
+.TBK m.152
+....
+Asıl alacak zamanaşımına uğrayınca, ona bağlı faiz ve diğer alacaklar da
+zamanaşımına uğramış olur.
+....
++
+TBK m.152 hükmünün kapsamına, anapara faizleri, temerrüt faizleri ve ceza
+koşulu girer.
++
+Buna karşılık, hüküm bütün bağlı hakları değil, sadece bağlı alacakları kapsar.
+Ayni hak niteliğindeki bağlı haklar zamanaşımına uğramaz. Esasen TBK m.159 da
+zamanaşımına uğramış alacağı teminat altına alan taşınır rehninin devam
+edeceğini belirtmektedir. Alacaklı, alacağını elde eltmek borçluyu icraya verip
+mallarını paraya çevirtmek istediği zaman borçlu zamanaşımını ileri
+sürebilirken, rehnin paraya çevrilmesi yolu ile alacağını elde etmek isteyince
+borçlu buna engel olamayacaktır.
++
+Taşınmaz rehnine gelince, esasen böyle bir rehinle teminat altına alınan
+alacaklarda zamanaşımı işlemez (MK m.884).
+.. TBK m.150 _ömür boyunca gelir ve benzeri dönemsel edimler bakımından_ her
+taksitten ayrı olarak, bütün taksitleri içerecek şekilde kök edim borcu için
+zamanaşımı işlemesini ve zamanaşımının tamamlanması halinde henüz kendilerine
+ait zamanaşımı bitmemiş taksitlerin de zamanaşımına uğramış olacağını kabul
+etmektedir (TBK m.150/2).
++
+.TBK m.150/2
+....
+f.1 - Ömür boyunca gelir ve benzeri dönemsel edimlerde, alacağın tamamı için
+zamanaşımı, ifa edilmemiş ilk dönemsel edimin muaccel olduğu günde işlemeye
+başlar.
+f.2 - Alacağın tamamı zamanaşımına uğramışsa, ifa edilmemiş dönemsel edimler de
+zamanaşımına uğramış olur.
+....
++
+TIP: Borçlu, irad olarak her ay 2 bin lira ödemek borcu altındadır. Borcunu bir
+süre ödemiş fakat 2.1.2002'den beri hiçbir taksidi ödememiştir. İşte borç
+ilişkisine ait zamanaşımı 2.1.2012'de tamamlanmış olur. TBK m.147/b.1 uyarınca
+beş yıllık zamanaşımına tabi olup henüz bu zamanaşımı süresi dolmamış olan
+taksitler -- yani 2007 yılından bu yana işleyen taksitler -- borç ilişkisinin
+tümüne ait zamanaşımının tamamlanmasıyla zamanaşımına uğramış olur.
+
+=== IV- ZAMANAŞIMI DEF'İNİ İLERİ SÜRME HAKKININ KÖTÜYE KULLANILMASI
+
+Bir borçlunun, borcunun zamanaşımına uğradığını ileri sürmesi, bu yolla borcu
+ödemekten kaçınması, kanunen kendisine tanınmış olan bir haktır. Zamanaşımını
+ileri süren borçlunun davranışının dürüstlüğe aykırı olduğundan bahsedilemez.
+Fakat bazı hallerde bir borçlunun zamanaşımı def'ini ileri sürmesi dürüstlükle
+bağdaşmayabilir.
+
+Böyle hallerde bir görüş alacaklıya TBK m.49/2'ye dayanan bir tazminat davası
+açma hakkı tanımaktadır. Bu dava ile alacaklı, zamanaşımına uğrayan alacağının
+karşılığını tazminat olarak elde edecektir.
+
+[, Oğuzman & Öz]
+""
+Biz, zamanaşımı def'inin kötüye kullanıldığı hallerde def'in gözönüne
+alınmaması gerektiği görüşünü daha isabetli buluyoruz.
+""

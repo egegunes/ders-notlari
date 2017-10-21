@@ -1,0 +1,868 @@
+:icons: font
+
+== ZİLYETLİK
+
+****
+*MK 973/1*: Bir şey üzerinde fiilî hâkimiyeti bulunan kimse onun zilyedidir.
+****
+
+* Zilyetliğin iki unsuru vardır: *Objektif/maddi* unsur ve *subjektif/manevi*
+unsur. 
++
+Objektif unsur *fiili hakimiyettir*. Günlük hayatın ihtiyaçlarına göre kişiyle
+eşya arasındaki bağlantı bazı zamanlarda daha gevşek bazı zamanlarda daha sıkı
+ortaya çıkabilir. Örneğin araba daha gevşek bir bağlantıyla sokakta
+bırakılırken, telefon daha sıkı bir bağlantıyla kişinin yanında taşınır. Ayrıca
+genel anlayış ve hayat tecrübelerine göre de bir eşyanın bir kimsenin etki
+alanı içinde bulunup bulunmadığı da anlaşılabilir. Örneğin hayat tecrübesi
+ormanlık alanda istiflenmiş odunlar üzerinde zilyetlik olduğunu gösterirken,
+yine ormanlık alanda bulunan yüzüğün üzerinde zilyetlik olmadığını gösterir.
++
+Subjektif unsur ise *zilyetlik iradesidir*. 
+
+* Zilyetlik iradesi ile fiili hakimiyetin mutlaka aynı anda olmasına gerek
+  yoktur.
+
+TIP: Zilyetlik, bir şeyde fiili hakimiyeti ele geçirmiş ve onu kaybetmemiş
+olmaktır.
+
+* Fiili hakimiyet unsurunun gerçekleşmiş olması için bunun belirli bir süre
+  devam etmesi gerekir. Buna *süreklilik şartı* denir. Bu ebediyen devam etmesi
+  anlamına gelmez ama belirli bir süre devam etmelidir.
+
+* Fiili hakimiyet olmadan zilyetliğin kazanılmasının kanuni istisnası, miras
+  bırakanın ölümüyle beraber terekeye dahil olan mallar üzerindeki zilyetliğin
+  haberleri olmasa bile mirasçılara geçmiş olmasıdır.
+
++
+****
+*MK 599*: Mirasçılar, mirasbırakanın ölümü ile mirası bir bütün olarak, kanun
+gereğince kazanırlar.
+****
+
+* Zilyetliğin bir hakka dayanıp dayanmamasının hiçbir önemi yoktur. Bu anlamda
+  zilyetlik bir hukuki durumdur.
+
+* Bir şeyin zilyeti olabilmek için mutlaka o malı fiilen elinde bulundurmaya
+  gerek yoktur.
+
+* Bir eşyanın bir parçası üzerinde de zilyetlik tesis etmek mümkündür. Yani
+  zilyetlik borçlandırıcı sözleşmelerde tesis edilen bir nisbi hak gibi bir
+  eşya üzerinde sadece onun bir parçasına tesis edilebilir.
+
+* MK 973/2 *hak zilyetliği* olarak adlandırılan kurumu düzenlemektedir.
++
+****
+*MK 973/2*: Taşınmaz üzerindeki irtifak haklarında ve taşınmaz yüklerinde
+hakkın fiilen kullanılması zilyetlik sayılır.
+****
++
+Bu tür zilyetlik sadece taşınmaz üzerindeki irtifak haklarında ve taşınmaz
+yüklerinde söz konusudur. Taşınmaz irtifakları bakımından da sadece taşınmaz
+üzerinde hiçbir fiili hakimiyet sağlamayan taşınmaz irtifakları bakımından söz
+konusudur. Fiili hakimiyet sağlayan irtifaklar zaten normal zilyetlik
+sağlarlar.
+
+* Zilyetlik çeşitleri:
+
+. *Haklı - Haksız zilyetlik*: Zilyetliğin bir hakka dayanıp dayanmamasına göre
+_hakka dayanan zilyetlik_ ve _haksız zilyetlik_ ayrımı yapılabilir. Bu ayrım
+zilyetliğin korunmasında önem arz eder (MK 981 vd.). Malikin, rehin alanın,
+kiracının zilyetliği hakka dayanan zilyetlik; hırsızın zilyetliği, emanet
+edilen mala sahip çıkan emanet alanın zilyetliği haksız zilyetliktir. Keza
+geçerli olmayan bir zilyetliğin devri neticesi mala zilyet bulunan kimse de
+haksız zilyetliktir.
+. *İyi niyetli - Kötü niyetli zilyetlik*: Haksız zilyetlik, zilyedin sözü geçen
+durumu bilip bilmemesi ve bilecek durumda olup olmamasına göre de, _iyi niyetli
+zilyetlik_ veya _kötü niyetli zilyetlik_ tarzında ayrıma tabi olur. Bu ayrım,
+zilyedin zilyetliği geri verme borcunda ve bunun kapsamını tayinde (MK 991,
+993-995) ve kazandırıcı zamanaşımında (MK 712, 777) önem taşır.
+. *Malik sıfatıyla - Başka sıfatla zilyetlik*: Zilyet ister haklı, ister haksız
+olsun; ister iyi niyetli olsun, ister kötü niyetli bulunsun, zilyetlikteki
+davranışına göre, zilyetliği _malik sıfatıyla zilyetlik_ veya _başka sıfatla
+zilyetlik_ olarak ortaya çıkar.
++
+Malikin zilyetliği malik sıfatıyla zilyetlik olduğu gibi, hırsızın zilyetliği
+de malik sıfatıyla zilyetliktir. Malik veya hırsız bu malı başka bir kişiye
+kiralasa veya rehin olarak verse, kiracı veya rehin alan sözü geçen sıfatları
+ile zilyet olurlar. Fakat kiracı veya rehin alan, malı kendisine verenin
+zilyetliğini inkar edip, malda mülkiyet iddiasında bulunmaya kalkarsa, bu
+takdirde malik sıfatıyla zilyet olur. Zilyetliğin malik sıfatı ile olması
+özellikle kazandırıcı zamanaşımı ile mülkiyet kazanılması için önemlidir (MK
+713, 777).
+. *Asli - Fer'i zilyetlik*: MK 974 "_zilyet bir sınırlı ayni hak veya bir
+kişisel hakkın kurulmasını ya da kullanılmasını sağlamak için başkasına teslim
+ederse, bunların ikisi de zilyet olur. Bir şeyde malik sıfatıyla zilyet olan
+asli zilyet, diğeri fer'i zilyettir_" hükmünü getirmektedir.
++
+Asli ve fer'i zilyetlik ancak en az iki kişinin zilyetliklerinin karşılıklı
+durumlarını tayinde söz konusu olacağı halde; malik sıfatıyla zilyetlik daha
+geniş bir kavramdır ve tek zilyet için de söz konusu olur. Malı elinde tutan
+hırsız, malik sıfatıyla zilyettir; fakat bu zilyetliğin asli zilyetlik olarak
+nitelendirilmesi söz konusu olmaz. Çünkü malda herhangi bir fer'i zilyet
+yoktur.
+. *Kendisi için - Başkası için zilyetlik ve hizmet zilyetliği (zilyet
+yardımcılığı)*: Elinde bulundurduğu mal bakımından hiçbir ayni hak veya kişisel
+hak iddia etmeksizin malı elinde bulunduranlar, ne asli ne de fer'i
+zilyettirler. Yani işçi veya temsilci sıfatıyla bir malı elinde tutanlar
+kendileri için zilyet olmayıp, bunlar sadece *başkası için zilyettirler*.
+Bunlar mal üzerinde kendileri için hakimiyetleri yoktur. Mal üzerinde kendileri
+için hakimiyetleri yoktur. Mal üzerinde hakimiyetleri vardır fakat bu başkası
+içindir.
++
+Başkası için zilyet olanlar kendi adlarına zilyetlik hükümlerinden
+faydalanamazlarsa da, kendilerine malı veren kişi adına zilyetliğin korunmasını
+isteyebilmelidirler (MK 981-982).
++
+Buna karşılık başka bir kişinin zilyet bulunduğu eşyayı hiçbir hakimiyet iddia
+etmeksizin, sadece kullanma imkanına sahip olanlar *başkası için zilyet* dahi
+sayılmazlar. Evdeki buzdolabını kullanan aşçı, süpürge ile ortalığı temizleyen
+yardımcı vs. gibi. Bunların durumuna *zilyet yardımcılığı* veya *hizmet
+zilyetliği* adı verilmektedir. Bunlar zilyet adına dahi zilyetlik hükümlerinden
+yararlanamazlar. Mala saldırı halinde bunlar ancak meşru müdafaa (TBK 64)
+hükmünden yararlanabilirler. Diğer taraftan, zilyet yardımcısının malda
+zilyetlik iddiası, bir emniyeti suistimal değil, hırsızlık teşkil eder.
+. *Dolaylı - Dolaysız zilyetlik*: Zilyet sıfatı ne olursa olsun mal üzerinde
+başka bir kişi araya girmeksizin hakimiyete sahipse zilyetliği *dolaysız
+zilyetliktir*. Şayet bir kimse mal üzerinde ancak başka bir kişi aracılığı ile
+hakimiyete sahipse, zilyetliği *dolaylıdır* (MK 975). Malı eli altında
+bulunduran malikin zilyetliği dolaysız zilyetliktir. Malını kiracıya veren
+malikin zilyetliği dolaylı zilyetlik, kiracının zilyetliği ise dolaysız
+zilyetliktir. Kiracı bu malı bir başkasına kiralayıp teslim etse, ikinci kiracı
+dolaysız zilyet, birinci kiracı ile malik ise dolaylı zilyettirler. Dolaylı
+zilyetlerin zilyetliği, aracının bunların zilyetliğini kabul etmesine bağlıdır.
+Aracı, sözü geçen kişilerin hakimiyetini tanımazsa dolaylı zilyetlerin
+zilyetlikleri sona erer.
++
+Dolaylı zilyetlik, dolaysız zilyetlik ayrımı, zilyetliğin korunması yönünden
+önemlidir (MK 981-983). Bu korumadan ilk planda dolaysız zilyetler istifade
+eder. Dolaylı zilyetler zilyetlikten doğan dava hakkını (MK 982-983)
+kullanabilirse de, bunların MK 981'de düzenlenmiş olan kuvvet kullanarak
+müdafaa hakkından yararlanmaları çok kere mümkün olmaz. Taşınmazlarda ise MK
+992, adına tescil bulunan kişiyi dolaysız zilyet konumuna getirdiğinden,
+sicilde hak sahibi görünenlerin de zilyetliğin korunması ile ilgili davaları
+açmaları mümkündür. MK 992/2 taşınmazda fiili hakimiyet sürdürenlerin de gasp
+ve saldırı halinde dava hakkına sahip olduğunu MK 982 yanında ayrıca hükme
+bağlamıştır.
+. *Tek başına - Birlikte (müşterek ve elbirliğiyle) zilyetlik*: Bir malı elinde
+bulunduran malikin zilyetliği *tek başına zilyetlik*, *münhasır zilyetliktir*.
+Bir malın tek kiracısının zilyetliği de, *tek başına fer'i zilyetliktir*.
++
+Fakat böyle değil de dolaysız zilyet adedi birden çok ise, bunlar birlikte
+zilyettirler. Birlikte zilyet olan kişiler bu zilyetliğe ait hakimiyeti
+birbirine tabi olmaksızın kullanabiliyorlarsa, bunların zilyetliğine *müşterek
+(ortak) zilyetlik* denir. Şayet birlikte zilyet olanlar hakimiyeti ancak
+beraberce kullanabiliyorlarsa *elbirliğiyle zilyetlik* söz konusu olur.
+
+* Zilyetlik kural olarak üç şekilde kazanılabilir:
+
+. *Aslen kazanma*: Aslen kazanmada başka bir zilyetin iradesine dayanılarak
+  kazanılmaz. Kişi kendi zilyetlik iradesiyle o mal üzerinde fiili hakimiyet
+  tesis eder. Hırsızın malı malikten çalması böyledir.
+. *Devren kazanma*: Devren kazanma önceki zilyetin zilyetlik iradesine
+  dayanarak zilyetliğin kazanılmasıdır. Önceki zilyet kendi iradesiyle sonraki
+  zilyete devreder.
++
+Genellikle taraflar zilyetliğin devrinin arkasında buna hukuki sebep teşkil
+edecek bir sözleşme yaparlar. Bu satım sözleşmesi olabilir, bağışlama
+sözleşmesi olabilir, kira sözleşmesi olabilir. Fakat *bu sözleşme bizim
+hukukumuzda zilyetliğin devri anlamına gelmez*. Bizim hukukumuzda bu anlaşmadan
+başka, zilyetliği geçirmek için zilyetliğin devri sözleşmesi yapmak gerekir.
+Zilyetliğin devri konusunda tarafların anlaşması lazımdır. Zilyetliğin devri bu
+anlamda sözleşmesel bir hukuki işlemdir. Zilyetliğin devri iki tarafın
+birbirine uygun irade beyanını gerektiren bir hukuki işlemdir.
++
+CAUTION: Zilyetliğin devri sözleşmesi bunun arkasında yatan hukuki işlemden
+soyut bir hukuki işlemdir.
++
+****
+*MK 996*: Kazandırıcı zamanaşımından yararlanma hakkına sahip olan zilyet,
+zilyetliği kendisine devreden aynı yetkiye sahip idiyse onun zilyetlik süresini
+kendi süresine ekleyebilir.
+****
++
+Yani bir zilyetlik devren iktisap edilmiş ise zilyet, önceki zilyetin malı
+fiilen elinde bulundurma süresini yani zilyetlik süresini kendi zilyetlik
+süresine ekleyerek o süreye göre kazandırıcı zamanaşımından yararlanır.
+. *Miras yoluyla kazanma*
+
+* Zilyetliğin devrinin *dolaysız* olarak ne şekilde yapılacağını düzenleyen
+hüküm MK 977'dir.
++
+****
+*MK 977*: Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların,
+edinene teslimi veya edinenin önceki zilyedin rızasıyla şey üzerinde hâkimiyeti
+kullanacak duruma gelmesi hâlinde devredilmiş olur.
+****
+
+* *Dolaysız* zilyet kılınması: 
+
+. *Eşyanın teslimi*: Eşyanın, zilyetliğinin devralana geçirilmesi yoluyla devri
+  yöntemidir. Satım ya da benzeri bir sözleşme yapılıp eşya teslim edilirken
+  burada eşyanın teslimi zilyetliğin devri için yeterli görünse de burada yine
+  de zilyetliğin devri sözleşmesinin de taraflar arasında yapılmış olması
+  gerekir. Zilyetliğin devri ve eşyanın teslimi her konuda üst üste gelmiş gibi
+  dursa da bunlar birbirinden ayrıdır.
+. *Araçların teslimi*: Zilyetliğin devri, malın bizzat kendisinin teslimi
+  yoluyla değil de onun kullanılmasını, fiili hakimiyetini sağlayacak araçların
+  zilyetliği devralana teslimi ile de olabilir.
+. *Zilyetlik sözleşmesi*: Buna *uzak elden teslim* de denmektedir. Şeyin fiilen
+  tesliminin mümkün olmadığı veya gerekli görülmediği durumlarda teslim yerine
+  tarafların zilyetliğin devredileceği konusunda anlaşmaları ile olur.
+. *Kısa elden teslim*: Bu yol kanunda (MK 977) düzenlenmemiştir. Bu şekilde bir
+  kişinin, zilyetlik sıfatının veya zilyetlik türünün değişmesi yoluyla, bir
+  daha zilyetliği önceki zilyede geçirip tekrar kendisine geçirmeye gerek
+  kalmaksızın dolaysız zilyet kılınmasıdır.
+
+* *Dolaylı* zilyet kılınması:
+
+. *Temsilci aracılığıyla zilyetliğin devri*: Öncelikle tabii ki malik ie
+  temsilci arasında bir zilyetliğin devri sözleşmesi yapılmış olacak. İkinci
+  olarak da, bu şekilde zilyetliğin kazanılabilmesi için temsil olunanla
+  temsilci arasında geçerli bir temsil ilişkisi olması lazım. Bu temsil
+  ilişkisi baştan kurulmuş da olabilir, böyle bir temsil ilişkisi olmamasına
+  rağmen temsil olunan daha sonra icazet de verebilir. Aksi takdirde eğer
+  temsil olunan herhangi bir temsil yetkisi vermemiş, sonradan icazet de
+  vermemişse zilyetliği kim kazanmış olacaktır? Temsilcinin iradesine göre
+  belirlenir: Temsilci zilyetliği kendi adına tutmaya karar verirse, malik
+  sıfatıyla zilyet olur. Önceki zilyede iade etmeye karr verirse zilyetliği
+  sona erer.
++
+****
+*MK 978*: Temsilciye yapılan teslim, temsil edilene yapılmış gibi zilyetliği
+geçirir.
+****
++
+. *Hükmen teslim*: Bu halde öncelikle tarafların arasında zilyetliğin
+  devredilmesinin hukuki sebebini oluşturan bir sözleşme yapılmış olmalıdır.
+  Sonra zilyetliğin devri hususunda anlaşılmış olmalıdır. En son da özel bir
+  hukuki sebebp dolayısıyla zilyetliğin halen devredende kalması hususunda
+  anlaşılmış olmalıdır. Bunların üçü gerçekleştiği takdirde hükmen teslimden
+  bahsedebiliriz. 
++
+****
+*MK 979/1*: Bir üçüncü kişi veya zilyetliği devreden, özel bir hukukî ilişkiye
+dayanarak zilyet olmakta devam ederse zilyetlik, teslim gerçekleşmeksizin
+kazanılmış olur.
+****
++
+Kural olarak her türlü zilyetlik hükmen teslim yoluyla devredilebilir. Ancak
+bir durumda hükmen teslim yoluyla zilyetliğin devri mümkün değildir.
++
+****
+*MK 939*: (1) Kanunda öngörülen ayrık durumlar dışında taşınırlar, ancak
+zilyetliğin alacaklıya devri suretiyle rehnedilebilir.
+
+(3) Taşınır, fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece rehin hakkı
+doğmaz.
+****
++
+****
+*MK 766/1*: Bir taşınırın mülkiyetini nakleden kimse özel bir hukukî ilişkiye
+dayanarak o şeyin zilyetliğini korursa, mülkiyet teslimsiz geçmiş olur. Ancak,
+bu işlem üçüncü kişileri zarara sokmak veya taşınır rehni kurallarından
+kurtulmak için yapılmışsa, mülkiyetin nakli sonuç doğurmaz.
+****
+
+. *Zilyetliğin havalesi*: Bir mal üçüncü bir kişide özel hukuki ilişki
+  nedeniyle bulunuyorsa bunun zilyetliğini devredenle devralan aralarında
+  anlaşarak devralana geçirebilirler. Bunun için üçüncü kişinin (dolaysız
+  zilyet) rızası aranmaz. Ancak bu devrin dolaysız zilyet için hüküm doğurması
+  devredenin yaptığı bildirimle olur. Bu bildirim yapılmasa bile devir üçüncü
+  kişiler için hüküm doğuracaktır. Yapılacak bildirim şekle tabi değildir.
++
+****
+*MK 979/2*: Zilyetliğin bu yolla devri, zilyet olmakta devam eden üçüncü kişiye
+karşı, ancak durumun devreden tarafından kendisine bildirildiği andan
+başlayarak hüküm doğurur.
+****
++
+[NOTE]
+====
+Eğer ki taraflar, kanun koyucu devreden dediği için özellikle devreden, bunu
+dolaysız zilyete bildirmemişse ama buna rağmen dolaysız zilyet tarafların kendi
+aralarında zilyetliğin havalesi sözleşmesi yapıp zilyetliğin devredildiğini
+başka bir yoldan kesin bir şekilde öğrenmişse ne olacak? 
+
+Bir grup yazar, üçüncü kişi bu şekilde zilyetliğin havalesi yoluyla zilyetliğin
+devredildiğini öğrenmiş ve buna rağmen bu havaleye aykırı şekilde davranmışsa,
+burada MK 2 çerçevesinde dürüstlük kuralına aykırı davranmış olur, iyiniyetli
+olmadığı için de üçüncü kişi bakımından ona ihbar edilmiş gibi hukuki sonuç
+doğurur, demektedir.
+
+Bunun dışında bir grup yazar da TBK 49/2 çerçevesinde bu havaleyi öğreniş ama
+sırf devralana zarar verme kastıyla hareket edip malı eski malik devredene
+teslim etmişse devralanın zararlarından sorumlu olur şeklinde görüş
+bildirmektedir.
+====
++
+TIP: Zilyetliğin havalesi yoluyla sadece asli zilyetliğin geçirilmesi değil
+fer'i zilyetliğin geçirilmesi de mümkündür.
++
+Burada devredenin bildirimde bulunması gerekir. Ama eğer devreden tarafından
+devralana bu konuda temsil yetkisi verilmişse devralan da devredenin temsilcisi
+sıfatıyla üçüncü kişiye bildirimde bulunabilir. 
++
+****
+*MK 979/3*: Üçüncü kişi, zilyetliği devredene karşı ileri sürebileceği
+sebeplerle şeyi edinene vermekten kaçınabilir.
+****
++
+Üçüncü kişinin bu zilyetliğin havalesinden haberi olmasa bile kanun koyucu iki
+tarafın anlaşarak üçüncü kişinin durumunu ağırlaştırıcı sözleşme yapılmasının
+önüne geçmiş ve burada üçüncü kişiyi korumuştur. Dolaysız zilyet üçüncü kişi,
+devredene karşı sahip olduğu hakları devralana karşı da ileri sürebilir.
++
+[NOTE]
+====
+Bu hüküm üçüncü kişi konumundaki zilyede şahsi haklar bakımından ekstra bir
+koruma mı sağlıyor? 
+
+MK 979/3 sadece *her iki tarafın hakkının da ayni* veya *her iki tarafın
+hakkının da şahsi* olduğu ya da üçüncü kişi konumundaki zilyedin hakkının ayni,
+devralanın hakkının şahsi olduğu durumlarda geçerlidir.
+
+CAUTION: Kanunumuzda zilyetlik, bir hakkı ayni hakka dönüştürme veya etkisini
+kuvvetlendirme gibi bir etki doğurmaz.
+====
+. *Emtiayı temsil eden senetlerin teslimi*: Umumi mağaza veya taşıyıcıya
+  bırakılmış malları temsil etmek üzere verilen _emtiayı temsil eden kıymetli
+  evrak_ çeşitli şekillerde olabilir: Malın mülkiyetini temsil etmek üzere
+  düzenlenen kıymetli evrak *makbuz senedi*, rehin hakkı tesis etmek üzere
+  düzenlenen kıymetli evrak ise *varanttır*. Malik bu malların mülkiyetini
+  geçirmek üzere zilyetliğini devretmek istediği zaman, malları teslim
+  etmeksizin zilyetliği geçirmek isterse bu kıymetli evrakı devralana vererek
+  zilyetliği devretmiş olur.
++
+****
+*MK 980/1*: Bir taşıyıcıya veya umumî mağazaya bırakılmış emtiayı temsil eden
+kıymetli evrakın teslimi, emtianın teslimi gibi sonuç doğurur.
+****
++
+TIP: Burada da aslında zilyetliğin havalesinin özel bir görünüm biçimi vardır.
+Ancak zilyetliğin havalesinden farklı olarak bu teslimin taşıyıcı veya umumi
+mağaza için de hüküm ifade etmesi için ayrıca onlara bildirimde bulunulmasına
+gerek yoktur.
++
+****
+*MK 980/2*: Kıymetli evrakı iyiniyetle teslim alan kimse ile emtiayı iyiniyetle
+teslim alan kimse arasında uyuşmazlık çıkarsa emtiayı teslim alan tercih
+olunur.
+****
+
+* Medeni kanuna göre zilyetliğin korunması iki şekilde olabilir: *Zilyedin
+  kuvvet kullanma imkanı* veya *zilyetlik davaları*.
+
+* *Zilyedin kuvvet kullanma yetkisi* MK 981'de düzenlenmiştir.
++
+****
+*MK 981/1*: Zilyet, her türlü gasp veya saldırıyı kuvvet kullanarak
+defedebilir.
+****
+
+* Gasp ve saldırının nitelikleri farklıdır. Bunu tespit etmek önemlidir. Gasp
+halinde açılacak dava MK 982'de, saldırı halinde açılacak dava MK 983'te ayrı
+ayrı düzenlenmiştir.
++
+*Gasp*, mevcut zilyedin rızası bulunmaksızın zilyetliğin ele geçirilmesini;
+*saldırı* ise, zilyetliğin fiili hakimiyetine ve icrasına engel olunmasını
+ifade eder.
++
+Fakat savunma hakkı bakımından kanun koyucu MK 981'de her iki durumda da
+zilyedin kuvvet kullanabileceğinden bahsetmiştir.
+
+* MK 981/2'de zilyetliğin kuvvet kullanılarak korunması imkanı hem taşınırlar
+  bakımından hem de taşınmazlar bakımından kabul edilmiştir. Yine kuvvet
+  kullanma imkanı her türlü zilyetlik bakımından öngörülmüştür.
+
+* *Hırsız dahi gerçek malike karşı zilyetliği koruma yollarına başvurabilir*.
+
+* Bu şekilde kuvvet kullanma hakkının olabilmesi için bu kuvvetin ya eylem
+  sırasında veya kaçarken yakalanın elinden malı alarak kullanılması gerekir.
++
+****
+*MK 981/2*: Zilyet, rızası dışında kendisinden alınan şeyi taşınmazlarda el
+koyanı kovarak, taşınırlarda ise eylem sırasında veya kaçarken yakalananın
+elinden alarak zilyetliğini koruyabilir. Ancak, zilyet durumun haklı
+göstermediği derecede kuvvet kullanmaktan kaçınmak zorundadır.
+****
++
+Eylem bitmiş ve aradan zaman geçmişse artık bu imkanın kullanılması söz
+konusu değildir.
+
+* Gasp halinde dava kural olarak gasp edilen zilyetlik konusu şeyin geri
+  verilmesini ve zararın giderilmesine yönelik açılır.
++
+****
+*MK 982*: (1) Başkasının zilyet bulunduğu bir şeyi gasbeden kimse, o şey
+üzerinde üstün bir hakka sahip olduğunu iddia etse bile onu geri vermekle
+yükümlüdür.
+
+(2) Davalı, o şeyi davacıdan geri almasını gerektirecek üstün bir hakka sahip
+olduğunu derhâl ispat ederse onu geri vermekten kaçınabilir.
+
+(3) Dava, şeyin geri verilmesine ve zararın giderilmesine yönelik olur.
+****
++
+CAUTION: Malın iadesindeki dava herhangi bir hakka dayanmak zorunda olmadan
+açılabilen bir davadır.
++
+Davalı o şeyi davacıdan geri almasını gerektirecek üstün bir hakka sahip
+olduğunu derhal ispat ederse o malı vermekten kaçınabilir. Ancak bu sınırlı bir
+korumadır. Çünkü burada uzun uzadıya gerçek hak sahibinin araştırılması söz
+konusu değildir. Eğer davalı kanıt bulamaz veya kanıt sunmak için mahkemeden
+süre isterse malı geri vermek zorundadır. *Bu şekilde bir karar mal üzerindeki
+hak durumu bakımından kesin hüküm teşkil etmez*. Gerçek hak sahibi, mülkiyet
+hakkını ispat ederek malı geri alabilir, ama bu dava içinde değil. *Gasp halinde
+malın iadesi davası saf olarak zilyetliği koruyan bir davadır*.
++
+Davalı açısından kusur aranmaz, kusursuz da olsa malı iade etmek zorundadır.
+Ancak davalıdan gasp dolayısıyla zararlarının tazmininin istenebilmesi için
+davalının kusurlu olması şarttır.
++
+WARNING: İade için kusur şart değildir ama zararın tazmini için kusur ve
+tazminat bakımından gerekli olan diğer bütün unsurlar da şarttır.
++
+Gasp halinde davayı asli zilyet de fer'i zilyet de, dolaylı zilyet de dolaysız
+zilyet de açabilir. 
++
+CAUTION: Dolaysız zilyet ve dolaylı zilyet varsa ve dolaylı zilyet iade davası
+açıyorsa malın iadesi *ancak dolaysız zilyede* istenebilir.
++
+Fer'i zilyet, asli zilyedin mülkiyet hakkını tanımadığı an onun zilyetliğini
+gasp etmiş olur. Dolayısıyla asli zilyet bu durumda fer'i zilyede karşı iade
+davası açabilir.
+
+* Saldırı halinde dava saldırının sona erdirilmesine, sebebinin önlenmesine ve
+  zararın giderilmesine yönelik açılır.
++
+****
+*MK 983*: (1) Saldırıda bulunan, şey üzerinde bir hak iddia etse bile;
+zilyetliği saldırıya uğrayan, ona kariı dava açabilir.
+
+(2) Dava, saldırının sona erdirilmesine, sebebinin önlenmesine ve zararın
+giderilmesine yönelik olur.
+****
++
+*Saldırının sona erdirilmesi* zilyetliğin istenilen şekilde kullanılmasına
+engel olan durumların ortadan kaldırılmasıdır.
+
+TIP: MK 982 ve MK 983 arasındaki en önemli fark, davalının gasp halinde üstün
+hakkını derhal ispat etmesi durumunda onu geri vermekten kaçınabilmesine
+karşılık, saldırıya karşı açılacak davada davalı böyle bir üstün hakkını ispat
+etse bile yine de o saldırıya son vermek zorunda olmasıdır.
+
+* MK 982 ve MK 983'deki dava hakları kısa hak düşürücü süreye tabi tutulmuştur. 
++
+****
+*MK 984*: Gasp ve saldırıdan dolayı dava hakkı, zilyedin fiili ve failini
+öğrenmesinden başlayarak iki ay ve her hâlde fiilin üzerinden bir yıl geçmekle
+düşer.
+****
++
+CAUTION: Tazminat davası her zaman genel hükümlere tabidir. Dolayısıyla gasp
+veya saldırıdan dolayı uğranan zararların tazmini için açılacak tazminat davası
+haksız fiil zamanaşımı sürelerine (TBK 72) tabidir.
++
+Bu davalar sulh mahkemelerinde açılır ve basit yargılama usulünde görülür.
+
+* Bir mal üzerinde zilyetliğe sahip olan kimsenin o mal üzerinde sahip olduğunu
+  iddia ettiği hakka zilyetliği karine teşkil eder.
++
+****
+*MK 985*: (1) Taşınırın zilyedi onun maliki sayılır.
+
+(2) Önceki zilyetler de zilyetlikleri süresince o taşınırın maliki sayılırlar.
+****
++
+MK 985/2 önceki zilyedin şimdiki zilyede açtığı bir davada önceki zilyetliğine
+dayanabilmesini sağlar. Yine malı kendi rızasıyla devretmişse kendi zilyetliği
+boyunca mala gelen zararlar dolayısıyla artık kendi zilyetliği bitmiş olsa bile
+üçüncü kişilere açabileceği davalarda üstün hakkını ispat etmesine yöneliktir.
+
+* Kanunda sınırlı ayni hak sahipleri veya kişisel hak sahipleri bakımından da
+  malı iyiniyetle aldıkları kişinin mülkiyet karinesine dayanabilme imkanı
+  getirilmiştir.
++
+****
+*MK 986*: (1) Bir taşınıra malik olma iradesi bulunmaksızın zilyet olan kimse,
+taşınırı kendisinden iyiniyetle aldığı kişinin mülkiyet karinesine dayanabilir.
+
+(2) Taşınıra bir sınırlı aynî hak veya kişisel hak iddiasıyla zilyet bulunan
+kimsenin iddia ettiği hakkın varlığı karine olarak kabul edilir. Ancak, zilyet
+bu karineyi şeyi kendisine vermiş olan kişiye karşı ileri süremez.
+****
++
+Fer'i zilyetlerin de iddia ettikleri hakkın varlığı zilyetlikleri dolayısıyla
+karine olarak kabul edilir. Ancak bu üstün hak karinesi şeyi aldıkları kişiye
+karşı ileri sürülemez, sadece üçüncü kişilere karşı ileri sürülebilir. Şeyi
+aldıkları kişiye karşı MK 6 ve HMK 190 çerçevesinde hak sahipliklerini ispat
+ile yükümlüdürler.
++
+Sınırlı ayni hak sahibi ve kişisel hak sahibi, malı kendisine verenin mülkiyet
+hakkı karinesine dayandıkları sürece bu malı üçüncü kişilere vermekten
+kaçınabilirler.
++
+[NOTE]
+====
+Sınırlı ayni hak sahibi ve kişisel hak sahibinin malı kendilerine verenin
+mülkiyet hakkı karinesine dayanmadan kendi hak karinelerine dayanarak malı
+üçüncü kişilere vermekten kaçınma imkanı var mıdır?
+
+Sınırlı ayni hak sahibi, kendi sınırlı ayni hak karinesini ileri sürerek malı
+üçüncü kişiye vermekten kaçınabilir. Fakat kişisel hak sahibi, kendi hak
+karinesine dayanarak malı üçüncü kişilere vermekten kaçınamaz.
+
+CAUTION: *ZİLYETLİK HAKKIN NİTELİĞİNİ DEĞİŞTİRMEZ, ONA AYNİ BİR ETKİ SAĞLAMAZ.*
+====
++
+[TIP]
+====
+Kiracılık hakkında istisnai bir hüküm vardır. Mal el değiştirirse üçüncü
+kişi kanun gereği kendiliğinden sözleşmenin tarafı haline gelir, dolayısıyla
+sözleşme ile bağlı olacağından artık kiracı kişisel hakkını üçüncü
+kişiye karşı ileri sürebilir.
+
+****
+*TBK 310*: Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el
+değiştirirse, yeni malik kira sözleşmesinin tarafı olur.
+
+*TBK 311*: Sözleşmenin kurulmasından sonra üçüncü bir kişi, kiralanan üzerinde
+kiracının hakkını etkileyen bir ayni hak sahibi olursa, kiralananın el
+değiştirmesiyle ilgili hükümler kıyas yoluyla uygulanır.
+****
+====
+
+* İki zilyet karşı karşıya ise halihazırdaki zilyet tercih edilir.
++
+****
+*MK 987*: (1) Bir taşınırın zilyedi, kendisine karşı açılan her davada üstün
+hakka sahip olduğu karinesine dayanabilir.
+
+(2) Gasp veya saldırıya ilişkin hükümler saklıdır.
+****
++
+Sadece gasp halinde davalı üstün hak karinesine dayanamaz, ancak mal üzerinde
+onu davacıdan geri almasını gerektirecek üstün hakkını ispat ederek iade
+etmekten kurtulabilir.
+
+* *Taşınır davası*, zilyetliği iradesi dışında sona ermiş olan zilyede tanınan
+  bir dava hakkıdır. Bu zilyet asli zilyet olabileceği gibi fer'i zilyet de
+  olabilir. Dolaysız zilyetler de bu davayı açabileceği gibi, dolaylı zilyetler
+  de açabilir. Ancak dolaylı zilyet bu davayı açarsa malın iadesinde o malın
+  kendisine değil dolaysız zilyede iadesini talep eder.
+
+CAUTION: Taşınır davası açılabilmesi için zilyetliğin irade dışında sona
+erdirilmiş olması gerekmektedir.
+
+[NOTE]
+====
+Kiracı malı elinde tutarken kira sözleşmesi sona ermeden önce malik kiracının
+elindeki malı gasp etse, kiracı maliğe karşı zilyetlikten doğan üstün hak
+karinesine dayalı olarak taşınır davası açabilir mi?
+
+Kişisel hak iddiasıyla zilyet bulunan kimsenin iddia ettiği hakkının varlığı
+karine olarak kabul edilir. *Ancak zilyet bu karineyi şeyi kendisine vermiş
+olan kişiye karşı ileri süremez.* 
+
+Kiracı, maliğe karşı kiracı sıfatıyla zilyet olduğunu ve bundan dolayı üstün
+hak karinesinin geçerli olduğunu ileri süremez. Böyle bir durumda ancak
+zilyetliğine karşı yapılan gasp davası açabilir. Veya taraflar arasındaki
+sözleşmeden doğan hakkını ispatlayacak şekilde bir sözleşmeye aykırılık davası
+açabilir. Sözleşme çerçevesinde malın iadesini isteyebilir.
+
+Buna karşılık burada kiracı değil de sınırlı ayni hak sahibi rehin alan
+olsaydı, rehin alan malı sınırlı ayni hakkına dayanarak geri isteyebilirdi.
+Ancak malı kendisine veren kişiye karşı üstün hak karinesini ileri
+süremeyeceğinden sınırlı ayni hakkını ispatlamak zorunda kalırdı.
+
+Ancak kiracı da rehin alan da hak karinelerine hırsıza karşı dayanabilirler.
+Rehin alan zaten her zaman sınırlı ayni hakkını ispat edip üçüncü kişilere
+karşı dava açabilir. Kiracı ise burada ancak zilyetliğe dayanabilir.
+Zilyetliğe karşı gasp davası açabilir veya zilyetlikten doğan hak karinesine
+dayanarak taşınır davası açabilir. *Ama ayni hak sahibi olmadığı için üçüncü
+kişilere ayni hakka dayalı dava açamaz. Ne zilyetlik ne de zilyetliğe dayalı
+hak karinesi bir hakkın niteliğini değiştirmez ve ona ayni hak etkisi vermez ya
+da onu etkisi kuvvetlendirilmiş nisbi hak haline sokmaz. Dolayısıyla kiracı
+sanki ayni hak sahibiymiş gibi üçüncü kişilere karşu bu karineyi ileri süremez.*
+
+Malik taşınmazı bir üçüncü kişiye satarsa rehin alan ve kiracı nasıl ki üstün
+hak karinelerini şeyi kendilerine vermiş olan kişiye karşı ileri süremiyorlarsa
+o şeyi maliğin rızasıyla devralmış kişiye karşı de üstün hak karinelerini
+ileri süremezler. Ancak yine üstün hak karinesini ileri süremiyor oluşu rehin
+alanın sınırlı ayni hakkını ispatlayarak satın alan üçüncü kişiye karşı ileri
+süremeyeceği anlamına gelmez. Kiracı ise üstün hakkını satın alan üçüncü kişiye
+karşı ileri süremez zira  bu üçüncü kişi maliğin yerine geçmiştir. Kiracılık
+hakkı da üçüncü kişilere karşı ileri sürülebilecek bir ayni hak sağlamadığı
+için de kiracılıktan doğan hakkını da ileri süremyecektir. Bu durumda kiracı
+ancak taraflar arasındaki sözleşme TBK 310 gereği yeni maliki de bağladığı
+ölçüde kişisel hakkını bu yeni malike karşı ileri sürebilir.
+====
+
+* Önceki zilyedin hak karinesine dayalı olarak taşınır davası sonucu malın
+  iadesini sağlayabilmesi için iki husustan birini ispat etmesi gerekir.
+
+. *Halihazırdaki zilyedin iyiniyetli olmadığının ispatı*
++
+****
+*MK 991*: (1) Bir taşınırın zilyetliğini iyiniyetle edinmemiş olan kimseye
+karşı önceki zilyet, her zaman taşınır davası açabilir.
+
+(2) Eğer önceki zilyet de, zilyetliği iyiniyetle edinmemiş ise sonraki zilyede
+karşı taşınır davası açamaz.
+****
++
+*İki tane kötü niyetli zilyet varsa halihazırdaki zilyet tercih edilir.*
+. *Zilyetliğin iradesi dışında sona erdiği + malın iradesi dışında elinden
+  çıktığı*
++
+****
+*MK 989*: Taşınırı çalınan, kaybolan ya da iradesi dışında başka herhangi bir
+şekilde elinden çıkan zilyet, o şeyi elinde bulunduran herkese karşı beş yıl
+içinde taşınır davası açabilir.
+****
++
+CAUTION: Burada sadece zilyetliğin iradesi dışında sona erdiğini değil, aynı
+zamanda malın da iradesi dışında elden çıktığını ispat etmek zorundadır.
++
+Kiracı, rehin alan, taşıyıcı, tamirci gibi malikin kendi rızasıyla malı
+bıraktığı emin sıfatıyla zilyetten iyiniyetli üçüncü kişilerin kazanımı
+korunur. Malik bunlara karşı taşınır davası açamaz. Burada malikin yapabileceği
+tek şey aralarındaki ilişkiye aykırı davranmış olmaları nedeniyle kiracı, rehin
+alan, taşıyıcı veya tamirciye karşı sözleşmeden doğan tazminat davası açmaktır.
++
+****
+*MK 988*: Bir taşınırın emin sıfatıyla zilyedinden o şey üzerinde iyiniyetle
+mülkiyet veya sınırlı aynî hak edinen kimsenin edinimi, zilyedin bu tür
+tasarruflarda bulunma yetkisi olmasa bile korunur.
+****
+
+* Taşınır davası açan kişi öncelikle önceki zilyet olduğunu ispat etmelidir.
+  Sonra taşınır davasının olmazsa olmazı olan zilyetliğin iradesi dışında
+  elinden çıktığını ispat edecektir. Bunun dışında ya zilyetliği elinde
+  bulunduran halihazırdaki zilyedin kötü niyetli olduğunu ispat edecek, bunu
+  ispat edemiyorsa sadece zilyetliğin iradesi dışında elinden çıktığını değil
+  aynı zamanda malın da iradesi dışında elinden çıktığını ispat edecektir.
+
+* Malik malı kiracıya veya rehin alana malı rızasıyla vermiş olsa dahi onların
+  elinden iradeleri dışında çıkınca malikin de iradesi dışında çıkmış sayılır.
+
+* *Mal zilyedinin elinden bir defa rızası dışında çıkmışsa hep rıza dışında
+  çıkmış sayılır.*
+
+* Bir kere malı rızası dışında elinden çıkan malik malı elinde bulunduran
+  herkese karşı MK 989/1 uyarınca taşınır davası açabilir. Ancak kanun koyucu
+  bu imkanı üç bakımdan sınırlandırmıştır.
+
+. *Para ve hamile yazılı senetler* malikin iradesi dışında çıkmış olsa bile
+  bunları edinen *iyiniyetli* üçüncü kişilere karşı taşınır davası açılamaz.
++
+****
+*MK 990*: Zilyet, iradesi dışında elinden çıkmış olsa bile, para ve hamile
+yazılı senetleri iyiniyetle edinmiş olan kimseye karşı taşınır davası açamaz.
+****
+. *Beş yıllık hak düşürücü süre* sonunda *iyiniyetli* zilyetlere karşı dava
+  açılamaz. Bu beş yıllık hak düşürücü süre malın rıza dışında elden çıkması
+  anından itibaren işlemeye başlayacaktır.
+. Üçüncü kişi bu malı *açık artırmadan veya pazardan ya da benzeri eşya satan
+  yerlerden iyiniyetle* edinmişse, taşınır davası ancak *ödenen bedelin geri
+  verilmesi koşuluyla* açılabilir.
++
+****
+*MK 989/2*: Bu taşınır, açık artırmadan veya pazardan ya da benzeri eşya
+satanlardan iyiniyetle edinilmiş ise; iyiniyetli birinci ve sonraki edinenlere
+karşı taşınır davası, ancak ödenen bedelin geri verilmesi koşuluyla açılabilir.
+****
++
+Bu bedelin ödenmesini isteme sadece bir def'i oluşturur. Bu bedel ödenmediği
+sürece malı iadeden kaçınılabilir. Mal rızası dışında elinde çıkmış kişi bedeli
+ödedikten sonra malı zilyedin rızası dışında alan kişiye rücu edebilir, aynı
+şekilde malı iade ederken bu bedeli istemeyen iyiniyetli üçüncü kişi daha sonra
+malı aldığı kişiden bu bedeli isteyebilir.
+
+* Malik malı rızasıyla vermiş olmasına rağmen burada bir hata hali söz
+  konusuysa rıza dışında elinden çıkmış sayılmaz. Zira malik kendi hatasının
+  sonuçlarına katlanmak zorundadır. Ancak tehdit veya aldatma hali söz
+  konusuysa rıza dışı elden çıkmış sayılır.
+
+* Taşınmazlarda hak karinesinden sadece tapu sicilinde malik olarak kayıtlı
+kimse yararlanabilir. Yine sınırlı ayni hak sahibi de kendi haklarına dayalı
+olarak hak karinesinden yararlanabilir.
++
+[caption=""]
+.Taşınmazlarda karine
+====
+*MK 992/1*: Tapuya kayıtlı taşınmazlarda, hak karinesinden ve zilyetlikten
+doğan dava açma hakkından yalnız adına tescil bulunan kimse yararlanır.
+====
++
+Gasp ve saldırı davalarından ayni hak sahibi olmayan ama fiilen taşınmazları
+kullanan örneğin kiracı da yararlanabilir.
++
+====
+*MK 992/2*: Bununla birlikte taşınmaz üzerinde fiilî hâkimiyeti bulunan kimse,
+gasp veya saldırı sebebiyle dava açabilir.
+====
+
+* Taşınır veya istihkak davası sonucu malı geri vermekle yükümlü olan
+*iyiniyetli* zilyet, şeyi karineyle mevcut hakkına uygun şekilde kullanmış ise
+geri vermekle yükümlü olduğu kişiye karşı herhangi bir tazminat ödemek zorunda
+değildir.
++
+====
+*MK 993*: (1) İyiniyetle zilyedi bulunduğu şeyi, karineyle mevcut hakkına uygun
+şekilde kullanan veya ondan yararlanan zilyet, o şeyi geri vermekle yükümlü
+olduğu kimseye karşı bu yüzden herhangi bir tazminat ödemek zorunda değildir.
+
+(2) İyiniyetli zilyet, şeyin kaybedilmesinden, yok olmasından veya hasara
+uğramasından sorumlu olmaz.
+====
++
+[NOTE]
+====
+Malik ile kiracı arasındaki kira sözleşmesi sona erdikten sonra kiracının
+malike kiraya konu olan şeyi iade etme borcu doğar. Bu durumda MK 993 vd.
+hükümleri uygulanacak mıdır?
+
+*Hayır*, zira taraflar arasında bir sözleşme ilişkisi olduğundan o sözleşme
+ilişkisinin sona ermesinden doğan iade talepleri sözleşme çerçevesinde
+incelenir ve iade de buna göre yapılır. 
+
+Fakat kira sözleşmesi çerçevesinde mal kiracıya teslim edildikten sonra
+sözleşmenin geçersiz olduğu ortaya çıkarsa bu durumda zilyetliğin iadesi
+hükümleri çerçevesinde malın iadesi söz konusu olacaktır.
+
+Sözleşme bir irade sakatlığı sebebiyle geçersizse korkutma, aldatma ve yanılma
+sebepleri arasında ayrım yapılır. Sözleşme hata sebebiyle iptal edildiyse kişi
+kendi hatasının sonuçlarına katlanmak zorunda olduğundan zilyetliğin iadesine
+ilişkin hükümler uygulanmaz. Fakat aldatma ve korkutma sonucunda bir sözleşme
+iptal edildiyse ve o sözleşme çerçevesinde zilyetlik geçirildiyse malın iadesi
+için zilyetliğin iadesi hükümleri uygulanacaktır.
+====
++
+[TIP]
+====
+Bir kişi başlangıçta iyiniyetliyken sonradan kötü niyetli olursa ne olacaktır?
+
+Bu durumda eğer ki kişinin malı elde ettiği ilk anda iyiniyetli olması onun bir
+hak iktisap etmesine yaramıyorsa (örneğin MK 988 uyarınca emin sıfatıyla
+zilyetten iyiniyetle kazanmışsa o anda iyiniyetli olması hak iktisabı
+bakımından yeterlidir) kişinin iyiniyetli olduğu süre boyunca iyiniyetli
+zilyedin iade hükümleri uygulanacaktır. Kötü niyetli olduğu andan itibaren ise
+iyiniyetli olmayan zilyedin iade hükümleri uygulanır. 
+
+İyiniyetli olduğu dönem için MK 993-994, kötü niyetli olduğu dönem için MK 995
+uygulanacaktır.
+====
++
+İyiniyetli zilyedin ilk yükümlülüğü malı geri vermektir. Dolayısıyla taşınırlar
+bakımından öncelikle taşınırın iadesi gerekir. Ancak MK 993/2 ile taşınırın
+iadesi için iyiniyetli zilyedin iade yükümlülüğü sınırlandırılmıştır. Buna göre
+mevcut hak karinesine uygun olarak malı tüketme hakkı bulunan zilyet malı
+kaybetmiş, yok etmiş ve hasara uğratmış ise bundan sorumlu olmayacaktır. Elinde
+şey ne durumdaysa zilyetliği de yine o durumda iade edecektir.
++
+Şey eğer üçüncü kişiye devredilmişse iyiniyetli zilyet eline geçen ikame
+değerle sorumlu olacaktır. Ama burada da malın tam olarak birebir piyasa değeri
+istenmeyecek sebepsiz zenginleşme hükümleri çerçevesinde elinde ne kaldıysa
+sadece onu iade edecektir.
++
+MK 993 hükümleri sadece taşınır davası, istihkak davası veya sınırlı ayni hakka
+dayalı davalar açılmışsa söz konusu olacaktır.
++
+CAUTION: Gasp sebebiyle iade davası açılmış ise zilyetlik hükümleri uygulanmaz
+zira gasp davasında hak tartışmasına girilmez. 
+
+* MK 994 uyarınca iyiniyetli zilyet yaptığı *zorunlu* ve *yararlı* masraflar
+için karşı taraftan belirli miktarda tazminat talep edebilecektir.
++
+====
+*MK 994*: (1) İyiniyetli zilyet, geri vermeyi isteyen kimseden şey için yapmış
+olduğu zorunlu ve yararlı giderleri tazmin etmesini isteyebilir ve bu tazminat
+ödeninceye kadar şeyi geri vermekten kaçınabilir.
+
+(2) İyiniyetli zilyet, diğer giderler için tazminat isteyemez. Ancak, şeyin
+geri verilmesinden önce kendisine bu giderler için bir tazminat önerilmezse,
+kendisi tarafından o şeyle birleştirilen ve zararsızca ayrılması mümkün bulunan
+eklemeleri o şeyi geri vermeden önce ayırıp alabilir.
+
+(3) Zilyedin elde ettiği ürünler, yaptığı giderler sebebiyle doğan alacaklarına
+mahsup edilir.
+====
+
+* İyiniyetli olmayan zilyedin iade borcu MK 995'te düzenlenmiştir.
++
+====
+*MK 995*: (1) İyiniyetli olmayan zilyet, geri vermekle yükümlü olduğu şeyi
+haksız alıkoymuş olması yüzünden hak sahibine verdiği zararlar ve elde ettiği
+veya elde etmeyi ihmal eylediği ürünler karşılığında tazminat ödemek
+zorundadır.
+
+(2) İyiniyetli olmayan zilyet, yaptığı giderlerden ancak hak sahibi için de
+zorunlu olanların tazmin edilmesini isteyebilir.
+
+(3) İyiniyetli olmayan zilyet, şeyi kime geri vereceğini bilmediği sürece ancak
+kusuruyla verdiği zararlardan sorumlu olur.
+====
++
+İyiniyetli olmayan zilyedin malı kullandığı için de bir tazminat ödemek zorunda
+olduğu kural olarak kabul edilir. Buna *ecrimisil* denilmektedir.
++
+Ecrimisilin hukuki niteliği tartışmalıdır. Doktrindeki bazı yazarlar haksız
+zilyedin elde etmeyi ihmal ettiği değerler kapsamında dikkate alınacağını, bazı
+yazarlar gerçek olmayan vekaletsiz iş görme hükümleri çerçevesinde talep
+edilebileceğini, kimi yazarlar ise sebepsiz zenginleşme hükümleri çerçevesinde
+değerlendirileceğini savunmaktadırlar. 
++
+.Yargıtay'ın İçtihadı Birleştirme Kararları
+****
+
+[caption=""]
+.09.12.1931 gün ve 23/44 sayılı İBK
+====
+Ecrimisil tazminatının haksız fiil niteliği taşımadığı dolayısıyla haksız fiil
+zamanaşımı süresine tabi olmadığı belirtilmiştir.
+====
+
+[caption=""]
+.25.05.1938 gün ve 29/10 sayılı İBK
+====
+Ecrimisil tazminatının niteliğini kira bedeline benzetmiş ve ecrimisil
+davalarında TBK 126 gereğince beş senelik zamanaşımının uygulanacağı
+belirtmiştir.
+====
+
+[caption=""]
+.08.03.1950 gün ve 22/4 sayılı İBK
+====
+Bu karar ile 25.05.1938'teki kararda belirtilen görüşten dönülmüş, fuzuli
+işgalin kiraya benzetilemeyeceğini, bunun bir haksız fiil sayılması gerektiğini
+ve bu sebeple ancak bir zarar meydana gelirse tazmin ettirilebileceği kabul
+edilmiştir. Bu karar göre bir kimsenin kiraya vermediği ve vermeyeceği bir
+taşınmazı diğer bir kimse işgal eder ve kullanırsa, ortada bir zarar
+olmadığından hareketle tazmini de gerekmeyecektir.
+====
+
+[caption=""]
+.04.06.1958 gün ve 15/6 sayılı İBK
+====
+Bu karar ile ecrimisil davalarının hem gerçek olmayan vekaletsiz iş görme hem
+de haksız zilyedin iadesi hükümlerine tabi olacağı belirtilmiş ve 10 yıllık
+zamanaşımı süresinin uygulanacağına karar verilmiştir.
+====
+
+Yargıtay bugün de 1950 tarihli içtihadı birleştirme kararına uygun olarak
+ecrimisil tazminatını haksız fiil çerçevesinde değerlendiriyor.
+****
++
+İyiniyetli olmayan zilyet MK 995/2 uyarınca *sadece zorunlu giderleri*
+isteyebilecektir. Ayrıca zorunlu giderlerin araştırması haksız zilyede göre
+değil hak sahibi olan ve iade talep eden malike göre yapılır.
++
+İyiniyetli olmayan zilyet, haklı zilyedin kim olduğunu bilmediği sürece *ancak
+kusuruyla verdiği zararlardan* sorumlu olacaktır. Bu hal dışında bütün
+zararlardan kusursuz sorumludur.
++
+CAUTION: Kusursuz sorumluluk verdiği bütün zararlardan sorumlu olduğu anlamına
+gelmez. Haksız fiilin diğer bütün şartları gerçekleşmiş olduğu takdirde kusurun
+aranmayacağı anlamına gelir.

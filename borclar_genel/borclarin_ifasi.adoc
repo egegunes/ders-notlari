@@ -1,0 +1,2016 @@
+= BORÇLARIN İFASI
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+İfa, Borçlar Kanununda tarif edilmiş değildir. "İfa, borçlanılan edimin yerine
+getirilmesidir" şeklinde bir tanım yapılabilir. Bu tanımın içine her türlü
+edimin yerine getirilmesi girer.
+
+== 1- İFADA BORÇLUNUN ROLÜ
+
+=== I- KURAL
+
+Normal olarak borç borçlu tarafından ifa edilir. Fakat borçlunun ifayı bir
+üçüncü kişiye yaptırmak veya kendi yapacağı ifada yardımcı olarak üçüncü
+kişileri kullanmak istemesi halinde buna hukuken izin verilip verilmeyeceği
+sorusu ortaya çıkar. 
+
+.TBK m.83
+....
+Borcun bizzat borçlu tarafından ifa edilmesinde alacaklının menfaati
+bulunmadıkça, borçlu borcunu şahsen ifa etmekle yükümlü değildir.
+....
+
+Şüphesiz ki bu bir yedek hukuk kuralıdır. Taraflar borcun bizzat borçlu
+tarafından ifası gerektiği veya gerekmediği hususunda diledikleri şekli
+kararlaştırabilirler. Şayet taraflar bu hususu kararlaştırmış değilse borcun
+bizzat borçlu tarafından ifası gerekip gerekmediği TBK m.83'deki esasa göre
+tayin edilecektir. Şöyle ki:
+
+. Bizzat borçlu tarafından ifada alacaklının menfaati bulunan hallerde borçlu
+borcu şahsen ifa ile yükümlüdür. Alacaklının borcun bizzat borçlu tarafından
+ifasında menfaati bulunup bulunmadığı araştırılırken, bunun hukuka uygun ve
+özellikle dürüstlük kuralı uyarınca gözönünde tutulmaya değer bir menfaat
+olmasına dikkat edilecektir. Özellikle, yapma borçlarında borçlunun bilgisi,
+becerisi, deneyimi, kişiliği gibi kişisel niteliklerinin ve özelliklerinin rol
+oynadığı hallerde, borcun bizzat borçlu tarafından ifasında alacaklının
+menfaati vardır. Borçlar Kanunu, hizmet sözleşmesinde (TBK m.395), eser
+sözleşmesinde (TBK m.471/3), vekalet sözleşmesinde (TBK m.506) kural olarak
+borçlu tarafından ifa zorunluluğunu kabul etmiştir.
++
+Borçlu borcu bizzat ifa zorunda olduğu hallerde yerine başkasını geçiremez. Fakat kendi yönetimi altında yardımcı kişi kullanması mümkün olabilir. Bu konuda da gene borç ilişkisinin niteliğine bakılacaktır.
++
+TIP: Bir ameliyat yapma borcu yüklenen operatör, bir elbise dikme borcu
+yüklenen terzi, bir ev inşası borcu yüklenen mühendis kendi yerine başkasını
+geçiremez; fakat, operatör ameliyat sırasında yardımcı olarak asistan ve
+hemşire, terzi yardımcı olarak kalfa, mühendis yardımcı olarak çeşitli işçiler
+kullanabilir. Söz konusu edimlerin niteliği yardımcı kullanılmasına uygun
+bulunmakta, hatta bazen yardımcı kullanılmasını zorunlu kılmaktadır. Buna
+karşılık dikeceği elbisenin her işinin bizzat yapmayı taahhüt eden terzi
+yardımcı da kullanamaz.
++
+Yapmama borçlarında da, borcu bizzat borçlu ifa etmek zorundadır; yani kaçınma
+yükümlülüğüne şahsen uyması gerekir.
++
+. Buna karşılık, borcun borçlu veya üçüncü şahıs tarafından ifasının alacaklı
+için farksız olduğu hallerde, borçlu borcun ifasını bir üçüncü kişiye
+bırakabilir.
++
+Borçlunun kendi yerine başkasını geçirmesi imkanı, verme borçlarında ve özellikle para ödenmesinde mevcuttur. 
++
+TIP: Bir alım satım sözleşmesinde alıcının satış bedelini ödeme borcunu
+borçlunun (alıcının) veya bir üçüncü kişinin yerine getirmesi alacaklı (satıcı)
+için fark yaratmaz. Keza satılan malın satıcı veya bir üçüncü tarafından
+teslimi alıcı için esas olarak farksızdır.
++
+Yapma borçlarında da bazen borcun bizzat borçlu tarafından ifasında alacaklının
+menfaati bulunmayabilir. Borçlunun şahsının önem taşımadığı yapma borçları
+böyledir. Nitekim TBK m.471/3'de, eser sözleşmesinde eserin meydana
+getirilmesinde yüklenicinin (müteahhidin) kişisel Özellikleri önem taşımıyorsa,
+yüklenicinin üstelnediği şeyi başkasına da yaptırabileceği açıklanmıştır. Bu
+imkana hizmet sözleşmesinde (TBK m.395), vekalet sözleşmesinde (TBK m.506) de
+işaret edilmiştir. Fakat hemen açıklamak gerekir ki, kanunun tanıdığı imkana
+dayanarak borçlu ister borcun ifasını üçüncü kişiye bırakmış, isterse kendi
+yaptığı ifada üçüncü kişiyi yardımcı olarak kullanmış olsun, borcun gereği gibi
+ifasının sorumluluğu borçlunun üzerindedir (TBK m.116).
+
+=== II- BORÇLU TARAFINDAN İFADA GÖZÖNÜNE ALINACAK ESASLAR
+
+. Borçlunun bir eyleminin veya işleminin ifa oluşturabilmesi için _ifa maksadı_
+ile davranmış olması gerekip gerekmediği ifanın niteliğinin belirlenmesine
+bağlanan tartışmalı bir konudur.
++
+Bir görüşe göre, ifa daima sözleşme niteliğine bir hukuki işlemle olur. İfanın
+iki unsurunun biri maddi fiil diğeri hukuki işlemdir. Borçlu ve alacaklı edimin
+yerine getirmesi sırasında bunun ifa olduğu konusunda anlaşmalıdır. Bu görüş
+sonucu, hiçbir zaman alacaklının rıza beyanı bulunmadan borçlu ifada
+bulunamayacak ve sınırlı ehliyetsiz borçlunun yapacağı her tür edimin ifası
+kanuni temsilcisinin onayına bağlı olacaktır.
++
+Bir başka görüşe göre, ifa daima maddi bir fiili ifade eder. Bir hukuki işlemle
+ifanın gerçekleştiği durumlarda (mülkiyet nakli, alacak temliki vb.) dahi, bu
+hukuki işlme ifanın bir unsuru değil, maddi sonucun sağlanmasının gerçekleşme
+aracıdır. Bu görüş sonucu, ifanın gerçekleşmiş sayılması için alacaklı ve
+borçlunun bu konuda anlaşması şart değildir. Örnek olarak, bağışlama sözleşmesi
+borçlusunun kendisini satım sözleşmesi satıcısı sanarak karşı tarafa mülkiyeti
+nakletmesi halinde, bu nakille bağış sözleşmesi ifa edilmiş olacaktır.
++
+Nihayet üçüncü bir görüşe göre, her türlü edim borcunun ifasını kapsayacak
+genel bir kural getirilemez. Bazı edimlerin ifası, borçlunun bu borcunu ifa
+amacıyla davranmasıyla hatta bu hususta alacaklıyla sözleşme yapmasıyla, bazı
+edim borçları ise sadece maddi sonucun sağlanmasıyla ifa edilir.
++
+Şöyle ki:
+Yapmama borçlarında önemli olan borca aykırı davranılmamış olmasıdır. Borca
+aykırı davranmamanın iradi olup olmadığını araştırmakta hiçbir fayda yoktur.
+İradenin rolü olmadığı için borçlunun ehliyet durumu da önem taşımaz. Örneğin,
+rekabet etmeme borcu altındaki kimse, borca uygun davrandığı ve rekabet
+etmediği sürece, onun davranışının isteyerek olup olmadığını veya ehliyetli
+olup olmadığını araştırmaya lüzum yoktur.
++
+Maddi bir fiilin icrasına ait borçlarda da fiilin icrası borca uygun olduğu
+takdirde borçlunun ifa maksadını ve ehliyetini araştırmanın bir faydası yoktur.
++
+Buna karşılık, borcun ifası bir hukuki işlem yapılması şeklinde
+gerçekleşiyorsa, borçlunun ifa kasıyla davranmasıi yapılan işlemin ifa
+sayılması için zorunludur ve borçlunun ehliyeti önem taşır.
++
+Eğer yapılan işlem borca uygun bir davranış ise, bunun ifa kasdıyla yapıldığı
+aslolarak kabul edilebilir. Ancak aksi ispat edilirse yapılan işlemin ifa
+olmadığı sonucuna varılır. 
++
+TIP: (A)'ya yüz milyon lira borçlu olan (B), (A)'ya yüz milyon lira verince
+aslolarak yüz milyon liralık borcunu ödemek amacıyla bu parayı verdiği kabul
+edilir. Fakat (A) bu paranın borcun ödenmesi için değil, bağış veya ödünç
+olarak verildiğini ispat ederse (B) yüz milyon liralık borcundan kurtulmuş
+olmaz. Keza aynı nitelikte birden çok borcu bulunan kimsenin yaptığı bir ifanın
+hangi borca ait olduğu da gene borçlunun maksadına göre belirlenir. TBK
+m.101-102 para borçlarında bu maksadın açıklanmamış olması halinde uygulanacak
+kuralları belirtmektedir.
+
+. Borcun ifasının bir hukuki işlem tarzında olması halinde borçlunun ifa
+kasdıyla hareket etmesi gerektiği için bu hukuki işlemi yapan borçlunun _fiil
+ehliyeti_ de önem taşır. Borçlu ifa sırasında ayırt etme gücüne sahip değilse
+yaptığı hukuki işlem hükümsüz olduğu (MK m.15) için borç ifa edilmiş olmaz.
+Borçlu ayırt etme gücüne sahip küçük veya kısıtlı ise, yaptığı hukuki işlemin
+geçerliliği kanuni temsilcisinin izni bulunmasına veya sonradan onay vermesine
+bağlıdır. İzin veya onay verilmezse ifa hükümsüz kalır (MK m.16, 451).
++
+Borçlunun ehliyetsizliği sebebiyle ifanın geçerli olmaması yüzünden verilen şey
+geri istendiği zaman, alacaklının def'i yoluyla alacağını ileri sürebileceği
+yani borç ifa edilmedikçe aldığını iadeden kaçınabileceği ve şayet verilen şey
+para ise, alacağı ile takas edebileceği öğretide kabul edilmektedir.
+
+. İfa oluşturan hukuki işlem çok zaman bir tasarruf işlemi karakteri taşır ve
+ifayı gerçekleştiren tasarruf işleminin geçerliliği için borçlunun fiil
+ehliyeti_ yetmez; ayrıca _tasarruf yetkisinin_ de bulunması gerekir. Bir malın
+mülkiyetinin nakli borcunun ifasına, alacağın devrinde durum böyledir.
+Borçlunun tasarruf yetkisinin bulunmaması, ya tasarruf edeceği hakka sahip
+olmamasından veya kendine ait hakta tasarruf yetkisinin kısıtlanış olmasından
+ileri gelir. Kendisine emanet olarak bırakılan veya çaldığı malı satan kimse,
+bu satıştan doğan mülkiyeti nakil borcunu ifa edemez. Çünkü mülkiyet hakkına
+sahip değildir. Buna karşılık iflas eden bir borçlu maliki olduğu fakat iflas
+masasına giren bir malının mülkiyetinde tasarruf yetkisi kısıtlanmış (İc. İf. 
+Ka. m.191/1) bulunduğu için tasarruf edemez.
++
+Gerçi borçlu ifa olarak temlik ettiği hakta tasarruf yetkisine sahip olmamasına
+rağmen alacaklının iyiniyeti mülkiyeti kazanmayı sağlıyorsa (bkz. MK m.988, 763)
+borcun ifa edilmiş sayılacağı kabul edilmektedir.
+
+=== III- ÜÇÜNCÜ KİŞİ TARAFINDAN İFADA GÖZÖNÜNE ALINACAK ESASLAR
+
+. Üçüncü kişinin, borçlunun borcunu ifa ettiğinden söz edebilmek için, bu
+kişinin, söz konusu borcu _ifa maksadıyla_ davranmış olması şarttır. Ancak bu
+maksattır ki, alacaklıya bir edimi yerine getiren kişinin, yanılarak kendisini
+borçlu zannederek mi, alacaklıya bir bağışlamada bulunmak için mi, yoksa
+başkasının borcunu ifa için mi bu davranışta bulunduğunu ayırmaya imkan verir.
+
+. Şayet ifayı bir maddi fiil değil de bir kazandırıcı işlem sağlıyorsa,
+başkasının borcunun ifasından bahsedebilmek için sadece Üçüncü kişinin ifa
+maksadıyla davranışı yetmez; _alacaklı ile üçüncü kişinin, yapılan
+kazandırmanın, borçlunun borcunun ifası olduğu hususunda anlaşmış olmaları_
+gerekir. 
++
+TIP: (B)'nin (A)'ya yüz bin lira borçlu olması halinde (Ü)'nün (A)'ya yüz bin
+lira borçlu olması halinde (Ü)'nün (A)'ya yüz bin lira ödemesi, mutlaka (B)'nin
+borcunun ifası anlamına gelmez. Ancak (Ü) bu maksadını söz veya davranışları
+ile açıklamış ve (A) da hiç değilse aksine bir beyanda bulunmamış ise (B)'nin
+borcunun (Ü) tarafından ifa edildiği söylenebilir.
+
+. Şayet üçüncü kişi, borçlunun borcunu ifa için borçluya ait bir hakta tasarruf
+edecekse, borçlu tarafından kendisine _temsil yetkisi_ verilmiş olmalı veya
+sonradan onay verilmelidir.
++
+TIP: Bir malın, maliki (B) tarafından (A)'ya satılmış olması halinde, (B)'nin
+satış sözleşmesinden doğan mülkiyeti (A)'ya geçirme borcunu (Ü)'nün ifa
+edebilmesi için (B)'nin (Ü)'ye temsil yetkisi vermiş olması veya sonradan onay
+vermesi gerekir.
+
+. Çok zaman üçüncü kişi, borçluya karşı giriştiği bir taahhüt sonucu borçlunun
+borcunu alacaklıya ifa eder ve böylece _kendi taahhüdünü yerine getirmiş_ olur.
+Üçüncü kişinin bu yükümlülüğü, bir vekalet sözleşmesine, bir hizmet
+sözleşmesine, bir borçtan kurtarma vaadine veya başka bir hukuki ilişkiye
+dayanabilir. 
++
+TIP: (Ü), (B)'yi (A)'ya olan borcundan kurtarmayı taahhüt etmişse; (Ü)'nün bu
+borcu (A)'ya ifa etmesi (Ü)'nün kendi taahhüdünün (B)'ye karşı yerine
+getirilmesini sağlar. Keza, (B), (A)'ya sattığı malı (Ü)'den satın almış ve bu
+malın (A)'ya teslimini şart kılmışsa, (Ü) malı (A)'ya teslim etmekle hem
+(B)'nin (A)'ya olan borcunu ifa etmiş, hem de böylece kendisinin (B)'ye olan
+taahhüdünü yerine getirmiş olur.
++
+Üçüncü kişinin, borçluya karşı yukarıda belirtilen tarzda bir taahhüdü yokken
+borcu alacaklıya ifa etmesi, borcun ifasında şahsen ilgisi bulunmasından
+olabilir. Müteselsil borçlulardan birinin, kefilin, borç için rehnedilen malın
+maliki veya mal üzerinde başka bir ayni hak sahibi bulunan üçüncü kişinin borcu
+ifa etmesi halinde durum böyledir.
++
+Bu hallerin dışında üçüncü kişinin borçlunun borcunu ifa etmesi ya borçluyu
+borçtan kurtararak bağışta bulunmak maksadına dayanır veya vekaletsiz iş görme
+teşkil eder.
+
+. Üçüncü kişinin yer, zaman v.b. bakımından usulüne uygun şekilde yapmak
+istediği ifayı alacaklı kabul etmezse aynen borçlunun ifasını kabul etmemiş
+gibi olur ve borçluya karşı alacaklı temerrüdüne (TBK m. 106) düşer.
++
+İfayı kabulden kaçınan alacaklı borcu ifa etmek isteyen müteselsil borçluya
+karşı alacaklı temerrüdüne düşer (TBK m.106), borcu ifa etmek isteyen kefil
+kefaletten kurtulur (TBK m. 593/2), taşınmazı başkasının borcu için rehnedilmiş
+olan malik, alacaklı temerrüdüne ait tevdi hükmünden (TBK m. 107) yararlanır.
+Borçlunun karşı çıkması önem taşımaz. 
++
+Buna karşılık üçüncü kişi borçluya bağışta bulunmak maksadıyla veya vekaletsiz
+iş görme olarak borcu ifa etmek isteyince, borçlu karşı çıkarsa alacaklı ifayı
+kabul etmeyebilir ve kabul etmemekle alacaklı temerrüdüne düşmez.
+
+=== IV- ÜÇÜNCÜ KİŞİNİN İFASININ SONUÇLARI
+
+==== 1- Kural
+
+Üçüncü kişinin borcu ifa etmesi ile, kural olarak borç sona erer ve borçlu
+borcundan kurtulur; borca ait teminatlar da (kefalet, rehin) düşer (TBK m.
+131). Fakat kanunun öngördüğü bazı hallerde üçüncü kişinin ifası alacaklıyı
+tatmin ederse de borcu sona erdirmez, alacak hakkının kanun icabı ifayı yapan
+üçüncü kişiye intikal etmesi diğer bir ifade ile, ifayı yapan üçüncü kişinin
+alacaklıya halef olması sonucunu doğurur.
+
+Borcun sona erdiği hallerde, üçüncü kişinin borçluya karşı ne gibi bir talepte
+bulunabileceği, bu ifanın yapılmasına yol açan sebebe göre belirlenecektir.
+
+Üçüncü kişi borçluya karşı bir taahhüdünü yerine getirmek için borçlunun
+borcunu ifa etmişse, borçluya karşı sahip olacağı haklar borçlu ile üçüncü kişi
+arasında bu taahhüdün yer aldığı iç ilişkiye (vekalet sözleşmesi, hizmet
+sözleşmesi, borçtan kurtarma vaadi vb.) göre belirlenecektir.
+
+Üçüncü kişi borçluya bağışta bulunmak maksadı ile borcu ifa etmişse, ifa borcu
+sona erdirmekle beraber bunun bağış teşkil edebilmesi borçlunun onayına
+bağlıdır. Borçlu bağışı kabul etmezse, üçüncü kişinin ifası borçlunun
+malvarlığında bir sebepsiz zenginleşme oluşturur (TBK m. 77).
+
+Üçüncü kişi bağışlama maksadı ile olmaksızın ve bir yükümlülüğü de yokken borcu
+ifa etmişse borçlu için vekaletsiz iş görmüş olur. Bir kişinin, tatile giden
+komşusunun elektrik idaresine olan borcunu ödemesi böyledir.
+
+Eğer borcun ifası yer, zaman, tarz bakımından borçlunun muhtemel arzusuna uygun
+görülebiliyorsa ve onun geçerli bir yasaklamasına da aykırı değilse, caiz olan
+vekaletsiz iş görme hükümleri (TBK m.526-529) uygulanacak; aksi takdirde
+sebepsiz zenginleşme (TBK m.77-82) ve caiz olmayan vekaletsiz iş görme (TBK
+m.530) hükümleri uygulanacaktır.
+
+==== 2- Halefiyet
+
+===== _a) Halefiyet halleri_
+
+Prensip, üçüncü kişi tarafından yapılan ifanın borcu sona erdirmesi olmasına
+karşılık, kanunun öngördüğü belirli durumlarda üçüncü kişinin yaptığı ifa
+alacaklıyı tatmin etmekle beraber borcu sona erdirmemektedir. Bu hallerde
+borçlu, borçla sorumlu olmaya devam etmekte fakat alacak hakkı ifayı yapan
+üçüncü kişiye kanun gereği geçmektedir. Bu intikale, yani ifayı yapan üçüncü
+şahsa alacak hakkının geçmesine *halefiyet* denilmektedir.
+
+Kanunda öngörülen halefiyet halleri dışında bir üçüncü kişinin alacaklının
+yerine alacak hakkını elde etmesi alacağın devri (temliki) ile mümkündür.
+Alacağın devri, üçüncü kişiyle alacaklı arasında yapılan bir sözleşme ile
+alacağı üçüncü kişiye geçirir. Diğer bir ifade ile alacağın üçüncü kişiye
+geçmesi, alacaklı ile üçüncü kişinin bu konudaki arzularının, anlaşmalarının
+sonucudur. Oysa halefiyetin gerçekleşmesi için alacaklı ile üçüncü kişinin bu
+konuda anlaşmalarına gerek yoktur. Üçüncü kişinin ifasının halefiyet sonucunu
+doğuracağını alacaklı ve üçüncü kişi düşünmüş olmasalar, hatta bu sonucu
+bilmeseler dahi kanun icabı alacak üçüncü kişiye geçer.
+
+Borçlar Kanununun halefiyeti kabul ettiği hallerin bir kısmı --müteselsil
+borçlulardan birinin borcu ifa etmesi (TBK m.168); bölünemeyen borcun, birden
+çok borçlularından biri tarafından ifası (TBK m.85); asıl borcun kefil
+tarafından ifa edilmesi (TBK m.596/1) gibi-- bizzat ifayı yapan kimsenin de
+borçtan sorumlu olduğu hallerdir. Kanun borcu ödeyen müteselsil borçlu veya
+bölünemeyen borcun borçlularından birinin, diğer borçlulara, kefilin de asıl
+borçluya rücu hakkını teminat altına almak için bunların alacaklıya halef
+olmasını kabul etmiştir.
+
+===== _b) TBK m. 127'de düzenlenen halefiyet_
+
+.TBK m.127
+....
+Alacaklıya ifada bulunan üçüncü kişi aşağıdaki hallerde ifası ölçüsünde
+alacaklının haklarına halef olur: 
+
+    1- Başkasının borcu için rehnedilen bir şeyi
+    rehinden kurtardığı ve bu şey üzerinde mülkiyet hakkı veya başka bir ayni hakkı
+    bulunduğu takdirde, 
+    2- Alacaklıya ifada bulunan üçüncü kişinin ona halef
+    olacağı, borçlu tarafından ifadan önce alacaklıya bildirildiği takdirde.
+
+Diğer halefiyet hallerine ilişkin kanun hükümleri saklıdır.
+....
+
+Böylece, TBK m.127, borçtan kendisi sorumlu olmadan borcu ödeyen üçüncü kişiye
+iki halde halefiyet tanımaktadır:
+
+_Birincisi_, üçüncü kişinin borcu ödeyerek bu borç için rehin verilmiş olan ve
+üzerinde kendisinin bir ayni hakkı bulunan malı rehinden kurtarması halidir.
+Görüldüğü üzere, bu halde, borcu ödeyen üçüncü kişi her ne kadar borçtan şahsen
+sorumlu olmamakla beraber, borç ödenmediği takdirde, ayni hak sahibi olduğu
+rehin konusu mal satılarak paraya çevrileceği için, buna engel olmak için borcu
+ödemek istemesinde kendisinin çıkarı vardır.
+
+Bu şekilde borcu ödeyen kişinin rehinden kurtardığı mal üzerinde mülkiyet hakkı
+sahibi olması şart değildir; mülkiyet dışında bir ayni hakkı, mesela intifa
+veya başka bir rehin hakkı sahibi olması da halefiyeti sağlamak için yeter.
+
+Borcu ödeyen üçüncü şahsa TBK m.127'de halefiyetin tanındığı _ikinci hal_, bu
+kişinin alacaklıya halef olacağının borçlu tarafından alacaklıya beyan edilmesi
+halidir.
+
+===== _c) Halefiyetin hükmü_
+
+Halefiyet, alacaklıya ödenen alacağın kanun icabı üçüncü kişiye geçmesini
+sağlar. Alacak geçtiği için alacağa bağlı (fer'i) haklar ve alacaklının şahsına
+has olanların dışındaki öncelik (rüçhan) hakları da üçüncü kişiye geçer (TBK
+m.189). Borçlu da, önceki alacaklıya karşı ileri sürebileceği def'ileri yeni
+alacaklıya karşı da ileri sürebilir.
+
+Halefiyet, üçüncü kişi alacaklıyı tatmin ettiği ölçüde meydana gelir. Eğer
+üçüncü kişi kısmi ödemede bulunmuş ise, alacağın sadece ödediği kısmını
+devralır ve bağlı haklar da kendisine ancak bu oranda geçer. 
+
+Halefiyette borcu ödemiş olan üçüncü kişinin alacağa bağlı haklara da sahip
+olması, ona, borçluya karşı vekaletsiz iş görmeye veya sebepsiz zenginleşmeye
+dayanacak bir rücu hakkından daha teminatlı bir durum sağlar. Üstelik
+halefiyete dayanan üçüncü şahıs, vekaletsiz iş görme veya sebepsiz zenginleşme
+şartlarını ispat etmeye mecbur kalmaksızın sadece alacaklıya borcu ödediğini ve
+bir halefiyet hali bulunduğunu ispat etmekle yetinecektir.
+
+== 2- İFADA ALACAKLININ ROLÜ
+
+=== I- PRENSİP
+
+Borç, kural olarak alacaklıya veya alacaklının yetkili kıldığı bir kişiye ifa
+edilmek gerekir. Ancak bu takdirde geçerli bir ifa söz konusu olur ve borcun
+sona ermesi, borçlunun borcundan kurtulması sonucu sağlanır.
+
+=== II- İFAYA ALACAKLININ KATILMASI SORUNU
+
+. Bütün borçların ifasına mutlaka alacaklının katılması gerekli değildir. Öyle
+borçlar vardır ki, bunlar alacaklı tarafından yapılacak herhangi bir fiile
+ihtiyaç bulunmaksızın ifa edilirler. Yapmama borçlarının ifası böyledir. Bazı
+yapma borçlarında da aynı durum söz konusu olabilir. Komşunun manzarasını açmak
+için kendi bahçesindeki ağaçları kesme borcu böyledir.
++
+Buna karşılık, verme borçlarında ve yapma borçlarının çoğunda, borcun ifa
+edilebilmesi alacaklının ifaya imkan sağlaması veya ifaya katılması ile
+mümkündür. 
+
+. İfanın gerçekleşmesi için, alacaklının katılmasına gerek bulunmayan hallerde,
+alacaklının ehliyet durumu ifaya etkili değildir. Buna karşılık ifanın
+gerçekleşmesi için alacaklının da ifayı oluşturacak hukuki işleme katılması
+gereken hallerde, alacaklının fiil ehliyetine sahip olup olmaması ifanın
+geçerliliğini etkiler. Bu hallerde tam ehliyetsiz alacaklıya yapılan ifa
+hükümsüzdür. Alacaklı ayırt etme gücü olan küçük veya ayırt etme gücü olan
+kısıtlı ise yasal temsilcinin izni bulunmadıkça veya sonradan onay verilmedikçe
+sınırlı ehliyetsize yapılan ifa da hükümsüz kalır. Borçlunun ifayı yaparken
+alacaklının ehliyetsizliğini bilmemesi sonucu değiştirmez. Borçlu yeni bir
+ifade bulunmaya mecburdur. Fakat hükümsüz ifa sonucunda alacaklıya sağlanmış
+olan şeyi, borçlu, ifa olarak kabul etmesini alacaklının yasal temsilcisine
+önerebilir ve şayet ifa konusu bir miktar para ise, borçlu, hükümsüz ifa
+neticesi alacaklının malvarlığına giren para dolayısıyla sebepsiz zenginleşmeye
+dayanan alacağı ile borcunu takas edebilir.
++
+İfa alacak hakkını sona erdireceği için alacaklının katılması gereken hallerde
+alacaklı fiil ehliyetinden başka, alacak hakkı üzerinde, tasarruf yetkisine de
+sahip olmalıdır. Şayet alacaklı tasarruf yetkisine sahip değilse ona yapılan
+ifa ile borçlu borcundan kurtulamaz.
+
+=== III- ALACAKLININ YERİNİ TUTACAK KİŞİLER
+
+==== 1- Alacaklının yetkili kıldığı kişiler
+
+Alacaklı ifaya kendi yerine katılması ve özellikle verilecek şeyi ifa olarak
+kabul etmesi için _üçüncü kişiye temsil yetkisi vermiş ise_ temsilciye yapılan
+ifa geçerlidir. Fakat borçlu ifayı alacaklının mümessiline yapmaya mecbur
+değildir. İsterse ifayı alacaklıya arz edebilir. Şayet alacaklının ifanın
+temsilcisine yapılmasını istemesine rağmen borçlu, temsilcisine ifada bulunmaz
+ve ifayı alacaklıya da arz etmezse, ifadan kaçınmanın sonuçlarına katlanır.
+
+==== 2- Alacaklının rızası aranmaksızın ifanın alacaklıdan başkasına yapılabilmesi imkanı
+
+.. _Alacaklı mütemerrit ise_, yani ifayı haklı sebep olmadan reddederse veya
+kendisinin yardımı yahut katılması gereken hallerde bundan kaçınarak ifanın
+gerçekleşmesine imkan vermezse, borçlu, alacaklının temerrüdü hükümlerinden
+yararlanır ve alacaklıya vereceği şeyi hakimin tayin edeceği yere tevdi ederek
+borcundan kurtulabilir (TBK m.107). Aynı imkan alacaklı yüzünden borcun ifa
+edilemediği hallerde de tanınmıştır (TBK m.111).
+
+.. Alacaklı, _borçluyu icra yolu ile takip etmekte ise_, borçlu borcunu icra dairesine ödeme imkanına sahiptir (İc. İf. K. m. 12).
+
+.. Alacak başkasına devredildikten sonra ifanın yeni alacaklıya yapılması
+gerekirse de, bu _devriden haberdar olmayan borçlu önceki alacaklıya ifada
+bulunmakla_ borçtan kurtulur (TBK m.186). Burada yetkisi bulunmayan bir kişiye
+yapılan ifa ile borçtan kurtulma söz konusudur.
+
+== 3- İFANIN KONUSU
+
+=== I- GENEL OLARAK
+
+. Borçlu neyi borçlanmış ise onu ifa etmek zorundadır. Buna _ifanın edime uygun
+olması prensibi_ denir. Borçlu borçlandığı edimden başka bir şeyi, o şey
+edimden daha az değerli olsa bile ifaya mecbur olmadığı gibi alacaklı da
+borçlanılan edimden başka bir şeyi daha çok değerli olsa bile ifa olarak kabul
+etmeye mecbur değildir.
+
+. İfanın edime uygun olması prensibi, taraflardan birinin edimden başka bir
+şeyi ifa konusu yapmasına engel olur. Buna karşılık _tarafların anlaşarak,
+borçlanılan edimden başka bir şeyle ifanın gerçekleşmesini kabul etmelerine bir
+engel yoktur.
++
+İfa sırasında tarafların anlaşması ile, borçlanılan edimden başka bir şeyle
+borcun ifasına *_ifa yerini tutan eda_* denir.
++
+Borçlunun alacaklıya borcun ifasını sağlamak üzere bir şey vermesi ve
+alacaklının bunu paraya çevirmek suretiyle alacağını elde etmesi hususunda
+tarafların anlaşmasına ise *_ifaya yönelik eda_* denir.
++
+TIP: (B) (A)'ya olan 100.000 liralık borcun ifasını sağlamak için bir malını
+verirse veya (Ü)'de olan alacağını devrederse, (A) bu malı satıp satış bedelini
+tahsil edince veya (Ü)'de olan alacağını tahsil edince, elde ettiği tutar
+oranında (B)'nin (A)'ya olan borcu ifa eidlmiş ve borç sona ermiş olacaktır.
+Verilen şeyin satışından elde edilen bedel (A)'nın alacağını karşılamazse, (B)
+borcun geri kalan kısmını ödemekle yükümlüdür. Satıştan elde edilen bedel
+(A)'nın alacağı tutarından fazşa ise (A) artan kısmı (B)'ye vermekle
+yükümlüdür. Alacaklı, ödemeye yönelik malı paraya çevirmek ve devredilen
+alacağı tahsil etmek hususunda tıpkı bir vekil gibi gereken özeni göstermek
+zorundadır.
++
+Anlaşmanın *ifa yerini tutan eda* olduğunun yeter açıklıkla saptanamadığı
+hallerde *ifaya yönelik edanın* söz konusu olduğu öğretide kabul edilmektedir.
+
+. Borçlu, borçlandığı edimi bütün olarak ifa zorundadır. _Kısmi ifada_
+bulunabilmesi ve kısmi ifanın sonuçları aşağıdaki esaslara tabidir:
+
+.. Şayet edim, _niteliği itibariyle bölünmesi mümkün olmayan bir edim ise_,
+zaten edimin özelliği gereği kısım kısım ifa söz konusu olmaz.
++
+Yapmama borçları bölünemediği gibi bir eser meydana getirme şeklindeki yapma
+borçları da bölünemez.
++
+Bir edimin niteliğinin bölünmeye elverişli olduğu, edimin, niteliğinde ve
+değerinde değişiklik olmaksızın parçalara ayrılabilmesi halinde kabul edilir.
+Tür (nevi) borçlarının çoğu ve özellikle para borçları nitelikleri bakımından
+bölünmeye elverişlidir.
+
+.. _Edim niteliği bakımından bölünmeye elverişli olsa bile_, alacaklı, borçlu
+tarafından yapılmak istenen kısmi ifayı kabule mecbur değildir.
++
+.TBK m.84/1
+....
+Borcun tamamı belli ve muaccel ise, alacaklı kısmen ifayı reddedebilir.
+....
++
+... Alacaklı, kısmi ifayı kabule mecbur olmadığı için, borçlunun yapmak
+istediği kısmi ifayı kabul etmemekle, o kısım için dahi alacaklı temerrüdüne
+düşmez. Borcun tamamını ifa etmesi gerekirken bunu yerine getirmeyen borçlu,
+teklif ettiği kısım da dahil olmak üzere borcun tamamı için ifa etmemenin
+sonuçlarına tabi olur.
+... Kısmen ifa konusu incelenirken dikkat edilmesi gereken önemli bir nokta,
+_bir borca konu olan birden çok şeyle_, birbirinden bağımsız birden çok edimin
+mi, yoksa birden çok şeyi kapsayan bir tek edimin mi sö konusu olduğudur. Bunu
+tayin için şüphesiz ki tarafların ortak niyeti araştırılacaktır. Bu niyet
+hukuki işlemde açıklanmışsa, sorun yoktur. Şayet niyet açıklanmış değilse,
+sözleşmede yer alan şeylerin gaye ve iktisadi fonksiyonları bakımından bir
+bütün teşkil edip etmediğine göre yorum yolu ile bir sonuca varılacaktır. Söz
+konusu şeylerin gaye ve iktisadi fonksiyonları itibariyle bir bütün teşkil
+ettiği hallerde tarafların bunları bir tek edim konusu saydığı, böyle değilse
+ayrı edimlerin mevcut olduğu kabul edilecektir. Fakat tarafların, gaye ve
+iktisadi fonksiyonları bakımından bir bütün teşkil etmeyen şeyleri tek edim
+konusu saymalarına bir engel yoktur.
+... Bir para alalacağında ana para (sermaye) ile faiz alacakları bakımından;
+faiz asıl alacağın feri'i ise de ayrı bir alacaktır ve bu sebeple _faizin
+ödenmesi_ kısmi ödeme değildir. Fakat borçlu, faizleri ve masrafları ödemek
+isteyince alacaklı bunu reddedemezse de, TBK m.100/1, faizler ödenmedikçe, ana
+parayı ödemek isteyen borçlunun ifasını alacaklının reddedebileceğini
+belirtmektedir. 
++
+.TBK m.100/1
+....
+Borçlu faiz veya giderleri ödemede gecikmemiş ise, kısmen yaptığı ödemeyi ana
+borçtan düşme hakkına sahiptir. Aksine anlaşma yapılamaz.
+....
++
+Bu hüküm borçluya kısmi ödeme yetkisi veren bir hüküm değil, karşıt anlamıyla,
+yapılmış bir kısmi ödemenin rolünü düzenleyen bir hükümdür.
+... Borçlu, prensip itibariyle alacaklı razı olmadıkça, kısmi ifada bulunamazsa
+da, _alacaklının_ borçludan ifanın bütününü talep etmeyip _kısmi ifa talebinde_
+bulunması mümkündür. Borçlu bu talebe rağmengene de edimin tamamını arz etme
+yetkisine sahiptir. Fakat borçlu, ne edimin tamamını, ne de alacaklının talep
+ettiği kısmı ifa olarak arz etmiş değilse, kısmi ifa talebini yerine
+getirmemenin sonuçlarına katlanır. Borçlar Kanununun 84. maddesinin 2. fıkrası
+bunu düzenlemektedir.
++
+.TBK m.84/2
+....
+Alacaklı kısmen ifayı kabul ederse borçlu, borcun kendisi tarafından ikrar
+olunan kısmını ifadan kaçınamaz.
+....
++
+Buna karşılık, kısmi ifa talebinde bulunan alacaklıya borçlu edimin tamamını
+arz edince, alacaklı edimin bütününü kabule yanaşmazsa, edimin bütünü açısından
+alacaklı temerrüdüne düşer.
+.. Edimin niteliği bölünmeye elverişli olsa dahi, prensip, alacaklının kısmi
+ifayı kabule mecbur olmadığı yolunda ise de, _aşağıdaki hallerde alacaklı kısmi
+ifayı kabule mecburdur:_
++
+... Taraflar kısmi ifa yapılabileceğini _önceden kararlaştırmışlarsa_, alacaklı
+kısmi ifayı kabule mecburdur. Kısmi ifayı kabulden kaçınırsa ifa edilmek
+istenen kısım için alacaklı temerrüdüne düşer.
+... _Borç kısım kısım vadelere (taksitlere) bağlanmış olup_ da henüz
+taksitlerin tamamı muaccel olmuş değilse, alacaklı muaccel kısmın ifasını
+kabule mecburdur. Kabulden kaçınırsa o kısım için alacaklı temerrüdüne düşer.
+... _Şayet alacağın bir kısmı tartışmalı (ihtilaflı) ise_, tartışmasız kısmın
+ifasını alacaklının kabule mecbur olduğu öğretide kabul edilmektedir.
+... Bazı hallerde borçlunun arz ettiği kısmi ifayı reddetmek _dürüstlük_
+kuralına aykırı olabilir. Bu takdirde alacaklı dürüstlük icabı, kısmi ifayı
+kabule mecburdur.
++
+TIP: Edimin çok büyük miktarda olması bir defada ifaya imkan vermiyorsa veya
+edimin ifa olarak arz edilmeyen kısmı çok önemsiz ise, dürüstlük kuralı,
+alacaklının kısmi ifayı kabul etmesini gerekli kılabilir.
++
+.. Alacaklı isteyerek kabul ettiği veya kabule mecbur olduğu için _borçlu borcu
+kısmen ifa ettiği takdirde_, ifa ettiği kısma ait borcundan kurtulur.
++
+Şayet alacağın bütünü için bir teminat varsa bu teminat alacağın geri kalan
+kısmı için devam eder. Şayet teminat alacağın ancak bir kısmını karşılıyorsa,
+borçlu, yaptığı kısmi ifanın alacağın teminatlı kımsına sayılmasını isteyemez.
+Bu husus para borçları için TBK n.100/2'de açık olarak ifade edilmiştir.
++
+.TBK m.100/2
+....
+Alacaklı alacağın bir kısmı için kefalet, rehin veya başka bir güvence almış
+ise, borçlu kısmen yaptığı ödemeyi, güvence altına alınan veya güvencesi daha
+iyi olan kısma mahsup etme hakkına sahip değildir.
+....
+
+=== II- ÇEŞİTLİ EDİMLERİN ÖZELLİKLERİ
+
+==== 1- Parça borçlarında
+
+Ferden belirli borçlar denilen parça borçlarında borcun konusu, özelliklerine
+göre yeter derecede belli bir şeydir. Böylece borcun konusunun ferden
+belirlenmiş olduğu durumlarda, ifanın konusunu da o şey teşkil eder. Bu şey
+ayıplı olsa, vaadedilen nitelikleri taşımasa bile ifanın konusu o şeydir. Fakat
+alacaklı böyle bir ifada çeşitli hükümlerle korunmuştur. Borcun konusu olan
+şey, sözleşme yapılırken istenen niteliği taşımıyorsa alacaklı yanılma
+hükümlerinden; borcun doğumundan sonra bozulmuşsa kötü ifa hükümlerinden ve
+bazı sözleşmelerde ayıptan sorumluluk hükümlerinden yararlanır.
+
+==== 2- Tür (Çeşit = Cins = Nevi) borçlarında
+
+Borcun konusu ferden değil de sadece türü belirtilmek suretiyle miktar olarak
+tayin edilmiş ise, ifanın konusu, ancak söz konusu çeşide dahil şeylerden
+kararlaştırılan miktarda olmak üzere herhangi bir şey olabilecektir.
+
+.TBK m.86
+....
+Çeşit borçlarında hukuki ilişkiden ve işin özelliğinden aksi anlaşılmadıkça
+edimin seçimi borçluya aittir. Ancak borçlunun seçeceği edim, ortalama
+nitelikten daha düşük olamaz.
+....
+
+Madde metninden de kolayca anlaşılacağı üzere bu hüküm bir yedek hukuk
+kuralıdır. Taraflar aksini kararlaştırmış ve ifa konusunu tayin yetkisini
+alacaklıya veya bir üçüncü kişiye vermiş olabilecekleri gibi, bu husus işin
+özelliğinden de anlaşılabilir. Fakat aksi anlaşılmadıkça çeşit borcunda ifa
+konusunu belirleme yetkisi borçluya aittir.
+
+Borçlu çeşit borcunda ifanın konusunu belirlemede tamamen özgür değildir.
+Borçlar Kanununun 86. maddesinin 2. cümlesinde belirtildiği üzere, o çeşidin
+içinde *ortalama* bir edim seçilmelidir. Elbette bunun da aksi kararlaştırılmış
+olabilir.
+
+Şayet tür borcunda bazı nitelik sınırlamaları varsa, borçlu orta nitelikteki
+şeyi o sınırlama çerçevesi içinde dikkate alacaktır.
+
+Bazen tür borcu, o çeşitten olmakla birlikte belirli bir stok içinden
+borçlanılmış ise --ki buna sınırlı tür borcu denilir-- ifa o stoka dahil
+şeylerden tayin edilecektir. Bu halde borçlu ancak stoğa dahil şeylerden orta
+nitelikte şeyleri ifa konusu olarak tayin edebilir.
+
+Tür borcunu ifa edecek borçlu, orta nitelikten aşağı nitelikte şeyi ifa konusu
+yaptığı takdirde, alacaklı, borçlunun arz ettiği ifayı kabul etmeyebilir.
+Alacaklı ifayı kabul etmeyince  borçlu, niteliğe uygun ifayı önermedikçe, borcu
+ifa etmemenin sonuçlarına katlanır.
+
+Borçlu, orta nitelikte bir şeyi ifa konusu yapacağı yerde daha üstün nitelikte
+bir şeyi ifa konusu olarak tayin edebilir. Fakat şayet karşı edim borçlunun ifa
+konusu yapacağı şeyin niteliğine göre belli olacakse veya alacaklının özel
+durumu sonucu daha düşük nitelikte şeyi almakta çıkarı varsa, bu takdirde
+borçlu üstün nitelikli şeyi de ifa konusu olarak tayin edemez.
+
+==== 3- Seçimlik borçlarda
+
+Borcun konusunu birden çok edim teşkil edip de, bunlardan yanlız seçilecek
+birisinin ifası gerekiyorsa, seçimlik borç söz konusu olur. Borçlar Kanununun
+87. maddesi, seçimlik borçların ifasını düzenlemektedir.
+
+.TBK m.87
+....
+Seçimlik borçlarda, hukuki ilişkiden ve işin özelliğinden aksi anlaşılmadıkça,
+edimlerden birinin seçimi borçluya aittir.
+....
+
+Seçimlik borç ile *edimi değiştirme yetkisi* karıştırılmamalıdır. Şayet borcun
+konusu bir edim olup da, ifada bunun yerine başka bir edimin geçirilmesi imkanı
+tanınmışsa, seçimlik borç değil, edimi değiştirme yetkisi söz konusu olur.
+Seçimlik borç ve edimi değiştirme yetkisinin farkı, edimin imkansızlaşması
+konusunda önem taşır. Seçimlik borçlarda iki edimden biri imkansızlaşınca
+diğeri ifanın konusunu oluşturabilirken, edimi değiştirme yetkisinde asıl edim
+imkansızlaşınca borç sona erer.
+
+Seçimlik borçlarda borcun konusu birkaç edimdir, fakat ifanın konusu bunlardan
+sadece biri olacaktır. İfanın konusunu edimlerden hangisinin teşkil edeceğinin
+belirlenmesi, seçim hakkının kullanılması ile olacaktır. Seçim hakkı,
+değiştirici yenilik doğuran bir işlemdir. Gerçekten, ifanın konusu seçimden
+önce belli değilken, seçim sonucunda belli hale gelmektedir. Seçilecek
+edimlerin eşdeğerde olması şart değildir.
+
+Seçimlik borçlarda seçim hakkı, tek taraflı bir beyanla kullanılır. Beyan karşı
+tarafa yöneltilecek ve ona varınca hüküm ifade edecektir. Fakat karşı tarafın
+beyanı öğrenmesine kadar beyandan dönülebileceğini, TBK m.10'u kıyasen
+uygulamak suretiyle, kabul etmek doğru olur. Fakat daha sonra beyandan
+dönülemez.
+
+TBK m.87'ye göre, başka türlü olduğu işin niteliğinden anlaşılmadıkça seçim
+hakkı borçluya aittir. Fakat tarafların açıkça kararlaştırmaları ile veya işin
+niteliği gereği seçim hakkı alacaklıya veya bir üçüncü kişiye ait olabilir.
+
+Seçim hakkı sahini hakkını kullanınca, ifanın konusu, seçilen o edim olarak
+belli hale gelir ve diğer edimler borcun konusu olmaktan çıkar. Seçim geriye
+etkili değildir.
+
+Seçimlik borçta edimlerden birinde daha sözleşme yapılırken objektif ifa
+imkansızlığı bulunması durumunda, TBK m.27/2 uyarınca çözüme varılır: Eğer
+tarafların imkansız edimin durumunu bilselerdi sözleşmeyi kurmayacakları
+sonucuna varılırsa sözleşme bütünüyle hükümsüz sayılacak, aksi halde, imkansız
+edim söz konusu olmaksızın diğer edim veya edimlerle borç ilişkisi devam
+edecektir.
+
+Edimlerden biri sonradan imkansızlaşırsa veya baştaki imkansızlık subjektif
+ise; her iki tarafın da imkansızlıktan sorumlu tutulmadığı durumlarda, seçim
+hakkı ister alacaklıya ister borçluya bırakılmış olsun, diğer edim
+kendiliğinden borcun konusunu oluşturur. Eğer ikiden fazla seçimlik edim varsa
+seçim hakkı imkansızlaşmayan edimler için devam eder. Bu hususta görüş birliği
+vardır. Ancak, imkansızlaşan edimin yerine bir kaim değer elde edilmişse, seçim
+hakkının alacaklı olduğu durumlarda, imkansızlaşmayan edimle bu kaim değer
+arasında seçim imkanının devam etmesi baskın görüştür.
+
+Taraflardan birinin imkansızlıktan sorumlu olduğu durumlarda, Alman Hukukundaki
+düzenlemeden esinlenen baskın görüş, seçim hakkının imkansızlıktan sorumlu
+tutulana ait olduğu durumlarda imkansızlaşmamış edim seçilmiş gibi sonuca
+varmakta; buna karşılık, seçim hakkının imkansızlıktan sorumlu olmayana ait
+olduğu durumlarda, bu kişinin dilerse imkansızlaşmamış edimi seçerek bunun
+sonuçlarının doğmasını sağlama hakkı bulunduğunu kabul etmektedir. Buna göre:
+    
+.. İmkansızlaktan borçlunun sorumlu olduğu durumlarda: Eğer seçim hakkı
+alacaklıda ise, alacaklı dilerse imkansızlaşan edimi seçerek borçludan bunun
+yerine tazminat ister, dilerse imkansızlaşmamış edimi veya edimlerden birini
+seçerek bunun ifasını ister. Eğer seçim hakkı borçluda ise, imkansızlaşmamış
+edimi seçmiş gibi borcun konusu bu edim olur, eğer ikiden fazla seçimlik edim
+varsa seçim hakkı imkansızlaşmayan edimler için devam eder.
+.. İmkansızlıktan alacaklının sorumlu olduğu durumlarda: Eğer seçim hakkı
+borçluda ise, o, dilerse imkansızlaşmamış edimi seçer ve şartları varsa
+imkansızlaşan edim yüzünden haksız fiil hükümlerine göre tazminat ister,
+dilerse imkansızlaşan edimi seçer ve ifadan kurtulur. Eğer seçim hakkı
+alacaklıda ise, imkansızlaşmamış edimi seçmiş gibi borcun konusu bu edim olur,
+birden fazla imkansızlaşmamış edim varsa seçim hakkı bunlar için devam eder ve
+imkansızlaştırdığı edim yüzünden borçlunun malvarlığına verdiği zararı ayrıca
+tazmin eder.
+
+==== 4- Alacaklı veya borçlunun birden çok ve borcun bölünemeyen bir olması halinde
+
+Eğer kanun veya sözleşme gereği alacaklılar veya borçlular arasında teselsül
+varsa, borç ister bölünebilsin, ister bölünemeyen bir borç olsun, teselsül
+hükümleri (TBK m.162-169) uygulanacaktır. Fakat teselsül bulunmadığı takdirde,
+bölünemeyen ve alacaklısı veya borçlusu birden çok olan borçların ifası TBK
+m.85 hükmüne tabi olur.
+
+.TBK m.85
+....
+    Bölünemeyen bir borcun birden çok alacaklısı varsa, alacaklılardan her biri,
+borcun alacaklıların tamamına ifasını isteyebilir. Borçu edimini alacaklıların
+hepsine birden ifa etmek zorundadır.
+    Bölünemeyen borcun birden çok borçlusu varsa, borçlulardan her biri borcun
+tamamını ifa etmekle yükümlüdür.
+    Durumun gereğinden aksi anlaşılmadıkça, ifada bulunan borçlu, alacaklıya halef
+olur ve diğer borçlulardan payları oranında alacağını isteyebilir.
+....
+
+Şu halde:
+
+.. _Bölünemeyen borcun alacaklısı birden çoksa_, alacaklılardan her biri borcun
+ifa edilmesini isteyebilir. Fakat borçlu sadece o alacaklıya yapacağı ifa ile
+borçtan kurtulamaz; ifa alacaklıların tümüne birlikte yapılmak gerekir.
+Alacaklılardan yalnız birine yapılan ifanın borcu sona erdirebilmesi, o
+alacaklıya bu konuda yetki verilmiş olması halinde mümkündür.
++
+WARNING: TBK m.85'in yukarıda açıklanan hükmü, ifaya alacaklının katılması gereken
+haller için bir önem taşır. Eğer ifa alacaklının katılımı olmadan
+gerçekleştirilebiliyorsa, bölünemeyen borcun kime ifa edileceği sorusu ile
+karşılaşılmaz.
++
+TBK m.85 uyarınca, alacaklıların tümüne birlikte ifa zorunda olan borçlu,
+alacaklılardan bir kısmı ifanın yerine getirilmesine katılmaktan kaçındıkları
+için borcunu ifa edemiyorsa, TBK m.111 hükümünde yararlanabilir.
++
+.TBK m.111
+....
+Borçlunun kusuru olmaksızın, alacağın kime ait olduğunda veya alacaklının
+kimliğinde duraksama sebebiyle ya da alacaklıdan kaynaklanan diğer kişisel bir
+sebeple borç, alacaklıya veya temsilcisine ifa edilemezse borçlu, alacaklının
+temerrüdünde olduğu gibi, tevdi ya da sözleşmeden dönme hakkını kullanabilir.
+....
++
+Alacaklılardan herbiri ifayı talep edebilirse de, bu ifanın kendisine
+yapılmasını istemek hakkı yoktur. Borçlunun bu yoldaki bir talebe uymaması onu
+temerrüde düşürmez. Buna karşılık alacaklılardan birinin borcun ifasını talep
+etmesine karşılık borçlu alacaklıların tümüne ifayı arz etmezse, ifadan
+kaçınmanın sonuçlarına katlanır.
++
+Borçlu borcu ifa etmediği için alacaklılara tazminat ödemekle yükümlü olursa,
+alacaklılardan herbiri için kendi zararının tazminini istemek hakkı
+diğerlerinin hakkından bağımsız olarak ileri sürülebilir.
+.. _Bölünemeyen borcun borçlusu birden çoksa_, borçlulardan herbiri borcun
+tamamını ifa ile yükümlüdür. İçlerinden biri borcu ifa edince alacaklı tatmin
+edilmiş olur ve borç sona erer. İşin gereğinden aksi anlaşılmadıkça, ifayı
+yapan borçlu, kendisiyle birlikte borçlu bulunan diğer borçlulara rücu ederek
+payları oranında karşılık isteme hakkına sahiptir ve bu oranda alacaklının
+haklarına halef olur. Bu konuda müteselsil borçlardaki esasların uygulanacağı
+kabul edilmektedir.
++
+Borcun ifa edilmemesi halinde, borçlulardan herbiri borcu ifa yükümü altında
+olmakla beraber ancak temerrüde düşen borçlular temerütten sorumlu olurlar.
+Borcun ifasının bazı borçluların kusuru ile imkansızlaşmış olması halinde
+sadece onlar, zararı tazminle yükümlü olurlar ve herbiri borcun tamamını ifa
+ile yükümlü olduğu için zararın tamamından da sorumlu olurlar.
+
+==== 5- Para borçlarında
+
+.TBK m.99
+....
+f.1 - Konusu para olan borç Ülke parasıyla ödenir.
+f.2 - Ülke parası dışında başka bir para birimiyle ödeme yapılması
+kararlaştırılmışsa, sözleşmede aynen ödeme veya bu anlama gelen bir ifade
+bulunmadıkça borç, ödeme günündeki rayiç üzerinden Ülke parasıyla da
+ödenebilir. 
+f.3 - Ülke parası dışında başka bir para birimiyle belirlenmiş ve sözleşmede
+aynen ödeme ya da bu anlama gelen bir ifade de bulunmadıkça, borcun ödeme
+gününde ödenmemesi üzerine alacaklı, bu alacağının aynen veya vade ya da fiilî
+ödeme günündeki rayiç üzerinden Ülke parası ile ödenmesini isteyebilir.
+....
+
+== 4- İFA ZAMANI
+
+=== I. ANLAMI VE ROLÜ
+
+. Bazen ifa zamanı, bir borcun ifasının söz konusu olabileceği _yegane zaman
+parçasını_ ifade eder. Borçlunun ister kusuru bulunsun, ister kusuru
+bulunmasın, söz konusu zaman kaçırılırsa artık borcun ifası imkansızlaşır.
+. Bazen ifa zamanı bir borcun ifa edilebileceği yegane zaman parçasını değil,
+fakat tarafların ifa için _kesin olarak kararlaştırdıkları zamanı_ ifade eder.
+Bu zaman geçtikten sonra da ifa mümkündür; fakat taraflar ifanın mutlaka
+kararlaştırılan zamanda yapılmasında anlaşmışlardır. Bu tarzda, ifa zamanı
+kesin olarak kararlaştırılan borç işlemlerine *kesin vadeli işlemler*, *mutlaka
+belirli zamanda ifası gereken işlemler* denilmektedir. İfa zamanının bu tarzda
+belirlenmesinin önemi, borçlunun söz konusu zamanı kaçırması halinde,
+alacaklının borçluya hiçbir önel (mehil) vermeden borçlu temerrüdünün kendisine
+tanıdığı yetkileri kullanabilme imkanında (TBK m.124) görülür.
+. İfa zamanı, en çok kullanılan anlamı ile TBK m.90 vd'da ifade edildiği üzere,
+alacaklının borcun ifasını talep yetkisini kullanma imkanının başladığı anı
+ifade eder. Bu andan sonradır ki borçlu, alacaklının ifa talebine uymak
+zorundadır. Bu anlamda ifa anının gelmesine _borcun muaccel olması_ denilir.
+Alacaklı ancak bundan sonradır ki alacağını dava edebilir, alacak için
+zamanaşımı bu andan itibaren işlemeye başlar.
++
+Borcun ne zaman ifa edileceği belirlenmişse buna *vade* denir. Vadesi
+belirlenmemiş borçlar, kural olarak doğar doğmaz muaccel olur. Vadeli bir
+borcun ise vade gelene kadar ifası istenemez.
++
+Bu açıdan borçlar, vadeye bağlı borçlar (müeccel borçlar) ve vadesiz borçlar
+(muaccel borçlar) diye iki kategoriye ayrılır. Vadeli bir borç da vadesi
+gelince artık vadesiz borç durumuna girer.
++
+Bazen borcun ifa edilmesi gereken zaman, an olarak değil, bir süre olarak tayin
+edilir. TBK m.92/son'a göre "Borçlu, belirli bir süre içinde yerine getirilmesi
+gereken bir borcu, bu sürenin dolmasından önce ifa etmekle yükümlüdür." Bu
+hüküm öğretide, borcun, sürenin dolması ile muaccel olacağı tarzında
+yorumlanmakta ve ancak borçlu bu süre içinde borcu ifa etmemişse alacaklının
+ifayı talep edebileceği kabul edilmektedir.
+. İfa zamanı bir de, _borçlunun borcu ifa yetkisine sahip olacağı zamanı_ ifade
+eder. Buna borcun ifa edilebilir olma zamanı denilebilir. İlk bakışta,
+alacaklının ifayı talep edebileceği zaman ile, borçlunun ifa yetkisine sahip
+olacağı zamanın aynı olduğu izlenimi uyanırsa da, durum her zaman böyle
+değildir. 
++
+Vadeye bağlı olmayan borçlarda sorun yoktur. Bu borçlarda, hem alacaklı derhal
+ifayı talep edebilir, hem borçlu derhal ifayı önerebilir. Fakat vadeye bağlı
+borçlarda, alacaklı vadeden önce ifayı talep edemezse de, prensip itibariyle
+borçlu vadeden önce borcu ifa yetkisine sahiptir. Şayet alacaklı böyle bir ifa
+teklifini reddederse, alacaklı temerrüdüne düşer. Fakat borçlu vadeden önce
+yapacağı ifa dolayısıyla borçtan bir indirim yapamaz. Ancak, sözleşme veya
+gelenek böyle bir indirime izin veriyorsa o takdirde borçlu iskonto yapma
+hakkına sahip olur.
++
+.TBK m.96
+....
+Sözleşmenin hükümlerinden veya özelliğinden ya da durumun gereğinden tarafların
+aksini kastettikleri anlaşılmadıkça borçlu, edimini sürenin sona ermesinden
+önce ifa edebilir. Ancak, kanun veya sözleşme ya da adet gereği olmadıkça
+borçlu, erken ifada bulunması sebebiyle indirim yapamaz.
+....
++
+Aslolan borçlunun vadeden önce borcu ifa edebilmesidir. Bu, vadenin borçlu
+lehine konulduğu fikrine dayanır. Fakat borçlunun vadeden önce ifa edebilme
+yetkisi, tarafların aksini kararlaştırmaları ile bertaraf edilebilir. Söz
+konusu yetkinin taraflarca bertaraf edildiği, halin icabından veya sözleşmenin
+niteliğinden de anlaşılabilir.
++
+TIP: Sözleşmede kararlaştırılan vadenin yalnız borçlu lehine değil alacaklı
+lehine de olduğu anlaşılıyorsa, tarafların vadeden önce borcun ifa
+edilememesini kararlaştırdıkları söylenebilir.
+
+=== II- BORCUN VADEYE BAĞLI OLMASI
+
+==== 1- Prensip
+
+Bir borcun bir vadeye bağlı olması, ya tarafların anlaşması, ya işin mahiyeti
+veya bir kanun hükmü icabı söz konusu olur. Yani, _prensip, borcun vadeye bağlı
+olmamasıdır_. Diğer bir ifade ile prensip, borcun derhal muaccel olması, borcun
+doğumunu takiben alacaklının ifayı derhal talep edebilmesidir.
+
+.TBK m.90
+....
+İfa zamanı taraflarca kararlaştırılmadıkça veya hukuki ilişkinin özelliğinden
+anlaşılmadıkça her borç, doğumu anında muaccel olur.
+....
+
+==== 2- Vadeye bağlanma
+
+Şayet borç bir vadeye bağlanmış ise bu takdirde alacaklı borcun ifasını ancak
+vade gelince talep edebilir.
+
+Bir borcun vadeye bağlılığı, ya tarafların anlaşmasına, ya işin niteliğine veya bir kanun hükmüne dayanır.
+
+===== _a) Tarafların anlaşması_
+
+Taraflar, bir borcu doğumundan önce ve özellikle o borca ait akitle bir vadeye
+bağlayabilecekleri gibi, bu husustaki bir anlaşmayı sonradan da yapabilirler.
+Bir borcun sonradan vadeye bağlanmasına ve özellikle mevcut vadenin
+uzatılmasına _tecil (erteleme) anlaşması_ denir. Tecil, alacaklının tek taraflı
+bir işlemi ile gerçekleşmez; iki tarafın anlaşmasına bağlıdır. Tecil anlaşması
+prensip itibariyle bir şekle bağlı değildir. Fakat kanunen şekle bağlı bir
+sözleşmede yer alan vadede değişiklik, TBK m.13 gereğince asıl sözleşmenin tabi
+olduğu şekle uyularak yapılmalıdır. Fakat sözleşmede ifa zamanı hakkında bir
+kayıt yoksa sonradan vade kararlaştırılması bir şekle tabi olmadığı gibi (TBK
+m.13/1 cümle 2) kanunen bir şekle tabi olmayan bir sözleşme şekle bağlı olarak
+yapılmışsa, bu sözleşmede yer alan vadede de değişiklik şekle tabi değildir.
+Zira TBK m.13 kanunen şekle bağlı olmayan sözleşmelere uygulanmaz.
+
+Tecil anlaşması alacağın vadesinde bir değişiklik meydana getirir ve alacaklı
+tecil süresince alacağı talep edemez. Eğer tecil, alacak muaccel olduktan sonra
+yapılmışsa işleyen zamanaşımını durdurur. Borçlu temerrüt halinde iken
+yapılmışsa tecil temerrüdü sona erdirir. Ancak, o ana kadar doğan temerrüdün
+sonuçları, taraflar ayrıca bunları ortadan kaldırmayı da amaçlamamışlarsa,
+saklı kalır.
+
+===== _b) İşin niteliği_
+
+Borcun bir vadeye bağlılığı işin niteliği gereği de olabilir.
+
+TIP: Bir eser sözleşmesinde meydana getirilecek eserin yapılması için geçecek
+süre zarfında, alacaklı eserin teslimini isteyemez. Borcun ifası, işin niteliği
+gereği vadeye bağlıdır. Bir törenin filmi çekme borcunun ifası zamanı törenin
+yapıldığı zamandır.
+
+==== 3- Vadenin tayini
+
+Yukarıdaki açıklama, vadenin, bir borcun ifasını alacaklının talep edebilme
+imkanının başladığı anı ifade ettiğini göstermiştir. Bu, önceden _açıkça
+bilinen bir tarih_ (mesela 1 Mart 1992) olabileceği gibi, bir _hesaplama ile
+bulunacak bir tarih_ de olabilir. Örneğin, sözleşmenin kurulması tarihinden
+itibaren üç ay, bir sene sonra gibi. Vade bazen ne zaman gerçekleşeceği
+bilinmeyen, fakat mutlaka gerçekleşecek bir olaya göre belirlenmiş olabilir.
+Örneğin, bir şahsın ölümü, bağ bozumu başlangıcı, tütün piyasasının açılması
+vade olarak tayin edilmiş olabilir. Bu tarzdaki vadeye *belirsiz vade (gayrı
+muayyen vade* denir. Buna karşılık şayet tarafların vade için tayin ettikleri
+olay, gerçekleşmesi kuşkulu bir olay ise, diğer bir ifade ile mutlaka
+gerçekleşecek değilse, taraflar vadeden bahsetmiş olsalar bişe, gerçekte vade
+değil, _koşul (şart)_ söz konusu olur.
+
+Bazen vade, ileride gerçekleşecek bir olaydan itibaren belli bir süre
+geçmesinden sonraki tarih olarak saptanmış bulunabilir. Eğer bu olayın
+gerçeklemesi şüpheli ise, borç hem geciktirici koşula hem de --bu koşulun
+gerçekleşmesi halinde-- vadeye bağlanmış olur.
+
+Bazen vade önceden tayin edilemez, fakat vadeyi tayin yetkisi bir şahsa --çoğu
+kez alacaklıya-- tanınmış olabilir. Bu takdirde vade, söz konusu şahsın
+kendisine tanınan hakkı kullanması ile tayin edilecektir. Bu hakkın
+kullanılmasına *muacceliyet ihbarı* denir. Vadeyi tayin hakkı bir yenilik
+doğuran hak ve muacceliyet ihbarı bir yenilik doğuran işlemdir.
+
+Muacceliyet ihbarı yapılınca, mutlaka borç hemen muaccel olmaz. TBK m.392'de
+olduğu gibi çoğu kez ihbardan sonra bir süre tanınır. Şayet böyle bir süre
+tanınmamışsa, TBK m.90'daki derhal ifa hükmünde olduğu gibi borçluya ifa için
+muhtaç olduğu zaman dürüstlük kuralı uyarınca tanınmalıdır.
+
+Vadeyi tayin yetkisi borçluya tanınmışsa, niteliği bakımından bir eksik borç
+söz konusu olur. Fakat borçlunun _uygun zamanda_ veya _ilk fırsatta_ ifayı
+yapması kararlaştırılmışsa, artık eksik borç söz konusu olmaz ve uygun zamanın
+geldiğinin, ilk fırsatın gerçekleştiğinin tespitini alacaklı mahkemeden
+isteyebilir. Uygun zamanın gelip gelmediğini, ilk fırsatın gerçekleşip
+gerçekleşemediğini hakim belirler.
+
+==== 4- Vadenin hesabı
+
+Şayet vade, belli bir tarih olarak tayin edilmiş olmayıp da bir hesap sonucu
+belli olacaksa ve taraflar bu hesabın nasıl yapılacağını kararlaştırmışlar ise
+hesap, onların kararlaştırdıkları esaslara göre yapılır. Fakat çok zaman
+taraflar hesabın nasıl yapılacağı hususunda bir şey kararlaştırmış olmazlar. Bu
+takdirde hesabın nasıl yapılacağı, tarafların vadeyi tayin ederken
+kullandıkları ifadelerin ne anlama geldiği, TBK m.91-93'deki yedek hukuk
+kurallarına tabidir. Bu kurallar, kanunen belirlenen vadeler için de uygulanır.
+
+.. _Bir ayın başı ve sonu_ tabirleri, ayın birinci ve sonuncu gününü gösterir.
+Bir _ayın ortası_, ayın uzunluğu nazara alınamdan ayın onbeşini ifade eder (TBK
+m.91).
+.. İfa, _sözleşmenin kurulmasından itibaren geçecek bir sürenin sonunda
+yapılacaksa_, vade TBK m.92'de belirtilen aşağıdaki esaslara göre hesap edilir.
+Aynı esaslar, sürenin sözleşmenin kurulmasından değil de başka bir tarihten
+itibaren hesaplanacağı hallerde de uygulanacaktır (TBK m.92/son).
+
+... Süre _gün_ ile tayin edilmişse borç, sözleşmenin kurulduğu güb sayılmayarak
+sürenin son günü muaccel olur. 
++
+TIP: 1 Martta yapılan bir sözleşmede borcun on gün sonra muaccel olacağı
+kararlaştırılmışsa, vade 11 Mart tarihidir.
+... Süre _haftalar_ ile tayin edilmiş ise borç son haftanın sözleşmenin
+kurulduğu güne ismen uyan gününde muaccel olur (TBK m.92/b. 2). 
++
+TIP: 14 Ocak 1987 Çarşamba günü yapılan sözleşmede borcun iki hafta sonunda
+muaccel olacağı kararlaştırılmışsa vade, 28 Ocak 1987 Çarşamba günüdür.
+... Müddet _ay ile_ veya _sene, yarı sene ve senenin dörtte biri_ gibi birden
+çok ayları içeren bir zaman ile tayin edildiği surette, borç, sözleşmenin
+kurulduğu gün ayın kaçıncı gübü ise son ayın bunu karşılayan günü muaccel olur.
+Son ayda karşılayan gün mevcut değilse borç son ayın son günü ifa olunur (TBK
+m.92/b.3).
++
+TIP: 16 Aralık 1986 tarihinde yapılan sözleşmede borcun iki ay sonunda muaccel
+olacağı kabuk edilmişse vade 16 Şubat 1987 tarihidir. 
+... _Yarım ay_ tabirinden on beş günlük süre anlaşılır. Süre bir veya birden
+çok ay ile yarım ayı içine alıyorsa, on beş gün son olarak hesap edilir.
++
+TIP: 20 Şubat'ta yapılan sözleşmede borcun iki buçuk ay sonunda muaccel olacağı
+kabul edilmişse, vade 5 Mayıs tarihidir.
+
+.. Borcun ifası için tayin edilen vade _tarafların anlaşması ile uzatılmışsa_,
+tarafların yeni vadeyi bir tarih olarak tayin etmiş veya tanınan ek sürenin
+hangi tarihten itibaren hesaplanacağı belirtmiş olmaları halinde, tecil
+anlaşmasındaki esaslar uygulanır. Fakat taraflar sadece 1 aylık, 15 günlük gibi
+ek bir süre tanıdıklarını bildirmekle yetinmişlerse, bu takdirde TBK m.95
+uyarınca bu ek süre eski sürenin bitişini takip eden birinci günden itibaren
+işlemeye başlar.
++
+TIP: 5 Şubat'a kadar olan süre 4 gün uzatılmışsa yeni süre 9 Şubat'ta; bir ay
+uzatılmışsa yeni süre 6 Mart'ta biter.
+.. Kanun _saatle tayin edilen sürelerin_ nasıl hesap edileceğini
+belirtmemiştir. Öğretide belirtildiği üzere saatle tayin edilen süreler
+dakikası dakikasına hesap edilir. 9:15'de tayin edilen 5 saatlik süre 14:15'de
+sona erer.
+.. Vadeyi tayinde süre hesap edilirkem, _pazar ve diğer tatil günleri_ hesaptan
+hariç tutulmaz. Bu sebeple vade hesabındaki sürenin sürekli olduğu söylenir; bu
+süre içine rastlayan tatiller önem taşımaz.
++
+Buna karşılık sürenin son günü yani vade pazara veya kanunen tatil olarak kabul
+edilen bir güne rastlarsa vade kendiliğinden, tatili izleyen ilk tatil olmayan
+güne geçer (TBK m.93). Fakat bu hüküm bir yedek hukuk kuralıdır. Taraflar
+aksini kararlaştırmış olabilirler veya işin niteliği ifanın tatil günü
+yapılacağını gösterebilir.
+
+==== 5- Vadede ifa zamanı
+
+.TBK m.94
+....
+Borç, alışılmış iş saatlerinde ifa ve kabul edilir.
+....
+
+Bu da bir yedek hukuk kuralıdır. Taraflar aksini kararlaştırabilirler veya işin
+niteliği ifanın iş saatleri dışında yapılacağını gösterebilir.
+
+== 5- İFA YERİ
+
+=== I- ROLÜ
+
+İfada göz önüne alınacak bir unsur da *ifa yeridir*. İfa yerinden başka yerdeki
+ifa teklifini alacaklı kabule mecbur değildir. Meğer ki dürüstlük kuralı ifa
+yerinden başka bir yerde arz edilen ifayı kabul etmeyi gerekli kılsın.
+
+Alacaklı, ifa yerinden başka yerde arz edilen ifayı, kabule mecbur olmamasına
+rağmen, isterse kabul edebilir ve böyle bir ifa ile de borç sona erer, fakat
+isterse ifayı kabul etmez ve borçlu ifa etmemenin sonuçlarına tabi olur. Buna
+karşılık ifa yerinde usulüne uygun şekilde arz edilen  ifayı alacaklı kabul
+etmezse alacaklı temerrüdüne düşer.
+
+=== II- İFA YERİNİN BELİRLENMESİ
+
+. Edimin niteliği gereği ifası _yalnız belirli bir yerde mümkünse_, zorunlu
+olarak borç ancak orada ifa edilebilecektir.
+. Şayet edimin niteliği gereği mutlaka _belirli bir yerde ifa zorunluluğu
+yoksa_, bu takdirde ifa yeri aşağıdaki esaslara göre tayin edilir.
+
+.. İfa yeri herşeyden önce _tarafların açık veya örtülü anlaşmasına göre
+belirlenir_. İfanın niteliği veya bir adetin varlığı, ifa yeri konusunda bir
+örtülü anlaşmanın varlığını gösterebilir.
++
+Taraflar ifa yerini borcun doğumundan sonra yapacakları bir anlaşmayla
+değiştirmiş de olabilirler.
+.. Bazı borçlar için _ifa yerini kanunun bir hükmü belirtmiş_ olabilir.
+.. _Tarafların anlaşması veya bir kanun hükmü ile tayin edilmiş değilse_, ifa
+yeri, TBK m.89'daki yedek hukuk kurallarına göre belli olacaktır.
+
+... _Para borçları_, alacaklının ifa zamanındaki yerleşim yerinde ifa edilmek
+gerekir (TBK m.89/b.1). Para borcunun sözleşmeden, haksız fiil veya sebepsiz
+zenginleşmeden doğması fark etmez.
+... Borç belirli şeyin verilmesine ilişkinse (_parça borcu_), bu şey
+sözleşmenin kurulması zamanında nerede bulunuyorsa orada teslim edilmesi
+gerekir (TBK m.89/b.2). Öğretide bu esasın uygulanması, ancak tarafların söz
+konusu şeyin borçlunun yerleşim yerinden başka bir yerde bulunduğunu bilmeleri
+şartına bağlı sayılmaktadır.
+... _Bunlardan başka her borç_, borcun doğumu zamanında borçlunun yerleşim yeri
+neresi ise orada ifa olunmak gerekir (TBK m.89/b.3).
+
+.. _Bir sözleşmeden taraflar için doğan çeşitli borçların_ her biri için ifa
+yeri yukarıdaki esaslara göre ayrı ayrı tayin edilir.
+
+=== III- İFA YERLERİNİN SINIFLANDIRILMASI
+
+==== 1- Aranılacak borçlar
+
+Borçlunun yerleşim yerinde veya malın bulunduğu yerde ifa edilecek borçlar için
+aranılacak borçlar denilmektedir. Zira alacaklı bizzat veya temsilci vasıtası
+ile alacağını söz konusu yerden almak zorundadır. TBK m.89/b.2 ve 3'de
+belirtilen ifa yerleri bakımından durum böyledir. Aranılacak borçlarda, borç
+konusu şeyi alıp götürmek, yani nakil sorununu çözmek alacaklıya aittir.
+Alacaklı ifa zamanında orada hazır bulunmaz veya bir temsilci göndermezse,
+ifaya hazır borçluya karşı alacaklı temerrüdüne düşer.
+
+==== 2- Götürülecek borçlar
+
+Alacaklının yerleşim yerine yahut ifa yeri olarak tayin edilen yere borçlu
+tarafından götürülecek veya masrafı ve hasarı borçluya ait olarak nakledilecek
+şeylere ilişkin borçlara, götürülecek borçlar denilmektedir. TBK m.89/b.1'de
+belirtilen para borçları için durum böyledir. Borçlu ifa zamanında borç konusu
+şeyi ifa yerinde hazır bulundurmazsa, ifadan kaçınmanın sonuçları ile
+karşılaşır. Alacaklının yerleşim yerinde ifa gereken hallerde, borcun
+doğumundan sonra alacaklının yerleşim yeri değişmişse veya alacaklı değiştiği
+--örneğin alacak temlik edildiği-- için yerleşim yeri değişmişse ve bu yüzden
+borcun ifası önemli derecede güçleşmişse borçlu borcu alacaklının önceki
+yerleşim yerinde ifa edebilir (TBK m.89/3). Şayet yerleşim yeri değişikliğinin
+meydana getirdiği güçlük önemli derecede değilse, bu güçlüklere katlanmak
+borçluya aıttir. Fakat yerleşim yeri değişikliğinin yol açtığı ek nakil
+masraflarını alacaklı yüklenecektir.
+
+==== 3- Gönderilecek borçlar
+
+Bunlar ifa yeri bakımından aranılacak borçlar gibidir. Malın bulunduğu yer veya
+borçlunun yerleşim yeri, ifa yeridir. Fakat borçlu, masrafı ve hasarı
+alacaklıya ait olmak üzere malı, alacaklının göstereceği yere gönderme
+yükümlülüğünü üzerine almıştır. Gönderilecek borçlarda götürülecek borçlardan
+farklı olarak, borçlu, malı göndermekle kendine düşen ifa fiilini tamamlamış
+olur. Artık gidiş sırasındaki hasar ve gecikme riskleri kural olarak alacaklıya
+aitti. Bununla beraber mal alacaklıya ulaşıncaya kadar borç sona ermez. Borç,
+alacaklı malı teslim alınca sona erer. Fakat göndermeden itibaren borçlunun
+yükümlülüğü nakliyenin normal seyrine müdahele etmemek, yani alacaklının malı
+elde etmesine engel olmamaktır.
+
+== 6- İFANIN İSPATINI SAĞLAYACAK ÖNLEMLER
+
+Bir borcu ifa ettiğini ve böylece borçtan kurtulduğunu iddia eden borçlu, bu
+iddiasını ispatla yükümlüdür.
+
+WARNING: Kural olarak hukuki işlem tarzında gerçekleştirilen ifalar değeri 2500
+TL veya üzeri ise yahut değeri ne olursa olsun alacak senede bağlı ise, yazılı
+delille ispat edilmek gerekir; şahitle ispat edilemez (HMK m.201).
+
+Kuralın istisnaları mevcuttur ve ifa açısından önemli olan istisna, ifanın
+yazılı delile bağlanmamasının alışılagelmiş usul olmasıdır. Peşin para ile
+alışveriş edilen bir pazar yerinde mal almış olan kimse, değeri 2500 TL veya
+üstü olsa dahi satın aldığı malların bedelini ödediğini ispat için yazılı delil
+göstermek zorunda değildir.
+
+Borçlar Kanunu, borçluya ifayı ispat imkanını sağlamak için alacaklıya ifa
+sırasında bazı mükellefiyetler yüklemiş ve ispatı kolaylaştıracak bazı
+karineler kabul etmiştir (TBK m.103-105).
+
+Borçlar Kanununda yer alan söz konusu hükümler her ne kadar para borçlarının
+ifasına ilişkin ise de, bunların diğer borçların ifasında da uygulanması
+gerektiği öğretide çoğunlukla kabul edilmektedir.
+
+=== I- ALACAKLIYA YÜKLETİLEN YÜKÜMLER
+
+Borcunu ödeyen borçluya karşı alacaklı, makbuz verme, senedi iade etme, senedi
+iptal etme, ödemeyi senede yazma gibi yükümler altındadır. Bu yükümler birer
+borç teşkil etmediği için borçlu, makbuz verilmesi, senedin iadesi vb.
+hususunda dava açamayacağı gibi, yükümün yerine getirilmemesi yüzünden uğradığı
+bir zararın tazminini talep edemez. Alacaklı sadece yükümü yerine
+getirmemesinin borçluya sağldaığı yetkilerin kullanılmasının sonuçlarına
+katlanır.
+
+==== 1- Makbuz verme
+
+Borçlunun borcu ödediği hususunda en kuvvetli delile bir makbuz elde etmekle
+sahip olacağını gözönünde tutan Borçlar Kanunu, borcu ödeyen borçluya bir
+makbuz isteme imkanı tanınmıştır (TBK m.103). Makbuz, alacaklı veya temsilcisi
+tarafından imzalanan ve borcun ödendiğini ifade eden bir belgedir ve ödemenin
+delilini teşkil edecektir.
+
+Alacaklı borçlunun talep ettiği makbuzu vermeyeceğini beyan ederse, borçlu;
+ödemeyi alacaklıya yapmaktan kaçınabilir ve alacaklı temerrüdü hükümlerinden
+yararlanarak borçtan kurtulabilir veya alacaklının makbuz vermeyi kabul
+etmesini bekleyebilir. Bu yüzden borçlu, temerrüde düşmüş sayılmaz.
+
+Şayet alacaklı, borç ödendikten sonra makbuz vermekten kaçınırsa, borçlu bir
+tespit davası ile alacaklının makbuz vermekten kaçındığını tespit ettirebilir.
+
+Eğer alacaklı, makbuzu henüz ödeme yapılmadan vermiş ve ödeme yapılmamışsa,
+alacaklı ödeme yapılmadan ileri ödeme yapılacağı düşüncesiyle makbuz verdiğini,
+fakat ödemenin yapılmadığını ispat ederek makbuzu hükümsüz kılabilir.
+
+Faiz isteme hakkını saklı tutmadan makbuz veren alacaklı, TBK m.131/2
+paralelinde TBK m.104 uyarınca, artık faiz isteyemez.
+
+.TBK m.131/2
+....
+İşlemiş faizin ve ceza koşulunun ifasını isteme hakkı sözleşmeyle veya ifa
+anına kadar yapılacak bir bildirimle saklı tutulmuş ise ya da durum ve
+koşullardan saklı tutulduğu anlaşılmaktaysa, bu faizler ve ceza koşulu
+istenebilir.
+....
+
+.TBK m.104
+....
+f.1 - Faiz veya kira bedeli gibi dönemsel edimlerden biri için, alacaklı
+tarafından çekince belirtilmeksizin makbuz verilmişse, önceki dönemlere ait
+edimler de ifa edilmiş sayılır.
+f.2- Alacaklı anaparanın tamamı için makbuz vermişse, faizlerini de almış
+olduğu kabul edilir.
+f.3 - Borç senedi borçluya geri verilmişse, borç sona ermiş sayılır.
+....
+
+Borcun kısmen ödenmesi halinde de yapılan ödeme için makbuz verilecektir.
+
+Borcu borçludan başka bir şahıs ödediği takdirde, bu üçüncü şahsın da makbuz
+isteme hakkına sahip olduğu kabul edilmektedir.
+
+==== 2- Senedin iadesi
+
+Alacaklıya alacağı için senet verilmiş olan hallerde, şayet borcun tamamı
+ödenmiş ise, kanun borçluya senedin iadesini isteme hakkı tanımaktadır. Zira
+ödemeden sonra senedin alacaklıda kalması borçlu için tehlike yaratmaya
+müsaittir. Gerçekten, ödeme için makbuz alınmamışsa veya alınan makbuzu borçlu
+kaybetmişse, senedi elinde bulunduran alacaklının yapacağı yeni ödeme talebi
+karşısında borçlu kendisini savunmada çok güç duruma düşer. Bu sebepledir ki
+TBK m.103, borcun tamamını ödeyen borçluya, senendi geri isteme hakkını
+tanımaktadır.
+
+.TBK m.103
+....
+Borcu ödeyen borçlu, bir makbuz ve borcun tamamı ödenmişse, buna ilişkin borç
+senedinin geri verilmesini veya iptalini isteyebilir.
+....
+
+Borç üçüncü şahıs tarafından ödenmişse, --üçüncü şahsın alacaklıya halef olduğu
+haller dışında-- borçlu senedin kendisine iadesini isteyebilir.
+
+==== 3- Senedin iptali
+
+Borçlar Kanunu, borcun tamamını ödeyen borçluya, senedin geri verilmesi hakkını
+kullanma yerine, senedin iptalini isteme hakkını da tanımıştır (TBK m.103).
+
+Şayet alacaklı senedi kaybettiğini iddia ederse, o takdirde senedin geri
+verilmesi söz konusu olamayacağı için borçlu, borcun ödendiğini ve senedin
+iptal edildiğini gösteren resmen düzenlenmiş veya usulüne göre onaylanmış bir
+belge talep etmekle yetinecektir (TBK m.105).
+
+.TBK m.105
+....
+f.1 - Alacaklı, borç senedini kaybettiğini iddia ederse, borçlunun istemi
+üzerine, borcu ödeme sırasında, kendisine borç senedinin iptalini ve borcun
+sona ermiş olduğunu gösteren resmen düzenlenmiş veya usulüne göre onaylanmış
+bir belge vermek zorundadır.
+f.2 - Kıymetli evrakın iptaline ilişkin hükümler saklıdır.
+....
+
+Resmen düzenlenmiş veya usulüne göre onaylanmış belgeden maksat, noter
+tarafından düzenleme şeklinde verilmiş veya imzası onaylanmış bir belgedir. Bu
+belgenin masraflarına alacaklı katlanacaktır.
+
+Alacaklı böyle bir belge vermeyeceğini beyan etmişse, borçlu borcu ödemekten
+kaçınabilir ve alacaklı temerrüdüne ait hükümlerden yararlanarak borçtan
+kurtulabilir. Şayet borç ödendikten sonra alacaklı senedi iade etmez ve iptal
+edildiğine dair belge vermezse, borçlu bu hususun tespiti için bir dava
+açabilir.
+
+==== 4- Ödemenin senede yazılması
+
+Borçlu, borcun tamamını değil de bir kısmını ödemişse, senedin iadesini
+isteyemez. Fakat sadece makbuzla yetinmesi de, makbuzun kaybı halinde ifayı
+ispat bakımından güç duruma düşmesine yol açabilir. Bu sebeple TBK m.103,
+ikinci fıkrada, borçluya alacağı makbuzdan bşka, yaptığı kısmi ödemenin senede
+kaydedilmesini isteme hakkı tanımıştır. Alacaklı bu talebe uymazsa borçlu
+ifadan kaçınabilir. Şayet alacaklı senedi kaybettiğini iddia ederse TBK m.105
+hükümlerine göre düzenlenecek belgede kısmi ödeme belirtilmelidir.
+
+=== II- KARİNELER
+
+Yukarıda belirtilen hükümler uyarınca borçlunun alacaklıdan makbuz elde etmiş
+veya senedi geri almış olmasının ispat bakımından ne gibi hükümler doğuracağı
+TBK m.104'te ifade edilmiştir.  
+
+==== 1- Senedin iade edilmiş olması
+
+Makbuz, ödendiği ifade edilen borcun ödendiği hususunda doğrudan doğruya bir
+delil teşkil ederse, senedin iade edilmesinde doğrudan doğruya böyle bir beyan
+yoktur. Fakat alacaklının senedi borçluya iade etmiş olması, borcun ödeme veya
+başka bir sebeple sona erdiğine karine teşkil eder. TBK m.104'ün son fıkrası
+"Borç senedi borçluya geri verilmişse, borç sona ermiş sayılır" diyerek bu
+karineyi ifade etmiştir. Alacaklı karinenin aksini ispat ederse, karine hüküm
+ifade etmez.
+
+Fakat karinenin söz konusu olabilmesi için senedin herhangi bir şekilde
+borçlunun eline geçmesi yetmez, alacaklının senedi iade ettiğinin sabit olması
+gerekir. Mamafih, borç için alacaklıya bir senet verildiği sabitse, senedin
+borçlunun elinde olnması bunun iade edildiğini farzettirir. Meğer ki alacaklı,
+senedi çaldırdığını veya kaybettiğini ispat etsin. Bu husus, alacaklının TBK
+m.104'deki karineyi çürütmesi ile karıştırılmamalıdır. Burada alacaklı senedi
+iade etmediğini ispat etmektedir. Karinenin çürütülmesinde ise, alacaklı,
+senedi iade ettiğini kabul etmekte fakat iadenin borcu sona erdirmekten başka
+bir maksatla yapıldığını ispat etmektedir.
+
+==== 2- Anapara için makbuz verilmiş olması
+
+Anapara için verilen makbuz, faizlerin de ödendiğine karine teşkil eder. TBK
+m.104'ün ikinci fıkrası "Alacaklı anaparanın tamamm için makbuz vermişse,
+faizlerini de almış olduğu kabul edilir" diyerek bu karineyi ifade etmiştir.
+
+TBK m.100'e göre borçlu, faizleri ödemeden yapacağı ödemenin ana paraya mahsup
+edilmesini isteyemez. Böylece alacaklı ana parayı almışsa, ya daha önce veya
+hiç değilse aynı anda faizleri de almış demektir. TBK m.130/1'e göre de, ana
+para alacağı sona erince, esas itibariyle evvelce işleyen faizler de sona erer.
+Meğer ki bu faizleri talep hakkı saklı tutulmuş olsun.
+
+==== 3- Dönemsel borçlarda bir taksit için makbuz verilmiş olması
+
+Bir kira sözleşmesinden çeşitli devrelerde doğan kira bedeli, bir ödünç
+ilişkisinde meydana gelen faiz gibi, belirli aralıklarda doğan veya bir
+taksitle satıştaki taksitler gibi belirli aralıklarda muaccel olan borçlara
+dönemli borçlar denilmektedir. Bu borçlarda bir döneme ait borç için
+alacaklının makbuz vermesi, daha önce doğmuş veya muaccel olmuş borçların
+ödenmiş olduğuna karine teşkil eder. Eğer önceki taksitler ödenmeden daha
+sonraki bir taksit ödeniyorsa, kanun alacaklının bu hususu makbuza kaydetmesini
+aramaktadır. Gerçekten TBK m.104'ün birinci fıkrasına göre "Faiz veya kira
+bedeli gibi dönemsel edimlerden biri için, alacaklı tarafından çekince
+belirtilmeksizin makbuz vermişse, önceki dönemlere ait edimler de ifa edilmiş
+sayılır".
+
+== 7- İKİ TARAFA BORÇ YÜKLEYEN SÖZLEŞMELERDE İFA
+
+=== I- İKİ TARAFA BORÇ YÜKLEYEN SÖZLEŞME KAVRAMI
+
+Sözleşmeler taraflara borç yükleme açısından iki gruba ayrılır. Bir kısım
+sözleşmeler taraflardan yalnız birine borç yükler. Bunlara *tek tarafa borç
+yükleyen sözleşmeler* veya daha kısa olarak *tek taraflı sözleşmeler* denilir.
+Bu kategoriye giren sözleşmelere tipik örnek, bağışlama vaadi ve kefalet
+sözleşmesidir. Bir kısım sözleşmelerde ise her iki taraf da borç altına gier.
+Bunlara da *iki tarafa borç yükleyen sözleşmeler* veya daha kısa olarak *iki
+taraflı sözleşmeler* denilir.
+
+Bazı iki taraflı sözleşmelerde taraflardan her birinin borcu diğer tarafın
+borcunun karşılığını teşkil eder. Taraflardan her biri diğer tarafın edimini
+elde etmek için borç altına girer. Bir edim değişimi söz konusudur. Alım-satım
+sözleşmesi, kira sözleşmesi, hizmet sözleşmesi, bu tip sözleşmelere örnek
+teşkil eder. Gerçekten alım satımda alıcının borcu (satış bedelini ödeme) ile
+satıcının borcu (satılanın mülkiyetini nakil) birbirinin karşılığını teşkil
+eder. Kira sözleşmesinde kiracının borcu (kira bedelini ödeme) ile kiralayanın
+borcu  (kiralanan şeyin kullanılmasını kiracıya bırakma); hizmet sözleşmesinde
+işverenin borcu (ücret ödeme) ile işçinin borcu (iş görme) birbirinin
+karşılığıdır. Bu tarzdaki iki taraflı sözleşmelere *tam iki taraflı
+sözleşmeler* veya *karşılıklı edimler içeren sözleşmeler* denilir. Borçlar
+Kanunu bu sözleşmeler için *karşılıklı borç yükleyen sözleşme* tabirini
+kullanmıştır (TBK m.97).
+
+Bazı iki taraflı sözleşmelerde ise, bir taraf her zaman borç altına girer;
+diğer taraf ise ancak bazı şartlar gerçekleşirse borç altına girer. Ücretsiz
+vekalet ve ücretsiz saklama sözleşmelerinde durum böyledir. Ücretsiz vekalet
+sözleşmesinde, her zaman için borç altına giren vekildir. Vekil üstüne aldığı
+işi yapmak borcu altındadır. Şayet vekil işi görürken masraf yaparsa ancak o
+takdirde müvekkil bu masrafı ödeme borcu altına girer (TBK m.510). Fakat işin
+görülmesinde vekil masraf yapmış olmadıkça müvekkil için bir masraf ödeme söz
+konusu olmaz. Keza ücretsiz saklama (vedia) sözleşmelerinde de durum böyledir.
+Saklayan saklananı muhafaza etmek borcu altına girer (TBK m.562). Vekilin ve
+saklayanın masrafın ödenmesine ait talepleri kendi borçlarının karşılığı değil,
+masraf yapmış olmalarının sonucudur. Masraf yapılmış olsun veya olmasın, vekil
+yüklendiği işi görme, saklayan ise saklananı muhafaza etme borcu altındadır.
+
+Gene iki tarafa borç yükleyen sözleşmelerde, bazen bir tarafın bir borcu, diğer
+tarafın borcunun karşılığı değil, o borcun ifa edilmiş olmasının, daha doğru
+bir ifade ile bir malın tesliminin sonucudur.
+
+TIP: Para ödüncü sözleşmesinde, ödünç alanın iade borcu ancak ödünç verenin
+borcunu yerine getirmesiyle doğar. Mal ödüncü sözleşmesinde ödünç alanın, kira
+sözleşmesinde kiracının iade borcu, ödünç verilen şeyin ödünç alana ve
+kiralanan şeyin kiracıya teslim edilmesi üzerine doğar. Bunlar karşılıklı
+borçlar değildir.
+
+İşte, yukarıdaki iki durumdaki gibi, edim borçlarının birbirinin karşılığı
+(ivazı) olmayıp, bir tarafın bazı şartlarla borç altına girdiği veya bir
+tarafın borcunun diğer tarafın ediminin bir tamamlayıcı sonucundan ibaret
+olduğu iki taraflı sözleşmelere, *eksik iki taraflı sözleşmeler* denilir.
+
+=== II- İKİ TARAFA BORÇ YÜKLEYEN SÖZLEŞMELERDE KARŞILIKLI BORÇLARI İFA SIRASI
+
+Eksik iki taraflı sözleşmelerde ifa sırası işin niteliğinden anlaşılır. Tam iki
+taraflı sözleşmelerde ise karşılıklı borçların hangi sıraya göre ifa edileceği
+çözülmesi gerekli önemli bir meseledir.
+
+==== 1- Taraflardan birinin borcunu önce ifa etmesi gereken haller
+
+.. Taraflardan hangisinin borcunu daha önce ifa edeceğini _taraflar
+kararlaştırmışlarsa_, kararlaştırılan sıraya uyulmak gerekir.
+.. Taraflardan birinin, borcunu daha önce ifa etmesi gerektiği _kanun
+tarafından belirtilmiş ise_, taraflar aksini kararlaştırmış olmadıkça kanunda
+öngörülen sıraya uyulacaktır.
+.. Bazen taraflardan birinin borcunu önce ifa etmesi lüzumu, _işin niteliği
+gereği_ olabilir.
+.. Nihayet taraflardan birinin borcunu önce ifa etmesi gereği, bir _teamül
+icabı_ olabilir.
+
+==== 2- Aynı zamanda ifa gereken haller
+
+Şayet, sözleşme, kanun, işin niteliği ve teamül, taraflardan birinin borcunu
+önce ifa etmesini gerekli kılmıyorsa, taraflardan hiçbiri diğerinden önce
+borcunu ifaya mecbur değildir; başka bir ifade ile, her iki tarafın borcu
+karşılıklı olarak aynı zamanda ifa edilmek gerekir. Bu esas, satış
+sözleşmesinde TBK m.207/2'de açıkça ifade edilmiştir.
+
+.TBK m.207/2
+....
+Sözleşme ile aksi kararlaştırılmadıkça veya aksine bir adet bulunmadıkça,
+satıcı ve alıcı borçlarını aynı anda ifa etmekle yükümlüdürler.
+....
+
+Fakat öğretide belirtildiği üzere, karşılıklı aynı anda ifa esası, karşılıklı
+edimlerin ifa yerinin aynı yer olması halinde kolaylıkla uygulanabilirse de,
+karşılıklı borçların ifa yerlerinin farklı olması halinde bu esasa uyulması
+güçtür ve bu sebeple çok zaman taraflardan biri daha önce ifa etme durumuna
+girecektir.
+
+Kaldı ki, aynı zamanda ifa ister kolayca uygulanabilecek olsun ister olmasın,
+bu esasa tabi olan ifalarda, bir taraf diğerini borcunu ifaya zorlayabilmek
+için, bizzat kendi borcunu ifa etmiş veya ifasını teklif etmiş olmalıdır. Aksi
+halde karşı taraf, karşılıklı olarak aynı zamanda ifa esasına göre kendisinin
+önce ifa zorunda olmadığını ileri sürerek yapılan ifa talebine uymayabilir.
+Borçlar Kanunu bu bakımdan tarafların sahip olduğu yetkiyi 97. maddesinde
+düzenlemiştir.
+
+=== III- ÖDEMEZLİK DEFİ
+
+==== 1- TBK m.97'de düzenlenen hükmün niteliği
+
+.TBK m.97
+....
+Karşılıklı borç yükleyen bir sözleşmenin ifası isteminde bulunan tarafın,
+sözleşmenin koşullarına ve özelliklerine göre daha sonra ifa etme hakkı
+olmadıkça, kendi borcunu ifa etmiş ya da ifasını önermiş olması gerekir.
+....
+
+Diğer bir ifade ile, karşılıklı sözleşmelerde bir tarafın diğerini borcunu
+ifaya zorlayabilmesi için, kendi borcunu ifa etmiş veya ifasını teklif etmiş
+olması gerekir. Meğer ki kendi borcu için bir vadeden istifadesi söz konusu
+olsun.
+
+==== 2- Ödemezlik def'inin önemi ve işlevi
+
+Ödemezlik def'i taraflara, karşı edim ifa edilinceye kadar hiç değilse ifası
+teklif edilinceye kadar, kendi borcunu ifadan kaçınma imkanı sağlamaktadır.
+Ödemezlik def'ini kullanan kimse, sözleşme bağlılığının bozulmasını istemiş
+olmaz. Sadece karşı edim ifa edilinceye kadar kendi borcunu ifa etmeyeceğini
+beyan etmiş olur. Böylece; bir yandan kendi ediminin karşılıksız olarak elinden
+çıkmasına engel olmuş, diğer yandan karşı tarafın borçlandığı karşı edimi
+yerine getirmesi için ona baskı yapmış olur. Böylece def'i hakkının bir bakıma
+bir teminat, bir bakıma baskı fonksiyonu vardır.
+
+==== 3- Ödemezlik def'inin şartları
+
+.. Bir _karşılıklı sözleşme söz konusu olmalıdır_. Esas itibariyle eksik iki
+taraflı sözleşmeler ve sözleşme dışı borç ilişkileri TBK m.97'nin uygulanma
+alanı dışında kalır. Fakat, iki tarafa yükledikleri borçlar arasında karşılıklı
+sözleşmenin edimleri arasında bulunan ilişkiye benzer bir ilişki bulunan eksik
+iki taraflı sözleşmelere ve sözleşme dışı bazı borç ilişkilerine TBK m.97'nin
+kıyasen uygulanacağı da kabul edilmektedir.
++
+TIP: Ücretsiz vekalette vekilin kendi namına, fakat müvekkili hesabına iktisap
+ettiği şeyin mülkiyetini müvekkile geçirme borcu ile (TBK m.508), vekil
+tarafından o şeyin iktisabı için yapılan masrafları müvekkilin vekile ödeme
+borcu (TBK m.510) bakımından alım-satım sözleşmesinde tarafların karşılıklı
+borçlarına benzer bir durum vardır. İşte böyle hallerde TBK m.97'nin kıyasen
+uygulanabileceği kabul edilmektedir.
+.. Karşılıklı sözleşmeden doğan bütün borçlar için değil, _ancak karşılıklı
+borçlar_ yani biri diğerinin karşılığı olan edimler için TBK m.97
+uygulanabilir. Aynı sözleşme içinde yer almakla beraber, aralarında değişim
+ilişkisi bulunmayan edimler ve yan borçlar için ödemezlik def'i kullanma imkanı
+yoktur.
+.. _Karşılıklı her iki borç da doğmuş ve sona ermemiş olmalıdır_.
+
+... _Kendisinden ifa talep edilen kişinin_ (davalının) borcu henüz doğmamış ise
+veya ifa, takas, imkansızlık vb. sebebiyle sona ermiş ise, bu kişinin ödemezlik
+def'i kullanmasına gerek yoktur. Borcun doğmamış veya sona ermiş bulunması
+talebin reddi için yeter sebeptir.
+... _İfa talebinde bulunan tarafın_ (davacının) karşı borcu henüz doğmamışsa
+veya sona ermişse, kendisinden ifa talep edilen tarafın (davalının) ödemezlik
+def'ine dayanak olacak bir alacağı yoktur.
++
+Şayet karşı borç sona ermiş olmayıp da zamanaşımına uğramış ise, bu halde
+kendisinden ifa talep edilen tarafın (davalının), zamanaşımına uğramış
+alacağına dayanarak ödemezlik def'i ileri sürüp süremeyeceği tartışmalıdır.
+Zamanaşımının alacağı sona erdirmeyip talep edilmesine etki ettiği fakat def'i
+haklarının zamanaşımına uğramayacağı gerekçesiyle, zamanaşımına uğrayan alacağa
+dayanarak ödemezlik def'inin ileri sürülebileceği fikri makul gözükmektedir.
++
+Karşı borç kısmen sona ermiş olup da kısmen devam ediyorsa, örneğin, bu borcun
+bir kısmı ifa edilmiş olup diğer kısmı henüz ifa edilmemişse, geri kalan kısım
+dahi, alacaklının ödemezlik def'ini ileri sürmesine imkan verir ve böylece
+alacaklı karşı edimin bütününü elde edinceye kadar kendi ediminin bütününü
+ifadan kaçınabilir. Ancak, şayet geri kalan kısmın çok önemsiz olması yüzünden
+ödemezlik def'i kullanılması dürüstlük kuralına (MK m.2) aykırı ise, o takdirde
+kullanılan def'i hukuken etkisizdir veya sadece, karşı borcun eksik kısmına
+karşı gelen oranda bir kaçınmaya imkan verir.
++
+İfa edilmiş edimin borca uygun olmaması örneğin ayıplı olması halinde ayıplı
+şeyin değiştirilmesi veya ayıbının düzeltilmesinin istenebildiği hallerde
+alacaklı kendi karşı borcu talep edilince ödemezlik def'ini ileri sürebilir.
+
+.. _Taraflardan birinin borcunu önce ifa etmesi gerekmemelidir._
+
+... _İfa talebinde bulunanın_ (davacının) borcunu önce ifa etmesi gerekiyorsa,
+alacağı, borcunun ifasından sonra muaccel olacak ise onun alacağını talep
+edebilmesi kendi borcunu yerine getirmiş olmasına bağlıdır.
+... _Kendisinden ifa talep edilen taraf_ (davalı) önce ifa ile yükümlü ise,
+ödemezlik def'ini ileri sürmesi mümkün değildir. Hatta karşı tarafın
+(davacının) kendi borcunu ifa edeceği hususu kuşkulu olsa dahi sonuç değişmez
+ve önce ifa edecek olan, karşı edimin ifa edileceği hususunda teminat da
+isteyemez.
++
+Bununla birlikte, şayet karşı taraf (davacı) edimini ifa etmeyeceğini veya ifa
+edecek durumda bulunmadığını açık ve kesin olarak ifade etmişse, önce ifa
+zorunda olan (davalı) tarafın önce ifa yükümlülüğünün kalkacağı, zira, kendi
+edimini ifa etmeyeceğini açıklayan kimsenin karşı edimi talep etmesinin
+dürüstlükle (MK m.2) bağdaşmayacağı kabul edilmelidir. Böylece bu halde ifa ile
+yükümlü olan (davalı) ödemezlik def'ini ileri sürebilecektir.
++
+Bir de sürekli ve dönemsel edimlerin söz konusu olduğu sözleşmelerde önce ifa
+zorunda olan tarafın, yerine getirdiği bölümün karşılığını alamamış bulunması
+halinde, edimini ifaya devam etmekten kaçınabileceği de kabul edilmektedir.
+
+.. _Her iki tarafın alacağı da muaccel olmalıdır._
+
+... _İfa talebinde bulunan tarafın_ (davacının) alacağı henüz muaccel olmasına
+rağmen onun karşı alacağı muaccel değilse, ödemezlik def'ini kullanması imkanı
+yoktur. Çünkü davacının dava hakkı doğmamıştır. Dava bu yüzden reddedilecektir.
+... _Kendisinden ifa talep edilen tarafın_ (davalının) borcu muaccel olmasına
+rağmen onun karşı alacağı muaccel değilse, ödemezlik def'ini kullanması imkanı
+yoktur.
++
+TIP: Bu sorun, önce ifa konusundan farklıdır. Şöyle ki karşılıklı sözleşmede
+(A)'nın borcu 1 Mart 2012'de muaccel olsa ve (B)'nin borcu 30 Mart 2012'de
+muaccel olacak ise, 30 Mart'a kadar (A), (B)'den ifa talep edemez; buna
+karşılık (B), (A)'dan ifa talep edebilir ve (A) ödemezlik def'ini ileri
+süremez. Şayet 30 Mart'a kadar henüz iki borç da ödenmiş değilse, 30 Mart'tan
+itibaren her iki taraf da diğerinden ifa talebinde bulunabilir ve buna karşılık
+gene her iki karşı taraf da ödemezlik def'ini ileri sürebilir. Zira ayrı
+vadeler önce ifa borcu bulunduğu anlamına gelmez; sonraki borcun vadesi de
+geldikten sonra, gene iki tarafın aynı anda ifa etmesi gereken bir durum doğar.
+Yeter ki aksi kararlaştırılmış olmasın. 
+
+.. _Karşı taraf (davacı) borcunu ifa etmediği gibi, ifasını da teklif etmiş
+olmamalıdır._
++
+Karşı taraf (davacı) şayet borcunu ifa etmiş bulunuyorsa, esasen o borç sona
+ermiş olacağı için yukarıda (c)'de incelenen şart gerçekleşmediği, ortada
+ödemezlik def'ine dayanak olacak alacak bulunmadığı için def'in ileri sürülmesi
+söz konusu olmaz.
++
+Karşı taraf (davacı) borcunu ifa etmiş olmamakla beraber, ifayı teklif etmiş
+ise, bu da diğer tarafın (davalının) ödemezlik def'ini ileri sürmesine engel
+olur. Yalnuz bu sonucun meydana gelebilmesi için, ifa önerisinin reddi alacaklı
+temerrüdüne yol açacak tarzda (TBK m.106) yapılmış olması gerekir. Kısaca, ifa
+teklifi borca uygun tarzda yapılmış olmalıdır. Aksi halde borca uygun olmayan
+ifa teklifi ödemezlik def'ine engel olmaz.
++
+Borcu ifa ettiğini veya uygun ifa teklifinde bulunduğunu ispat, ödemezlik
+def'inin ileri sürülemeyeceğini iddia edene (davacıya) düşer.
+
+==== 4- Ödemezlik def'inin kullanılması tarzı ve kullanmanın hükmü
+
+İfa, bir dava açılmadan talep edilirse, ödemezlik def'i ifayı talep edene
+yöneltilecek bir beyanla kullanılabilir. Borç ilişkisi şekle tabi olsa bile bu
+beyan bir şekle tabi değildir ve beyanda sadece karşı borç ifa edilinceye kadar
+kendi borcunu ifa etmeyeceğinin bildirilmesi yeter sayılmakta, ifadan kaçınma
+sebebinin dayanağının bildirilmesi aranmamaktadır.
+
+Ödemezlik def'inin kullanılması ile alacaklının talebi def'in kullanılabileceği
+andan itibaren haksızlaşmış olur.
+
+Ödemezlik def'i kullanılınca, def'i kullanan kimse, karşı taraf borcunu ifa
+edinceye veya ifayı teklif edinceye kadar kendi borcunu ifa etmeme imkanını
+kazanır; borcunu ifa etmeyen bir borçlu olmaktan kurtulur. Eğer borçlu temerrüt
+halindeyken ödemezlik def'ini kullanırsa temerrüt, def'in kullanıldığı andan
+değil, def'in kullanılma şartlarının gerçekleştiği andan itibaren ortadan
+kalkar. 
+
+Karşılıklı sözleşmelerde, ödemezlik def'ini kullanan davalı, def'in şartlarının
+bulunduğunu ispatla yükümlü değildir. Def'in kullanılamayacağını ispat davacıya
+düşmektedir.
+
+=== IV- BİR TARAFIN BORÇ ÖDEMEKTE GÜÇSÜZLÜĞE DÜŞMESİ HALİNDE DİĞER TARAFA TANINAN İMKANLAR
+
+==== 1- TBK m.98'in rolü
+
+Karşılıklı bir sözleşmede bir tarafın borç ödemekte güçsüzlüğe düşmesi (aczi)
+halinde diğer tarafın alacak hakkı tehlikeye girer. Şayet, alacağı tehlikeye
+girenin kendi borcunu önce ifa mecburiyeti bulunmuyorsa TBK m.97'de düzenlenen
+ödemezlik def'i onun durumunu korumaya yeter. Fakat karşı tarafın aczi yüzünden
+alacağı tehlikeye giren kimse, borcunu önce ödemekle yükümlüyse veya hiç
+değilse kendi alacağı henüz muaccel değilse TBK m.97'ye dayanarak ödemezlik
+def'ini kullanamaz. İşte bu halde TBK m.98, alacağı tehlikede olan alacaklıya
+bazı imkanlar tanımaktadır.
+
+.TBK m.98
+....
+f.1 - Karşılıklı borç yükleyen bir sözleşmede, taraflardan birinin borcunu
+ifada güçsüzlüğe düşmesi ve özellikle iflas etmesi ya da hakkındaki haciz
+işleminin sonuçsuz kalması sebebiyle diğer tarafın hakkı tehlikeye düşerse, bu
+taraf karşı edimin ifası güvence altına alınıncaya kadar kendi ediminin
+ifasından kaçınabilir.
+f.2 - Hakkı tehlikeye düşen taraf, ayrıca uygun bir sürede istediği güvence
+verilmezse sözleşmeden dönebilir.
+....
+
+Görüldüğü gibi, burada sözleşme tarafına, def'i ileri sürme, teminat isteme ve
+sözleşmeden dönme olmak üzere, üç imkan tanınmıştır. Bunlara başvurma ise özel
+bir sıraya bağlanmıştır.
+
+Hükmün, alacağı tehlikeye düşenin önce ifa yükümlülüğü bulunması halinde
+uygulanacağı hususunda maddede bir kayıt yoktur. Fakat yukarıda açıklandığı
+gibi TBK m.98, ancak önce ifa mükellefiyeti bulunan veya hiç değilse tehlikeye
+giren alacağın henüz muaccel olmadığı hallerde önem taşır.
+
+==== 2- TBK m.98'in uygulanması için gerekli şartlar
+
+.. _Borçlui sözleşmenin kurulmasından sonra ifa güçsüzlüğüne düşmüş olmalıdır_.
+Bundan maksat mali durumunun muaccel borçlarını ödeyemeyecek derecede
+kötüleşmesidir. TBK m.98, iflas ve sonuçsuz kalan haczi ifa güçsüzlüğü
+örnekleri olarak belirtmektedir. Bu hallerde güçsüzlüğün varlığına tereddüt
+edilmez. Fakat bu hallerin dışında da ifa güçsüzlüğünü gösteren durumlar
+bulunabilir. İspat TBK m.98'e dayanan alacaklıya düşer.
++
+Borçlu ancak sözleşmenin kurulmasından sonra güçsüzlük halibe düşmüşse TBK m.98
+uygulanır. Şayet borçlu sözleşme yapılırken güçsüzlük halinde ise, bu durumu
+bilmeyen karşı taraf, ancak yanılma veya aldatma hükümlerine dayanabildiği
+oranda TBK m.39 uyarınca sözleşmeyi iptal edebilir.
++
+Borçlu sonradan ifa güçsüzlüğünden kurtulursa def'i etkisizleşir.
+.. Boçlunun güçsüzlüğü, _alacaklının alacağını elde etmesini tehlikeye sokmuş
+olmalıdır_. Şayet alacaklı için yeter teminat (rehin, kefalet) varsa veya
+güçsüzlük hali geçici nitelikte ise TBK m.98'e dayanılamaz. Karşı borcun ifası
+imkanının sadece şüpheli olması yetmez. Buna karşılık, ifanın kesinlikle mümkün
+olmayacağının ispatı da aranmaz. Gerekli olan, yaşamın olağan akışına göre bu
+eidmin ifasının gerçekleşmemesinin ciddi ve beklenen bir ihtimal olmasıdır.
+
+==== 3- TBK m.98'in sağladığı imkanlar
+
+TBK m.98, borçlunun güçsüzlüğü yüzünden alacağı tehlikeye giren tarafa, alacağı
+için yeter teminat verilincye kadar kendi borcunu ifadan kaçınma ve talebi
+üzerine bu teminat uygun bir süre içinde verilmediği takdirde sözleşmeden dönme
+hakkı tanımaktadır.
+
+.. _Teminat verilinceye kadar borcunu ifadan kaçınma yetkisi_, tıpkı ödemezlik
+def'i gibi bir def'idir. Fakat gerek şartları gerek sonuçları farklıdır. TBK
+m.98 alacağı tehlikede olan tarafa, teminat verilinceye kadar kendi borcunu
+ifadan kaçınma imkanı sağlar. Sağladığı hak sadece bir def'idir. Teminat
+verilmesi hususunda bir talep ve dava hakkı yoktur.
++
+Alacak için teminat verilince def'i de etkisiz kalır ve artık karşı tarafın
+güçsüzlüğünü ileri sürerek kendi borcunu ifadan kaçınma imkanı kalmaz.
+.. Alacağı tehlikede bulunan taraf karşı tarafa _teminat vermesi için uygun bir
+süre tayin edip bu süre içinde teminat verilmezse sözleşmeyi geçmişe etkili
+olarak sona erdirtebilir_. Diğer bir ifade ile sözleşmeden dönebilir. Bu imkan
+kendi borcunu daha sonra ödeyecek de olsa tehlikeye düşen alacağı henüz muaccel
+olmamış bulunan alacaklının başvurmakta fayda göreceği bir imkandır. Zira
+alacaklı, ileride vade geldiği zaman alacağının ödenip ödenmeyeceği şüpheli
+bulunan bir sözleşmeyle bağlı kalmak ve kendi edimini muhafaza etmek
+istemeyebilir ve böyle bir arzusu korunmaya da layıktır. İşte TBK m.98, ona
+sözleşmeden kurtulma imkanını sağlar.
++
+Sürekli borç ilişkilerinde de TBK m.98 hükmüne başvurmak gerekbilir. Bu
+takdirde, dürüstlük kuralı uyarınca ve TBK m.126 hükmüne kıyasen, sözleşmenin
+ileriye etkili şekilde feshedilmiş sayılması gerekir. Böylecei fesih anına
+kadar verilen şeyler geri istenemez ve o ana kadar verilmesi gerekip de
+verilmeyen şeylerin fesihten sonra da ifası istenebilir, ancak fesih anından
+sonraki döneme ilişkin bütün borçlar son bulur.
+
+== 8- ALACAKLI YÜZÜNDEN BORCUN İFA EDİLEMEMESİ
+
+=== I- GENEL BAKIŞ
+
+Alacaklı yüzünden borcun ifa edilememesinin en çok rastlanan şekli, ifanın
+gerçekleşmesi alacaklının katılmasına bağlı olduğu halde alacaklının, ifayı
+kabul etmekten veya kendisi tarafından yapılacak şeyleri yapmaktan kaçınması
+halidir. Buna _alacaklı temerrüdü_ denilmektedir ve TBK m.106-110'da
+düzenlenmiştir. Borçlar Kanunu, edimin _alacaklıya ait sebeplerle ifa olarak
+arz edilememesini_ de alacaklı temerrüdü hükümlerine tabi tutmuştur (TBK
+m.111). Buna karşılık _ifanın alacaklı yüzünden imkansızlaşmasına_ uygulanacak
+esaslar kanunda açıklanmamıştır.
+
+=== II- ALACAKLI TEMERRÜDÜ
+
+==== 1- Kavram
+
+.TBK m.106
+....
+f.1 - Yapma veya verme edimi gereği gibi kendisine önerilen alacaklı, haklı bir
+sebep olmaksızın onu kabulden veya borçlunun borcunu ifa edebilmesi için
+kendisi tarafından yapılması gereken hazırlık fiillerini yapmaktan kaçınırsa,
+temerrüde düşmüş olur.
+f.2 - Alacaklı müteselsil borçlulardan birine karşı temerrüde düşerse,
+diğerlerine karşı da temerrüde düşmüş olur.
+....
+
+Bu hükümlerden anlaşıldığı üzere, alacaklı temerrüdü, alacaklının kendisine arz
+edilen ifayı haklı sebep olmadan kabul etmemesi veya ifanın gerçekleşmesi için
+kendisinin yapacağı şeyleri yapmamasıdır. Böyle bir durum ise ancak ifaya
+alacaklının katılması gereken borçlarda söz konusu olabilir. Alacaklının
+katılması gerekli olmayan, alacaklı tarafından yapılacak herhangi bir fiile
+ihtiyaç bulunmaksızın ifa edilebilen borçlarda, örneğin yapmama borçlarında
+alacaklı temerrüdü söz konusu olmaz.
+
+Alacaklının ifayı kabulü veya ifayı engelleyecek şekilde davranmaması taraflar
+arasındaki sözleşmeye göre aynı zamanda onun için bir borç teşkil ediyorsa,
+karşı taraf dilerse alacaklı temerrüdü hükümlerine dilerse borçlu temerrüdü
+hükümlerine dayanabilir.
+
+==== 2- Alacaklı temerrüdünün şartları
+
+===== _a) Alacaklının kaçınması_
+
+... _İfayı kabulden kaçınma_: Alacaklının ifayı kabulden kaçındığından
+bahsedebilmek için borçlu, edimini gereği gibi arz etmiş olmalıdır. TBK m.106
+"yapma ve verme edimi gereği gibi kendisine önerilen" alacaklının ifayı
+reddetmesinin kendisini temerrüde düşüreceğini belirtmiştir.
++
+Alacaklının, makbuz vermeyeceğini beyan etmesi de ifayı kabulden kaçınma gibi
+etki yapar.
++
+Ancak miktar, vasıf, yer ve zaman bakımından borca uygun olarak arz edilen ifa,
+gereği gibi yapılmış sayılır. Zaman bakımından uygunluk hususunda gözönünde
+tutulması gereken, borcun vadesi değil, *ifa edilebilir olma zamanıdır*.
++
+TIP: Alacaklı borç konusu edimden başka bir şeyi --değeri daha fazla olsa
+bile-- kabule mecbur olmadığı gibi; ayıplı edimi de ifa olarak kabule mecbur
+değildir. Ancak, edimdeki ayıp alacaklı için çok az önem taşıyorsa ve ifanın
+reddi borçluyu çok güç duruma sokacak ise, alacaklı dürüstlük kuralı gereği
+ifayı kabule mecbur tutulabilir. Bu takdirde alacaklı ayıptan dolayı (kötü ifa
+sebebiyle) uğradığı zararın tazminini isteyebilecektir. Meğer ki borçlu ayrıca
+bundan sorumlu olmadığını ispat edebilsin.
++
+Usulüne uygun arz, borçlu tarafından yapılabileceği gibi, üçüncü şahıs
+tarafından ifa edilebilecek borçlarda, üçüncü şahıs tarafından da yapılabilir.
+Alacaklı böylece üçüncü şahıs tarafından arz eidlen ifayı reddetmekle borçluya
+karşı alacaklı temerrüdüne düşer
++
+Usulüne uygun arz, alacaklının yetkili temsilcisine de yapılmış olabilir.
+Temsilcinin sunulan ifayı reddetmesi, alacaklıyı temerrüde düşürür.
++
+Ancak gerçek bir ifa arzı alacaklı temerrüdüne yol açabilir. Esas itibariyle
+sadece sözlü bir teklif yetmez, ifa fiilen teklif edilmiş olmalıdır. Diğer bir
+ifade ile, borçlu ifa için kendisine düşen her şeyi yapmış, ifanın
+gerçekleşmesi sadece alacaklının davranışına kalmış olmalıdır.
++
+Fakat istisnaen bazı durumlarda, sözle yapılan teklif dahi, teklifi kabul
+etmeyen alacaklının temerrüde düşmesi için yeter sayılmaktadır. Alacaklı
+kendisini sözleşmeyle bağlı saymadığını ve bu nedenle edimi kabul etmeyeceğini
+bildirmiş ise, sözleşmenin bağlayıcı olduğu kanısında bulunan borçlu,
+alacaklıya ifayı sözle teklif edince, bunu kabul etmeyen alacaklı --şayet
+sözleşmenin bağlayıcılığı devam ediyorsa-- temerrüde düşer.
+... _Alacaklının, ifanın gerçekleşmesi hususunda yapması gereken şeyleri
+yapmaktan kaçınması_: İfanın gerçekleşmesi için, alacaklının sadece kabulü
+değil, ifa hazırlıklarına da katılması gerekip de alacaklı bu şeyleri yapmaktan
+(gerekli davranışta bulunmaktan) kaçınırsa, bu takdirde de gene temerrüde
+düşer. Yukarıda (i)'de incelenenden farklı olarak bu halde borçlu henüz ifayı
+fiilen arz edecek duruma gelmiş ve alacaklı fiilen arz edilen ifayı reddetmiş
+değildir. Fakat, alacaklı, borçlunun ifayı arz edecek hale gelmesine imkan
+vermemektedir.
++
+TIP: Seçim hakkının alıcıda bulunduğu bir seçimlik borçta, alacaklı seçim
+hakkını kullanmadığı için borçlu hangi edimi ifa edeceğini bilememektedir.
+Keza, cins borcunda, ifa konusu olacak şeyleri tayin hakkı alacaklıya tanınmış
+olup da, alacaklı bu tayini yapmazsa; bir iş görme borcunda, alacaklı borçlunun
+işin görüleceği yere girmesine izin vermezse; alacaklının bildireceği yere
+gönderilecek bir malın nereye gönderileceğini alacaklı bildirmezse; ifa
+hazırlığının alacaklının verdiği talimata göre yapılacağı hallerde alacaklı bu
+talimatı vermezse, borçlu ifayı arz imkanı bulamaz.
++
+İşte böyle hallerde, ifanın gerçekleşmesi için kendisince yapılması gereken
+şeyleri yapmaktan kaçınan alacaklı da temerrüde düşer. Şayet alacaklının
+yapması gereken şeyler için belli bir zaman tespit edilmiş ise, o zamanın
+geçmesi ile alacaklı mütemerrit olur. Fakat alacaklı, borçlunun o tarihte
+esasen borcu ifa edecek durumda bulunmadığını ispat ederse, mütemerrit
+sayılmaktan kurtulur.
++
+Şayet alacaklının yapması gereken şey için belli bir tarih tayin edilmiş
+değilse, borçlu, ifa hazırlığına katılmasını alacaklıya teklif ettikten sonra,
+alacaklı uygun bir zaman içinde buna uymazsa, temerrüde düşer.
+
+===== _b) Kaçınmanın haklı sebebe dayanmaması_
+
+Yukarıda açıklanan kaçınmanın alacaklı temerrüdüne yol açması için, bunun haklı
+bir sebebe dayanmaması gerekir.
+
+WARNING: Haklı sebep bulunmadan kaçınma, kaçınmanın kusurulu olmsı demek
+değildir. Zira hakim görüşe göre alacaklı temerrüdü için kusur aranmaz.
+Kaçınmada alacaklının kusuru bulunup bulunmamasının önemi yoktur.
+
+Kaçınmanın haklı bir sebebe dayanmaması ile, usulüne uygun olarak arz edilmeyen
+ifanın reddi de karıştırılmamalıdır. Usulüne uygun olmayan ifayı kabul
+etmemekte alacaklı şüphesiz ki haklıdır. Fakat bu halde esasen alacaklı
+temerrüdü için aranan birinci şart, yani usulüne uygun olarak edilen ifayı
+kabulden kaçınma şartı gerçekleşmemiştir. Bu nedenle, ikinci şart bakımından
+önemli olan, usulüne uygun olarak arz edilen bir ifayı alacaklının kabul
+etmemekte haklı olabileceği hallerdir.
+
+Vadeden önce ifada bulunmak isteyen borçlu, önceden hiç haber vermeden ifayı
+arz etmişse, alacaklının ifayı hemen kabul etmemekte haklı olabileceği
+belirtiliyor.
+
+[, Oğuzman & Öz]
+""
+Kanımızca faizleri ödemeden anaparayı ödemek isteyen borçlunun ifa teklifini
+reddetmekte de alacaklı haklıdır ve bu konu ifanın usulüne uygun arzı değil,
+kabul etmemenin haklı sebebe dayanması ile ilgilidir.
+""
+
+==== 3- Alacaklı temerrüdünün devamı
+
+Alacaklının bir kere temerrüde düşmüş olması, artık bundan kurtulamayacağı
+anlamına gelmez. Arz edilen ifayı kabulden veya kendisince yapılması gereken
+şeyleri yapmaktan kaçınan alacaklı, sonra bu tutumunu terk edip, ifayı kabul
+etmek veya yapması gereken şeyleri yapmak ister ve buna hazır olduğunu
+bildirirse temerrüt durumundan çıkar. Artık bu anda sonraso için alacaklı
+temerrüdü hükümleri uygulanmaz.
+
+Alacak sona erince veya taraflar yeni bir vade kararlaştırınca da alacaklı
+temerrüdü sona erer.
+
+==== 4- Alacaklı temerrüdünün sonuçları 
+
+===== _a) Genel olarak_
+
+Alacaklı temerrüdü, alacaklının sorumluluğuna yol açan bir durum değildir.
+Zira, temerrüt halindeki alacaklı, sadece hakkını almaktan kaçınan bir
+kimsedir. Prensip itibariyle bir kimse hakkını almaya veya kullanmaya mecbur
+olmadığı için kaçınması halinde bir sorumluluk altına girmez. Özellikle
+kendisinden tazminat istenemez.
+
+Fakat bazen, bir tarafın borcunun ifasını kabul, karşı taraf için sadece bir
+hak değil aynı zamanda bir borç teşkil ediyorsa, artık böyle bir halde ifayı
+kabulden kaçınma sadece hakkını almama değil, bizzat kendi borcuna aykırı
+davranma teşkil eder.
+
+TIP: Hizmet sözleşmesinde işverme (TBK m.408), sadece işçinin edimini kabul
+hususunda bir hak değil, işveren için aynı zamanda bir borç teşkil eder. Keza,
+taşınır satışında, alıcının şeyi devralmasının (TBK m.232) onun için bir borç
+teşkil ettiği kabul edilmektedir. 
+
+Böyle hallerde ifayı kabulden kaçınan alacaklı hem alacaklı temerrüdüne düşmüş
+olur, hem de borcuna aykırı davranan kimse durumundadır. Karşı taraf isterse
+alacaklı temerrüdü hükümlerine, isterse borca aykırılık hükümlerine
+dayanabilir.
+
+Fakat sadece alacaklı temerrüdü, alacaklıya sorumluluk yüklemez; prensip
+itibariyle alacağın sona ermesini de gerektirmez. 
+
+WARNING: Kefalette istisnai bir hüküm kabul edilmiştir: Alacaklı kefilin ifa
+teklifini kabul etmezse, kefil kefaletten kurtulur (TBK m.593/2). 
+
+Alacaklı temerrüdü, alacaklıya bir sorumluluk yüklemezse de, onun için bazı
+zararlı sonuçlara yol açabilir. Fakat alacaklı temerrüdünün borçlu için en
+önemli sonucu, borcu sona erdirmek, borçtan kurtulmak için kendisine sağladığı
+imkanlardır. Bu imkanlar sayesinde borçlu, alacaklıya ifa zorunda kalmadan
+borçtan kurtulabilmektedir.
+
+===== _b) Alacaklı için meydana gelebilen zararlı sonuçlar_
+
+... Alacaklının temerrüde düşmesi yüzünden borçlu, _borç konusu şeyi muhafazaya
+devam mecburiyetinde kalınca_, bu şey bir zarara uğrarsa, _borçlunun
+sorumluluğu daha az şiddetle takdir edilir_ (TBK m.114/2 yollamasıyla m. 52/1
+uyarınca). Fakat bu, borçlunun, muhafazada kusurlu davranmasından sorumlu
+olmayacağı anlamına gelmez.
+... Borç konusu şeyi, alacaklının temerrüdünden sonra muhafaza zorunda kalan
+borçlunun _muhafaza için yaptığı masrafları, alacaklı, vekaletsiz iş görme
+hükümleri uyarınca ödeme mükellefiyeti altına girer_.
+
+===== _c) Borçtan kurtulması için borçluya tanınan imkanlar_
+
+====== aa- _Tevdi_
+
+.TBK m.107
+....
+f.1 - Alacaklının temerrüde düşmesi durumunda borçlu, hasar ve giderleri
+alacaklıya ait olmak üzere, teslim edeceği şeyi tevdi ederek borcundan
+kurtulabilir.
+f.2 - Tevdi yerini ifa yerindeki hakim belirler, bununla birlikte ticari mallar
+hakim kararı olmadan da bir ardiyeye tevdi edilebilir.
+....
+
+Görüldüğü üzere tevdi, ancak verme borçlarında söz konusu olabilecek bir
+imkandır. Malın nereye tevdi edileceğini ifa yerindeki hakim tayin edecektir.
+Hakim, tevdi yerini tayin ederken, borçlunun tevdi hakkı bulunup bulunmadığını
+araştıracak değildir, sadece tevdi yerini tayin edecektir. Borçlunun tevdi
+hakkı yoksa hakimin tevdi yerini tayin etmiş olması, borçlunun haklı kılınması
+anlamını taşımaz. Borçlunun tevdi hususunda haklı olup olmadığını ileride
+ihtilafı inceleyecek hakim tespit edecektir. Diğer taraftab tevdi hakkı bulunan
+borçlu, hakime tevdi yerini tayin ettirmeden, kendiliğinden bir yere tevdide
+bulunursa, bu tevdi borçluyu borçtan kurtarmaz. Fakat ticari eşya için kanun
+istisna tanımıştır. Ticari eşya hakimin kararı olmaksızı dahi bir ardiyeye
+tevdi edilebilir.
+
+Verme borçlarında da ancak tevdii mümkün olan mallar tevdi edilebilir ve en
+çok, para borçlarında ve kıymetli evrakta tevdiye başvurulur. Genellikle
+taşınır mallar tevdi edilebilir. Fakat kıymetli evrak niteliği taşımayan borç
+senetlerinin tevdi borç ilişkisine etki yapmayacağı için tevdi edilmeleri söz
+konusu olmaz.
+
+Borçlu, tevdi için, tevdi edilecek şahısla bir saklama sözleşmesi (TBK m.561)
+yapar. Bu sözleşme üçüncü şahıs (alacaklı) yararına bir sözleşme tarzında (TBK
+m.129) yapılmak gerekir. Yani sözleşmede, malı alma hakkı alacaklıya
+tanınmalıdır. Bununla birlikte, alacaklıya tanınan alma hakkının, borçlu olduğu
+masrafları ödeme şartına bağlanabileceği ifade edilmektedir.
+
+Borçlunun malın tevdi edildiğini alacaklıya haber vermesi dürüstlük (MK m.2)
+gereğidir.
+
+Üçüncü kişinin borçlu yerine ifada bulunmasının caiz olduğu durumlarda Üçüncü
+kişinin ifa teklifi karşısında alacaklı temerrüde düşerse, tevdi imkanına bu
+kişinin de başvurabileceği kabul edilmektedir.
+
+Tevdi ile borçlu borcundan kurtulur. Borç sona erer ve kefalet ve rehin gibi
+fer'i haklar da düşer. Bununla beraber, şayet mülkiyet geçecekse alacaklı tevdi
+edilen şeyi teslim alıncaya veya malı kabul ettiğini beyan edinceye kadar,
+malın mülkiyeti borçluda kalır.
+
+Borçlu tevdi ile borcundan kurtulmuş olmakla beraber, alacaklı tevdi edilen
+şeyi kabul ettiğini beyan etmiş veya tevdi bir rehnin sona ermesine sebep olmuş
+bulunmadıkça, borçlu tevdiden dönebilir. Kanun bunu, tevdi edilen şeyin geri
+alınması olarak ifade etmişse de, aslında önemli olan malın fiilen geri
+alınması değil, borçlunun tevdiden döndüğünü, saklayana beyan etmesidir. Borçlu
+tevdiden dönünce alacak bütün yan haklarıya birlikte varlığını sürdürür (TBK
+m.109/2).
+
+====== bb- _Malı satarak satış bedelini tevdi_
+
+.TBK m.108
+....
+f.1 - Sözleşmenin konusu olan şeyin niteliği veya işin özelliği tevdi
+edilmesine uygun düşmez veya teslim edilecek şey bozulabilir ya da bakımı,
+korunması veya tevdi edilmesi önemli bir gideri gerektirir ise, borçlu,
+alacaklıya önceden ihtarda bulunması koşuluyla, hâkimin izniyle onu açık
+artırma yoluyla sattırıp bedelini tevdi edebilir.  
+f.2 - Teslim edilecek şey, borsada kayıtlıysa veya piyasa fiyatı varsa ya da
+yapılacak gidere oranla değeri az ise, satışın açık artırma yoluyla yapılması
+zorunlu olmadığı gibi, hâkim, önceden ihtarda bulunma koşulunu aramaksızın
+satışa izin verebilir.
+....
+
+Şayet sözleşmenin konusu olan şeyin niteliği veya işin türü tevdiye elverişli
+değilse, yahut malı tevdi veya muhafazası, bakımı, büyük masrafı
+gerektiriyorsa, borçlu önce alacaklıya ihtarda bulunduktan sonra, hakimin izni
+ile malı sattırıp, satış bedelini tevdi ederek borcundan kurtulabilir (TBK
+m.108).
+
+Yapılacak ihtarda, bir görüşe göre satışın yeri ve zamanı haber verilecektir.
+Diğer bir görüşe göre, ihtarla, satış yapılacağı hususunda alacaklının dikkati
+çekilecektir.
+
+Borçlu malın satılması ile değil, satış bedelinin tevdi üzerine borcundan
+kurtulur. Alacaklının satış bedelini kabul etnesi veya borçlunun satış bedeli
+ile bir para alacağını takas etmesi halinde de borç sona erer.
+
+Malın satılıp bedelinin tevdi ile boçlunun borcundan kurtulabilmesi için
+hakimin izni şarttır. Borçlunun hakimden izin almadan malı satıp bedelini tevdi
+etmesi onu borcundan kurtarmaz.
+
+Hakim satışa izin verebilmek için, bütün şartların bulunup bulunmadığını, yani
+alacaklının temerrüde düşmüş olup olmadığını, satışa gerek bulunup
+bulunmadığını, alacaklıya ihtarın yapılıp yapılmadığını araştıracaktır. Fakat
+alacaklıyı dinlemesi şart değildir. Gerek görürse onu da çağırıp dinler. Fakat
+satışa karar verecek hakimin izin karar uyuşmazlığın esasını inceleyecek hakimi
+bağlamaz.
+
+Satışın, prensip olarak açık arttırma tarzında olması gerekir. Fakat satılacak
+şey, borsada kayıtlı olan ve piyasa fiyatı bulunan bir mal ise, yahut yapılacak
+açık arttırma masrafı ve sair masraflara oranla değeri az ise açık arttırmaya
+gerek yoktur. Hatta hakim, böyle hallerde alacaklıya ihtar yapılmasını
+aramaksızın da satışa izin verebilir (TBK m.108/2).
+
+Satış bedeli tevdi edildikten sonra da borçlu TBK m.109/1 çerçevesinde tevdiden
+dönebilir. Bu takdirde TBK m.109/2 hükmü uyarınca varlığı devam edenin, ilk
+edim borcu değil, tevdiden önce dönüştüğü para edimi olduğu kabul edilmelidir.
+
+.TBK m.109
+....
+f.1 - Alacaklı, tevdi edilen şeyi kabul ettiğini açıklamış veya tevdi bir
+rehnin ortadan kaldırılması sonucunu doğurmuş olmadıkça borçlu, tevdi edilen
+şeyi geri alabilir.
+f.2 - Tevdi edilen şey geri alındığı anda alacak, bütün yan haklarıyla birlikte
+varlığını sürdürür.
+....
+
+Alacaklının üçüncü kişinin arz ettiği ifayı kabule mecbur olduğu durumlarda
+alacaklının temerrüde düşmesi halinde, üçüncü kişinin de satış istemeye yetkisi
+bulunduğu kabul edilmektedir.
+
+====== cc- _Sözleşmeden dönme_
+
+.TBK m.110
+....
+Borcun konusu bir şeyin teslimini gerektirmiyorsa, alacaklının temerrüdü
+hâlinde borçlu, borçlunun temerrüdüne ilişkin hükümlere göre sözleşmeden
+dönebilir.
+....
+
+Görüldüğü üzere, sözleşmeden dönme, verme borcu dışındaki borçlarda alacaklı
+temerrüde düşünce söz konusu olur. Yapmama borçlarında esasen alacaklı
+temerrüdü söz konusu olmadığına göre TBK m.110 sadece yapma borçlarını
+hefelemektedir. Bununla beraber, verme borçlarında tevdi ve satış imkanı
+bulunmayan durumlarda da TBK m.100'un kıyasen uygulanması kabul edilmektedir. 
+
+TBK m.110 alacaklı temerrüdünde borçlu tarafından sözleşmeden dönmenin, borçlu
+temerrüdündeki dönme hükümlerine göre yapılacağını belirtmektedir. Böylece, TBK
+m.123 uyarınca borçlu alacaklıya ifayı kabul etmesi için bir önel (mehil)
+verecek, TBK m.124'e giren durumlarda önele gerek bulunmayacaktır. Önel
+verilmşse önel sonunda, verilmesine gerek yoksa hemen sözleşmeden dönecektir
+(TBK m.125/2).
+
+Sözleşmeden dönen borçlunun, TBK m.125/3 hükmündeki gibi alacaklıdan olumsuz
+zararının tazminini talep edip edemeyeceği tartışmalıdır. Kural olarak alacaklı
+temerrüdü sorumluluğa yol açmaz. Bu sebeple alacaklı tazminatla yükümlü olmaz.
+Fakat borcun ifasını kabul alacaklı açısından bir borç sayılabildiği oranda,
+dönme halinde tazminat da istenebilir.
+
+.TBK m.125/3
+....
+Sözleşmeden dönme hâlinde taraflar, karşılıklı olarak ifa yükümlülüğünden
+kurtulurlar ve daha önce ifa ettikleri edimleri geri isteyebilirler. Bu durumda
+borçlu, temerrüde düşmekte kusuru olmadığını ispat edemezse alacaklı,
+sözleşmenin hükümsüz kalması sebebiyle uğradığı zararın giderilmesini de
+isteyebilir.
+....
+
+Üçüncü kişinin ifa teklifini haksız olarak reddeden alacaklıya karşı üçüncü
+kişi, TBK m.110 şartları gerçekleşmiş olsa da, borçludan yetki almadıkça
+sözleşmeden dönme hakkını kullanamaz. Zira bu hak sözleşmenin tarafı olmaya
+bağlıdır ve kullanılması üzerine borçlu da --varsa-- kendi alacağını
+kaybedecektir.
+
+Sürekli borç ilişkisi doğuran sözleşmelerde de alacaklı temerrüdü hükümlerine
+başvurulabilir. Ancak, sözleşmeden dönme hakkının kullanılması TBK m.126'ya
+kıyasen, ileriye etkili feshin sonuçlarını doğurmalıdır.
+
+=== III- ALACAKLI YÜZÜNDEN BORCUN İFA EDİLEMEDİĞİ DİĞER HALLER
+
+.TBK m.111
+....
+Borçlunun kusuru olmaksızın, alacağın kime ait olduğunda veya alacaklının
+kimliğinde duraksama sebebiyle ya da alacaklıdan kaynaklanan diğer kişisel bir
+sebeple borç, alacaklıya veya temsilcisine ifa edilemezse borçlu, alacaklının
+temerrüdünde olduğu gibi, tevdi ya da sözleşmeden dönme hakkını kullanabilir.
+....
+
+Şayet edim alacaklıya ait bir sebeple ifa olarak arz edilemiyorsa, örneğin,
+borç alacaklının yerleşim yerinde ifa edi edilmek gerekip de, bu yerleşim yeri
+bilinmiyorsa veya alacaklı ayırt etme gücüne sahip olmadığı için ifayı kabul
+etmesi mümkün değilse ve alacaklının temsilcisi de yoksa yahut borçlunun kusuru
+olmaksızın alacaklının şahsında tereddüt olunuyorsa, örneğin alacak devredilmiş
+olup devir ihtilaflı ise, borçlu alacaklıya ifayı arz edemez ve bu durumda
+alacaklı temerrüdünün şartları da yoktur. İşte TBK m.111, bu hallerde, alacaklı
+temerrüdü hükümlerinin kıyasen uygulanmasını kabul etmektedir. Kanun sadece
+tevdi ve sözleşmeden dönme imkanlarından bahsediyorsa da TBK m.108'de öngörülen
+şartlar bulunduğu takdirde satışa izin verilmemesi için sebep yoktur. 

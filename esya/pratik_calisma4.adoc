@@ -1,0 +1,24 @@
+:icons: font
+
+== 19.12.2016 tarihli pratik çalışma
+
+A, B’nin dükkanında kendisi için bir takım elbise beğenir ve satın alır. B,
+takım elbisede A’nın vücut ölçülerine göre değişiklik yapacak ve iki gün sonra
+A takım elbiseyi teslim alacaktır. Akşam kardeşi K ile karşılaşan A, bir hafta
+sonra kardeşinin doğum günü olduğunu hatırlar ve takım elbiseyi kardeşi K’ya
+hediye etmeye karar verir. K’ya takım elbiseyi gidip B’nin dükkanından almasını
+söyler ve B’yi arayarak teslimi K’ya yapması gerektiğini bildirir.
+
+İki gün sonra takım elbiseyi alıp evine gelen K, ceketin cebinde, daha önce
+takım elbiseyi deneyen C’nin unuttuğu, tektaş bir yüzük ve bir saat olduğunu
+farkeder. K yüzüğü eşi E’ye verir, saati ise arkadaşı D’ye satar. D, saatin
+pilini değiştirir ve saate oldukça pahalı bir kordon alarak kullanmaya başlar.
+
+. Olayda A, B, ve K’nın takım elbise üzerindeki; K, C, ve D ve E’nin yüzük ve
+saat üzerindeki;
+
+.. zilyetlik türlerini
+.. bu zilyetlikleri nasıl kazandıklarını belirtiniz.
+
+. Olayda C’nin yüzüğü K ve E’den; saati ise K ve D’den geri alıp alamayacağını,
+şartları ve sonuçları ile birlikte değerlendiriniz.

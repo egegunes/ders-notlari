@@ -1,0 +1,188 @@
+= SEBEPSİZ ZENGİNLEŞME 
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
+== SEBEPSİZ ZENGİNLEŞMENİN GENEL ŞARTLARI
+
+=== I. ZENGİNLEŞME
+
+==== 1. Zenginleşmeye konu olabilecek değerler
+
+Ekonomik bakımdan bir anlam ifade eden her türlü mal, hizmet, hak, maddi veya
+fikri varlıklar, fırsat ve avantajlar zenginleşmeye konu olabilir.
+Zenginleşmenin en geniş anlamıyla düşünülmesi gerektiği kabul edilmektedir.
+
+Tek işlevi kişiye manevi bir tatmin sağlamaktan veya manevi bir zarardan
+kurtarmaktan ibaret olan değerler ve durumlar, sebepsiz zenginleşmeye konu
+olamaz.
+
+Bir diğer deyişle, edim teşkil edebilecek her şeyin sebepsiz
+zenginleşmeye konu olabileceği söylenebilir.
+
+==== 2. Zenginleşme türleri
+
+Fiili Zenginleşmeler:: 
+. Malvarlığının aktifinin artması +
+En sık rastlanacak zenginleşme türü budur. Burada malvarlığının aktifine yeni
+bir hak girmekte veya mevcut bir hakkın değeri artmaktadır.  
+. Malvarlığının pasifinin azalması +
+Geçerli bir hukuki sebebe dayanmaksızın malvarlığının pasifinin azalması da bir
+tür zenginleşmedir. Burada bir borçtan kısmen veya tamamen kurtulma yoluyla
+malvarlığı iyileşmiş olmaktadır.  
+Fakirleşmeden Kurtulma::
+Burada, bir masraftan veya bir hak kaybından ya da bir yükümlülük altına
+girmekten kurtulma söz konusudur. Diğer bir deyişle, malvarlığının azalmasının
+önlenmesi de zenginleşme sayılmaktadır. Bu tür Zenginleşmelere *tasarruf
+yoluyla zenginleşme* de denmektedir.
+
+==== 3. Zenginleşmenin belirlenmesi
+
+Zenginleşmenin belirlenmesinde genellikle kabul edilen yöntem, *Fark teorisi*
+denilen görüşe dayanır. Buna göre, zenginleşenin malvarlığının iktisaptan
+sonra ifade ettiği değer ile bu iktisap gerçekleşmeseydi taşıyacak olduğu
+değer arasındaki fark, zenginleşmenin kapsamını oluşturur.
+
+Bu zenginleşmede, iktisap edilen şeyin yanı sıra, bunun sağladığı yararlar,
+semereler, iktisapla nedensellik bağı içindeki her türlü kazançlar, iade
+edilecektir. Keza, iktisap yüzünden zenginleşenin uğradığı zararlar, iktisapla
+nedenselik bağı içindeki her türlü ekonomik kayıplar zenginleşmeyi
+sınırlayacak, bazen de zenginleşmenin bulunmadığı sonucuna varılmasına yol
+açacaktır.
+
+Şayet zenginleşmenin gerçekleştiği ispatlanmış fakat tutarı tam olarak
+belirlenemiyorsa, sözleşmelere ilişkin TBK 114/2 gibi açık bir yollama
+bulunmamasına rağmen, burada da hakim TBK 50/2 hükmüne kıyasen, olayların
+olağan akışını göz önüne alarak hakkaniyete uygun bir tutar belirleyecektir.
+
+=== II. GEÇERLİ BİR SEBEBİN BULUNMAMASI
+
+Sebepsiz zenginleşmeden söz edebilmek için, bir kimsenin malvarlığında ortaya
+çıkan zenginleşmenin geçerli bir sebebe dayanmaması gerekir.
+
+==== 1. İfa sonucu zenginleşmelerde
+
+Bir borcu ifa etmek düşüncesiyle veya karşı taraftan bir edimin ifası
+beklentisiyle yapılan ifalar sonucu vuku bulan kazandırmalar, ifa sonucu
+zenginleşme oluşturur. Burada, fakirleşenin karşı tarafı zenginleştirdiğini
+bilerek ve özel bir amaç izleyerek yaptığı bir kazandırma söz konusudur.
+
+Şu halde, ifa sonucu gerçekleşen zenginleşmelerde bu zenginleşmeyi sağlayan
+kazandırmanın sebepsiz olup olmadığı, söz konusu kazandırmanın ardında geçerli
+bir borç ilişkisi bulunup bulunmadığına veya haklı beklentinin boşa çıkıp
+çıkmadığına bakılarak belirlenecektir.
+
+Mevcut olmayan borcun ifası olarak yapılan kazandırma bir hukuki işlemle
+gerçekleşiyorsa, bu kazandırıcı işlemin geçerli olması gerekir. Aksi halde
+zenginleşme gerçekleşmeyeceğinden, burada sebepsiz zenginleşmeden doğan bir
+iade borcuna yer olmaz. Örnek olarak, geçersiz bir borcun ifası olarak yapılan
+taşınır mülkiyetinin nakli şeklindeki tasarruf işlemi de (sebebe bağlılık
+görüşü benimsendiği için veya açıklamada yanılma, aldatma ya da korkutma ile
+yapıldığı için) geçersiz ise, karşı taraf bu taşınır malı iktisap etmemiş
+olacağından, zenginleşmemiştir. Sebepsiz zenginleşmeyle karşılaşabilmek için,
+temel ilişkin geçersiz fakat kazandırmanın geçerli olması gerekir.
+
+==== 2. İfa dışındaki zenginleşmelerde
+
+Karşı tarafa kazandırmada bulunulduğu bilinerek ve özel bir amaç izlenerek (ifa
+düşüncesiyle) yapılan bir kazandırma söz konusu olmadan başkası aleyhine
+gerçekleşen zenginleşmeler, ifa dışı sebepsiz zenginleşmelerdir.
+
+İfa sonucu zenginleşmelerin tersine, bunların temelinde geçerli bir hukuki
+ilişkinin var olup olmadığının araştırılması söz konusu olmaz.
+
+=== III. FAKİRLEŞME
+
+Zenginleşme ancak bir başkasının malvarlığındaki fakirleşmenin karşılığı olarak
+ortaya çıkmışsa bir iade borcundan söz edilebilir.
+
+Burada fakirleşme miktarı, sebepsiz zenginleşmede iade talebine kesin bir üst
+sınır çizecektir. Zenginleşme fakirleşmeden azsa mesele yoktur. Sadece
+zenginleşme tutarı istenebilecektir. Fakat, eğer zenginleşme fakirleşmeden
+çoksa, fakirleşme tutarından fazla kısım sebepsiz zenginleşme hükümlerine göre
+istenemez. Aksi takdirde, sebepsiz zenginleşme kurumu aracılığıyla bir kişiye
+normal olarak elde edemeyeceği menfaatler sağlanacağı, bunun ise sebepsiz
+zenginleşme kurumunun niteliği ile bağdaşmayacak bir sonuç olacağı
+düşünülmektedir.
+
+Fakirleşmenin mevcudiyeti ispat edilip de miktarı saptanamıyorsa,
+zenginleşmenin belirlenmesindeki uygulamaya paralel olarak, burada da hakim TBK
+50/2 hükmüne kıyasen, olayların olağan akışına ve fakirleşenin aldığı önlemlere
+göre fakirleşme miktarını hakkaniyet çerçevesinde takdir edecektir.
+
+=== IV. NEDENSELLİK BAĞI
+
+==== 1. Sebepsiz zenginleşmede aranacak illiyet bağı
+
+Sebepsiz zenginleşmeye dayanan bir alacak hakkı doğması için, malvarlığı
+azalanın fakirleşmesiyle diğer tarafın zenginleşmesi arasına nedensellik bağı
+bulunması gerekir. Ancak, buradaki illiyet bağı haksız fiillerdeki nedensellik
+bağından farklıdır. Haksız fiillerde failin davranışıyla zarar arasında
+nedensellik bağının varlığı aranırken, burada herhangi bir davranıştan bağımsız
+bir şekilde, fakirleşme ile zenginleşme olguları arasında bir sebep sonuç
+ilişkisi bulunması aranacaktır. 
+
+==== 2. Dolaysızlık şartı
+
+Sebepsiz zenginleşmeye ilişkin ve nedensellik bağı ile ilgili bir özellik,
+fakirleşme ile zenginleşme arasındaki nedenselliğin dolaysız olması gereğidir.
+Ancak, belirtelim ki buradaki dolaysızlık özel ve sınırlı bir anlam taşır.
+Dolaysızlık şartı, sebepsiz zenginleşmenin önce birinin malvarlığında
+gerçekleşip sonra başkasının malvarlığına aktarılması durumunda iade talebine
+izin vermez. Fakat sadece fakirleşen veya zenginleşen dışında bir kişinin eylem
+veya işlemiyle gerçekleşen sebepsiz zenginleşmeler dolaylı sayılmaz.
+
+===== _a. İade talebine engel oluşturan durumlar_
+
+Bunlar, zenginleşme konusunun ilk zenginleşenden başka bir kişinin malvarlığına
+aktarıldığı durumladır.
+
+.Örnek
+****
+A'ya ait araba lastiğini geçerli bir sebep olmaksızın arabasına takarak (MK 684
+uyarınca bütünleyici parça olarak) iktisap eden B'den, gene geçerli bir sebebe
+dayanmaksızın, C bu lastiği alarak kendi aranasına takmışsa, böyle bir durum
+vardır. Bu olayda, A lastik üzerindeki mülkiyet hakkını kaybederek
+farkirleşmiştir. Buna karşılık lastiğin şimdiki maliki C bu hakkı iktisap
+ederek zenginleşmiştir. B'nin iktisabının geçerli bir sebebi bulunmadığı gibi
+C'nin iktisabının da geçerli bir sebebi yoktur. Sebepsiz zenginleşmenin
+*geçerli sebebin bulunmaması* şartı da gerçekleşmiştir. Fakat A, C'ye karşı,
+sebepsiz zenginleşmeden doğan iade talebini ileri süremez. Zira, C, A'nın
+fakirleşmesinden doğrudan doğruya yararlanmış değildir. Olayda A'nın malvarlığı
+aleyhine zenginleşen B'dir. C is B'nin malvarlığı aleyhine zenginleşmiştir.
+****
+
+[NOTE]
+====
+Dolaysızlık ilkesi sonucui herkes kimin malvarlığından zenginleşmişse ona karşı
+iade borcu altındadır. B, A'ya karşı; C ise B'ye karşı sebepsiz zenginleşmeden
+dolayı borç altına girmiştir. A iade talebini B'ye, B ise iade talebini C'ye
+karşı ileri sürecektir. B lastiği C'den geri almayı başarmışsa (tekrar mülkiyet
+hakkını kazanmışsa) o zaman A'ya bunu iade yükümü altındadır. Aksi halde A,
+B'den sadece bu şekilde lastiğin mülkiyetini kaybetmesi üzerine bir çıkar elde
+etmişse onun kendisine verilmesini isteyebilir. Bu çerçeve içinde, A, B'den
+C'ye karşı sahip olduğu lastiğin iadesine yönelik alacak hakkının kendisine
+devredilmesini de isteyebilir. Zira bu da B için bir tür sebepsiz
+zenginleşmedir. Eğer bu talep başarıya ulaşıp B'nin bu alacak hakkına A sahip
+olursa, bu hakkı C'ye karşı ileri sürerek lastiğin iadesini isteyebilir. Bu
+durumda, C'ye karşı kendi şahsında doğan bir alacak hakkını değil, B'den
+devraldığı alacak hakkını ileri sürmüş olacaktır.
+====
+
+===== _b. Üçüncü kişinin yol açtığı ve iade talebi bulunan zenginleşmeler_
+
+Fakirleşme ve zenginleşme olgusunun bir üçüncü kişinin fiili veya işlemiyle
+gerçekleşmesi, sebepsiz zenginleşmeden doğan iade talebini engellemeyecektir.
+Bu durumlar başlıca şu şekillerde ortaya çıkar.
+
+_aa. Bir üçüncü kişinin bir şahsa ait değeri kendi malvarlığına katmaksızın bir
+başkasına kazandırması_:: 
+Burada sebepsiz zenginleşmeyi oluşturan şey, gerçekte
+doğrudan fakirleşenden zenginleşene geçmekte, ancak buna üçüncü bir kişi sebep
+olmaktadır.
+
+_bb. Temsilci aracılığıyla zenginleşmeler_::
+Taşınır mülkiyetinin nakli sebepten soyut kabul edilirse, geçersiz bir
+sözleşmeye dayanarak yapılan mülkiyet nakilleri, bu tasarruf işlemi de sakat
+olmadıkça geçerlidir.

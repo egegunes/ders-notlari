@@ -1,0 +1,169 @@
+= Jean-Jacques Rousseau: Eşitsizlikçi Düzenin Eleştirisi
+Ege Güneş <egegunes@gmail.com>
+:icons: font
+
+*_Uygarlığa Tepkisi_*: Rousseau’ya göre ilkel toplumlar, insanın insanı
+sömürmediği, lüksün ve eşitsizliğin bulunmadığı ve bunların insanın doğasını
+bozmadığı bir eşitlik ve özgürlük durumu içindedir. Kafasındaki bu ilkel toplum
+modeli; uygar toplumu eleştirmesine ve uygar toplumda yapılacak reformları
+düşünmesine olanak sağlamıştır. Rousseau, uygar toplumu insanın iyi doğasının
+bozulup, erdemlerini yitirmesine ve özgürlük yerine tutsaklığı seçmesine neden
+olan bir sapma olarak görür. Bu bakımdan uygar toplumun faydalarıyla ilkel
+toplumun erdemlerini bir araya getirecek bir düzen tasarlamaya çalıştığı
+söylenebilir. 
+
+*_Doğa Durumu_*: Rousseau, doğa durumundaki insanın hemen hemen öteki hayvanlardan
+farksız olduğunu iddia eder. Bazılarından daha güçsüz, bazılarından daha
+hantaldır. Ancak hepsinden daha beceriklidir. Başlıca tasası yemek, içmek ve
+barınacak yer bulmaktır. Tinsel bakımdan ise onu hayvanlardan ayıran iki
+özelliği vardır: Birincisi, hayvanların doğa yasalarına içgüdüsel olarak
+uymalarına karşılık, insanın seçme şansının bulunmasıdır. İkinci ise insanın
+evrim gösterme yeteneğine sahip olmasıdır. 
+
+Doğa durumunda, iyi-kötü, adaletli-adaletsiz gibi kavramlar söz konusu olamaz.
+Çünkü doğa durumunda insanların birbirlerine karşı hiçbir görev ve 
+sorumlulukları yoktu. Aralarında uygarlığın yarattığı eşitsizlikler yoktu.
+Çünkü mülkiyet yoktu. Bu nedenle doğa durumunda *eşitlik*, daha önemlisi
+eşitliğin yarattığı bir  *doğal özgürlük* vardır. Ancak Rousseau, doğa
+durumunun sadece bir kurgu olduğun bilincindedir. 
+
+[quote, J.J. Rousseau, Toplum Sözleşmesi]
+""
+Artık var olmayan, belki hiçbir zaman var olmamış ve olasılıkla hiçbir zaman
+var olmayacak olan, bununla birlikte şimdiki durumumuzu gereğince
+anlayabilmemiz için, hakkında doğru dürüst bilgi edinmemizin hiç de gerekli
+olmadığı bir durum.
+""
+
+*_İnsanlar Arasındaki Eşitsizliğin Kaynağı_*: Rousseau, İnsanlar Arasındaki
+Eşitsizliğin Kaynağı adlı yapıtında ilkel toplumdan uygar topluma geçişin
+mülkiyetin doğa durumundaki eşitliği bozması sonucu gerçekleştiğini savunur.
+Mülkiyetin, maden işletmeciliğinin ve tarımın gelişmesiyle eşitliğin bozulduğu
+görüşündedir. Ona göre mülkiyet, insanlık tarihini kana bulayan, hırsızlıklara,
+cinayetlere ve savaşlara varacak olan bozulmanın başlıca sebebidir. 
+
+[quote, J.J. Rousseau, İnsanlar Arasındaki Eşitsizliğin Kaynağı]
+""
+Bir tarlanın etrafını çitleyip “burası bana aittir” diyen ve bu söze inanacak
+kadar saf kişiler bulan ilk insan uygar toplumun kurucusu olmuştur.
+""
+
+Mülkiyet, toplumdaki barışa son vermiş ve bir savaş durumu yaratmıştır. O
+zaman da savaş son vermenin yolları aranmıştır. Zenginler, bazı yoksulları,
+düşük ücretle bekçi olarak tutarak mülkleri korumanın ve savaşları önlemenin
+yollarını aramışlardır. Savaşa son vereceği umuduyla herkes bu yolu onaylamış
+ve zincirlerini kendi boynuna geçirmiştir. Çünkü o sıralarda siyasal kuruluşun
+zararlarını görebilecek, daha sonra ortaya çıkacak tehlikeleri seçebilecek
+deneyimleri yoktur. 
+
+[quote, J.J. Rousseau, İnsanlar Arasındaki Eşitsizliğin Kaynağı]
+""
+İşte zayıflara yeni köstekler vuran, zenginlere yeni bir kudret veren, doğal
+özgürlüğü bir daha geri gelmeyecek biçimde ortadan kaldıran, mülkiyet ve
+eşitsizlik esasını sonsuza dek kuran, ustalıkla yapılmış bir gasptan bir daha
+geri alınamaz bir hak yaratan ve birkaç muhterisin çıkarı uğruna bundan böyle
+insanlığı çalışmaya, köleliğe, yoksulluğa mahkum eden toplumun ve yasaların
+kaynağı budur veya böyle olmalıdır.
+""
+
+*_Rousseau’nun Toplum Sözleşmesi Kuramı_*: Doğa durumundan uygar topluma geçiş,
+Toplum Sözleşmesi’nde çizilen taslağa göre (İnsanlar Arasındaki Eşitsizliğin
+Kaynağı’nda söylenenin aksine) mal-mülk sahiplerinin bir komplosuyla
+gerçekleşmiş değildir. Doğa durumunda ilkel insanlar az sayıdaki
+gereksinimlerini kolaylıkla karşılayabiliyorlardı. Zamanla gelişip, (kültürel)
+evrim geçirdikçe gereksinimlerini karşılayamaz olmuşlardır. Evrim mülkiyeti,
+mülkiyet de kavgaları doğurmuştur. Kavgaları önleyebilmek için kaba gücün
+yerine hakkın konması gerekir. Güce dayanılarak barış durumu kurulduğunda, onu
+aşan bir başka gücün çıkması, barış durumunu her an bozabilmektedir.  
+
+İnsanlar işte bu kavga durumuna son verebilmek ve kaba güce dayanmayan bir
+barış düzeni kurabilmek için çözüm ararlar. Bu yolda aralarında sözleşme
+yapmaya karar veren insanların iki amacı vardır: Birincisi, doğa durumundaki
+özgürlüklerini korumak, ikincisi ise doğa durumunda ortaya çıkan kavgaları
+engelleyecek bir egemenin yönetimi altına girmektir. Uyuşmaz görünen bu
+amaçlar herkesin tüm haklarını halka bırakması ile aynı anda var
+olabilecektir. Herkes tüm haklarını halka bırakırsa, hiç kimseye bırakmamış
+olacaktır. Toplumun yönetimi altına girmekle birlikte, gene de kimsenin
+yönetimi altına girmemiş olarak kalacaklardır. 
+
+[quote, J.J. Rousseau, Toplum Sözleşmesi]
+""
+Sorun, tüm olarak ortak güçle kişiyi ve her bir üyenin çıkarlarını koruyacak
+ve savunacak bir yönetim şekli bulmaktır, ki bu birlikte her bir üye, bir
+yandan kendini diğerlerine bağlarken, diğer yandan yalnız kendine itaat
+edebilsin ve önceleri olduğu kadar özgür kalabilsin, işte toplum sözleşmesinin
+çözüm yolunu bulduğu ana sorun budur.
+""
+
+Rousseau bu formülüyle tam bir birey-toplum sentezi yapmaya, bireysel
+çıkarlarla toplumsal çıkarları eksiksiz çakıştırmaya çalışmaktadır. Bu formülün
+anahtarı ise *genel istenç* kavramıdır.
+
+*_Genel İstenç Kavramı_*: Toplumu oluşturacak bütün insanların kendilerini hem
+öteki insanlara bağlamalarını, hem de kendilerine boyun eğiyor olmalarını ve
+eskisi kadar özgür kalmalarını sağlayacak bir durum olabilir. Bu durum herkesin
+bütün haklarını bir *genel istenç* dediği topluma, daha doğrusu toplumun ortak
+istencine bırakılmasıyla yaratılır.
+
+Herkesin tek tek haklarını devretmesiyle ortaya, toplumu yönetecek olan *genel
+istenç* denen ortak bir güç çıkmaktadır. Böyle bir toplumsal sözleşmeye
+toplumun bütün üyeleri katılmış, katılmayan toplumun dışında kalmıştır. Bu
+durumda, toplumun üyelerinin tüm haklarını genel istence bıraktıkları toplum
+sözleşmesinin, oybirliğiyle kabul edilmiş olması gerekir.
+
+Toplum üyeleri sözleşmeden önce, doğa durumunda sahip oldukları güvencesiz
+*doğal haklarını* ve güvencesiz *doğal özgürlüklerini* topluma, egemene,
+devlete bırakmışlardır. Karşılığında kendilerine güvenceli *uygar haklar*
+(sivil haklar, yurttaşlık hakları) ve *uygar özgürlükler* bağışlanacaktır; ki
+bu bir kazançtır.
+
+[quote, J.J. Rousseau, Toplum Sözleşmesi]
+""
+Herkesin iradesiyle genel istenç arasında çok kez büyük bir fark vardır. Genel
+irade yalnızca ortak çıkarı göz önüne alır. Ötekisi ise kişisel çıkarların ve
+yalnızca özel çıkarların toplamıdır.
+""
+
+[qanda]
+Genel istenci genel yapan oy çokluğu değilse nedir?::
+    Toplumsal (ortak) yarardır. Bu durumda genel istencin ortaya çıkması için
+    ne oy çokluğunun ne oybirliğinin bulunması zorunludur. Bir kararda
+    oyçokluğu sağlanmış olabilir ama o karar gene de toplumun çıkarına
+    olmayabilir. Dolayısıyla genel istence uygun sayılmayacaktır. Öte yandan
+    çoğunluğun katılmadığı bir görüş, toplumun çıkarına dolayısıyla genel
+    istence uygun olabilir. Hatta tek bir kimsenin bir görüşü bile, toplumsal
+    çıkara uygunsa, genel istenç demektir.
+
+Böyle bir düşünce, genel istenci,
+
+. toplumun tüm üyelerinin
+. bir bölümünün
+. tek bir üyesinin 
+
+dile getirebileceği görüşünü içerir. Genel istenci temsil edip kullanan
+egemenin, tek bir kişi, bir azınlık, çoğunluk ya da toplumun tümü olabileceği
+sonucuna varır.
+
+Rousseau'nun kafasında, eşitsizliğin bulunmadığı ve büyüklüğü kent devleti
+çapını aşmayan bir toplum ülküsü vardır. Böyle bir toplum doğrudan demokrasiyi
+getirebilecektir. Vatandaşların bir alana toplanıp toplumsal sorunları karara
+bağlamalarını olanaklı kılacaktır. O toplumda, eşitsizlik bulunmayacaktır.
+Dolayısıyla kişisel çıkarlarla toplumsal çıkarlar aynı yönde olacaktır. Tüm
+üyeler toplumsal sorunlardan haberli ve bilgili olacaktır. Bu durumda
+vatandaşlar toplandıkları zaman, genel istenç oybirliğinde, hiç değilse
+oyçokluğunda belirebilecektir. İşte bu ideal durumda, bireyler toplumun
+istencine, genel istence uymakla aynı zamanda kendi istençlerine uymuş
+olacaklardır.
+
+Rousseau, temsili demokrasileri *seçilmiş aristokrasiler* olarak görmüştür.
+Bununla birlikte, ekonomik eşitliğin bulunduğu ülkelerde bunları en iyi yönetimler olarak
+niteler. Çünkü temsil düzeneği genel istenci ortaya çıkarabilecek bir yönde
+işleyecektir. Ekonomik eşitlik bulunmazsa *temsil* düzeneğinin varsıllardan yana
+işleyeceğinin farkındadır. 
+
+[quote, J.J. Rousseau, Toplum Sözleşmesi]
+""
+Toplum sözleşmesi, genel iradeye itaat etmeye yanaşmayanların topluluk
+tarafından itaate zorlanacağını üstü örtülü olarak garanti eder... Bu, genel
+iradeye karşı duran kişinin özgür olmaya zorlanacağı anlamındadır.
+""

@@ -1,0 +1,162 @@
+:icons: font
+
+== 29.11.2016 tarihli pratik çalışma
+
+07.04.2016 tarihinde radyoda yayınlattığı reklamlarla yakın bir gelecekte
+ticari işletme niteliğindeki otomobil galerisinin açılacağını duyurmasına
+rağmen henüz galerisini açmamış bulunan A, işletmesinde kullanmak üzere ofis
+mobilyaları satan bir mağazanın sahibi olan tacir B'den 7 adet masa ve
+sandalyeyi 14.04.2014 tarihinde telefonla sipariş etmiştir. A, B tarafından
+kendisine gönderilen ve 16.04.2014 tarihinde eline ulaşan mektupta bedelin
+kararlaştırılandan daha yüksek gösterildiğini farketmiş ve 23.04.2014 tarihinde
+B'ye gönderdiği elektronik posta ile bedele itiraz etmiştir.
+
+İlerleyen günlerde hazırlıklarını tamamlayan A, galerisini 06.05.2014
+tarihinde açıp işletmeye başlamış; 30.06.2014 tarihinde ise işletmesini ticaret
+siciline tescil ettirmiştir.
+
+Restoran işletmeciliği ile uğraşan tacir C, restoran işlerinde kullanmak
+üzere A ile 05.08.2014 tarihinde otomobil alımına ilişkin bir sözleşme
+akdetmiş; ancak otomobilin kararlaştırılan tarihte teslim edilmemesi üzerine
+A'yı telefonla arayıp otomobilin en geç bir hafta içerisinde kendisine
+teslim edilmesini talep ve aksi halde yasal haklarını kullanacağını ihtar
+etmiştir. Bunun üzerine otomobilleri bir haftalık süre içerisinde teslim eden
+A, satış sözleşmesine göre satış bedelinin ödenmesi gereken tarih olan
+10.10.2014 tarihinde C'den satış bedelini ödemesini istemiş; ancak C,
+işletmesini 08.09.2014 tarihinde ticaret siciline tescil ve ilan ettirilen
+devir sözleşmesi ile D'ye devrettiğini belirterek satış bedelinin ifasından
+kendisinin değil D'nin sorumlu olduğu gerekçesiyle herhangi bir ödeme
+yapmamıştır.
+
+Zamanla işlerinin kötüye gitmesi nedeniyle piyasaya olan borçlarını
+ödeyemeyeceğini anlayan A, Eylül 2015'te galerisini kapatmıştır. 01.07.2015
+tarihinde kendisinden iki adet buzdolabı satın almış olan A'nın borcunu
+ödememiş olması dolayısıyla Ü, Kasım 2016'da mahkemeye başvurarak A'nın
+iflasına karar verilmesini istemiştir.
+
+*SORU 1*: A'nın "_tacir sıfatının kazanılmasına_" ilişkin hukuki durumunu a)
+07.04.2014, b) 06.05.2014, c) 30.06.2014 tarihleri bakımından ayrı ayrı
+açıklayınız.
+
+****
+Bir ticari işletmeyi, kısmen de olsa, kendi adına işleten kişiye tacir denir
+(TTK 12/1). Ticari işletmenenin işletilmesi için ticari işletmenin varlığı
+yeterli değildir. Ayrıca faaliyete de geçmesi lazımdır. Kural olarak
+müşterilerle ilişkiye başlanması ile faaliyete geçilir. Müşterilerle ilişki
+başlamamış olsa bile ticari işletmenin hazırlık işlemleri işletmesel faaliyet
+içerisindeyse tacir sıfatı yine kazanılır.
+
+Olayda A, 07.04.2014 tarihinde radyoda verdiği reklamla yakın bir zamanda
+işletmesinin açılacağını duyurmuştur. Bu durumda TTK 12/2 uyarınca tacir
+sayılabilir.
+
+NOTE: Tacir sayılmak ile tacir olmak arasında sonuç itibariyle bir fark yoktur.
+
+A, 06.05.2014 tarihinde işletmesini açıp işletmeye başlamıştır. Dolayısıyla bu
+tarih itibariyle tacir sıfatını kazanmıştır.
+
+Gerçek kişi tacirler için, ticaret siciline tescil her zaman açıklayıcıdır.
+Dolayısıyla A, işletmesini ticaret siciline tescil ettiği tarih olan
+30.04.2014 tarihinde halihazırda tacirdir.
+****
+
+*SORU 2*: A'nın bir gerçek kişi değil de a) dernek, b) kamuya yararlı vakıf
+olması ihtimallerinde yukarıdaki soruya vereceğiniz yanıt değişir miydi?
+
+****
+Derneğin tacir sıfatını kazanması da gerçek kişi tacirlerde olduğu gibidir.
+Kamuya yararlı vakıflar ise kendileri tacir sayılmazlar (TTK 16/2).
+****
+
+*SORU 3*: A'nın mektuptaki bedele ilişkin itirazının geçerliliğini a) şekil
+ve b) süre yönünden değerlendirerek, sonuçlarını açıklayınız.
+
+****
+A ile B arasında telefon aracılığıyla bir satış sözleşmesi kurulmuştur.
+Dolayısıyla B tarafından 16.04.2014 tarihinde A'ya ulaşan mektup teyit
+mektubu olarak nitelendirilebilir. Teyit mektubu herhangi bir iletişim veya
+bilişim aracılığıyla ya da sözlü olarak kurulan sözleşmelerde yapılan
+açıklamaların içeriğini doğrulamak için gönderilir. 
+
+A, mektubun içeriğinin telefonla kurulan sözleşmede farklı olması sebebiyle
+yapacağı itirazını mektubu almasından itibaren sekiz gün içerisinde yapmalıdır.
+Olayda 16.04.2014 tarihinde mektup A'nın eline ulaşmış, 23.04.2014 tarihinde
+ise A bu mektuba itiraz etmiştir. Dolayısıyla A'nın itirazı süre bakımından
+geçerlidir.
+
+A, itirazını eposta yoluyla göndermiştir. Teyit mektubuna yapılacak itirazlar
+bakımından herhangi bir şekil şartı yoktur. Dolayısıyla yapılan itiraz şekil
+bakımından da geçerlidir.
+
+Teyit mektubuna yapılan geçerli itiraz ile ispat yükü olduğu gibi kalacaktır.
+Yani sözleşmenin teyit mektubundakine uygun olarak kurulduğunu iddia eden bu
+iddiasını ispatla yükümlüdür.
+
+Teyit mektubuna süresi içerisinde itiraz edilmemiş veya teyit mektubu geçersiz
+ise ispat yükü yer değiştirir. Bu durumda sözleşmenin teyit mektubuna uygun
+kurulmadığını iddia eden bu iddiasını yazılı delille ispatlamalıdır.
+****
+
+*SORU 4*: A'nın işletmesini ticaret siciline tescil ettirme yükümü var mıdır?
+Varsa, işletmesini hangi süre içinde ve neredeki sicile kaydettirmelidir?
+
+****
+Her tacirin, ticari işletmesini ticaret siciline tescil ettirme yükümlülüğü
+vardır. Tescil, işletme merkezinin bulunduğu yer ticaret siciline, ticari
+işletmenin açıldığı günden itibaren onbeş gün içinde yapılır.
+****
+
+*SORU 5*: a) A ile C arasında yapılan satış sözleşmesi ticari iş midir?
+b) C otomobili restoran işinde kullanmak için değil de üniversiteyi kazanan
+kızına hediye olarak alsaydı "_a_" şıkkına vereceğiniz cevap değişir miydi?
+
+****
+Ticari işler dört sınıfa ayrılabilir:
+
+. Ticaret Kanunu'nda düzenlenen hususlar, ticari iştir.
+. Bir ticari işletmeyi ilgilendiren işler ticari iştir.
+. Bir geçek kişi tacirin işlerinin karine olarak ticari iştir. Ticaret
+şirketlerinin her işi ticari iştir.
++
+Bunun iki istisnası vardır:
+
+.. Halin icabından o işin ticari olmadığının anlaşılması
+.. O işin ticari olmadığının karşı tarafa açıkça bildirilmesi
+. Bir taraf için ticari olan *sözleşmeler*, diğer taraf için de ticaridir.
+
+a) A ile C arasında yapılan satış sözleşmesi ticari iştir, zira sözleşme her
+ikisinin de ticari işletmesini ilgilendirmektedir.
+b) Bu durumda da A ile C arasındaki sözleşme ticari iştir. Zira TTK 19/2
+uyarınca bir taraf için ticari olan sözleşme, diğer taraf için de ticaridir.
+****
+
+*SORU 6*: A'ya yöneltilen ihtar şekil açısından geçerli midir?
+
+****
+Tacirler arasında;
+
+.. diğer tarafı temerrüde düşürmeye, 
+.. sözleşmeyi feshe, 
+.. sözleşmeden dönmeye
+
+ilişin ihbarlar ve ihtarlar;
+
+.. noter aracılığıyla,
+.. taahhütlü mektupla,
+.. telgrafla,
+.. güvenli elektronik imza kullanıllarak kayıt elektronik posta sistemiyle
+
+yapılır.
+
+Şekil kuralının geçerlilik şartı mı ispat şartı mı olduğu tartışmalıdır. Eski
+kanunda geçerlilik şartı olarak kabul edilirken yeni kanunda bu ifade
+kaldırılmıştır. Dolayısıyla bunun bir ispat şartı olduğu söylenebilir. Ancak
+TBK 12/2'ye göre de kanunda öngörülen şekil kural olarak geçerlilik şeklidir.
+
+Olayda A'ya yöneltilen ihtar bir temerrüt ihtarıdır ve TTK 18/3 uyarınca şekle
+tabidir. Bu ihtarın telefonla yapılması ihtarı şekil açısından geçersiz kılar.
+****
+
+*SORU 7*: C'nin satış bedelini ödememe gerekçesi isabetli midir?
+
+*SORU 8*: Ü'nün açtığı davada mahkeme A'nın iflasına karar verebilir mi?

@@ -1,0 +1,55 @@
+:icons: font
+
+== 17.11.2016 tarihli pratik çalışma
+
+=== OLAY I
+
+A, Küçükçekmece sınırlarında bulunan ve tapu kaydında ipotek kaydı bulunan bir
+arsayı 1.1.2016 tarihinde satın alır. Arsanın A adına tescilinden sonra Çevre
+Bakanlığı A’ya dava açarak, söz konusu taşınmazın daha öncesinde
+kamulaştırıldığını, Çevre Bakanlığı tarafından bir dava açılmış olduğunu ve bu
+dava sonucunda söz konusu arsanın 06.07.2011 tarihli mahkeme kararıyla Çevre
+Bakanlığı adına tescil edilmesi hususunda karar verildiğini, söz konusu kararın
+kesinleşmekle birlikte ilgili Çevre Bakanlığı adına tescilin yapılmamış
+olduğunu iddia eder.
+
+*A, kendisine karşı açılmış olan dava kapsamında ileri sürebileceği bir hakka
+sahip midir?  Açıklayınız.*
+
+=== OLAY II
+
+A, Bakırköy’de bulunan taşınmazını B’ye satmayı vaad eder. Taraflar 1.2.2011
+tarihinde satış vaadi sözleşmesi kurarlar. Satış vaadi sözleşmesi aynı tarihte
+tapuya şerh edilir. A, 15.04.2016 tarihinde taşınmazı Ü’ye satar ve Ü adına
+tescil gerçekleştirilir.  
+
+Gerekli bilgi: 15.1.2009 tarihli ve 5831 sayılı Kanun’un m. 1 hükmü ile
+değiştirilmiş Tapu Kanunu m. 26 hükmünün altıncı fıkrası uyarınca: “Şerhten
+itibaren beş yıl içinde satış yapılmaz veya irtifak hakkı tesis ve tapuya tecil
+edilmezse işbu şerh (Değişik ibare:) “tapu sicil müdürü veya tapu sicil
+görevlileri” tarafından re'sen terkin olunur”.
+
+. B’nin satış vaadi sözleşmesinden doğan hakkını Ü’ye karşı ileri sürmesi
+mümkün müdür?
+
+. Ü’nün söz konusu taşınmazı şerh için öngörülmüş olan beş yıllık sürenin
+geçmemiş olduğu dönemde satın almış olması ihtimalinde vereceğiniz cevap
+değişir miydi?
+
+. A ile B arasındaki sözleşmenin 1.5.2011 tarihinde şerh verilmiş olması ve
+tapu sicil görevlilerinin şerhi hataen beş yıllık sürenin dolmasından evvel
+terkin etmiş olmaları ihtimalinde, B’nin hangi imkânlara başvurması söz konusu
+olabilirdi?
+
+=== OLAY III
+
+A, babası B’ye ait bir taşınmazı sahte vekâletname düzenlemek suretiyle C’ye
+satar. Satım anında olaylardan haberi olmayan C, daha sonra A’nın kendisine
+sahte vekâletname ile satış yaptığını öğrenir ve herhangi bir zarara uğramamak
+için taşınmazı derhal Ü’ye satar ve Ü adına tescil gerçekleştirilir.
+
+. B’nin taşınmazı C’den talep etmesi mümkün olur muydu? Açıklayınız.
+
+. B, taşınmazın iadesini Ü’den hangi şartlarla talep edebilir? Taşınmazın
+iadesini sağlayamaması halinde başvurabileceği başka bir imkân var mıdır?
+Açıklayınız.

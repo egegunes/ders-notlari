@@ -1,0 +1,511 @@
+:icons: font
+
+== TAPU SİCİLİ
+
+* Taşınmazlara ilişkin ayni hak kurulabilmesi için tarafların sadece aralarında
+  bir sözleşme yapmaları yeterli değildir. Taşınmaza ilişkin bir ayni hakkı
+  devretmek için yapılacak sözleşmenin *resmi şekilde* yapılması gereklidir.
+  Kanun resmi şekil şartını aramakta ve bu resmi şekil şartının da ancak tapu
+  sicil memuru tarafından yerine getirilebileceğini söylemektedir.
++
+****
+*MK 706*: Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması,
+resmî şekilde düzenlenmiş bulunmalarına bağlıdır.
+****
+
+* Sözleşme yapılıp tescil talep edildikten sonra ilgili işlem önce *yevmiye
+defteri* denen bir deftere ardından da *tapu kütüğüne* işlenir. *Yevmiye
+defterine işlenmekle ayni hak doğmuş olmaz*. Taşınmaz üzerinde herhangi bir
+ayni hakkın doğabilmesi için tescil şarttır. 
++
+Yevmiye defteri sadece hakkın kuruluş tarihini belirler. Yevmiye defterinden
+tapu kütüğüne geçirilen işlem yevmiye defterine kayıt tarihinden itibaren
+geçerli olur. 
++
+Yevmiye defteri aynı zamanda haklar bakımından sırayı belirlemeye yarar.
+Taşınmaz üzerinde birden fazla sınırlı ayni hak varsa hangisine öncelik
+tanınacağını belirler.
+
+* Taşınırlarda zilyetliğin hak karinesi oluşu gibi, taşınmazlarda da tapu
+  sicilindeki kayıt bir hak karinesi oluşturur. Kayıtta kim malik gözüküyorsa
+  onun malik olduğuna dair bir karine oluşur. Bunun aksine ispatı mümkündür. 
+
+* Tapu sicilindeki kayıt ile gerçek durum arasında fark olabilir. Aradaki bu
+  fark bazen tapu memurunun hatasından kaynaklanabilir. Bu hatada dolayı
+  uğranılan zararlardan *devlet kusursuz sorumludur*. Bu tazminat davasının
+  görülebilmesi için ya *yanlış bir kaydın olması* ya da *yapılması
+  gereken bir kaydın yapılmaması* gerekir.
++
+Eğer gerçek durum ile tapudaki durum sonradan birbiriyle uyumsuz hale gelmişse
+burada bir hata yoktur. Zira ilk durumda, yani kayıt tutulurken kayıt gerçek
+durum ile uygundur.
++
+Devletin sorumluluğu kusursuz bir sorumluluktur. Dolayısıyla kusur şartı
+aranmayacaktır. Devlet alması gereken tüm tedbirleri almış olsa bile
+sorumludur. Ancak her halükarda hukuka aykırı bir fiil şarttır.
+
+* Tapu sicil sisteminin başlıca özellikleri:
+
+.. Sicil sisteminde her taşınmazın ayrı sayfası vardır.
+.. Ayni hakkın kazanılması için tescil şarttır. Tescil tapu kütüğüne yapılır.
+   Yevmiye defterine kayıt ile ayni hak kazanılmaz. Kazanılan hakkın ne
+   zamandan beri etki doğurduğu meselesi için yevmiye defterine bakılır.
+   Yevmiye defterine kayıt edilip tapu kütüğüne kaydedilmezse hak doğmaz.
+.. Tescil işlemi sebebe bağlıdır.
+.. Üçüncü kişilerin sicil kayıtlarına olan güveni korunur.
+.. Tapu sicil sistemi alenidir.
++
+****
+*MK 1020*: (1) Tapu sicili herkese açıktır.
+
+(2) İlgisini inanılır kılan herkes, tapu kütüğündeki ilgili sayfanın ve
+belgelerin tapu memuru önünde kendisine gösterilmesini veya bunların
+örneklerinin verilmesini isteyebilir.
+
+(3) Kimse tapu sicilindeki bir kaydı bilmediğini ileri süremez.
+****
+
+* Bir taşınmazın tapuya geçirilmesinin iki yolu vardır: *Mahkeme kararı* ve
+  *kadastro*.
++
+Herhangi bir yeryüzü parçasının tapuya geçirilmesi için ya dava açılıp o
+arazinin sınırlarının belirlenmesi ve mülkiyet durumunun tespiti talep edilir
+ya da genel olarak kadastro işlemleri yapılması gündeme gelir ve yapılan
+kadastro işlemleri sonucunda taşınmaz tapuya geçirilir.
+
+* Tapu siciline *taşınmaz olarak* şunlar kaydedilir:
+
+. *Arazi*
+. *Taşınmazlar üzerindeki bağımsız ve sürekli haklar*: Bir taşınmaz üzerindeki
+  sınırlı ayni haklar bağımsız ve sürekli olma şartı ile taşınmaz olarak tapuya
+  kaydedilebilir.
++
+Bağımsız olmaktan kasıt herhangi bir eşyaya veya şahsa bağlı olmamasıdır.
+Bağımsız olarak devir kabiliyetinin varlığıdır.
++
+Sürekli olmasından kasıt ise en az 30 yıllığına kurulmuş olmasıdır. 
+. *Kat mülkiyetine konu olan bağımsız bölümler*
+
+* Tapulama işlemi ilk olarak taşınmazın sınırlarını belirlemektir. İkinci
+  olarak da taşınmaz üzerindeki mülkiyet durumunu belirlemektir.
+
+* Bir yerden kadastro geçmişse ikinci kadastro mümkün değildir. İkincisi
+  geçersiz olur. İkinci kere mülkiyetin tespiti ancak daha önce mahkeme
+  kararıyla tapulama yapılmış yerin kadastroya tabi tutulmasıyla olur.
+
+* Kadastroda kadastro ekibi sınırları belirler, mülkiyet durumunu belirler ve
+  tespit tutanağını tutar. Bu tutanağa bir takım itirazlar
+  gerçekleştirilebilir. Kadastro komisyonu söz konusu itirazları inceler ve
+  kadastro sonuçlarını ilan eder. Buna karşı da yargı yolu imkanı vardır.
+  Tespitin kesinleşmesinden itibaren kadastro mahkemelerine dava açabilmek için
+  10 yıllık hak düşürücü süre öngörülmüştür.
+
+* Kadastro işlemlerine başlandığında iki tür taşınmazla karşılaşılabilir:
+  Tapulu olan ve tapusuz olan. Tapulu olsa bile kadastroya tabi tutulur. Ancak
+  bu mahkeme kararıyla tapulu hale gelmiş taşınmazlar için geçerlidir. Kadastro
+  işlemiyle tapulu hale gelen taşınmazlar için ikinci kadastro işlemi yasaktır.
+  Kadastro işlemleri sırasında tapulu olsun ya da olmasın bütün taşınmazlara MK
+  değil Kadastro Kanunu uygulanır.
+
+* Kadastro yapılırken kim zilyetse ona bakılır. Tapulu taşınmazlarda da zilyede
+  bakılır. Sicildeki malik ile zilyet örtüşüyorsa sorun yoktur, kadastro işlemi
+  onun lehine yapılır. Ancak zilyet başkası ise zilyedin adına tespitin
+  yapılması da mümkündür. Bu ya malik gözüken kişinin rızası ile mümkün olur ya
+  da malikin daha önce noter onaylı bir imzası varsa, noterde düzenlenmiş satış
+  vaadi varsa, sözleşme varsa bunların sunulması ile olur. 
++  
+Malikin rızası olmasa bile zilyet adına tescil yapılabilir. İki yolu vardır:
+Olağan zamanaşımı ile iktisap ve olağanüstü zamanaşımı ile iktisap. Olağan
+zamanaşımı ile iktisapta zilyet taşınmazı tapu dışı kazandığını ve çekişmesiz
+ve aralıksız olarak 10 yıl boyunca malik sıfatıyla zilyet olduğunu ispat
+etmelidir. Olağanüstü zamanaşımı ile iktisapta ise sadece 20 yıldır çekişmesiz
+ve aralıksız olarak malik sıfatıyla zilyet olduğunu ispatlaması yeterlidir.
+
+* Tapusuz taşınmazlarda da zilyede bakılır. Fakat zilyedin 20 yıldır malik
+  sıfatıyla zilyet bulunduğunu ispat etmesi şartı vardır. İspat şekli de
+  taşınmazların yüzölçümüne bakılarak ikiye ayrılır: Sulu topraksa 40 dönüm,
+  kuru topraksa 100 dönüme kadar olan kısım için belgesiz olarak, tanık
+  beyanıyla dahi zilyetlik ispat edilebilir. Bu sınırları aştığında kanunda
+  sayılan bir takım belgelerle ispat gerekir. Bu koşulların hiçbiri yoksa
+  taşınmaz hazine adına tescil edilir.
+
+WARNING: *Sadece ayni haklar tescil edilir*. Şahsi haklar tapuya tescil ile işlenmez.
+
+* Tescil temelinde bir hukuki sebebe ihtiyaç duyar. Hukuki sebep sözleşme
+  olabilir, mahkeme kararı olabilir. Hukuki sebep yoksa tescil geçersiz olur.
+  Tescil sebebe bağlıdır.
+
+WARNING: *Tescil herhangi bir şarta bağlanamaz*.
+
+* Tescilin sağlanabilmesi için tasarruf yetkisine sahip olan kişinin bunu
+  talep etmesi gerekir.
+
+NOTE: Tek başına sözleşme hiçbir zaman mülkiyeti karşı tarafa geçirmez.
+Yapılan sözleşme bir borçlandırıcı işlemdir. Borcun ifası için malikin tescil
+talebini tapu memuruna iletmesi gerekir. Tescil talebi tasarrufi işlemdir.
+Tescili talep eden malik, kendi üstüne düşen görevi yerine getirmiş olur.
+Bundan sonraki aşama tapu memuruna düşer. Bu yüzden doktrinde ağırlıklı olarak
+tescilin kendisine değil, tescil talebine tasarruf işlemi denmektedir.
+
+* *Kurucu tescilde* sicil dışında kazanılmış bir ayni hak yoktur. Ayni hak
+  sicile yapılan tescil ile kazanılır. *Açıklayıcı tescilde* ise MK 705/2'deki
+  sebeplerden biri ile sicil dışında kazanılmış ayni hak tapu siciline tescil
+  ile belirtilmiş olur.
++
+****
+*MK 705*: (1) Taşınmaz mülkiyetinin kazanılması, tescille olur.
+
+(2) Miras, mahkeme kararı, cebrî icra, işgal, kamulaştırma hâlleri ile kanunda
+öngörülen diğer hâllerde, mülkiyet tescilden önce kazanılır. Ancak, bu hâllerde
+malikin tasarruf işlemleri yapabilmesi, mülkiyetin tapu kütüğüne tescil edilmiş
+olmasına bağlıdır
+****
+
+* Tapu sicilindeki işlemleri malik adına temsilcisi de yapabilir. Tapu Sicil
+  Tüzüğü ve Noterlik Kanununda taşınmaz mülkiyetinin devrine ilişkin
+  vekaletnamenin noterler tarafından düzenlenmesi gerektiği söyleniyor. 
++
+Yine malik adına yasal temsilcisi de yapabilir. Küçüğün velisi denince
+anne-baba anlaşılır ve kural olarak anne-baba birlikte hareket etmelidirler.
+Küçüğün sahip olduğu mülkiyet hakkına ilişkin bir tasarrufta bulunulacaksa
+anne-baba birlikte işlem yapabilecektir. Kişiye vasi atanmışsa taşınmaz
+mülkiyetinin devrine ilişkin Sulh Hukuk Mahkemesinin izni gerekmektedir.
++
+Temsilci kendi adına değil malik adına bu işlemleri yapmaktadır. Burada
+tasarruf yetkisini kullanan maliktir.
+
+* Taşınmazın birden fazla maliki varsa hepsinin birlikte tescil talebinde
+  bulunmaları gerekmektedir. 
+
+* Tescil için tasarruf yetkisinin belgelendirilmesi gerekir. Çoğunlukla malikin
+  sicilde malik olarak gözüktüğünü ispat etmesi yeterlidir. Ancak açıklayıcı
+  tescilde ayni hak sicil dışında kazanıldığı için kişi malik olarak
+  gözükmüyordur. Açıklayıcı tescilde kişi ancak kendi adına tescil yapabilir.
+  Ayni hak üzerinde tasarruf edebilmek için tescilde malik olarak gözükmek
+  zorunludur.
+
+* Sicilde malik olarak gözüken kişi ile işlem yapan iyiniyetli üçüncü kişilerin
+  ayni hak kazanımları korunur.
++
+****
+*MK 1023*: Tapu kütüğündeki tescile iyiniyetle dayanarak mülkiyet veya bir
+başka aynî hak kazanan üçüncü kişinin bu kazanımı korunur.
+****
++
+CAUTION: Sadece *ayni haklar* iyiniyetle iktisap edilir. Şahsi haklarda
+iyiniyetin koruyucu etkisi yoktur.
++
+İyiniyetli olmak somut durumun koşulları gereğince sicildeki kaydın gerçeği
+yansıtmadığının bilinmemesi veya bilinmesinin gerekmemesidir.
++
+CAUTION: Üçüncü kişinin iyiniyeti sadece tasarruf yetkisi eksikliğini giderir.
+İyiniyet ehliyet veya şekil eksikliğini giderici rol oynamaz.
+
+* *Terkin* ayni hakkı sonlandırır veya zaten sicil dışı sona ermiş bir ayni hak
+  varsa tapudan da silinmesini sağlar.
+
+* Terkin talebinde bulunanın da tasarruf yetkisine sahip olması şarttır. 
+
+* Hak eğer tapu dışında sona ermişse *açıklayıcı terkinden* bahsedilir. Tapu
+  dışında sona eren hakka ait kayıt, *sadece şekli bir anlam* taşıyor olabilir
+  ya da *şekli anlam dahil hiçbir değeri kalmamış* olabilir.
++
+Eğer kaydın hiçbir anlamı kalmamışsa tapu memuru tarafından re'sen terkin
+edilir.
++
+TIP: Taşınmaza dair intifa hakkı sahibi gerçek kişi ise bu kişi ölünce intifa
+hakkı kendiliğinden sona erer, tüzel kişi ise intifa hakkının maksimun süresi
+olan yüz yıl dolmuşsa yine kendiliğinden sona erer. Buna dair kaydın tapuda
+durmasının hiçbir anlamı yoktur
++
+Eğer kayıttaki hak maddi hukuk açısından bir sonuç doğurmamakla birlikte şeklen
+sonuçları hala devam ediyorsa bu kayıt re'sen terkin edilemez. Bu kaydın
+terkini için dava açılması ve mahkeme kararı gereklidir.
+
+* Tescilin aksine *herhangi bir ayni hak terkin edilebilir*.
++
+TIP: İpotek hakkı terkin edilecekse o taşınmazın maliki değil ipotek hakkı
+sahibi terkini talep edebilir.
+
+* Bazı hallerde terkin için hak sahibi dışında başka kimselerin de rızasına
+  ihtiyaç duyulabilir.
++
+NOTE: Geçit hakkı tanınan bir taşınmazın değeri normalden fazladır. Aynı
+taşınmaz üzerinde bir rehin hakkı sahibi varsa ve bu taşınmaz üzerindeki geçit
+hakkı geçit hakkı sahibi tarafından terkin edilecekse rehin hakkı sahibinin de
+rızasına ihtiyaç vardır. Zira rehin hakkı sahibi hakkını kullanıp taşınmazı
+sattırdığında geçit hakkının varlığı ile eline geçecek para ile geçit hakkı
+olmaksızın eline geçecek para birbirinden farklıdır.
+
+* Terkin bir anlamda ayni haktan feragat olduğu için *geçerli bir hukuki
+  dayanağa ihtiyaç yoktur*.
+
+* Ayni haklar dışındaki haklar tapu siciline kaydedilemez. Bunun tek istisnası
+  *kişisel hakların şerhidir*. Kişisel hakların tapuya kaydedilebilmesi için
+  *kanunda belirtilmesi* gereklidir. Kişisel hakların şerhi için *sınırlı sayı
+  (numerus clausus) ilkesi* geçerlidir.
+
+. Arsa payı karşılığı inşaat (MK 1009)
+. Sözleşmeden doğan ön alım hakkı (MK 735)
+. Sözleşmeden doğan geri alım hakkı (MK 736)
+. Rehinli alacaklının boş dereceye ilerleme hakkı (MK 871/3)
+. Paylı taşınmazlarda yararlanma, kullanma ve yönetime ilişkin kararlar (MK
+  695/2)
+. Paylı taşınmazlarda paylı mülkiyetin devamına ilişkin sözleşmeler (MK 698/2)
+. Taşınmaz mülkiyetinin kanundan doğan kısıtlamalarının ortadan kaldırılması
+  veya değiştirilmesine ilişkin sözleşmeler (MK 731/2)
+. Yasal ön alım hakkından feragat sözleşmesi (MK 733/2)
+. Taşınmaz malikine kalan yapılar için üst hakkı sahibine ödenmesi
+  kararlaştırılan bedelin miktarı ve bunun hesaplanış biçimi ile bu bedel
+  borcunun kaldırılmasına ve arazinin ilk haline getirilmesine ilişkin
+  anlaşmalar (MK 830)
+. Paylaşmalı mal ayrılığı sisteminde evliliğin iptali veya boşanma halinde aile
+  konutunda kalmaya ve ev eşyasını kullanmaya hangi eşin devam edeceği hakkında
+  yapılan sözleşmeden doğan konutta kalma hakkı (MK 254)
+. Ön alım, geri alım ve alım hakları (TBK 238)
+. Bağışlamadan rücu hakkı (TBK 292/2)
+. Adi kira (TBK 312)
+. Ürün kirası (TBK 358 atfıyla TBK 312)
+. Taşınmaz satış vaadi (Tapu K. 26/7)
+
+* Şerh edilen kişisel haklar nisbi hak özelliklerini korurlar, mutlak hakka
+  dönüşmezler. Fakat tapuya şerh edildiği için artık herkes tarafından
+  görünebilir bir haldedir. Şerh sonucunda *nisbi hakkın etkisi genişler ve
+  sonraki ayni hak sahiplerine karşı ileri sürülebilir hale gelir*.
++
+[NOTE]
+====
+Taraflar arasında *noterde* yapılan taşınmaz satış vaadi sözleşmesi sadece
+taraflar arasında etkilidir, bir nisbi hak doğurur. Kendisine taşınmazın
+satılacağı vaat edilen alıcı bu hakkını sadece sözleşmenin tarafına ileri
+sürebilir. 
+
+Eğer bu hak tapuya şerh edilirse, alıcı, hakkını her yeni malike karşı ileri
+sürebilir. Dolayısıyla taşınmaz el değiştirdikçe satış vaadinden kaynaklanan
+borç yani satıcının borcu da el değiştirmiş olur. Böylece borç *eşyaya bağlı
+borç* haline gelir. Eşyaya bağlı borçta borçlunun kimliği eşyanın malikine göre
+belirlenir.
+
+WARNING: Her iki borç da eşyaya bağlı hale gelmez. Yani satış vaadinde alıcının
+borcu eşyaya bağlı hale gelmez.
+
+Borcun nakli veya alacağın temliki tüm sözleşmenin devri sonucunu doğurmaz.
+Sözleşmenin devri bambaşka bir şeydir. Buradaki durum sadece borcun nakline
+benzer. Dolayısıyla bir sözleşmenin devri değil, borcun eşyayı takip etmesi
+hali vardır. Bütünüyle sözleşmenin eşyayı takip etmesi söz konusu değildir.
+====
+
+* Herhangi bir hakkın şerh edilebilmesi için öncelikle o hakkı doğuran bir
+  sözleşmenin olması gerekir.
+
+* Şerh edilmiş hakkın iki önemli sonucu vardır:
+. *Alacağını talep etme*: Borç eşyaya bağlı hale gelir. Alacaklı, alacağını
+  eşyanın maliki kimse ondan talep edebilir.
+. *Munzam etki*: Malik dışındaki ayni hak sahiplerine karşı ileri sürülebilme
+
+* Sözleşmeden kaynaklanan ve kanunda belirtilmiş şahsi hakların şerh
+  edilebilmesi için *şerh anlaşması* gereklidir. Şerh sebebi hakkı doğuran
+  sözleşmenin kendisi değil, şerh anlaşmasıdır.
++
+TIP: Şerh anlaşmasının tek istisnası gayrimenkul satış vaadidir. Alacaklıya
+doğrudan kanundan kaynaklanan bir hak tanınmıştır. Sözleşmede şerhe ilişkin bir
+hüküm bulunmasa bile tapuya şerh ettirilebilir.
++
+Şerh anlaşması bulunmasına rağmen yine de şerh tapuya yapılacak bir kayıt
+olduğundan ve tapuya yapılacak kayıtla birlikte taşınmaza ilişkin sonuçlar
+doğurduğundan dolayı şerhe yine taşınmaz malikinin karar vereceği kabul edilir.
+Yargıtay şerhi bir tasarruf işlemi olarak kabul ediyor.
++
+Asıl sözleşme hangi şekle tabi ise şerh anlaşmasının da o şekilde yapılması
+gerekir. 
+
+* Bazı hakların şerhi kanun tarafından süreye bağlanmıştır.
++
+====
+** *Taşınmaz satış vaadi sözleşmesinin şerhinin etkisi 5 yıldır*.
+** *Alım, geri alım, ön alım haklarının şerhlerinin etkisi 10 yıldır*.
+====
++
+Bu süre sona erdiğinde artış şerh, maddi etkisini kaybeder, sadece şekli olarak
+kalır.
+
+* Şerh edilmiş hak taşınmaz üzerinde ayni hak kazanmamış kişilere karşı ileri
+  sürülemez. Onlara karşı normal bir nisbi haktır.
+
+* Sözleşme veya kanunla malikin taşınmaz üzerindeki tasarruf yetkisi
+  sınırlandırılabilir. Sözleşme ile tasarruf yetkisine getirilmiş sınırlamanın
+  diğer kişilere karşı etki edip etmeyeceği *bu sınırlamanın tapuda gösterilip
+  gösterilmediğine bağlıdır*.
++
+****
+*MK 1010*: Aşağıdaki sebeplere dayanan tasarruf yetkisi kısıtlamaları, tapu
+kütüğüne şerh verilebilir:
+
+1. Çekişmeli hakların korunmasına ilişkin mahkeme kararları,
+2. Haciz, iflâs kararı veya konkordato ile verilen süre,
+3. Aile yurdu kurulması, artmirasçı atanması gibi şerh verilmesi kanunen
+   öngörülen işlemler.
+
+Tasarruf yetkisi kısıtlamaları, şerh verilmekle taşınmaz üzerinde sonradan
+kazanılan hakların sahiplerine karşı ileri sürülebilir.
+****
++
+****
+*MK 194/3*: Aile konutu olarak özgülenen taşınmaz malın maliki olmayan eş, tapu
+kütüğüne konutla ilgili gerekli şerhin verilmesini tapu müdürlüğünden
+isteyebilir
+****
++
+****
+*MK 199/3*: Hâkim, eşlerden birinin taşınmaz üzerinde tasarruf yetkisini
+kaldırırsa, re'sen durumun tapu kütüğüne şerhedilmesine karar verir.
+****
+
+* MK 1010'da *çekişmeli haklardan* kastedilen alacak haklarıdır. Bu alacak
+  hakkı ayni hakta değişiklik yapabilecek türde bir alacak hakkıdır. *Ayni
+  hakkın kendisinin çekişmeli yargıya konu olması mümkün değildir*.
++
+Eğer böyle bir hak iddia edilmiş ve bu yönde bir dava açılmışsa *talep
+halinde* mahkeme *ihtiyati tedbir kararı* verebilir. Bu talep davadan önce de
+dava açıldıktan sonra da edilebilir. 
++
+Mahkeme talebi değerlendirip ihtiyaç hissederse malikin tasarruf yetkisini
+kısıtlamaya yönelik bir karar alır ve tapu müdürlüğüne kararın gereğinin
+yapılması için gönderir. Tapu müdürlüğü de ilgili taşınmazın sayfasına
+malikin tasarruf yetkisinin mahkeme kararıyla kısıtlandığı şerhini düşer.
+Böylece herkes o taşınmasız sayfasını açtığında bu şerhi görebilir.
++
+_Doktrinde_ malikin bu şerhe rağmen tasarruf yapabildiği kabul edilir. Bu
+şerhin etkisi üçüncü kişinin bunu bilmediğini ileri sürememesinde görülür. Bu
+tasarruf yetkisi sınırlamasını bile bile işlem yapan üçüncü kişiye bu kararın
+gereği ileri sürülebilecektir.
++
+Fakat _uygulamada mahkemeler ve Yargıtay_ bu şerh düşülmüşse malikin artık
+işlem yapamayacağını kabul etmektedirler.
+
+* Yargıtay tasarruf yetkisini sınırlayıcı şerhin açıklayıcı olduğunu kabul etmektedir.
+
+****
+*MK 1011*: (1) Aşağıdaki hâllerde geçici tescil şerhi verilebilir:
+
+1. İddia edilen bir aynî hakkın güvence altına alınması gerekiyorsa,
+2. Tasarruf yetkisini belirleyen belgelerdeki noksanlıkların sonradan
+   tamamlanmasına kanun olanak tanıyorsa.
+
+(2) Geçici tescil şerhi, bütün ilgililerin razı olmasına veya hâkimin karar
+vermesine bağlıdır. Şerhin konusu olan hak sonradan gerçekleşirse, şerh
+tarihinden başlayarak üçüncü kişilere karşı ileri sürülebilir.
+
+(3) Geçici tescil şerhi verilmesi istemi üzerine hâkim, tarafları dinleyerek
+veya dosya üzerinde inceleme yaparak şerhe konu olan hakkın varlığının kabul
+edilebileceği kanaatına varırsa, şerh kararı verir.  
+****
+
+* Kişi belgelerdeki eksiklikten dolayı  tasarruf yetkisinin bulunup
+  bulunmadığını o anda ispat edemiyorsa *sicilde malik gözüken kişinin rızası*
+  veya *mahkeme kararıyla* sicile *geçici tescil şerhi* konulur. Böylece üçüncü
+  kişiler bakımından bu durum ortaya konmuş olur ve belgelerdeki eksiklik
+  giderildiğinde ayni hak geçici tescil şerhinden itibaren kazanılır.
+
+TIP: MK 1010 ile MK 1011 arasındaki fark; çekişme konusu edilen şeyin alacak
+hakkı mı ayni hak mı olduğu meselesidir. 
+
+[NOTE]
+====
+Taraflar arasında kurulmuş taşınmaz satış vaadi sözleşmesi uyarınca taşınmazı
+devretmeye yanaşmayan borçlu malike karşı dava açılabilir. Bu davada alacaklı
+sözleşme uyarınca taşınmazın kendisine devredilmesi gerektiğini ileri
+sürecektir. Burada ileri sürülen şey bir alacak hakkıdır. Dolayısıyla dava
+devam ederken tedbir uygulanması gerekirse alacaklı MK 1010 uyarınca tedbir
+talebinde bulunmalıdır. Bu talep kabul edilirse sicile düşülecek şerh malikin
+*tasarruf yetkisinin sınırlanması* şerhidir.
+
+Alacaklı davayı kazanırsa mahkemenin verdiği hüküm kesindir. Uygulamada
+mahkemeler, bu sözleşme taşınmaz satış vaadi sözleşmesi olmasına rağmen tescil
+kararı vermektedir. Tescil kararıyla birlikte MK 705/2 uyarınca ayni hak sicil
+dışında kazanılmış olur. Ancak sicildeki durum ile gerçek durum birbirine
+uymamaktadır. Malik alacaklı olmasına rağmen, sicilde eski malik malik olarak
+gözükmekte ve bu nedenle taşınmaz üzerine tasarrufta bulunma yetkisini
+sürdürmektedir. MK 1023 uyarınca eski malikle işlem yapan iyiniyeti üçüncü
+kişilerin ayni hak kazanımları korunacaktır. Bunun önüne geçmek için *geçici
+tescil şerhi* konulabilir. Bu şerh ile üçüncü kişilerin iyiniyetleri bertaraf
+olur.
+====
+
+* Tapuda görünmesi faydalı bulunan ancak ne tescil başlığı altına ne de şerh
+  başlığı altına kaydedilemeyen kayıtlar *beyanlar* hanesinde gösterilir.
++
+Bu beyanlar;
+
+** karine oluştururlar
+** iyiniyeti bertaraf ederler
+** ayni hak açıklarlar
+
+* Taşınmazın *bütünleyici* parçaları ve *eklentileri* olabilir. Bir eşyanın
+  bütünleyici eşya mı eklenti mi olduğu taşınmaz ile aralarındaki fiziki
+  ilişkiye göre belirlenir. İşte bir eşyanın eklenti olup olmadığı tapuya
+  beyanlar hanesinde kaydedilebilir. Bu beyan eşyanın eklenti olduğuna dair
+  *karine* oluşturur. Dolayısıyla aksi ispat edilebilir. 
++
+TIP: Bir eşya taşınmazın eklentisi olduğu zaman taşınmaz üzerinde yapılan tasarruf
+eklentiyi de kapsayacaktır.
+
+* Sicildeki kayıtlar ile gerçek durum uyuşmadığı takdirde bu kayıtların
+  düzeltilmesi gerekir. Sicildeki kayıtları düzeltmenin çeşitli yolları vardır.
+
+. _Taraflar anlaşabilir_.
++
+TIP: Taraflar anlaşarak kaydı düzeltecekse bir sözleşme yapmaları gerekir ve
+yapılacak bu sözleşme MK 706 uyarınca resmi şekle tabidir. 
+. _Kayıttaki yanlış adi yazım hatası ise tapu memuru re'sen düzeltebilir_.
+. _Kayıttaki yanlış hakkı etkileyen bir durum ise tapu memuru ancak dava açıp,
+  bu dava sonucunda verilecek mahkeme kararıyla kaydı değiştirebilir_.
+. _MK 1025 uyarınca tapu sicilinin düzeltilmesi dava edilebilir_.
++
+****
+*MK 1025*: (1) Bir aynî hak yolsuz olarak tescil edilmiş veya bir tescil yolsuz
+olarak terkin olunmuş ya da değiştirilmiş ise, bu yüzden aynî hakkı zedelenen
+kimse tapu sicilinin düzeltilmesini dava edebilir.
+
+(2) İyiniyetli üçüncü kişilerin bu tescile dayanarak kazandıkları aynî haklar
+ve her türlü tazminat istemi saklıdır.
+****
++
+MK 1025 eğer bir kayıt yolsuzsa o kaydın düzeltilmesine yönelik dava açma
+imkanı verir. Eğer bir yolsuz tescil söz konusuysa o dava ayni hakka dayanan
+bir davadır. *Ayni hakka dayanan davaların zamanaşımına uğraması söz konusu
+değildir*.
++
+[CAUTION] 
+====
+Buna rağmen eğer sicildeki kayıt yolsuz olmasına rağmen sicilde malik gözüken
+kişi için kazandırıcı zamanaşımının şartları gerçekleşmiş ise yolsuz tescil
+geçerli hale geleceğinden dava açılamayacaktır.
+
+****
+*MK 712*: Geçerli bir hukukî sebep olmaksızın tapu kütüğüne malik olarak
+yazılan kişi, taşınmaz üzerindeki zilyetliğini davasız ve aralıksız olarak on
+yıl süreyle ve iyiniyetle sürdürürse, onun bu yolla kazanmış olduğu mülkiyet
+hakkına itiraz edilemez.
+****
+==== 
++
+TIP: Gerçek durumda malik olan kişi sicilde malik olarak gözükmüyorsa MK 1025
+uyarınca dava açacaktır. Bu dava hukuki niteliği itibariyle bir *istihkak
+davasıdır*.
+. _Sicil dışı iktisap halinde MK 716 uyarınca sicil dışı iktisap eden tescili
+  doğrudan doğruya talep edebilir_.
++
+****
+*MK 716*: (1) Mülkiyetin kazanılmasına esas olacak bir hukukî sebebe dayanarak
+malikten mülkiyetin kendi adına tescilini istemek hususunda kişisel hakka sahip
+olan kimse, malikin kaçınması hâlinde hâkimden, mülkiyetin hükmen geçirilmesini
+isteyebilir.
+
+(2) Bir taşınmazın mülkiyetini işgal, miras, kamulaştırma, cebrî icra veya
+mahkeme kararına dayanarak kazanan kişi tescili doğrudan doğruya yaptırabilir.
+
+(3) Bir taşınmazın mülkiyetinde eşler arasındaki mal rejimi dolayısıyla meydana
+gelen değişiklikler, eşlerden birinin istemiyle tapu kütüğüne doğrudan tescil
+olunur.
+****

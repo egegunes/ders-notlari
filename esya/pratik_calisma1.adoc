@@ -1,0 +1,39 @@
+:icons: font
+
+== 15.12.2016 tarihli pratik çalışma
+
+A, M’ye ait Zeytinburnu’ndaki bir daireyi, M adına düzenlenmiş sahte bir nüfus
+cüzdanı ile 200.000 TL karşılığında X’e satar ve tapuda X adına tescil ettirir.
+Bir müddet sonra B, X’ten söz konusu daireyi kiralar ve fiilen oturmaya başlar.
+
+M’nin eşi E’nin çantası H tarafından çalınır. H çanta içerisinden çıkan kol
+saatini ikinci el eşyalar satan S’ye satar. Durumdan haberi olmayan C, saati
+S’den satın alır.  Fakat C, saatin pilinin değiştirilmesi için telefonu S’de
+bırakır. H çanta içinden çıkan 20.000 TL’nin 1.000 TL’si ile arkadaşlarına R
+restoranında yemek ısmarlar ve kalan 19.000 TL ile de L’ye olan borcunu öder.
+
+. Olayda
+
+.. M, dairesinin X’e satıldığını ve B’ye kiraya verildiğini öğrendiği anda
+kimlere karşı hangi hukuki yollara başvurabilirdi? Açıklayınız.
+
+.. X’in daireyi Y’ye satıp, tapuda devretmesi ve M’nin durumu Y’ye satıştan
+sonra öğrenmesi ihtimalinde M’nin başvurabileceği hukuki yollar nelerdir? Tüm
+ihtimallere göre cevaplandırınız.
+
+. M, kardeşleri ile birlikte farklı bir bina üzerinde paylı mülkiyete sahiptir.
+Söz konusu binada M’nin 1/8, K1’in 1/8, K2’nin 2/8, K3’ün ise 4/8 oranında payı
+vardır.  Binanın elektrik tesisatının çalışmaz durumda olduğunu gören K1,
+elektrik tesisatını yenilemeye karar verir. K1, ayrıca binanın ısı yalıtımının
+iyileştirilmesi için dış cephe izolasyonu yaptırmaya karar verir. K1, söz
+konusu yapı işlerinin maliyetinin karşılanabilmesi amacıyla binanın ana yola
+bakan cephesinin reklam için kiraya verilmesi hususunda bir reklam firması ile
+görüşmeye başlar. Paydaşlardan M ve K2, K1’in önerilerini kabul etmekle
+birlikte, K3’ün reddetmesi halinde hukuki durumu ve bulunabilecek çözüm
+yollarını açıklayınız.
+
+. Olayda E, H, S ve C'nin saat üzerinde, R ve L’nin para üzerinde, zilyetlik
+türlerini zilyetliklerini nasıl kazandıklarını tespit ediniz.
+
+. Bayan E’nin çaldırdığı saati C ve S’den, parayı da R ve L’den geri alabilmesi
+mümkün müdür? Şartlarını da belirterek açıklayınız.

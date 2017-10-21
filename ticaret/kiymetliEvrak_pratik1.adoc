@@ -1,0 +1,176 @@
+:icons: font
+
+== 22.11.2016 tarihli pratik çalışma
+
+A ekonomik sıkıntı içinde bulunan arkadaşı B'ye kredi sağlamak amacı ile, B
+lehine 30.02.2015 düzenleme tarihli bir bono düzenleyerek teslim etmiş; ancak
+matbu olan bonodaki düzenleme yeri boşluğuna "İst" yazmış ve senet metninde
+yazılı olan "emrühavalesine" ibaresini silmiştir. A ayrıca bonodaki "vade" ve
+"ödeme yeri" kısımlarını doldurmayı unutmuştur.
+
+B, matbu bonodaki "emrühavalesine" ibaresinin silinmesine rağmen senedi, bir
+tam ciro ile C'ye, C "cirosu yasaktır" kaydını eklediği bir tam ciro ile D'ye,
+D de "ödememeden sorumlu değilim" kaydını eklediği bir beyaz ciro ile E'ye
+devretmiştir. E de senedi, bir raslantı sonucu B'nin komşusu olan ve senedin
+B'ye kredi sağlamak amacı ile düzenlendiğini bilen F'ye elden teslim yoluyla
+devretmiştir.
+
+F, 04.01.2016 tarihinde senedi A'ya ödeme için ibraz etmişse de A, senedi B'ye
+hatır için verdiğini ileri sürerek ödemeden kaçınmıştır.
+
+Bunun üzerine F tarafından 18.01.2016 tarihinde ödememe protestosu çekilmiştir.
+
+*SORU 1*: Senedin geçerliliğini a) düzenlenme tarihi, b) düzenlenme yeri, c) ödeme
+yeri ve d) vade yönünden değerlendiriniz.
+
+****
+*Düzenlenme tarihi*, bonoda mutlaka bulunması gereken bir şekil
+şartıdır. Olayda düzenlenme tarihi 30.02.2015 olarak yazılmıştır, dolayısıyla
+tarihte bir yanlışlık vardır. Ancak bu durum bononun geçerliliğini etkilemez.
+Yargıtay'ın yerleşik içtihadına göre bu durumda ilgili ayın son günü kabul
+edilecektir, yani düzenlenme tarihi 28.02.2016 olacaktır. Ancak eğer 33.02.2016
+gibi absürt bir tarih yazılmış olsaydı geçersiz sayılması gerekirdi.
+
+*Düzenlenme yeri* de TTK 776 uyarınca bonoda bulunması gereken şekil
+şartlarındandır. Olayda düzenlenme yeri "İst" olarak yazılmıştır. Eğer
+yerin neresi olduğu açıkça anlaşılabiliyorsa düzenlenme yerine kısaltma
+yazılması caizdir.
+
+*Ödeme yeri* de TTK 776 uyarınca bulunması gereken bir şekil şartıdır. Olayda
+ödeme yeri yazılmamıştır. Bu durumda bononun düzenlendiği yer ödeme yeri
+sayılacaktır (TTK 777/3).
+
+*Vade* de bonoda bulunması gereken şekil şartıdır. Olayda vade
+belirtilmemiştir. Bu durumda TTK 777/2 uyarınca bono görüldüğünde vadeli
+sayılacaktır.
+****
+
+*SORU 2*: Olayda A'nın matbu olan bonodaki "emrühavalesine" ibaresini silmesi
+nasıl bir sonuç doğuracaktır? Bu bononun hangi yoldan devredilebileceğini
+belirtiniz.
+
+****
+Bono kanunen emre yazılı senettir. Dolayısıyla emrühavalesine ibaresinin
+silinmesi bononun bu niteliğini değiştirmez. Bono nama yazılı hale
+dönüştürülmek isteniyorsa "işbu bono emre değil namadır" şeklinde menfi bir
+kayıt koyulmalıdır.
+****
+
+*SORU 3*: Tam ciro ve beyaz ciro kavramlarını açıklayarak, olaydaki bononun arka
+yüzünün görünümünü (=ciro zincirini) çiziniz. Bu ciro zincirinde herhangi bir
+kopukluk var mıdır? Açıklayınız.
+
+****
+*Tam ciro*, ciro edenle ciro edilenin görüldüğü ciroya denir. Sadece ciro
+edenin imzasının bulunduğu ciro ise *beyaz cirodur*.
+
+.Ciro zinciri
+....
+
+C'ye ödeyiniz.
+        İMZA B
+
+D'ye ödeyiniz.
+Cirosu yasaktır.
+        İMZA C
+
+Ödeyiniz.
+Ödememeden sorumlu değilim.
+        İMZA D
+
+....
+
+Düzgün ciro zincirinin şartları:
+
+. İlk ciro lehtara ait olmalıdır.
+. Bir önceki ciroda senet kendisine ciro edilen bir cironun cirantası
+olmalıdır.
+. Beyaz ciro zinciri bozmaz.
+
+Bu şartlar sağlandığından dolayı olaydaki bononun ciro zinciri düzgündür.
+****
+
+*SORU 4*: C'nin cirosuna eklediği kaydın hükmü nedir?
+
+****
+Ciro yasağı konulduğunda sadece yasağı koyandan sonra ilk gelen kişiye karşı
+sorumluluk devam eder. Yoksa bu yasak bononun geçerliliğini etkilemez ya da
+tedavül yeteneğini ortadan kaldırmaz. Olayda C bu kaydı koyması dolayısıyla
+sadece ciro ettiği D'ye karşı sorumlu olacaktır.
+
+TIP: Düzenleyinin ciro yasağı koyması halinde sadece lehtara karşı sorumlu
+olacağından şahsi def'ilerini ileri sürebilecektir. Baskın görüşe göre bu
+durumda senet nama yazılı hale gelir. Azınlık görüşü ise bu kaydın yazılmamış
+sayılacağıdır.
+****
+
+*SORU 5*: D'nin cirosuna eklediği kaydın hükmü nedir? Bu kaydı A'nın koymuş
+olması ihtimalinde, kaydın/senedin akıbetini tartışınız.
+
+****
+Senet üzerindeki her imza sorumluluk doğurur. İmzanın sorumluluk doğurmaması
+"ödememeden sorumlu değilim" şeklinde bir sorumsuzluk kaydıyla mümkündür. Bu
+durumda sorumsuzluk kaydını koyan kişiye müracaat edilemeyecektir. Olayda D'nin
+koyduğu kayıt bir sorumsuzluk kaydıdır.
+
+TIP: Düzenleyen sorumsuzluk kaydı yapamaz. Yapmışsa bile bu kayıt yazılmamış
+sayılır.
+****
+
+*SORU 6*: Olaydaki bilgilere göre, senedin ödenmemesi halinde E'ye müracaat
+edilebilir mi? E senedi F'ye elden teslim etmeseydi, hangi imkanlardan
+yararlanabilirdi?
+
+****
+Ancak ciro zincirinde imzası bulunan kişilere müracaat borçlusu olarak
+başvurulabilir. Senedi beyaz ciro ile almış kişilerin ciro zincirinde imzası
+bulunmayacağından, düzenleyenin senedi ödememesi halinde bu kişilere müracaat
+edilemez. Dolayısıyla olayda senedi beyaz ciro ile almış E'ye müracaat
+edilemeyecektir.
+
+Beyaz ciro hamiline bir görüntü yaratır. Senedi beyaz ciro ile alan kimse
+senedi:
+
+. Senedi tam ciro ile devredebilir.
+. Senedi beyaz ciro ile devredebilir.
+. Senedi elden teslim ile devredebilir.
+. Beyaz ciroyu kendisine veya başkasına yönelik tam ciro haline getirebilir.
+****
+
+*SORU 7*: A, F'ye karşı senedin hatır senedi olduğu savunmasını ileri sürebilir
+mi? Şayet bono, A'ya D tarafından ödeme için ibraz edilmiş olsaydı A yine aynı
+iddiayı ileri sürebilir miydi?
+
+****
+Senedin hatır senedi olduğu savunması bir şahsi def'idir. Şahsi defiler sadece
+borçlu ile alacaklı arasında ileri sürülebilir. Şahsi defilerin üçüncü kişilere
+karşı ileri sürülebilmesi ancak bilerek borçlu aleyhine hareket edilmesi
+halinde mümkündür. Dolayısıyla olayda A, F'ye karşı senedin hatır senedi
+olduğu savunmasını ileri süremez. Aynı durum D için de geçerlidir.
+****
+
+*SORU 8*: A senedin düzenlenme tarihini yazmayı unutsaydı, F'ye karşı bu
+gerekçe ile ödemeden kaçınabilir miydi?
+
+****
+Senedin metninden anlaşılan defiler mutlak defidir ve mutlak defiler herkese
+karşı ileri sürülebilir. Bonoda düzenlenme tarihi zorunlu şekil şartıdır (TTK
+776). Eğer senet üzerinde düzenlenme tarihi yoksa o senet bono değildir. Bu
+senet metninden anlaşılan bir defidir. Aynı zamanda senet, üzerinde imzası
+bulunan herkes için geçersizdir, yani senedin geçerliliğine ilişkin bir defi
+olarak da ileri sürülebilir. Dolayısıyla olayda A, bu sebeple ödeme yapmaktan
+kaçınabilir.
+****
+
+*SORU 9*: F 21.01.2016 tarihinde senedi bir başkasına ciro etmiş olsaydı,
+yapılan ciro geçerli olur muydu? Geçerli ise bu cironun doğuracağı hukuki sonuç
+ne olurdu?
+
+****
+Olayda F, senedi A'ya 04.01.2016 tarihinde ibraz etmiş ancak ödeme
+yapılmamıştır. Bunun üzerine F 18.01.2016 tarihinde ödememe protestosu
+çekmiştir.
+
+Ödememe protestosunun çekilmesinden sonra yapılan ciro alacağın temliki
+hükmündedir (TTK 690). 
+****

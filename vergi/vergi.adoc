@@ -1,0 +1,1859 @@
+:icons: font
+
+== KAMU MALİYESİ & VERGİ
+
+* *Kamu gelirleri*
+
+. _Vergiler_
+. _Harçlar_: Belirli bir kamu hizmetinden yararlanma sonucu ödenen paralara
+  *harç* denir.  Vergilerden en önemli farkı, vergiler karşılıksız iken harçlar
+  belirli bir kamu hizmetinden yararlanma karşılığı ödenirler.
+. _Resimler_: Herhangi bir faaliyeti yürütebilmek için resmi makamlardan
+  alınması gereken izin karşılığında ödenen bedellere *resim* denir.
+. _Şerefiyeler_: Belirli bir kamu hizmeti çerçevesinde, hizmetin yürütüldüğü
+  bölgedeki gayrimenkul sahiplerinin elde ettiği fayda sonucu ödedikleri
+  katılma payına *şerefiye* denir. Bu pay hiçbir zaman hizmetin tam karşılığı
+  değildir.
+. _Parafiksal gelirler_: Toplumun genelinden değil, kamu kurumu niteliğindeki
+  meslek kuruluşlarına tabi olan bireylerden alınır. 
+. _Borçlanma_: Çeşitli sebeplerle diğer kamu gelirlerinden sağlanan kaynak,
+  kamu harcamalarını karşılamaya yetmiyorsa, devlet borçlanma yoluna gidebilir.
+  Vade 1 yıla kadarsa kısa, 1-5 yıl arası orta, 5 yıldan daha uzunsa uzun
+  vadeli borçlanma söz konusudur. Devlet bireyleri kendisine borç vermek
+  zorunda bırakabildiği gibi, gönüllü olarak da verilebilir.
+. _Para basma_
+. _Para cezaları_
+. _Mülk ve teşebbüs gelirleri_
+. _Özelleştirme_
+. _Vasiyet ve hibeler_
+
+* *Kamu harcamaları*
+
+. _Yatırım harcamaları_: İktisadi büyümeyi sağlamaya yönelik, altyapıyı
+  geliştirmeye yönelik harcamalardır.
+. _Cari harcamalar_: Kamu çalışanlarına ödenen maaşlar örnek gösterilebilir.
+. _Transfer harcamaları_: Toplumda korunmaya muhtaç durumda olan kesimlerin
+  satın alma gücünü artırmaya yönelik harcamalardır.
+
+* *Kamu harcamalarının aşamaları* 
+
+. *Bütçe aşaması*
+
+.. _Hazırlık aşamasına dair ilkeler_
+
+... *Bütçenin zorunluluğu ilkesi*
+... *Bütçe hazırlama ve uygulama yöntemlerinin yasayla belirlenmesi ilkesi*
+... *Bütçenin yıllık olması ilkesi*
+... *Bütçe yasasına bütçe ile ilgisiz kurallar konulamaması ilkesi*
+... *Bütçenin yasama organına sunulması ilkesi*
+... *Bütçenin mecliste görüşülmesi ilkesi*
+
+.. _Değişiklik yapılması aşamalarına dair ilkeler_
+
+... *Bütçeyle verilen ödeneğin aşılamayacağı ilkesi*
+... *Ödeme artışı öngören değişiklik tasarılarında kaynak gösterme zorunluluğu
+   ilkesi*
+
+. *Harcamaların gerçekleştirilmesi aşaması*
+
+.. _İdarenin taahhüdü aşaması_: Bütçede belirli hizmetler için ayrılmış olan
+   ödeneğin bir kamu hizmetine tahsis edilmesidir. 
+.. _İdarenin tahakkuku aşaması_: Kamunun ihtiyaç duyduğu malların şartlara
+   uygun şekilde karşılandığının kabul edilmesidir.
+.. _Kamu harcamasının ödeme emrine bağlanması aşaması_
+.. _Ödeme aşaması_
+
+. *Denetim aşaması*
+
+.. _Harcama öncesi denetim_
+.. _Harcama sonrası denetim_
+
+... *Kurum içi denetim*
+... *Yargısal denetim*: Sayıştay burada devreye girer. Maliye alanındaki yüksek
+yargı organı niteliğini taşır. Üç görevi vardır:
+
+.... _Bütçe üzerinde meclis adına denetim yürütmek_
+.... _Kamu kurumlarının harcamaları üzerinde denetim yürütmek_
+.... _Diğer denetleme görevlerini yapmak_
+... *Yasama denetimi*
+
+* *Modern vergileme ilkeleri*
+
+. _Mali ilkeler_
+
+.. *Verimlilik ilkesi*: Vergilerin, devletin kamu harcamaları için ihtiyaç
+   duyduğu kaynağın büyük bir kısmını karşılayabilecek durumda olmasıdır.
+.. *Esneklik ilkesi*: Vergi gelirlerinin değişen şartlara göre çoğalıp
+   azalmasıdır.
+
+. _İktisadilik ilkesi_: Temel iktisadi hedefler; büyümeyi sağlamak, tam
+  istihdamı sağlamak ve sürekliliği sağlamaktır. Bu hedefleri gerçekleştirmede
+  bir araç olarak fonksiyon ifade edebiliyorsa vergi sistemi, iktisadilik
+  ilkesini sağlıyor demektir.
+. _Adalete ilişkin ilkeler_
+
+.. *Genellik ilkesi*: Herkesten vergi alınmasıdır.
+.. *Eşitlik ilkesi*: Aynı durumda olanların aynı muameleye tabi tutulmasıdır.
+.. *Vergilendirmenin bireylerin ödeme güçlerine göre belirlenmesi ilkesi*
+.. *Ayırma ilkesi*: Elde edilen gelirin niteliğine dikkat etmek ve emek
+   gelirlerini sermaye gelirlerinden farklı şekilde vergilendirmektir.
+
+* *Verginin konusu*, verginin üzerinden alındığı şeydir. Bir eylem, hukuki
+  işlem, durum, kağıt veya olay olabilir.
+
+* *Vergi mükellefi*, kendisine vergi borcu düşen gerçek veya tüzel kişidir.
+
+* *Vergi sorumlusu*, verginin ödenmesi bakımından vergi idaresiyle muhatap olan
+  kişidir. 
+
+* *Vergiyi doğuran olay*, vergilendirme işleminin _sebep_ unsurunu oluşturur.
+  Vergi borcu, vergiyi doğuran olayın gerçekleşmesiyle doğar.
+
+* Vergi konusunda bir kısıtlama varsa *istisna*, vergi yükümlüsü konusunda bir
+  kısıtlama varsa *muafiyet* söz konusudur.
+
+* *Verginin matrahı*, vergi borcunun hesaplanmasına esas teşkil eden değerdir.
+  Bu ekonomik ya da fiziki bir değer olabilir. Eğer vergi konusunun ekonomik
+  değeri matrah olarak alınıyorsa _ad valorem matrah_ söz konusudur. Eğer vergi
+  konusunun fiziki birtakım özellikleri kriterse buna _spesifik matrah_ denir. 
+
+* Matrahın tespiti konusunda kullanılan yöntem *beyan usulüdür*. Yükümlü,
+  matrahına esas teşkil edecek olan değeri kendi saptayıp vergi verir.
+
+* *Vergi tarifesi*, verginin hesaplanabilmesi için matraha uygulanan ölçüdür. 
+
+* *Vergi tarhı*, beyan edilen matraha vergi tarifesinin uygulanması işlemidir.
+
+* *Tahakkuk*, verginin ödenecek aşamaya gelmesidir. Tahakkuk etmiş bir vergi
+  her zaman kesinleşmiş değildir. Tahakkuk ettiği için o vergi borcunu kişi
+  ödemek zorunda kalabilir. Ancak yargılamaya konu olmuşsa, bu esnada tahakkuk
+  gerçekleşmiş olduğu için ödemek zorunda kalmış olsa bile yargılama sonucunda
+  yapılan işlemin hukuka aykırılığının saptanması sonucu kesinleşme
+  gerçekleşmez ve yükümlü ödediği miktarı geri alabilir.
+
+* Vergiler _yansıma kriterine_ göre *dolaylı vergiler* ve *dolaysız vergiler*
+  olarak ikiye ayrılabilir. Yansıtılabilen vergi dolaylı vergi, yansıtılamayan
+  vergi dolaysız vergidir.
+
+* Eğer vergi, yükümlünün şahsını ve ailevi durumunu dikkate alıyorsa, buna
+  *subjektif vergi* denir. Bunları dikkate almayan vergi *objektif vergidir*.
+
+* Anayasa Mahkemesi çeşitli kararlarında vergiyi; _kamu hizmetlerinin görülmesi
+  için özel kesimden kamu kesimine hukuki zor altında yapılan kesin,
+  karşılıksız, parasal aktarım_ olarak tanımlıyor.
+
+** Vergi parasal bir değerdir. Bir diğer ifade ile verginin malla, hizmetle,
+bedenen çalışmak suretiyle ödenmesi mümkün değildir.
+** Vergi hem kamusal harcamaları finanse etmek için alınır hem de sadece bu
+amaçla harcanır.
+** Verginin karşılığı soyuttur. Vergi ödendiğinde, ödenen vergi kamu hizmetine
+dönüşür ama hangi kamu hizmetine dönüştüğü takip edilemez.
+** Vergi hukuksal zora dayanır.
+** Ödenen vergi iade edilmez.
+** Özel kesimden kamu kesimine aktarılır. Devletin kendisinin de özel
+faaliyetlere temas eden işleri olursa vergi öder.
+
+* Vergi hukuk alanında bir uyuşmazlık olduğunda davacı daima bireydir. İdare
+  işlemi tesis eder, birey dava konusu yapar.
+
+* Vergi hukuku alanında normlar hiyerarşisinin en üst basamağında anayasa
+  vardır. 
++
+****
+*AY 73*: (1) Herkes, kamu giderlerini karşılamak üzere, malî gücüne göre, vergi
+ödemekle yükümlüdür.
+
+(2) Vergi yükünün adaletli ve dengeli dağılımı, maliye politikasının sosyal
+amacıdır.
+
+(3) Vergi, resim, harç ve benzeri malî yükümlülükler kanunla konulur,
+değiştirilir veya kaldırılır.
+
+(4) Vergi, resim, harç ve benzeri malî yükümlülüklerin muaflık, istisnalar ve
+indirimleriyle oranlarına ilişkin hükümlerinde kanunun belirttiği yukarı ve
+aşağı sınırlar içinde değişiklik yapmak yetkisi Bakanlar Kuruluna verilebilir.
+****
+
+* Kanun hükmünde kararnameler kural olarak vergi hukukunda kaynak değillerdir.
+  Ancak olağanüstü hal ve sıkıyönetim hallerinde cumhurbaşkanı başkanlığında
+  toplanmış Bakanlar Kurulu kanun hükmünde kararname ile vergisel düzenleme
+  oluşturabilir.
+
+* Anayasa Mahkemesi kararları vergi hukukunda _menfi kaynaktır_. Yani AYM
+  kararıyla hukuk kuralı yaratıp vergilendirmeye uygulamaya uygulamak mümkün
+  değildir ama mevcut bir vergisel düzenleme iptal edilebilir. AYM kararları
+  Resmi Gazete'de yayınlanmasıyla yürürlüğe girer. Vergi hukuku alanında hükmün
+  iptali ileri bir tarih olarak da belirlenebilir.
+
+* Mükellef faaliyete girişmeden önce o faaliyetin nasıl bir vergisel alana
+  dahil olacağı konusunda vergi dairesinden görüş alabilir. Vergi dairesinin bu
+  konuya verdiği cevap *mukteza/özelge* olarak adlandırılmaktadır. Vergi
+  idaresi vermiş olduğu mukteza ile bağlı değildir, vermiş olduğu muktezanın
+  tam tersi yönünde işlem tesis edebilir. Muktezalar, cezaları ve faizleri
+  kaldırması açısından sadece talep edenler açısından kaldırırlar. Vergi
+  incelemesinde kanun koyucu mukteza ile uyumlu olma kuralını getirmiştir.
+
+* Vergi borcu ilişkisinde, ilişkinin *aktif tarafı devlet*, *pasif tarafı
+  vergi mükellefi* oluşturur..
++
+**** 
+*VUK 8/1*: Mükellef, vergi kanunlarına göre kendisine vergi borcu terettübeden
+gerçek veya tüzel kişidir.
+****
++
+NOTE: *Vergi yükümlüsü* vergiyi kendi mal varlığından ödeyecek olan kişidir. 
+
+* *Vergi sorumlusu* vergiyi doğuran olay açısından vergi yükümlüsü ile vergi
+alacaklısı arasında köprüyü oluşturan kişidir. Bir nevi temsilcidir. Vergi
+sorumlusu, vergi yükümlüsünün bir takım edimlerini yerine getirmekle
+yükümlüdür.
++
+****
+*VUK 8/2*: Vergi sorumlusu, verginin ödenmesi bakımından, alacaklı vergi
+dairesine karşı muhatap olan kişidir.
+****
+
+* Vergi sorumluluğu hallerinden biri *kanuni temsilcinin sorumluluğudur*.
++
+****
+*VUK 10*: (1) Tüzel kişilerle küçüklerin ve kısıtlıların, Vakıflar ve cemaatlar
+gibi tüzel kişiliği olmıyan teşekküllerin mükellef veya vergi sorumlusu
+olmaları halinde bunlara düşen ödevler kanuni temsilcileri, tüzel kişiliği
+olmayan teşekkülleri idare edenler ve varsa bunların temsilcileri tarafından
+yerine getirilir.
+
+(2) *(Değişik : 3/12/1988 - 3505/2 md.)* Yukarıda yazılı olanların bu ödevleri
+yerine getirmemeleri yüzünden mükelleflerin veya vergi sorumlularının
+varlığından tamamen veya kısmen alınmayan vergi ve buna bağlı alacaklar, kanuni
+ödevleri yerine getirmeyenlerin varlıklarından alınır. Bu hüküm Türkiye'de
+bulunmayan mükelleflerin Türkiye'deki temsilcileri hakkında da uygulanır.
+
+(3) Temsilciler veya teşekkülü idare edenler bu suretle ödedikleri vergiler
+için asıl mükelleflere rücu edebilirler.
+
+(4) Tüzel kişilerin tasfiye haline girmiş veya tasfiye edilmiş olmaları, kanuni
+temsilcilerin tasfiyeye giriş tarihinden önceki zamanlara ait sorumluluklarını
+da kaldırmaz.
+****
++
+VUK 10 itibarıyla kanuni temsilcinin sorumluluğu kusur esasına dayanır. Asıl
+borçludan alacak tahsil edilemiyor ve bunun sebebi vergisel konuların
+tamamlanmamış olması ise, kanuni temsilci bu konuları tamamlamamaktan dolayı
+*kusursuz olduğunu kendi ispat edecektir*.
++
+VUK 10/2'deki "_mükellefin varlığından tamamen veya kısmen alınmayan alacaklar_"
+şeklindeki ifadeden anlaşılacağı üzere vergi idaresi ancak asıl borçluyu
+malvarlığı yönünden tamamen tükettikten sonra kanuni temsilciye başvurabilir.
+Asıl borçlunun malvarlığının tamamen tüketilmiş olduğu *aciz vesikası* ile
+belgelendirilir. 
+
+* *Limited şirketin ortakları* hisseleri oranında vergi borcundan sorumludurlar.
++
+****
+*6183 sayılı kanun 35/1*: Limited şirket ortakları, şirketten tamamen veya
+kısmen tahsil edilemeyen veya tahsil edilemeyeceği anlaşılan amme alacağından
+sermaye hisseleri oranında doğrudan doğruya sorumlu olurlar ve bu Kanun
+hükümleri gereğince takibe tabi tutulurlar.
+****
++
+Danıştay'a göre kanunda vergi idaresinin gözetmesi gereken bir sıra
+olmadığından vergi salınır ve ortaklar da yöneticiler de borcu ödeyebilir. Daha
+sonra kişiler kendi arasıdna rücu edebilirler.
+
+* Küçüklerin ve kısıtlıların kanuni temsilcilerinin sorumluluğunda prensip
+  olarak cezalar için küçük ve kısıtlıların malvarlığına gidilmez. Bunun için
+  doğrudan kanuni temsilcinin malvarlığına gidilir.
+
+* Vergi yükümlüsü ve sorumlusu olmak için hak ehliyeti yeterlidir, fiil
+  ehliyeti aranmaz.
++
+****
+*VUK 9/1*: Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet şart değildir.
+****
+
+* Özel hukuk sözleşmeleri kural olarak vergi dairesini bağlamaz.
++
+****
+*VUK 8/3*: Vergi kanunlariyle kabul edilen haller müstesna olmak üzere,
+mükellefiyete veya vergi sorumluluğuna mütaallik özel mukaveleler vergi
+dairelerini bağlamaz.
+****
++
+[NOTE]
+====
+Muhasebeci ile her ay belirli bir ücret karşılığı gerekli vergi işlemlerinin
+yapılması ve beyanı için yapılan sözleşmeye rağmen muhasebeci üzerine düşenleri
+yapmıyorsa vergi idaresi mükellefe gelecektir. Mükellef vergi idaresine
+muhasebeci ile yaptığı sözleşmeyi gösterse bile VUK 8/3 uyarınca bu sözleşme
+değer taşımaz.
+
+Mükellef özel hukuk kapsamında sözleşme çerçevesinde yapmış olduğu ödemeleri ve
+uğramış olduğu zararı muhasebeciden isteyebilecektir.
+
+Muhasebeci sözleşmede belirtilen hükümleri yerine getirmediği için vergi
+idaresi mükelleften 100 lira vergi aslı, 100 lira vergi cezası, 30 lira da
+gecikme faizi alırsa mükellef muhasebeciden bu paraların hangisini isteyebilir?
+Gecikme faizi daima ticari faizden daha yüksektir. Mükellef 100 lirayı tutarak
+20 lira kazanmış olsun. Buna göre gecikme faizi ile ticari faizin arasındaki
+farkı isteyebilecek ve 10 lira talep edebilecektir.
+====
+
+* Vergi hukukunda re'sen yargılama ilkesi uygulanır. Yargılama sırasında hakim
+  tarafların dosyaya ibraz ettiği kanıtlarla bağlı değildir. Kendisi de re'sen
+  yeni kanıtları dosyaya koyabilir, mevcut kanıtların incelenmesini kendisi
+  yapabilir. 
+
+* Vergi hukukunda *yemin hariç* her türlü vasıta ispat için kullanılabilir.
+  İspat için tanık beyanına da başvurulabilir ancak tanığın olayla açıkça
+  ilgisi bulunmalıdır.
++
+****
+*VUK 3/B-2*: Vergiyi doğuran olay ve bu olaya ilişkin muamelelerin gerçek
+mahiyeti yemin hariç her türlü delille ispatlanabilir. Şu kadar ki, vergiyi
+doğuran olayla ilgisi tabii ve açık bulunmayan şahit ifadesi ispatlama vasıtası
+olarak kullanılamaz.
+****
+
+* Şayet yükümlü VUK uyarınca tutmakla yükümlü olduğu defterleri tutmuşsa ve o
+  defterler vergi usul kanununun belirttiği şekil şartlarını karşılıyorsa
+  içeriği itibariyle doğru kabul edilir. Aksini ispatlamak vergi dairesine
+  düşer.
++
+Bu kural istisnası ise mükellef tarafından tutulan defter şekil şartlarına
+karşılasa bile eğer içerik ticari ve teknik icaplara göre uygunsuzsa ispat
+külfeti yükümlüdedir.
+
+* Vergi hukukunda öz, şekil karşısında üstündür. Vergi borcu ilişkisinin
+  tarafları, vergiyi doğuran olayı, o olaya temas eden bir başka yan olayı
+  vergisel yahut özel hukuk itibariyle güttükleri bazı amaçlarla farklı
+  görünümlere büründürebilirler. Vergi hukuku açısından o şekil değil, o şeklin
+  asıl ulaşmak istediği öz önemlidir.
++
+****
+*VUK 3/B-1*: Vergilendirmede vergiyi doğuran olay ve bu olaya, ilişkin
+muamelelerin gerçek mahiyeti esastır.  
+****
+
+* Gelir, kanuna aykırı olsa bile vergilendirilir. Ancak giderleştirme
+  yapılırken kanuna aykırı giderler dikkate alınmaz.
+
+* Vergi hukuku alanında boşluk doldurma açısından mükellef lehine veya aleyhine
+  kıyas kabul edilmez. 
+
+* Kural olarak vergi yasaları Türkiye Cumhuriyeti sınırları içerisinde
+  uygulanır. Vergilendirme yetkisi devletin mali alanda ülkesinde sağladığı bir
+  egemenliktir. Bu durum *vergi yasalarının yerelliği ilkesi* olarak
+  adlandırılır. Ancak vergi yasaları birtakım subjektif kriterlere göre de,
+  mesela mükellefin uyruğu gibi, uygulanabilir. Burada da *kişisellik ilkesi*
+  söz konusudur.
++
+VUK'da hangi ilkenin benimsendiğine dair genel bir kural yoktur. Her bir vergi
+açısından o vergiyi düzenleyen kanundan hangi ilkenin esas alındığı
+anlaşılabilir.
++
+NOTE: Örneğin gelir vergisi kanununa göre, Türkiye'de yerleşkesi olanlar ve
+resmi veya merkezi Türkiye'de bulunan özel gruplara tabi olup bunlar için
+çalışıp görevleri sebebiyle yurtdışında bulunan Türk vatandaşları tam
+yükümlüdür. Tam yükümlü gerçek kişiler gerek Türkiye içerisinde, gerek Türkiye
+dışında olsunlar, Türkiye'de vergi verirler. Gelir vergisi kanunu burada
+kişisellik ilkesini esas almıştır. Dar yükümlüler ise sadece Türkiye'de elde
+ettiği gelirler üzerinden vergi verirler. Dar yükümlülük açısından da yerellik
+ilkesi esas alınmıştır.
+
+* Bir devlet yerellik ilkesini benimserken diğer bir devlet kişisellik ilkesini
+  benimsiyorsa *uluslararası çifte vergilendirme* sorunu ile karşılaşılabilir.
+  Uluslararası çifte vergilendirmede aynı vergi yükümlüsünün, aynı vergi konusu
+  açısından iki farklı devlet tarafından vergilendirilmesi söz konusudur. Bunun
+  çözümü için devletler ya kendi içlerinde bunun etkisini kaldıracak
+  düzenlemeler yapabilirler ya da uluslararası antlaşmalar ile çözüme
+  gidebilirler.
++
+NOTE: Gelir vergisi kanununda, yurtdışında elde edilen gelirler üzerinden o
+ülkede vergi ödemek zorunda kalan kişi ödediği miktarı, Türkiye'de ödeyeceği
+vergiden düşebilir denmektedir.
+
+* Vergi yasaları kural olarak çıkarıldıkları tarihten sonraki olaylar açısından
+  uygulama alanı bulur. Kural bu olmakla birlikte AYM içtihatlarında *gerçek
+  geriye yürüme* ve *gerçek olmayan geriye yürüme* olarak bir ayrım
+  yapılmaktadır. Eğer çıkarılan yasa geçmişte tamamlanmış ve hukuksal
+  sonuçlarını tamamen ortaya çıkarmış bir duruma uygulanmışsa burada gerçek bir
+  geriye yürüme vardır ve hukuka aykırıdır. Buna karşılık yasa geçmişte
+  başlamış ama hukuksal sonuçlarını tam olarak ortaya çıkarmamışsa, bu gerçek
+  olmayan geriye yürümedir ve hukuka aykırı değildir.
++
+NOTE: Gelir vergisinde takvim yılı esası söz konusudur. 2016 yılı içerisinde
+elde edilen tüm gelirler yıl bitiminden sonra, 2017 yılı içerisinde beyanname
+ile verilir. Yani gelir vergisi açısından matrah 1 Ocak 2016'da doğmuştur ama
+henüz kesin değildir, 31 Aralık 2016'da kesinleşecektir. Dolayısıyla 31 Aralık
+2016'dan önce 2016 yılı gelirlerine uygulanacak vergi oranlarında bir artış
+yapılırsa AYM'ye göre bu hukuka aykırı olmayan bir geriye yürüme olacaktır.
+
+* Özel hukuk alanında sonuç doğurmayan geçersiz işlemler, amaçlanan ekonomik
+  sonuçlarını ortaya çıkarmışlarsa ortada geçerli bir işlem varmış gibi
+  vergilendirmeye tabi tutulur.
++
+NOTE: Noterde düzenlenmemiş bir taşınmaz satış vaadi sözleşmesi bütün iktisadi
+sonuçlarını meydana getirmişse vergi hukuku burada geçerli bir sözleşme
+olduğunu kabul eder ve vergilendirme işlemi gerçekleştirilir.
+
+* *Vergi alacağı-borçlu ilişkisinin geçirdiği aşamalar:*
+
+. _Vergiyi doğuran olay_
++
+****
+*VUK 19*: (1) Vergi alacağı, vergi kanunlarının vergiyi bağladıkları olayın
+vukuu veya hukuki durumun tekemmülü ile doğar.
+
+(2) Vergi alacağı mükellef bakımından vergi borcunu teşkil eder.
+****
+. _Vergi tarhı (Vergi hesaplanması)_
++
+****
+*VUK 20*: Verginin tarhı, vergi alacağının kanunlarında gösterilen matrah ve
+nispetler üzerinden vergi dairesi tarafından hesaplanarak bu alacağı miktar
+itibariyle tesbit eden idari muameledir.
+****
++
+Kural olarak vergi mükellefinin kendi matrahını saptayıp o vergiye ilişkin
+kanunda belirtilen gerekli usule uygun şekilde beyan etmesi ve tarhın bu beyan
+üzerinden gerçekleştirilmesi gerekir.
++
+Vergi beyanı gerektiği gibi yerine getirilmezse, bu süreçte belirli aksaklıklar
+yaşanırsa vergi idaresi *olağanüstü tarh* yöntemlerini işletme imkanına
+sahiptir.
++
+[caption=""]
+.Olağanüstü tarh yöntemleri
+====
+.. *İkmalen tarhiyat*: Vergi dairesi matrahtaki, dolayısıyla vergilendirmedeki
+   eksikliği mükellefin defter ve belgelerinden saptar.
+.. *Re'sen tarhiyat*: Mükellef hiç beyanda bulunmamış veya beyanda bulunmuş
+   olsa da bu beyanın doğruluğu defter ve belgelerinden takip edilebilir
+   durumda değilse mükellef hakkında vergi dairesi tarafından re'sen matrah
+   takdiri yapılır. Vergi dairesi takdirde bulunurken tamamen keyfi bir matrah
+   takdir edemez. Birtakım objektif verilere (daha önceki beyanlar, aynı
+   sektörde faaliyet gösteren benzer yükümlüler) dayanılmalıdır.
+.. *İdarece tarhiyat*: Bir kısım vergiler bir matrah saptamasına ihtiyaç
+   göstermezler. Örneğin motorlu taşıtlar vergisini hangi tür taşıtın ne kadar
+   vereceği belirli aralıklarla belirlenir. Keza emlak vergisi de dört senede
+   bir belediyeler tarafından belirlenir. Dolayısıyla bunlar için matrah
+   belirlenmesine gerek duyulmaz, sadece yükümlülük sıfatının kazanıldığı beyan
+   edilir. Bu beyanda bulunulmazsa idarece tarhiyat uygulanır.
+====
+. _Tebliğ (Hesaplanan verginin mükellefe bildirilmesi)_
++
+Vergilendirme sürecine ilişkin tebligatlar konusunda Tebligat Kanununa değil
+Vergi Usul Kanuna bakılır. Bunun dışında vergi yükümlüsüyle vergi idaresi
+arasında bir uyuşmazlık doğmuş ve vergi yargısı aşamasına geçilmişse tebligatlar
+için Tebligat Kanununa başvurulacaktır.
++
+Tebliğ; yükümlülere, sorumlulara, kanuni temsilcilerine veya haklarında vergi
+cezası kesilenlere yapılır. Birden fazla ilgili varsa, bunlardan birine
+yapılacak tebligat yeterlidir. Birden fazla kayyım varsa bunlardan birisi özek
+olarak vergisel konularda yetkili kılınmışsa bu kapsamda yapılacak tebligatın o
+kayyıma yapılması gerekir. 
++
+Eğer tebliğ yapılacak kişi o an adreste bulunmuyor ise o adreste onunla
+birlikte yaşayan kişilerde birine bu tebligatın yapılması mümkündür. Ama bu
+fiilen tebligatın yapılacağı kişinin görünüş itibariyle 18 yaşın altında
+olmaması ve temyiz kudretinden yoksun bulunmaması gerekir.
++
+Tebligat adresi bir işyeri ise işyerinde tebligatın muhatabı bulunmuyorsa, onun
+bir çalışanına da tebligat yapılması mümkündür.
++
+Yabancı ülkede bulunan birine tebligat yapılacaksa ilgili vergi idaresi tebliğ
+edilecek evrakı Maliye Bakanlığı'na gönderir. Maliye Bakanlığı da bunu
+Dışişleri Bakanlığı'na gönderir. Dışişleri Bakanlığı tebligatın yapılacağı
+ülkedeki Türk Elçiliği'ne veya konsolosluğa bu evrakı gönderir. O ülkedeli
+elçilik veya konsolosluk da o ülkenin kendi yerel düzenlemeleri çerçevesinde
+gerekli usulü takip ederek tebligatı gerçekleştirir. Eğer tebligatın yapılacağı
+kişi Türk vatandaşı ise, bu durumda elçilik veya konsolosluk o ülkede tebligatı
+bizzat kendisi de gerçekleştirebilir.
++
+*Posta yoluyla tebliğde*, yükümlümün bilinen en son adresine tebligat
+çıkarılmalıdır. Eğer muhatap bulunamazsa tebliğ evrakı geri döner ve vergi
+dairesi bir süre sonra yine aynı adrese tebligat çıkarır. İkinci deneme de
+başarısız olursa, ilanen tebligat yolu izlenir. Eğer muhatap adreste bulunmak
+ile birlikte evrakı almaktan kaçınırsa tebliğ edilecek evrak evine bırakılmak
+suretiyle tebligat gerçekleştirilir.
++
+*Memur aracılığı ile tebliğde*, vergi dairesi kendi memurları aracılığı ile
+tebliğde bulunur. Evrakın tebliği konusunda bir acele varsa bu yola başvurulur.
++
+*Dairede tebliğ yönteminde*, vergi dairesi bizzat kendisi yükümlüye elden
+tebliğ yapar. Bu yöntemin uygulanabilmesi ancak yükümlünün kabulüne bağlıdır.
++
+*Elektronik tebliğde*, tebligat, muhatabın elektronik posta adresine ulaştığı
+tarihi izleyen beşinci günün sonunda yapılmış sayılır.
++
+Eğer muhatabın bilinen bir adresi yoksa veya bilinen adreslerine diğer
+yöntemlerle yapılan tebligatlar başarısız olmuşsa *ilan yoluyla tebligat*
+yoluna başvurulur. Bu yöntemde vergi dairelerine asılmak suretiyle tebligat
+gerçekleştirilir. Eğer tebliğ konusu husus belli bir miktarın üzerindeyse, aynı
+zamanda o belediye sınırları içinde yayınlanan yerel bir gazetede de bu ilanın
+yapılması gerekir. Eğer miktar daha da yüksekse ulusal çapta yayınlanan bir
+gazetede bu ilanın yapılması gerekir. İlanın asılması tarihinden itibaren bir
+aylık süre içerisinde eğer yükümlü vergi idaresine başvurup bir adres
+bildirirse, bu durumda söz konusu tebligat bu adrese posta yoluyla yapılır ve
+tebligat posta yoluyla ulaştıktan sonra gerçekleşmiş sayılır. Buna karşılık bir
+aylık süre içerisinde yükümlü ortaya çıkmazsa, sürenin bitimiyle tebligat
+gerçekleşmiş kabul edilir.
+. _Vergi tahakkuku (Vergi borcunun ödenecek safhaya gelmesi)_
++
+****
+*VUK 22*: Verginin tahakkuku, tarh ve tebliğ edilen bir verginin ödenmesi
+gereken bir safhaya gelmesidir.
+****
++
+****
+*VUK 24*: Mahiyetleri itibariyle tahakkuku tahsile bağlı vergilerde, verginin
+tahsili tahakkuku da içine alır.
+****
++
+Beyana dayalı tarhiyatta tarh, tebliğ ve tahakkuk kaynaşmış durumdadır. Yükümlü
+beyannamesini vergi dairesine verdiğinde vergi dairesi bu beyanname üzerinden
+kaynak işlevini gerçekleştiriyor ve bir tahakkuk fişi düzenliyor. Bu fişin
+düzenlenmesiyle birlikte bu vergi hem tahakkuk etmiş oluyor hem de kural olarak
+kesinleşmiş oluyor. Zira yükümlünün kendi beyanıyla çelişmeyeceği kabul
+edildiği için beyana dayalı tarhiyatta kural olarak yükümlünün dava açma hakkı
+olmuyor.
++
+[caption=""]
+.Beyana dayalı tarhiyatta dava açamama kuralının istisnaları
+====
+. *İhtirazi kayıt*: Yükümlü beyannamesini verirken beyanname içinde yer verdiği
+  hususlardan, beyannamesini nasıl düzenlemesi gerektiğine, neyi matrah kabul
+  edip, neyi matrah dışında bırakması gerektiğine dair bir şüphe taşıyorsa
+  beyannameye ihtirazi kayıt koyabilir ve böylece dava açma hakkını saklı
+  tutmuş olur. Dava açması kendiliğinden işlemin durdurulmasını sağlamaz,
+  ayrıca talep edilmesi ve uygun bulunması gerekir. Yargılama safhasının
+  sonunda vergi kesinleşmiş olur.
+. *Vergi hataları*: VUK'da tanımlanan belirli sayıda vergilerden biri söz
+  konusuysa, beyana dayalı tarhiyat gerçekleştirilmiş olsa bile hatanın
+  düzeltilmesi talep edilebilr. Bu talep reddedilirse, ret işlemine karşı dava
+  açılabilir. Düzeltme talebi için beş günlük zamanaşımı süresi vardır.
+====
++
+Mükellef vergi uyuşmazlıklarında *uzlaşma* yöntemine de başvurabilir. Böylece
+hakkında yapılmış tarhiyatta konusunda yükümlü ve uzlaşma komisyonu pazarlık
+yaparak anlaşırlar. Eğer uzlaşma gerçekleşirse artık tarhiyatla ilgili
+yükümlünün dava açma hakkı düşer. Uzlaşma tutanağının imzalanması aşamasında
+kesinleşme gerçekleşmiş olur.
++
+İkmalen, resen veya idarece tarhiyat söz konusu ise yapılan tarhiyat öncelikle
+yükümlüye tebliğ edilmelidir. Tebligattan sonra yükümlü ya borcu öder ya da
+dava açar. *Otuz günlük* dava açma süresini hareketsiz geçirirse, bu sürenin
+sona ermesiyle birlikte tahakkuk ile o an itibariyle kesinleşir.
++
+Eğer olağanüstü tarhiyat yöntemlerinden biriyle gerçekleştirilen tarhiyatta
+yükümlü dava açmışsa bu durumda tahakkuk ilk derece yargı organının vereceği
+karara kadar ertelenir. İlk derece yargı organı, vergi uyuşmazlıklarında vergi
+mahkemesidir. Vergi uyuşmazlıklarında tahakkuk işleminin dava edilmesi
+yürütmeyi kendiliğinden durdurur. 
++
+İlk derece mahkemesi davayı reddederse, ret kararıyla birlikte tahakkuk
+gerçekleşmiş olur. Ancak buna rağmen kesinleşmiş bir vergi borcundan söz
+edilemez. Çünkü yükümlünün ilk derece mahkemesinin verdiği ret kararına karşı
+içeriğine göre istinaf veya temyiz yoluna başvurma imkanı vardır. İstinaf veya
+temyize başvururken de yürütmenin durdurulması talebinde bulunulabilir. Zira
+ilk derece mahkemesinin kararı ile vergi idaresi işlemi yürütmeye
+başlayabilecektir. Eğer bu yollarla da bir sonuç elde edilemezse borç
+kesinleşmiş olur.
+. _Verginin Tahsili_
++
+Tahsil, vergi alacağı-borçlu ilişkisinin en doğal sona erme şeklidir. Her bir
+verginin ne zaman ödeneceği o vergiyi düzenleyen vergi kanunu ile belirlenir.
+Ödeme zamanı genellikle bir gün olarak değil, dönem olarak belirlenir.
+Belirlenen dönemin son günü verginin vade günüdür.
++
+[caption=""]
+.VUK'da belirtilen özel durumlara ilişkin özel ödeme zamanları
+====
+. *Tarhiyatın olağanüstü yöntemlerle gerçekleştirilmesi*: Bu durumda vergi
+  borcunun tahakkuk tarihinden itibaren *bir ay* içerisinde ödenmesi gerekir.
+  Yani tarhiyatın tebliğinden sonra *30 günlük* dava açma süresinde dava
+  açılmaz ise sürenin bitiminden itibaren bir ay içerisinde ödeme yapılmalıdır.
+  Süresi içinde dava açılmış ve mahkeme mükellefin aleyhine karar vermiş ise
+  vergi idaresi *vergi ceza ihbarnamesi* denen bir belge düzenler. Bu
+  ihbarnamenin tebliğinden itibaren bir aylık süre içerisinde verginin ödenmesi
+  gerekir.
++
+CAUTION: 30 gün ile 1 ay aynı şey değildir.
+. *Yükümlünün ülkeyi terk etmesi ve ölümü*: Bunlar mükellefiyetin sona ermesini
+  sonuçlayan durumlardır. Böyle bir durumda beyan üzerine tarh olunan vergiler,
+  vade tarihleri sonra olsa bile taksit taksit ödenir. Olağanüstü tarh yöntemi
+  uygulanmışsa yine tahakkuk tarihinden itibaren 1 ay içerisinde ödenmelidir.
+====
++
+Bir vergi zamanında tahakkuk edilmezse, bu gecikme sebebiyle vergi idaresi
+uğradığı zararı ortadan kaldırmak için *gecikme faizi* adında fer'i ödeme alır.
+Tahakkuktaki gecikme süresince uygulanan ve alacaklı vergi idaresinin zarara
+uğramasını engelleyen bir ödemedir. Olağanüstü tarhiyatta söz konusu olur.
+Olağanüstü tarhiyatta dava konusu yapılmaksızın tarhiyat kesinleşmişse, o
+verginin normal vade tarihinden bu son tarhiyat tahakkuk tarihine kadar geçen
+süre için işler. Dava konusu yapılmış tarhiyatta normal vade tarihinden mahkeme
+kararının tebliği edildiği tarihe kadar uygulanır. Uzlaşma konusu yapılan
+vergiler içinse normal vergi tarihinden uzlaşma tutanağının imzalandığı tarihe
+kadar geçen süre için gecikme faizi uygulanır.
++
+*Gecikme zammı* ise tahsilde gecikilen süre için uygulanır.
+
+* Belirtilen birtakım iş ve işlemler yapılması konusunda yasalardaki sürelere
+  tabidir. Aksi takdirde vergi idaresi açısından yükümlü hakkında birtakım
+  olumsuz sonuçlar doğurabilecek işlemler yapma hakkı doğar.
+
+. *Kanuni süreler*: Bu süreler kanunda belirtilmiş olmanın sonucu olarak, kanun
+  gereği kendiliğinden işlemeye başlar. Ayrıca yükümlüye bildirilmesine gerek
+  yoktur. Hakim tarafından re'sen dikkate alınır. Bu süreler üzerinde idarenin
+  herhangi bir tasarrufta bulunma hakkı yoktur.
+. *İdari süreler*: Kanunda açıkça süre belirtilmeyen hallerde vergi idaresince
+  tebliğ edilmek suretiyle belirlenen sürelerdir. İdari süreler en az *15 gün*
+  olmalıdır ve mutlaka ilgilisine tebliğ edilmelidir.
+. *Yargısal süreler*
+
+* Kanunda belirtilen bazı hallerde belirlenmiş sürelerin uzatılması söz konusu
+  olabilir.
+
+. *Mücbir sebep*: Mücbir sebep, yükümlünün iradesi dışında gelişen ve vergisel
+  edimi yerine getirmesini engelleyecek nitelikteki durumdur. Mücbir sebep
+  ödeme dahil tüm vergisel süreleri etkiler. Bu sebep ortadan kalkıncaya kadar
+  süreler kesilmez, durur. Durum ortadan kalktıktan sonra süreler durduğu
+  yerden işlemeye başlar. Mücbir sebebin varlığı halinde idari cezanın
+  kesilmesi de mümkün değildir. Mücbir sebep herkesi etkilediği ölçüde ispata
+  gerek duymaz. Mücbir sebebin varlığı halinde tarh zamanaşımı da mücbir sebep
+  boyunca işlemeyen süreler kadar uzar.
++
+****
+*VUK 15*: (1) 13 üncü maddede yazılı mücbir sebeplerden her hangi birinin
+bulunması halinde bu sebep ortadan kalkıncaya kadar süreler işlemez. Bu
+takdirde tarh zamanaşımı işlemiyen süreler kadar uzar.
+
+(2) Bu hükmün uygulanması için mücbir sebebin malüm olması veya ilgililer
+tarafından ispat veya tevsik edilmesi lazımdır.
+
+(3) Maliye Bakanlığı, mücbir sebep sayılan haller nedeniyle; bölge, il, ilçe,
+mahal veya afete maruz kalanlar itibarıyla mücbir sebep hali ilân etmeye ve bu
+sürede vergi ödevlerinden yerine getirilemeyecek olanları tespit etmeye
+yetkilidir. Bu yetki vergi türleri ve işyerleri itibarıyla; beyannamelerin
+toplulaştırılması, yeni beyanname verme süreleri belirlenmesi ve beyanname
+verme zorunluluğunun kaldırılması şeklinde de kullanılabilir.
+****
++
+****
+*VUK 13*: Mücbir sebepler:
+
+1. Vergi ödevlerinden her hangi birinin yerine getirilmesine engel olacak
+   derecede ağır kaza, ağır hastalık ve tutukluluk;
+2. Vergi ödevlerinin yerine getirilmesine engel olacak yangın, yer sarsıntısı
+   ve su basması gibi afetler;
+3. Kişinin iradesi dışında vukua gelen mecburi gaybubetler;
+4. Sahibinin iradesi dışındaki sebepler dolayısiyle defter ve vesikalarının
+   elinden çıkmış bulunması; gibi hallerdir.  
+****
+. *Ölüm*: Bu durumda yükümlünün ödevleri mirasçılara geçer ve her mirasçı miras
+  yoluyla kalan vergi borçlarından sorumludur. Ölüm halinde vergi kanunlarında
+  aksine ayrıca bir düzenleme yer almıyorsa, mirasçılara geçen bu ödevlerin
+  yerine getirilmesine dair süreler 3 ay eklenir.
++
+Ölüm hali için gelir vergisi kanununda özel bir düzenleme vardır.
++
+****
+*GVK 92*: Takvim yılı içinde memleketi terk edenlerin beyannameleri memleketi
+terke takaddüm eden 15 gün, ölüm halinde, ölüm tarihinden itibaren 4 ay içinde
+verilir.
+****
+. *Zor durumda süre verilmesi*: Zor durumdan anlaşılması gereken, vergisel
+  ödevlerin süreleri içerisinde yerine getirilmesini engelleyen ama mücbir
+  sebep seviyesine çıkmayan hallerdir. Bu durumdaki başvurup kendilerine ek
+  süre verilmesini talep edebilirler. Ek süre kanuni sürenin 1 katını aşmayacak
+  şekilde belirlenir. Bu konudaki takdir iradeye aittir.
+
+* Süreler gün olarak belirlenmiş ise sürenin başladığı gün hesaba katılmaz,
+  ertesi gün ilk gün olarak kabul edilir. Sürenin son günü, mesai bitiminde
+  sona erer.
+
+* Süre hafta veya ay olarak belirlenmişse, başladığı güne son hafta veya ayda
+  karşılık gelen günde süre sona erer. Örneğin 31 Ocak'ta başlayan bir aylık
+  süre 28 Şubat'ta sona erer.
+
+* Sürenin son günü resmi tatil veya haftasonuna denk gelirse, süre tatilden
+  sonraki ilk iş günü mesai saati sonunda sona ermiş olur.
+
+* Her yılın temmuz ayının 1. ve 20. günleri arasında *mali tatildir*. Buna göre
+  son günü mali tatile rastlayan birtakım süreler mali tatilin son gününden
+  itibaren 7 gün uzamış kabul edilir. Bu süreler; beyanname süreleri, ikmalen,
+  re'sen ve idarece tarhiyatta vergi ve cezaların ödenme süreleri, bilgi verme
+  süreleridir. Bunun dışında VUK'ta öngörülmüş birtakım muhasabe kayıt süreleri
+  vardır. Bu süreler ve vergisel işlemlere karşı dava açma süreleri, mali tatil
+  süresince işlemez, durur. Mali tatilin bitiminden sonra işlemeye kaldığı
+  yerden devam eder.
+
+=== YÜKÜMLÜLERİN ÖDEVLERİ
+
+* Yükümlüler ve kimi zaman sorumlular, vergilendirmeyi ilgilendiren çeşitli
+olay, *durum ve gelişmeleri vergi idaresine bildirmek zorundadırlar*. Çünkü
+ancak bu sayede vergi idaresi yükümlünün kimliğinden, yükümlülük durumundan,
+yürüttüğü faaliyetten, bu faaliyeti nerede yürüttüğünden ve bu faaliyet sonucu
+ortaya çıkan vergisel yükümlülükten haberdar olabilir.
++
+.Bildirimde bulunma yükümlülüğü bulunanlar
+****
+. Vergiye tabi ticaret ve sanat erbabı, yani *gerçek kişi tacirler*
+. *Serbest meslek erbabı* kişiler
+. *Kurumlar vergisi yükümlüleri*
+. *Kolektif* ve *adi şirketlerin ortakları*
+. *Komandit şirketlerin komandite ortakları*
+****
++
+Bildirimde bulunulacak şeyler işe başlamak, işle ilgili değişiklik yapmak ve
+işi bırakmaktır.
+
+. *İşe başlamanın bildirilmesi*
++
+[caption=""]
+.Tüccarlarda işe başlamanın belirtileri
+====
+*VUK 154*: Tüccarlar için aşağıdaki hallerden her hangi biri "İşe başlama" yı
+gösterir:
+
+. Bir iş yeri açmak (İş yeri açmaktan maksat, belli bir yerde bilfiil ticari
+veya sınai faaliyete geçmek demektir. Bir yerin ne maksatla olursa olsun sadece
+tutulmuş olması veya içinde tertibat ve tesisat yapılmakta bulunması iş yerinin
+açıldığını göstermez);
+. İş yeri açılmamış olsa bile ticaret siciline veya mesleki bir teşekkülle
+kaydolunmak;
+. Kazançları basit usulde tesbit edilen tüccarlar için işle bilfiil uğraşmaya
+başlamak.
+====
++
+[caption=""]
+.Serbest meslek erbabında işe başlamanın belirtileri
+====
+*VUK 155*: Serbest meslek erbabı için aşağıdaki hallerden her hangi biri "işe
+başlama" yı gösterir:
+
+. Muayenehane, yazıhane, atelye gibi özel iş yerleri açmak;
+. Çalışılan yere tabela, levha gibi mesleki faaliyette bulunulduğunu ifade eden
+alametleri asmak;
+. Her ne şekilde olursa olsun devamlı olarak mesleki faaliyette bulunduğunu
+gösteren ilanlar yapmak;
+. Serbest olarak mesleki faaliyette bulunmak üzere mesleki teşekküllere
+kaydolunmak.
+
+Mesleki teşekküllere kaydolunanlardan görevleri veya durumları icabı bilfiil
+mesleki faaliyette bulunmıyacak olanlar bildirmelerinde bu ciheti de
+açıklarlar.
+====
+. *İşle ilgili değişiklikler*
++
+[caption=""]
+.Adres değişikliklerinin bildirilmesi
+====
+*VUK 157*: 101 inci maddede yazılı bilinen iş veya ikamet yeri adreslerini
+değiştiren mükellefler, yeni adreslerini vergi dairesine bildirmeye
+mecburdurlar.
+====
++
+[caption=""]
+.İş değişikliklerinin bildirilmesi
+====
+*VUK 158*: İşe başladıklarını bildiren mükelleflerden:
+
+.. Yeni bir vergiye tabi olmayı;
+.. Mükellefiyet şeklinde değişikliği;
+.. Mükellefiyetten muaflığa geçmeyi;
+
+gerektirecek surette işlerinde değişiklik olanlar, bu değişiklikleri vergi
+dairesine bildirmeye mecburdurlar.
+====
++
+[caption=""]
+.İşletmede değişikliğin bildirilmesi
+====
+*VUK 159*: Aynı teşebbüs veya işletmeye dahil bulunan iş yerlerinin sayısında
+vukua gelen artış veya azalışları mükellefler vergi dairesine bildirmeye
+mecburdurlar.
+====
+. *İşi bırakmanın bildirilmesi*
++
+[caption=""]
+.İşi bırakmanın tarifi
+====
+*VUK 161*: (1) Vergiye tabi olmayı gerektiren muamelelerin tamamen durdurulması
+ve sona ermesi işi bırakmayı ifade eder.
+
+(2) İşlerin her hangi bir sebep yüzünden geçici bir süre için durdurulması işi
+bırakma sayılmaz.
+====
++
+[caption=""]
+.Ölüm
+====
+*VUK 164*: (1) Ölüm işi bırakma hükmündedir. Ölüm mükellefin mirası reddetmemiş
+mirasçıları tarafından vergi dairesine bildirilir.
+
+(2) Mirasçılardan her hangi birinin ölümü bildirmesi diğer mirasçıları bu
+ödevden kurtarır.
+====
++
+[caption=""]
+.İşi bırakmanın bildirilmesi
+====
+*VUK 160*: (1) 153 üncü maddede yazılı mükelleflerden işi bırakanlar,keyfiyeti
+vergi dairesine bildirmeye mecburdurlar.
+
+(2) (Mülga ikinci fıkra : 22/7/1998 - 4369/82 md.)
+
+(3) İşi bırakma bildiriminde bulunmayan bir mükellefin işi bıraktığının tespit
+edilmesi veya yapılan araştırma ve yoklamalar sonucunda bilinen adreslerinde
+bulunamaması ve başka bir adreste faaliyetine devam ettiğine dair bilgi
+edinilememesi veya başkaca bir ticarî, ziraî ve meslekî faaliyeti olmadığı
+halde münhasıran sahte belge düzenlemek amacıyla mükellefiyet tesis
+ettirdiğinin vergi incelemesine yetkili olanlarca düzenlenen rapor ile tespit
+edilmesi ve mükellefiyet kaydının devamına gerek görülmediğinin raporda
+belirtilmesi halinde, mükellef (matrahlı veya matrahsız beyanname verenler
+dahil) işi bırakmış addolunur ve mükellefiyet kaydı vergi dairesince terkin
+edilir. Bu durum, ilgili kamu kurum ve kuruluşu ile kamu kurumu niteliğindeki
+meslek üst kuruluşuna da bildirilir.
+
+(4) Mükellefiyet kaydının terkin edilmesi, mükellefin işi bırakmasından önceki
+döneme ilişkin yükümlülüklerini ortadan kaldırmayacağı gibi bu tarihten sonra
+faaliyette bulunduğunun tespiti halinde bu dönemlere ilişkin vergilendirmeye ve
+sahte belge düzenleme fiilini işleyenler hakkında kovuşturma yapılmasına ve
+ceza uygulanmasına da engel teşkil etmez.
+
+(5) Bu madde kapsamında mükellefiyet kayıtları terkin edilenlerin kimlik
+bilgileri ile bunların bastırmış veya tasdik ettirmiş oldukları belgeler ve
+kullanmış oldukları ödeme kaydedici cihazlara ilişkin bilgiler Maliye
+Bakanlığınca belirlenecek araçlarla duyurulur.
+
+(6) Bu maddenin uygulanmasına ilişkin usulleri belirlemeye Maliye Bakanlığı
+yetkilidir.
+====
++
+Her bir vergisel ödevi yerine getirmemenin birtakım yaptırımları söz konusu
+olur. İşi bırakma bildiriminde bulunulmaması halinde ise ek olarak bazı
+problemler ortaya çıkacaktır: Vergi dairesi açısından o faaliyetin devam ettiği
+kabul edileceği için ve yükümlü de işi bıraktığı ve bu nedenle de beyanname
+vermeyeceği için bu yükümlü hakkında vergi dairesi tarafından re'sen matrah
+takdiri ve re'sen vergi tarhı durumu ortaya çıkacaktır. Bu sebeple lüzumsuz
+tarhiyat yapılmaması için VUK 160/3 uyarınca vergi idaresi harici yollarla
+yükümlünün faaliyetine son verdiği tespit ediyorsa yükümlünün terkini yoluna
+gidecektir.
++
+CAUTION: Bir yükümlünün terkin edilmesi, işi bırakma tarihinden önceki
+dönemlere ilişkin ödevleri ortadan kaldırmaz.
++
+Bildirimler bakımından iki farklı süre söz konusudur. İşe başlama bildirimleri
+başlama tarihinden itibaren en geç 10 gün içerisinde yapılmalıdır. Diğer
+bildirimler, bildirilmesi gereken olayın gerçekleşmesinden itibaren 1 ay
+içerisinde yapılmalıdır. *Bildirimler yazılı yapılır*.
+
+* Mükelleflere yüklenen bir diğer ödev *defter tutma ödevidir*. Defter tutma
+ile hedeflenen temel amaç, matrahların tespitidir. Defterlere yürütülen
+faaliyetle ilgili sonuç doğuran bütün hususlar kaydedilir. Defterlerde
+mükellefin kendi matrahıyla, beyannamesi ile alakalı ayrıntılar bulunabildiği
+gibi, aynı zamanda yürüttüğü faaliyet esnasında işlem yaptığı, alım satımda
+bulunduğu üçüncü kişilerle alakalı hususlar da yer alır. Dolayısıyla defter
+tutma sadece defter tutanın değil, üçüncü kişilerin de matrahını tespit etmede
+yardımcı olur.
++
+.Defter tutma yükümlülüğü bulunanlar
+****
+. Ticaret ve sanat erbabı, yani *gerçek kişi tacirler*
+. *Ticaret şirketleri*
+. *İktisadi kamu müesseleri*
+. *Dernek ve vakıflara ait iktisadi işletmeler*
+. *Serbest meslek kazancı elde eden gerçek kişiler*
+. *Çiftçiler*
+****
++
+Defterler, hesap dönemi itibariyle tutulur. Yani, kayıtlar her hesap dönemi
+sonunda kapatılır ve yeni hesap dönemi başında tekrar açılır. Hesap dönemi
+dendiğinde kural olarak 1 Ocak-31 Aralık arası anlaşılır.
++
+Defterlere kayıt esnasında vergi usul kanunu yükümlüleri serbest bırakmıştır.
+Yükümlüler muhasebe usulünü seçme konusunde serbesttirler. Ancak Maliye
+Bakanlığı bu konuda birtakım kıstaslar belirlemiştir.
++
+Defter kayıtları Türkçe tutulmalıdır, mali birimler de Türk Lirası üzerinden
+gösterilmelidir. Türkçe kayıt gösterildikten sonra, başka bir dilde de kayıt
+düşülebilir. Türk Lirası esas kayıt olmak şartıyla başka bir para birimi
+üzerinden defterlere kayıt düşülebilir. Belli şartları taşıyan yükümlüler
+doğrudan doğruya yabancı para birimi üzerinde defter tutma konusunda izin
+alabilirler.
++
+Defter kayıtları silinmeyecek şekilde tutulmalıdır. Yanlış tutulan kayıtların
+düzeltilmesi konusunda muhasebe standartlarına uygun şekilde düzeltilme
+yapılmalıdır.
++
+İlgili hususların defterlere kayıt zamanı konusunda yükümlüye esneklik
+tanınmıştır. Her durumda kaydı gereken husustan itibaren 10 gün içinde kayıt
+yapılmalıdır.
++
+[caption=""]
+.Kayıt zamanı
+====
+*VUK 219*: Muameleler defterlere zamanında kaydedilir. Şöyleki:
+
+.. Muamelelerin işin hacmine ve icabına uygun olarak muhasebenin intizam ve
+vuzuhunu bozmayacak bir zaman zarfında kaydedilmesi şarttır. Bu gibi kayıtların
+on günden fazla geciktirilmesi caiz değildir.
+.. Kayıtlarını devamlı olarak muhasebe fişleri, primanota ve bordro gibi
+yetkili amirlerin imza ve parafını taşıyan mazbut vesikalara dayanarak yürüten
+müesseselerde, muamelelerin bunlara işlenmesi, deftere işlenmesi hükmündedir.
+Ancak bu kayıtlar, muamelelerin esas defterlere 45 günden daha geç intikal
+ettirilmesine cevap vermez.
+.. Günlük kasa, günlük, parakende satış ve hasılat defterleri ile serbest
+meslek kazanç defterine muameleler günü gününe kaydedilir.
+====
++
+Defterlerin bir kısmı *tasdike* tabidir. Defterleri noterler tasdik etmelidir.
+İlgili olduğu hesap döneminden önceki son ayda tasdik ettirilmelidir. 
++
+[caption=""]
+.Tasdike tabi defterler
+====
+*VUK 220*: Aşağıda yazılı defterlerin bu bölümdeki esaslara göre tasdik
+ettirilmesi mecburidir:
+
+. Yevmiye ve envanter defterleri:
+. İşletme defteri:
+. Çiftçi işletme defteri;
+. İmalat ve İstihsal Vergisi defterleri; (Basit İstihsal Vergisi defteri dahil)
+. Nakliyat Vergisi defteri;
+. Yabancı nakliyat kurumlarının hasılat defteri;
+. Serbest meslek kazanç defteri.
+
+Bu kanunla cevaz verilen hallerde yukarıda yazılı olanların yerine kullanılacak
+olan defterler de tasdike tabi tutulur.
+====
++
+[caption=""]
+.Tasdik zamanı
+====
+*VUK 221*: Bu kanunda yazılı defterleri kullanacak olanlar, bunları aşağıda
+yazılı zamanlarda tasdik ettirmeye mecburdurlar:
+
+. Ötedenberi işe devam etmekte olanlar defterin kullanılacağı yıldan önce gelen
+son ayda;
+. Hesap dönemleri Maliye Bakanlığı tarafından tesbit edilenler, defterin
+kullanılacağı hesap döneminden önce gelen son ayda;
+. Yeniden işe başlayanlar, sınıf değiştirenler ve yeni bir mükellefiyete
+girenler, işe başlama, sınıf değiştirme ve yeni mükellefiyete girme tarihinden
+önce; vergi muafiyeti kalkanlar, muaflıktan çıkma tarihinden başlayarak on gün
+içinde;
+. Tasdike tabi defterlerin dolması dolayısiyle veya sair sebeplerle yıl içinde
+yeni defter kullanmaya mecbur olanlar bunları kullanmaya başlamadan önce.
+====
++
+[caption=""]
+.Tasdik şerhi
+====
+*VUK 224*: Noterlerin yapacağı tasdik şerhleri ile anonim ve limited
+şirketlerin kuruluşu aşamasında ticaret sicili memurlarınca da yapılacak tasdik
+şerhleri defterin ilk sayfasına yazılır ve aşağıdaki malûmatı ihtiva eder.
+
+. Defter sahibinin;
+.. Gerçek kişilerde başta soyadı sonra öz adı (Müessesesin varsa maruf unvanı da ayrıca ilave olunur);
+.. Tüzel kişilerde unvanı;
+. İş adresi;
+. İş veya meslekin nev'i;
+. Defterin nev'i;
+. Defterin kaç sayfadan ibaret olduğu;
+. Defterin kullanılacağı hesap dönemi;
+. Defter sahibinin bağlı olduğu vergi dairesi;
+. Tasdik tarihi;
+. Tasdik numarası;
+. Tasdiki yapan makamın resmi mühür ve imzası.
+====
++
+Defter tutma ödevi hem vergi hukukunda hem de ticaret hukukunda düzenlenmiştir.
+Tacirler defter turma konusunda iki sınıfa ayrılır: Birinci sınıf tacirler ve
+ikinci sınıf tacirler.
++
+Gerçek kişi tacirlerden iş hacmi belirli büyüklüğün üzerinde olanlara, *birinci
+sınıf tacir* denir. Kriterler her sene yenilenir ve belirlenir. Her türlü
+ticaret şirketi, birinci sınıf tacirdir. Adi şirketler ise gerçek kişi tacir
+gibi değerlendirilir. Her bir ortak açısından bu kriterler ayrıca
+değerlendirilir. Kurumlar vergisi yükümlülüğüne dahil olan tüzel kişiler de bu
+sınıftandır. Kendi istekleriyle bilanço esasına tabi olmayı talep edenler de
+birinci sınıf tacir olarak kabul edilirler.
++
+Bilanço esasında üç defter vardır: Yevmiye defteri, defteri kebir ve envanter
+defteri. *Yevmiye defteri*, kayda geçirilmesi gereken işlemlerin, vergisel ve
+iktisadi sonuç doğuran işlemlerin tarih sırasıyla alt alta yazıldığı defterdir.
+*Defteri kebir*, yevmiye defterine tarih sırasıyla alt alta yazılmış kayıtların
+belirli bir tasnife göre temize çekilmesidir. Yevmiye defterinde olmayan bir
+kaydın defteri kebirde bulunması mümkün değildir. Dolayısıyla defteri kebirin
+tasdikine gerek duyulmamıştır. *Envanter defteri* ise faaliyet geçildiği andan
+itibaren ve her hesap dönemi sonunda o işletmeye dahil olan tüm iktisadi
+kıymetlerin (taşınır, taşınmaz, alacak, borç) kaydedildiği defterdir. 
++
+Bilanço iki tablodan oluşur. Aktif ve pasif sütunları vardır. Aktif tarafa
+mevcutlar, eldeki iktisadi değerler ve alacaklar yazılır. Pasif tarafa da
+borçar yazılır. Bilanço çıkarıldığı an itibariyle aktif ve pasif arasında
+olumlu bir fark varsa, bu öz sermaye olarak adlandırılır. Öz sermayede bir
+artış meydana gelirse kar elde edilmiştir ve vergi ödenecektir. Aksi takdirde
+zarar vardır, matrah takdir edilmez.
++
+*İkinci sınıf tacirler* ise birinci sınıf tacirler dışında kalanlar olarak
+kabul edilir. Bir yükümlü işe yeni başladığı zaman eğer gerçek kişi tacirse, o
+kriterleri sağlayıp sağlamadığı anlaşılıncaya kadar, yani hesap dönemine kadar
+ikinci sınıf tacir statüsünde kalmayı seçebilir. Hesap dönemi sonunda
+kriterleri sağlamışsa birinci sınıf tacir olur. İkinci sınıf tacirler işletme
+hesabı esasına göre defter tutmaktadır. İşletme hesabı esasında tek bir defter
+vardır: İşletme hesabı defteri. Bu defterde sol tarafa giderler, sağ tarafa
+hasılat yazılır. Gider dendiğinde, yürütülen faaliyet için yapılan her türlü
+harcama anlaşılır.
++
+****
+VUK ticari kazançlar bakımından temelde bu defterlerin tutulmasını zorunlu
+kılmış olmakla birlikte, bazı yükümlüler açısından başkaca bazı defterlerin
+tutulma zorunluluğunu da öngörmüştür. 
+ 
+.. Sınai işletmeler açısından *imalat defteri* tutmak zorunludur. Bu deftere
+imalatta kullanılmak için kendilerine bırakılan hammadde, miktarı, kimin
+bıraktığı, hangisinden neyin ne kadar imal edildiği, ürünlerin kime ne miktarda
+teslim edildiği hususları yazılır.
+.. Bankalar ve özel finans kurumları açısından *banka ve sigorta muamelereleri
+vergisi defteri* tutulması zorunludur.
+.. Anonim şirketler açısından *damga vergisi defteri* tutmak zorunludur.
+.. Depo işleten ve nakliye işiyle uğraşan yükümlüler açısından *ambar defteri*
+tutmak zorunludur. Depoya hangi mal ne zaman girdi, ne kadar kaldı gibi
+bilgiler yazılır.
+.. Serbest meslek erbapları *serbest meslek kazanç defteri* tutarlar. Serbest
+meslek erbabı grubu içinde yer alan doktorlar sadece *protokol defteri*
+tutmakla yetinebilir.
+.. Zirai faaliyet yürütenler bakımından ise *çiftçi işletme defteri* tutulması
+zorunludur.
+****
++
+.TTK'nın defter tutma sistemi
+****
+TTK'nın öngördüğü defterler: Yevmiye defteri, defteri kebir, envanter defteri,
+pay defteri, yönetim kurulu karar defteri, genel kurul toplantı ve müzakere
+defteridir. Her tacir açısından bunlardan hepsinin tutulma zorunluluğu yoktur.
+Her tacir yevmiye defteri, defteri kebir ve envanter defteri tutmak zorundadır.
+Şahıs şirketleri bu üç deftere ek olarak genel kurul toplantı ve müzakare
+defteri tutarlar. Limited şirketler üçüne ek olarak pay defteri, genel kurul
+toplantı ve müzakere defteri tutarlar. Anonim şirketler ve sermayesi paylara
+bölünmüş komandit şirketler ise üçüne ek olarak pay defteri, yönetim kurulu
+karar defteri ve genel kurul toplantı ve müzakare defteri tutarlar.
+ 
+TTK, defterler açısından açılış ve kapanış onayı zorunluluğu öngörmüştür. Bu
+defterler kuruluş sırasında gerçek kişi tacirler açısından, kullanılmaya
+başlamadan önce ve izleyen faaliyet dönemlerinde bir önceki faaliyet döneminin
+son ayından önce mutlak suretle kapanış ve açılış onayına ihtiyaç duyar.
+ 
+Defterlerin kayıt düzeni konusunda VUK ilkelerinin uygulanacağı öngörülmüştür.
+Bu defterleri muhafaza süresi VUK'ta 5 yıl iken, ticaret kanununda 10 yıldır.
+Bu zorunluluk sadece ticari defterler açısından değil yürütülen faaliyetle
+ilgili olan ve defter kayıtlarının dayanağı niteliğinde olan her türlü yazışma,
+haberleşme, bilgi, belge, sözleşme gibi ticari evrakın da aynı şekilde 10 yıl
+süreyle saklanması tacirler açısından zorunludur.
+****
+
+* Mükellefler açısından bir diğer yükümlülük *belge düzenine uyma ödevidir*.
+Beyannameler defter kayıtlarına, defter kayıtları da belgelere dayandığından
+belge düzeninin öngörmüş olduğu belgeler hem vergi yükümlüsünün defter
+kayıtlarının yani beyannamelerinin doğruluğunu kanıtlamaya yarayan birer delil
+niteliğinde hem de vergi idaresi tarafından mükellefler nezdinde yürütülecek
+denetim faaliyeti açısından önemli bir araçtır. Bu sebeple bu belgelerin VUK'un
+öngörmüş olduğu şekil şartlarını taşımaları ve maddi gerçeğe uygun olmaları
+gerekir.
++
+VUK, defter tutma ödevi konusunda yükümlülerin üçüncü kişilerle olan
+ilişkilerinin defter kayıtlarına yansımasına zorunlu kıldığından dolayı
+öncelikle defter tutma ödevi altında olan yükümlüler belge düzenine de
+tabidirler. 
++
+Bu ödev farklı yükümlü grupları açısından farklı şekillerde ortaya çıkar.
+VUK'ta bahsedilen belgeler:
+
+. *Fatura*: Satılan mal veya yapılan iş karşılığında müşterinin borçlandığı
+tutarı gösteren belgedir. Bu belge malı satan veya hizmeti veren tarafça
+düzenlenir ve işlemin karşı tarafına verilir. İşlemin taraflarının adı, soyadı,
+unvanı, vergi dairesi ve vergi numarası yer almalıdır. Yapılan işleme ilişkin
+bilgiler yer almalıdır. 
++
+[caption=""]
+.Faturanın şekli
+====
+*VUK 230*: (1) Faturada en az aşağıdaki bilgiler bulunur:
+
+. Faturanın düzenlenme tarihi seri ve sıra numarası;
+. Faturayı düzenleyenin adı, varsa ticaret unvanı, iş adresi, bağlı olduğu
+vergi dairesi ve hesap numarası;
+. Müşterinin adı, ticaret unvanı, adresi, varsa vergi dairesi ve hesap
+numarası;
+. Malın veya işin nev'i, miktarı, fiyatı ve tutarı;
+. Satılan malların teslim tarihi ve irsaliye numarası, (Malın alıcıya teslim
+edilmek üzere satıcı tarafından taşındığı veya taşıttırıldığı hallerde
+satıcının, teslim edilen malın alıcı tarafından taşınması veya taşıttırılması
+halinde alıcının taşınan veya taşıttırılan mallar için sevk irsaliyesi
+düzenlemesi ve taşıtta bulundurulması şarttır.
+
+(2) Malın, bir mükellefin birden çok iş yerleri ile şubeleri arasında taşındığı
+veya satılmak üzere bir komisyoncu veya diğer bir aracıya gönderildiği hallerde
+de, malın gönderen tarafından sevk irsaliyesine bağlanması gereklidir. Bu
+bentte yazılı irsaliyeler hakkında fiyat ve bedel ile ilgili bilgiler hariç
+olmak üzere, bu madde hükmü ile 231 inci madde hükmü uygulanır. İrsaliyelerde
+malın nereye ve kime gönderildiği ayrıca belirtilir.
+
+(3) Şu kadar ki nihai tüketicilerin tüketim amacıyla perakende olarak satın
+aldıkları malları kendilerinin taşıması veya taşıttırması halinde bu mallara
+ait fatura veya perakende satış fişinin bulunması şartıyla sevk irsaliyesi
+aranmaz.)
+====
++
+[caption=""]
+.Faturanın nizamı
+====
+*VUK 231*: Faturanın düzenlenmesinde aşağıdaki kaidelere uyulur:
+. Faturalar sıra numarası dahilinde teselsül ettirilir. Aynı müessesenin
+muhtelif şube ve kısımlarında her biri aynı numara ile başlamak üzere ayrı ayrı
+fatura kullanıldığı takdirde bu faturalara şube ve kısımlarına göre şube veya
+kısmın isimlerinin yazılması veya özel işaretle seri tefriki yapılması
+mecburidir.
+. Faturalar mürekkeple, makine ile veya kopya kurşun kalemi ile doldurulur.
+. Faturalar en az bir asıl ve bir örnek olarak düzenlenir. Birden fazla örnek
+düzenlendiği takdirde her birine kaçıncı örnek olduğu işaret edilir.
+. Faturaların baş tarafında iş sahibinin veya namına imzaya mezun olanların
+imzası bulunur.
+. Fatura, malın teslimi veya hizmetin yapıldığı tarihten itibaren azami yedi
+gün içinde düzenlenir. Bu süre içerisinde düzenlenmeyen faturalar hiç
+düzenlenmemiş sayılır.
+. Bu Kanunun 232 nci maddesinin birinci fıkrasına göre fatura düzenlemek
+zorunda olanlar, müşterinin adı ve soyadı ile bağlı olduğu vergi dairesi ve
+hesap numarasının doğruluğundan sorumludur. (Ancak bu sorumluluk, aynı maddenin
+2 nci fıkrasının uygulandığı halleri kapsamaz.) Fatura düzenleyenin istemesi
+halinde müşteri kimliğini ve vergi dairesi hesap numarasını gösterir belgeyi
+ibraz etmek zorundadır.
+====
++
+Faturaların kayıt altına alınması gereken işlemin vukuu tarihinden itibaren en
+geç 7 gün içerisinde düzenlemesi gerekir. 
++
+[caption=""]
+.Fatura kullanma mecburiyeti
+====
+*VUK 232*: (1) Birinci ve ikinci sınıf tüccarlar kazancı basit usulde tespit
+edilenlerle defter tutmak mecburiyetinde olan çiftçiler:
+. Birinci ve ikinci sınıf tüccarlara;
+. Serbest meslek erbabına;
+. Kazançları basit usulde tesbit olunan tüccarlara
+. Defter tutmak mecburiyetinde olan çiftçilere;
+. Vergiden muaf esnafa.
+
+Sattıkları emtia veya yaptıkları işler için fatura vermek ve bunlara da fatura
+istemek ve almak mecburiyetindedirler.
+
+(2) Yukarıdakiler dışında kalanların, birinci ve ikinci sınıf tüccarlar ile
+kazancı basit usulde tespit edilenlerden ve defter tutmak mecburiyetinde olan
+çiftçilerden satın aldıkları emtia veya onlara yaptırdıkları iş bedelinin 900
+TL lirayı geçmesi veya bedeli 900 TL liradan az olsa dahi istemleri halinde
+emtiayı satanın veya işi yapanın fatura vermesi mecburidir. 
+====
+
+. *Fatura yerine geçen belgeler*
+
+.. *Perakende satış fişleri*: Fatura düzenlemek zorunda olanlar her işlemde
+fatura düzenlemez. Yapılan işin veya satılan malın bedeli 900 TL'nin altındaysa
+ya da karşı tarafın özellikleri dolayısıyla fatura düzenleme zorunluluğu yoksa
+fatura düzenlenmeyebilir. Ancak bu durumda da gerçekleşmiş işlemlerin defter
+kayıtlarına tutulması söz konusudur ve bu kayıtların bir dayanağının olması
+gerekir. Bu durumda fatura yerine perakende satış fişi düzenlenir. Faturadan
+tek farkı, burada işlemin karşı tarafı yazmamaktadır. 
+.. *Gider pusulası*: Fatura düzenlemek zorunda olanların fatura alma
+zorunlulukları da vardır. Belge düzenine tabi olmayan bir yükümlüden mal
+alan fatura düzenleme yükümlüsü, bu durumda gider pusulasını kendi düzenler.
+Faturadan farkı malı satın alanın düzenlemesidir. 
+.. *Serbest meslek makbuzları*: Faturanın serbest meslek faaliyetindeki
+karşılığıdır. Serbest meslekte faaliyet gösteren kişiler, yürüttükleri
+faaliyetle alakalı yaptıkları her türlü tahsilat için bu makbuzu düzenler.
+Tahsilat yapıldıktan sonra düzenlenir.
+
+. *Ücret bordrosu*: Yükümlü işveren sıfatını taşıyorsa bu belgeyi
+düzenlemelidir. İki nüsha düzenlenir, biri çalışana verilir biri işverende
+kalır.
+
+* Mükelleflerin bir diğer yükümlülüğü de *muhafaza ve ibraz ödevidir*. Defter
+tutma ve belge düzenine uyma ödevi altında düzenlenen defter ve belgeler
+belirli bir süre boyunca yükümlüler tarafından saklanmak ve istenildiğinde
+vergi idaresi yetkililerine ibraz edilmek zorundadır.
++
+Defter tutmak zorunda olanlar ve belge düzenine uymak zorunda olanlar bu ödev
+ile de yükümlüdür.
++
+Defter ve belgeler 5 yıllık süre boyunca saklanır. Ticaret kanununda ise bu
+süre 10 yıldır. Yevmiye defteri, defteri kebir ve envanter defteri açısından
+VUK ile ilgili süre bitmiş olsa da TTK açısından saklama yükümü devam
+etmektedir.
+
+* Mükellefin asıl yükümlülüğü *beyanname verme ödevidir*. Türk vergi sistemi
+beyan esasına dayalı bir sistemdir. Bütün bu ödevler zaten verilecek olan
+beyannamenin sıhhatini sağlayabilmek içindir. 
+
+=== DEĞERLEME VE AMORTİSMAN
+
+* *Değerleme*, vergi matrahına esas teşkil eden vergi matrahının tespiti
+sırasında dikkate alınan iktisadi kıymetlerin takdir ve tespit edilmesidir.
+Matrah hesabında dikkate alınacak iktisadi kıymetler bir ticari işletmeye dahil
+olan ne varsa odur: mal, makine, araba, gayrimenkul.
+
+* Değerlemede o iktisadi kıymetin vergi yasalarında gösterilen gündeki
+değerinin tespit edilmesi söz konusudur.
++
+[caption=""]
+.Değerleme ölçütleri
+====
+*VUK 261*: Değerleme, iktisadi kıymetin nevi ve mahiyetine göre, aşağıdaki
+ölçülerden biri ile yapılır:
+
+. Maliyet bedeli;
+. Borsa rayici;
+. Tasarruf değeri;
+. Mukayyet değer;
+. İtibari değer;
+. Vergi değeri;
+. Rayiç bedel,
+. Emsal bedeli ve ücreti.
+====
++
+*Maliyet bedeli*, bir iktisadi kıymetin elde edilmesi veya değerinin
+artırılması için yapılan harcamaların toplamıdır. *Borsa rayici*, borsada işlem
+gören kıymetlerin değeridir. *Kayıtlı değer*, iktisadi kıymetlerin muhasebe
+kaydında yer alan değerdir. *İtibari değer*, her çeşit hisse senedinin üzerinde
+yazılı olan değerdir. *Rayiç bedel*, değerlemenin yapıldığı gündeki normal
+alım-satım bedelidir. *Emsal bedel*, eğer gerçek bedeli tespit edilemiyorsa bu
+durumda değerleme gününde satılması halinde emsallerine nazaran ulaşacağı
+değerdir. Bunlar sıra sıra uygulanır. En sonunda herhangi bir şekilde emsal
+bedel saptanamıyorsa, vergi dairesine başvurulur ve kıymet takdir komisyonu
+aracılığıyla bu iktisadi kıymetin değerlemesi gerçekleştirilir.
+
+* Bir de servete dahil unsurların değerlenmesi konusu vardır. VUK açısından
+düzenlemesi veraset ve intikal vergisidir. Bu vergi servet değerlerinin el
+değiştirmesi halinde muhatap olunan bir vergidir. Miras yoluyla veya herhangi
+ivazsız bir şekilde mal varlığı değerlerinin bir kişiden başkasına intikal
+etmesi durumunda ödenen bir vergidir.
++
+İntikal eden değer her zaman paradan ibaret değildir. Bu nedenle intikal eden
+bu değerin de parasal karşılığının ne olduğu saptanmalıdır. Yükümlü tarafından
+tarafından yapılan değerleme bir ön değerleme olarak kabul edilir. Daha
+sonra vergi idaresi de bir değerlemeye tabi tutar. Eğer matrahlar arasında fark
+çıkarsa, bu matrah farkına göre veraset ve intikal vergisi alınırç Eğer
+matrahlar arasında fark çıkarsa, bu matrah farkına göre veraset ve intikal
+vergisi alınır.
+
+* *Amortisman*, bir işletmede bir yıldan fazla süreyle kullanılan ve
+yıpranmaya, aşınmaya uğrayan, dolayısıyla değer kaybına uğrayan iktisadi
+varlıkların değerleme yöntemleri çerçevesinde tespit edilen değerinin yok
+edilmesidir.
++
+Gayrimenkuller, tesisat ve makineler, gemiler ve diğer taşıt araçları, gayri
+maddi haklar, demirbaş eşya ve sinema filmleri amortismana tabidir.
++
+CAUTION: Eğer değeri sıfırlanmış olan bir iktisadi kıymet satılırsa, satış
+sonrası alınan bedel tekrar matraha konu olur.
++
+.Amortisman usulleri
+****
+. *Normal amortisman*: İktisadi kıymetin değeri her yıl eşit miktarda
+indirilmek suretiyle sıfırlanır. Maliye Bakanlığı hangi iktisadi kıymetler için
+yıllık olarak hangi oranda amortisman yapılacağını belirliyor.
+. *Azalan bakiyeler usulü*: İktisadi kıymetin değerinin daha hızlı azaltılması
+imkanıdır. Normal amortisman oranının iki katı olarak uygulanır.
+. *Fevkalade amortisman*: Yükümlünün başvurusu üzerine uygulanan olağanüstü
+yöntemdir.
+****
+ 
+* Alacaklarda amortisman konusu, bir alacağın değersiz alacak veya şüpheli
+alacak durumuna gelmesiyle ortaya çıkar.
++
+*Değersiz alacak*, bir yargı kararına veya kanaat getirici bir başka vesikaya
+göre tahsiline artık imkan kalmamış olan alacaktır. Bu niteliği kazandığı an
+itibariyle artık tasarruf değerini kaybeder ve zarar geçilmek suretiyle
+matrahtan düşülür.
++
+*Şüpheli alacak*, uyuşmazlık henüz kesinleşmemişse ama uyuşmazlığa konu olmuş
+olan alacaklar için söz konusudur. Dava sonuçlanana kadar bu alacaklar için bir
+karşılık ayrılır. Değersiz alacak niteliği kazandıkları andan itibaren
+matrahtan indirilirler.
+
+=== VERGİ YÜKÜMLÜSÜNÜN DENETLENMESİ
+
+* Yükümlü vergi incelemesi, yoklama, arama ve bilgi toplama yöntemleriyle
+denetlenir. Bunlar arasında en kapsamlı olanı vergi incelemesidir.
+
+* Vergi incelemesi *çapraz inceleme*, *ihbar*, *tesadüfi* veya *risk analiz
+merkezi* uyarıları sonucunda başlayabilir. Risk analiz merkezine uyarı
+gitmesinin sebepleri örnek olarak:
+
+. Mükellefin yıllar itibariyle hep zarar etmesi
+. Mükellefin kasa hesabında yüksek miktarda para olması
+. Kredi kartlarıyla yapılan satışların benzer şirketlerle kıyaslandığında çok
+az ya da çok fazla olması
+. Karlılık oranının sektörün karlılık oranından farklı olması
+. Mal satışları veya çek hesaplarının uyuşmazlığı
+. Devamlı olarak devreden katma değer vergisi
+
+* *Vergi mükellefinin hakları*:
+
+. Vergi incelemesine başlandığında incelemeye yetkili memur kendisinden
+istenmese de kimliğini göstermelidir.
+. İncelenen mükellefe incelenme sebebine dair bilgi verilmesi gerekir.
+İncelemenin çeşitli safhalarında mükellef tarafından istendikçe incelemenin
+gidişatıyla alakalı bilgi verilmesi gerekir.
+. İncelemeye başlandığına dair tutanağın imzalanması gerekir.
+. Kural olarak inceleme mükellefin iş yerinde yapılır. Ancak mükellefin iş yeri
+fiziki olarak elverişli değilse ya da mükellef incelemenin iş yerinde
+yapılmasını istemiyorsa vergi dairesinde de yapılabilir.
+. Defter ve belgelerin incelemeye yetkili kişiye verilmesi de bir mükellef
+hakkıdır.
+. İncelemeyle alakalı hak ve yükümlülüklerini öğrenme hakkı vardır.
+. İşyerinde yapılan incelemelerin resmi çalışma saatlerinin dışına sarkmamasını
+isteme hakkı vardır.
+. İncelemeye başlama ve inceleme sırasında düzenlenen tutanaklardan birer örnek
+alma hakkı vardır. Ayrıca bu tutanakları imzalamaktan kaçınma hakkı da vardır.
+. İtiraz ve görüşlerinin tutanakta yer almasını isteme hakkı vardır.
+. İnceleme sırasında bir meslek mensubu bulundurma hakkı vardır.
+. Vergi mahremiyetine riayet edilmesi isteme hakkı vardır.
+. İncelemenin sona erdiğine dair belgeyi isteme hakkı vardır.
+. Defter ve belgeler idareye verildiyse bunların geri istenmesi hakkı vardır.
+
+* *Vergi incelemesi*, inceleme müfettişinin hiyerarşik üstü tarafından
+kendisine verilen bir talimatla başlar. Bu görevlendirme yazısını alan müfettiş
+yazıyı aldıktan sonra 30 gün içerisinde incelemeye başlamalıdır. Geçerli bir
+mazeret varsa bu süre 15 gün daha uzatılabilir. Fakat bu incelemeye başlama ile
+alakalı bir süredir.
++
+Bir de işe başlama süresi vardır. Vergi incelemesi yapmaya yetkili memur
+görevlendirme yazısı kendisine ulaşmasından itibaren 10 gün içinde işe
+başlamalıdır. Bu 10 günlük süre içerisinde memurun sektör ile ilgili araştırma
+yapması gerekir.
+
+* Mükellefe incelemeye başlanırken düzenlenen tutanakta niye incelemeye
+alındığına dair bilgilerin verilmesi şarttır. İncelemenin konusu, hangi vergiye
+ilişkin olduğu ve hangi dönemde olduğu bildirilmelidir.
+
+* Vergi inceleme memuru incelemeye başladıktan sonra kendisine verilen
+talimatta yer almayan başka eksiklikler olduğunu farkederse hiyerarşik üstünü
+bilgilendirmek zorundadır. Buna göre birtakım belgeler istenebilir.
+
+* İnceleme tam ya da sınırlı inceleme biçiminde gerçekleştirilir. *Tam inceleme*
+bir veya birden fazla vergi için, bir veya birden fazla döneme yönelik tüm iş
+ve işlemlerin denetlenmesidir. *Sınırlı inceleme* ise, tam inceleme olmayan
+diğer bütün incelemeler olarak tanımlanmıştır. Tam inceleme 1 yıl içinde,
+sınırlı inceleme ise 6 ay içinde tamamlanmalıdır.
+
+* Vergi incelemesi tek başına icrai bir işlem değildir, dava konusu yapılamaz.
+Dava konusu yapılabilecek olan incelemelerin sonucundaki tarhiyattır.
+
+* Vergi inceleme memuru çalışmasını tamamlayıp vergi idaresinde rapor
+değerlendirme komisyonuna sunar. Rapor değerlendirme komisyonu çalışmayı
+inceledikten sonra ya uygun bularak tarhiyattın yapılmasını söyler ya da
+eksiklikler farkederek müfettişe eleştiriler yöneltir. Eleştiriye muhatap olan
+vergi memuru eleştiriler doğrultusunda raporunu yeniden düzenleyebilir ya da
+raporunun doğruluğunda diretebilir. Raporun doğruluğunda diretilmesi halinde
+üst rapor değerlendirme komisyonu kurulur. Bu komisyonun verdiği karar
+bağlayıcıdır.
+
+* Vergi inceleme raporları özelgelere uygunluğu itibariyle değerlendirilir.
+Özelge tereddüt edilen noktalarda vergi idaresinden alınan yazılı görüştür.
+Vergi inceleme raporu bütün özelgelere uygun olmalıdır. Bu bakımdan vergi
+incelemesine bağlı yapılan tarhiyatlar için özelgeler aslında bağlayıcı
+kaynaktır.
+
+* *Yoklama*, vergilendirmeyi etkileyen olay ve olgular hakkında vakıa tespiti
+çalışmasıdır. Yoklamadan yola çıkarak vergi matrahını belirlemek mümkün
+değildir. Yoklamada sadece maddi vakıa görülmeye çalışılır.
++
+====
+*VUK 127*: Yoklamadan maksat, mükellefleri ve mükellefiyetle ilgili maddi
+olayları, kayıtları ve mevzuları araştırmak ve tespit etmektir. Yoklamaya
+yetkili memurlar, ayrıca vergi kanunlarının uygulanması ile ilgili olarak:
+
+.. Maliye ve Gümrük Bakanlığınca belirlenmiş usuller dahilinde özel yetki
+verilmiş olmak kaydıyla günlük hasılatı tespit etmek,
+.. 3100 Sayılı Kanun kapsamına girip ödeme kaydedici cihaz kullanmak
+mecburiyetinde olanların bu mecburiyete uyup uymadıklarını, bu cihazları belli
+edilmiş esaslara göre kullanıp kullanmadıklarını ve günlük hasılatı tespit
+etmek,
+.. Günü gününe kayıt yapılması zorunlu defterlerin iş yerlerinde bulundurulup
+bulundurulmadığını, tasdikli olup olmadığını usulüne göre kayıt yapılıp
+yapılmadığını, vergi kanunları uyarınca düzenlenmesi icap eden belgelerin
+usulüne göre düzenlenip düzenlenmediği ile kullanılıp kullanılmadığını,
+faturasız mal bulunup bulunmadığını, levha asma veya kullanma mecburiyetine
+uyulup uyulmadığını tespit etmek, kanuni defter ve belgeler dışında kalan ve
+vergi kaybının bulunduğuna emare teşkil eden defter, belge ve delillerin tespit
+edilmesi halinde bunları almak,
+.. Nakil vasıtalarını, Maliye ve Gümrük Bakanlığının belirliyeceği özel
+işaretle durdurmak ve taşıtta bulundurulması icap eden taşıt pulu, yolcu
+listesi, fatura veya sevk irsaliyesi, yolcu bileti ile taşıma irsaliyelerinin
+muhtevası ile taşınan yolcu ve malların miktar ve mahiyetlerini ölçmek,
+tartmak, saymak suretiyle tespit etmek,
+.. Taşıma irsaliyesi, sevk irsaliyesi ve faturanın taşıtta bulunmaması, halinde
+bu belgelerin ibrazına kadar nakil vasıtalarını trafikten alıkoymak, taşınan
+malın sahibi belli değilse tespitine kadar malı bekletmek ve muhafaza altına
+almak, (Beklemeye ve muhafazaya alınan malların bozulmaya ve çürümeye maruz
+mallar olması halinde derhal, diğer mallar ise üç ay sonra Maliye ve Gümrük
+Bakanlığının belli edeceği esaslar dahilinde tasfiye olunur.)
+
+Yetkisini haizdirler.
+
+Yukarıda sayılan yetkilerin hangilerinin ne şekilde ve hangi hallerde
+kullanılacağını belirlemeye, yoklamaya yetkili olanların bu husustaki görev ve
+yetkilerini sınırlamaya Maliye ve Gümrük Bakanlığı yetkilidir.
+
+Yoklama ve denetimde görevli memurların görevlerini ifa sırasında,
+güvenliklerinin sağlanmasına ilişkin esaslar Bakanlar Kurulunca belirlenir.
+====
++
+Yoklama açısından önemli olan husus, nakil vasıtaların yönelik yoklamadır.
+Şayet, ticaret aracı durdurulup yoklama yapılır ve içinde mallar bulunan
+araçtan fatura ve irsaliye çıkmazsa veya belgeler mallarla uyumlu değilse araç
+seyirden men edilir. İçindeki mallara el konulur ve 3 ay içinde sahibi çıkmazsa
+satılır ve paraya çevrilir. Eğer mallar bozulabilir nitelikte ise cebri icra
+ile hemen satılır.
++
+Yoklama yapısı gereği önceden haber verilmeden, her zaman yapılabilir. Yoklama
+sonucunda bir yoklama fişi düzenlenir. Kendi nezdinde yoklama yürütülen
+mükellefe de imzalatılır ve bir nüshası ona bırakılır.
+
+* Vergi idaresine ulaşan bir ihbar veya yürütülen incelemeler dolayısıyla
+yükümlünün vergi kaçırdığına dair birtakım belirtiler ortaya çıkmışsa, bu
+yükümlü veya vergi kaçakçılığı ile ilgisi bulunan diğer kişiler nezdinde
+yürütülen denetim faaliyetine *arama* denir. Vergi denetim elemanı bizzat
+yükümlünün üzerini de arayabilir. Bu aslında ceza yargılaması hukukuna özgü bir
+koruma yöntemidir. Vergi usul kanunu kendi düzeni açısından bu denetimin nasıl
+yürütüleceğine dair ayrı hükümler koymuştur. Burada düzenlenmemiş herhangi bir
+husus söz konusu olursa, ceza muhakemesinin aramayla alakalı hükümlerine
+başvurulur.
++
+Vergi incelemesi yapmaya yetkili olanlar aynı zamanda arama yapmaya da
+yetkilidir. Aramanın yapılabilmesi için öncelikle arama yapılması yönünde
+gereklilik görülmesi ve bu konuda yetkili sulh hakimine başvuruda bulunulması
+gerekir. Hakimin de gerekçeyi uygun görmesi ve arama yönünde bir karar tahsis
+etmesi, aramanın başlaması için gereklidir.
++
+Arama sırasında bulunan defter ve belgelere el konulur. Bunun için defter ve
+belgelerin ayrıntılı bir biçimde tutanağa bağlanması gerekir. Aramayı her zaman
+inceleme izler. Bu tutanakların bir nüshası yükümlüye verilir. Bu andan
+itibaren defter ve belgelerin sıhatinden vergi dairesi sorumludur.
++
+İnceleme devam ettiği sürece yükümlünün defter ve belgelere istediği zaman
+ulabilmesi gerekir. Defter ve belgelere el konulması halinde beyanname verme
+süresi de kendiliğinden 1 ay uzar. 
++
+Defter ve belgeler üzerindeki incelemenin 3 ay içinde muhakkak tamamlanması
+gerekir. 3 ay içinde bitirilemiyorsa, sulh hakiminden uzatma kararı alınır.
+Aksi takdirde bu süre geçtikten sonra yapılacak tespitler hukuka aykırı
+olacaktır.
++
+Defter ve belgeler üzerinde yürütülen incelemeler sırasında hukuka aykırılığı
+tespit edilen hususlar bir tutanak yoluyla kayıt altına alınır. Mükellef defter
+ve belgelerini ancak bu tutanağı imzalayarak alabilir.
++
+Defter ve belgelere el konulması sebebiyle defter ve belgeleri yapılmamış olan
+kayıtların tamamlanması için yükümlüye 1 aydan az olmamak üzere bir süre
+verilir.
+
+* *Bilgi toplama*, yükümlüler, yükümlülerle işlemde bulunan diğer gerçek ve
+tüzel kişiler ve kamu idare ve müesseselerinden ihtiyaç duyulan konularda bilgi
+istenmesidir.
+
+* Yakın zamanda uygulamaya giren bir diğer denetleme yöntemi de *izaha
+davettir*. Bu yöntemde izahın bizzat yükümlüye yaptırılması söz konusudur.
+Buna ilişkin cevabın hazırlanması demek, yükümlünün kendi nezdinde bir
+inceleme yapmasıdır. Vergi incelemesine konu olacak raporu bizzat kendisinin
+hazırlamasıdır.
++
+Vergi incelemesine başlanmadan veya takdir komisyonuna sevk edilmeden önce
+yükümlü izaha davet edilebilir. Ancak yükümlü hakkında ihbar bulunmamalıdır.
+İzaha davet yazısına karşı 15 gün içinde izahta bulunulması gerekir. Yapılan
+izah vergi idaresini tatmin ederse o yükümlü hakkında vergi incelemesi
+yürütülmez. 
++
+Vergi idaresi izahı yeterli bulmazsa yükümlü izahta bulunma tarihinden itibaren
+15 gün içerisinde izah kapsamında sorulmuş olan vergi ziyaını yaratan matraha
+ilişkin eksik beyanın tamamlayıp, gecikmiş olan vergiyi ferileri ile
+ödeyebilir. Eğer izaha davet kapsamında yükümlü vergiyi ferileri ile
+birlikte öderse, vergi ziyaı cezası %20 oranında alınır. Mükellefin cezayı
+ödemiş olması ileride vergi incelemesi geçirmesine engel değildir.
++
+NOTE: Verginin eksik yapılması durumunda eksik miktar kadar vergi ziyaı cezası
+uygulanır. Vergi kaçakçılığı niteliği taşıyan bir eylemle vergi ziyaına
+sebebiyet verilmişse, vergi ziyaı cezası eksiğin 3 katı oranında alınır.
++
+Ön tespitler sırasında vergi ziyaına sebebiyet verdiği düşünülen eylemler vergi
+kaçakçılığı niteliği taşıyorsa bu durumda izaha davet usulünün uygulanmayacağı
+belirtilmiştir.
+
+=== VERGİ ALACAĞINI KALDIRAN NEDENLER
+
+. *Vergi Usul Kanunu'ndan kaynaklanan nedenler*
+
+.. *_Ödeme_*: Vergi alacağını (borcunu) ortadan kaldıran en doğal yol ödemedir.
+Vergi ve buna bağlı alacaklar kanuna uygun olarak ödenmekle ortadan kalkar. 
++
+Verginin tahsil edilebilmesi için muaccel olması, yani tahakkuk etmesi gerekir.
+Vergi tahakkuk etmekle ödenebilir hale gelse de genellikle ödeme için bir ödeme
+süresi eklenir. Ödeme süresinin son günü verginin vade tarihidir.
++
+*İkmalen, re'sen ve idarece tarh edilen vergiler*; taksit zamanlarından önce
+tahakkuk etmişse, taksit zamanları içinde; taksit süreleri kısmen veya tamamen
+geçtikten sonra tahakkuk etmişse; geçmiş taksitler, *tahakkuk tarihinden
+başlayarak bir ay içinde* ödenir. 
++
+NOTE: Re'sen veya ikmalen tarh edilen vergilere karşı mükellef vergi
+mahkemesine dava açabileceğinden bu vergiler ancak ihbarnamenin tebliğinden
+itibaren 30 günlük dava açma süresinin geçirilmesinden sonra tahakkuk eder.
+Tahakkuk tarihinden itibaren de bir aylık ödeme süresi tanındığına göre, taksit
+süreleri geçtikten sonra tahakkuk eden re'sen veya ikmalen tarh edilen vergiler
+*tebliğ tarihinden itibaren 30 gün + bir ay içinde* ödenmelidir.
++
+*Memleketi terk ve ölüm gibi mükellefiyetin kaldırılması gereken hallerde*;
+-vadeleri daha sonra gelen vergiler de dahil olmak üzere- beyan üzerine tarh
+olunan vergiler beyanname verme süreleri içinde; ikmalen, re'sen veya idarece
+tarh olunan vergiler ise, tahakkuk tarihinden başlayarak bir ay içinde ödenir.
++
+*Vergi mahkemesinde dava açılması dolayısıyla tahsili durdurulan vergilerden
+taksit süreleri geçmiş olanlar*, vergi mahkemesi kararına göre hesaplanan
+vergiye ilişkin ihbarnamenin tebliğinden itibaren bir ay içinde ödenir.
++
+*Uzlaşma konusu yapılan vergi ve cezalarda; uzlaşma gerçekleştiği takdirde*,
+uzlaşma tutanağı vergilerin ödeme zamanlarından önce tebliğ edilmişse, kanuni
+ödeme zamanlarında; ödeme zamanları kısmen veya tamamen geçtikten sonra tebliğ
+edilmişse, ödeme süreleri geçmiş olanlar uzlaşma tutanağının tebliğinden
+itibaren bir ay içinde ödenir.
++
+*Vergi mahkemesinde dava konusu yapılmayan cezalar*; dava açma süresinin
+bittiği tarihten itibaren bir ay içinde ödenir.
++
+Mücbir sebep ve mali tatil hallerinde ödeme süresi kanun hükmü gereğince
+uzamakta, zor durum ve diğer bazı durumlarda ise kanunun verdiği yetkiye
+dayanarak Maliye Bakanlığı'nca uzatılabilmektedir.
++
+Vergi borcunun ödenmemesinin hukuki sonuçlarından birisi, ödenmesi geciken
+alacağa *gecikme zammı* uygulanmasıdır. Gecikme zammı asıl borca bağlı bir
+fer'i borç niteliğindedir. Bu nedenle ölüm halinde cezalar, cezaların
+kişiselliği ilkesi gereğince düşerken, gecikme zammı düşmemektedir.
++
+*Vergi zıyaı cezası ve mahkemeler tarafından verilen ve ceza niteliğinde olan
+kamu alacakları hariç* olmak üzere ceza niteliğindeki kamu alacaklarına gecikme
+zammı uygulanmaz.
++
+*Re'sen, ikmalen veya idarece yapılan tarhiyatlarda* dava konusu yapılmadan
+kesinleşen *vergilere*, kendi vergi kanunlarında belirtilen ve tarhiyatın
+ilgili bulunduğu döneme ilişkin normal vade tarihinden itibaren son yapılan
+tarhiyatın tahakkuk tarihine kadar, dava konusu yapılan vergilerde ise yargı
+organı kararının tebliğ tarihine kadar geçen süreler için gecikme zammı
+oranında *gecikme faizi* uygulanır. Gecikme faizi, re'sen, ikmalen ve idarece
+tarh edilen *vergilerin geç tahakkuk etmesinin yaptırımıdır*.
++
+[frame="topbot",options="header,footer"]
+|===
+| *Gecikme zammı* | *Gecikme faizi*
+| Tahakkuk etmiş ve ödenebilr hale gelmiş, fakat vadesinde ödenmemiş *kamu
+alacaklarına* uygulanır. | İkmalen, re'sen veya idarece yapılan *vergi*
+tarhiyatlarına bağlı gecikmiş tahakkuk hallerinde uygulanır.
+| *Geç tahsilin* yaptırımıdır. | *Geç tahakkukun* yaptırımıdır. 
+|===
++
+*Kamu alacağını vadesinde ödemeyenlere 7 gün içinde* borçlarını ödemeleri veya
+mal bildiriminde bulunmaları gereği *ödeme emri* ile tebliğ olunur. Ödeme
+emrinde, borcun süresinde ödenmediği veya mal bildiriminde bulunulmadığı
+takdirde borcun cebren tahsil edileceği belirtilir. *Cebren tahsil*, vergi
+borçlusu teminat göstermişse teminatın paraya çevrilmesi veya kefile
+başvurulması; borçlunun borcuna yetecek miktardaki mallarının haczedilerek
+paraya çevrilmesi ya da koşulları var ise borçlunun iflası suretiyle
+gerçekleştirilir.
++
+*Fazla veya yersiz olarak tahsil edilen vergiler*, fazla veya yersiz tahsilatın
+mükelleften kaynaklanması halinde düzeltmeye dair müracaat tarihi, diğer
+hallerde verginin tahsil tarihinden düzeltme fişinin mükellefe tebliğ edildiği
+tarihe kadar geçen süre için aynı dönemde kanuna göre belirlenen tecil faizi
+oranında *hesaplanan faiz ile birlikte mükellefe iade edilir*.
+ 
+.. *_Tahakkuk (Tarh) zamanaşımı_*: Vergi hukukunda zamanaşımı, vergi idaresinin
+vergi alacağını tarh etme ve tahsil edebilme yetkisini kaldıran bir nedendir.
+Zamanaşımı, süre geçmesi suretiyle vergi alacağının kalkması olarak
+tanımlanmıştır ve mükellefin bu hususta bir başvurusu olup olmadığına
+bakılmaksızın yani kendiliğinden hüküm ifade eder. 
++
+*Tahakkuk zamanaşımı*, vergiyi doğuran olayın üzerinden kanunda belirtilen
+zamanaşımı süresinin geçmesine rağmen, verginin tarh edilerek mükellefe tebliğ
+edilmemesi halinde olan zamanaşımı türüdür.
++
+*Tahakkuk zamanaşımı süresi, vergiyi doğuran olayın gerçekleştiği takvim yılını
+takip eden yılın başından başlayarak beş yıldır*.
++
+.Vergi cezaları açısından zamanaşımı
+****
+* *Vergi zıyaı cezasında*, cezanın bağlı olduğu vergi alacağının doğduğu takvim
+yılının birinci gününden başlayarak *beş yıl*
+* *Özel usulsüzlük cezalarında*, usulsüzlüğün yapıldığı yılı takip eden yılın
+birinci gününden itibaren *beş yıl*
+* *Genel usulsüzlükte*, usulsüzlüğün yapıldığı yılı takip eden yılın birinci
+gününden itibaren *iki yıl*
+* *Vergi zıyaı ile usulsüzlüğün birleşmesi halinde*, ceza, vergi zıyaı
+cezasının zamanaşımı süresi içinde kesilir.
+****
++
+CAUTION: Tahakkuk zamanaşımı süresinin dolmasından sonra, alacaklı vergi
+dairesinin vergiyi tarh ve tebliğ etme, bir başka deyişle, tahakkuk ettirme
+yetkisi ortadan kalkmış olur. Zamanaşımından sonra, vergi incelemesi yapılamaz,
+mükellefe ihbarname tebliğ edilemez.
++
+Vergi dairesince matrah takdiri için takdir komisyonuna başvurulması
+zamanaşımını durdurur. Duran zamanaşımı, takdir komisyonu kararının vergi
+dairesine tevdiini takip eden günden itibaren kaldığı yerden işlemeye devam
+eder. Ancak işlemeyen süre her halde bir yıldan fazla olamaz.
++
+Tahakkuk zamanaşımını durduran bir başka sebep ise, mücbir sebeplerden herhangi
+birinin varlığıdır. Bu durumda, tahakkuk zamanaşımı işlemeyen süreler kadar
+uzamaktadır.
+
+.. *_Terkin_*: Terkin, bazı koşulların varlığı halinde vergi alacaklısının
+alacağını terk etmesi, alacağından vazgeçmesi olarak tanımlanabilir. Terkin
+sonucunda vergi alacağı bütün hukuki sonuçları ile birlikte ortadan kalkar.
+Terkin sebebi; doğal afetler, tahsil imkansızlığı, alacak miktarının düşüklüğü
+olabilir.
+.. *_Hata düzeltme_*: Vergilendirme sürecinde mükellef ya da vergi idaresinin
+lehine veya aleyhine yapılan hatalı işlemlerin giderilmesi için hata düzeltme
+yoluna gidilebilir. Böylece, hatalı olarak salınmış bir vergi de yargı
+mercilerine başvurulmaksızın, hatayı yapan vergi dairesi tarafından ortadan
+kaldırılabilmektedir.
+.. *_Uzlaşma_*: Uzlaşma, vergi dairesinin ikmalen, re'sen ve idarece tarh
+edilen vergiler ve bunlara ilişkin olarak kesilen vergi zıyaı cezalarının
+tahakkuk edecek miktarları konusunda, mükelleflerle kanunda belirtilen koşullar
+dahilinde anlaşması yoluyla vergi alacağının zam ve cezaları ile birlikte
+kısmen veya tamamen ortadan kalkmasını sağlayan bir vergi hukuku kurumudur.
+
+. *Amme Alacaklarının Tahsil Usulü Hakkında Kanun'dan kaynaklanan nedenler*
+
+.. *_Tahsil zamanaşımı_*: Tahsil zamanaşımı, vadesinin üzerinden kanunda
+belirtilen süre geçmesine rağmen, kamu alacağının tahsil edilmemesi halinde söz
+konusu olan zamanaşımıdır. 
++
+*Kamu alacağı, vadenin rastladığı takvim yılını takip eden yılın başından
+itibaren beş yıl içinde tahsil edilmezse, tahsil zamanaşımına uğrar*.
++
+CAUTION: Tahsil zamanaşımı süresi dolduktan sonra, alacaklı kamu idaresi,
+alacağı tahsil etme yetkisini kaybeder. Bundan sonra artık ödeme emri tebliğ
+edemez, tahsil ve takip işlemleri yapamaz. Yalnızca, borçlunun kendi rızasıyla
+yapacağı ödemeler kabul edilir.
++
+*Tahsil zamanaşımını durduran sebepler*; borçlunun yabancı ülkede bulunması,
+hileli iflas etmesi ve terekenin tasfiyesi dolayısıyla hakkında tatbikat
+yapılmasına imkan bulunmamasıdır. Zamanaşımı, durma sebeplerinin kalktığı günün
+bitmesinden itibaren devam eder.
++
+Aşağıdaki hallerde ise *tahsil zamanaşımı kesilir*; zamanaşımı, kesilmenin
+rastladığı takvim yılını takip eden takvim yılı başından itibaren en baştan
+işlemeye başlar:
+
+... Ödeme
+... Haciz uygulaması
+... Cebren tahsil ve takip işlemleri sonucunda yapılan her türlü tahsilat
+... Ödeme emri tebliği
+... Mal bildirimi, mal edinme ve mal artmalarının bildirilmesi
+... Yukarıdaki işlemlerden herhangi birinin kefile veya yabancı kişi ve
+kurumların temsilcilerine uygulanması veya bunlar tarafından yapılması
+... İhtilaflı kamu alacaklarında, yargı mercilerine bozma kararı verilmesi
+... Kamu alacağının teminata bağlanması
+... Yargı mercilerince yürütmenin durdurulmasına karar verilmesi
+... Kamu alacağının özel kanunlara göre ödenmesi için başvuru yapılması veya
+alacağın ödeme planına bağlanması
+
+.. *_Terkin_*: VUK'taki düzenlemeye paraleldir.
+.. *_Takas_*: Takastan söz edebilmek için, mükellefin aslında ödemek zorunda
+olmadığı halde ödemiş olduğu ve iadesi gereken bir kamu alacağının ve muaccel
+olmuş bir kamu borcunun varlığı gerekir.
+
+. *Diğer nedenler*
+
+.. *_Yargı kararları_*: Mükellefler ve kendilerine vergi cezası kesilenler,
+tarh edilen vergilere ve kesilen cezalara karşı vergi mahkemesinde dava
+açabilirler. Tahakkuk ettirilmiş bir vergi borcunun tamamen ya da kısmen
+iptaline ilişkin bir yargı kararı, ilgili vergi dairesinin, o borcun tarh
+işlemini kaldırmasını gerektirir. 
+.. *_Af_*: Af, devletin tek taraflı iradesiyle kamu alacağından vazgeçmesidir.
+Bir kanunla konulan verginin, vergiyi doğuran olayın meydana gelmesinden sonra
+yürürlüğe giren bir başka kanunla kaldırılması yoluyla kısmen veya tamamen
+kaldırılmasıdır. Vergilendirilmemiş kazancın belli bir miktarının ödenmesi
+ve/veya dava konusu yapılmaması halinde incelemeden muaf olunacağına ilişkin
+aflar gibi şartlı aflar da söz konusu olabilmektedir.
+
+[options="header"]
+|===
+| VUK'TAN KAYNAKLANAN NEDENLER | AATUHK'TAN KAYNAKLANAN NEDENLER | DİĞER
+NEDENLER 
+
+a| 
+. Ödeme
+. Tahakkuk zamanaşımı
+. Terkin
+. Hata düzeltme
+. Uzlaşma
+
+a| 
+. Tahsil zamanaşımı
+. Terkin
+. Takas
+
+a| 
+. Yargı kararları
+. Af
+|===
+
+=== VERGİ SUÇ VE CEZALARI
+
+* *Vergisel kabahatlerin* tespiti vergi idaresi tarafından yapılmakta,
+yaptırımları da yine vergi idaresi tarafından uygulanmaktadır. Vergi cezalarını
+gerektiren olaylar vergi daireleri veya yoklama ve vergi incelemesine yetkili
+olan görevliler tarafından tespit olunur. Vergi cezalarını kesme yetkisi ise,
+olayların ilgili bulunduğu vergi bakımından mükellefin bağlı olduğu vergi
+dairesinindir. Yani, idari ya da mali nitelikli aykırılıklarda/vergisel
+kabahatlerde hiçbir yargısal karara gerek olmadan vergi dairesince ceza
+verilmektedir. Kesilen vergi cezası bir ihbarname ile ilgiliye tebliğ olunur.
+Cezayı gerektiren olayın saptanmasına ilişkin tutanak ile inceleme raporunun
+bir sureti de ihbarnameye eklenir. Bu grupta yer alan kabahatler, vergi zıyaı,
+usulsüzlük ve özel usulsüzlüktür.
+
+. *Vergi zıyaı*, mükellefin veya vergi sorumlusunun vergilendirme ile ilgili
+ödevlerini zamanında yerine getirmemesi veya eksik yerine getirmesi yüzünden
+verginin zamanında tahakkuk ettirilmemesi veya eksik tahakkuk ettirilmesidir.
++
+NOTE: Kişisel ve medeni haller veya aile durumu hakkında gerçeğe aykırı
+beyanlar ile veya başka şekillerde verginin noksan tahakkuk ettirilmesine veya
+haksız yere geri verilmesine sebebiyet verilmesi de vergi zıyaı hükmündedir. 
++
+Verginin sonrada tahakkuk ettirilmesi veya tamamlanması ya da haksız iadenin
+geri alınması ceza uygulanmasına engel olmaz.
++
+TIP: Veraset ve intikal vergisi bakımından verginin beyanı için ek süre
+tanınmaktadır. Buna göre, tahakkuk işleminin yapılması için beyanname verme
+süresinin sonundan başlayarak 15 gün beklenir. Beyanname bu süre içinde
+verilirse vergi zıyaı olmamış sayılır. Bundan sonra, mükellefe tebliğ edilmek
+suretiyle yeniden 15 günlük bir süre verilir. Beyanname bu süre içinde
+verilirse yine vergi zıyaı olmamış sayılır.
++
+Vergi zıyaına neden olan mükellef veya sorumluya, ziyaa uğratılan verginin bir
+katı tutarında yani verginin kendisi kadar ceza kesilir. Vergi zıyaına VUK
+359'da yer alan kaçakçılık fiilleriyle sebep olunması halinde bu ceza üç kat
+olarak uygulanır.
+
+. *Genel usulsüzlük*, vergi kanunlarının şekle ve usule ilişkin hükümlerine
+uyulmaması olarak tanımlanmıştır. Genel usulsüzlükler kendi içinde fiillerin
+ağırlığına göre *_birinci derece usulsüzlükler_* ve *_ikinci derece
+usulsüzlükler_* olarak iki gruba ayrılır. Genel usulsüzlüklerin cezaları, VUK'a
+bağlı cetvelde, mükellef grupları itibariyle sınıflandırılarak belirtilmiştir.
+*Usulsüzlük fiili re'sen takdiri gerektirirse, bağlı cetvelde yazılı cezalar
+iki kat olarak kesilir*.
+
+.. *_Birinci derece usulsüzlükler_*
+
+... Vergi ve harç beyannamelerinin süresinde verilmemiş olması
+... VUK'a göre tutulması zorunlu olan defterlerden herhangi birinin tutulmamış
+olması
+... Defter kayıtlarının ve bunlarla ilgili belgelerin, doğru bir vergi
+incelemesi yapılmasına imkan vermeyecek derecede eksik, usulsüz ve karışık
+olması
+... İşe başlamanın zamanında (işe başlamada itibaren 10 gün içinde)
+bildirilmemesi
+... Tasdiki zorunlu olan defterlerden herhangi birinin tasdik işleminin
+yaptırılmamış olması (Kanuni sürenin sonundan başlayarak bir ay geçtikten sonra
+tasdik ettirilen defterler, tasdik ettirilmemiş sayılır).
+... Veraset ve intikal vergisi beyannamesinin 15 günlük ikinci ek süre içinde
+verilmiş olması
+
+.. *_İkinci derece usulsüzlükler_*
+
+... Veraset ve intikal vergisi beyannamesinin 15 günlük birinci ek süre içinde
+verilmiş olması
+... Ekim ve sayım beyanlarının süresi içinde veya kanunda istenilen bilgileri
+ihtiva edecek şekilde yapılmamış olması
+... Yazılı bildirimlerin zamanında yapılmamış olması (işe başlama bildirimi
+hariç)
+... Tasdiki zorunlu defterlerden herhangi birinin tasdik işleminin, süresinin
+sonundan başlayarak bir ay içinde yaptırılmış olması
+... Vergi beyannameleri, bildirimler, belgelerin kanunen belirli şekil ve
+içeriği ve ekleri ile bunlarla ilgili olarak yapılan düzenlemelere uyulmamış
+olması
+... Hesap ve işlemlerin doğruluk ve açıklığını bozmamak şartıyla bazı
+belgelerin bulunmaması veya ibraz edilmemesi
+
+. *Özel usulsüzlükler*, genel usulsüzlüklere kıyasla daha ağır para cezalarıyla
+cezalandırılan usuli ve şekli aykırılıklardır.
+
+.. *_Fatura ve benzeri belgelerin verilmemesi ve alınmaması ile diğer şekil ve
+usul hükümlerine uyulmaması_*
+
+*** Verilmesi ve alınması gerekli fatura, gider pusulası vb. evrakın
+verilmemesi, alınmaması, gerçeğe aykırı düzenlenmesi
+*** Sayılan bazı belge ve defterlerin işyerinde bulundurulmaması
+*** Defter kayıtlarının düzenli yapılmaması veya istendiğinde yoklama ve
+incelemeye yetkili olanlara ibraz edilmemesi
+*** Vergi levhası bulundurulmaması
+*** Maliye Bakanlığı'nın özel işaretli görevlisinin ikazına rağmen durulmaması
+(Bu durumda ceza, aracı fiilen kullanana değil, aracın sahibine kesilir.)
+
+.. *_Bilgi vermekten çekinme ve VUK'un muhafaza ve ibraz ödevlerine aykırı
+hareket edilmesi_*
++
+VUK'un bilgi verme zorunluluğu ile ilgili hükümlerine uymayanlar hakkında,
+bulunduğu mükellef grubuna göre kanunda belirtilen özel Usulsüzlük cezaları
+uygulanmaktadır.
+.. *_Damga Vergisine ilişkin bazı yükümlülüklerin yerine getirilmemesi_*
+
+* *Ceza hukuku anlamında vergi suçları ve cezaları*
+
+. *_Vergi kaçakçılığı suçları_*
+
+.. *Vergi kanunlarına göre tutulan defter ve kayıtlarda hesap ve muhasabe
+hilesi yapma suçu*
+.. *Gerçek olmayan veya kayda konu işlemlerle ilgisi olmayan kişiler adına
+hesap açılması suçu*
+.. *Çift defter tutma suçu*: *_Defterlere kaydı gereken hesap ve işlemlerin
+vergi matrahının azalması sonucunu doğuracak şekilde tamamen veya kısmen başka
+defter, belge veya diğer kayıt ortamlarına kayıt etme suçu_*
+.. *Defter, kayıt ve belgeleri tahrif etme suçu*
+.. *Defter, kayıt ve belgeleri gizleme suçu*
+.. *Sahte belge düzenleme suçu*
+.. *Sahte belge kullanma suçu*
+. *_Vergi mahremiyetinin ihlali suçu_*
+. *_Memurların mükellefin özel işini yapma suçu_*
+
+[options="header"]
+|===
+| CEZAYI ORTADAN KALDIRAN HALLER | CEZA KESİLMEYEN (KUSURLULUĞUN KALKTIĞI)
+HALLER
+a|
+. Ödeme
+. Ölüm
+. Düzeltme
+. Uzlaşma
+. Vergi zıyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
+. Tahsil zamanaşımı
+. Terkin
+. Yargı kararları
+. Vergi afları
+
+a|
+. Yanılma
+. Mücbir sebepler
+. Pişmanlık ve ıslah
+. Ceza kesmede zamanaşımı
+|===
+
+* *Küçükler ve kısıtlılar*, kanuni temsilcilerinin vergi kanunlarına aykırı
+hareketlerinden dolayı cezaya muhatap tutulmazlar. Bu hallerde cezanın muhatabı
+kanuni temsilci olan veli, vasi ya da kayyımdır.
+
+* *Tüzel kişilerin* idare ve tasfiyesinde vergi kanunlarına aykırı
+hareketlerden doğacak vergi cezaları tüzel kişiler adına kesilir. Ancak
+cezaların tüzel kişiden tahsil edilememesi halinde, vergi cezaları, ödevlerini
+yerine getirememiş olması nedeniyle cezaların tüzel kişiden tahsil edilemediği
+kanuni temsilciden aranır.
