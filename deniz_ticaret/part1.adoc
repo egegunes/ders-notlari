@@ -1,0 +1,22 @@
+== GEMİ
+
+Tahsis edildiği amaç suda hareket etmesini gerektiren, yüzme özelliği bulunan
+ve pek küçük olmayan her araç, kendiliğinden hareket etmesi imkânı bulunmasa
+da, TTK bakımından *gemi* sayılır (TTK 931).
+
+Geminin unsurları:
+
+. _Pek küçük olmamak_: Her somut olayda denizcilik sektöründe egemen olan
+anlayışa göre belirlenir.
+. _Suda hareketi gerektiren bir amaca tahsis edilmiş olması_
+. _Yüzme özelliğinin bulunması_
+
+NOTE: Bir yerden bir yere bir başka gemi tarfından çekilerek götürülüyor olması
+tek başına gemi olma özelliğini etkilemez.
+
+Yukarıdaki unsurların başlangıçta mevcut olup, geçici olarak ortadan kalkması
+aracın gemi olma niteliğini etkilemez. Aşağıdaki durumlarda ise gemi, gemi olma
+özelliğini kaybeder:
+
+. *Kurtarılamayacak şekilde batmış gemi*
+. *Tamir kabul etmez gemi*
