@@ -1,0 +1,143 @@
+== Türk Miras Hukuku Sisteminin Özellikleri
+
+* *Külli* geçişi benimsemiştir.
+* Her ölen kişinin bir _halefi_ vardır. En son halde halef olarak devlet işaret
+edilmiştir.
+* Açık ya da zımni herhangi bir kabul iradesinin yöneltilmesi ya da herhangi
+bir işlemin yapılması söz konusu olmayı _kural olarak_ miras kendiliğinden
+intikal eder.
+* Mirasın intikali ile birlikte mirasçılar arasında elbirliği ile mülkiyet
+doğar.
+* Mirasçıların miras bırakanın borçlarından şahsi ve müteselsil olarak
+sorumluluğu vardır.
+* Belli şahıslar için kanuni mirasçı sıfatı tanınmakta, ancak bunun yanın miras
+bırakanın iradesine de belli bir oranda yer vermektedir.
+
+== Miras Hukuku Kavramları
+
+* *Ölüm*: Kişiliğin, buna bağlı olarak da hak ve borç sahibi olma yeteneğinin
+sona ermesidir. Ölüm mirasın açılma ve geçme anı olarak belirlenmiştir.
+* *Miras bırakan*: Eski kanunda *muris* olarak geçmektedir.
+* *Mirasçı*: Mirasa *külli* olarak sahip olan kişidir. İki tip mirasçı
+olabilir:
+
+. Yasal mirasçı
+. İradi (atanmış/nasbedilmiş) mirasçı
+
++
+Yasal mirasçı sıfatına sahip olmak için herhangi bir irade bildirimine gerek
+yoktur. Ancak atanmış mirasçı murisin belirlediği mirasçıdır. Dolayısıyla
+sıfatın kazanılması için bir irade bildirimine ihtiyaç duyar. İrade bildirimi
+miras hukukunda sadece ve sadece *ölüme bağlı tasarruf* yoluyla olur.
+* *Vasiyet alacaklısı (musaleh)*: Muris belirli bir malını ölüme bağlı tasarruf
+yoluyla bir kimseye bırakmış olabilir. Bu kişi külli halef olanlara karşı bir
+alacak hakkına haiz kılınmış olur ve vasiyet alacaklısı denilir.
++
+CAUTION: Vasiyet alacaklısı mirasçı değildir! Mirasçılık ancak külli halefiyet
+durumunda olur.
+* *Tereke*: Ölenin mal, hak ve alacaklarının toplamını ifade eder. Terekede
+sadece malvarlığı hakları bulunur. Keza malvarlığı hakkı olmasına rağmen
+şahısla kaim olan haklar (intifa ve oturma hakkı) ölümle sona erer ve terekede
+yer almaz.
+* *Saklı (mahfuz) pay*: Kanunun sayma yöntemiyle belirlediği kanuni mirasçıların
+terekeden almaları gereken payı ifade eder. Muris bu saklı payda tasarruf
+yetkisine sahip değildir. Tasarruf ettiği takdirde sonradan iptale konu
+olacaktır.
+* *Ölüme bağlı tasarruf*: Miras hukukunda ölüme bağlı tasarruf ifadesi iki
+anlamda hüküm ifade etmektedir:
+
+. _Şekli anlamda ölüme bağlı tasarruf_
+
+.. Vasiyetname
+.. Miras sözleşmesi
+
+. _Maddi anlamda ölüme bağlı tasarruf_: Şekli anlamda ölüme bağlı tasarruf ile
+düzenlenen şeyler maddi anlamda ölüme bağlı tasarrufun konusudur.
+
+== YASAL MİRASÇILAR
+
+Türk miras hukuku sisteminde yasal mirasçıların belirlenmesi için *zümre esası*
+uygulanmaktadır. Bu esasa göre belli zümreler yaratılarak ilk zümrede yer alanlar
+mirasçı olarak belirlenir. İlk zümrede mirasçı olarak atanabilecek kimse yoksa
+ikinci zümre mirasçı olur. İlk zümrenin mirasçılığı ikinci zümreye engel
+olacaktır.
+
+Zümrede yer alan herkes kendi zümresi açısından *zümre başı* sıfatını haiz
+olacaktır. Zümre başı öldüğü takdirde halefiyet yine zümre içinde geçerli
+olacaktır. Zümre başının halefi kendi altsoyudur. Zümre başının altsoyu mirasçı
+sıfatını kazanmaz sadece zümre başının miras payını alır. Buna *kök içinde
+halefiyet* denilmektedir.
+
+=== 1. zümre: Altsoy
+
+Mirasbırakanın birinci derece mirasçıları, onun altsoyudur. Çocuklar eşit
+olarak mirasçıdırlar.
+
+Mirasbırakandan önce ölmüş olan çocukların yerini, her derecede halefiyet
+yoluyla kendi altsoyları alır.
+
+==== Evlilik dışı hısımlar
+
+IMPORTANT: Mirasçılık için hukuki olarak soybağının varlığı şarttır.
+
+Evlilik dışında doğmuş ve soybağı, tanıma veya hâkim hükmüyle kurulmuş olanlar,
+baba yönünden evlilik içi hısımlar gibi mirasçı olurlar.
+
+==== Evlatlık
+
+Evlâtlık ve altsoyu, evlât edinene kan hısımı gibi mirasçı olurlar. Evlâtlığın
+kendi ailesindeki mirasçılığı da devam eder.
+
+Evlât edinen ve hısımları, evlâtlığa mirasçı olmazlar.
+
+CAUTION: Sadece ve sadece evlatlık ilişkisi kurulanlar arasında mirasçılık söz
+konusu olur.
+
+=== 2. zümre: Ana ve baba
+
+Altsoyu bulunmayan mirasbırakanın mirasçıları, ana ve babasıdır. Bunlar eşit
+olarak mirasçıdırlar.
+
+Mirasbırakandan önce ölmüş olan ana ve babanın yerlerini, her derecede
+halefiyet yoluyla kendi altsoyları alır.
+
+TIP: Anne ve babanın çocuğundan olan miras payı, kendi şahsına ait bir pay
+olduğu için kişinin başka evliliğinden olan çocuklarının da o mirasta hak
+sahibi olması mümkün olacaktır. Yani *kardeşlerin miras payı alması için aynı
+evlilikten doğmuş olması şart değildir.*
+
+Bir tarafta hiç mirasçı bulunmadığı takdirde, bütün miras diğer taraftaki
+mirasçılara kalır.
+
+=== 3. zümre: Büyük anne ve büyük baba
+
+Altsoyu, ana ve babası ve onların altsoyu bulunmayan mirasbırakanın
+mirasçıları, büyük ana ve büyük babalarıdır. Bunlar, eşit olarak mirasçıdırlar.
+
+Mirasbırakandan önce ölmüş olan büyük ana ve büyük babaların yerlerini, her
+derecede halefiyet yoluyla kendi altsoyları alır.
+
+Ana veya baba tarafından olan büyük ana ve büyük babalardan biri altsoyu
+bulunmaksızın mirasbırakandan önce ölmüşse, ona düşen pay aynı taraftaki
+mirasçılara kalır.
+
+Ana veya baba tarafından olan büyük ana ve büyük babaların ikisi de altsoyları
+bulunmaksızın mirasbırakandan önce ölmüşlerse, bütün miras diğer taraftaki
+mirasçılara kalır.
+
+Sağ kalan eş varsa, büyük ana ve büyük babalardan birinin mirasbırakandan önce
+ölmüş olması hâlinde, payı kendi çocuğuna; çocuğu yoksa o taraftaki büyük ana
+ve büyük babaya; bir taraftaki büyük ana ve büyük babanın her ikisinin de ölmüş
+olmaları hâlinde onların payları diğer tarafa geçer.
+
+=== Sağ kalan eş
+
+Sağ kalan eş, birlikte bulunduğu zümreye göre mirasbırakana aşağıdaki oranlarda
+mirasçı olur:
+
+. Mirasbırakanın altsoyu ile birlikte mirasçı olursa, mirasın dörtte biri,
+. Mirasbırakanın ana ve baba zümresi ile birlikte mirasçı olursa, mirasın yarısı,
+. Mirasbırakanın büyük ana ve büyük babaları ve onların çocukları ile birlikte
+mirasçı olursa, mirasın dörtte üçü,
+
+bunlar da yoksa mirasın tamamı eşe kalır.
