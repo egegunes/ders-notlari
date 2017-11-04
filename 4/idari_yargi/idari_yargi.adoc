@@ -1,0 +1,40 @@
+== İDARİ DAVA
+
+İdari dava türleri şunlardır:
+
+.. İdarî işlemler hakkında yetki, şekil, sebep, konu ve maksat yönlerinden biri
+ile hukuka aykırı olduklarından dolayı iptalleri için menfaatleri ihlâl
+edilenler tarafından açılan *iptal davaları*,
++
+İptal davası idari muameleleri hukuk aleminden kaldırmanın aracıdır.
+.. İdari eylem ve işlemlerden dolayı kişisel hakları doğrudan muhtel olanlar
+tarafından açılan *tam yargı davaları*,
++
+TIP: Tam yargı davasının konusu maddi alemde ortaya çıkan bir zararın tazmini
+veya iptal davası dışında kalan her türlü taleptir.
+.. Tahkim yolu öngörülen imtiyaz şartlaşma ve sözleşmelerinden doğan
+uyuşmazlıklar hariç, kamu hizmetlerinden birinin yürütülmesi için yapılan her
+türlü idari sözleşmelerden dolayı taraflar arasında çıkan uyuşmazlıklara
+ilişkin davalar.
++
+TIP: Bir görüşe göre burada sözleşme davasından söz edilmektedir. Diğer bir
+görüşe göre ise burada üçüncü bir dava türü değil idari sözleşmelerden ötürü
+hem iptal davası hem de tam yargı davası açılabileceği işaret edilmektedir.
+
+CAUTION: *İdari işlem* ve *idari sözleşmeye* karşı iptal davası veya tam yargı
+davası açılabilir. *İdari eyleme* karşı ise ancak tam yargı davası açılabilir.
+
+== İDARİ İŞLEM, İDARİ EYLEM, İDARİ SÖZLEŞME
+
+*İdari işlem*, idarenin yaptığı tek taraflı hukuki işlemdir. Yürütülebilmesi için
+karşı tarafın rızasına ihtiyaç yoktur. İdari işlemin dava konusu edilebilmesi
+için _kesin_ ve _yürütülebilir_ nitelikte olması gerekir.
+
+*İdari eylem*, idarenin bir şeyi yapması veya yapmaması sonucunda ortaya çıkan
+maddi olaydır. İdari eylem sayılabilmesi için kökeninde bir işlem bulunmaması
+gerekir.
+
+*İdari sözleşme*, idareye sözleşmede tek taraflı olarak değişiklik yetkisi
+veren sözleşmelerdir. İdari sözleşmenin konusu bir kamu faaliyetinin görülmesi
+veya bir kamu malının işletilmesidir.
+
