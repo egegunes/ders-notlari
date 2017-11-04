@@ -1,0 +1,111 @@
+== İŞÇİ ve İŞVEREN
+
+Bir iş sözleşmesine dayanarak çalışan gerçek kişiye *işçi*, işçi çalıştıran
+gerçek veya tüzel kişiye yahut tüzel kişiliği olmayan kurum ve kuruluşlara
+*işveren*, işçi ile işveren arasında kurulan ilişkiye *iş ilişkisi* denir.
+
+== İŞVEREN VEKİLİ
+
+İşveren adına hareket eden ve işin, işyerinin ve işletmenin yönetiminde görev
+alan kimselere *işveren vekili* denir. İşveren vekilinin bu sıfatla işçilere
+karşı işlem ve yükümlülüklerinden doğrudan işveren sorumludur.
+
+Bu Kanunda işveren için öngörülen her çeşit sorumluluk ve zorunluluklar işveren
+vekilleri hakkında da uygulanır. İşveren vekilliği sıfatı, işçilere tanınan hak
+ve yükümlülükleri ortadan kaldırmaz.
+
+== ALT İŞVEREN
+
+Bir işverenden, işyerin de yürüttüğü mal veya hizmet üretimine ilişkin yardımcı
+işlerinde veya asıl işin bir bölümünde işletmenin ve işin gereği ile teknolojik
+nedenlerle uzmanlık gerektiren işlerde iş alan ve bu iş için görevlendirdiği
+işçilerini sadece bu işyerinde aldığı işte çalıştıran diğer işveren ile iş
+aldığı işveren arasında kurulan ilişkiye asıl işveren-alt işveren ilişkisi
+denir.
+
+IMPORTANT: Asıl işveren-alt işveren ilişkisi alt işveren işçisiyle asıl işveren
+arasında iş ilişkisi doğurmaz.
+
+NOTE: Asıl işveren-alt işveren ilişkisi kurulduğunda işyerinde iki tane işveren
+vardır. İki ayrı işverenin hukuki olarak iki ayrı işyeri olduğu kabul edilir ve
+iki işyerinin ayrı ayrı bildirilmesi gerekir.
+
+*Asıl işveren-alt işveren ilişkisinin özellikleri*:
+
+. İşyerinde işçi çalıştıran bir asıl işverenin varlığı gereklidir. Bütün işi
+alt işverenin işçileri görüyor ise asıl işveren-alt işveren ilişkisi yoktur.
+. İşin asıl işverene ait işyerinde görülmesi gerekir.
+. İşin işyerinde yürütülen mal ve hizmet üretimine ilişkin olması gerekir.
++
+Kanuna göre asıl işe yardımcı olan yan işler hiçbir sınırlama olmadan alt
+işverenin işçilerine gördürülebilir. Ancak asıl işverenin yürüttüğü asıl işin
+ancak bir kısmı alt işverenenin işçilerine gördürülebilir.
+. Alt işverenin bu işe mahsus oluşturduğu işçi grubunun sürekli olması gerekir.
+. Asıl işveren-alt işveren sözleşmesinin *yazılı* şekilde yapılması gerekir.
+
+Bu ilişkide asıl işveren, alt işverenin işçilerine karşı o işyeri ile ilgili
+olarak bu Kanundan, iş sözleşmesinden veya alt işverenin taraf ol duğu toplu iş
+sözleşmesinden doğan yükümlülüklerinden alt işveren ile birlikte sorumludur.
+
+TIP: Çoğu zaman asıl işverenle alt işveren, asıl işverenin alt işverenin
+işçilerinin alacaklarından sorumlu olmayacağına dair anlaşırlar. *İşçi
+sözleşmede böyle bir hüküm olsa dahi alacaklarını asıl işverenden talep
+edebilir.* Ancak taraflar arasındaki bu anlaşma rücuda önem taşır.
+
+Asıl işverenin işçilerinin alt işveren tarafından işe alınarak çalıştırılmaya
+devam ettirilmesi suretiyle hakları kısıtlanamaz veya daha önce o işyerinde
+çalıştırılan kimse ile alt işveren ilişkisi kurulamaz. Aksi halde ve genel
+olarak asıl işveren alt işveren ilişkisinin muvazaalı işleme dayandığı kabul
+edilerek alt işverenin işçileri başlangıçtan itibaren asıl işverenin işçisi
+sayılarak işlem görürler. İşletmenin ve işin gereği ile teknolojik nedenlerle
+uzmanlık gerektiren işler dışında asıl iş bölünerek alt işverenlere verilemez.
+
+== İŞYERİ
+
+İşveren tarafından mal veya hizmet üretmek amacıyla maddî olan ve olmayan
+unsurlar ile işçinin birlikte örgütlendiği birime işyeri denir.
+
+İşverenin işyerinde ürettiği mal veya hizmet ile nitelik yönünden bağlılığı
+bulunan ve aynı yönetim altında örgütlenen yerler (işyerine bağlı yerler) ile
+dinlenme, çocuk emzirme, yemek, uyku, yıkanma, muayene ve bakım, beden ve
+meslekî eğitim ve avlu gibi diğer eklentiler ve araçlar da işyerinden sayılır.
+
+İşyeri, işyerine bağlı yerler, eklentiler ve araçlar ile oluşturulan iş
+organizasyonu kapsamında bir bütündür.
+
+== İŞYERİNİN DEVRİ
+
+İşyeri veya işyerinin bir bölümü hukukî bir işleme dayalı olarak başka birine
+devredildiğinde, devir tarihinde işyerinde veya bir bölümünde mevcut olan iş
+sözleşmeleri bütün hak ve borçları ile birlikte devralana geçer.
+
+Devralan işveren, işçinin hizmet süresinin esas alındığı haklarda, işçinin
+devreden işveren yanında işe başladığı tarihe göre işlem yapmakla yükümlüdür.
+
+Yukarıdaki hükümlere göre devir halinde, devirden önce doğmuş olan ve devir
+tarihinde ödenmesi gereken borçlardan devreden ve devralan işveren birlikte
+sorumludurlar. Ancak bu yükümlülüklerden devreden işverenin sorumluluğu devir
+tarihinden itibaren iki yıl ile sınırlıdır
+
+NOTE: Kıdem tazminatı alacağı devirden sonra doğan bir alacaktır ancak buna
+rağmen devreden bu alacaktan sorumludur ve burada bir süre sınırı yoktur. Zira
+1457 sayılı mülga İş Kanununun yürürlükte olan 14. maddesi özel bir
+düzenlemedir.
+
+Tüzel kişiliğin birleşme veya katılma ya da türünün değişmesiyle sona erme
+halinde birlikte sorumluluk hükümleri uygulanmaz.
+
+Devreden veya devralan işveren iş sözleşmesini sırf işyerinin veya işyerinin
+bir bölümünün devrinden dolayı feshedemez ve devir işçi yönünden fesih için
+haklı sebep oluşturm az. Devreden veya devralan işverenin ekonomik ve
+teknolojik sebeplerin yahut iş organizasyonu değişikliğinin gerekli kıldığı
+fesih hakları veya işçi ve işverenlerin haklı sebeplerden derhal fesih hakları
+saklıdır.
+
+Yukarıdaki hükümler, iflas dolayısıyla malvarlığının tasfiyesi sonucu işyerinin
+veya bir bölümünün başkasına devri halinde uygulanmaz.
+
+NOTE: Asıl işveren-alt işveren ilişkisi hukuka uygun şekilde kurulmuşsa alt
+işveren değişmesine rağmen alt işverenin işçileri çalışmalarına asıl işverenin
+işyerinde aynen devam ettiği durumlarda Yargıtay kıyas yoluyla işyerinin devri
+hükümlerinin uygulanmasını kabul ediyor.
