@@ -1,3 +1,5 @@
+:toc:
+
 == GEMİ
 
 Tahsis edildiği amaç suda hareket etmesini gerektiren, yüzme özelliği bulunan
@@ -76,7 +78,6 @@ yardımcı gemilere,
 maddeleri, kanuni ipotekle ilgili 1013 üncü maddesi ve yapı hâlinde bulunan
 gemiler üzerindeki haklarla ilgili 1054 ilâ 1058 inci maddeleri yabancı bir
 devlet veya onun vatandaşları adına Türkiye’de yapılmakta olan gemilere de,
-
 nitelikleri ile bağdaştığı ölçüde, uygulanır.
 
 === GEMİNİN HUKUKİ NİTELİĞİ
@@ -84,3 +85,405 @@ nitelikleri ile bağdaştığı ölçüde, uygulanır.
 Sicile kayıtlı olup olmadıklarına bakılmaksızın bütün gemiler TTK'nın ve diğer
 kanunların uygulanmasında taşınır eşyadandır (TTK 936).
 
+TTK'da, İcra ve İflas Kanununun taşınmazlara ilişkin hükümlerine tabi
+olacağı açıkça bildirilen gemiler hakkında 936 ncı madde hükmü uygulanmaz.
+
+Türk Medenî Kanununun 429 uncu maddesinin birinci fıkrasının (2) numaralı bendi
+ile 444 üncü, 523 üncü ve 635 inci maddelerinin uygulanmasında, “taşınmaz”
+terimine yapı hâlinde veya tamamlanmış olan bütün gemiler ve “tapu sicili”
+terimine “gemi sicilleri” de dâhildir.
+
+=== GEMİNİN AYIRICI UNSURLARI
+
+. *Geminin adı*: Geminin ilk Türk maliki, gemiye dilediği adı vermekte
+serbesttir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde
+başka gemilerin adlarından farklı olmalıdır.
++
+CAUTION: Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma,
+Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
++
+Sicile kayıtlı bir geminin bordasının her iki tarafına adı, kıçına da adı ile
+bağlama limanı; silinmez, bozulmaz ve kolayca okunacak harflerle yazılır.
+. *Tanınma işareti*: Ulaştırma, Denizcilik ve Haberleşme Bakanlığı tarafından
+Gemi Sicil Müdürlüklerine gönderilen telsiz tanınma işareti tescil sırasına
+göre gemilere dağıtılır.
+. *Bağlama limanı*: Bir geminin bağlama limanı o gemiye ait seferlerin
+yönetildiği yerdir.
++
+Gemi, bağlama limanının tabi olduğu sicil dairesine tescil edilir. Bağlama
+limanı yoksa tescil edilecek sicil dairesi iradi olarak seçilebilir. Tescil
+edilen sicil dairesi bağlama limanı haline gelir.
++
+Bağlama limanı aşağıdaki hallerde yoktur:
+
+.. Gemi seferlerinin yabancı bir limandan yönetilmesi
+.. Gemi seferlerinin bir kara kentinden yönetilmesi
+.. Gemi seferlerinin gemi bordasından yönetilmesi
+
++
+[caption=""]
+.Bağlama limanının önem taşıdığı diğer haller
+====
+* Kaptanın donatanı temsil yetkisi geminin bağlama limanında bulunup
+bulunmamasına göre daralır veya genişler.
+* Donatana karşı veya donatan sıfatıyla açılacak davalar genel yetki kuralları
+haricinde bağlama limanının bulunduğu mahkemede de açılabilir.
+====
+. *Geminin tonajı*: Gemilerin ölçümü 1969 tarihli _Gemilerin Tonilatolarını
+Ölçme Uluslarası Antlaşması_ uyarınca iç hukukumuzda çıkarılmış _Gemilerin
+Tonilatolarını Ölçme Yönetmeliği_ ile düzenlenmiş kurallar çerçevesinde
+yapılır. Ölçüm sonucunda bir *tonilato belgesi* düzenlenir ve sicile geçirilir.
+
+* *GRT*: Geminin bütün kapalı yerlerinin hacmi
+* *Net ton*: GRT'den yönetmelikte belirtilen bir takım hacimlerin eksiltilmesi
+ile hesaplanır.
+* *Deadweight (dwt)*: Geminin yük, yakıt vs. taşıyabileceği maksimum ağırlık
+
++
+[caption=""]
+.Tonilatonun önem taşıdığı haller
+====
+* Yük ve yolcu kapasitesinin belirlenmesi
+* Donatanın sorumluluğunun belirlenmesi
+* Alınacak verginin belirlenmesi
+* Gemide bulunması gereken teçhizat ve gemi adamlarının belirlenmesi
+====
+. *Geminin sınıfı*: Uluslararası bağımsız gemi sınıflama kuruluşları tarafından
+gemiler belli aralıklarla veya belli durumlarda denetlenerek sınıfları
+belirlenir ve bu sınıf sicile geçirilir.
+. *Geminin milliyeti*: Geminin milliyeti, çektiği bayrağa göre belirlenir.
+
+== BAYRAK ÇEKME HAKKI VE KAZANILMASI
+
+=== MİLLİ GEMİ SİCİLİNE GÖRE
+
+Her Türk gemisi Türk Bayrağı çeker. Yalnız Türk vatandaşının malik olduğu gemi,
+Türk gemisidir.
+
+Birden fazla kişiye ait olan gemiler;
+
+.. Paylı mülkiyet hâlinde, payların çoğunluğunun,
+.. Elbirliğiyle mülkiyet hâlinde, maliklerinin çoğunluğunun,
+
+Türk vatandaşı olması şartıyla Türk gemisi sayılırlar.
+
+Türk kanunları uyarınca kurulup da;
+
+.. Tüzel kişiliğe sahip olan kuruluş, kurum, dernek ve vakıflara ait olan
+gemiler, yönetim organını oluşturan kişilerin çoğunluğunun Türk vatandaşı
+olması,
+.. Türk ticaret şirketlerine ait olan gemiler, şirketi yönetmeye yetkili
+olanların çoğunluğunun Türk vatandaşı olmaları ve şirket sözleşmesine göre oy
+çoğunluğunun Türk ortaklarda bulunması, anonim ve sermayesi paylara bölünmüş
+komandit şirketlerde ayrıca payların çoğunluğunun nama yazılı ve bir
+yabancıya devrinin şirket yönetim kurulunun iznine bağlı bulunması,
+
+şartıyla Türk gemisi sayılırlar.
+
+Türk ticaret siciline tescil edilen donatma iştiraklerinin mülkiyetindeki
+gemiler, paylarının yarısından fazlası Türk vatandaşlarına ait ve iştiraki
+yönetmeye yetkili paydaş donatanların çoğunluğunun Türk vatandaşı olması
+şartıyla Türk gemisi sayılırlar (TTK 940).
+
+Bir Türk gemisi, kendilerine ait olduğu takdirde Türk Bayrağı çekme hakkını
+kaybedeceği kişilere, en az bir yıl süreyle kendi adlarına işletilmek üzere
+bırakılmış olursa, malikin istemi üzerine Ulaştırma, Denizcilik ve Haberleşme
+Bakanlığı, bırakma süresince, o ülke kanunları buna imkân sağlıyorsa geminin
+yabancı bayrak çekmesine izin verebilir. Bu izin sona ermedikçe veya kanuni
+sebeplerle geri alınmadıkça gemi Türk Bayrağı çekemez (TTK 941/1).
+
+Türk gemisi olmayan bir gemi, ona Türk Bayrağı çekebilecek kişilere en az bir
+yıl süreyle kendi adlarına işletilmek üzere bırakılmışsa, malikin rızası
+alınmış olmak, Türk mevzuatının kaptan ve gemi zabitleri hakkındaki hükümlerine
+uyulmak ve yabancı kanunda da bunu engelleyen bir hüküm bulunmamak şartıyla,
+Ulaştırma, Denizcilik ve Haberleşme Bakanlığı geminin Türk Bayrağı çekmesine
+izin verebilir. Şu kadar ki, izin alan kişi, her iki yılda bir, izin için
+gerekli şartların varlığını sürdürdüğünü ispatlamakla yükümlüdür. Söz konusu
+gemiler, Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca tutulacak özel bir
+sicile kaydolunur (TTK 941/2,3).
+
+940 ıncı madde ile 941 inci maddenin ikinci fıkrasında yazılı şartlardan
+birinin ortadan kalkmasıyla gemi Türk Bayrağı çekme hakkını kaybeder. Bu durum
+gecikmeksizin Ulaştırma, Denizcilik ve Haberleşme Bakanlığına bildirilir.
+Müsteşarlık en çok altı ay için daha geminin Türk Bayrağı çekmesine izin
+verebilir (TTK 942).
+
+Geminin Türk Bayrağını çekme hakkı, *gemi tasdiknamesi* ile ispat olunur. Gemi
+tasdiknamesi gemi sicil kayıtlarının aynen ve tamamen yer aldığı bir belgedir.
+Gemi tasdiknamesi alınmadıkça, Türk Bayrağını çekme hakkı kullanılamaz. Gemi
+tasdiknamesi veya bunun sicil müdürlüğünce onaylanmış bir özeti veya bayrak
+şahadetnamesi yolculuk sırasında devamlı olarak gemide bulundurulur.
+
+Türkiye dışında bulunan bir gemi Türk Bayrağını çekme hakkını elde ederse,
+geminin bulunduğu yerdeki Türk konsolosu tarafından Türk Bayrağını çekme
+hakkına dair verilecek “bayrak şahadetnamesi” gemi tasdiknamesi yerine geçer.
+Bayrak şahadetnamesi, düzenlendiği günden itibaren ancak bir yıl için
+geçerlidir; yolculuk, mücbir sebep yüzünden uzadığı takdirde süre de uzar.
+
+Türkiye’de yapılmış olup da 940 ıncı madde gereğince Türk Bayrağını çekme
+hakkına sahip bulunmayan gemilere, Ulaştırma, Denizcilik ve Haberleşme
+Bakanlığınca, teslim edilecekleri yere kadar geçerli olmak üzere bir bayrak
+şahadetnamesi verilebilir.
+
+941 inci maddenin ikinci fıkrası ile 942 nci maddede yazılı hâllerde, bayrak
+şahadetnamesi, izin süresi için geçerli olmak üzere Ulaştırma, Denizcilik ve
+Haberleşme Bakanlığınca düzenlenir.
+
+Onsekiz gros tonilatodan küçük gemilerle sadece gezinti, spor, eğitim, öğretim
+ve bilim amaçlarına tahsis edilmiş gemiler, gemi tasdiknamesine ve bayrak
+şahadetnamesine ihtiyaç olmaksızın Türk Bayrağı çekebilirler.
+
+=== TÜRK ULUSLARARASI GEMİ SİCİLİNE GÖRE
+
+TUGS'a tescil için aranan koşullar gerçeklemiş ise, TUGS'a tescil ile birlikte
+o gemi bayrak çekme hakkını kazanır. Hakkın kullanılması için TUGS gemi
+tasdiknamesi gereklidir.
+
+=== BAĞLAMA KÜTÜĞÜNE GÖRE
+
+Bağlama kütüğüne kayıtlı gemiler TTK 940'a bağlı olmaksızın Türk bayrağı çeker.
+Hakkın kullanılabilmesi içim *bağlama kütüğü ruhsatnamesi* gereklidir.
+
+== GEMİ SİCİLLERİ
+
+=== MİLLİ GEMİ SİCİLİ
+
+==== TESCİL
+
+Gemi siciline, 940 ıncı madde gereğince Türk Bayrağını çekme hakkına sahip
+ticaret gemileri ile sadece gezinti, spor, eğitim, öğretim ve bilim amaçlarına
+tahsis edilmiş gemiler ve yabancı bir devlet veya onun vatandaşları adına
+Türkiye’de yapılmakta olan gemiler kaydolunur.
+
+IMPORTANT: Onsekiz gros tonilatoda ve daha büyük her ticaret gemisinin maliki,
+tescil isteminde bulunmak zorundadır. Meğer ki bu gemi TUGS'a kayıtlı olsun.
+
+Türk gemisi olmayan gemilerle, yabancı bir gemi siciline kayıtlı bulunan Türk
+gemileri, donanmaya bağlı harp gemileri, yardımcı gemiler ve Devlet, il özel
+idaresi, belediye ve köy ile diğer kamu tüzel kişilerine ait münhasıran bir
+kamu hizmetinin görülmesine özgülenmiş gemiler Türk Gemi Siciline tescil
+olunamaz.
+
+Gemi, bağlama limanının tabi olduğu sicil müdürlüğünce tescil olunur.
+
+Bir geminin seferleri yabancı bir limandan veya bir kara kentinden yahut bizzat
+gemiden yönetildiği takdirde, malik, gemisini dilediği yer siciline tescil
+ettirebilir.
+
+Malikin, Türkiye’de yerleşim yeri veya ticari işletmesi yoksa, bu Kanunda
+yazılı hakları kullanmak ve görevleri yerine getirmek üzere, sicil müdürlüğüne
+o bölgede oturan bir temsilci göstermesi gereklidir.
+
+Hali hazırda on tane sicil müdürlüğü mevcuttur:
+
+. İstanbul
+. İzmir
+. Çanakkale
+. Antalya
+. Mersin
+. İskenderun
+. Bandırma
+. Trabzon
+. Samsun
+. Zonguldak
+
+Gemi, ancak malikin veya maliklerinden birinin istemi üzerine gemi siciline
+tescil olunur.
+
+Tescil istemiyle birlikte aşağıdaki hususlar bildirilir:
+
+.. Geminin adı.
+.. Türü ve yapımında kullanılmış olan esas malzeme.
+.. Bağlama limanı.
+.. Belirlenmesi mümkünse, yapıldığı yer ve kızaktan indiği yıl. 
+.. Resmî ölçme sonuçları ve makine gücü.
+.. Geminin maliki;
+
+... Gerçek kişi ise, adı ve soyadı, T.C. kimlik numarası, varsa ticaret unvanı
+ve kayıtlı bulunduğu ticaret sicili müdürlüğü ile sicil numarası.
+... Ticaret şirketi ise, şirketin türü, ticaret unvanı ve tescil olunduğu
+ticaret sicili müdürlüğü ile sicil numarası.
+... Diğer tüzel kişilerden ise, adı ve merkezi.
+... Donatma iştiraki ise, tacir sıfatına sahip olduğu takdirde ticaret unvanı
+ile paydaş donatanların ad ve soyadları, varsa T.C. kimlik numarası ile gemi
+paylarının miktarı ve varsa gemi müdürünün adı ve soyadı ve T.C. kimlik
+numarası.
+
+.. İktisap sebebi.
+.. Türk Bayrağını çekme hakkına esas oluşturan sebepler.
+.. Varsa temsilcinin adı, soyadı, TC kimlik numarası ve adresi.
+
+==== GÖZETMEN MAHKEME
+
+Siciller mahkeme gözetiminde tutulur. Söz konusu mahkeme o yerde deniz ticareti
+işlerine bakmakla görevli Asliye Ticaret Mahkemesi varsa bu mahkeme, yoksa o
+yer Asliye Ticaret Mahkemesi, bu da yoksa o yerde ticaret davalarına bakmakla
+görevli Asliye Hukuk Mahkemesi'dir.
+
+Sicil müdürlüğünün kararlarına karşı itirazda bulunulacak mercii gözetmen
+mahkemedir. Sicil müdürlüğünün kararlarına karşı itiraz prosedürü için TTK 34
+uygulanır.
+
+[caption=""]
+.TTK 34 - İtiraz
+====
+(1) İlgililer, tescil, değişiklik veya silinme istemleri ile ilgili olarak,
+sicil müdürlüğünce verilecek kararlara karşı, tebliğlerinden itibaren sekiz gün
+içinde, sicilin bulunduğu yerde ticari davalara bakmakla görevli asliye ticaret
+mahkemesine dilekçe ile itiraz edebilirler.
+
+(2) Bu itiraz mahkemece dosya üzerinden incelenerek karara bağlanır. Ancak,
+sicil müdürünün kararı, üçüncü kişilerin sicilde kayıtlı bulunan hususlara
+ilişkin menfaatlerine aykırı olduğu takdirde, itiraz edenle üçüncü kişi de
+dinlenir. Bunlar mahkemeye gelmezlerse dosya üzerinden karar verilir.
+====
+
+MGS bakımından TMK 1007 uygulama alanı bulur ve devlet bu sicilin hatalı
+tutulmasından doğan zararlardan sorumludur. Sorumluluk davasına gözetmen
+mahkeme bakar.
+
+==== TERKİN
+
+Gemi, kurtarılamayacak şekilde batar veya tamir kabul etmez hâle gelir yahut
+her ne suretle olursa olsun Türk Bayrağını çekme hakkını kaybederse, istem
+üzerine sicilden kaydı silinir. Tescili isteğe bağlı olan gemilerin kaydı
+malik veya maliklerinin istemi üzerine sicilden silinir.
+
+Geminin tamir kabul etmez hâle gelmesi sebebiyle kaydının silinmesi
+istendiğinde, sicil memuru, tescil edilmiş gemi ipoteği alacaklılarını
+gerektiğinde 966 ncı madde de yazılı usule göre yapılacak ilan ile durumdan
+haberdar ederek belirleyeceği uygun bir süre içinde itirazlarını bildirmeye
+çağırır. Süresi içinde bildirilen itirazların yerinde görülmediğine dair
+mahkemece verilen kararın kesinleşmesi üzerine geminin kaydı silinir.
+
+Gemi, Türk Bayrağını çekme hakkını kaybederse, kaydı, ancak ipotek
+alacaklılarının ve gemi sicilindeki kayıt ve belgelere göre ipotek üzerinde hak
+sahibi olan üçüncü kişilerin onayı ile sicilden silinebilir. Kaydın silinmesi
+istemi ile birlikte onay belgelenmemişse, geminin Türk Bayrağını çekme hakkını
+kaybettiği gecikmeksizin gemi siciline kaydolunur. Bu kayıt, gemi üzerinde
+tescil edilmiş gemi ipotekleri bulunmadıkça, geminin kaydının silinmesi
+hükmündedir.
+
+Tescili isteğe bağlı olan gemilere ait kayıtların sadece maliklerinin istemleri
+üzerine silinebilmesi için ipotekli alacaklıların ve gemi sicilinin içeriğine
+göre ipotek üzerinde hak sahibi olan üçüncü kişilerin buna onay vermeleri
+şarttır.
+
+Esaslı şartlarından birinin var olmaması sebebiyle tescili caiz olmayan bir
+gemi tescil edilmiş olur veya 964 üncü maddenin üçüncü fıkrasında yazılı
+hâllerden birinin ortaya çıktığı sicil müdürlüğüne bildirilmezse, 33 üncü madde
+hükmü uygulanır. Şu kadar ki, durumun sicile kayıtlı diğer hak sahiplerine de
+bildirilmesi gereklidir. Malik ve diğer hak sahiplerinin kimler olduğu veya
+yerleşim yerleri belli değilse, silinmeye çağrı ve belirlenen süre, Türkiye
+Ticaret Sicili Gazetesi ile uygun görülen diğer bir gazetede ve varsa şirketin
+internet sitesinde ilan edilir ve ilan belgesi sicil müdürlüğü ve mahkeme
+divanhanesine asılır.
+
+Geminin kaydı ancak kaçınma ve itiraz sebeplerinin süresi içinde bildirilmemesi
+veya bunların mahkemece yerinde görülmediğine dair verilen kararın kesinleşmesi
+hâlinde sicilden silinebilir. Bir ipotekli alacaklı, gemi ipoteğinin hâla var
+olduğunu ileri sürerek Türk Bayrağını çekme hakkını kaybetmiş olan bir geminin
+sicilden silinmesine itiraz ederse, kayıt silinmeyip sadece geminin Türk
+Bayrağını çekme hakkını kaybettiği tescil olunur.
+
+Tescil edilmiş bir gemi hakkında yirmi yıldan beri hiçbir kayıt işlemi
+yapılmamış ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığından alınan bilgiye
+göre de geminin artık var olmadığına veya denizcilikte kullanılamayacak hâle
+geldiğine kanaat getirilmiş olursa, gemi üzerinde ipotek veya intifa hakkı
+tescil edilmiş bulunmadığı takdirde, sicil memurunun önerisi üzerine mahkeme,
+966 ncı maddede yazılı usule gerek kalmaksızın, gemi kaydının silinmesine karar
+verir.
+
+TIP: Milli Gemi Sicili'nde kayıtlı bir gemi Türkiye Uluslararası Gemi Sicili'ne
+kaydedilecek olursa MGS'den terkin edilir.
+
+==== SİCİL KAYDININ HÜKÜMLERİ
+
+===== KARİNELER
+
+Gemi sicilinde malik olarak kayıtlı bulunan kişi, geminin maliki sayılır.
+
+Gemi sicilinde lehine bir gemi ipoteği veya ipotek üzerinde bir hak yahut bir
+intifa hakkı tescil edilmiş olan kişi o hakkın sahibi sayılır.
+
+Tescil olunmuş bir hak sicilden silinirse o hakkın artık var olmadığı kabul
+edilir.
+
+NOTE: Türk Medenî Kanununun 992 nci maddesinin ikinci fıkrası hükmü saklıdır.
+
+===== SİCİLİN DÜZELTİLMESİ
+
+Gemi sicilinin içeriği; mülkiyet, gemi ipoteği, ipotek üzerindeki bir hak,
+intifa hakkı yahut 983 üncü maddenin birinci fıkrasının ikinci cümlesinde
+yazılı türden bir tasarruf sınırlaması bakımından gerçek hukuki duruma uymadığı
+takdirde, hakkı tescil edilmemiş veya yanlış tescil edilmiş yahut var olmayan
+bir hakkın veya sınırlamanın tescili sonucunda hakkı ihlal edilmiş kişi,
+değişiklik sonucunda hakkı ihlal edilecek olan kişiden kaydın değiştirilmesine
+onay vermesini isteyebilir.
+
+===== İTİRAZ
+
+Yukarıda yazılı hâllerde gemi siciline, sicil kaydının doğru olmadığı hakkında
+bir itiraz tescil olunabilir.
+
+İtiraz, bir ihtiyati tedbir kararına yahut sicildeki kaydın değiştirilmesi
+sonucunda hakkı zarar görecek olan kişinin onayına dayalı olarak sicile
+geçirilir. İhtiyati tedbir kararının verilmesinde hakkın tehlikede olduğuna
+dair yaklaşık ispat şartı aranmaz.
+
+===== ŞERH
+
+Bir gemi veya gemi ipoteği üzerinde bir hakkın kurulmasını veya kaldırılmasını
+yahut böyle bir hakkın içeriği veya derecesinin değiştirilmesini isteyebilmek
+hakkını teminat altına almak için gemi siciline şerh verilebilir. Gelecekte
+doğacak veya şarta bağlı bir istem hakkının teminat altına alınması amacıyla
+gemi siciline şerh verilmesi mümkündür.
+
+Şerhten sonra gemi veya ipotek üzerinde yapılacak tasarruflar, şerh ile teminat
+altına alınan hakkı ihlal ettiği ölçüde geçerli değildir. Tasarrufun cebrî icra
+veya ihtiyati haciz yoluyla yahut iflas idaresi tarafından yapılması hâllerinde
+de hüküm böyledir.
+
+Şerh ile teminat altına alınan hakkın derecesini belirlemede şerh tarihi esas
+tutulur.
+
+Şerh, bir ihtiyati tedbir kararına yahut şerh sonucunda gemisi veya hakkı
+sınırlanan kişinin onayına dayalı olarak verilir. İhtiyati tedbir kararının
+verilmesinde hakkın tehlikede olduğuna dair yaklaşık ispat şartı aranmaz.
+
+Mülkiyetin, gemi ipoteğinin veya ipotek üzerindeki hakkın yahut bir intifa
+hakkının iktisabı, lehine şerh verilen kişiye karşı geçersiz olduğu takdirde,
+şerh sahibi, şerh ile teminat altına alınan istem hakkının gerçekleşmesi için
+gerekli olan tescile veya silinmeye onay vermesini iktisap edenden isteyebilir.
+
+===== SİCİLE GÜVEN İLKESİ
+
+Hukuki bir işlem ile bir geminin mülkiyetini, intifa hakkını gemi ipoteğini
+veya ipotek üzerindeki bir hakkı iktisap eden kişi lehine gemi sicilinin
+içeriği, bu haklarla ilgili olduğu ölçüde doğru sayılır; meğerki, iktisap eden
+kişi kaydın doğru olmadığını bilmiş veya bilmesi gerekmiş olsun. Hak sahibinin
+kayıtlı bir hak üzerindeki tasarruf yetkisi belli bir kişi lehine sınırlanmış
+ise, bu sınırlama iktisap eden hakkında ancak gemi sicilinde yazılı olması veya
+onun sicil kaydının doğru olmadığını bilmesi veya bilmesinin gerekmesi şartıyla
+hüküm ifade eder.
+
+Hakkın iktisabı için tescil şart olan hâllerde, kaydın doğru olmadığının
+bilinmesi bakımından tescili istem tarihi asıldır.
+
+Gemi sicilinde lehine bir hak tescil edilmiş olan bir kişiye bu hakkı sebebiyle
+bir edimde bulunulması veya bu kişinin üçüncü bir kişi ile, sicile kayıtlı bir
+hak üzerinde yukarıdakiler dışında bir tasarruf işlemi yapılması hâllerinde de
+yukarıdaki hükümler uygulanır.
+
+=== YAPI HALİNDEKİ GEMİLERE ÖZGÜ SİCİL
+
+Yapı hâlindeki bir gemi, malikin istemi üzerine veya yapı üzerinde bir gemi
+ipoteğinin kurulması yahut yapının ihtiyati ya da kesin haczi veya tersane
+sahibinin gemi ipoteğinin kurulmasına yönelik istem hakkını teminat altına
+almak amacıyla sicile şerh verilmesi söz konusu olduğu takdirde yapı hâlindeki
+gemilere özgü sicile kaydolunur.
+
+Yapı, yapım yerinin bağlı bulunduğu sicil müdürlüğünce tescil olunur. Yapı, bu
+sicil müdürlüğünün yetki çevresi dışındaki diğer bir yere götürülse de aynı
+sicil müdürlüğü yetkili kalır. Şu kadar ki, bu müdürlük tarafından yeni yapım
+yerindeki sicil müdürlüğüne yapının kaydedilmiş olduğu bildirilir.
