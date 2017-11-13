@@ -295,7 +295,7 @@ Tescil istemiyle birlikte aşağıdaki hususlar bildirilir:
 .. Geminin adı.
 .. Türü ve yapımında kullanılmış olan esas malzeme.
 .. Bağlama limanı.
-.. Belirlenmesi mümkünse, yapıldığı yer ve kızaktan indiği yıl. 
+.. Belirlenmesi mümkünse, yapıldığı yer ve kızaktan indiği yıl.
 .. Resmî ölçme sonuçları ve makine gücü.
 .. Geminin maliki;
 
@@ -483,7 +483,122 @@ sahibinin gemi ipoteğinin kurulmasına yönelik istem hakkını teminat altına
 almak amacıyla sicile şerh verilmesi söz konusu olduğu takdirde yapı hâlindeki
 gemilere özgü sicile kaydolunur.
 
+Yapı, malikinin veya kanuni ipotek hakkını tescil ettirmek isteyen tersane
+sahibinin dilekçesi ile yapı hâlindeki gemilere özgü sicile kaydolunur.
+
+İhtiyati veya icraî haciz kararı almış olan alacaklı da icra müdürünün yazısı
+ile yapının sicile kaydını isteyebilir.
+
 Yapı, yapım yerinin bağlı bulunduğu sicil müdürlüğünce tescil olunur. Yapı, bu
 sicil müdürlüğünün yetki çevresi dışındaki diğer bir yere götürülse de aynı
 sicil müdürlüğü yetkili kalır. Şu kadar ki, bu müdürlük tarafından yeni yapım
 yerindeki sicil müdürlüğüne yapının kaydedilmiş olduğu bildirilir.
+
+Yapının tamamlanması ile yapı sicilindeki kayıt terkin edilerek milli gemi
+siciline aktarılır. Üzerinde bir ipotek kurulmuş ise ipoteğin derecesi
+değişmeden aktarılır.
+
+Yapının sicildeki kaydı;
+
+.. Geminin tersane sahibi tarafından, yabancı ülkeye teslim edildiğinin
+bildirilmesi,
+.. Yapının maliki ile geminin yapıldığı tersane sahibinin, kaydın sicilden
+silinmesini istemeleri,
+.. Yapının harap olması,
+
+hâllerinde silinir.
+
+Yapı üzerinde bir ipotek bulunduğu takdirde, yukarıdaki (a) ve (b) bentlerinde
+yazılı hâllerde, ipotekli alacaklının ve sicile kayıtlı bulunan diğer hak
+sahiplerinin kaydın sicilden silinmesine onayları da gereklidir.
+
+Yapının tamamlanarak geminin yabancı ülkeye teslim edildiğinin veya harap
+olduğunun süresi içinde bildirilmemesi hâlinde 966 ncı maddedeki usul uyarınca
+yapının kaydı resen sicilden silinir.
+
+=== TÜRK ULUSLARARASI GEMİ SİCİLİ
+
+*Gemi*: Kabotaj ve/veya kabotaj harici sularda ticari amaçla kullanılan her
+türlü yük, yolcu ve açık deniz balıkçı gemileri ile özel maksatlı ve özel
+yapılı gemi.
+
+*Yat*: Yat tipinde inşa edilmiş, gezi ve spor amacıyla yararlanılan,
+taşıyacakları yatçı sayısı otuzaltıyı geçmeyen, yük ve yolcu gemisi niteliğinde
+olmayan, turizm şirketi envanterlerinde kayıtlı ve tonilato belgelerinde
+"Ticari Yat" olarak belirtilen deniz aracı.
+
+*Özel maksatlı ve özel yapılı gemi*: Tipleri ve evsafları Bakanlık tarafından
+belirlenen, özel bir amaçla işletilen ve bu amaçla donatılan, yüzme özelliği
+bulunan deniz aracı.
+
+IMPORTANT: TUGS'a tescil bakımından esas önemli unsur ticari amaçla
+kullanılmaktır.
+
+Türk Uluslararası Gemi Siciline aşağıdaki gemiler ve yatlar talep üzerine
+tescil edilir:
+
+.. 4490 sayılı kanunun yürürlüğe girdiği tarihte (21/12/1999) Milli Gemi
+Siciline kayıtlı bulunan ve yukarıdaki tanımlara uyan bütün gemiler ve yatlar.
+.. Yurt içinde inşa edilen gemiler ve yatlar.
+.. Yurt dışından ithal edilen 3.000 DWT'nin (yolcu gemileri ile özel maksatlı,
+özel yapılı gemilerde ise 300 grostonun) üzerindeki gemiler.
+
+Türkiye'de mukim Türk ve yabancı uyruklu gerçek kişiler ile Türkiye'de Türk
+mevzuatına göre kurulmuş şirketlere ait gemiler ve yatlar Türk Uluslararası
+Gemi Siciline tescil ettirilebilir.
+
+Yurt dışından finansal kiralama yoluyla temin edilecek gemiler ve yatlar Türk
+Uluslararası Gemi Sicilinin özel bir sütununa kaydolunur.
+
+Türk Uluslararası Gemi Siciline tescil edilen gemiler ve yatlar Türk Bayrağı
+çekerler.
+
+=== BAĞLAMA KÜTÜĞÜ
+
+Bağlama Kütüğü Uygulama Yönetmeliği'ne göre *gemi*, cinsi, tonilatosu ve
+kullanma amacı ne olursa olsun, denizde kürekten başka aletle yola çıkabilen
+her aracı ifade eder.
+
+*Deniz aracı*, gemi dışında, denizde yüzebilen ve tahsis edildiği gayeye uygun
+olarak kullanılan her türlü araç ve yapıyı ifade eder. *İç su aracı*, iç
+sularda kullanılan ve gemi dışındaki her türlü tekne ve yapıyı ifade eder.
+
+Bağlama kütüğüne;
+
+.. 18 gros tonilatonun altında ve 2,5 metre ve üzerindeki; Milli Gemi Siciline
+veya Türk Uluslararası Gemi Siciline tescil edilmemiş ticari gemi, deniz ve
+içsu araçları,
+.. Boyu 2,5 metre ve üzerindeki özel kullanıma mahsus gemi, deniz ve içsu
+araçları,
+
+zorunlu olarak kaydedilir.
+
+Bağlama kütüğüne;
+
+.. 6102 sayılı Türk Ticaret Kanununun bayrak çekme hükümlerine bağlı
+olmaksızın; yabancı uyruklu olup oturma izni bulunan gerçek kişilere ait özel
+kullanıma mahsus gemi, deniz ve içsu araçları,
+.. Devlete ait olup temel kamu hizmetlerinde kullanılan gemi, deniz ve içsu
+araçları,
+.. 2,5 metrenin altındaki ticari ve özel gemi, deniz ve içsu araçları,
+.. Gençlik ve Spor Bakanlığınca tescil edilmiş spor kulübü ve federasyonların
+envanterinde kayıtlı olup da münhasıran spor faaliyetleri için kullanılan gemi,
+deniz ve içsu araçları,
+
+talep olması hâlinde kayıt edilir.
+
+Bağlama kütüğü, her liman başkanlığında ve liman başkanlığının yetki alanında
+bulunmayan iç sularda belediye başkanlıkları bünyesinde kurulur. Bağlama
+kütüğünün iç sularda hangi belediye başkanlıkları bünyesinde tutulacağı
+Bakanlık tarafından belirlenir.
+
+Bağlama kütüğüne kayıtlı gemi, deniz ve içsu araçları Türk bayrağı çekmek
+zorundadır. Gemi, deniz ve içsu aracının Türk Bayrağı çekme hakkı geçerli
+ruhsatname ile ispat olunur. Bağlama kütüğüne kayıtlı ticari gemi, deniz ve
+içsu araçları ile yabancılara ait özel kullanıma mahsus gemi, deniz ve içsu
+araçları, 6102 sayılı Türk Ticaret Kanununun bayrak çekme ile ilgili
+hükümlerine bağlı olmaksızın Türk Bayrağı çeker.
+
+NOTE: Yargıtay 2014 yılında verdiği bir kararda bağlama kütüğüne kayıtlı
+gemileri sicile kayıtlı olmayan gemi olarak tanımlamıştır. Dolayısıyla bağlama
+kütüğü Yargıtay'a göre bir sicil değildir.
