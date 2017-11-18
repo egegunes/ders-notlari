@@ -1,0 +1,269 @@
+== İLGİLİNİN RIZASI
+
+Kişinin mutlak suretle üzerinde tasarruf edebileceği haklarla ilgili açıkladığı
+rıza çerçevesinde işlenen eylemler *cezalandırılmaz*, dolayısıyla ilgilinin
+rızası hukuka uygunluk sebeplerinden biridir.
+
+Rızanın geçerli olabilmesi için:
+
+. Rıza verecek kişinin rıza açıklama yeteneğine sahip olması gerekir.
+. Rıza verecek kişinin rıza vereceği konuda aydınlatılmış olması gerekir.
+. Rızanın, kişinin üzerinde tasarruf edebileceği bir konu ile ilgili olması
+gerekir.
+
+NOTE: Rıza gösterecek kişinin eylemin niteliğini, sonuçlarını ve risklerini
+algılayabilecek durumda olması yeterlidir.
+
+== HASTANIN RIZASI
+
+Tıbbi müdahalelerde hastanın rızası gerekir. Hasta küçük veya mahcur ise
+velisinden veya vasisinden izin alınır. Hastanın, velisinin veya vasisinin
+olmadığı veya hazır bulunamadığı veya hastanın ifade gücünün olmadığı hallerde,
+bu şart aranmaz.
+
+NOTE: Ameliyat sırasında hekimin başka bir bölgeye müdahale etmesini gerektiren
+bir durumun ortaya çıkması halinde bu müdahale kişinin hayatını kurtaracak ya
+da hayatını tehlikeye atmaktan kurtaracak nitelikteyse rıza alınmadan müdahale
+yapılabilir.
+
+Kanuni temsilcinin rızasının yeterli olduğu hallerde dahi, anlatılanları
+anlayabilecekleri ölçüde, küçük veya kısıtlı olan hastanın dinlenmesi suretiyle
+mümkün olduğu kadar bilgilendirme sürecine ve tedavisi ile ilgili alınacak
+kararlara katılımı sağlanır.
+
+Kanuni temsilci tarafından rıza verilmeyen hallerde, müdahalede bulunmak tıbben
+gerekli ise, velayet ve vesayet altındaki hastaya tıbbi müdahalede
+bulunulabilmesi; Türk Medeni Kanununun 346 ncı ve 487 inci maddeleri uyarınca
+mahkeme kararına bağlıdır.
+
+Tıbbi müdahale sırasında isteğini açıklayabilecek durumda bulunmayan bir
+hastanın, tıbbî müdahale ile ilgili olarak önceden açıklamış olduğu istekleri
+göz önüne alınır.
+
+Yeterliğin zaman zaman kaybedildiği tekrarlayıcı hastalıklarda, hastadan
+yeterliği olduğu dönemde onu kaybettiği dönemlere ilişkin yapılacak tıbbi
+müdahale için rıza vermesi istenebilir.
+
+Hastanın rızasının alınamadığı hayati tehlikesinin bulunduğu ve bilincinin
+kapalı olduğu acil durumlar ile hastanın bir organının kaybına veya
+fonksiyonunu ifa edemez hale gelmesine yol açacak durumun varlığı halinde,
+hastaya tıbbi müdahalede bulunmak rızaya bağlı değildir. Bu durumda hastaya
+gerekli tıbbi müdahale yapılarak durum kayıt altına alınır. Ancak bu durumda,
+mümkünse hastanın orada bulunan yakını veya kanuni temsilcisi; mümkün olmadığı
+takdirde de tıbbi müdahale sonrasında hastanın yakını veya kanuni temsilcisi
+bilgilendirilir. Ancak hastanın bilinci açıldıktan sonraki tıbbi müdahaleler
+için hastanın yeterliği ve ifade edebilme gücüne bağlı olarak rıza işlemlerine
+başvurulur.
+
+Sağlık kurum ve kuruluşlarında yatarak tedavisi tamamlanan hastaya, genel
+sağlık durumu, ilaçları, kontrol tarihleri diyet ve sonrasında neler yapması
+gerektiği gibi bilgileri içeren taburcu sonrası tedavi planı sağlık meslek
+mensubu tarafından sözel olarak anlatılır. Daha sonra bu tedavi planının yer
+aldığı epikrizin bir nüshası hastaya verilir.
+
+== HEKİMİN AYDINLATMA YÜKÜMLÜLÜĞÜ
+
+Rızanın geçerliliği bakımından hastanın müdahale hakkında aydınlatılmış olması
+önemlidir. Aydınlatma kapsamında müdahalenin kapsamı, yöntemi, muhtemel sonuç
+ve riskleri konusunda hasta bilgilendirilmelidir.
+
+Hastaya;
+
+.. Hastalığın muhtemel sebepleri ve nasıl seyredeceği,
+.. Tıbbi müdahalenin kim tarafından nerede, ne şekilde ve nasıl yapılacağı ile
+tahmini süresi,
+.. Diğer tanı ve tedavi seçenekleri ve bu seçeneklerin getireceği fayda ve
+riskler ile hastanın sağlığı üzerindeki muhtemel etkileri,
+.. Muhtemel komplikasyonları,
+.. Reddetme durumunda ortaya çıkabilecek muhtemel fayda ve riskleri,
+.. Kullanılacak ilaçların önemli özellikleri,
+.. Sağlığı için kritik olan yaşam tarzı önerileri,
+.. Gerektiğinde aynı konuda tıbbî yardıma nasıl ulaşabileceği,
+
+hususlarında bilgi verilir.
+
+Kural olarak müdahale kim tarafından yapılacaksa aydınlatma yükümlülüğünü de o
+yerine getirecektir. Aydınlatmanın kural olarak bir şekil şartı yoktur. Ancak
+kanun belli müdahaleler için yazılı aydınlatma yapılmasını zorunlu kılmıştır.
+
+Bilgi, mümkün olduğunca sade şekilde, tereddüt ve şüpheye yer verilmeden,
+hastanın sosyal ve kültürel düzeyine uygun olarak anlayabileceği şekilde
+verilir.
+
+Hasta, tıbbi müdahaleyi gerçekleştirecek sağlık meslek mensubu tarafından tıbbi
+müdahale konusunda sözlü olarak bilgilendirilir. Bilgilendirme ve tıbbi
+müdahaleyi yapacak sağlık meslek mensubunun farklı olmasını zorunlu kılan
+durumlarda, bu duruma ilişkin hastaya açıklama yapılmak suretiyle bilgilendirme
+yeterliliğine sahip başka bir sağlık meslek mensubu tarafından bilgilendirme
+yapılabilir.
+
+Hastanın kendisinin bilgilendirilmesi esastır. Hastanın kendisi yerine bir
+başkasının bilgilendirilmesini talep etmesi halinde, bu talep kişinin imzası
+ile yazılı olarak kayıt altına alınmak kaydıyla sadece bilgilendirilmesi
+istenilen kişilere bilgi verilir.
+
+Hasta, aynı şikayeti ile ilgili olarak bir başka hekimden de sağlık durumu
+hakkında ikinci bir görüş almayı talep edebilir.
+
+Acil durumlar dışında, bilgilendirme hastaya makul süre tanınarak yapılır.
+
+Bilgilendirme uygun ortamda ve hastanın mahremiyeti korunarak yapılır.
+
+[TIP]
+====
+Hastanın manevi yapısı üzerinde fena tesir yapmak suretiyle hastalığın artması
+ihtimalinin bulunması ve hastalığın seyrinin ve sonucunun vahim görülmesi
+hallerinde, teşhisin saklanması caizdir.
+
+Hastaya veya yakınlarına, hastanın sağlık durumu hakkında bilgi verilip
+verilmemesi, yukarıdaki fıkrada belirtilen şartlar çerçevesinde tabibinin
+takdirine bağlıdır.
+
+Tedavisi olmayan bir teşhis, ancak bir tabip tarafından ve tam bir ihtiyat
+içinde hastaya hissettirilebilir veya bildirilebilir. Hastanın aksi yönde bir
+talebinin bulunmaması veya açıklanacağı şahsın önceden belirlenmemesi halinde,
+böyle bir teşhis ailesine bildirilir.
+
+İlgili mevzuat hükümleri ve/veya yetkili mercilerce alınacak tedbirlerin
+gerektirdiği haller dışında; kişi, sağlık durumu hakkında kendisinin,
+yakınlarının ya da hiç kimsenin bilgilendirilmemesini talep edebilir. Bu
+durumda kişinin kararı yazılı olarak alınır. Hasta, bilgi verilmemesi talebini
+istediği zaman değiştirebilir ve bilgi verilmesini talep edebilir.
+====
+
+== HEKİMİN SORUMLULUĞU
+
+* Hekimin **özen yükümlülüğü**ne uygun şekilde hareket etmesi gerekir.
+* Hekim edimi *bizzat* yerine getirmelidir. Ancak tedavi için gereken yan
+edimlerin yerine getirilmesi için yardım alınabilir.
+* Hekim hastanın tıbbi öyküsünü dinlemek zorundadır.
+* Hekim hastayı yüz yüze tedavi etmelidir.
+* Muayene sonunda ulaşılan teşhis hekim tarafından hastanın yüzüne karşı
+açıklanmalıdır.
+* Hekim acil veya zorunlu haller dışında hastayı reddetme hakkına sahiptir.
+* Hekim elinde bulunan teknik ve tıbbi cihazları kullanmalıdır. Her cihazın her
+hekim veya hastanede bulunması beklenemez. Ancak birtakım zorunlu cihazların
+bulunması şarttır. Hekimin bunların bulunmadığını hastaneye rapor etmesi
+şarttır.
+* Hekimin veya hastanenin tuttuğu kayıtlar hastalar tarafından istendiğinde
+verilmek zorundadır.
+
+== HASTANIN TEDAVİYİ RET HAKKI
+
+Kanunen zorunlu olan haller dışında ve doğabilecek olumsuz sonuçların
+sorumluluğu hastaya ait olmak üzere; hasta kendisine uygulanması planlanan veya
+uygulanmakta olan tedaviyi reddetmek veya durdurulmasını istemek hakkına
+sahiptir. Bu halde, tedavinin uygulanmamasından doğacak sonuçların hastaya veya
+kanuni temsilcilerine veyahut yakınlarına anlatılması ve bunu gösteren yazılı
+belge alınması gerekir.
+
+Bu hakkın kullanılması, hastanın sağlık kuruluşuna tekrar müracaatında hasta
+aleyhine kullanılamaz.
+
+== ÖTENAZİ
+
+*Ötenazi*, kişinin belirli bir rahatsızlığından dolayı çektiği acı ve ızdırabın
+giderilmesi amacıyla kendi yaşam hakkından vazgeçmesidir.
+
+Ötenazi üçe ayrılır:
+
+. *Aktif ötenazi*: Kişinin yaşam hakkından feragat beyanıyla hekim tarafından
+öldürülmesidir.
+. *Dolaylı ötenazi*: Kanunumuzda hekimin, hastanın iyileşme imkanı yoksa onu
+rahatlatacak ve huzur içinde yaşamasını sağlayacak birtakım tedbirler alması
+gerektiğinden bahsedilmektedir. Bu tedbirler hastanın ölümünü hızlandıracak
+olsa da hekim tarafından alınabilir.
+. *Pasif ötenazi*: Yukarıda açıklanan hastanın tedaviyi reddetmesi hakkının
+kullanımıdır.
+
+NOTE: AİHM, bunun ülkelerin iç hukukuna dair bir husus olduğunu savunmaktadır.
+
+== İNSAN ÜZERİNDE DENEY
+
+İnsan üzerinde bilimsel bir deney yapan kişi, bir yıldan üç yıla kadar hapis
+cezası ile cezalandırılır.
+
+İnsan üzerinde yapılan rızaya dayalı bilimsel deneyin ceza sorumluluğunu
+gerektirmemesi için;
+
+.. Deneyle ilgili olarak yetkili kurul veya makamlardan gerekli iznin alınmış
+olması,
+.. Deneyin öncelikle insan dışı deney ortamında veya yeterli sayıda hayvan
+üzerinde yapılmış olması,
+.. İnsan dışı deney ortamında veya hayvanlar üzerinde yapılan deneyler
+sonucunda ulaşılan bilimsel verilerin, varılmak istenen hedefe ulaşmak
+açısından bunların insan üzerinde de yapılmasını gerekli kılması,
+.. Deneyin, insan sağlığı üzerinde öngörülebilir zararlı ve kalıcı bir etki
+bırakmaması,
+.. Deney sırasında kişiye insan onuruyla bağdaşmayacak ölçüde acı verici
+yöntemlerin uygulanmaması,
+.. Deneyle varılmak istenen amacın, bunun kişiye yüklediği külfete ve kişinin
+sağlığı üzerindeki tehlikeye göre daha ağır basması,
+.. Deneyin mahiyet ve sonuçları hakkında yeterli bilgilendirmeye dayalı olarak
+açıklanan rızanın yazılı olması ve herhangi bir menfaat teminine bağlı
+bulunmaması,
+
+gerekir.
+
+Çocuklar üzerinde bilimsel deneyin ceza sorumluluğunu gerektirmemesi için
+yukarıda aranan koşulların yanı sıra;
+
+.. Yapılan deneyler sonucunda ulaşılan bilimsel verilerin, varılmak istenen
+hedefe ulaşmak açısından bunların çocuklar üzerinde de yapılmasını gerekli
+kılması,
+.. Rıza açıklama yeteneğine sahip çocuğun kendi rızasının yanı sıra ana ve
+babasının veya vasisinin yazılı muvafakatinin de alınması,
+.. Deneyle ilgili izin verecek yetkili kurullarda çocuk sağlığı ve hastalıkları
+uzmanının bulunması,
+
+gerekir.
+
+Hasta olan insan üzerinde rıza olmaksızın tedavi amaçlı denemede bulunan kişi,
+bir yıla kadar hapis cezası ile cezalandırılır. Ancak, bilinen tıbbi müdahale
+yöntemlerinin uygulanmasının sonuç vermeyeceğinin anlaşılması üzerine, kişi
+üzerinde yapılan rızaya dayalı bilimsel yöntemlere uygun tedavi amaçlı deneme,
+ceza sorumluluğunu gerektirmez. Açıklanan rızanın, denemenin mahiyet ve
+sonuçları hakkında yeterli bilgilendirmeye dayalı olarak yazılı olması ve
+tedavinin uzman hekim tarafından bir hastane ortamında yapılması gerekir.
+
+Yukarıda tanımlanan suçun işlenmesi sonucunda mağdurun yaralanması veya ölmesi
+halinde, kasten yaralama veya kasten öldürme suçuna ilişkin hükümler uygulanır.
+
+== ORGAN VEYA DOKU TİCARETİ
+
+Hukuken geçerli rızaya dayalı olmaksızın, kişiden organ alan kimse, beş yıldan
+dokuz yıla kadar hapis cezası ile cezalandırılır. Suçun konusunun doku olması
+halinde, iki yıldan beş yıla kadar hapis cezasına hükmolunur.
+
+Organ veya doku satın alan, satan, satılmasına aracılık eden kişi hakkında,
+yukarıda belirtilen cezalara hükmolunur.
+
+Hukuka aykırı olarak, ölüden organ veya doku alan kimse, bir yıla kadar hapis
+cezası ile cezalandırılır.
+
+Yukarıda tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi
+halinde, sekiz yıldan onbeş yıla kadar hapis ve onbin güne kadar adlî para
+cezasına hükmolunur.
+
+Hukuka aykırı yollarla elde edilmiş olan organ veya dokuyu saklayan, nakleden
+veya aşılayan kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.
+
+Belli bir çıkar karşılığında organ veya doku teminine yönelik olarak ilan veya
+reklam veren veya yayınlayan kişi, bir yıla kadar hapis cezası ile
+cezalandırılır.
+
+Yukarıda tanımlanan suçun işlenmesi sonucunda mağdurun ölmesi halinde,
+kasten öldürme suçuna ilişkin hükümler uygulanır.
+
+Organ veya dokularını satan kişinin içinde bulunduğu sosyal ve ekonomik
+koşullar göz önünde bulundurularak, hakkında verilecek cezada indirim
+yapılabileceği gibi, ceza vermekten de vazgeçilebilir.
+
+Organ veya dokularını satan kişi, resmi makamlar tarafından haber alınmadan
+önce durumu merciine haber vererek suçluların yakalanmalarını kolaylaştırırsa,
+hakkında cezaya hükmolunmaz.
+
+Bu suç haberalındıktan sonra, organ veya dokularını satan kişi, gönüllü olarak,
+suçun meydana çıkmasına ve diğer suçluların yakalanmasına hizmet ve yardım
+ederse; hakkında verilecek cezanın, yardımın niteliğine göre, dörtte birden
+yarısına kadarı indirilir.
