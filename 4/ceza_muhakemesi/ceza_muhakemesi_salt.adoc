@@ -152,8 +152,325 @@ Soruşturma makamı isnat edilen bir fiilin görev sebebiyle olduğunu belirtmi�
 izin almışsa süreç içerisinde suç vasfının değişmesi herhangi bir etki
 yaratmaz.
 
+İznin istisnası irtikap, rüşvet, basit veya nitelikli zimmet, görevi sırasında
+göreviyle alakalı kaçakçılık, resmi ihalede alım satıma fesat karıştırma
+suçlarıdır. Bu suçlar söz konusu ise memur veya kamu görevlisinin yargılanması
+için izin alınmasına gerek yoktur.
+
 TIP: İznin verilmesine veya verilmemesine ilişkin karar idari bir karardır. Bu
 nedenle bu karara karşı çıkma mekanizması da idari yargıdadır. Kanunda da izin
 verilmesi halinde şüphelinin izin verilmemesi halinde ise savcı veya suçtan
 zarar görenin 10 gün içerisinde bölge adliye mahkemesine itiraz hakkı olduğu
 belirtilmiştir.
+
+NOTE: Bkz. 4483 sayılı kanun
+
+=== TALEP
+
+Bazı suçlardan dolayı dava açılması için bir kamu makamının, genellikle Adalet
+Bakanlığı'nın talebi gereklidir. Bu durumlarda talep suçun vasfı ne olursa
+olsun bir dava koşuludur.
+
+IMPORTANT: Bu başvuru şikayet değildir. Dolayısıyla şikayet ile ilgili hükümler
+burada uygulanamaz. Başvuru yapıldıktan sonra geri alınması artık bir dava
+koşulu veya engeli değildir.
+
+=== ADALET BAKANI'NIN İZNİ
+
+IMPORTANT: Bu izin ile 4483 sayılı kanunda düzenlenen izin müessesesi aynı
+değildir.
+
+Bazı suçlarda, soruşturma veya kovuşturmanın sonucunda bir siyasi etki doğacak
+ise davanın açılması Adalet Bakanı'nın iznine bağlıdır. Bu konuda tipik
+örnekler Cumhurbaşkanı'na Hakaret, Anayasal Organları ve Türklüğü Tahkir
+suçlarıdır.
+
+=== DERDEST DAVA BULUNMASI
+
+Aynı fiil ve aynı kişi ile ilgili daha önce açılmış ve sonuçlandırılmış veya
+hali hazırda görülmekte olan bir dava var ise bu bir dava engeli teşkil eder.
+Bu durumda soruşturma aşamasında kovuşturmaya yer olmadığına karar
+verilmelidir. Kovuşturma aşamasında ise *davanın reddi* kararı verilmelidir.
+
+TIP: Ceza muhakemesinde açılmış bir davanın reddine karar verilebilen tek durum
+budur.
+
+=== ÖN ÖDEME
+
+Ön ödemeye tabi suçlar, sadece para cezasını gerektiren veya cezanın üst sınırı
+6 ayı geçmeyen suçlardır. Cumhuriyet savcısı ön ödemeye tabi suçlar için
+soruşturma sonucunda dava açmaya yeter bir şüpheye ulaşırsa şüpheliye öngörülen
+cezanın asgari bir miktarını ödemesini teklif eder. Şüpheli ön ödeme talebini
+kabul eder ve ödeme yaparsa soruşturma, kovuşturmaya yer olmadığına dair bir
+kararla sonuçlandırılır.
+
+Ön ödemeye tabi bir suç bu yola başvurulmaksızın dava konusu edildiğinde bu
+öncelikle bir iddianamenin iadesi sebebidir. Eğer kovuşturma aşamasında suç
+vasfı değişip ön ödemeye tabi bir suç haline gelirse mahkeme ön ödemeyi teklif
+eder ve ödeme yapıldığı takdirde davanın düşmesine karar verir. Dolayısıyla ön
+ödemeye tabi suçlarda ön ödemenin teklif edilip başarısızlıkla sonuçlanması bir
+dava koşuludur.
+
+=== UZLAŞTIRMA
+
+Uzlaştırmaya tabi bir suç söz konusu ise uzlaşmanın başarısızlık sonuçlanması
+bir dava koşuludur.
+
+=== SANIĞIN HAZIR BULUNMAMASI
+
+Kanunun ayrık tuttuğu hâller saklı kalmak üzere, hazır bulunmayan sanık
+hakkında duruşma yapılmaz. Gelmemesinin geçerli nedeni olmayan sanığın zorla
+getirilmesine karar verilir.
+
+==== İSTİSNALAR
+
+===== MAHKUMİYET DIŞI KARAR
+
+Sanık hakkında, toplanan delillere göre mahkûmiyet dışında bir karar verilmesi
+gerektiği kanısına varılırsa, sorgusu yapılmamış olsa da dava yokluğunda
+bitirilebilir.
+
+===== GAİPLİK
+
+Bulunduğu yer bilinmeyen veya yurt dışında bulunup da yetkili mahkeme önüne
+getirilemeyen veya getirilmesi uygun bulunmayan sanık gaip sayılır.
+
+Gaip hakkında duruşma açılmaz; mahkeme, delillerin ele geçirilmesi veya
+korunması amacıyla gerekli işlemleri yapar.
+
+Bu işlemler naip hâkim veya istinabe olunan mahkeme aracılığıyla da
+yapılabilir.
+
+Bu işlemler sırasında sanığın müdafii veya kanunî temsilcisi veya eşi hazır
+bulunabilir. Gerektiğinde, mahkemece barodan bir müdafi görevlendirilmesi
+istenir.
+
+Adresi bilinmeyen gaibe, mahkeme önüne gelmesi veya adresini bildirmesi
+hususları uygun bir iletişim aracıyla ihtar edilir.
+
+Mahkeme, gaip olan sanık hakkında duruşmaya gelmesi hâlinde tutuklanmayacağı
+hususunda bir güvence belgesi verebilir ve bu güvence koşullara bağlanabilir.
+
+Sanık, hapis cezası ile mahkûm olur veya kaçmak hazırlığında bulunur veya
+güvence belgesinin bağlı olduğu koşullara uymazsa belgenin hükmü kalmaz.
+
+===== SANIĞIN YOKLUĞU
+
+* *Sanığın mahkemeden uzaklaşması:* Mahkemeye gelen sanığın duruşmanın devamı
+süresince hazır bulunması sağlanır ve savuşmasının önüne geçmek için mahkeme
+gereken tedbirleri alır. Sanık savuşur veya ara vermeyi izleyen oturuma
+gelmezse, önceden sorguya çekilmiş ve artık hazır bulunmasına mahkemece gerek
+görülmezse, dava yokluğunda bitirilebilir.
+* *Sanığın yokluğunda duruşma:* Suç, yalnız veya birlikte adlî para cezasını
+veya müsadereyi gerektirmekte ise; sanık gelmese bile duruşma yapılabilir. Bu
+gibi hâllerde sanığa gönderilecek davetiyede gelmese de duruşmanın yapılacağı
+yazılır.
+* *Sanığın duruşmadan bağışık tutulması:* Mahkemece sorgusu yapılmış olan sanık
+veya bu hususta sanık tarafından yetkili kılındığı hâllerde müdafii isterse,
+mahkeme sanığı duruşmada hazır bulunmaktan bağışık tutabilir.
+* *Sorgu sırasında sanığın mahkeme salonundan çıkarılabilmesi:* Sanığın yüzüne
+karşı suç ortaklarından birinin veya bir tanığın gerçeği söylemeyeceğinden
+endişe edilirse, mahkeme, sorgu ve dinleme sırasında o sanığın mahkeme
+salonundan çıkarılmasına karar verebilir. Sanık tekrar getirildiğinde,
+tutanaklar okunur ve gerektiğinde içeriği anlatılır.
+* *Sanığın duruşmanın düzenini bozması:* Mahkeme başkanı veya hâkim, duruşmanın
+düzenini bozan kişinin, savunma hakkının kullanılmasını engellememek koşuluyla
+salondan çıkarılmasını emreder.
+* *Sanığın dışarı çıkarılması:* Davranışları nedeniyle, hazır bulunmasının
+duruşmanın düzenli olarak yürütülmesini tehlikeye sokacağı anlaşıldığında
+sanık, duruşma salonundan çıkarılır. Mahkeme, sanığın duruşmada hazır
+bulunmasını dosyanın durumuna göre savunması bakımından zorunlu görmezse,
+oturumu yokluğunda sürdürür ve bitirir. Ancak, sanığın müdafii yoksa, mahkeme
+barodan bir müdafi görevlendirilmesini ister. Oturuma yeniden alınmasına karar
+verilen sanığa, yokluğunda yapılan işlemler açıklanır.
+
+===== KAÇAKLIK
+
+Hakkındaki soruşturmanın veya kovuşturmanın sonuçsuz kalmasını sağlamak
+amacıyla yurt içinde saklanan veya yabancı ülkede bulunan ve bu nedenle
+Cumhuriyet savcısı veya mahkeme tarafından kendisine ulaşılamayan kişiye kaçak
+denir.
+
+Hakkında, 248 inci maddenin ikinci fıkrasında belirtilen suçlardan dolayı
+soruşturma veya kovuşturma başlatılmış olan şüpheli veya sanığın, yetkili
+Cumhuriyet savcısı veya mahkemece usulüne göre yapılan tebligata uymamasından
+dolayı verilen zorla getirilme kararı da yerine getirilemez ise, Cumhuriyet
+savcısı veya mahkeme;
+
+.. Çağrının bir gazete ile şüpheli veya sanığın bilinen konutunun kapısına
+asılmak suretiyle ilânına karar verir; yapılacak ilânlarda, onbeş gün içinde
+gelmediği takdirde 248 inci maddede gösterilen tedbirlere hükmedilebileceğini
+ayrıca açıklar,
+.. Bu işlemlerin yerine getirildiğinin bir tutanak ile saptanmasından itibaren
+onbeş gün içinde başvurmayan şüpheli veya sanığın kaçak olduğuna karar verir.
+
+Kaçak sanık hakkında kovuşturma yapılabilir. Ancak, daha önce sorgusu
+yapılmamış ise, mahkûmiyet kararı verilemez.
+
+Duruşma yapılan hâllerde kaçak sanığın müdafii yoksa, mahkeme barodan bir
+avukat görevlendirilmesini ister.
+
+Kaçağın Cumhuriyet savcısına başvurmasını veya duruşmaya gelmesini sağlamak
+amacıyla Türkiye'de bulunan mallarına, hak ve alacaklarına amaçla orantılı
+olarak Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi veya mahkeme
+kararıyla elkonulabilir ve gerektiğinde idaresi için kayyım atanır. Elkoyma ve
+kayyım atama kararı müdafiine bildirilir.
+
+Yukarıdaki tedbirler;
+
+.. Türk Ceza Kanununda tanımlanan;
+
+. Soykırım ve insanlığa karşı suçlar (madde 76, 77, 78),
+. Göçmen kaçakçılığı ve insan ticareti (madde 79, 80),
+. Hırsızlık (madde 141, 142),
+. Yağma (madde 148, 149),
+. Güveni kötüye kullanma (madde 155),
+. Dolandırıcılık (madde 157, 158),
+. Hileli iflas (madde 161),
+. Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188),
+. Parada sahtecilik (madde 197),
+. Suç işlemek amacıyla örgüt kurma (madde 220),
+. Zimmet (madde 247),
+. İrtikâp (madde 250),
+. Rüşvet (madde 252),
+. İhaleye fesat karıştırma (madde 235),
+. Edimin ifasına fesat karıştırma (madde 236),
+. Devletin Güvenliğine Karşı Suçlar (madde 302, 303, 304, 305, 306, 307, 308),
+. Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309, 310, 311,
+312, 313),
+. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde 315),
+. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331, 333,
+334, 335, 336, 337) suçları,
+
+.. Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlanan
+silah kaçakçılığı (madde 12) suçları,
+.. Bankalar Kanununun 22 nci maddesinin (3) ve (4) numaralı fıkralarında
+tanımlanan zimmet suçu,
+.. Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren
+suçlar,
+.. Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde
+tanımlanan suçlar,
+
+Hakkında uygulanır.
+
+Elkonulan mal, hak ve alacakların korunmasında, elkoymaya ilişkin hükümler
+uygulanır. Tedbirlere ilişkin kararların özetinin bir gazetede ilânına sulh
+ceza hâkimince veya mahkemece karar verilebilir.
+
+
+Kaçak yakalandığında veya kendiliğinden gelerek teslim olduğunda elkoymanın
+kaldırılmasına karar verilir.
+
+Kaçak hakkında 100 üncü ve sonraki maddeler gereğince, sulh ceza hâkimi veya
+mahkeme tarafından yokluğunda tutuklama kararı verilebilir.
+
+Sulh ceza hâkimi veya mahkeme elkoymaya karar verdiğinde, kaçağın yasal olarak
+bakmakla yükümlü bulunduğu yakınlarının alınan tedbirler nedeniyle yoksulluğa
+düşebileceklerini saptarsa, bunların geçimlerini sağlamak üzere, elkonulan mal
+varlığından sosyal durumları ile orantılı miktarda yardımda bulunulması
+konusunda kayyıma izin verir.
+
+NOTE: 246 ncı madde hükmü kaçaklar hakkında da uygulanır.
+
+TIP: Bu kararlara karşı itiraz edilebilir.
+
+== CEZA MUHAKEMESİNE KATILAN KİŞİLER
+
+=== HAKİM
+
+==== HAKİMİN YASAKLILIK HALLERİ
+
+Hâkim;
+
+.. Suçtan kendisi zarar görmüşse,
+.. Sonradan kalksa bile şüpheli, sanık veya mağdur ile aralarında evlilik,
+vesayet veya kayyımlık ilişkisi bulunmuşsa,
+.. Şüpheli, sanık veya mağdurun kan veya kayın hısımlığından üstsoy veya
+altsoyundan biri ise,
+.. Şüpheli, sanık veya mağdur ile aralarında evlât edinme bağlantısı varsa,
+.. Şüpheli, sanık veya mağdur ile aralarında üçüncü derece dahil kan hısımlığı
+varsa,
+.. Evlilik sona ermiş olsa bile, şüpheli, sanık veya mağdur ile aralarında
+ikinci derece dahil kayın hısımlığı varsa,
+.. Aynı davada Cumhuriyet savcılığı, adlî kolluk görevi, şüpheli veya sanık
+müdafiliği veya mağdur vekilliği yapmışsa,
+.. Aynı davada tanık veya bilirkişi sıfatıyla dinlenmişse,
+
+hâkimlik görevini yapamaz.
+
+==== HAKİMİN YARGILAMAYA KATILAMAYACAĞI HALLER
+
+Bir karar veya hükme katılan hâkim, yüksek görevli mahkemece bu hükme ilişkin
+olarak verilecek karar veya hükme katılamaz.
+
+Aynı işte soruşturma evresinde görev yapmış bulunan hâkim, kovuşturma evresinde
+görev yapamaz.
+
+CAUTION: Suçüstü hâli ile gecikmesinde sakınca bulunan hâllerde, Cumhuriyet
+savcısına erişilemiyorsa veya olay genişliği itibarıyla Cumhuriyet savcısının
+iş gücünü aşıyorsa, sulh ceza hâkimi de bütün soruşturma işlemlerini yapabilir.
+Ancak bu durumda soruşturma evresinde görev yapmış hakim kovuşturma evresinde
+görev alamaz. Diğer durumlar için yukarıdaki hüküm uygulanmaz.
+
+Yargılamanın yenilenmesi halinde, önceki yargılamada görev yapan hâkim, aynı
+işte görev alamaz.
+
+==== HAKİMİN REDDİ
+
+Hâkimin davaya bakamayacağı hâllerde reddi istenebileceği gibi, tarafsızlığını
+şüpheye düşürecek diğer sebeplerden dolayı da reddi istenebilir.
+
+TIP: Hakimin yargılama sürecinde dosya ile ilgili düşüncesini ortaya koyan
+herhangi bir ifade hakimin reddi sebebidir. Ancak somut olaya benzer bilimsel
+veya siyasi görüşler hakimin reddi sebebi oluşturmaz.
+
+Cumhuriyet savcısı; şüpheli, sanık veya bunların müdafii; katılan veya vekili,
+hâkimin reddi isteminde bulunabilirler.
+
+Tarafsızlığını şüpheye düşürecek sebeplerden dolayı bir hâkimin reddi, ilk
+derece mahkemelerinde sanığın sorgusu başlayıncaya; duruşmalı işlerde bölge
+adliye mahkemelerinde inceleme raporu ve Yargıtayda görevlendirilen üye veya
+tetkik hâkimi tarafından yazılmış olan rapor üyelere açıklanıncaya kadar
+istenebilir. Diğer hâllerde, inceleme başlayıncaya kadar hâkimin reddi
+istenebilir.
+
+Sonradan ortaya çıkan veya öğrenilen sebeplerle duruşma veya inceleme bitinceye
+kadar da hâkimin reddi istenebilir. Ancak bu istemin, ret sebebinin
+öğrenilmesinden itibaren yedi gün içinde yapılması şarttır.
+
+Hâkimin reddi, mensup olduğu mahkemeye verilecek dilekçeyle veya bu hususta
+zabıt kâtibine bir tutanak düzenlenmesi için başvurulması suretiyle yapılır.
+
+Ret isteminde bulunan, öğrendiği ret sebeplerinin tümünü bir defada açıklamak
+ve süresi içinde olguları ile birlikte ortaya koymakla yükümlüdür.
+
+Reddi istenen hâkim, ret sebepleri hakkındaki görüşlerini yazılı olarak
+bildirir.
+
+Hâkimin reddi istemine mensup olduğu mahkemece karar verilir. Ancak, reddi
+istenen hâkim müzakereye katılamaz. Bu nedenle mahkeme teşekkül edemezse bu
+hususta karar verilmesi;
+
+.. Reddi istenen hâkim asliye ceza mahkemesine mensup ise bu mahkemenin yargı
+çevresi içerisinde bulunan ağır ceza mahkemesine,
+.. Reddi istenen hâkim ağır ceza mahkemesine mensup ise o yerde ağır ceza
+mahkemesinin birden fazla dairesinin bulunması hâ inde, numara olarak kendisini
+izleyen daireye, son numaralı daire için (1) numaralı daireye; o yerde ağır
+ceza mahkemesinin tek dairesi bulunması hâlinde ise, en yakın ağır ceza
+mahkemesine,
+
+Aittir.
+
+Ret istemi sulh ceza hâkimine karşı ise, yargı çevresi içinde bulunduğu asliye
+ceza mahkemesi ve tek hâkime karşı ise, yargı çevresi içerisinde bulunan ağır
+ceza mahkemesi karar verir.
+
+Ret isteminin kabulü halinde, davaya bakmakla bir başka hâkim veya mahkeme
+görevlendirilir.
+
+Ret isteminin kabulüne ilişkin kararlar kesindir; kabul edilmemesine ilişkin
+kararlara karşı itiraz yoluna gidilebilir. İtiraz üzerine verilen ret kararı
+hükümle birlikte incelenir.
+
+Reddi istenen hâkim, ret hakkında bir karar verilinceye kadar yalnız
+gecikmesinde sakınca olan işlemleri yapar.
