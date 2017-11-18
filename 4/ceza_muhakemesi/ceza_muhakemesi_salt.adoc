@@ -1,3 +1,7 @@
+:toc:
+:toc-title: İçindekiler
+:icons: font
+
 == GENEL SÜREÇ
 
 Suç şüphesiyle başlayıp iddianamenin kabulüyle biten evreye *soruşturma* denir.
@@ -13,7 +17,7 @@ Soruşturma aşamasında suçun oluşup oluşmadığına, farklı şüphelilerin
 olmadığına yönelik araştırma yapılır ve bu araştırmalar neticesinde şüphe belli
 bir düzeye gelince cumhuriyet savcısı bir iddianame düzenler. Bu iddianame
 kabul veya reddedilmesi için mahkemeye gönderilir. _İddianamenin kabulüyle,
-kamu davası açılmış olur ve kovuşturma evresi başlar._ (CMK 175). 
+kamu davası açılmış olur ve kovuşturma evresi başlar._ (CMK 175).
 
 İddianamenin kabulünden olağan kanun yolları evresinin bitmesine (verilen
 kararın kesinleşmesine) kadar olan sürece *kovuşturma* evresi denir. Kovuşturma
@@ -46,3 +50,110 @@ Ancak bu kıyas serbestisinin iki istisnası vardır:
 . *Temel hak ve özgürlüklerle ilgili sınırlayıcı hükümler kıyasa tabi
 olamazlar.*
 . *İstisnai hükümlerde kıyasa başvurulamaz.*
+
+== MUHAKEME ENGELLERİ
+
+Kanunda bazı müesseseler davanın açılmasını engelleyen bazı müesseseler ise
+yargılamanın yapılmasını engelleyen hususlar olarak düzenlenmiştir. Davanın
+açılmasını engelleyen koşullara *dava koşulları*, yargılama yapılmasını
+engelleyen koşullara *yargılama koşulları* denir.
+
+Dava koşulları sadece davanın açılması noktasında etkili olmaz. Yargılama
+aşaması süresince mahkemeler bu koşulları gerçekleşip gerçekleşmediğini
+araştırmakla yükümlüdür.
+
+=== ŞİKAYET
+
+Cumhuriyet savcısı, ihbar veya başka bir suretle bir suçun işlendiği izlenimini
+veren bir hâli öğrenir öğrenmez kamu davasını açmaya yer olup olmadığına karar
+vermek üzere hemen işin gerçeğini araştırmaya başlar.
+
+Takibi şikayete bağlı olmayan suçlar yani re'sen soruşturulan suçlarda her kim
+olursa olsun savcılığa, kolluğa, mahkemelere, büyük elçiliklere ve kamu
+kurumlarına yapılan bildirimin adı **ihbar**dır. Re'sen soruşturulan suçlarda
+bildirimin ne zaman yapıldığının önemi yoktur, dava zamanaşımı süresi dolana
+kadar yapılabilir. İhbar veya diğer öğrenme şekilleri re'sen soruşturulan
+suçlarda bir dava koşulu değildir.
+
+Takibi şikayete bağlı suçlarda ise *şikayet* bir dava koşuludur. Kanun şikayet
+hakkının suçtan zarar görene ait olduğunu belirtmiştir. Korunan hukuki değer
+doğrudan birey ile ilişkiliyse suçtan zarar gören mağdurdur. Mülkiyet gibi
+müşterek değerler söz konusu ise eşin veya anne ve babanın da suçtan zarar
+gören olabileceği kabul edilmektedir.
+
+Birden fazla suçtan zarar gören varsa her kişi diğerlerinden bağımsız olarak
+şikayet hakkına sahiptir.
+
+Takibi şikayete bağlı suçlarda kanun şikayet süresini *fiilin ve failin
+öğrenilmesinden itibaren altı ay* ile sınırlandırmıştır.
+
+Suça ilişkin ihbar veya şikâyet, Cumhuriyet Başsavcılığına veya kolluk
+makamlarına yapılabilir. Valilik veya kaymakamlığa ya da mahkemeye yapılan
+ihbar veya şikâyet, ilgili Cumhuriyet Başsavcılığına gönderilir.
+
+Yurt dışında işlenip ülkede takibi gereken suçlar hakkında Türkiye'nin elçilik
+ve konsolosluklarına da ihbar veya şikâyette bulunulabilir.
+
+Bir kamu görevinin yürütülmesiyle bağlantılı olarak işlendiği iddia edilen bir
+suç nedeniyle, ilgili kurum ve kuruluş idaresine yapılan ihbar veya şikâyet,
+gecikmeksizin ilgili Cumhuriyet Başsavcılığına gönderilir.
+
+IMPORTANT: Kamu kurumları kendilerine ulaşan herhangi bir suç bildirimini
+savcılığa iletmek zorundadır. Ancak yurt dışında işlenip ülkede takibi gereken
+suçlar veya bir kamu görevinin yürütülmesi ile ilgili suçlarda elçilik ve
+konsolosluklara veya ilgili kamu kurumuna fiilin ve failin öğrenilmesinden
+itibaren altı ay içerisinde yapılacak bildirim süresinde yapılmış kabul
+edilecektir. Bunun dışında kalan suçlar bakımından yapılacak bildirim ilgili
+kurum tarafından savcılığa ulaştırıldığı tarihte yapılmış sayılacak ve süre
+buna göre hesaplanacaktır.
+
+İhbar veya şikâyet yazılı veya tutanağa geçirilmek üzere sözlü olarak
+yapılabilir.
+
+Yürütülen soruşturma sonucunda kovuşturma evresine geçildikten sonra suçun
+şikâyete bağlı olduğunun anlaşılması halinde; mağdur açıkça şikâyetten
+vazgeçmediği takdirde, yargılamaya devam olunur.
+
+Şikayetin konusu takibi şikayete bağlı bir suç oluşturduğu öne sürülen somut
+bir fiildir. Dolayısıyla şikayet hakkına sahip olanlardan bir tanesi bu hakkını
+kullandığında o suça iştirak eden herkes bakımından dava koşulu sağlanmış olur.
+Buna *şikayetin bölünmezliği* veya *şikayetin sirayeti* denir.
+
+Yapılmış bir şikayet hak sahibi olan kişi veya kişiler tarafından o fiille
+ilgili hüküm kesinleşinceye kadar geri alınabilir. Şikayetin geri alınması
+soruşturmayı takipsizlikle sonuçlandırır, kovuşturma aşamasında ise davanın
+düşmesine neden olur. Ancak hüküm kesinleştikten sonra şikayetin geri alınması
+kural olarak infaza etki etmez.
+
+Suçtan zarar gören kişi veya kişiler şikayet hakkı doğduktan sonra bu
+haklarından vazgeçebilirler. İspat kolaylığı bakımından bu bildirimin savcılık
+veya kolluk nezdinde yapılması isabetli olacaktır.
+
+Takibi şikayete bağlı suçlarda şikayetin geri alınması kabul etmeyen sanığı
+bağlamaz.
+
+Şikayet geri alındıktan sonra tekrar kullanılamaz.
+
+=== DAVA SÜRELERİ
+
+Kanun koyucu bazı suçlar bakımından fiilin işlenmesinden itibaren davanın
+belirli bir süre içerisinde açılmasını zorunlu kılmıştır. Uygulamada çok
+rastlanan bir koşul değildir. Örnek için Basın Kanunu 26.
+
+=== İZİN
+
+Anayasa'nın 129. maddesine göre "_Memurlar ve diğer kamu görevlileri hakkında
+işledikleri iddia edilen suçlardan ötürü ceza kovuşturması açılması, kanunla
+belirlenen istisnalar dışında, kanunun gösterdiği idari merciin iznine
+bağlıdır._"
+
+IMPORTANT: İznin konusu suç değil, soruşturmanın konusu olan fiildir.
+Soruşturma makamı isnat edilen bir fiilin görev sebebiyle olduğunu belirtmiş ve
+izin almışsa süreç içerisinde suç vasfının değişmesi herhangi bir etki
+yaratmaz.
+
+TIP: İznin verilmesine veya verilmemesine ilişkin karar idari bir karardır. Bu
+nedenle bu karara karşı çıkma mekanizması da idari yargıdadır. Kanunda da izin
+verilmesi halinde şüphelinin izin verilmemesi halinde ise savcı veya suçtan
+zarar görenin 10 gün içerisinde bölge adliye mahkemesine itiraz hakkı olduğu
+belirtilmiştir.
