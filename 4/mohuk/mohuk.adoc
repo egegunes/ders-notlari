@@ -1,0 +1,253 @@
+:toc:
+:toc-title: İçindekiler
+:icons: font
+
+== LEX FORI VE LEX CAUSA
+
+Milletlerarası usul hukukuna _lex fori_ ilkesi hakimdir. _Lex fori_, ilgili
+topraklarda hakim devletin hukukunun geçerli olduğunu ifade eder. İçinde
+yabancılık unsuru bulunan ihtilaflarda yargılamanın her aşamasında _lex fori_
+gereği mahkemenin bulunduğu yer hukukunun uygulanacaktır.
+
+_Lex causa_ sözleşmenin esası olan hukuktur.
+
+== YARGI VE İCRA BAĞIŞIKLIĞI
+
+Uyuşmazlıktaki taraflardan birinin *yargı bağışıklığı* varsa Türkiye
+mahkemeleri bu uyuşmazlık bakımından yargı yetkisine sahip değildir. Yargı
+bağışıklığına sahip olabilecek üç grup vardır:
+
+. *Yabancı devletler*: Eğer söz konusu hukuki ilişki yabancı devletin egemenlik
+tasarrufu ise burada yabancı devletin yargı bağışıklığı vardır. Ancak yabancı
+devlete, özel hukuk ilişkilerinden doğan hukuki uyuşmazlıklarda yargı muafiyeti
+tanınmaz.
++
+Yabancı devletin yargı bağışıklığı olmasa da *icra bağışıklığı* olabilir. İcra
+bağışıklığını tespit etmek için hacze konu edilecek yabancı devlet malının
+nasıl bir amaca özgülenmiş olduğuna bakılır. Kamusal amaca özgülenmiş mallar
+bakımından icra bağışıklığı söz konusu iken ticari amaca özgülenmiş mallar
+hacze konu edilebilir.
+. *Devleti sınırsız olarak temsile yetkili kişiler*: Devleti sınırsız olarak
+temsil yetkisine sahip kişiler devlet başkanlarıdır. Türkiye bakımından
+cumhurbaşkanı, başbakan ve dışişleri bakanı bu kapsama girer. Bunlar görevleri
+süresince yargı bağışıklığına tabidir.
+. *Diplomatik temsilciler ve konsoloslar*:
+
+.. *Diplomatik temsilciler*: Diplomatik temsilcilerin yargı bağışıklığı
+_Diplomatik İlişkiler Hakkında Viyana Sözleşmesi_ uyarınca belirlenir. Bu
+sözleşmede üç halde diplomatik temsilcilerin yargı bağışıklığının olmadığı
+belirtilmiştir.
++
+[caption=""]
+.Diplomatik temsilcinin yargı bağışıklığının olmadığı haller
+====
+... Taşınmaz üzerindeki ayni hak davaları
+... Mirasa ilişkin davalar
+... Mesleki veya ticari faaliyetlerden doğan eylemler
+====
++
+TIP: Yabancı devlet diplomatik temsilcisinin yargı bağışıklığından feragat
+edebilir.
+.. *Konsoloslar*: Konsolosların yargı bağışıklığına dair hükümler __Konsolosluk
+İlişkileri Hakkında Viyana Sözleşmesi__'nde düzenlenmiştir. Bu sözleşmeye göre
+konsoloslar sadece *resmi görevini yerine getirirken giriştikleri eylem ve
+işlemlerinde* yargı bağışıklığına sahiptir.
+
+Yargı bağışıklığının olmadığı durumlarda tebligatın nasıl yapılacağı önem
+taşır. _Lex fori_ ilkesi gereğince HMK ve Tebligat Kanunu'na göre tebligat
+yapılacaktır. Tebligat Kanunu'nda tebligatın diplomatik usulle yapılacağı
+düzenlenmiştir. Diplomatik usule göre mahkeme tebliğ edilmesi gereken evrakı
+Adalet Bakanlığı'na, Adalet Bakanlığı Dışişleri Bakanlığı'na, Dışişleri
+Bakanlığı da yabancı devletin dışişleri bakanlığına gönderecektir.
+
+MOHUK 49/2 ile daha kısa bir usul de öngörülmüştür. Buna göre yabancı devletin
+diplomatik temsilcilerine de tabligat yapılabilir.
+
+WARNING: Diplomatik temsilci veya konsolosun tarafı olduğu bir uyuşmazlık söz
+konusu ise Tebligat Kanunu'nda belirtilen diplomatik usulün işletilmesi
+zorunludur.
+
+== MİLLETLERARASI ÖZEL HUKUKTA YETKİ
+
+*Yargı yetkisi*, bir devletin egemenlik hakkından kaynaklanan ve mahkemelerinin
+kendi topraklarında olan davalara bakabilme yetkisidir. *Milletlerarası yetki*
+ise devletin mahkemelerinin yargı yetkisi varken davaya bakmaya yer olarak
+yetkili mahkemenin yetkisidir.
+
+Yabancılık unsuru içeren bir ihtilaf söz konusu ise Türkiye mahkemesi ilk
+olarak yargı yetkisinin var olup olmadığını inceleyecektir. Yargı yetkisi HMK
+114 uyarınca bir dava şartıdır. Buna karşılık milletlerarası yetki bir ilk
+itiraz olarak incelenecektir.
+
+MOHUK 40-47 arasındaki hükümler Türkiye mahkemelerinin milletlerarası
+yetkisini tesis eden yetki kurallarıdır.
+
+NOTE: Yerleşim yeri, mutad mesken, ifa yeri gibi kavramlar _lex fori_ gereğince
+Türk hukukuna göre belirlenecektir.
+
+Milletlerarası yetki sisteminde yetki kuralları öncelikle ikiye ayrılır:
+*Objektif yetki esası* ve *subjektif yetki esası*. Yetkili mahkeme kanun hükmü
+uyarınca belirlenmişse objektif yetki esası söz konusudur. Ancak yetkili
+mahkeme tarafların iradeleri ile belirlenmişse subjektif yetki esası söz
+konusudur.
+
+Objektif yetki esası da kendi içinde *genel milletlerarası yetki* ve *özel
+milletlerarası yetki* olarak ikiye ayrılmaktadır.
+
+=== GENEL YETKİ KURALI
+
+[caption=""]
+.MOHUK 40 - Milletlerarası yetki
+====
+Türk mahkemelerinin milletlerarası yetkisini, iç hukukun yer itibariyle yetki
+kuralları tayin eder.
+====
+
+[caption=""]
+.HMK 6 - Genel yetkili mahkeme
+====
+Genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanın açıldığı
+tarihteki yerleşim yeri mahkemesidir.
+
+Yerleşim yeri, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine
+göre belirlenir.
+====
+
+==== GERÇEK KİŞİLER BAKIMINDAN
+
+[caption=""]
+.TMK 19 - Tanım
+====
+Yerleşim yeri bir kimsenin sürekli kalma niyetiyle oturduğu yerdir.
+
+Bir kimsenin aynı zamanda birden çok yerleşim yeri olamaz.
+
+Bu kural ticarî ve sınaî kuruluşlar hakkında uygulanmaz.
+====
+
+[caption=""]
+.TMK 20 - Yerleşim yerinin değiştirilmesi ve oturma yeri
+====
+Bir yerleşim yerinin değiştirilmesi yenisinin edinilmesine bağlıdır.
+
+Önceki yerleşim yeri belli olmayan veya yabancı ülkedeki yerleşim yerini
+bıraktığı hâlde Türkiye'de henüz bir yerleşim yeri edinmemiş olan kimsenin
+hâlen oturduğu yer, yerleşim yeri sayılır.
+====
+
+[caption=""]
+.HMK 9 - Türkiye’de yerleşim yerinin bulunmaması hâlinde yetki
+====
+Türkiye’de yerleşim yeri bulunmayanlar hakkında genel yetkili mahkeme,
+davalının Türkiye’deki mutad meskeninin bulunduğu yer mahkemesidir. Ancak,
+diğer özel yetki hâlleri saklı kalmak üzere, malvarlığı haklarına ilişkin dava,
+uyuşmazlık konusu malvarlığı unsurunun bulunduğu yerde de açılabilir.
+====
+
+TIP: *Mutad mesken*, kişinin hayat ilişkilerinin yoğunlaştığı yerdir.
+
+NOTE: Kişinin *yabancı ülkede yerleşim yeri varsa ancak Türkiye'de yerleşim
+yeri yoksa* HMK 9 uyarınca mutad mesken mahkemesi milletlerarası yetkili
+mahkeme olacaktır. Eğer *yabancı ülkede yerleşim yeri yoksa veya belli değilse*
+bu kişi bakımından Türkiye'de halen oturduğu yer mahkemesi yetki kazanacaktır.
+
+==== TÜZEL KİŞİLER BAKIMINDAN
+
+Tüzel kişinin yerleşim yeri, kuruluş belgesinde başka bir hüküm bulunmadıkça
+işlerinin yönetildiği yerdir.
+
+Tüzel kişinin Türkiye'de yerleşim yeri yok ancak Türkiye'de bulunan bir şubesi
+ile işlem yapılmış ise bu işlemden kaynaklanan davalar bakımından şubenin
+bulunduğu yer mahkemesi yetkilidir.
+
+Tüzel kişinin Türkiye'de ne yerleşim yeri ne de şubesi var ancak sözleşme
+acente aracılığıyla akdedilmiş ise acentenin bulunduğu yer mahkemesi uyuşmazlık
+bakımından milletlerarası yetkili mahkemedir.
+
+=== ÖZEL YETKİ KURALLARI
+
+IMPORTANT: MOHUK'taki genel yetki-özel yetki ilişkisi HMK'dan farklıdır. HMK'da
+özel yetki genel yetkiye alternatif olurken MOHUK'ta özel yetki halleri Türkiye
+mahkemelerinin yetkili olup olmadığına *nihai* olarak karar vermektedir. Yani
+özel yetki kurallarının kapsamına giren bir hal söz konusu ancak yapılan
+değerlendirme sonucu Türkiye mahkemelerinin yetki olmadığı anlaşılmış ise genel
+yetki kuralı da uygulanamaz.
+
+[caption=""]
+.MOHUK 41 - Türklerin kişi hâllerine ilişkin davalar
+====
+Türk vatandaşlarının kişi hâllerine ilişkin davaları, yabancı ülke
+mahkemelerinde açılmadığı veya açılamadığı takdirde Türkiye’de yer itibariyle
+yetkili mahkemede, bulunmaması hâlinde ilgilinin sâkin olduğu yer, Türkiye’de
+sâkin değilse Türkiye’deki son yerleşim yeri mahkemesinde, o da bulunmadığı
+takdirde Ankara, İstanbul veya İzmir mahkemelerinden birinde görülür.
+====
+
+[caption=""]
+.MOHUK 42 - Yabancıların kişi hâllerine ilişkin bazı davalar
+====
+Türkiye'de yerleşim yeri bulunmayan yabancı hakkında vesâyet, kayyımlık,
+kısıtlılık, gaiplik ve ölmüş sayılma kararları ilgilinin Türkiye'de sâkin
+olduğu yer, sâkin değilse mallarının bulunduğu yer mahkemesince verilir.
+====
+
+[caption=""]
+.MOHUK 43 - Miras davaları
+====
+Mirasa ilişkin davalar ölenin Türkiye'deki son yerleşim yeri mahkemesinde, son
+yerleşim yerinin Türkiye'de olmaması hâlinde terekeye dâhil malların bulunduğu
+yer mahkemesinde görülür.
+====
+
+[caption=""]
+.MOHUK 44 - İş sözleşmesi ve iş ilişkisi davaları
+====
+Bireysel iş sözleşmesinden veya iş ilişkisinden doğan uyuşmazlıklarda işçinin
+işini mutaden yaptığı işyerinin Türkiye’de bulunduğu yer mahkemesi yetkilidir.
+İşçinin, işverene karşı açtığı davalarda işverenin yerleşim yeri, işçinin
+yerleşim yeri veya mutad meskeninin bulunduğu Türk mahkemeleri de yetkilidir.
+====
+
+[caption=""]
+.MOHUK 45 - Tüketici sözleşmesine ilişkin davalar
+====
+26 ncı maddede tanımlanan tüketici sözleşmelerinden doğan uyuşmazlıklarda,
+tüketicinin seçimine göre, tüketicinin yerleşim yeri veya mutad meskeni ya da
+karşı tarafın işyeri, yerleşim yeri veya mutad meskeninin bulunduğu Türk
+mahkemeleri yetkilidir.
+
+Birinci fıkra uyarınca yapılan tüketici sözleşmeleri hakkında tüketiciye karşı
+açılacak davalarda yetkili mahkeme, tüketicinin Türkiye’deki mutad meskeni
+mahkemesidir.
+====
+
+[caption=""]
+.MOHUK 46 - Sigorta sözleşmesine ilişkin davalar
+====
+Sigorta sözleşmesinden doğan uyuşmazlıklarda, sigortacının esas işyeri veya
+sigorta sözleşmesini yapan şubesinin ya da acentasının Türkiye’de bulunduğu yer
+mahkemesi yetkilidir. Ancak sigorta ettirene, sigortalıya veya lehdara karşı
+açılacak davalarda yetkili mahkeme, onların Türkiye’deki yerleşim yeri veya
+mutad meskeni mahkemesidir.
+====
+
+=== YETKİ ANLAŞMASI
+
+Taraflar yetki anlaşması ile Türkiye mahkemelerini yetkili kılmışsa bunun
+şartları ve sonuçları HMK 18'e tabi olacaktır. Eğer yabancı bir mahkeme yetkili
+kılınmışsa MOHUK 47'ye tabi olacaktır.
+
+[caption=""]
+.MOHUK 47 - Yetki anlaşması ve sınırları
+====
+Yer itibariyle yetkinin münhasır yetki esasına göre tayin edilmediği hâllerde,
+taraflar, aralarındaki yabancılık unsuru taşıyan ve borç ilişkilerinden doğan
+uyuşmazlığın yabancı bir devletin mahkemesinde görülmesi konusunda
+anlaşabilirler. Anlaşma, yazılı delille ispat edilmesi hâlinde geçerli olur.
+Dava, ancak yabancı mahkemenin kendisini yetkisiz sayması veya Türk
+mahkemelerinde yetki itirazında bulunulmaması hâlinde yetkili Türk mahkemesinde
+görülür.
+
+44, 45 ve 46 ncı maddelerde belirlenen mahkemelerin yetkisi tarafların
+anlaşmasıyla bertaraf edilemez.
+====
