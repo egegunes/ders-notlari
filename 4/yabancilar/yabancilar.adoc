@@ -1,3 +1,7 @@
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
 == YABANCI
 
 *Yabancı*, hiçbir devletin vatandaşlığını taşımayan veya bulunduğu devletin
@@ -46,7 +50,18 @@ konusu korku nedeniyle yararlanmak istemeyen yabancıya veya bu tür olaylar
 sonucu önceden yaşadığı ikamet ülkesinin dışında bulunan, oraya dönemeyen veya
 söz konusu korku nedeniyle dönmek istemeyen vatansız kişiye statü belirleme
 işlemleri sonrasında mülteci statüsü verilir.
+====
 
+Devlet tarafından mültecilere _uluslarası koruma kimlik_ belgesi verilir. Bu
+kimlik belgesi *üç yıl* süreyle verilir ve hukuki anlamda ikamet izni yerine
+geçer. Ayrıca mülteciler düzenlenen _uluslararası seyahat belgesi_ ile seyahat
+edebilirler.
+
+== ŞARTLI MÜLTECİ
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
 *Şartlı mülteci*
 
 *MADDE 62 –* Avrupa ülkeleri dışında meydana gelen olaylar sebebiyle; ırkı,
@@ -60,3 +75,241 @@ vatansız kişiye statü belirleme işlemleri sonrasında şartlı mülteci stat
 verilir. Üçüncü ülkeye yerleştirilinceye kadar, şartlı mültecinin Türkiye’de
 kalmasına izin verilir.
 ====
+
+TIP: Şartlı mültecilerin tek özelliği Avrupa ülkeleri dışından gelen kişiler
+olmalarıdır.
+
+NOTE: Devletin şartlı mülteri statüsünün verilmesi hususunda takdir hakkı
+yoktur. Madde 62'de şartları taşıyan kişilere statü verilir.
+
+Şartlı mülteci statüsü verilen kişilere *bir yıl* süreyle _uluslararası koruma
+kimlik_ belgesi verilir. Bu kimlik belgesi ikamet izni yerine de geçer. Bu
+kişilerin yurtdışına çıkışı için _yabancılara mahsus pasaport_ düzenlenir.
+
+Şartlı mültecilere, mültecilerden farklı olarak, Türkiye'de belirli bir şehirde
+yaşama ve bildirimde bulunma zorunluluğu yüklenebilir.
+
+== İKİNCİL KORUMA STATÜSÜ
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*İkincil koruma*
+
+*MADDE 63 –* Mülteci veya şartlı mülteci olarak nitelendirilemeyen, ancak menşe
+ülkesine veya ikamet ülkesine geri gönderildiği takdirde;
+
+.. Ölüm cezasına mahkûm olacak veya ölüm cezası infaz edilecek,
+.. İşkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye maruz kalacak,
+.. Uluslararası veya ülke genelindeki silahlı çatışma durumlarında, ayrım
+gözetmeyen şiddet hareketleri nedeniyle şahsına yönelik ciddi tehditle
+karşılaşacak,
+
+olması nedeniyle menşe ülkesinin veya ikamet ülkesinin korumasından
+yararlanamayan veya söz konusu tehdit nedeniyle yararlanmak istemeyen yabancı
+ya da vatansız kişiye, statü belirleme işlemleri sonrasında ikincil koruma
+statüsü verilir.
+====
+
+== GEÇİCİ KORUMA STATÜSÜ
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Geçici koruma*
+
+*MADDE 91 –* Ülkesinden ayrılmaya zorlanmış, ayrıldığı ülkeye geri dönemeyen,
+acil ve geçici koruma bulmak amacıyla kitlesel olarak sınırlarımıza gelen veya
+sınırlarımızı geçen yabancılara geçici koruma sağlanabilir.
+
+Bu kişilerin Türkiye’ye kabulü, Türkiye’de kalışı, hak ve yükümlülükleri,
+Türkiye’den çıkışlarında yapılacak işlemler, kitlesel hareketlere karşı
+alınacak tedbirlerle ulusal ve uluslararası kurum ve kuruluşlar arasındaki iş
+birliği ve koordinasyon, merkez ve taşrada görev alacak kurum ve kuruluşların
+görev ve yetkilerinin belirlenmesi, Bakanlar Kurulu tarafından çıkarılacak
+yönetmelikle düzenlenir.
+====
+
+[caption=""]
+.Geçici Koruma Yönetmeliği
+====
+*GEÇİCİ MADDE 1 -* (1) 28/4/2011 tarihinden itibaren Suriye Arap
+Cumhuriyeti’nde meydana gelen olaylar sebebiyle geçici koruma amacıyla Suriye
+Arap Cumhuriyeti’nden kitlesel veya bireysel olarak sınırlarımıza gelen veya
+sınırlarımızı geçen Suriye Arap Cumhuriyeti vatandaşları ile vatansızlar ve
+mülteciler, uluslararası koruma başvurusunda bulunmuş olsalar dahi geçici
+koruma altına alınırlar. Geçici korumanın uygulandığı süre içinde, bireysel
+uluslararası koruma başvuruları işleme konulmaz.
+
+(2) Birinci fıkrada belirtilen yabancılardan 28/4/2011 tarihinden önce
+uluslararası koruma başvurusunda bulunanlar, talepleri halinde geçici koruma
+altına alınırlar.
+====
+
+Geçici koruma statüsü aşağıdaki hakları sağlamaktadır:
+
+* Açık sınır politikası ile ülke topraklarına kabul
+* Geri gönderilmeme hakkı
+* Temel ve acil ihtiyaçların karşılanması
+* Oturma imkanı (*ikamet izni yerine geçmez*)
+* Sağlık güvencesi
+* Anadilde eğitim hakkı
+* Çalışma izni
+* İdari mercilerin işlemlerine karşı itiraz hakkı
+* Avukat edinme hakkı
+
+[caption=""]
+.Geçici Koruma Yönetmeliği
+====
+*Geçici koruma kapsamına alınmayacak yabancılar*
+
+*MADDE 8 -* Aşağıdaki hallerde, yabancı geçici korumadan yararlandırılmaz,
+yararlandırılmışsa geçici koruması iptal edilir.
+
+.. Mültecilerin Hukuki Durumuna Dair 1967 Protokolüyle değişik 28/7/1951
+tarihli Mültecilerin Hukuki Durumuna Dair Sözleşmenin 1 inci maddesinin (F)
+fıkrasında belirtilen fiillerden suçlu olduğuna dair ciddi kanaat bulunanlar.
++
+.Mültecilerin Hukuki Durumuna Dair Sözleşme
+----
+MADDE 1
+
+F. Bu Sözleşme hükümleri:
+
+ a. Bunlara mütedair milletlerarası vesikalarda tarif edildiği manada barışa
+ karşı bir suç, bir harb suçu veya insanlığa karşı bir suç işlediği;
+
+ b. Mülteci sıfatıyla kabul edildiği memlekete ilticadan evvel iltica memleketi
+ dışında ağır bir genel suç işlediği;
+
+ c. Birleşmiş Milletlerin gaye ve prensiplerine aykırı fiillerden suçlu olduğu
+ hususunda;
+
+Ciddi kannat mevcut olan bir şahıs hakkında tatbik edilemez.
+----
+.. Türkiye dışında hangi saikle olursa olsun zalimce eylemler yaptığını
+düşündürecek nedenleri bulunanlar.
+.. Bu fıkranın (a) ve (b) bentlerinde belirtilen suç ya da fiillerin
+işlenmesine iştirak eden veya bu fiillerin işlenmesini tahrik edenler.
+.. Ülkesinde silahlı çatışmaya katılmış olduğu halde bu faaliyetlerini kalıcı
+olarak sonlandırmayanlar.
+.. Terör eylemlerinde bulunduğu veya planladığı ya da bu eylemlere iştirak
+ettiği tespit edilenler.
+.. Ciddi bir suçtan mahkûm olarak topluma karşı tehdit oluşturabileceği
+değerlendirilenler ile milli güvenlik, kamu düzeni veya kamu güvenliği
+açısından tehlike oluşturduğu değerlendirilenler.
+.. Türkiye’de işlenmesi hâlinde hapis cezası verilmesini gerektiren suç veya
+suçları daha önce işleyen ve bu suçun cezasını çekmemek için menşe veya ikamet
+ülkesini terk edenler.
+.. Uluslararası mahkemelerce hakkında insanlık suçu işlediğine dair karar
+verilmiş kişiler.
+.. 5237 sayılı Türk Ceza Kanunu'nun Devlet Sırlarına Karşı Suçlar ile Casusluk
+Suçlarından birini işleyenler
+====
+
+[caption=""]
+.Geçici Koruma Yönetmeliği
+====
+*Geçici koruma uygulamasının sona ermesi*
+
+*MADDE 11 -* Bakanlık, geçici korumanın sona erdirilmesi için Bakanlar
+Kuruluna teklifte bulunabilir. Geçici koruma, Bakanlar Kurulu kararıyla
+sonlandırılır.
+
+Bakanlar Kurulu, sonlandırma kararıyla birlikte;
+
+.. Geçici korumayı tamamen durdurarak geçici korunanların ülkelerine dönmesine,
+.. Geçici korunanlara, koşullarını taşıdıkları statünün toplu olarak
+verilmesine ya da uluslararası koruma başvurusunda bulunanların başvurularının
+bireysel olarak değerlendirilmesine,
+.. Geçici korunanların, Kanun kapsamında belirlenecek koşullarda Türkiye’de
+kalmalarına izin verilmesine,
+
+karar verebilir.
+====
+
+[caption=""]
+.Geçici Koruma Yönetmeliği
+====
+*Geçici korumanın bireysel olarak sona ermesi veya iptali*
+
+*MADDE 12 -* Geçici korunanların;
+
+.. Kendi isteğiyle Türkiye’den ayrılması,
+.. Üçüncü bir ülkenin korumasından faydalanması,
+.. Üçüncü bir ülkeye insani nedenler veya yeniden yerleştirme kapsamında kabul
+edilmesi ya da üçüncü bir ülkeye çıkış yapması,
+.. Ölmesi,
+
+hallerinde geçici koruma bireysel olarak sona erer.
+
+8 inci maddenin birinci fıkrası kapsamında yer alanların geçici korumanın
+kapsamı dışında tutulması gerektiğinin sonradan anlaşılması halinde geçici
+koruma, Genel Müdürlük veya valilikler tarafından iptal edilir.
+====
+
+== İDARİ GÖZETİM
+
+Kişiler uluslararası koruma statüsüne başvurmalarına veya bu statüye
+alınmalarına rağmen idare, idari gözetim altına alarak kişinin hürriyet hakkını
+kısıtlayabilir.
+
+Başvuru sahiplerinin idari gözetim altına alınması istisnai bir işlemdir.
+Başvuru sahibi sadece aşağıdaki hâllerde idari gözetim altına alınabilir:
+
+.. Kimlik veya vatandaşlık bilgilerinin doğruluğuyla ilgili ciddi şüphe varsa,
+bu bilgilerinin tespiti amacıyla
+.. Sınır kapılarında usulüne aykırı surette ülkeye girmekten alıkonulması
+amacıyla
+.. İdari gözetim altına alınmaması durumunda başvurusuna temel oluşturan
+unsurların belirlenemeyecek olması hâlinde
+.. Kamu düzeni veya kamu güvenliği açısından ciddi tehlike oluşturması hâlinde
+
+İdari gözetimin gerekip gerekmediği bireysel olarak değerlendirilir. İkinci
+fıkrada belirtilen hâllerde; idari gözetim altına alınmadan önce, 71 inci
+maddede belirtilen ikamet zorunluluğu ve bildirim yükümlülüğünün yeterli olup
+olmayacağı öncelikle değerlendirilir. Valilik, idari gözetim yerine başka
+usuller belirleyebilir. Bu tedbirler yeterli olmadığı takdirde, idari gözetim
+uygulanır.
+
+IMPORTANT: Başvuru sahipleri, sadece uluslararası koruma başvurusunda
+bulunmalarından dolayı idari gözetim altına alınamaz.
+
+İdari gözetim kararı, idari gözetim altına alınma gerekçelerini ve gözetimin
+süresini içerecek şekilde idari gözetim altına alınan kişiye veya yasal
+temsilcisine ya da avukatına yazılı olarak tebliğ edilir. İdari gözetim altına
+alınan kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu ve itiraz
+usulleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
+
+*Başvuru sahibinin idari gözetim süresi otuz günü geçemez*. İdari gözetim altına
+alınan kişilerin işlemleri en kısa sürede tamamlanır. İdari gözetim, şartları
+ortadan kalktığı takdirde derhâl sonlandırılır.
+
+İdari gözetimin her aşamasında, kararı alan makam tarafından, idari gözetim
+sonlandırılarak, 71 inci maddede belirtilen yükümlülüklerin veya başka
+tedbirlerin yerine getirilmesi istenebilir.
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*İkamet zorunluluğu ve bildirim yükümlülüğü*
+
+*MADDE 71 –* Başvuru sahibine, kendisine gösterilen kabul ve barınma
+merkezinde, belirli bir yerde veya ilde ikamet etme zorunluluğu ile istenilen
+şekil ve sürelerde bildirimde bulunma gibi idari yükümlülükler getirilebilir.
+
+Başvuru sahibi, adres kayıt sistemine kayıt yaptırmak ve ikamet adresini
+valiliğe bildirmekle yükümlüdür.
+====
+
+İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari
+gözetime karşı *sulh ceza hâkimine* başvurabilir. Başvuru idari gözetimi
+durdurmaz. Dilekçenin idareye verilmesi hâlinde, dilekçe yetkili sulh ceza
+hâkimine derhâl ulaştırılır. *Sulh ceza hâkimi incelemeyi beş gün içinde
+sonuçlandırır*. *Sulh ceza hâkiminin kararı kesindir*. İdari gözetim altına
+alınan kişi veya yasal temsilcisi ya da avukatı, idari gözetim şartlarının
+ortadan kalktığı veya değiştiği iddiasıyla yeniden sulh ceza hâkimine
+başvurabilir.
+
+CAUTION: Sulh ceza hakiminin kararına karşı yalnızca Anayasa Mahkemesi'ne
+bireysel başvuru yapılabilir.
