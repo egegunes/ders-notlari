@@ -2,6 +2,20 @@
 :toc:
 :toc-title: İçindekiler
 
+== YABANCILAR HUKUKUNA HAKİM OLAN İLKELER
+
+. *Eşitlik İlkesi*: Prensip olarak vatandaş ile yabancı eşittir.
+. *Karşılıklı Muamele (Mutekabiliyet) İlkesi*: İki devlet arasında uygulanan ve
+ülkelerinde diğerinin vatandaşlarına aynı mahiyetteki hakları tanımalarını
+ifade eden prensiptir.
+. *En Ziyade Müsaadeye Mazhar Millet Muamelesi (En Çok Gözetilen Ulus Kaydı)*:
+İki ülke arasındaki anlaşmanın üçüncü ülke vatandaşlarını uygulanmasını
+sağlayan kayıttır.
+. *Mukebele-i Bilmisil*: Yabancı bir devletin topraklarında bulunan kendi
+vatandaşı gerçek veya tüzel kişilere karşı yaptığı hak ihlallerine karşı
+devletin kendi topraklarındaki aynı devletin vatandaşlarına karşı aynı
+muamelede bulunmasıdır.
+
 == YABANCI
 
 *Yabancı*, hiçbir devletin vatandaşlığını taşımayan veya bulunduğu devletin
@@ -313,3 +327,233 @@ başvurabilir.
 
 CAUTION: Sulh ceza hakiminin kararına karşı yalnızca Anayasa Mahkemesi'ne
 bireysel başvuru yapılabilir.
+
+== YABANCILARIN TÜRKİYE'YE GİRİŞİ
+
+=== PASAPORT
+
+Pasaport, prensip olarak kişiye vatandaşı olduğu ülke tarafından verilen ve
+ülkeden çıkışına izin veren belgedir. Yabancı bir kimse Türkiye'ye giriş yapmak
+isterse pasaporta veya pasaport yerine geçen bir belgeye sahip olmalıdır.
+
+==== PASAPORT YERİNE GEÇEN BELGELER
+
+. *Pasavan*: Ortak sınır bölgesi bulunan devletler arasında yapılan anlaşmalar
+ile o bölgedeki insanların geçişini kolaylaştıran belgeler düzenlenir.
+. *Nakil vasıtalarında kullanılan mürettebat hakkında verilen belgeler*:
+Yabancı ülkelerin yetkili makamlarından alınmış mürettebat olduğunu gösteren
+belgeler karşılıklılık şartı ile Türkiye'ye girişi sağlar.
+. *Kimlik*: Bazı ülkelerin vatandaşları sadece kimlik belgesi ile giriş
+yapabilir (örneğin KKTC).
+
+=== VİZE
+
+Türkiye'de 90 güne kadar kalacak olan yabancıların vize alması gerekir. Vize
+maksimum 5 yıllık süre ile verilir. Bir kişiye vize verildiğinde bu vizenin 6
+ay içinde kullanılması gerekir.
+
+Vize bir yabancıya 180 günlük bir dilimde maksimum 90 günlük Türkiye'de kalma
+imkanı sağlar. Bir yabancı 5 yıllık Türkiye vizesine sahip olsa da 180 gün
+içinde en fazla 90 gün ülkede kalabilir.
+
+NOTE: Bir kimseye TC tarafından vize verilmiş olması ülkeye giriş konusunda
+mutlak hak sağlamaz.
+
+Kanun vize başvurularının sonuçlandırılmasını bir süreye tabi kılmıştır. Her
+halde en fazla 90 gün içinde sonuçlandırılması gerekir.
+
+Bakanlar Kurulu pasaport ve vizeye ilişkin anlaşmalar yapma konusunda
+yetkilidir. Bazı ülkelerin vatandaşları bakımından tek taraflı veya karşılıklı
+vize mecburiyetini kaldırabilir, harçtan muaf tutabilir, vize sürelerini
+belirleyebilir veya vize konusunda ilave şartlar getirebilir.
+
+==== SINIR VİZESİ
+
+Vize almadan sınır kapılarına gelen yabancılara, süresi içinde Türkiye’den
+ayrılacaklarını belgelemeleri hâlinde, sınır kapılarında istisnai olarak vize
+verilebilir.
+
+Sınır vizesi, sınır kapılarının bağlı olduğu valiliklerce verilir. Valilik bu
+yetkisini sınırda görevli kolluk birimine devredebilir. Bakanlar Kurulunca
+farklı bir süre belirlenmediği sürece, bu vize Türkiye’de en fazla on beş gün
+kalma hakkı sağlar.
+
+Sınır vizesinin verilmesinde, insani nedenlere bağlı olarak sağlık sigortası
+şartı aranmayabilir.
+
+==== HAVALİMANI TRANSİT VİZESİ
+
+Türkiye’den transit geçecek yabancılara, havalimanı transit vizesi şartı
+getirilebilir. Havalimanı transit vizeleri, en fazla altı ay içinde kullanılmak
+üzere konsolosluklar tarafından verilir.
+
+Havalimanı transit vizesi istenecek yabancılar, Bakanlık ve Dışişleri
+Bakanlığınca müştereken belirlenir.
+
+==== VİZE MUAFİYETİ
+
+Aşağıda sayılan yabancılardan Türkiye’ye girişte vize şartı aranmaz:
+
+.. Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalarla ya da Bakanlar Kurulu
+kararıyla vizeden muaf tutulan ülkelerin vatandaşları
+.. Türkiye’ye giriş yapacağı tarih itibarıyla, geçerli ikamet veya çalışma izni
+bulunanlar
+.. 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 18 inci maddesine göre
+verilmiş ve geçerliliklerini yitirmemiş yabancılara mahsus damgalı pasaport
+sahipleri
+.. 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesi
+kapsamında olduğu anlaşılanlar
+
+Aşağıda sayılan yabancılardan Türkiye’ye girişte vize şartı aranmayabilir:
+
+.. Mücbir nedenlerle, Türk hava ve deniz limanlarını kullanmak zorunda kalan
+taşıtlardaki yabancılardan liman şehrine çıkacak kişiler
+.. Deniz limanlarına gelip, yetmiş iki saati geçmemek kaydıyla, liman şehrini
+veya civar illeri turizm amaçlı gezecek kişiler
+
+==== VİZE VERİLMEYECEK YABANCILAR
+
+Aşağıda belirtilen yabancılara vize verilmez:
+
+.. Talep ettikleri vize süresinden en az altmış gün daha uzun süreli pasaport
+ya da pasaport yerine geçen belgesi olmayanlar
+.. Türkiye’ye girişleri yasaklı olanlar
+.. Kamu düzeni veya kamu güvenliği açısından sakıncalı görülenler
+.. Kamu sağlığına tehdit olarak nitelendirilen hastalıklardan birini
+taşıyanlar
+.. Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalar uyarınca, suçluların geri
+verilmesine esas olan suç veya suçlardan sanık olanlar ya da hükümlü bulunanlar
+.. Kalacağı süreyi kapsayan geçerli sağlık sigortası bulunmayanlar
+.. Türkiye’ye giriş, Türkiye’den geçiş veya Türkiye’de kalış amacını haklı
+nedenlere dayandıramayanlar
+.. Kalacağı sürede, yeterli ve düzenli maddi imkâna sahip olmayanlar
+.. Vize ihlalinden veya önceki ikamet izninden doğan ya da 21/7/1953 tarihli ve
+6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre takip ve
+tahsil edilmesi gereken alacakları ödemeyi kabul etmeyenler veya 26/9/2004
+tarihli ve 5237 sayılı Türk Ceza Kanununa göre takip edilen borç ve cezalarını
+ödemeyi kabul etmeyenler
+
+Yukarıdaki maddeler kapsamında olmasına rağmen vize verilmesinde yarar
+görülenlere Bakanın onayıyla vize verilebilir.
+
+=== TÜRKİYE'YE GİRİŞLERİNE İZİN VERİLMEYECEK YABANCILAR
+
+Aşağıdaki yabancılar, Türkiye’ye girişlerine izin verilmeyerek geri çevrilir:
+
+.. Pasaportu, pasaport yerine geçen belgesi, vizesi veya ikamet ya da çalışma
+izni olmayanlar ile bu belgeleri veya izinleri hileli yollarla edindiği veya
+sahte olduğu anlaşılanlar
+.. Vize, vize muafiyeti veya ikamet izin süresinin bitiminden itibaren en az
+altmış gün süreli pasaport veya pasaport yerine geçen belgesi olmayanlar
+.. 15 inci maddenin ikinci fıkrası saklı kalmak kaydıyla, vize muafiyeti
+kapsamında olsalar dahi, 15 inci maddenin birinci fıkrasında sayılan yabancılar
+
+Bu maddeyle ilgili olarak yapılan işlemler, geri çevrilen yabancılara tebliğ
+edilir. Tebligatta, yabancıların karara karşı itiraz haklarını etkin şekilde
+nasıl kullanabilecekleri ve bu süreçteki diğer yasal hak ve yükümlülükleri de
+yer alır.
+
+=== TÜRKİYE'YE GİRİŞ YASAĞI
+
+Genel Müdürlük, gerektiğinde ilgili kamu kurum ve kuruluşlarının görüşlerini
+alarak, Türkiye dışında olup da kamu düzeni veya kamu güvenliği ya da kamu
+sağlığı açısından Türkiye’ye girmesinde sakınca görülen yabancıların ülkeye
+girişini yasaklayabilir.
+
+Türkiye’den sınır dışı edilen yabancıların Türkiye’ye girişi, Genel Müdürlük
+veya valilikler tarafından yasaklanır.
+
+Türkiye’ye giriş yasağının süresi en fazla beş yıldır. Ancak, kamu düzeni veya
+kamu güvenliği açısından ciddi tehdit bulunması hâlinde bu süre Genel
+Müdürlükçe en fazla on yıl daha artırılabilir.
+
+Vize veya ikamet izni süresi sona eren ve bu durumları yetkili makamlarca
+tespit edilmeden önce Türkiye dışına çıkmak için valiliklere başvuruda bulunup
+hakkında sınır dışı etme kararı alınan yabancıların Türkiye’ye giriş yasağı
+süresi bir yılı geçemez.
+
+56 ncımadde uyarınca Türkiye’yi terke davet edilenlerden, süresi içinde ülkeyi
+terk edenler hakkında giriş yasağı kararı alınmayabilir.
+
+Genel Müdürlük, giriş yasağını kaldırabilir veya giriş yasağı saklı kalmak
+kaydıyla yabancının belirli bir süre için Türkiye’ye girişine izin verebilir.
+
+Kamu düzeni veya kamu güvenliği sebebiyle bazı yabancıların ülkeye kabulü Genel
+Müdürlükçe ön izin şartına bağlanabilir.
+
+== YABANCILARIN TÜRKİYE'DE İKAMETİ
+
+Türkiye’de, vizenin veya vize muafiyetinin tanıdığı süreden ya da doksan günden
+fazla kalacak yabancıların ikamet izni almaları zorunludur. İkamet izni, altı
+ay içinde kullanılmaya başlanmadığında geçerliliğini kaybeder.
+
+İkamet izni başvurusu, yabancının vatandaşı olduğu veya yasal olarak bulunduğu
+ülkedeki konsolosluklara yapılır.
+
+İkamet izni için başvuracak yabancılarda, talep ettikleri ikamet izni
+süresinden altmış gün daha uzun süreli pasaport ya da pasaport yerine geçen
+belgeye sahip olmaları şartı aranır.
+
+Başvuru için gerekli olan bilgi ve belgeler eksik ise, başvurunun
+değerlendirilmesi eksiklikler tamamlanıncaya kadar ertelenebilir. Eksik olan
+bilgi ve belgeler ilgiliye bildirilir.
+
+Başvurular, en geç doksan gün içinde sonuçlandırılır.
+
+İkamet izni başvurusunun reddine ilişkin işlemler ilgiliye tebliğ edilir.
+
+İkamet izni başvuruları, aşağıdaki hâllerde istisnai olarak valiliklere de
+yapılabilir:
+
+.. Adli veya idari makamların kararlarında veya taleplerinde
+.. Yabancının Türkiye’den ayrılmasının makul veya mümkün olmadığı durumlarda
+.. Uzun dönem ikamet izinlerinde
+.. Öğrenci ikamet izinlerinde
+.. İnsani ikamet izinlerinde
+.. İnsan ticareti mağduru ikamet izinlerinde
+.. Aile ikamet izninden kısa dönem ikamet iznine geçişlerde
+.. Türkiye’de ikamet izni bulunan anne veya babanın Türkiye’de doğan çocukları
+için yapacağı başvurularda
+.. Geçerli ikamet izninin verilmesine esas olan gerekçenin sona ermesi veya
+değişikliğe uğramasından dolayı yeni kalış amacına uygun ikamet izni almak
+üzere yapılacak başvurularda
+.. 20 nci maddenin ikinci fıkrası kapsamında yapılacak ikamet izni
+başvurularında
+.. Türkiye’de yükseköğrenimini tamamlayanların, kısa dönem ikamet iznine
+geçişlerinde
+
+Askeri Bölgeler ve Güvenlik Bölgeleri Kanunu'nda belirtilen birinci ve ikinci
+derecek askeri yasak bölgeleri ikamet bakımından özellik taşır. Birinci derece
+askeri yasak bölgelerinde yabancıların ikameti mümkün değildir, Genelkurmay
+Başkanlığı'nın izni ile sadece geçici olarak girebilirler. İkinci derece askeri
+yasak bölgesinde yabancıların ikamet etmesi mümkünse de bunun için de
+Genelkurmay Başkanlığı'nın izni gerekir. Yabancı gerçek veya tüzel kişi bu
+bölgelerden bir taşınmaz kiralayacaksa bu da Genelkurmay Başkanlığı'nın uygun
+görmesi üzerine İçişleri Bakanlığı'nın iznini gerektirir.
+
+Ayrıca Köy Kanunu'na göre yabancıların köylerde ikamet etmeleri de İçişleri
+Bakanlığı'nın iznine tabidir.
+
+=== İKAMET İZNİNDEN MUAFİYET
+
+Aşağıda sayılan yabancılar ikamet izninden muaf tutulurlar:
+
+.. Doksan güne kadar vizeyle veya vizeden muaf olarak gelenler, vize süresi
+veya vize muafiyeti süresince
+.. Vatansız Kişi Kimlik Belgesi sahibi olanlar
+.. Türkiye’de görevli diplomasi ve konsolosluk memurları
+.. Türkiye’de görevli diplomasi ve konsolosluk memurlarının ailelerinden
+Dışişleri Bakanlığınca bildirilenler
+.. Uluslararası kuruluşların Türkiye’deki temsilciliklerinde çalışan ve
+statüleri anlaşmalarla belirlenmiş olanlar
+.. Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalarla ikamet izninden muaf
+tutulanlar.
+.. 5901 sayılı Kanunun 28 inci maddesi kapsamında olanlar
+.. 69 uncu maddenin yedinci fıkrası ile 76 ncı ve 83 üncü maddelerin birinci
+fıkraları kapsamında belge sahibi olanlar
+
+(c), (d), (e) ve (f) bentlerinde belirtilen yabancılara, şekil ve içeriği
+Bakanlık ve Dışişleri Bakanlığınca birlikte belirlenen belge tanzim edilir. Bu
+yabancılar, ikamet izninden muafiyet sağlayan durumları sona erdikten sonra da
+Türkiye’de kalmaya devam edeceklerse, en geç on gün içinde ikamet izni almak
+üzere valiliklere başvurmakla yükümlüdür.
