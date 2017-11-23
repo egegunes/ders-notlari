@@ -1,19 +1,68 @@
 == VATANDAŞLIK
 
-Vatandaşlık kişiye sıkı sıkıa bağlı bir haktır. Vatandaşlık vatandaşa ve
+Vatandaşlık kişiye sıkı sıkıya bağlı bir haktır. Vatandaşlık vatandaşa ve
 devlete bir takım haklar verir. Vatandaşın devlete en önemli borcu devletin
 kanun ve nizamlarına uymaktır.
 
-Vatandaşlığın kazanılma yollarından ilki **doğum**dur. Vatandaşlığın doğumla
-kazanılması için evlilik içi doğumda ana veya babanın o vatandaşlığa sahip
-olması gerekir. Evlilik dışı doğumda anne vatandaşlığa sahipse doğrudan, baba
-sahipse tanıma veya babalık davası sonucu soybağının kurulması ile vatandaşlık
-kazanılır.
+== VATANDAŞLIĞIN KAZANILMA YOLLARI
 
-Vatandaşlığın kazanılması için ikinci yol **evlilik**tir. Her devletin
-kanunlarında evlilikle vatandaşlık kazanma düzenlenmiştir ancak sıkı şartlara
-bağlanmıştır.
+Türk vatandaşlığı, doğumla veya sonradan kazanılır.
 
-Üçüncü yol ise **iradi olarak kazanma**dır. Devletler belirli bir para
-yatırılması karşılığında vatandaşlık verebilmektedir. Ancak burada devletin
-sınırsız bir takdir yetkisi vardır.
+=== DOĞUM
+
+Doğumla kazanılan Türk vatandaşlığı, soy bağı veya doğum yeri esasına göre
+kendiliğinden kazanılır. Doğumla kazanılan vatandaşlık doğum anından itibaren
+hüküm ifade eder.
+
+Türkiye içinde veya dışında Türk vatandaşı ana veya babadan evlilik birliği
+içinde doğan çocuk Türk vatandaşıdır.
+
+Türk vatandaşı ana ve yabancı babadan evlilik birliği dışında doğan çocuk Türk
+vatandaşıdır.
+
+Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk ise
+soy bağı kurulmasını sağlayan usul ve esasların yerine getirilmesi halinde Türk
+vatandaşlığını kazanır.
+
+Soybağının kuruluşu, çocuğun doğum anındaki milli hukukuna, kurulamaması
+halinde çocuğun mutad meskeni hukukuna tabidir. Soybağı bu hukuklara göre
+kurulamıyorsa, ananın veya babanın, çocuğun doğumu anındaki milli hukuklarına,
+bunlara göre kurulamaması halinde ana ve babanın, çocuğun doğumu anındaki mutad
+mesken hukukuna, buna göre de kurulamıyorsa çocuğun doğum yeri hukukuna tabi
+olarak kurulur. Soybağı hangi hukuka göre kurulmışsa iptali de o hukuka
+tabidir.
+
+Türkiye'de doğan ve yabancı ana ve babasından dolayı herhangi bir ülkenin
+vatandaşlığını kazanamayan çocuk, doğumdan itibaren Türk vatandaşıdır.
+
+Türkiye'de bulunmuş çocuk aksi sabit olmadıkça Türkiye'de doğmuş sayılır.
+
+=== SONRADAN KAZANMA
+
+Sonradan kazanılan Türk vatandaşlığı, *yetkili makam kararı* veya *evlat
+edinme* ya da *seçme hakkının kullanılması* ile gerçekleşir.
+
+==== YETKİLİ MAKAM KARARI
+
+Başvurulacak makam Türkiye'de İçişleri Bakanlığı ile valilik ve kaymakamlıklar,
+yurtdışında ise diplomatik temsilciliklerdir. Kararı verecek olan makam ise
+İçişleri Bakanlığı'dır.
+
+Türk vatandaşlığını kazanmak isteyen yabancılarda;
+
+.. Kendi millî kanununa, vatansız ise Türk kanunlarına göre ergin ve ayırt etme
+gücüne sahip olmak,
+.. Başvuru tarihinden geriye doğru Türkiye'de kesintisiz beş yıl ikamet etmek,
+.. Türkiye'de yerleşmeye karar verdiğini davranışları ile teyit etmek,
+.. Genel sağlık bakımından tehlike teşkil eden bir hastalığı bulunmamak,
+.. İyi ahlak sahibi olmak,
+.. Yeteri kadar Türkçe konuşabilmek,
+.. Türkiye'de kendisinin ve bakmakla yükümlü olduğu kimselerin geçimini
+sağlayacak gelire veya mesleğe sahip olmak,
+.. Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali
+bulunmamak,
+
+şartları aranır.
+
+WARNING: Aranan şartların var olması vatandaşlığın kazanılması için mutlak bir
+hak sağlamaz.
