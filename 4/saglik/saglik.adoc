@@ -1,3 +1,5 @@
+:icons: font
+
 == İLGİLİNİN RIZASI
 
 Kişinin mutlak suretle üzerinde tasarruf edebileceği haklarla ilgili açıkladığı
@@ -130,6 +132,44 @@ yakınlarının ya da hiç kimsenin bilgilendirilmemesini talep edebilir. Bu
 durumda kişinin kararı yazılı olarak alınır. Hasta, bilgi verilmemesi talebini
 istediği zaman değiştirebilir ve bilgi verilmesini talep edebilir.
 ====
+
+=== AYDINLATMA TÜRLERİ
+
+. *Tedavi aydınlatması (Güvenlik aydınlatması)*: Tedavi aydınlatmasının amacı,
+hekimin tavsiyeleri ile hastayı yönlendirmek, en iyi tercihi yaptırmak ve
+komplikasyonları bildirmektir.
+
+.. _Teşhise yönelik aydınlatma_: Teşhis için yapılacak müdahaleler konusunda
+hastanın bilgilendirilmesidir.
+.. _Teşhis aydınlatması_: Hastanın tıbbi bulgu konusunda aydınlatılmasıdır.
+.. _İlaçlar hakkında aydınlatma_
+.. _Araç kullanma konusunda aydınlatma_
+
+. *Karar aydınlatması (otonomi aydınlatması)*: Amaç hastanın karar vermesini
+mümkün kılmaktır. Hekimin hastayı zorlamaması gerekir.
+. *Riziko aydınlatması*: Muhtemel geçici ya da daimi yan etkilerin hastaya
+anlatılmasıdır.
+
+.. _Tıbbi müdahaleye ve genel rizikolara ilişkin aydınlatma_
+.. _Tıbbi müdahalenin amacına ve gerekliliğine ilişkin aydınlatma_
+.. _Tıbbi müdahalenin ağırlığına ilişkin aydınlatma_
+.. _Kişinin kişiliğine, davranışlarına ve bünyesine göre aydınlatılması_
+
+
+Hekim teşhis, müdahale veya tedavi aşamalarında hata yapmış ise bunu kişiye
+bildirmeli ve anlayacağı şekilde anlatmalıdır.
+
+Hekim hastanın tedavisine yönelik olarak muhtemel masrafları ve niceliği
+konusunda hastayı aydınlatmalıdır.
+
+=== AYDINLATMA ZORUNLULUĞUNUN İSTİSNALARI
+
+* Hasta aydınlatılma hakkından vazgeçmiş olabilir.
+* Hasta tıbbi müdahalenin sonuçları, riskleri konusunda bilgi sahibi olabilir.
+* Aydınlatma hastayı olumsuz etkileyecek olabilir.
+* Acil bir hal söz konusu olabilir.
+* Aydınlatma hasta bakımından önemini yitirmiş olabilir.
+* Hastanın akli melekeleri yerinde olmayabilir.
 
 == HEKİMİN SORUMLULUĞU
 
@@ -267,3 +307,37 @@ Bu suç haberalındıktan sonra, organ veya dokularını satan kişi, gönüllü
 suçun meydana çıkmasına ve diğer suçluların yakalanmasına hizmet ve yardım
 ederse; hakkında verilecek cezanın, yardımın niteliğine göre, dörtte birden
 yarısına kadarı indirilir.
+
+== HEKİM İLE HASTA ARASINDAKİ İLİŞKİNİN HUKUKİ NİTELİĞİ
+
+Hasta ile hekim arasındaki ilişkinin hukuki niteliği aşağıdakilerden biri
+olabilir:
+
+* Sözleşme (vekalet veya eser)
+* Haksız fiil
+* Vekaletsiz iş görme
+* Culpa in contrahendo: Sözleşme görüşmeleri sırasında tarafların özenli ve
+dürüst davranma ilkelerine kusurlu olarak uymamaları veya diğer taraf nezdinde
+uyandırılan güvene aykırılık nedeniyle verdikleri zarardan hakkaniyet ilkesi
+gereğince sorumlu olmalarını ifade eder.
+
+Türkiye'de üç tür hastane vardır:
+
+. Özel hastane
+. Vakıf hastanesi
+. Devlet hastanesi
+
+*Özel hastanede* muhatap hastanedir. Hastane ile hasta arasında *hasta kabul
+sözleşmesi* kurulur. Hekim burada ifa yardımcısıdır. Hekimin haksız fiili
+durumunda hasta hem hekimin hem de hastanenin sorumluluğuna gidebilir. Hekimin
+kısmen veta tamamen sorumsuz olduğuna ilişkin anlaşmalar geçersizdir. Özel
+hastanelerdeki müdahalelerden doğan zarardan devletin sorumluluğu söz konusu
+değildir. Ancak devlet özel hastaneyi denetim ve gözetim yükümlülüğüne aykırı
+davranırsa sorumluluğu gündeme gelir.
+
+*Kamu hastanesinde* hasta ile hekim arasında idare hukuku ilişkisi vardır.
+Yargıtay'a göre ister hizmet kusuru olsun ister hekimin şahsi kusuru olsun dava
+her zaman idareye karşı açılır.
+
+CAUTION: Hekimin göreviyle alakalı olmayan veya yetkisini ciddi şekilde aşan
+eyleminden doğan zararlar için doğrudan hekime dava açılabilir.
