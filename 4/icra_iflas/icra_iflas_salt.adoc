@@ -1,3 +1,7 @@
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
 == İCRA TEŞKİLATI
 
 . İcra Dairesi
@@ -77,7 +81,7 @@ yerlerde iş dağılımı ve buna ilişkin esaslar, Hâkimler ve Savcılar Yüks
 Kurulunca belirlenir. Her icra mahkemesi hâkimi, kendisine Adlî Yargı Adalet
 Komisyonu Başkanlığınca dönüşümlü olarak bağlanan icra ve iflâs dairelerinin
 muamelelerine yönelik şikâyetleri ve itirazları inceler, bu dairelerin gözetim
-ve denetimlerini yapar, idarî işlerine bakar.  İcra yetkisini haiz sulh
+ve denetimlerini yapar, idarî işlerine bakar. İcra yetkisini haiz sulh
 mahkemelerinin muamelelerine karşı vuku bulacak şikayet ve itirazların icra
 mahkemesi o mahkemenin hakimidir (İİK 4).
 
@@ -85,3 +89,293 @@ mahkemesi o mahkemenin hakimidir (İİK 4).
 hâkiminin daimî gözetimi ve denetimi altındadır. Bu daireler Cumhuriyet
 savcıları ve adalet müfettişleri vasıtası ile denetime tabi tutulur. Cumhuriyet
 savcıları bu daireleri yılda en az bir defa denetlerler (İİK 13).
+
+=== İCRA MAHKEMELERİ
+
+* *Basit yargılama usulüne* göre karar verirler.
+* Kural olarak icra takibi sırasında ortaya çıkan sorunlarla ilgilenir.
+İstisnai olarak ceza mahkemesi gibi bazı cezalara da hükmedebilir.
+* Tek hakimlidir.
+* *Verdikleri kararlar kural olarak kesin hüküm teşkil etmez*.
+* Kararlarına karşı istinaf yoluna başvurulabilir ancak istinaf sınırı diğer
+hukuk mahkemelerine göre daha yüksektir.
+
+== ŞİKAYET
+
+Şikayet, icra ve iflas memurlarının yapmış oldukları kanuna aykırı işlemlerin
+düzeltilmesi amacıyla düzenlenmiş bir müessesedir.
+
+IMPORTANT: Şikayet dava değildir!
+
+Şikayet icra memurunun bağlı olduğu icra mahkemesine yöneltilir. İcra mahkemesi
+hakimi dilerse işlemi yapmış olan icra memurunu davet ederek dinler ancak
+çağırmak zorunda değildir. Takibin karşı tarafı da bu şikayet konusu işlemin
+iptalinden etkileneceği için dilerse hakim onu da dinleyebilir.
+
+İşlem aşağıdaki sebeplerle şikayet konusu yapılabilir:
+
+. *İşlemin kanuna uygun olmaması*
+. *İşlemin olaya uygun olmaması*: Kanunun icra memuruna takdir yetkisi tanıdığı
+durumlarda takdir yetkisinin olaya uygun kullanılmaması
+. *Bir hakkın yerine getirilmemesi*
+. *Bir hakkın sebepsiz sürüncemede bırakılması*
+
+Şikayet eden icra takibinin tarafı olmak zorunda değildir. Kanun hukuki yararı
+olmak şartıyla bütün üçüncü kişilerin şikayet yoluna başvurabileceğini
+söylemektedir.
+
+Şikayet işlemin öğrenilmesinden itibaren *yedi gün* içinde yapılmalıdır. Ancak
+_kamu düzenine aykırılık_ ve _bir hakkın yerine getirilmemesi_ veya _sebepsiz
+sürüncemede bırakılması_ halinde şikayet süreye bağlı değildir.
+
+NOTE: Şikayet bir hata sonucu icra mahkemesine değil de icra dairesine yapılmış
+ise süre korunmayacaktır.
+
+Şikayet yazılı veya sözlü olarak yapılabilir.
+
+Şikayet, icra mahkemesince karar verilmedikçe icrayı durdurmaz.
+
+İcra mahkemesi işlemin kanuna aykırı olduğunu tespit ederse işlemi iptal ederek
+icra memurundan kanuna uygun işlem yapmasını ister. İcra memurları icra
+mahkemelerinin emir ve talimatı altında olmasalar bile şikayet üzerine verilen
+kararlar emirdir ve buna uyulmak zorundadır.
+
+CAUTION: İcra mahkemesi hiçbir şekilde icra mahkemesi hakimi icra memurunun
+yerine geçip işlem yapmaz. Ancak kanunun saydığı istisnai hallerde düzelterek
+onama kararı verebilir.
+
+Şikayet hakkında karar veren icra mahkemesinin kararlarına karşı istinaf yoluna
+başvurulabilir.
+
+== TATİL VE TALİK HALLERİ
+
+=== TATİLLER
+
+Güneşin batmasından bir saat sonra ile güneşin doğmasından bir saat önceye
+kadarki devrede (Gece vakti) ve tatil günlerinde takip muameleleri yapılamaz.
+Ancak, gece iş görülen yerlerde gece vakti hasılat haczi mümkündür.
+
+Tatil günlerinde haciz ve tebligat yapılabileceği gibi muhafaza tedbirleri de
+alınabilir.
+
+Borçlunun mal kaçırdığı anlaşılırsa gece vakti dahi haciz yapılması caizdir.
+
+=== TALİK HALLERİ
+
+. *Borçlunun ailesinden birinin ölümü halinde*: Karısı yahut kocası ve kan ve
+sıhriyet itibariyle usul veya füruundan birisi ölen bir borçlu aleyhindeki
+takip, ölüm günü ile beraber üç gün için talik olunur.
+. *Terekenin borçlarında*: Terekenin borçlarından dolayı ölüm günü ile beraber
+üç gün içinde takip geri bırakılır. Mirasçı mirası kabul veya reddetmemişse bu
+hususta Kanunu Medenide muayyen müddetler geçinceye kadar takip geri kalır.
+. *Tutukluluk ve hükümlülük halinde*: Mümessili olmıyan bir tutuklu veya
+hükümlü aleyhine takipte, mümessil tayini vesayet makamına ait olmadıkça, icra
+memuru bir mümessil tayin etmesi için kendisine münasip bir mühlet verir ve
+takibi bu sürenin bitmesine bırakır. Bu mühlet içinde temsilci tayin edip icra
+dairesine bildirmiyen tutuklu veya hükümlü hakkında takibe devam olunur. Mal
+kaçırılması ihtimali olan hallerde bu mühlet içinde de haciz yapılabilir.
+. *Askerlik halinde*: Askerlik hizmetinin devamı müddetince erler, onbaşılar ve
+kıta çavuşları (Uzman veya uzatmalı çavuş ve onbaşılar hariç) aleyhine takipte,
+icra memuru, bir mümessil tayin etmesi için kendisine münasip bir mühlet verir
+ve takibi bu sürenin bitmesine bırakır. Bu müddet içinde temsilci tayin edip
+icra dairesine bildirmiyenler hakkında takibe devam olunur. Mal kaçırılması
+ihtimali olan hallerde bu mühlet içinde de haciz yapılabilir.
+. *Borçlunun ağır hastalığı halinde*: Takip borçlunun mümessil tayin edemiyecek
+derecede ağır hastalığı halinde muayyen bir zaman için icra memurluğunca talik
+olunabilir. Ağır hastalığın resmi belge ile tahakkuku lazımdır. Mal kaçırılması
+ihtimali olan hallerde hastalığın devamı sırasında da haciz yapılabilir.
+
+NOTE: Takip talikleri esnasında müddetlerin cerayanı durmaz. Müddetin nihayeti
+bir talik gününe rastlarsa müddet talikin bitiminden sonra bir gün daha
+uzatlır.
+
+== İCRA TAKİBİ
+
+=== TAKİBİN TARAFLARI
+
+İcra takibinin tarafları; alacaklı ve borçludur.
+
+Takibi yapan kendisini alacaklı olarak gösterecektir. Maddi hukuk bakımından
+alacaklı olup olmadığı araştırılmaz. Aleyhine takip yapılan kişi de borçludur.
+Yine maddi hukuk bakımından borçlu sıfatını taşıyıp taşımadığı araştırılmaz.
+
+Takibi başlatabilmek veya aleyhine takip başlatılabilmesi için hem alacaklının
+hem de borçlunun hak ehliyetine sahip olması gerekir. Hak ehliyetinin usul
+hukukundaki görünümü taraf ehliyetidir. Taraf ehliyeti icra memurunun
+kendiliğinden gözetmesi gereken bir husustur. Taraf ehliyeti eksik ise icra
+memuru takibi başlatmayacaktır.
+
+=== TAKİBİN KONUSU
+
+Genel haciz yoluyla takip para ve teminat alacakları için söz konusudur.
+
+TIP: Para alacağı TL dışında bir para birimi üzerindense alacaklı bir seçim
+hakkına sahiptir. Yabancı para borcunu dilerse vade tarihindeki dilerse fiili
+ödeme tarihindeki kur üzerinden isteyebilir.
+
+=== TAKİP TALEBİ
+
+Takip talebi icra dairesine yazılı veya sözlü olarak ya da elektronik ortamda
+yapılır.
+
+Talepte şunlar gösterilir:
+
+. Alacaklının ve varsa kanuni temsilcisinin ve vekilinin adı, soyadı; alacaklı
+veya vekili adına ödemenin yapılacağı banka adı ile hesap bilgileri; varsa
+Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası; şöhret ve
+yerleşim yeri; alacaklı yabancı memlekette oturuyorsa Türkiye’de göstereceği
+yerleşim yeri (Yerleşim yeri gösteremezse icra dairesinin bulunduğu yer
+yerleşim yeri sayılır.);
+. Borçlunun ve varsa kanuni temsilcisinin adı, soyadı, alacaklı tarafından
+biliniyorsa Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası,
+şöhret ve yerleşim yeri; Bir terekeye karşı yapılan taleplerde kendilerine
+tebligat yapılacak mirasçıların adı, soyadı, biliniyorsa Türkiye Cumhuriyeti
+kimlik numarası veya vergi kimlik numarası, şöhret ve yerleşim yerleri;
+. Alacağın veya istenen teminatın Türk parasıyla tutarı ve faizli alacaklarda
+faizin miktarı ile işlemeye başladığı gün, alacak veya teminat yabancı para ise
+alacağın hangi tarihteki kur üzerinden talep edildiği ve faizi;
+. Senet, senet yoksa borcun sebebi;
+. Takip yollarından hangisinin seçildiği;
+
+Alacak belgeye dayanmakta ise, belgenin aslının veya alacaklı yahut mümessili
+tarafından tasdik edilmiş, borçlu sayısından bir fazla örneğinin takip talebi
+anında icra dairesine tevdii mecburidir.
+
+Alacaklıya takip talebinde bulunduğuna ve verdiği belgelere, talep ve takip
+masraflarına dair bedava ve pulsuz bir makbuz verilir.
+
+Yabancı para alacaklısı takip yaparken takip talebinde alacağını Türk parasına
+çevirmek zorundadır. Bu çeviri takip tarihindeki Merkez Bankası efektif satış
+kuru esas alınarak yapılır. Buna rağmen alacaklının para alacağını fiili ödeme
+tarihindeki kur üzerinden ya da vade tarihindeki kur üzerinde talep etmesi de
+mümkündür. Ancak bunun takip talebinde özellikle belirtilmiş olması gerekir.
+
+Takip masrafları *borçluya* aittir. Takip talebinde bulunan alacaklıdan *maktu
+başvurma harcı*, *nispi peşin harç*, *ödeme emrinin tebliği için gerekli
+masraflar* ve borçlunun İİK 62'ye göre itirazı halinde bu *itirazın alacaklıya
+tebliği için gerekli masraflar* peşinen alınır. Alacaklı ilk ödenen paradan
+masraflarını alabilir.
+
+=== TAKİBİN SONUÇLARI
+
+. İcra müdürü ödeme emri düzenleyip borçlu veya borçlulara gönderir.
+. Alacaklıya icra dairesi tarafından kendiliğinden takip talebinde bulunduğuna
+ve belgelere ve takip giderlerine ilişkin bedava ve pulsuz bir belge verilir.
+. Takip talebi ile zamanaşımı kesilir. Takip dolayısı ile yapılan her işlemle
+tekrar kesilir.
+. Borçlu o ana kadar düşmemişse ödeme emrinin tebliği ile temerrüde düşer.
+
+NOTE: Alacaklı, yaptığı icra takibinden vazgeçip takip talebini geri alabilir.
+Bunun için borçlunun rızasına ihtiyaç yoktur.
+
+=== ÖDEME EMRİ
+
+İcra müdürü takip talebinin bu Kanunda öngörülen şartları içerdiğine karar
+verirse ödeme emri düzenler. Talebin kabul edilmemesi halinde verilen karar
+tutanağa yazılır.
+
+Emir:
+
+. Alacaklının veya vekilinin banka hesap numarası hariç olmak üzere, 58 inci
+maddeye göre takip talebine yazılması lazım gelen kayıtları,
+. Borcun ve masrafların yedi gün içinde icra dairesine ait ödeme emrinde yazılı
+olan banka hesabına ödenmesi, borç, teminat verilmesi mükellefiyeti ise
+teminatın bu süre içinde gösterilmesi ihtarını,
+. Takibin dayandığı senet altındaki imza kendisine ait değilse yine bu yedi gün
+içinde bu cihetin ayrıca ve açıkça bildirilmesi; aksi halde icra takibinde
+senedin kendisinden sadır sayılacağı,
++
+Senet altındaki imzayı reddettiği takdirde icra mahkemesi önünde yapılacak
+duruşmada hazır bulunması; buna uymazsa vakı itirazın muvakkaten kaldırılmasına
+karar verileceği,
++
+Borcun tamamına veya bir kısmına yahut alacaklının takibat icrası hakkına dair
+bir itirazı varsa bunu da aynı süre içinde beyan etmesi,
++
+İhtarını,
+. Senet veya borca itirazını bildirmediği takdirde yukarda yazılı yedi günlük
+süre içinde 74 üncü maddeye göre mal beyanında bulunması ve bulunmazsa hapisle
+tazyik olunacağı; mal beyanında bulunmaz veya hakikate aykırı beyanda bulunursa
+ayrıca hapisle cezalandırılacağı ihtarını,
+. Borç ödenmez veya itiraz olunmazsa cebri icraya devam edileceği beyanını,
++
+İhtiva eder.
+
+Ödeme emri iki nüsha olarak düzenlenir. Bir nüshası borçluya gönderilir, diğeri
+icra dosyasına konulur. Alacaklı isterse kendisine ayrıca tasdikli bir nüsha
+verilir. Nüshalar arasında fark bulunduğu takdirde borçludaki muteber sayılır.
+
+Ödeme emri borçluya takip talebinden itibaren nihayet 3 gün içinde tebliğe
+gönderilir. Takip belgeye dayanıyorsa, belgenin tasdikli bir örneği ödeme
+emrine bağlanır.
+
+Müşterek borçlular aynı zamanda takip ediliyorlarsa hepsinin veya bir kısmının
+bir mümessil tarafından temsil edilmeleri hali müstesna olmak üzere her birine
+ayrı ayrı ödeme emri tebliğ edilmek lazımdır.
+
+==== İTİRAZ
+
+İtiraz etmek istiyen borçlu, itirazını, ödeme emrinin tebliği tarihinden
+itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine
+bildirmeye mecburdur.
+
+İtiraz, takibi yapan icra dairesinden başka bir icra dairesine yapıldığı
+takdirde bu daire gereken masrafı itirazla birlikte alarak itirazı derhal
+yetkili icra dairesine gönderir; alınmayan masraftan memur şahsen sorumludur.
+
+Takibe itiraz edildiği, 59 uncu maddeye göre alacaklının yatırdığı avanstan
+karşılanmak suretiyle üç gün içinde bir muhtıra ile alacaklıya tebliğ edilir.
+
+Borçlu veya vekili, dava ve takip işlemlerine esas olmak üzere borçluya ait
+yurt içinde bir adresi itirazla birlikte bildirmek zorundadır. Adresini
+değiştiren borçlu yurt içinde yeni adres bildirmediği ve tebliğ memurunca yurt
+içinde yeni adresi tespit edilemediği takdirde, takip talebinde gösterilen
+adrese çıkarılacak tebligat borçlunun kendisine yapılmış sayılır.
+
+Borcun bir kısmına itiraz eden borçlunun o kısman cihet ve miktarını açıkca
+göstermesi lazımdır. Aksi takdirde itiraz edilmemiş sayılır.
+
+Borçlu takibin müstenidi olan senet altındaki imzayı reddediyorsa, bunu
+itirazında ayrıca ve açıkça beyan etmelidir. Aksi takdirde icra takibi
+yönünden senetteki imzayı kabul etmiş sayılır.
+
+İtiraz eden borçlu, itirazın kaldırılması duruşmasında, alacaklının dayandığı
+senet metninden anlaşılanlar dışında, itiraz sebeplerini değiştiremez ve
+genişletemez.
+
+Borçlu kusuru olmaksızın bir mani sebebiyle müddeti içinde itiraz edememiş ise
+paraya çevirme muamelesi bitinceye kadar itiraz edebilir.
+
+Ancak borçlu, maniin kalktığı günden itibaren üç gün içinde, mazeretini gösterir
+delillerle birlikte itiraz ve sebeplerini ve müstenidatını bildirmeye ve
+mütaakıp fıkra için yapılacak duruşmaya taallük eden harç ve masrafları ödemeye
+mecburdur. İtiraz üzerine icra mahkemesi ancak gecikme sebebinin mahiyetine ve
+hadisenin özelliklerine göre takibin tatilini tensip edebilir.
+
+İcra mahkemesi, tetkikatını evrak üzerinde yapar. Lüzumu halinde iki tarafı
+hemen davetle mazeretin kabule şayan olup olmadığına karar verir. Duruşmaya
+karar verilmemesi halinde borçludan alınan masraflar kendisine iade olunur.
+Mazeretin kabulü halinde icra takibi durur. Aynı celsede alacaklı itirazın
+kaldırılmasını sözlü olarak da istiyebilir. Bu takdirde tahkikata devam
+olunarak gerekli karar verilir.
+
+Daha önce borçlunun mallarına haciz konulmuşsa mazeretin kabulü kararının
+tefhim veya tebliği tarihinden itibaren alacaklı yedi gün içinde, icra
+mahkemesinden itirazın kaldırılmasını istemez veya aynı süre içinde 67 nci
+maddeye göre mahkemeye başvurmazsa haciz kalkar.
+
+Müddeti içinde yapılan itiraz takibi durdurur. İtiraz müddetinde değilse
+alacaklının talebi üzerine icra memuru takip muamelelerine alacağın tamamı için
+devam eder. Borçlu, borcun yalnız bir kısmına itirazda bulunmuşsa takibe, kabul
+ettiği miktar için devam olunur.
+
+Takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren bir
+sene içinde mahkemeye başvurarak, genel hükümler dairesinde alacağının
+varlığını ispat suretiyle itirazın iptalini dava edebilir.
+
+Talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik
+edilen borç ikrarını içeren bir senede yahut resmî dairelerin veya yetkili
+makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya
+belgeye müstenitse, alacaklı itirazın kendisine tebliği tarihinden itibaren
+altı ay içinde itirazın kaldırılmasını isteyebilir. Bu süre içerisinde itirazın
+kaldırılması istenilmediği takdirde yeniden ilâmsız takip yapılamaz.
