@@ -1,3 +1,7 @@
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
 == İDARİ DAVA
 
 İdari dava türleri şunlardır:
@@ -38,3 +42,268 @@ gerekir.
 veren sözleşmelerdir. İdari sözleşmenin konusu bir kamu faaliyetinin görülmesi
 veya bir kamu malının işletilmesidir.
 
+== GÖREV
+
+=== DANIŞTAY
+
+Danıştay en üst derece mahkemesi ve temyiz merciidir. Danıştay bir davada
+görevliyse aynı zamanda yetkilidir. Kanunda öngörülen bazı hallerde ilk derece
+mahkemesi olarak görev yapar.
+
+=== BÖLGE İDARE MAHKEMELERİ
+
+Bölge idare mahkemelerinin ilk derece mahkemesi olarak görevli olduğu bir
+uyuşmazlık tipi olmasa da çeşitli itirazların ilk derece olarak bölge idare
+mahkemesine gitmesi söz konusudur. Örneğin memurların yargılanmasına karşı
+itiraz.
+
+Danıştay ilk derece mahkemesi olarak:
+
+.. Bakanlar Kurulu kararlarına
+.. Başbakanlık, bakanlıklar ve diğer kamu kurum ve kuruluşlarının
+müsteşarlarıyla ilgili müşterek kararnamelere,
+.. Bakanlıklar ile kamu kuruluşları veya kamu kurumu niteliğindeki meslek
+kuruluşlarınca çıkarılan ve ülke çapında uygulanacak düzenleyici işlemlere,
+.. Danıştay İdari Dairesince veya İdari İşler Kurulunca verilen kararlar
+üzerine uygulanan eylem ve işlemlere,
+.. Birden çok idare veya vergi mahkemesinin yetki alanına giren işlere,
+.. Danıştay Yüksek Disiplin Kurulu kararları ile bu Kurulun görev alanı ile
+ilgili Danıştay Başkanlığı işlemlerine,
+
+Karşı açılacak iptal ve tam yargı davaları ile tahkim yolu öngörülmeyen kamu
+hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmelerinden doğan idari
+davaları karara bağlar.
+
+Danıştay, belediyeler i le il özel idarelerinin seçimle gelen organlarının
+organlık sıfatlarını kaybetmeleri hakkındaki istemleri inceler ve karara
+bağlar.
+
+=== VERGİ MAHKEMELERİ
+
+Vergi mahkemeleri:
+
+.. Genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve
+harçlar ile benzeri mali yükümler ve bunların zam ve cezaları ile tarifelere
+ilişkin davaları,
+.. (a) bendindeki konularda 6183 sayılı Amme Alacaklarının Tahsil Usulü
+Hakkında Kanunun uygulanmasına ilişkin davaları,
+.. Diğer kanunlarla verilen işleri,
+
+Çözümler.
+
+=== İDARE MAHKEMELERİ
+
+Danıştay, bölge idare mahkemesi veya vergi mahkemesinin görev alanına girmeyen
+uyuşmazlıklarda görevli mahkeme idare mahkemesidir.
+
+== YETKİ
+
+=== GENEL YETKİ
+
+Göreve ilişkin hükümler saklı kalmak şartıyla bu Kanunda veya özel kanunlarda
+yetkili idare mahkemesinin gösterilmemiş olması halinde, yetkili idare
+mahkemesi, dava konusu olan idari işlemi veya idari sözleşmeyi yapan idari
+merciin bulunduğu yerdeki idare mahkemesidir.
+
+=== KAMU GÖREVLİLERİ İLE İLGİLİ DAVALARDA YETKİ
+
+Kamu görevlilerinin atanması ve nakilleri ile ilgili davalarda yetkili mahkeme,
+kamu görevlilerinin yeni veya eski görev yeri idare mahkemesidir.
+
+Kamu görevlilerinin görevlerine son verilmesi, emekli edilmeleri veya görevden
+uzaklaştırılmaları ile ilgili davalarda yetkili mahkeme, kamu görevlisinin son
+görev yaptığı yer idare mahkemesidir.
+
+Kamu görevlilerinin görevle ilişkisinin kesilmesi sonucunu doğurmayan disiplin
+cezaları ile ilerleme, yükselme, sicil, intibak ve diğer özlük ve parasal
+hakları ve mahalli idarelerin organları ile bu organların üyelerinin geçici bir
+tedbir olarak görevden uzaklaştırılmalarıyla ilgili davalarda yetkili mahkeme
+ilgilinin görevli bulunduğu yer idare mahkemesidir.
+
+Özel kanunlardaki hükümler saklı kalmak kaydıyla, hâkim ve savcıların mali ve
+sosyal haklarına ve sicillerine ilişkin konularla, müfettiş hal kâğıtları- na
+karşı açacakları ve idare mahkemelerinin görevine giren davalarda yetkili
+mahkeme, hâkim veya savcının görev yaptığı yerin idari yargı yetkisi yönünden
+bağlı olduğu bölge idare mahkemesine en yakın bölge idare mahkemesinin
+bulunduğu yer idare mahkemesidir.
+
+=== TAŞINMAZ MALLARA İLİŞKİN DAVALARDA YETKİ
+
+İmar, kamulaştırma, yıkım, işgal, tahsis, ruhsat ve iskan gibi taşınmaz
+mallarla ilgili mevzuatın uygulanmasında veya bunlara bağlı her türlü haklara
+veya kamu mallarına ilişkin idari davalarda yetkili mahkeme taşınmaz malların
+bulunduğu yer idare mahkemesidir.
+
+Köy, belediye ve özel idareleri ilgilendiren mevzuatın uygulanmasına ilişkin
+davalarla sınır uyuşmazlıklarında yetkili mahkeme, mülki idari birimin, köy,
+belediye veya mahallenin bulunduğu yahut yeni bağlandığı yer idare
+mahkemesidir.
+
+=== TAM YARGI DAVALARINDA YETKİ
+
+İdari sözleşmelerden doğanlar dışında kalan tam yargı davalarında yetkili
+mahkeme, sırasıyla:
+
+.. Zararı doğuran idari uyuşmazlığı çözümlemeye yetkili,
+.. Zarar, bayındırlık ve ulaştırma gibi bir hizmetten veya idarenin herhangi
+bir eyleminden doğmuş ise, hizmetin görüldüğü veya eylemin yapıldığı yer,
+.. Diğer hallerde davacının ikametgahının bulunduğu yer.
+
+İdari mahkemesidir.
+
+=== VERGİ UYUŞMAZLIKLARINDA YETKİ
+
+Bu Kanununa göre vergi uyuşmazlıklarında yetkili mahkeme:
+
+.. Uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümleri tarh ve
+tahakkuk ettiren, zam ve cezaları kesen,
+.. Gümrük Kanununa göre alınması gereken vergilerle Vergi Usul Kanunu ğereğince
+şikayet yoluyla vergi düzeltme taleplerinin reddine ilişkin işlemlerde; vergi,
+resim, harç ve benzeri mali yükümleri tarh ve tahakkuk ettiren,
+.. Amme Alacaklarının Tahsil Usulu Kanunun uygulanmasında, ödeme emrini
+düzenleyen,
+.. Diğer uyuşmazlıklarda dava konusu işlemi yapan,
+
+Dairenin bulunduğu yerdeki vergi mahkemesidir.
+
+== BAĞLANTILI DAVALAR
+
+Aynı maddi veya hukuki sebepten doğan ya da biri hakkında verilecek
+hüküm,diğerini etkileyecek nitelikte olan davalar bağlantılı davalardır.
+
+. İdare mahkemesi, vergi mahkemesi veya Danıştaya veya birden fazla idare veya
+vergi mahkemelerine açılmış bulunan davalarda bağlantının varlığına taraflardan
+birinin isteği üzerine veya doğrudan doğruya mahkemece karar verilir.
+. Bağlantılı davalardan birinin Danıştayda bulunması halinde dava dosyası
+Danıştaya gönderilir.
+. Bağlantılı davalar, değişik bölge idare mahkemesinin yargı çevrelerindeki
+mahkemelerde bulunduğu takdirde dosyalar Danıştaya gönderilir.
+. Bağlantılı davalar aynı bölge idare mahkemesinin yargı çerçevesindeki
+mahkemelerde bulunduğu takdirde dosyalar o yer bölge idare mahkemesine
+gönderilir.
+
+Bu davalar aynı mahkemede görülecek ama *birleştirilmeyecektir*. Mahkeme iki
+dosya hakkında da ayrı ayrı karar verecektir.
+
+CAUTION: Adli yargıdaki bir dava ile idari yargıdaki bir dava hiçbir zaman aynı
+mahkemede toplanamaz. Sadece birbirlerini bekletici mesele sayabilirler.
+
+== HMK İLE VUK'UN UYGULANACAĞI HALLER
+
+Kanunda hüküm bulunmayan hususlarda; hakimin davaya bakmaktan memnuiyeti ve
+reddi, ehliyet, üçüncü şahısların davaya katılması, davanın ihbarı, tarafların
+vekilleri, feragat ve kabul, teminat, mukabil dava, bilirkişi, keşif,
+delillerin tespiti, yargılama giderleri, adli yardım hallerinde ve duruşma
+sırasında tarafların mahkemenin sukünunu ve inzibatını bozacak hareketlerine
+karşı yapılacak işlemler ile elektronik işlemlerde Hukuk Usulü Muhakemeleri
+Kanunu hükümleri uygunlanır. Ancak, davanın ihbarı Danıştay, mahkeme veya hakim
+tarafından re'sen yapılır.
+
+Bilirkişiler, bilirkişilik bölge kurulları tarafından hazırlanan listelerden
+seçilir ve bilirkişiler hakkında Bilirkişilik Kanunu ve 12/1/2011 tarihli ve
+6100 sayılı Hukuk Muhakemeleri Kanununun ilgili hükümleri uygulanır.
+
+Bu Kanun ve yukarıdaki fıkra uyarınca Hukuk Usulü Muhakemeleri Kanununa atıfta
+bulunulan haller saklı kalmak üzere, vergi uyuşmazlıklarının çözümünde Vergi
+Usul Kanununun ilgili hükümleri uygulanır.
+
+== DAVANIN AÇILMASI
+
+İdari davalar, Danıştay, idare mahkemesi ve vergi mahkemesi başkanlıklarına
+hitaben yazılmış imzalı dilekçelerle açılır.
+
+Dilekçelerde;
+
+. Tarafların ve varsa vekillerinin veya temsilcilerinin ad ve soyadları veya
+unvanları ve adresleri ile gerçek kişilere ait Türkiye Cumhuriyeti kimlik
+numarası,
+. Davanın konu ve sebepleri ile dayandığı deliller,
+. Davaya konu olan idari işlemin yazılı bildirim tarihi,
+. Vergi, resim, harç, benzeri mali yükümler ve bunların zam ve cezalarına
+ilişkin davalarla tam yargı davalarında uyuşmazlık konusu miktar,
+. Vergi davalarında davanın ilgili bulunduğu verginin veya vergi cezasının
+nevi ve yılı, tebliğ edilen ihbarnamenin tarihi ve numarası ve varsa mükellef
+hesap numarası,
+
+Gösterilir.
+
+Dava konusu kararın ve belgelerin asılları veya örnekleri dava dilekçesine
+eklenir. Dilekçeler ile bunlara ekli evrakın örnekleri karşı taraf sayısından
+bir fazla olur.
+
+Dilekçeler ve savunmalar ile davalara ilişkin her türlü evrak, Danıştay veya
+ait olduğu mahkeme başkanlıklarına veya bunlara gönderilmek üzere idare veya
+vergi mahkemesi başkanlıklarına, idare veya vergi mahkemesi bulunmayan yerlerde
+büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına bakılmaksızın
+asliye hukuk hakimliklerine veya yabancı memleketlerde Türk konsolosluklarına
+verilebilir.
+
+NOTE: Dilekçenin verilmesiye dava açılmış olur.
+
+Her idari işlem aleyhine ayrı ayrı dava açılır. Ancak, aralarında maddi veya
+hukuki yönden bağlılık yada sebep-sonuç ilişkisi bulunan birden fazla işleme
+karşı bir dilekçe ile de dava açılabilir.
+
+Birden fazla şahsın müşterek dilekçe ile dava açabilmesi için davacıların hak
+veya menfaatlerinde iştirak bulunması ve davaya yol açan maddi olay veya hukuki
+sebeplerin aynı olması gerekir.
+
+Dilekçeler, Danıştayda daire başkanının görevlendireceği bir tetkik hakimi,
+idare ve vergi mahkemelerinde ise mahkeme başkanı veya görevlendireceği bir üye
+tarafından:
+
+.. Görev ve yetki,
+.. İdari merci tecavüzü,
+.. Ehliyet,
+.. İdari davaya konu olacak kesin ve yürütülmesi gereken bir işlem olup
+olmadığı,
+.. Süre aşımı,
+.. Husumet,
+.. 3 ve 5 inci maddelere uygun olup olmadıkları,
+
+Yönlerinden sırasıyla incelenir.
+
+Dilekçeler bu yönlerden kanuna aykırı görülürse durum; görevli daire veya
+mahkemeye bir rapor ile bildirilir. Tek hakimle çözümlenecek dava dilek- çeleri
+için rapor düzenlenmez ve 15 inci madde hükümleri ilgili hakim tarafından
+uygulanır. 3 üncü fıkraya göre yapılacak inceleme ve bu fıkra ile 5 inci
+fıkraya göre yapılacak işlemler dilek- çenin alındığı tarihten itibaren en geç
+onbeş gün içinde sonuçlandırılır.
+
+İlk incelemeyi yapanlar, bu noktalardan kanuna aykırılık görmezler veya daire
+veya mahkeme tarafından ilk inceleme raporu yerinde görülmezse, tebligat işlemi
+yapılır.
+
+Yukarıdaki hususların ilk incelemeden sonra tespit edilmesi halinde de davanın
+her safhasında 15 nci madde hükmü uygulanır.
+
+Danıştay veya idare ve vergi mahkemelerince yukarıdaki maddenin 3 üncü
+fıkrasında yazılı hususlarda kanuna aykırılık görülürse, 14 üncü maddenin;
+
+.. 3/a bendine göre adli ve askeri yargının görevli olduğu konularda açılan
+davaların reddine; idari yargının görevli olduğu konularda ise görevli veya
+yetkili olmayan mahkemeye açılan davanın görev veya yetki yönünden reddedilerek
+dava dosyasının görevli veya yetkili mahkemeye gönderilmesine,
+.. 3/c, 3/d ve 3/e bentlerinde yazılı hallerde davanın reddine,
+.. 3/f bendine göre, davanın hasım gösterilmeden veya yanlış hasım gösterilerek
+açılması halinde, dava dilekçesinin tespit edilecek gerçek hasma tebliğine,
+.. 3/g bendinde yazılı halde otuzgün içinde 3 ve 5 inci maddelere uygun şekilde
+yeniden düzenlenmek veya noksanları tamamlanmak yahut (c) bendinde yazılı
+hallerde, ehliyetli olan şahsın avukat olmayan vekili tarafından dava açılmış
+ise otuzgün içinde bizzat veya bir avukat vasıtasıyla dava açılmak üzere
+dilekçelerin reddine,
+.. 3/b bendinde yazılı halde dilekçelerin görevli idare merciine tevdiine,
+
+Karar verilir.
+
+== İDARİ YARGIDA TARAFLAR
+
+=== DAVACI
+
+İdari yargıda davacı olabilmek için *medeni yargıdaki şartlara ek olarak* bazı
+şartlar aranmaktadır. İptal davası açabilmek için bir *menfaatin ihlali*
+aranmaktadır. Tam yargı davası açabilmek için ise *kişisel hakkın doğrudan
+muhtel olması* şartı aranmıştır.
+
+Her iki dava türü bakımından da dava konusu işlemle davacı arasında belirli bir
+ilginin varlığı aranmaktadır. Bu ilgi *kişisel*, *güncel* ve *meşru* olmalıdır.
