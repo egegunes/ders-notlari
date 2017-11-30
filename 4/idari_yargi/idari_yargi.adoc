@@ -307,3 +307,43 @@ muhtel olması* şartı aranmıştır.
 
 Her iki dava türü bakımından da dava konusu işlemle davacı arasında belirli bir
 ilginin varlığı aranmaktadır. Bu ilgi *kişisel*, *güncel* ve *meşru* olmalıdır.
+
+İptal davasında gerçek kişiler ve özel hukuk tüzel kişileri yanında kamu tüzel
+kişileri de davacı olabilir. Kamu tüzel kişisi bir başka kamu tüzel kişisine
+karşı aralarında hiyerarşi veya vesayet yoksa dava açabilir.
+
+[NOTE]
+====
+*Kamu tüzel kişiliği olmayan bir idari makamın bir tüzel kişiliğe dava açması
+mümkün mü?*
+
+Tüzel kişiliği olmayan bir idari makam kanunla kendisine verilmiş bir görevin
+ifası kapsamında dava açabilir.
+====
+
+Tam yargı davasında davacı olmak için *hakkın doğrudan ihlali* aranmaktadır.
+
+=== DAVALI
+
+Tam yargı davasında davalının tüzel kişiliği olması şarttır.
+
+İptal davasında davalı olmak için tüzel kişiliğin varlığı şart değildir. Dava
+işlemi yapılan makama açılır.
+
+TIP: Danıştay'ın uygulamasına göre davalı sıfatı aynı hiyerarşideki hukuk
+müşavirliği olan ilk makama verilmektedir.
+
+Davalı dilekçede bulunması zorunlu bir unsur değildir. Hasım gösterilmez veya
+yanlış gösterilirse bile mahkeme hasım düzeltme kararı verecek ve gerçek hasma
+tebliğ edecektir.
+
+NOTE: Özel hukuk tüzel kişileri de kamusal güç kullanabildiği durumda idari
+yargıda davalı olabilir. Ancak özel hukuk tüzel kişileri kamu hizmeti görürken
+bunu idarenin denetimi ve gözetimi altında yapar. Dolayısıyla idarede özel
+hukuk tüzel kişisi ile birlikte davalı olacaktır.
+
+TIP: İdare adına faaliyet gösteren özel hukuk tüzel kişilerinin özel hukuk
+sözleşmeleriyle üçüncü kişilerle olan ilişkilerinden doğan uyuşmazlıkların adli
+yargının alanına girer. Kamusal statüleri, talepleri, faaliyetten yararlanma
+talepleri nedeniyle üçüncü kişilerin kamu hizmeti gören özel hukuk tüzel
+kişileriyle olan uyuşmazlıkları ise idari yargının alanına girer.
