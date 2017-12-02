@@ -1,4 +1,9 @@
-== Türk Miras Hukuku Sisteminin Özellikleri
+:icons: font
+:toc:
+:toc-title: İçindekiler
+:toclevels: 3
+
+== TÜRK MİRAS HUKUKU SİSTEMİNİN ÖZELLİKLERİ
 
 * *Külli* geçişi benimsemiştir.
 * Her ölen kişinin bir _halefi_ vardır. En son halde halef olarak devlet işaret
@@ -13,7 +18,7 @@ sorumluluğu vardır.
 * Belli şahıslar için kanuni mirasçı sıfatı tanınmakta, ancak bunun yanın miras
 bırakanın iradesine de belli bir oranda yer vermektedir.
 
-== Miras Hukuku Kavramları
+== MİRAS HUKUKU KAVRAMLARI
 
 * *Ölüm*: Kişiliğin, buna bağlı olarak da hak ve borç sahibi olma yeteneğinin
 sona ermesidir. Ölüm mirasın açılma ve geçme anı olarak belirlenmiştir.
@@ -68,7 +73,7 @@ olacaktır. Zümre başının halefi kendi altsoyudur. Zümre başının altsoyu
 sıfatını kazanmaz sadece zümre başının miras payını alır. Buna *kök içinde
 halefiyet* denilmektedir.
 
-=== 1. zümre: Altsoy
+=== 1. ZÜMRE: ALTSOY
 
 Mirasbırakanın birinci derece mirasçıları, onun altsoyudur. Çocuklar eşit
 olarak mirasçıdırlar.
@@ -76,14 +81,14 @@ olarak mirasçıdırlar.
 Mirasbırakandan önce ölmüş olan çocukların yerini, her derecede halefiyet
 yoluyla kendi altsoyları alır.
 
-==== Evlilik dışı hısımlar
+==== EVLİLİK DIŞI HISIMLAR
 
 IMPORTANT: Mirasçılık için hukuki olarak soybağının varlığı şarttır.
 
 Evlilik dışında doğmuş ve soybağı, tanıma veya hâkim hükmüyle kurulmuş olanlar,
 baba yönünden evlilik içi hısımlar gibi mirasçı olurlar.
 
-==== Evlatlık
+==== EVLATLIK
 
 Evlâtlık ve altsoyu, evlât edinene kan hısımı gibi mirasçı olurlar. Evlâtlığın
 kendi ailesindeki mirasçılığı da devam eder.
@@ -93,7 +98,7 @@ Evlât edinen ve hısımları, evlâtlığa mirasçı olmazlar.
 CAUTION: Sadece ve sadece evlatlık ilişkisi kurulanlar arasında mirasçılık söz
 konusu olur.
 
-=== 2. zümre: Ana ve baba
+=== 2. ZÜMRE: ANA VE BABA
 
 Altsoyu bulunmayan mirasbırakanın mirasçıları, ana ve babasıdır. Bunlar eşit
 olarak mirasçıdırlar.
@@ -109,7 +114,7 @@ evlilikten doğmuş olması şart değildir.*
 Bir tarafta hiç mirasçı bulunmadığı takdirde, bütün miras diğer taraftaki
 mirasçılara kalır.
 
-=== 3. zümre: Büyük anne ve büyük baba
+=== 3. ZÜMRE: BÜYÜK ANNE VE BÜYÜK BABA
 
 Altsoyu, ana ve babası ve onların altsoyu bulunmayan mirasbırakanın
 mirasçıları, büyük ana ve büyük babalarıdır. Bunlar, eşit olarak mirasçıdırlar.
@@ -130,7 +135,7 @@ Sağ kalan eş varsa, büyük ana ve büyük babalardan birinin mirasbırakandan
 ve büyük babaya; bir taraftaki büyük ana ve büyük babanın her ikisinin de ölmüş
 olmaları hâlinde onların payları diğer tarafa geçer.
 
-=== Sağ kalan eş
+=== SAĞ KALAN EŞ
 
 Sağ kalan eş, birlikte bulunduğu zümreye göre mirasbırakana aşağıdaki oranlarda
 mirasçı olur:
@@ -141,3 +146,267 @@ mirasçı olur:
 mirasçı olursa, mirasın dörtte üçü,
 
 bunlar da yoksa mirasın tamamı eşe kalır.
+
+== ÖLÜME BAĞLI TASARRUFLAR
+
+Ölüme bağlı tasarruf, *hüküm doğurması ölüme bağlanan* işlemdir. Ölüm bir
+vadedir. Şart gibi hüküm doğursa da teknik anlamda bir şart değildir, zira
+gerçekleşeceği kesindir.
+
+Vasiyetname ve miras sözleşmesi dışında sağlıkta yapılan ve hükümlerini ölümle
+doğuracak işlemler olabilir. Bu durumlarda TBK 290'daki "_Yerine getirilmesi
+bağışlayanın ölümüne bağlı olan bağışlamada, vasiyete ilişkin hükümler
+uygulanır_" hükmü kıyas yoluyla uygulanabilir.
+
+Bir tasarrufun ölüme bağlı bir tasarruf mu yoksa sağlar arası bir tasarruf mu
+olduğu konusunda kuşku doğarsa karine sağlar arası tasarruf olduğu yönündedir.
+
+Ölüme bağlı tasarruf nitelendirmesi yapılırken temel ölçüt işlemin hukuki
+sebebinin (_causa_) ölüm olup olmadığıdır.
+
+=== ŞEKLİ ANLAMDA ÖLÜME BAĞLI TASARRUFLAR
+
+Şekli anlamda ölüme bağlı tasarruf *tip zorunluluğuna* tabidir. İki tane ölüme
+baplı tasarruf şekli vardır: *Vasiyetname* ve *miras sözleşmesi*.
+
+==== VASİYETNAME
+
+Vasiyet yapabilmek için *ayırt etme gücüne sahip* ve *onbeş yaşını doldurmuş*
+olmak gerekir.
+
+CAUTION: "Vasiyet yapabilmek" ile kastedilen *vasiyetname* yapabilmektir.
+Vasiyet ile vasiyetname farklı şeylerdir.
+
+Kısıtlılar da ayırt etme gücüne sahip olmak ve 15 yaşını bitirmek koşuluyla
+vasiyetname yapabilir. Bunun için kanuni temsilcinin izni gerekmemektedir.
+
+Yaş şartı ve ayırt etme gücü ile beraber işlemin kurucu unsuru olarak hukuki
+sebebi ölüm olan bir işlem yapma iradesi bulunmalıdır. Buna _animus testamanti_
+denir.
+
+Vasiyetname sıkı şekil kurallarına bağlı bir işlem olduğundan işlemin
+yapılmasında bir sakatlık varsa sonradan verilen icazet şekle aykırılığı
+gidermeyecektir.
+
+Vasiyet, resmî şekilde veya mirasbırakanın el yazısı ile ya da sözlü olarak
+yapılabilir.
+
+===== EL YAZILI VASİYETNAME
+
+El yazılı vasiyetnamenin yapıldığı yıl, ay ve gün gösterilerek başından sonuna
+kadar mirasbırakanın el yazısıyla yazılmış ve imzalanmış olması zorunludur.
+
+TIP: Tarih hata sonucu yanlış yazılmış ama metinden gerçek tarih
+anlaşılabiliyor ise vasiyetname geçerli olacaktır.
+
+İmzanın el yazılı olmasına ek olarak kişiliği de belirtmesi, o kişinin hep
+attığı imzadan olması gerekir.
+
+Mirasbırakan sonradan vasiyetnameye ekleme yapabilir. Eklemenin geçerli olması
+için bunun da tarih taşıması ve imzalanması gereklidir.
+
+El yazılı vasiyetnamein bir kısmı mirasbırakan tarafından çizildiyse geriye
+kalan içerik kendi başına anlamlı ise geçerliliğini korur. Hepsinin çizilmesi
+halinde vasiyetname geçersiz hale gelir.
+
+Vasiyetname bir başkası tarafından çizilirse çizmenin başka biri tarafından
+yapıldığının ispatı ile çizilen kısmın içeriğinin ispatı şartıyla vasiyetname
+geçerliliğini korur.
+
+El yazılı vasiyetname, saklanmak üzere açık veya kapalı olarak notere, sulh
+hâkimine veya yetkili memura bırakılabilir.
+
+Mirasbırakanın ölümünden sonra ele geçen vasiyetnamesinin, geçerli olup
+olmadığına bakılmaksızın hemen sulh hâkimine teslim edilmesi zorunludur.
+
+===== RESMİ VASİYETNAME
+
+Resmî vasiyetname, iki tanığın katılmasıyla resmî memur tarafından düzenlenir.
+
+Resmî memur, sulh hâkimi, noter veya kanunla kendisine bu yetki verilmiş diğer
+bir görevli olabilir.
+
+Mirasbırakan, arzularını resmî memura bildirir. Bunun üzerine memur,
+vasiyetnameyi yazar veya yazdırır ve okuması için mirasbırakana verir.
+Vasiyetname, mirasbırakan tarafından okunup imzalanır. Memur, vasiyetnameyi
+tarih koyarak imzalar.
+
+Vasiyetnameye tarih ve imza konulduktan hemen sonra mirasbırakan, vasiyetnameyi
+okuduğunu, bunun son arzularını içerdiğini memurun huzurunda iki tanığa beyan
+eder. Tanıklar, bu beyanın kendi önlerinde yapıldığını ve mirasbırakanı
+tasarrufa ehil gördüklerini vasiyetnameye yazarak veya yazdırarak altını
+imzalarlar. Vasiyetname içeriğinin tanıklara bildirilmesi zorunlu değildir.
+
+Mirasbırakan vasiyetnameyi bizzat okuyamaz veya imzalayamazsa, memur
+vasiyetnameyi iki tanığın önünde ona okur ve bunun üzerine mirasbırakan
+vasiyetnamenin son arzularını içerdiğini beyan eder. Bu durumda tanıklar, hem
+mirasbırakanın beyanının kendi önlerinde yapıldığını ve onu tasarrufa ehil
+gördüklerini; hem vasiyetnamenin kendi önlerinde memur tarafından mirasbırakana
+okunduğunu ve onun vasiyetnamenin son arzularını içerdiğini beyan ettiğini
+vasiyetnameye yazarak veya yazdırarak altını imzalarlar.
+
+IMPORTANT: Mirasbırakanın beyanı ile tanıkların şerhi safhalarının aynı anda
+olması gereklidir. Buna *işlemde birlik* (_unitas act_) denir.
+
+Fiil ehliyeti bulunmayanlar, bir ceza mahkemesi kararıyla kamu hizmetinden
+yasaklılar, okur yazar olmayanlar, mirasbırakanın eşi, üstsoy ve altsoy kan
+hısımları, kardeşleri ve bu kişilerin eşleri, resmî vasiyetnamenin
+düzenlenmesine memur veya tanık olarak katılamazlar.
+
+Resmî vasiyetnamenin düzenlenmesine katılan memura ve tanıklara, bunların
+üstsoy ve altsoy kan hısımlarına, kardeşlerine ve bu kişilerin eşlerine o
+vasiyetname ile kazandırmada bulunulamaz.
+
+Resmî vasiyetnameyi düzenleyen memur, vasiyetnamenin aslını saklamakla
+yükümlüdür.
+
+===== SÖZLÜ VASİYETNAME
+
+Mirasbırakan; yakın ölüm tehlikesi, ulaşımın kesilmesi, hastalık, savaş gibi
+olağanüstü durumlar yüzünden resmî veya el yazılı vasiyetname yapamıyorsa,
+sözlü vasiyet yoluna başvurabilir. Bunun için mirasbırakan, son arzularını iki
+tanığa anlatır ve onlara bu beyanına uygun bir vasiyetname yazmaları veya
+yazdırmaları görevini yükler.
+
+Resmî vasiyetname düzenlenmesinde okur yazar olma koşulu dışında, tanıklara
+ilişkin yasaklar, sözlü vasiyetteki tanıklar için de geçerlidir.
+
+Mirasbırakan tarafından görevlendirilen tanıklardan biri, kendilerine beyan
+edilen son arzuları, yer, yıl, ay ve günü de belirterek hemen yazar, bu belgeyi
+imzalar ve diğer tanığa imzalatır. Yazılan belgeyi ikisi birlikte vakit
+geçirmeksizin bir sulh veya asliye mahkemesine verirler ve mirasbırakanı
+vasiyetname yapmaya ehil gördüklerini, onun son arzularını olağanüstü durum
+içinde kendilerine anlattığını hâkime beyan ederler.
+
+Mahkemenin sulh veya asliye hukuk mahkemesi olması fark etmemektedir.
+
+NOTE: Yargıtay üç günlük bir süreyi makul bulurken 7 günlük sürenin geç
+olduğuna karar vermiştir. Her halükarda somut olayın şartlarına göre
+değerlendirme yapılmalıdır.
+
+Tanıklar, daha önce bir belge düzenlemek yerine, vakit geçirmeksizin mahkemeye
+başvurup yukarıdaki hususları beyan ederek mirasbırakanın son arzularını bir
+tutanağa geçirtebilirler.
+
+Sözlü vasiyet yoluna başvuran kimse askerlik hizmetinde bulunuyorsa, teğmen
+veya daha yüksek rütbeli bir subay; Ülke sınırları dışında seyreden bir ulaşım
+aracında bulunuyorsa, o aracın sorumlu yöneticisi; sağlık kurumlarında tedavi
+edilmekteyse, sağlık kurumunun en yetkili yöneticisi hâkim yerine geçer.
+
+TIP: Eski bir Yargıtay kararında İsviçre'deki bir mahkemeye giderek ölenin son
+arzularını tutanak altına aldıran iki tanığın beyanı da mahkeme hükmü gibi
+değerlendirilmiştir.
+
+*Geçerlilik koşulları olmamasına rağmen hakim tarafından vasiyetname
+düzenlenmişse bu ancak iptal davasına konu olabilecektir.*
+
+Mirasbırakan için sonradan diğer şekillerde vasiyetname yapma olanağı doğarsa,
+bu tarihin üzerinden bir ay geçince sözlü vasiyet hükümden düşer.
+
+==== MİRAS SÖZLEŞMESİ
+
+Miras sözleşmesi yapabilmek için *ayırt etme gücüne sahip* ve *ergin olmak*,
+*kısıtlı bulunmamak* gerekir.
+
+Miras sözleşmesinin geçerli olması için resmî vasiyetname şeklinde düzenlenmesi
+gerekir.
+
+Sözleşmenin tarafları, arzularını resmî memura aynı zamanda bildirirler ve
+düzenlenen sözleşmeyi memurun ve iki tanığın önünde imzalarlar.
+
+Ölüme bağlı tasarruf olduğundan taraflardan en az birinin ölüme bağlı
+tasarrufta bulunması gerekir. Taraflardan ikisi de ölüme bağlı tasarrufta
+bulunabilir ancak şart değildir.
+
+Olumsuz miras sözleşmelerine *mirastan feragat sözleşmesi* denmektedir.
+Mirastan feragat sözleşmelerinde ölüme bağlı tasarruf yapan mirasbırakandır.
+Feragat eden, sağlıktaki bir haktan feragat ettiği için ölüme bağlı tasarruf
+yapmamaktadır.
+
+TIP: Miras sözleşmesinde sağlar arası tasarrufta bulunanlar için tam ehliyet
+koşulu aranmaz.
+
+Ölüme bağlı tasarruf yapma şahsa sıkı sıkıya bağlı hakkın kullanımıdır ve
+dolayısıyla temsil yasağı vardır.
+
+=== HÜKÜMDEN DÜŞME
+
+==== GENEL SEBEPLER
+
+. *Mirasbırakandan önce ölüm*
+. *Bozucu şartın gerçekleşmesi*
+. *Mirastan yoksunluk sebepleri*
+. *Boşanma*
+. *Evliliğin butlanı kararı*
+
+==== VASİYETNAME İÇİN ÖZEL SEBEPLER
+
+. *Mirasbırakanın fiili*
+
+.. _Yeni vasiyetname_: Mirasbırakan, vasiyetname için kanunda öngörülen
+şekillerden birine uymak suretiyle yeni bir vasiyetname yaparak önceki
+vasiyetnameden her zaman dönebilir. Vasiyetnamenin tamamından veya bir
+kısmından dönülebilir.
+.. _Yok etme_: Mirasbırakan, yok etmek suretiyle de vasiyetnameden
+dönebilir.
+.. _Sonraki tasarruflar_: Mirasbırakan, önceki vasiyetnamesini ortadan
+kaldırmaksızın yeni bir vasiyetname yaparsa, kuşkuya yer bırakmayacak surette
+önceki vasiyetnameyi tamamlamadıkça, sonraki vasiyetname onun yerini alır.
++
+Belirli mal bırakma vasiyeti de, vasiyetnamede aksi belirtilmedikçe,
+mirasbırakanın sonradan o mal üzerinde bu vasiyetle bağdaşmayan başka bir
+tasarrufta bulunmasıyla ortadan kalkar.
+
+. *Üçüncü kişinin fiili veya kaza*: Kaza sonucunda veya üçüncü kişinin
+kusuruyla yok olan ve içeriğinin aynen ve tamamen belirlenmesine olanak
+bulunmayan vasiyetname hükümsüz kalır. Tazminat isteme hakkı saklıdır.
++
+Üçüncü kişi kusuruyla vasiyetnameyi yok etmiş ise ölüme bağlı tasarruf ile hak
+kazanmasına engel olunan kişi malvarlığında meydana gelen zararı haksız fiil
+hükümlerine dayanarak üçüncü kişiden talep edebilir. Bunun için haksız fiilden
+sorumluluk şartlarının (fiilin hukuka aykırılığı, kusur, illiyet bağı vs.) yanı
+sıra vasiyetnamedeki hakkın varlığının ispatı şarttır.
++
+İçeriği aynen ve tamamen ispat edilebiliyorsa fiziki olarak elde bulunmayan
+vasiyetnamenin dahi hüküm ifade etmesi sağlanabilir.
++
+Örneğin fotoğraf ya da fotokopi ile vasiyetnamenin içeriği ispat edilebilir.
++
+İçerik aynen ve tamamen ispat edilemese de tespi edilebilen içerik bağımsız ve
+uygulanabilir bir tasarruf ifade ediyorsa bu kısmın geçerli olacağı doktrinde
+kabul edilmektedir.
++
+IMPORTANT: Vasiyetnameler her zaman ölüm ile hüküm doğurur. Sağlıkta
+vasiyetnameler için işlem yapılmaz. Daha hüküm doğurmamış bir vasiyetnamenin
+yok edilmesi zarara yol açmaz.
+
+==== MİRAS SÖZLEŞMESİ İÇİN ÖZEL SEBEPLER
+
+. *İkale sözleşmesi yapılması*: Miras sözleşmesi, tarafların yazılı
+anlaşmasıyla her zaman ortadan kaldırılabilir.
+. *İrade sakatlığının bulunması*: Mirasbırakanın yanılma, aldatma, korkutma
+veya zorlama etkisi altında yaptığı ölüme bağlı tasarruf geçersizdir. Ancak,
+mirasbırakan yanıldığını veya aldatıldığını öğrendiği ya da korkutma veya
+zorlamanın etkisinden kurtulduğu günden başlayarak bir yıl içinde tasarruftan
+dönmediği takdirde tasarruf geçerli sayılır.
++
+Mirasbırakan henüz sona erdirme süresi dolmadan ölürse kalan süreyi mirasçıları
+kullanabilir.
++
+Ölüme bağlı tasarrufta kişinin veya şeyin belirtilmesinde açık yanılma hâlinde
+mirasbırakanın gerçek arzusu kesin olarak tespit edilebilirse, tasarruf bu
+arzuya göre düzeltilir.
+. *Temerrüt hükümlerinin uygulanması*: Miras sözleşmesi gereğince sağlararası
+edimleri isteme hakkı bulunan taraf, bu edimlerin sözleşmeye uygun olarak
+yerine getirilmemesi veya güvenceye bağlanmaması hâlinde borçlar hukuku
+kuralları uyarınca sözleşmeden dönebilir.
+. *Hak sahibi olmaktan çıkarma*: Miras sözleşmesiyle mirasçı atanan veya
+kendisine belirli mal bırakılan kişinin, mirasbırakana karşı miras
+sözleşmesinin yapılmasından sonra mirasçılıktan çıkarma sebebi oluşturan
+davranışta bulunduğu ortaya çıkarsa; mirasbırakan, miras sözleşmesini tek
+taraflı olarak ortadan kaldırabilir.
++
+Tek taraflı ortadan kaldırma, vasiyetnameler için kanunda öngörülen şekillerden
+biriyle yapılır.
+. *Sözleşmede dönme hakkının saklı tutulması*
+. *Geçersizlik sebebi bulunması*
