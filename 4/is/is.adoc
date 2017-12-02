@@ -1,3 +1,7 @@
+:icons: font
+:toc:
+:toc-title: İçindekiler
+
 == İŞÇİ ve İŞVEREN
 
 Bir iş sözleşmesine dayanarak çalışan gerçek kişiye *işçi*, işçi çalıştıran
@@ -109,3 +113,357 @@ NOTE: Asıl işveren-alt işveren ilişkisi hukuka uygun şekilde kurulmuşsa al
 işveren değişmesine rağmen alt işverenin işçileri çalışmalarına asıl işverenin
 işyerinde aynen devam ettiği durumlarda Yargıtay kıyas yoluyla işyerinin devri
 hükümlerinin uygulanmasını kabul ediyor.
+
+== İŞ SÖZLEŞMESİ
+
+İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmeyi, diğer tarafın
+(işveren) da ücret ödemeyi üstlenmesinden oluşan sözleşmedir. İş sözleşmesi,
+Kanunda aksi belirtilmedikçe, özel bir şekle tâbi değildir.
+
+Ücret unsurunu içermeyen bir iş sözleşmesinden söz edilemez. Ancak ücret
+sözleşmede belirlenmemiş olabilir. Bu durumda mahkeme tarafından emsal ücret
+belirlenir.
+
+İşçinin işverene ait iş organizasyonu içinde onun yararına bir iş görmesi
+bağımlılık unsurunun var olduğunu gösterir.
+
+İş sözleşmeleri belirli veya belirsiz süreli yapılır. Bu sözleşmeler çalışma
+biçimleri bakımından tam süreli veya kısmî süreli yahut deneme süreli ya da
+diğer türde oluşturulabilir.
+
+Süresi bir yıl ve daha fazla olan iş sözleşmelerinin yazılı şekilde yapılması
+zorunludur.
+
+=== SÖZLEŞME SERBESTİSİ
+
+Taraflar iş sözleşmesini, Kanun hükümleriyle getirilen sınırlamalar saklı
+kalmak koşuluyla, ihtiyaçlarına uygun türde düzenleyebilirler.
+
+==== SÖZLEŞME YAPILMASININ YASAK OLDUĞU HALLER
+
+. *Yaş küçüklüğü*: On beş yaşını doldurmamış çocukların çalıştırılması
+yasaktır. Ancak, on dört yaşını doldurmuş ve zorunlu ilköğretim çağını
+tamamlamış olan çocuklar; bedensel, zihinsel, sosyal ve ahlaki gelişmelerine ve
+eğitime devam edenlerin okullarına devamına engel olmayacak hafif işlerde
+çalıştırılabilirler. On dört yaşını doldurmamış çocuklar ise bedensel,
+zihinsel, sosyal ve ahlaki gelişmelerine ve eğitime devam edenlerin okullarına
+devamına engel olmayacak sanat, kültür ve reklam faaliyetlerinde yazılı
+sözleşme yapmak ve her bir faaliyet için ayrı izin almak şartıyla
+çalıştırılabilirler.
+. *Cinsiyet*
+. *Yabancılık*
+
+==== SÖZLEŞME YAPILMASININ ZORUNLU OLDUĞU HALLER
+
+. *Engelli ve eski hükümlü çalıştırma yükümlülüğü*: Bir işverenin işyerinde
+engelli ya da eski hükümlü çalıştırma zorunluluğunun doğabilmesi için işyerinde
+çalıştırılan işçi sayısının en az elli olması gerekir.
++
+Bu kapsamda çalıştırılacak işçi sayısının tespitinde belirli ve belirsiz süreli
+iş sözleşmesine göre çalıştırılan işçiler esas alınır. Kısmi süreli iş
+sözleşmesine göre çalışanlar, çalışma süreleri dikkate alınarak tam süreli
+çalışmaya dönüştürülür.
++
+Aynı işverene ait birden fazla işyeri varsa aynı il sınırları içerisinde
+olanlar işyerlerinde çalışan toplam çalışan sayısı elliyi geçiyor ise
+yükümlülük doğar.
++
+Özel kesim işverenleri sadece engelli işçi çalıştırma yükümlülüğü altındadır.
+. *İşyerinden malulen ayrılanlarla akit yapma yükümlülüğü*: Bir işyerinden
+malulen ayrılmak zorunda kalıp da sonradan maluliyeti ortadan kalkan işçiler
+eski işyerlerinde tekrar işe alınmalarını istedikleri takdirde, işveren bunları
+eski işleri veya benzeri işlerde boş yer varsa derhal, yoksa boşalacak ilk işe
+başka isteklilere tercih ederek, o andaki şartlarla işe almak zorundadır.
+Aranan şartlar bulunduğu halde işveren iş sözleşmesi yapma yükümlülüğünü yerine
+getirmezse, işe alınma isteğinde bulunan eski işçiye altı aylık ücret tutarında
+tazminat öder.
+. *Askerlik veya yasal görev nedeniyle işten ayrılanların yeniden işe
+başlatılması*: Herhangi bir askeri ve kanuni ödev dolayısıyla işinden ayrılan
+işçiler bu ödevin sona ermesinden başlayarak iki ay içinde işe girmek
+istedikleri takdirde işveren bunları eski işleri veya benzeri işlerde boş yer
+varsa derhal, yoksa boşalacak ilk işe başka isteklilere tercih ederek, o andaki
+şartlarla işe almak zorundadır. Aranan şartlar bulunduğu halde işveren iş
+sözleşmesi yapma yükümlülüğünü yerine getirmezse, işe alınma isteğinde bulunan
+eski işçiye üç aylık ücret tutarında tazminat öder.
+. *Toplu işten çıkarma*: İşveren toplu işçi çıkarmanın kesinleşmesinden
+itibaren altı ay içinde aynı nitelikteki iş için yeniden işçi almak istediği
+takdirde nitelikleri uygun olanları tercihen işe çağırır.
+
+Yukarıdaki yükümlülükleri yerine getirmeyen işveren için idari para cezası veya
+tazminat yaptırımları öngörülmüştür. Bunların kanunda öngörülmemiş olduğu
+durumlarda doktrinde bir görüşe göre tazminat ödeme yükümlülüğü doğacak diğer
+bir görüşe göre ise aynen ifa davası açılacaktır. Yargıtay da bazı kararlarında
+aynen ifayı kabul etmiştir.
+
+=== ŞEKİL
+
+Yasada öngörülen şekil kuralının ihlal edilmesi halinde uygulanacak sonuç
+doktrinde tartışmalıdır. Bir görüşe göre kanunda öngörülen şekil şartları ispat
+şartıdır. Diğer bir görüş ise bunların geçerlilik şartı olduğunu savunmaktadır.
+
+IMPORTANT: İş hukukunda geçersizlik ileriye etkili olarak sonuç doğurur.
+
+=== SÜREKLİ VE SÜREKSİZ İŞ SÖZLEŞMESİ
+
+Nitelikleri bakımından en çok otuz iş günü süren işlere süreksiz iş, bundan
+fazla devam edenlere sürekli iş denir.
+
+=== DENEME SÜRELİ İŞ SÖZLEŞMESİ
+
+Taraflarca iş sözleşmesine bir deneme kaydı konulduğunda, bunun süresi en çok
+iki ay olabilir. Ancak deneme süresi toplu iş sözleşmeleriyle dört aya kadar
+uzatılabilir.
+
+Deneme süresi içinde taraflar iş sözleşmesini bildirim süresine gerek
+olmaksızın ve tazminatsız feshedebilir. İşçinin çalıştığı günler için ücret ve
+diğer hakları saklıdır.
+
+=== BELİRLİ SÜRELİ İŞ SÖZLEŞMESİ
+
+İş ilişkisinin bir süreye bağlı olarak yapılmadığı halde sözleşme belirsiz
+süreli sayılır. Belirli süreli işlerde veya belli bir işin tamamlanması veya
+belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak işveren
+ile işçi arasında yazılı şekilde yapılan iş sözleşmesi belirli süreli iş
+sözleşmesidir.
+
+Belirli süreli iş sözleşmesi, esaslı bir neden olmadıkça, birden fazla üst üste
+(zincirleme) yapılamaz. Aksi halde iş sözleşmesi başlangıçtan itibaren belirsiz
+süreli kabul edilir.
+
+Esaslı nedene dayalı zincirleme iş sözleşmeleri, belirli süreli olma özelliğini
+korurlar.
+
+Belirli süreli iş sözleşmesi ile çalıştırılan işçi, ayırımı haklı kılan bir
+neden olmadıkça, salt iş sözleşmesinin süreli olmasından dolayı belirsiz süreli
+iş sözleşmesiyle çalıştırılan emsal işçiye göre farklı işleme tâbi tutulamaz.
+
+Belirli süreli iş sözleşmesi ile çalışan işçiye, belirli bir zaman ölçüt
+alınarak ödenecek ücret ve paraya ilişkin bölünebilir menfaatler, işçinin
+çalıştığı süreye orantılı olarak verilir. Herhangi bir çalışma şartından
+yararlanmak için aynı işyeri veya işletmede geçirilen kıdem arandığında belirli
+süreli iş sözleşmesine göre çalışan işçi için farklı kıdem uygulanmasını haklı
+gösteren bir neden olmadıkça, belirsiz süreli iş sözleşmesi ile çalışan emsal
+işçi hakkında esas alınan kıdem uygulanır
+
+Emsal işçi, işyerinde aynı veya benzeri işte belirsiz süreli iş sözleşmesiyle
+çalıştırılan işçidir. İşyerinde böyle bir işçi bulunmadığı takdirde, o
+işkolunda şartlara uygun bir işyerinde aynı veya benzer işi üstlenen belirsiz
+süreli iş sözleşmesiyle çalıştırılan işçi dikkate alınır.
+
+=== KISMİ SÜRELİ İŞ SÖZLEŞMESİ
+
+İşçinin normal haftalık çalışma süresinin (45 saat), tam süreli iş
+sözleşmesiyle çalışan emsal işçiye göre önemli ölçüde daha az belirlenmesi
+durumunda sözleşme kısmî süreli iş sözleşmesidir.
+
+NOTE: Bir sözleşmenin kısmi süreli iş sözleşmesi olarak nitelendirilebilmesi
+için işyerinde uygulanan haftalık çalışma süresinin 2/3 altında çalışmayı
+üstlenmiş olması gerekir.
+
+Kısmî süreli iş sözleşmesi ile çalıştırılan işçi, ayırımı haklı kılan bir neden
+olmadıkça, salt iş sözleşmesinin kısmî süreli olmasından dolayı tam süreli
+emsal işçiye göre farklı işleme tâbi tutulamaz. Kısmî süreli çalışan işçinin
+ücret ve paraya ilişkin bölünebilir menfaatleri, tam süreli emsal işçiye göre
+çalıştığı süreye orantılı olarak ödenir.
+
+Emsal işçi, işyerinde aynı veya benzeri işte tam süreli çalıştırılan işçidir.
+İşyerinde böyle bir işçi bulunmadığı takdirde, o işkolunda şartlara uygun
+işyerinde aynı veya benzer işi üstlenen tam süreli iş sözleşmesiyle
+çalıştırılan işçi esas alınır.
+
+İşyerinde çalışan işçilerin, niteliklerine uygun açık yer bulunduğunda kısmî
+süreliden tam süreliye veya tam süreliden kısmî süreliye geçirilme istekleri
+işverence dikkate alınır ve boş yerler zamanında duyurulur.
+
+Kanunun 74 üncü maddesinde öngörülen izinlerin (Analık izni) bitiminden sonra
+mecburi ilköğretim çağının başladığı tarihi takip eden ay başına kadar bu
+maddeye göre ebeveynlerden biri kısmi süreli çalışma talebinde bulunabilir. Bu
+talep işveren tarafından karşılanır ve geçerli fesih nedeni sayılmaz. Bu fıkra
+kapsamında kısmi süreli çalışmaya başlayan işçi, aynı çocuk için bir daha bu
+haktan faydalanmamak üzere tam zamanlı çalışmaya dönebilir. Kısmi süreli
+çalışmaya geçen işçinin tam zamanlı çalışmaya başlaması durumunda yerine işe
+alınan işçinin iş sözleşmesi kendiliğinden sona erer. Bu haktan faydalanmak
+veya tam zamanlı çalışmaya geri dönmek isteyen işçi işverene bunu en az bir ay
+önce yazılı olarak bildirir. Ebeveynlerden birinin çalışmaması hâlinde,
+çalışan eş kısmi süreli çalışma talebinde bulunamaz. Üç yaşını doldurmamış bir
+çocuğu eşiyle birlikte veya münferiden evlat edinenler de çocuğun fiilen teslim
+edildiği tarihten itibaren bu haktan faydalanır.
+
+NOTE: İşçinin birden fazla işverenle aynı anda kısmi süreli iş sözleşmesi
+yapmasına engel yoktur. Ancak doktrinde işçinin toplam çalıştığı sürenin 45
+saati geçmemesi gerektiği savunulmaktadır.
+
+Kısmi süreli iş sözleşmesiyle çalışan işçiler fazla mesai yapamaz.
+
+Kısmi süreli iş sözleşmesiyle çalışan işçiler dinlenmeyle ilgili mevzuatta yer
+alan düzenlemelerden tam süreli işçiler gibi yararlanır.
+
+İş sözleşmesinin sona erdirilmesine dair mevzuatta yer alan kurallar kısmi
+süreli işçiler için aynen geçerlidir.
+
+TIP: Kısmi süreli işçilerin kıdem tazminatına hak kazanmaları için gereken 1
+yıllık süre işe giriş tarihinden itibaren 1 yılın geçmesiyle tamamlanır.
+Yargıtay'ın görüşü de bu yöndedir.
+
+=== ÇAĞRI ÜZERİNE ÇALIŞMAYA DAYALI İŞ SÖZLEŞMESİ
+
+Yazılı sözleşme ile işçinin yapmayı üstlendiği işle ilgili olarak kendisine
+ihtiyaç duyulması halinde iş görme ediminin yerine getirileceğinin
+kararlaştırıldığı iş ilişkisi, çağrı üzerine çalışmaya dayalı kısmi süreli bir
+iş sözleşmesidir.
+
+Hafta, ay veya yıl gibi bir zaman dilimi içinde işçinin ne kadar süreyle
+çalışacağını taraflar belirlemedikleri takdirde, haftalık çalışma süresi yirmi
+saat kararlaştırılmış sayılır. Çağrı üzerine çalıştırılmak için belirlenen
+sürede işçi çalıştırılsın veya çalıştırılmasın ücrete hak kazanır.
+
+İşçiden iş görme borcunu yerine getirmesini çağrı yoluyla talep hakkına sahip
+olan işveren, bu çağrıyı, aksi kararlaştırılmadıkça, işçinin çalışacağı
+zamandan en az dört gün önce yapmak zorundadır. Süreye uygun çağrı üzerine işçi
+iş görme edimini yerine getirmekle yükümlüdür. Sözleşmede günlük çalışma süresi
+kararlaştırılmamış ise, işveren her çağrıda işçiyi günde en az dört saat üst
+üste çalıştırmak zorundadır.
+
+=== UZAKTAN ÇALIŞMA
+
+Uzaktan çalışma; işçinin, işveren tarafından oluşturulan iş organizasyonu
+kapsamında iş görme edimini evinde ya da teknolojik iletişim araçları ile
+işyeri dışında yerine getirmesi esasına dayalı ve yazılı olarak kurulan iş
+ilişkisidir.
+
+Yukarıdaki tanıma göre yapılacak iş sözleşmesinde; işin tanımı, yapılma şekli,
+işin süresi ve yeri, ücret ve ücretin ödenmesine ilişkin hususlar, işveren
+tarafından sağlanan ekipman ve bunların korunmasına ilişkin yükümlülükler,
+işverenin işçiyle iletişim kurması ile genel ve özel çalışma şartlarına ilişkin
+hükümler yer alır.
+
+=== GEÇİCİ İŞ İLİŞKİSİ
+
+Geçici iş ilişkisi, özel istihdam bürosu aracılığıyla ya da holding bünyesi
+içinde veya aynı şirketler topluluğuna bağlı başka bir işyerinde görevlendirme
+yapılmak suretiyle kurulabilir.
+
+==== ÖZEL İSTİHDAM BÜROSU ARACILIĞIYLA
+
+Özel istihdam bürosu aracılığıyla geçici iş ilişkisi, Türkiye İş Kurumunca izin
+verilen özel istihdam bürosunun bir işverenle geçici işçi sağlama sözleşmesi
+yaparak bir işçisini geçici olarak bu işverene devri ile;
+
+.. Kanunun 13 üncü maddesinin beşinci fıkrası ile 74 üncü maddesinde belirtilen
+hâllerde, işçinin askerlik hizmeti hâlinde ve iş sözleşmesinin askıda kaldığı
+diğer hâllerde,
+.. Mevsimlik tarım işlerinde,
+.. Ev hizmetlerinde,
+.. İşletmenin günlük işlerinden sayılmayan ve aralıklı olarak gördürülen
+işlerde,
+.. İş sağlığı ve güvenliği bakımından acil olan işlerde veya üretimi önemli
+ölçüde etkileyen zorlayıcı nedenlerin ortaya çıkması hâlinde,
+.. İşletmenin ortalama mal ve hizmet üretim kapasitesinin geçici iş ilişkisi
+kurulmasını gerektirecek ölçüde ve öngörülemeyen şekilde artması hâlinde,
+.. Mevsimlik işler hariç dönemsellik arz eden iş artışları hâlinde,
+
+kurulabilir.
+
+Geçici işçi sağlama sözleşmesi (a) bendinde sayılan hâllerin devamı süresince,
+(b) ve (c) bentlerinde sayılan hâllerde süre sınırı olmaksızın, diğer bentlerde
+sayılan hâllerde ise en fazla dört ay süreyle kurulabilir. Yapılan bu sözleşme
+(g) bendi hariç toplam sekiz ayı geçmemek üzere en fazla iki defa
+yenilenebilir. Geçici işçi çalıştıran işveren, belirtilen sürenin sonunda aynı
+iş için altı ay geçmedikçe yeniden geçici işçi çalıştıramaz.
+
+Kanunun 29 uncu maddesi kapsamında toplu işçi çıkarılan işyerlerinde sekiz ay
+süresince, kamu kurum ve kuruluşlarında ve yer altında maden çıkarılan
+işyerlerinde geçici iş ilişkisi kurulamaz.
+
+Geçici işçi çalıştıran işveren, grev ve lokavtın uygulanması sırasında
+18/10/2012 tarihli ve 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanununun
+65 inci maddesi hükümleri saklı kalmak kaydıyla geçici iş ilişkisiyle işçi
+çalıştıramaz.
+
+(f) bendi kapsamında geçici iş ilişkisi ile çalıştırılan işçi sayısı, işyerinde
+çalıştırılan işçi sayısının dörtte birini geçemez. Ancak, on ve daha az işçi
+çalıştırılan işyerlerinde beş işçiye kadar geçici iş ilişkisi kurulabilir. İşçi
+sayısının tespitinde, kısmi süreli iş sözleşmesine göre çalışanlar, çalışma
+süreleri dikkate alınarak tam süreli çalışmaya dönüştürülür. Geçici işçi
+sağlama sözleşmesi ile çalışan işçi, 30 uncu maddenin uygulanmasında özel
+istihdam bürosu ve geçici işçi çalıştıran işverenin işçi sayısına dâhil
+edilmez.
+
+Geçici işçi çalıştıran işveren, iş sözleşmesi feshedilen işçisini fesih
+tarihinden itibaren altı ay geçmeden geçici iş ilişkisi kapsamında
+çalıştıramaz.
+
+Geçici işçi çalıştıran işveren;
+
+.. İşin gereği ve geçici işçi sağlama sözleşmesine uygun olarak geçici işçisine
+talimat verme yetkisine sahiptir.
+.. İşyerindeki açık iş pozisyonlarını geçici işçisine bildirmek ve Türkiye İş
+Kurumu tarafından istenecek belgeleri belirlenen sürelerle saklamakla
+yükümlüdür.
+.. Geçici işçinin iş kazası ve meslek hastalığı hâllerini özel istihdam
+bürosuna derhâl, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel
+Sağlık Sigortası Kanununun 13 üncü ve 14 üncü maddelerine göre ilgili mercilere
+bildirmekle yükümlüdür.
+.. Geçici işçileri çalıştıkları dönemlerde, işyerindeki sosyal hizmetlerden
+eşit muamele ilkesince yararlandırır. Geçici işçiler, çalışmadıkları dönemlerde
+ise özel istihdam bürosundaki eğitim ve çocuk bakım hizmetlerinden
+yararlandırılır.
+.. İşyerindeki geçici işçilerin istihdam durumuna ilişkin bilgileri varsa
+işyeri sendika temsilcisine bildirmekle yükümlüdür.
+.. 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 17 nci
+maddesinin altıncı fıkrasında öngörülen eğitimleri vermekle ve iş sağlığı ve
+güvenliği açısından gereken tedbirleri almakla, geçici işçi de bu eğitimlere
+katılmakla yükümlüdür.
+
+Geçici işçinin, geçici işçiyi çalıştıran işverenin işyerindeki çalışma
+süresince temel çalışma koşulları, bu işçilerin aynı işveren tarafından aynı iş
+için doğrudan istihdamı hâlinde sağlanacak koşulların altında olamaz.
+
+Geçici iş ilişkisinde işveren özel istihdam bürosudur. Özel istihdam bürosu
+aracılığıyla geçici iş ilişkisi, geçici işçi ile iş sözleşmesi, geçici işçi
+çalıştıran işveren ile geçici işçi sağlama sözleşmesi yapmak suretiyle yazılı
+olarak kurulur. Özel istihdam bürosu ile geçici işçi çalıştıran işveren
+arasında yapılacak geçici işçi sağlama sözleşmesinde; sözleşmenin başlangıç ve
+bitiş tarihi, işin niteliği, özel istihdam bürosunun hizmet bedeli, varsa
+geçici işçi çalıştıran işverenin ve özel istihdam bürosunun özel yükümlülükleri
+yer alır. Geçici işçinin, Türkiye İş Kurumundan veya bir başka özel istihdam
+bürosundan hizmet almasını ya da iş görme edimini yerine getirdikten sonra
+geçici işçi olarak çalıştığı işveren veya farklı bir işverenin işyerinde
+çalışmasını engelleyen hükümler konulamaz. Geçici işçi ile yapılacak iş
+sözleşmesinde, işçinin ne kadar süre içerisinde işe çağrılmazsa haklı nedenle
+iş sözleşmesini feshedebileceği belirtilir. Bu süre üç ayı geçemez.
+
+(f) bendi kapsamında kurulan geçici iş ilişkisinde, geçici işçi çalıştıran
+işveren işyerinde bir ayın üzerinde çalışan geçici işçilerin ücretlerinin
+ödenip ödenmediğini çalıştığı süre boyunca her ay kontrol etmekle, özel
+istihdam bürosu ise ücretin ödendiğini gösteren belgeleri aylık olarak geçici
+işçi çalıştıran işverene ibraz etmekle yükümlüdür. Geçici işçi çalıştıran
+işveren, ödenmeyen ücretler mevcut ise bunlar ödenene kadar özel istihdam
+bürosunun alacağını ödemeyerek, özel istihdam bürosunun alacağından mahsup
+etmek kaydıyla geçici işçilerin en çok üç aya kadar olan ücretlerini doğrudan
+işçilerin banka hesabına yatırır. Ücreti ödenmeyen işçiler ve ödenmeyen ücret
+tutarları geçici işçi çalıştıran işveren tarafından çalışma ve iş kurumu il
+müdürlüğüne bildirilir.
+
+Sözleşmede belirtilen sürenin dolmasına rağmen geçici iş ilişkisinin devam
+etmesi hâlinde, geçici işçi çalıştıran işveren ile işçi arasında sözleşmenin
+sona erme tarihinden itibaren belirsiz süreli iş sözleşmesi kurulmuş sayılır.
+Bu durumda özel istihdam bürosu işçinin geçici iş ilişkisinden kaynaklanan
+ücretinden, işçiyi gözetme borcundan ve sosyal sigorta primlerinden sözleşme
+süresiyle sınırlı olmak üzere sorumludur.
+
+Geçici işçi, işyerine ve işe ilişkin olmak kaydıyla kusuru ile neden olduğu
+zarardan, geçici işçi çalıştıran işverene karşı sorumludur.
+
+==== HOLDİNG BÜNYESİ İÇİNDE
+
+İşverenin, devir sırasında yazılı rızasını almak suretiyle bir işçisini,
+holding bünyesi içinde veya aynı şirketler topluluğuna bağlı başka bir
+işyerinde iş görme edimini yerine getirmek üzere geçici olarak devretmesi
+hâlinde de geçici iş ilişkisi kurulmuş olur.
+
+Geçici iş ilişkisi, yazılı olarak altı ayı geçmemek üzere kurulabilir ve en
+fazla iki defa yenilenebilir. İşçisini geçici olarak devreden işverenin ücret
+ödeme yükümlülüğü devam eder. Geçici iş ilişkisi kurulan işveren, işçinin
+kendisinde çalıştığı sürede ödenmeyen ücretinden, işçiyi gözetme borcundan ve
+sosyal sigorta primlerinden, devreden işveren ile birlikte sorumludur.
