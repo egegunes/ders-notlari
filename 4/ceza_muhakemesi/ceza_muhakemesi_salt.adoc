@@ -1,5 +1,5 @@
 :toc:
-:toc-title: İçindekiler
+:toc-title: İÇİNDEKİLER
 :icons: font
 
 == GENEL SÜREÇ
@@ -374,7 +374,7 @@ NOTE: 246 ncı madde hükmü kaçaklar hakkında da uygulanır.
 
 TIP: Bu kararlara karşı itiraz edilebilir.
 
-== CEZA MUHAKEMESİNE KATILAN KİŞİLER
+== CEZA MUHAKEMESİNİN ÖZNELERİ
 
 === HAKİM
 
@@ -454,7 +454,7 @@ hususta karar verilmesi;
 .. Reddi istenen hâkim asliye ceza mahkemesine mensup ise bu mahkemenin yargı
 çevresi içerisinde bulunan ağır ceza mahkemesine,
 .. Reddi istenen hâkim ağır ceza mahkemesine mensup ise o yerde ağır ceza
-mahkemesinin birden fazla dairesinin bulunması hâ inde, numara olarak kendisini
+mahkemesinin birden fazla dairesinin bulunması hâlinde, numara olarak kendisini
 izleyen daireye, son numaralı daire için (1) numaralı daireye; o yerde ağır
 ceza mahkemesinin tek dairesi bulunması hâlinde ise, en yakın ağır ceza
 mahkemesine,
@@ -474,3 +474,246 @@ hükümle birlikte incelenir.
 
 Reddi istenen hâkim, ret hakkında bir karar verilinceye kadar yalnız
 gecikmesinde sakınca olan işlemleri yapar.
+
+Ancak, hâkimin oturum sırasında reddedilmesi hâlinde, bu konuda bir karar
+verilebilmesi için oturuma ara vermek gerekse bile ara vermeksizin devam
+olunur. Şu kadar ki, 216 ncı madde uyarınca tarafların iddia ve sözlerinin
+dinlenilmesine geçilemez ve ret konusunda bir karar verilmeden reddedilen hâkim
+tarafından veya onun katılımıyla bir sonraki oturuma başlanamaz.
+
+Ret isteminin kabulüne karar verildiğinde, gecikmesinde sakınca bulunan hâl
+nedeniyle yapılmış işlemler dışında, duruşma tekrarlanır.
+
+Hâkim, yasaklılığını gerektiren sebeplere dayanarak çekindiğinde; merci, bir
+başka hâkimi veya mahkemeyi davaya bakmakla görevlendirir.
+
+Hâkim, tarafsızlığını şüpheye düşürecek sebepler ileri sürerek çekindiğinde,
+merci çekinmenin uygun olup olmadığına karar verir. Çekinmenin uygun bulunması
+halinde, davaya bakmakla bir başka hâkim veya mahkeme görevlendirilir.
+
+Mahkeme, kovuşturma evresinde ileri sürülen hâkimin reddi istemini aşağıdaki
+durumlarda geri çevirir:
+
+.. Ret istemi süresinde yapılmamışsa.
+.. Ret sebebi ve delili gösterilmemişse.
+.. Ret isteminin duruşmayı uzatmak amacı ile yapıldığı açıkça anlaşılıyorsa.
+
+Bu hâllerde ret istemi, toplu mahkemelerde reddedilen hâkimin müzakereye
+katılmasıyla, tek hâkimli mahkemelerde de reddedilen hâkimin kendisi tarafından
+geri çevrilir. Bu konudaki kararlara karşı itiraz yoluna başvurulabilir.
+
+=== SAVCI
+
+=== SULH CEZA HAKİMİ
+
+=== MAĞDUR, ZARAR GÖREN VE KATILAN
+
+=== ŞÜPHELİ VE SANIK
+
+== GÖREV VE YETKİ
+
+=== MADDİ ANLAMDA YETKİ (GÖREV)
+
+Ceza mahkemeleri kanun tarafından ikiye ayrılmıştır: *Asliye ceza* mahkemeleri
+ve *ağır ceza* mahkemeleri.
+
+Kural olarak bütün suçlar asliye ceza mahkemelerinde görülür. İstisnai olarak
+cezası ağırlaştırılmış müebbet hapis, müebbet hapis veya 10 yıl üstü olan
+suçlarda görevli mahkeme ağır ceza mahkemeleridir.
+
+Ayrıca hileli iflas, nitelikli dolandırıcılık, irtikap, resmi belgede
+sahtecilik ve Terörle Mücadele Kanunu kapsamındaki suçlarda öngörülen ceza 10
+yıldan az olsa da görevli mahkeme ağır ceza mahkemeleridir.
+
+Mahkeme, yargıladığı olay bakımından görevli olup olmadığını kovuşturmanın her
+aşamasında denetlemekle yükümlüdür.
+
+TIP: Kanun bir mahkemeye özel yargılama usullerini öngörmüş, yani işbölümüne ek
+olarak birtakım özel usullere yer vermişse artık bu ayrıma görev ayrımına
+yaklaşır.
+
+Bir mahkeme görevli veya yetkili olup olmadığını ancak kovuşturmaya geçtikten
+sonra denetleyebilir. Ancak Yargutay'a göre mahkeme iddianameye baktığında
+kendisinin açıkça görevsiz olduğunu görüyorsa iddianemeyi iade edebilir.
+
+==== İSTİSNAEN MADDE BAKIMINDAN YETKİLİ OLMA HALLERİ
+
+. *Görevsizlik kararı verilemeyecek hâl*: Duruşmada suçun hukukî niteliğinin
+değiştiğinden bahisle görevsizlik kararı verilerek dosya alt dereceli mahkemeye
+gönderilemez.
++
+Başka bir ifadeyle, bir ağır ceza mahkemesi duruşma süresince (yoklama ile
+başlayıp hükümle son bulan sürece) fiilin hukuki vasfının değiştiği gerekçesi
+ile görevsizlik kararı vererek dosyayı asliye ceza mahkemesine gönderemez.
+. *Bağlantı*: Bir kişi, birden fazla suçtan sanık olur veya bir suçta her ne
+sıfatla olursa olsun birden fazla sanık bulunursa bağlantı var sayılır. Suçun
+işlenmesinden sonra suçluyu kayırma, suç delillerini yok etme, gizleme veya
+değiştirme fiilleri de bağlantılı suç sayılır.
++
+Bir fiil sebebiyle birden fazla kişinin soruşturulduğu veya kovuşturulduğu
+durumlarda **objektif bağlantı**dan bahsedilir. Bir kişinin birden fazla fiil
+sebebiyle soruşturulduğu veya kovuşturulduğu durumlarda ise **subjektif
+bağlantı**dan söz edilir.
++
+Bağlantılı suçlardan her biri değişik mahkemelerin görevine giriyorsa, bunlar
+hakkında birleştirilmek suretiyle yüksek görevli mahkemede dava açılabilir.
++
+Kovuşturma evresinin her aşamasında, bağlantılı ceza davalarının
+birleştirilmesine veya ayrılmasına yüksek görevli mahkemece karar verilebilir.
+Birleştirilen davalarda, bu davaları gören mahkemenin tâbi olduğu yargılama
+usulü uygulanır. İşin esasına girdikten sonra ayrılan davalara aynı mahkemede
+devam olunur.
++
+*Geniş bağlantı sebebiyle birleştirme*: Mahkeme, bakmakta olduğu birden çok
+dava arasında bağlantı görürse, bu bağlantı yukarıda gösterilen türden olmasa
+bile, birlikte bakmak ve hükme bağlamak üzere bu davaların birleştirilmesine
+karar verebilir.
++
+Birleştirme kararının verilebilmesi için yargılamanın amaca uygun biçimde
+sonuçlandırılması bakımından bir fayda bulunmalıdır.
++
+Birleştirme kararı soruşturma evresinde soruşturmayı yürüten savcılık
+tarafından, kovuşturma evresinde ise yüksek görevli mahkeme tarafından
+verilecektir.
++
+Bağlantının varlığı halinde *birleştirme* yapılabileceği gibi diğer mahkemedeki
+uyuşmazlığın çözümü *bekletici sorun* yapılabilir veya mahkeme diğer uyuşmazlık
+kendi yargı alanına girmemesine rağmen kendisine yetecek kadar olan kısmı
+çözebilir, yani *nisbi muhakeme* yapabilir. Bunlarda hangisinin yapılacağı
+kural olarak ceza hakiminin takdirine kalmıştır. Bunun iki istisnası vardır:
+
+.. Anayasa'ya aykırılık iddiası ileri sürüldüğünde ceza hakimi nisbi muhakeme
+yapamaz. Bu durumda bekletici mesele yapmak ve söz konusu başvuruyu Anayasa
+Mahkemesi'ne göndermek zorundadır.
+.. Kovuşturma evresinde mağdur veya sanığın yaşının ceza hükümleri bakımından
+tespitiyle ilgili bir sorunla karşılaşılması halinde; mahkeme, ilgili kanunda
+belirlenen usule göre bu sorunu çözerek hükmünü verir.
+
+==== GÖREV UYUŞMAZLIĞI
+
+Bir uyuşmazlık hakkında iki mahkemenin de kendini görevli olarak görmesi
+*olumlu görev uyuşmazlığı*, görevsiz olarak görmesi ise *olumsuz görev
+uyuşmazlığı* olarak adlandırılır.
+
+Olumsuz görev uyuşmazlığının çözümlenmesi bir üst dereceli mahkeme tarafından
+yapılır.
+
+==== GÖREVLİ OLMAYAN MAHKEMENİN İŞLEMLERİ
+
+Yenilenmesi mümkün olmayanlar dışında, görevli olmayan hâkim veya mahkemece
+yapılan işlemler hükümsüzdür.
+
+NOTE: İddianamenin kabulü kararı yenilenmesi mümkün olmayan bir işlemdir.
+
+=== YER BAKIMINDAN YETKİ
+
+Yer bakımından yetki bir yargılamanın hangi coğrafi bölgedeki mahkemede
+yapılacağını belirtir.
+
+Davaya bakmak yetkisi, suçun işlendiği yer mahkemesine aittir.
+
+Teşebbüste son icra hareketinin yapıldığı, kesintisiz suçlarda kesintinin
+gerçekleştiği ve zincirleme suçlarda son suçun işlendiği yer mahkemesi
+yetkilidir.
+
+Suç, ülkede yayımlanan bir basılı eserle işlenmişse yetki, eserin yayım merkezi
+olan yer mahkemesine aittir. Ancak, aynı eserin birden çok yerde basılması
+durumunda suç, eserin yayım merkezi dışındaki baskısında meydana gelmişse, bu
+suç için eserin basıldığı yer mahkemesi de yetkilidir.
+
+Soruşturulması ve kovuşturulması şikâyete bağlı olan hakaret suçunda eser,
+mağdurun yerleşim yerinde veya oturduğu yerde dağıtılmışsa, o yer mahkemesi de
+yetkilidir. Mağdur, suçun işlendiği yer dışında tutuklu veya hükümlü
+bulunuyorsa, o yer mahkemesi de yetkilidir.
+
+Görsel veya işitsel yayınlarda da bu maddenin üçüncü fıkrası hükmü uygulanır.
+Görsel ve işitsel yayın, mağdurun yerleşim yerinde ve oturduğu yerde işitilmiş
+veya görülmüşse o yer mahkemesi de yetkilidir.
+
+Suçun işlendiği yer belli değilse, şüpheli veya sanığın yakalandığı yer,
+yakalanmamışsa yerleşim yeri mahkemesi yetkilidir.
+
+Şüpheli veya sanığın Türkiye'de yerleşim yeri yoksa Türkiye'de en son adresinin
+bulunduğu yer mahkemesi yetkilidir.
+
+Mahkemenin bu suretle de belirlenmesi olanağı yoksa, ilk usul işleminin
+yapıldığı yer mahkemesi yetkilidir.
+
+CAUTION: Yer bakımından yetki kamu düzenine ilişkin değildir.
+
+==== YER BAKIMINDAN YETKİ KURALININ İSTİSNALARI
+
+. *Bağlantı*: Her biri değişik mahkemelerin yetkisi içinde bulunan bağlantılı
+ceza davaları, yetkili mahkemelerden herhangi birisinde birleştirilerek
+görülebilir.
++
+Bağlantılı ceza davalarının değişik mahkemelerde bakılmasına başlanmış olursa,
+Cumhuriyet savcılarının istemlerine uygun olmak koşuluyla, mahkemeler arasında
+oluşacak uyuşma üzerine, bu davaların hepsi veya bir kısmı bu mahkemelerin
+birinde birleştirilebilir.
++
+Uyuşulmazsa, Cumhuriyet savcısı veya sanığın istemi üzerine ortak yüksek
+görevli mahkeme birleştirmeye gerek olup olmadığına ve gerek varsa hangi
+mahkemede birleştirileceğine karar verir.
++
+Birleştirilmiş olan davaların ayrılması da bu suretle olur.
+. *Muhakemenin nakli*: Yetkili hâkim veya mahkeme, hukukî veya fiilî sebeplerle
+görevini yerine getiremeyecek hâlde bulunursa; yüksek görevli mahkeme, davanın
+başka yerde bulunan aynı derecede bir mahkemeye nakline karar verir.
++
+Kovuşturmanın görevli ve yetkili olan mahkemenin bulunduğu yerde yapılması kamu
+güvenliği için tehlikeli olursa, davanın naklini Adalet Bakanı Yargıtaydan
+ister.
++
+Mahkeme, fiili sebepler veya güvenlik gerekçesiyle duruşmanın il sınırları
+içinde başka bir yerde yapılmasına karar verebilir. Bu karara karşı itiraz yolu
+açıktır.
+. *İstinabe*: Hakim bir takım işlemler için yetkisini bir başka hakime sadece o
+işlemle sınırlı ve geçici olarak nakledebilir. İstinabe bir coğrafi bölgedeki
+makamın başka bir coğrafi bölgede yapması gereken işlemi kendisiyle aynı
+seviyede olan ve işlemin olduğu bölgedeki yetkili hakim veya savcılığa o işleri
+yapması için yazısıdır. *Makamlar birbirine denk olmalıdır.*
+
+==== YETKİ UYUŞMAZLIĞI
+
+Birkaç hâkim veya mahkeme arasında olumlu veya olumsuz yetki uyuşmazlığı
+çıkarsa, ortak yüksek görevli mahkeme, yetkili hâkim veya mahkemeyi belirler.
+
+IMPORTANT: Soruşturma aşamasındaki bir dosya kendisine yetkisizlik ile gelen
+cumhuriyet savcılığı kendisinin de yetkisiz olduğunu düşünüyor olsa bile
+dosyayı geri gönderemez. Dosyayı bağlı bulunduğu ağır ceza mahkemesi bölgesine
+en yakın yer ağır ceza bölgesindeki ağır ceza mahkemesine uyuşmazlığın çözümü
+için göndermek zorundadır.
+
+==== YETKİSİZLİK İDDİASI
+
+Sanık, yetkisizlik iddiasını, ilk derece mahkemelerinde duruşmada sorgusundan,
+bölge adliye mahkemelerinde incelemenin başlamasından ve duruşmalı işlerde
+inceleme raporunun okunmasından önce bildirir.
+
+Yetkisizlik iddiasına ilişkin karar, ilk derece mahkemelerinde sanığın
+sorgusundan önce, bölge adliye mahkemelerinde duruşmasız işlerde incelemenin
+hemen başlangıcında, duruşmalı işlerde inceleme raporu okunmadan önce verilir.
+Bu aşamalardan sonra yetkisizlik iddiasında bulunulamayacağı gibi mahkemeler de
+bu hususta re'sen karar veremez.
+
+Yetkisizlik kararlarına karşı itiraz yoluna gidilebilir.
+
+==== YETKİLİ OLMAYAN MAHKEMENİN İŞLEMLERİ
+
+Yetkili olmayan hâkim veya mahkemece yapılan işlemler, sadece yetkisizlik
+nedeniyle hükümsüz sayılmaz. Bir hâkim veya mahkeme, yetkili olmasa bile,
+gecikmesinde sakınca bulunan hâllerde, yargı çevresi içerisinde gerekli
+işlemleri yapar.
+
+=== KİŞİ BAKIMINDAN YETKİ
+
+Bazı kişiler taşıdıkları sıfatlardan ötürü kendilerine özel birtakım kurallarla
+soruşturulup kovuşturulurlar.
+
+=== GÖREV İTİBARİYLE YETKİ
+
+Görev itibariyle yetkide bir mahkemenin görev veya yetki alanında yapılacak işi
+yapması için yetkinin devredilmesi söz konusudur. Mahkeme heyeti yapılacak iş
+için hakimlerden birini *naip hakim* olarak yetkilendirir ve naip hakim işlemi
+yaparken *heyet adına* hareket eder. Her işlem için ayrıca yetkilendirme gerekir.
