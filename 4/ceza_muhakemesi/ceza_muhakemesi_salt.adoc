@@ -504,6 +504,56 @@ geri çevrilir. Bu konudaki kararlara karşı itiraz yoluna başvurulabilir.
 
 === SAVCI
 
+Cumhuriyet savcılarının görevi kamu adına iddiada bulunmak, iddia faaliyetini
+gerçekleştirmektir.
+
+İddia makamı sadece kişinin suçlanması, ceza alması için uğraşan bir makam
+değildir. *Savcı, şüpheli veya sanığın lehine bir delil gördüğü zaman bunu da
+dosyaya koymalıdır.
+
+TIP: Savcının reddine ilişkin bir düzenleme hukukumuzda yer almamaktadır.
+Hakimin reddi sebepleri sınırlayıcı bir hüküm olduğundan kıyas serbestisinin
+istisnasını oluşturur ve savcının reddi için uygulanamaz.
+
+Cumhuriyet savcıları il merkezinde ve gerektiği takdirde ilçelerd kurulan
+Cumhuriyet Başsavcılıkları şeklinde örgütlenir. Cumhuriyet Başsavcılıklarında
+bir Cumhuriyet Başsavcısı ve yeterli sayıda Cumhuriyet savcısı bulunur.
+Cumhuriyet Başsavcısı görevini altındaki Cumhuriyet savcıları eliyle ifa eder.
+Cumhuriyet savcıları görevlerini ifa ederken bağlı bulundukları Cumhuriyet
+Başsavcısı adına hareket ederler.
+
+NOTE: Cumhuriyet savcıları arasındaki ilişki işbölümü ilişkisidir.
+
+==== CUMHURİYET SAVCILARININ GÖREVLERİ
+
+. *Suçun işlendiğine dair bildirimin araştırılması*: Cumhuriyet savcısı bir suç
+şüphesi bildirimi aldıktan sonra fiile ilişkin birtakım delilleri toplayıp,
+süpheli hakkındaki şüpheyi belirli bir seviyeye getirdikten sonra iddianameyi
+düzenler.
++
+NOTE: Ağustos 2017'ye kadar Cumhuriyet savcıları kendilerene gelen tüm suç
+bildirimlerini değerlendirerek soruşturma açmak zorundaydı. Ancak son yapılan
+değişiklik ile gelen suç bildirimi soyut veya yalan olduğu ilk bakışta
+anlaşılır nitelikte ise soruşturma açma zorunluluğu kaldırıldı.
++
+IMPORTANT: Cumhuriyet savcısının *dava açma yetkisi yoktur*. Kamu davasını
+açacak olan makam iddianameyi kabul eden görevli ve yetkili mahkemedir.
+. *Kamu davası açıldıktan sonra davanın takip edilmesi*: Cumhuriyet savcısı
+yargılamayı baştan sona takip etmek zorundadır. Burada delilleri ileri sürmek,
+mütalaa vermek gibi birtakım görevleri söz konusudur. Yargılamanın sonunda
+karara karşı kanun yoluna başvurma yetkisi vardır.
++
+NOTE: Bunlar Ağır Ceza mahkemeleri için geçerlidir. 2020 yılına kadar Asliye
+Ceza mahkemelerinde Cumhuriyet savcıları yer almayacaktır.
+. *Koruma tedbirlerine başvurma*: Kural olarak şüpheli veya sanık hakkında
+koruma tedbirine başvurmak için hakim kararı gerekir. Ancak gecikmesinde
+sakınca bulunan hallerde Cumhuriyet savcıları koruma tedbirlerine karar
+verebilir.
+. *Cezanın infazını takip etme*
+. *Kanunun verdiği diğer görevleri yerine getirme*
+
+==== ADLİ KOLLUK
+
 === SULH CEZA HAKİMİ
 
 === MAĞDUR, ZARAR GÖREN VE KATILAN
