@@ -554,11 +554,140 @@ verebilir.
 
 ==== ADLİ KOLLUK
 
+Polis, kamu düzenini koruyan ve esas amacı suçun işlenmesi önlemek olan meslek
+grubudur. Ancak Cumhuriyet savcısının polisten beklentisi işlenmiş olan bir
+fiil sonucunda ortaya çıkan kamu düzeni bozukluğuna yönelik birtakım delillerin
+bulunup kişilere ulaşılmasıdır.
+
+Kolluk valilere, oradan da İçişleri Bakanlığı'na bağlıdır. Bütün atamalar,
+maaşlar İçişleri Bakanlığı tarafından organize edilmektedir. Ancak Cumhuriyet
+savcısı da her yılın sonunda adli kolluk hakkında bir rapor hazırlayarak mülki
+amire gönderir.
+
+Adli kolluk personeli görevi sırasında Cumhuriyet savcısı ve adli kolluk amiri
+dışında kimseden emir almaz ve kimseye de görevi hakkında bilgi vermemelidir.
+Soruşturma aşamasında kural olarak tek yetkili Cumhuriyet savcısıdır.
+Cumhuriyet savcısının emri olmaksızın adli kolluk işlem yapamaz.
+
+TIP: Son çıkan bir KHK ile kolluğa Cumhuriyet savcısına haber vermeden gözaltı
+yapabilme yetkisi verilmiştir.
+
+Cumhuriyet savcısının adli kolluğa her işlem için ayrı ayrı emir vermesi
+gerekir. Kolluğa genel bir yetki verilemez. Adli kolluğa verilecek emir kural
+olarak yazılı olmalıdır. Ancak gecikmesinde sakınca olan hallerde emir önce
+sözlü sonra yazılı verilebilir.
+
+===== KOLLUĞUN İŞLEDİĞİ SUÇLAR
+
+Kolluk mensubu kişilerin işledikleri suçlar için önemli olan fiil ile görev
+arasında bağlantı olup olmadığıdır.
+
+Fiil ile görev arasında bağlantı olmadığı hallerde suçu normal bir vatandaş
+işlemiş gibi sorumluluk doğar.
+
+Görev ile fiil arasında bağlantı varsa görev bakımından amirin kim olduğu
+sorusu gündeme gelir.
+
+Kolluğun önleyici görevi sırasında bir suç işlenmişse soruşturma başlatılması
+için mülki amirden izin alınacaktır. *Cumhuriyet savcısı nezdinde bir soruşturma
+yürütülürken adli kolluk görevi sırasında suç işlenmişse Cumhuriyet savcısı
+herhangi bir izne tabi olmadan soruşturma başlatabilecektir.*
+
+NOTE: Kolluğun işlediği suç zimmet, rüşvet, irtikap gibi izin alınmasına gerek
+olmayan suçlardan biri ise amirin kim olduğuna bakılmaksızın izinsiz soruşturma
+başlatılabilir.
+
 === SULH CEZA HAKİMİ
 
-=== MAĞDUR, ZARAR GÖREN VE KATILAN
+Soruşturma aşamasında hakim kararı gereken işlemlerde kararı verecek olan Sulh
+Ceza hakimidir.
+
+Ayrıca Sulh Ceza hakimi, Cumhuriyet savcısına ulaşılamadığı veya Cumhuriyet
+savcısının iş yükünden dolayı işlem yapamadığı hallerde Cumhuriyet savcısı gibi
+hareket edebilir.
+
+=== MAĞDUR, ZARAR GÖREN, MALEN SORUMLU VE KATILAN
+
+*Mağdur*, bir suçta suçun maddi unsurlarına maruz kalan kimsedir. Mağdur ile
+*suçtan zarar gören* aynı kişi olmak zorunda değildir.
+
+Suçtan zarar gören;
+
+. Sağ bir kişi olmalıdır.
+. Dava ehliyetine sahip olmalıdır.
+. Gerçek veya tüzel kişi olabilir.
+
+Suçtan zarar gören veya mağdur, katılan sıfatıyla yargılamaya katılabilecektir.
+Katılan yargılamanın bir tarafı olur ve birtakım hak ve yükümlülüklere sahip
+olur.
+
+Mağdur veya suçtan zarar gören olmak katılan olmak için yeterli değildir. Bu
+kişiler ayrıca **katılma talebi**nde bulunmalıdır.
+
+IMPORTANT: Kanun yoluna başvurmak için katılma talebinin var olması yeterlidir.
+
+*Malen sorumlu*, yargılamadaki sonuca göre bir kimse suçlu olarak kabul
+edildiğinde ekonomik olarak sorumluluğu doğacak kimsedir. Malen sorumlu da
+katılma talebinde bulunabilir.
+
+Katılma talebinin kabul edilmesinden sonra katılan bakımından dava bir yan dava
+şeklinde yürüyecektir. Bu yan dava tamamen ana davaya bağlıdır.
+
+NOTE: Yargıtay, re'sen kovuşturulacak suçlar bakımından kişinin katılan
+olabilmesi için bir şart aramaktadır. Suçtan zarar gören veya mağdur olarak
+olayı mahkemeye anlatırken sanığın cezalandırılması istendiği açıkça söylenmez
+ise Yargıtay'a göre artık katılan talebinde bulunulamaz.
+
+IMPORTANT: Soruşturma aşamasında katılma olmaz. Katılan olabilmek için
+soruşturmanın kovuşturma aşamasına geçmiş olması ve ilk derece mahkemesinin
+kararını vermesine kadar katılma talebinde bulunulması gerekir.
 
 === ŞÜPHELİ VE SANIK
+
+Kişi *soruşturma aşamasındayken şüpheli*, *kovuşturma aşamasında sanıktır*.
+
+Bir kişinin suç işlediğine dair ihbarın Cumhuriyet savcılığına iletilmiş olması
+o kişiyi şüpheli hale getirmez. Şüpheli sıfatının kazanılması için o kişi
+hakkında soruşturma başlatılması gerekir.
+
+Soruşturma açılabilmesi için şüphelinin kimliğinin belli olması şart değildir.
+
+[TIP]
+====
+Doktrinde iddianemede şüphelinin belli olması gerekip gerekmediği tartışma
+konusudur.
+
+Bir görüşe göre kişinin kimliğinin bilinmesine gerek yoktur. Kişinin eşkalinin
+belirlenmesi ve ona geçici bir isim vermek suretiyle iddianame düzenlenebilir.
+
+Kürsüye göre ise iddianamenin düzenlenebilmesi için şüphelinin kimliğinin
+belirli olması gerekir.
+====
+
+==== ŞÜPHELİ VE SANIĞIN HAKLARI
+
+. *Savunma hakkı*: En tipik örnek olarak soruşturma aşamasında şüphelinin
+ifadesini almayan Cumhuriyet savcısı bu kişi hakkında iddianeme düzenleyemez.
+. *Susma hakkı*: Şüpheli veya sanık dava veya soruşturma konusu fiil ile ilgili
+olarak bir şey söylemek zorunda değildir. Bir şey söylenmemiş olması ikrar
+anlamına gelmez.
++
+TIP: Kişi kimliğinin tespitine ilişkin durumlarda susma hakkını kullanamaz.
+. *Kendisini ve yakınlarını suçlamama hakkı*
+. *Soru sorma hakkı*
+. *Tercümandan yararlanma hakkı*
+. *Delil toplama ve ibraz etme hakkı*
+. *Delillerin toplanmasını isteme hakkı*
+. *Duruşmada hazır bulunma hakkı*: Mahkemede hazır bulunmak hak olduğu kadar
+yükümlülüktür. Sanık çağrıldığı halde gelmezse zorla getirtilebilir. Kişi hazır
+değilse ve istisnalar da söz konusu değilse yargılamaya devam edilemez.
+. *Yakalandığını veya gözaltına alındığını yakınlarına bildirme hakkı*
+. *Müdafii tayin hakkı*: Kişi müdafii olmadan kollukta ifade verir ancak
+mahkemede bu ifadesini kabul etmez ise ifade geçersiz olur. Kanun koyucu bazı
+suçlar bakımından müdafiden yararlanmayı zorunlu kılmıştır.
+. *Yakalanma ve gözaltı işlemlerine veya gözaltı süresinin uzatılmasına ilişkin
+Cumhuriyet savcısının emirlerine karşı Sulh Ceza Hakimliğine başvurma hakkı*
+
 
 == GÖREV VE YETKİ
 
