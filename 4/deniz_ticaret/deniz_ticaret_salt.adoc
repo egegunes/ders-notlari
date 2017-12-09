@@ -1,4 +1,6 @@
+:icons: font
 :toc:
+:toc-title: İÇİNDEKİLER
 
 == GEMİ
 
@@ -602,3 +604,404 @@ hükümlerine bağlı olmaksızın Türk Bayrağı çeker.
 NOTE: Yargıtay 2014 yılında verdiği bir kararda bağlama kütüğüne kayıtlı
 gemileri sicile kayıtlı olmayan gemi olarak tanımlamıştır. Dolayısıyla bağlama
 kütüğü Yargıtay'a göre bir sicil değildir.
+
+== GEMİ ÜZERİNDEKİ AYNİ HAKLAR
+
+Deniz araçları üzerindeki ayni haklar *menşe ülke hukukuna* tabidir. Menşe ülke
+deniz araçlarında ayni hakların tescil edildiği sicil yeri, bu sicil yeri yoksa
+bağlama limanının olduğu yerdir.
+
+Gemi, Türk gemi siciline kayıtlı ise Ticaret Kanununun gemiler üzerindeki ayni
+haklara ilişkin hükümleri uygulanır. Sicile kayıtlı değilse Medeni Kanunun
+taşınırlara ilişkin hükümleri uygulanır.
+
+TIP: İnşası tamamlanmamış gemiye *yapı halindeki gemi* denir. Yapı halindeki gemi
+yapı siciline kayıtlı ise bu yapı üzerindeki mülkiyet hakkının devri sicile
+kayıtlı gemilerin mülkiyetinin devrine ilişkin hükümlere tabidir. Sicile
+kayıtlı değilse devir Medeni Kanun hükümlerine göre yapılacaktır.
+
+[NOTE]
+====
+Bağlama Kütüğüne kayıtlı gemiler üzerindeki mülkiyetin devri bakımından hangi
+hükümler uygulanacaktır?
+
+Bağlama Kütüğünün sicil olarak kabul edilip edilmeyeceği tartışmalıdır.
+Öğretide ağırlıklı görüş bunun sicil olmadığı yönündedir. Zira mevzuatta
+bağlama kütüğündeki kayıtların hukuki karine olmasından, kamu güveninin
+korunacak olmasından bahsedilmemiştir. Yargıtay da bunun bir sicil olmadığını
+savunmaktadır.
+
+Dolayısıyla bağlama kütüğüne kayıtlı gemiler sicile kayıtlı olmayan gemiler
+gibi Medeni Kanun hükümlerine tabi olacaktır.
+
+Ancak Bağlama Kütüğü Uygulama Yönetmeliği bağlama kütüğüne kayıtlı bir geminin
+mülkiyetinin devredilmesine ilişkin anlaşmanın liman başkanlığında veya mutat
+bir durumda yapılmasını arayarak bir şekil şartı getirmiştir. Ağırlıklı görüş
+bunun tasarruf işlemi açısından bir şekil şartı olduğudur.
+====
+
+=== MÜLKİYET
+
+==== ASLEN İKTİSAP
+
+Sahipsiz bir gemiyi sahiplenme hakkı sadece Devletindir. Sahipsiz gemi, sicil
+kayıtlarından malikinin kim olduğu anlaşılamayan veya usulüne uygun olarak
+mülkiyeti terk edilmiş olan gemidir. Devlet kendisini gemi siciline malik
+olarak tescil ettirmek suretiyle gemi üzerindeki mülkiyeti iktisap eder.
+
+==== DEVREN İKTİSAP
+
+Sicile kayıtlı olmayan bir geminin mülkiyeti Medeni Kanun uyarınca zilyetliği
+devri hükümleri (MK 763) ile devredilir.
+
+Gemi veya payının devri hâlinde, taraflardan her biri, giderleri karşılamak
+şartıyla, kendisine devre ilişkin resmî veya imzası noterce onaylı bir senet
+verilmesini isteyebilir.
+
+Gemi siciline kayıtlı olan bir geminin devri için, malik ile iktisap edenin,
+mülkiyetin iktisap edene devri hususunda anlaşmaları ve geminin zilyetliğinin
+geçirilmesi şarttır.
+
+Mülkiyetin devrine ilişkin anlaşmanın yazılı şekilde yapılması ve imzaların
+noterce onaylı olması gerekir. Bu anlaşma gemi sicil müdürlüğünde de
+yapılabilir.
+
+Ticaret Kanunu 11 inci maddenin üçüncü fıkrası hükmü saklıdır.
+
+Taraflarca aksi kararlaştırılmış olmadıkça, iktisap eden, geminin mülkiyeti ile
+birlikte, iktisap anında varolan ve devredene ait eklentinin mülkiyetini de
+kazanır.
+
+Devir sonucunda, devredene ait olmayan veya üçüncü kişilere ait haklarla
+sınırlandırılmış bulunan eklenti de iktisap edenin zilyetliğine geçerse, Türk
+Medenî Kanununun 763, 988, 989 ve 991 inci maddeleri uygulanır. İktisap edenin
+iyiniyeti hususunda zilyetliği elde ettiği an esas alınır.
+
+Gemi yolculukta bulunduğu sırada devredilirse, devredenle iktisap eden
+arasındaki ilişkilerde bu yolculuğun kâr ve zararı, aksine sözleşme
+bulunmadıkça iktisap edene aittir.
+
+Sicile kayıtlı gemi payının mülkiyeti, malik ile iktisap edenin bu hususta
+anlaşmaları ile devralana geçer. Anlaşmanın yazılı şekilde yapılması ve
+imzaların noterce onaylanması şarttır. Bu anlaşma gemi sicil müdürlüğünde de
+yapılabilir.
+
+Donatma iştirakinde paydaş donatanların her biri, iştirak payını dilediği anda
+diğer paydaşların onayı olmaksızın tamamen veya kısmen başkasına devredebilir.
+Sicile kayıtlı gemi üzerindeki iştirak payının devri, gemi payının devri ve
+sicile tescili ile olur.
+
+Gemi payı veya iştirak payının devri sonucunda gemi Türk Bayrağı çekme hakkını
+kaybedecekse, devir yalnız bütün paydaşların veya paydaş donatanların
+onaylarıyla geçerli olur.
+
+Gemi payı, gemi yolculukta bulunduğu sırada devredilirse, devrin kapsamı
+Ticaret Kanunu 1002 nci maddenin üçüncü fıkrasına göre belirlenir.
+
+==== ZAMANAŞIMI
+
+===== OLAĞAN ZAMANAŞIMI
+
+Sicile kayıtlı bir geminin maliki olmadığı hâlde, gemi siciline malik olarak
+tescil edilmiş bulunan bir kişi, tescilin en az beş yıl sürmesi ve bu süre
+içinde gemiyi davasız ve aralıksız bir şekilde asli zilyet sıfatıyla elinde
+bulundurması şartıyla, geminin mülkiyetini iktisap eder. Bu süre, malik olmayan
+kişinin sicile tescil edildiği tarihten itibaren işlemeye başlar. Sürenin
+hesabı, kesilmesi ve durması, Türk Borçlar Kanununun alacak zamanaşımına
+ilişkin hükümlerine tabidir. Gemi siciline kaydın doğru olmadığı yolunda bir
+itirazın tescil edilmesi hâlinde itiraz kayıtlı olduğu sürece zamanaşımı
+işlemez.
+
+Zamanaşımı için öngörülen şartların gerçekleşmesiyle sicilde geminin maliki
+olarak gözüken kişi onun mülkiyetini iktisap eder.
+
+NOTE: Medeni Kanundaki düzenlemeden farklı olarak burada iyiniyet aranmaz.
+
+===== OLAĞANÜSTÜ ZAMANAŞIMI
+
+Sicile kaydı gerekirken kaydedilmemiş olan bir gemiyi en az on yıl süreyle
+davasız ve aralıksız olarak asli zilyet sıfatıyla elinde bulunduran bir kişi,
+geminin, sicile kendi malı olarak tescil edilmesini isteyebilir.
+
+En az on yıl önce ölmüş veya gaipliğine karar verilmiş bir kişinin adına
+kayıtlı bulunan ve hakkında on yıldan beri malikin onayına tabî bir husus
+kaydedilmemiş olan bir gemiyi birinci fıkrada yazılı şartlarla elinde
+bulunduran kişi de o geminin maliki olarak tescil edilmesini isteyebilir.
+Zilyetlik süresinin hesabı, kesilmesi ve durması Türk Borçlar Kanununun alacak
+zamanaşımına ilişkin hükümlerine tabidir.
+
+Tescil ancak mahkeme kararıyla olur. Tescil davası, geminin kayıtlı olduğu veya
+kaydedilmesi gereken sicil müdürlüğüne karşı açılır. Mahkeme, ilgilileri, en
+fazla üç aylık bir süre belirleyerek itirazlarını bildirmeye tirajı ellibinin
+üstünde olan ve yurt düzeyinde dağıtımı yapılan bir gazetede yapılacak ilanla
+çağırır. İtiraz edilmez veya itiraz reddolunursa tescile karar verilir.
+
+Tescile karar verilmeden önce, üçüncü bir kişi malik sıfatıyla tescil edilir
+veya üçüncü kişinin mülkiyeti dolayısıyla sicile, gemi sicilinin doğru olmadığı
+yolunda bir itiraz şerhi verilmiş olursa, tescil kararı üçüncü kişi hakkında
+hüküm ifade etmez.
+
+=== REHİN
+
+Sicile kayıtlı olmayan gemilerin rehni Medeni Kanununun taşınır rehni
+hükümlerine göre yapılacak ve zilyetliğin devri ile rehnedilecektir. Sicile
+kayıtlı gemiler üzerinde yapılacak tek rehin türü ise ipotektir.
+
+İpotek usulünün temel özelliği rehin konusu şeyin alacaklıya devredilmesine
+gerek olmadan sicile tescil edilerek kurulmasıdır.
+
+NOTE: Hem sicile kayıtlı hem de kayıtlı olmayan gemiler için gündeme
+gelebilecek bir rehin hakkı *gemi alacaklısı* rehin hakkıdır. Gemi alacaklısı
+hakkı, bütün gemilerde söz konusu olan ve kanuni bir rehindir. Kanun gereği
+kendiliğinden doğduğu için ne tescile ne de zilyetliğin devrine ihtiyaç duyar.
+Kural olarak hakkın doğumundan itibaren 1 yıl içerisinde takip yapılmalıdır.
+
+=== GEMİ İPOTEĞİ
+
+==== KURULMASI
+
+Bir alacağı teminat altına almak için gemi üzerinde ipotek kurulabilir. Gemi
+ipoteği alacaklıya, alacağını, geminin bedelinden alma yetkisini verir. Sicile
+kayıtlı gemilerin sözleşmeye dayalı rehni sadece gemi ipoteği yolu ile
+sağlanır. İleride doğabilecek veya şarta ya da kıymetli evraka bağlı bir alacak
+için de ipotek kurulabilir.
+
+IMPORTANT: Sicile kayıtlı bir geminin tamamı veya payı üzerinde kurulabilecek
+tek akdi rehin türü ipotektir.
+
+Alacaklıların gemi ipoteğinden doğan hakkı, sadece alacağa göre belirlenir.
+
+Bir geminin payı ancak gemiye paylı mülkiyet esaslarına göre malik olan
+paydaşlardan birinin payından ibaret olmak şartıyla gemi ipoteği ile
+sınırlandırılabilir.
+
+Bir geminin bütün payları bir malikin elinde bulunduğu sürece, ayrı ayrı paylar
+üzerinde ayrı ayrı kişilere gemi ipoteği kurulamaz.
+
+Gemi ipoteğinin kurulması için geminin maliki ile alacaklının gemi üzerinde
+ipotek kurulması hususunda anlaşmaları ve ipoteğin gemi siciline tescil
+edilmesi şarttır.
+
+İpoteğin kurulmasına ilişkin sözleşmelerin yazılı şekilde yapılması ve
+imzalarının noterce onaylanması gerekir. Bu anlaşma gemi sicil müdürlüğünde de
+yapılabilir. Bu şekillerden birine uygun olarak yapılmadıkça ipoteğin
+kurulmasına dair anlaşma geçerli olmaz.
+
+Tescilden önce anlaşma Kanunun öngördüğü şekilde yapılmış veya malik tarafından
+Gemi Sicili Nizamnamesi uyarınca alacaklıya kayda onay verdiği bildirilmiş ya
+da sicil müdürlüğüne kayıt dilekçesi verilmiş olduğu takdirde, ilgililer
+tescilden kaçınamazlar.
+
+Malikin tasarruf ehliyetinin sonradan sınırlanması, sicile bildirilen kayda
+onayını veya kayıt istemini geçersiz duruma getirmez.
+
+Yabancı bir ülkede iktisap edilip, henüz Türk Gemi Sicili veya Türk
+Uluslararası Gemi Siciline tescil edilmemiş olan gemilerde bayrak
+şahadetnamesine şerh tescil hükmündedir. Geminin tescilinde bu gibi ipotekler
+resen sicile geçirilir.
+
+==== İPOTEĞİN DERECESİ
+
+Gemi üzerindeki ipoteklerin dereceleri, Türk Medenî Kanununun taşınmaz rehni
+hakkındaki hükümlerine göre belirlenir.
+
+Bir ipotek hakkının derecesinin değiştirilmesi için ipotek hakkı sahibi ile
+malik yazılı bir anlaşma yapmalı ve imzaları noter tarafından onaylanmalı ya da
+anlaşma Gemi Sicil Müdürlüğünde yapılmalıdır.
+
+==== İPOTEĞİN KAPSAMI
+
+===== GEMİ, GEMİ PAYI, BÜTÜNLEYİCİ PARÇA, EKLENTİ, GEMİ YERİNE GEÇEN SATIŞ VEYA KAMULAŞTIRMA BEDELİ VE TAZMİNAT İSTEMLERİ
+
+İpoteğin kapsamı hakkında Türk Medenî Kanununun 862 ve 863 üncü maddeleri
+uygulanır.
+
+Eklentiler normal bir işletmenin gereği olarak bu durumdan çıkarılır veya
+alacaklı lehine el konulmadan önce devredilerek gemiden uzaklaştırılır ise,
+ipotek artık bunları kapsamaz.
+
+Bütünleyici parçalar, gemiden geçici bir amaç için olmamak şartıyla ayrılıp
+uzaklaştırılırlarsa ipotek bunları kapsamaz; meğerki, uzaklaştırılmadan önce
+alacaklı lehine gemiye el konulmuş olsun.
+
+Kamulaştırılan geminin bedeli ve gemi malikinin geminin zıyaı veya hasarından
+dolayı üçüncü şahıslara karşı sahip olduğu tazminat istemleri ipoteğin
+kapsamındadır.
+
+===== BİRLİKTE GEMİ İPOTEĞİNDE BİRDEN ÇOK GEMİ VEYA GEMİ PAYI
+
+Bir alacak için birden çok gemi veya gemi payı ipotek edilmişse, bunlardan her
+biri borcun tamamından sorumludur.
+
+Alacaklı, her gemi veya pay ancak belirli bir kısımdan sorumlu olmak üzere
+alacağını gemi veya paylar arasında paylaştırabilir. Paylaştırma, sicil
+müdürlüğüne yapılacak beyan ve tescil ile gerçekleşir. Birlikte ipotek üzerinde
+hak sahibi kişiler varsa onların da onayı gereklidir.
+
+===== SİGORTA TAZMİNATI
+
+Gemi ipoteğinin kapsamına giren hususlarla ilgili olarak malikin menfaatinin,
+malik veya onun lehine bir başkası tarafından sigorta ettirilmiş olması
+hâlinde, ipotek, sigorta tazminatını da kapsar.
+
+İpotek, sigorta primlerini veya sigorta sözleşmesi gereğince sigortacıya
+yapılması gereken başka ödemelerin yerine getirilmesi için alacaklı tarafından
+harcanan paralarla bunların faizlerini de teminat altına alır.
+
+Türk Medenî Kanununun rehnedilen alacak ve diğer haklara ilişkin hükümleri
+burada da uygulanır; sigortacı, gemi siciline kayıtlı ipoteği bilmediğini ileri
+süremez. Bununla beraber, sigortacı veya sigorta ettiren kişi, zararın meydana
+geldiğini alacaklıya bildirmiş ve bildirimden itibaren iki haftalık bir süre
+geçmişse, sigortacı, tazminatı sigortalıya ödemekle alacaklıya karşı da
+sorumluluktan kurtulur. Bildirimin yapılması son derece zor ise bundan
+kaçınılabilir. Bu takdirde süre, tazminatın muaccel olduğu tarihten itibaren
+işlemeye başlar. Süre sona erinceye kadar alacaklı, sigortacıya karşı ödemeye
+itiraz edebilir.
+
+Sigortacı, geminin önceki durumuna getirilmesi veya gemi alacaklılarına
+verilmesi amacıyla malike tazminat bedeline sayılmak üzere ödemede bulunmuş ve
+bu amaçlara erişilmesi teminat altına alınmış ise, ödeme, ipotekli alacaklıya
+karşı da geçerli olur.
+
+Gemi önceki durumuna getirildiği veya eklenti olan yeni parçalar yerlerine
+konulduğu takdirde, sigortacının ipotek alacaklılarına karşı olan sorumluluğu
+sona erer. Malikin bir gemi alacaklısı hakkına temel oluşturan borçlarının
+ödenmesi hâlinde, sigortacının malike yapacağı ödeme, ancak gemi alacaklısı
+hakkının teminatını oluşturan unsurların rizikonun gerçekleşmesinden hemen
+sonra taşıdıkları değer oranında sigortacıyı ipotekli alacaklıya karşı
+sorumluluktan kurtarır.
+
+==== İPOTEĞİN DEVRİ
+
+İpotekle teminat altına alınmış olan alacağın devri ile gemi ipoteği de yeni
+alacaklıya geçer.
+
+Alacak ipotekten ve ipotek de alacaktan ayrı olarak devredilemez.
+
+Alacağın devri için eski ve yeni alacaklının bu hususta yazılı şekilde
+anlaşmaları ve devrin gemi siciline tescili şarttır.
+
+Üst sınır ipoteğinde alacak, alacağın devrine ilişkin genel hükümlere göre de
+devredilebilir. Bu takdirde gemi ipoteği alacak ile birlikte geçmez.
+
+Emre veya hamile yazılı bir senede bağlanmış alacaklar, gemi ipoteği ile
+teminat altına alınmışsa, alacağın devri bu alacakların bağlı oldukları
+senetlerin devri hakkındaki hükümlere tabidir. Bu takdirde, gemi ipoteği de
+alacak ile birlikte geçer.
+
+İpotek ile teminat altına alınmış bir borcu ödemesi sebebiyle, malike veya onun
+hukuki seleflerine rücu hakkına sahip olduğu oranda gemi ipoteği, gemi maliki
+olmayan borçluya geçer.
+
+==== İPOTEKLİ ALACAKLININ HAKLARI
+
+NOTE: Sicile kayıtlı gemilerin cebri icra yoluyla satışında İcra İflas
+Kanununun taşınmaz satışı hükümleri uygulanır.
+
+Gemi veya tesisatının kötüleşmesi sonucu olarak ipoteğin sağladığı teminat
+tehlikeye düşerse, alacaklı, tehlikeyi gidermesi için malike uygun bir süre
+verebilir. Bu süre içinde tehlike giderilmezse, alacaklı derhâl ipoteği paraya
+çevirmek hakkını elde eder. Alacak faizsiz olup henüz muacceliyet kazanmamışsa,
+paranın alınması ile muacceliyet tarihleri arasındaki zamana ait kanuni faiz
+indirilir.
+
+Malikin gemiyi işletme tarzı sonucu olarak, ipoteğin sağladığı teminatı
+tehlikeye düşürecek şekilde gemi veya tesisatının kötüleşmesinden veya ipotekli
+alacaklının haklarının başkaca tehlikeye girmesinden kaygı duyulur ya da üçüncü
+kişiler tarafından yapılacak bu gibi müdahaleye ve tahribata karşı malik
+gerekli önlemleri almazsa, alacaklının istemi üzerine mahkeme;
+
+.. Ticaret Kanunu 1353 üncü madde uyarınca geminin ihtiyaten haczine,
+.. Gerekli görürse geminin, kaptandan başka bir yediemine bırakılmasına ve
+.. Malikin ihtiyati haczin uygulanmasından başlayarak bir aylık süre içinde
+gerekli önlemleri almasına, karar verir. Bu sürenin sonunda önlemlerin henüz
+alınmadığı veya alınan önlemlerin yetersiz kaldığı anlaşılırsa mahkeme,
+ipoteğin paraya çevrilmesi yoluyla ilamlı takip başlatmak üzere alacaklıya bir
+aylık süre verir.
+
+İpoteğin kapsamına giren eklentinin kötüleşmesi veya normal bir işletmenin
+gereklerine aykırı olarak gemiden uzaklaştırılması hâli de geminin kötüleşmesi
+hükmündedir.
+
+==== İPOTEK TÜRLERİ
+
+. *Üst sınır ipoteği*: Alacağın miktarı belirli değil veya değişken ise, gerçek
+miktarı zamanında saptamak üzere, ipoteğin teminat altına alacağı alacak
+miktarının üst sınırı belirlenerek gemi siciline tescil edilir; alacak faizli
+ise, faizleri de üst sınır kapsamında sayılır.
+. *Yabancı para ipoteği*: Yabancı para üzerinden gemi ipoteği kurulabilir. Bu
+takdirde yabancı para veya Türk parası karşılıklarının hesabında hesap
+günündeki Türkiye Cumhuriyet Merkez Bankasının döviz alış kuru esas alınır.
+Rehin haklarının hangi yabancı para üzerinden kurulabileceği Hazine
+Müsteşarlığınca belirlenir. Aynı derecede birden fazla para türü kullanılarak
+gemi ipoteği kurulamaz.
+. *Sabit kıymetli ipotek*: Vadesi geldiğinde Türk lirası ile ödenecek alacak
+dövize veya altına sabitlenebilir. Vadesi geldiğinde döviz veya altının vade
+tarihindeki Türk lirası cinsinden karşılığı ödenir.
+
+==== YAPI İPOTEĞİ
+
+Yapı hâlindeki gemiler üzerinde de ipotek kurulabilir.
+
+Omurgasının konulduğu andan kızaktan indirilinceye kadar, görünebilecek bir
+yerine ad ve numara konulmak suretiyle yapının açık ve sürekli bir şekilde
+ayırt edilmesi gerçekleştirildiği andan itibaren yapı hâlindeki gemi üzerinde
+ipotek kurulabilir.
+
+Tamamlandığında onsekiz gros tonilatodan ufak olacak yapılar üzerinde ipotek
+kurulamaz.
+
+Yapı hâlindeki gemi üzerinde ipotek, yapı maliki ile alacaklının yapı üzerinde
+ipotek kurulması hususunda anlaşmaları ve ipoteğin yapı hâlindeki gemilere özgü
+sicile tescili ile kurulur. İpoteğin kurulmasına ilişkin anlaşmanın yazılı
+şekilde yapılması ve imzalarının noterce onaylanması şarttır. Bu anlaşma gemi
+sicil müdürlüğünde de yapılabilir.
+
+Yapı hâlindeki gemi, yapımın her aşamasında ipoteğin kapsamındadır. Yapı
+hâlindeki gemiler üzerindeki ipotek, Ticaret Kanunu 1020 nci maddede yazılı
+şeylerle yapı malikinin mülkiyetine girmemiş olan kısımlar dışında, tersanede
+bulunup yapımda kullanılacak olan ve bunun için işaretlenmiş bulunan kısımları
+da kapsar.
+
+Yapı hâlindeki gemiler üzerindeki ipotek, sigorta tazminatını ancak ipoteğin
+kapsamına giren hususlar üzerindeki malikin menfaatinin malik veya onun lehine
+bir başkası tarafından ayrıca sigorta ettirilmiş olması hâlinde kapsar.
+
+Yapı üzerinde kurulan gemi ipoteği, yapımı tamamlandıktan sonra eski
+derecesiyle gemi üzerinde kalır.
+
+==== TERSANE SAHİBİNİN ALACAKLARI İÇİN KANUNİ İPOTEK
+
+Tersane sahibi, geminin yapımı ve onarımından doğan alacakları için, o yapı
+veya gemi üzerinde, bir ipoteğinin tescilini isteme hakkına sahiptir. Bu haktan
+önceden feragat geçerli değildir.
+
+IMPORTANT: Bu ipotek hakkı kendiliğinden doğmaz, kanun sadece tersane sahibini
+talep hakkı vermiştir. İpotek için tescil kurucudur.
+
+Bu ipoteğin kurulması hakkında Türk Medenî Kanununun 895 ilâ 897 nci maddeleri
+uygulanır.
+
+Gemi ipoteğinin kurulmasına yönelik istem hakkını teminat altına almak için,
+gemi veya yapı siciline şerh verilebilir. Geminin yapımı veya onarımı henüz
+tamamlanmamışsa, bedelin, tamamlanan işi karşılayan bir kısmı ve bedelin
+kapsamında olmayan giderler için bir teminat ipoteğinin kurulması istenebilir.
+
+=== İNTİFA HAKKI
+
+Sicile kayıtlı gemiler üzerinde intifa hakkı kurulabilir.
+
+İntifa hakkı, aksi kararlaştırılmadıkça, sahibine üzerinde kurulduğu gemiden
+tam yararlanma yetkisini sağlar.
+
+Akdî intifa hakkının kurulmasında Ticaret Kanununun 1015 inci madde hükmü
+uygulanır.
+
+Sicile kayıtlı gemi üzerindeki intifa hakkı Türk Medenî Kanununun taşınmazlar
+üzerindeki intifa hakkı hükümlerine tabidir.
+
+İntifa hakkı ile gemi ipotekleri arasındaki ilişkiler Türk Medenî Kanununun 869
+uncu maddesi hükmüne tabidir. Aynı tarihle kaydedilmiş bulunan haklar aynı
+derecededir. Gemi ipoteğinin derecelerinin değiştirilmesi ve ipoteğin malike
+karşı alacaklıya sağladığı hakların zamanaşımına uğraması ile ilgili hükümler
+burada da uygulanır.
