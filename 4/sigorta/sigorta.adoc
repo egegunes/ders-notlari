@@ -1,4 +1,10 @@
-== SİGORTA ŞİRKETLERİNİN KURULUŞU
+:icons: font
+:toc:
+:toc-title: İÇİNDEKİLER
+
+== SİGORTA ŞİRKETLERİ
+
+=== KURULUŞ
 
 2007 yılında yürürlüğe giren 5684 sayılı Sigortacılık Kanunu'nda kuruluşa,
 denetlenmeye, sona ermeye ilişkin prensipler hem sigorta şirketlerini hem de
@@ -32,11 +38,12 @@ Anonim şirket şeklinde kurulacak sigorta şirketleri ve reasürans şirketleri
 .. Müflis veya konkordato ilan etmiş olmaması,
 .. Bir sigorta veya reasürans şirketinin kurucusu veya ortağı olmanın
 gerektirdiği malî güce ve itibara sahip bulunması,
-.. Tasfiyeye tâbi tutulan finansal kuruluşlarda ve hakkında 20 nci maddenin
-ikinci ve üçüncü fıkrası hükümleri uygulanan şirketlerde oy hakkının ya da
-sermayesinin doğrudan veya dolaylı yüzde on ve daha fazla bir oranda veya bu
-oranın altında olsa bile denetim ve yönetime etkili olabilecek şekilde denetim
-ve yönetim kurullarına üye belirleme imtiyazı veren pay sahibi olmaması,
+.. Tasfiyeye tâbi tutulan finansal kuruluşlarda ve hakkında Sigorta Kanunu 20
+nci maddenin ikinci ve üçüncü fıkrası hükümleri uygulanan şirketlerde oy
+hakkının ya da sermayesinin doğrudan veya dolaylı yüzde on ve daha fazla bir
+oranda veya bu oranın altında olsa bile denetim ve yönetime etkili olabilecek
+şekilde denetim ve yönetim kurullarına üye belirleme imtiyazı veren pay sahibi
+olmaması,
 .. Taksirli suçlar hariç olmak üzere affa uğramış olsalar dahi süreli hapis
 veya sigortacılık mevzuatına aykırı hareketlerinden dolayı hapis veya birden
 fazla adlî para cezasına mahkûm edilmemiş yahut cezası ne olursa olsun basit ve
@@ -138,7 +145,7 @@ tespit edilmesi,
 
 hallerinden en az birinin gerçekleşmesi durumunda reddedilir.
 
-== SİGORTA ŞİRKETLERİNİN YÜKÜMLÜLÜKLERİ
+=== YÜKÜMLÜLÜKLER
 
 Sigorta şirketleri ile reasürans şirketlerinin ana sözleşmelerinin
 değiştirilmesinde, Müsteşarlığın uygun görüşü aranır. Müsteşarlıkça uygun
@@ -209,7 +216,8 @@ Ayrıca, Bakan;
 reasürans şirketlerinde ise sigorta gruplarından birine veya tamamına ait
 sigorta portföyünü teminat ve karşılıkları ile birlikte başka şirket veya
 şirketlere devretmeye, devralacak şirket bulunamadığı takdirde ise devredilecek
-portföyün tasfiyesine yönelik her türlü tedbiri almaya, .. Sigorta portföyünü sınırlandırmaya,
+portföyün tasfiyesine yönelik her türlü tedbiri almaya,
+.. Sigorta portföyünü sınırlandırmaya,
 .. Yönetim veya denetim kurulu üyelerinden bir kısmını veya tamamını görevden
 alarak ya da bu kurullardaki mevcut üye sayısını artırarak bu kurullara üye
 atamaya veya sigorta veya reasürans şirketinin yönetiminin kayyıma
@@ -226,7 +234,105 @@ veya reasürans şirketinin tüm branşlarda veya ilgili branşlarda yeni sigort
 sözleşmesi akdetme ve temdit yetkisini kaldırmaya, ruhsatlarını iptal ve
 varlıklarını bloke etmeye yetkilidir.
 
+=== SONA ERME
+
+==== RUHSAT İPTALİ
+
+Bu Kanunun ruhsat iptaline ilişkin hükümleri saklı kalmak kaydıyla;
+
+.. Ruhsat verilmesine ilişkin şartların bir kısmının veya tamamının kaybolması
+halinde, üç aydan az olmamak üzere, Müsteşarlık tarafından verilecek süre
+içinde durumun düzeltilmemiş olması,
+.. Ruhsatın verildiği tarihten itibaren bir yıl içinde veya Müsteşarlığın uygun
+görüşüyle yapılanlar hariç olmak üzere aralıksız olarak altı ay süre ile
+sigorta veya reasürans sözleşmesi akdedilmemesi,
+.. Sigortacılık mevzuatına aykırı uygulamalar sonucunda sigorta sözleşmesi ile
+ilgili kişilerin hak ve menfaatlerinin tehlikeye düştüğünün anlaşılması,
+.. 20 nci madde hükmü hariç olmak üzere, bu Kanun hükümlerinden doğan
+yükümlülüklerin ağır şekilde ihlâl edilmesi veya yükümlülüklerin ihlâlinin
+mutat hale gelmesi durumunda, Müsteşarlık tarafından, üç aydan az olmamak
+kaydıyla, verilecek süre içinde durumun düzeltilmemiş olması,
+.. İş planında belirtilen hedeflerden, Müsteşarlığın bilgisi dahilinde yapılan
+değişiklik dışında makul nedenler olmaksızın aşırı derecede uzaklaşılmış
+olması,
+
+hallerinden en az birinin gerçekleşmesi durumunda, sigorta şirketlerinin ve
+reasürans şirketlerinin ilgili branş ya da bütün branşlardaki ruhsatları
+Müsteşarlık tarafından iptal edilebilir.
+
+Ruhsat iptali, ticaret siciline tescil ve Ticaret Sicil Gazetesi ile Türkiye
+çapında dağıtımı yapılan ve tiraj bakımından ilk on sırada yer alan günlük
+gazetelerden ikisinde ilan ettirilir.
+
+Ruhsatı iptal edilen şirketler, altı ayı geçmemek üzere Müsteşarlık tarafından
+verilecek süre içinde iptal edilen ruhsatla bağlantılı portföylerini devretmek
+zorundadır. Aksi takdirde Müsteşarlık re’sen devir de dâhil olmak üzere
+portföyün tasfiyesine yönelik her türlü tedbiri almaya yetkilidir.
+
+==== TASFİYE, BİRLEŞME, DEVİR, PORTFÖY DEVRİ VE İFLAS
+
+Bir sigorta şirketinin kendi talebi ile tasfiye edilmesi, bir veya birkaç
+şirket ile birleşmesi veya aktif ve pasifleri ile başka bir şirkete
+devrolunması, sigorta portföyünü teminat ve karşılıkları ile birlikte kısmen
+veya tamamen diğer bir şirkete devretmesi Bakanın iznine tâbidir. Reasürans
+şirketleri hakkında da bu fıkra hükümleri uygulanır. Bu fıkra hükmüne aykırı
+olarak yapılan tasfiye, birleşme, devralma ve portföy devirleri hükümsüzdür.
+
+TIP: Portföy devrinde alacağın temliki ve borcun nakli bir arada
+gerçekleşmektedir. Borcun naklinde alacaklının rızası aranmaktadır. Bakanın
+izni tüm alacaklıların izni yerine geçmektedir.
+
+Müsteşarlık, lüzumu halinde, tasfiye memurlarının değiştirilmesini talep
+edebilir.
+
+Birleşme, devir ve portföy devirleri, Türkiye çapında dağıtımı yapılan ve tiraj
+bakımından ilk on sırada yer alan günlük gazetelerden ikisinde, birer hafta
+arayla en az ikişer defa yayımlanmak suretiyle duyurulur. Sigorta sözleşmeleri
+devredilen portföyde yer almak kaydıyla portföyünü devreden veya bir şirkete
+devrolunan ya da birleşen şirketlerle sigorta sözleşmesi akdetmiş olan kişiler;
+birleşme, devir ya da portföy devrini öğrendikleri tarihten itibaren, devir,
+birleşme ya da portföy devri nedeniyle, üç ay içinde sözleşmelerini
+feshedebilir.
+
+Sigorta şirketinin iflası halinde sigortalılar, iflas masasına üçüncü sırada
+iştirak eder.
+
+Müsteşarlık, lüzumu halinde iflas masasındaki yetkililerin değiştirilmesini
+talep edebilir.
+
 == SİGORTA SÖZLEŞMELERİ
+
+Sigorta sözleşmesi, sigortacının bir prim karşılığında, kişinin para ile
+ölçülebilir bir menfaatini zarara uğratan tehlikenin, rizikonun, meydana
+gelmesi hâlinde bunu tazmin etmeyi ya da bir veya birkaç kişinin hayat süreleri
+sebebiyle ya da hayatlarında gerçekleşen bazı olaylar dolayısıyla bir para
+ödemeyi veya diğer edimlerde bulunmayı yükümlendiği sözleşmedir.
+
+NOTE: Sigorta sözleşmesinin tarafları *sigortacı* ve **sigorta ettiren**dir.
+*Sigortalı*, sözleşmenin tarafı olmayan ama sözleşmeden yararlanan üçüncü
+kişidir.
+
+Sigorta sözleşmesi, her iki tarafa borç yükleyen bir sözleşmedir. Sigorta
+ettirenin asıl edimi, *prim ödeme* borcudur. Sigortacının edimi ise *himaye
+sağlama* borcudur.
+
+[TIP]
+====
+Doktrinde sigortacının edimini izah eden iki görüş vardır: *Para ödeme teorisi*
+ve *tehlike taşıma teorisi*.
+
+Para ödeme teorisine göre sigortacının borcu riziko gerçekleştiğinde ortaya
+çıkar.
+
+Tehlike taşıma teorisine göre ise sigortacının borcu sözleşmenin kurulması
+anından itibaren başlar ve prim toplamak, bunları nemalandırmak, reasürans
+sözleşmeleri akdetmek vs. sigortacının ediminin bir parçasıdır.
+====
+
+Ruhsatsız bir şirket ile onun bu durumunu bilerek yapılan sigorta sözleşmeleri
+hakkında Türk Borçlar Kanununun 604 ve 605 inci maddeleri uygulanır. Türkiye’de
+yerleşik olmayan sigorta şirketleriyle kurulan sigorta sözleşmelerinde bu hüküm
+uygulanmaz.
 
 Sigorta sözleşmelerinin ana muhtevası, Müsteşarlıkça onaylanan ve sigorta
 şirketlerince aynı şekilde uygulanacak olan genel şartlara uygun olarak
@@ -235,8 +341,165 @@ düzenlenir. Ancak, sigorta sözleşmelerinde işin özelliğine uygun olarak ö
 şartlar başlığı altında herhangi bir yanılgıya neden olmayacak şekilde açık
 olarak belirtilir.
 
+Sigorta sözleşmelerinde kapsam dahiline alınmış olan riskler haricinde, kapsam
+dışı bırakılmış riskler açıkça belirtilir. Belirtilmemiş olan riskler teminat
+kapsamında sayılır.
+
+=== SÖZLEŞME TÜRLERİ
+
+==== ZARAR SİGORTASI
+
+Zarar sigortalarında teminat altına alınan rizikoların gerçekleşmesi ile ortaya
+çıkan somut zararın giderilmesi hedeflenmektedir.
+
+===== AKTİF ZARAR SİGORTASI
+
+Aktif zarar sigortalarının konusunu *menfaat* teşkil eder. Menfaat, bir
+malvarlığı değerine sahip olmak, kullanmak, işletmek dolayısıyla oluşan
+ekonomik değer ilişkisidir.
+
+IMPORTANT: Sigortanın konusu malın kendisi değil, o mal üzerindeki menfaattir.
+
+Bir mal üzerinde menfaat sahibi olan herkes kendisine ait menfaati sigorta
+ettirebilir.
+
+===== PASİF ZARAR SİGORTASI
+
+Kişinin, rizikonun gerçekleşmesi sebebiyle üçüncü kişilere karşı sorumlu hale
+gelmesi ihtimalini kapsayan sigorta türlerine pasif zarar sigortası denir.
+
+TIP: Trafik sigortası işleten sıfatındaki kişinin üçüncü kişilere karşı sorumlu
+olması halinde üçüncü kişilerin zararının giderilmesine yönelik bir pasif zarar
+sigortasıdır.
+
+==== MEBLAĞ SİGORTASI
+
+Meblağ sigortaları, zarar kavramından bağımsız sigorta sözleşmeleridir.
+Sigortacının ödeme yapması için teminat kapsamında yer alan rizikonun
+gerçekleşmiş olması yeterlidir.
+
+=== TARİFELER
+
 Sigorta tarifeleri, sigortacılık esasına ve genel kabul görmüş aktüeryal
 tekniklere uygun olarak sigorta şirketleri tarafından serbestçe belirlenir.
 Ancak, bu Kanuna ve diğer kanunlara göre ihdas edilen zorunlu sigortaların
 teminat tutarları ile tarife ve talimatları Bakan tarafından tespit olunur ve
 Resmî Gazetede yayımlanır.
+
+Bakan, gerek görülen hallerde hayat, bir yıldan uzun süreli ferdî kaza, sağlık,
+hastalık ve ihtiyarî deprem sigortaları tarifeleri ile prim, formül ve
+cetvellerinin uygulamaya konulabilmesini Müsteşarlığın onayına tâbi kılabilir
+veya özel kanunlardaki hükümler saklı kalmak kaydıyla gerekli görülen hallerde,
+tespit ve ilan ettiği aracılık komisyonlarını, tasdike tâbi kıldığı veya tespit
+ettiği her türlü tarifeyi serbest bırakabilir.
+
+=== ZORUNLU SİGORTALAR
+
+Bakanlar Kurulu, kamu yararı açısından gerekli gördüğü hallerde zorunlu
+sigortalar ihdas edebilir. Sigorta şirketleri, Sigorta Kanunu 20 nci maddenin
+ikinci fıkrasının (b) bendi ile üçüncü fıkrası hükümleri saklı kalmak kaydıyla
+faaliyet gösterdiği sigorta branşlarının kapsamında bulunan zorunlu sigortaları
+yapmaktan kaçınamaz.
+
+=== SÖZLEŞMENİN YAPILMASI SIRASINDA SUSMA
+
+Sigortacı ile sigorta sözleşmesi yapmak isteyen kişinin, sözleşmenin yapılması
+için verdiği teklifname, teklifname tarihinden itibaren otuz gün içinde
+reddedilmemişse sigorta sözleşmesi kurulmuş sayılır.
+
+Teklifnamenin verilmesi sırasında yapılmış ödemeler, sözleşmenin yapılmasından
+sonra prim olarak kabul edilir veya ilk prime sayılır. Bu ödemeler, sözleşme
+yapılmadığı takdirde, kesinti yapılmadan, faiziyle birlikte geri verilir.
+
+Ticaret Kanunu 1483. madde hükümleri saklıdır.
+
+=== SİGORTA ACENTESİ
+
+*Sigorta acentesi*, ticarî mümessil, ticarî vekil, satış memuru veya müstahdem
+gibi tâbi bir sıfatı olmaksızın bir sözleşmeye dayanarak muayyen bir yer veya
+bölge içinde daimî bir surette sigorta şirketlerinin nam ve hesabına sigorta
+sözleşmelerine aracılık etmeyi veya bunları sigorta şirketleri adına yapmayı
+meslek edinen, sözleşmenin akdinden önce hazırlık çalışmalarını yürüten ve
+sözleşmenin uygulanması ile tazminatın ödenmesinde yardımcı olan kişiyi ifade
+eder.
+
+İki tür acenter vardır: *Sözleşme yapma yetkisine sahip olan* acente ve *sadece
+aracılık yapma yetkisine sahip olan* acente. Uygulamada bunlara *A tipi* ve *B
+tipi* denilmektedir.
+
+Acenteye, şirketin tüm branşları bakımından yetki verilirse *umumi acente*,
+belirli branşlar bakımından yetki verilirse *hususi acente* adı verilir.
+
+TIP: Acentenin yetkilendirdiği acenteye *tali acente* denir. Hazine
+Müsteşartlığı sigortacılık bakımından buna izin vermemektedir.
+
+Acente, aracılıkta bulunduğu veya yaptığı sözleşmelerle ilgili her türlü ihtar,
+ihbar ve protesto gibi hakkı koruyan beyanları müvekkili adına yapmaya ve
+bunları kabule yetkilidir.
+
+==== ACENTE OLMAK İÇİN GEREKLİ KOŞULLAR
+
+Hem gerçek hem de tüzel kişiler sigorta acentesi olabilir. Sigorta Acenteleri
+Yönetmeliğinde aranan şartlar belirtilmiştir.
+
+===== GERÇEK KİŞİ ACENTELER
+
+Acentelik faaliyetinde bulunacak gerçek kişilerde aşağıdaki nitelikler aranır.
+
+.. Teknik personel unvanını taşıması.
+.. Türkiye’de yerleşik olması.
+.. Kasten işlenen bir suçtan dolayı affa uğramış olsalar dahi 5 yıldan fazla
+hapis,  sigortacılık mevzuatına aykırı hareketlerinden dolayı hapis veya birden
+fazla adlî para cezasına mahkûm edilmemiş olması; devletin güvenliğine,
+Anayasal düzene ve bu düzenin işleyişine, milli savunmaya ve devlet sırlarına
+karşı suçlar ile casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık,
+sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma,
+edimin ifasına fesat karıştırma, bilişim sistemini engelleme, bozma, verileri
+yok etme veya değiştirme, banka veya kredi kartlarının kötüye kullanılması,
+suçtan kaynaklanan malvarlığı değerlerini aklama, terörün finansmanı,
+kaçakçılık, vergi kaçakçılığı veya haksız mal edinme suçlarından hüküm giymemiş
+olması.
+.. Asgari mal varlığı şartını yerine getirmiş olması.
+.. Fiziki şartlar, teknik ve idari altyapı ile insan kaynakları bakımından
+yeterli donanıma sahip olması.
+.. Mesleki deneyim süresini tamamlaması.
+
+===== TÜZEL KİŞİ ACENTELER
+
+Acentelik faaliyetinde bulunacak tüzel kişilerde aşağıdaki nitelikler aranır.
+
+.. Merkezlerinin Türkiye’de bulunması ve anonim şirket veya limited şirket
+şeklinde kurulmuş olmaları.
+.. Asgari ödenmiş sermaye şartını yerine getirmiş olması.
+.. Fiziki şartlar, teknik ve idari altyapı ile insan kaynakları bakımından
+yeterli donanıma sahip olması.
+.. Tüzel kişi acentelerin gerçek kişi ortakları ile tüzel kişi ortaklarının
+gerçek kişi ortaklarında gerçek kişi acenteler için aranan şartlarda belirtilen
+suçlardan birini işlememiş olma şartı aranır.
+
+==== DENKLEŞTİRME TAZMİNATI
+
+Sözleşme ilişkisinin sona ermesinden sonra;
+
+.. Müvekkil, acentenin bulduğu yeni müşteriler sayesinde, sözleşme ilişkisinin
+sona ermesinden sonra da önemli menfaatler elde ediyorsa,
+.. Acente, sözleşme ilişkisinin sona ermesinin sonucu olarak, onun tarafından
+işletmeye kazandırılmış müşterilerle yapılmış veya kısa bir süre içinde
+yapılacak olan işler dolayısıyla sözleşme ilişkisi devam etmiş olsaydı elde
+edeceği ücret isteme hakkını kaybediyorsa ve
+.. Somut olayın özellik ve şartları değerlendirildiğinde, ödenmesi hakkaniyete
+uygun düşüyorsa,
+
+acente müvekkilden uygun bir tazminat isteyebilir.
+
+Tazminat, acentenin son beş yıllık faaliyeti sonucu aldığı yıllık komisyon veya
+diğer ödemelerin ortalamasını aşamaz. Sözleşme ilişkisi daha kısa bir süre
+devam etmişse, faaliyetin devamı sırasındaki ortalama esas alınır.
+
+Müvekkilin, feshi haklı gösterecek bir eylemi olmadan, acente sözleşmeyi
+feshetmişse veya acentenin kusuru sebebiyle sözleşme müvekkil tarafından haklı
+sebeplerle feshedilmişse, acente denkleştirme isteminde bulunamaz.
+
+Denkleştirme isteminden önceden vazgeçilemez. Denkleştirme istem hakkının
+sözleşme ilişkisinin sona ermesinden itibaren bir yıl içinde ileri sürülmesi
+gerekir.
