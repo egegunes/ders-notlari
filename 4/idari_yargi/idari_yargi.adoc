@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İçindekiler
+:toc-title: İÇİNDEKİLER
 
 == İDARİ DAVA
 
@@ -347,3 +347,161 @@ sözleşmeleriyle üçüncü kişilerle olan ilişkilerinden doğan uyuşmazlık
 yargının alanına girer. Kamusal statüleri, talepleri, faaliyetten yararlanma
 talepleri nedeniyle üçüncü kişilerin kamu hizmeti gören özel hukuk tüzel
 kişileriyle olan uyuşmazlıkları ise idari yargının alanına girer.
+
+== DAVA AÇMA SÜRELERİ
+
+=== GENEL ESASLAR
+
+Süreler, tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye
+başlar.
+
+NOTE: Dava açmak için tebligatın yapılmasını beklemek zorunlu değildir.
+Danıştay'ın görüşü bu yöndedir.
+
+Tatil günleri sürelere dahildir. Şu kadarki, sürenin son günü tatil gününe
+rastlarsa, süre tatil gününü izleyen çalışma gününün bitimine kadar uzar.
+
+Sürelerin bitmesi çalışmaya ara verme zamanına (adli tatil) rastlarsa bu
+süreler, ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün
+uzamış sayılır.
+
+=== GENEL DAVA SÜRESİ
+
+Dava açma süresi, özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştayda
+ve *idare mahkemelerinde altmış* ve vergi mahkemelerinde otuz gündür.
+
+Bu süreler;
+
+.. *İdari uyuşmazlıklarda; yazılı bildirimin yapıldığı*,
+.. Vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve
+cezalarından doğan uyuşmazlıklarda: Tahakkuku tahsile bağlı olan vergilerde
+tahsilatın; tebliğ yapılan hallerde veya tebliğ yerine geçen işlemlerde
+tebliğin; tevkif yoluyla alınan vergilerde istihkak sahiplerine ödemenin;
+tescile bağlı vergilerde tescilin yapıldığı ve idarenin dava açması gereken
+konularda ise ilgili merci veya komisyon kararının idareye geldiği;
+
+Tarihi izleyen günden başlar.
+
+TIP: Kural olarak işleme ilişkin idare tarafından yapılan tebligatta dava açma
+süresinin de belirtilmesi gerekir. Eğer özel dava açma süresi belirtilmemişse
+Danıştay'a göre bu özel süre içerisinde açılamaması halinde genel dava
+süresinde açılan davaların kabul edilmesi gerekir.
+
+Adresleri belli olmayanlara özel kanunlarındaki hükümlere göre ilan yoluyla
+bildirim yapılan hallerde, özel kanununda aksine bir hüküm bulunmadıkça süre,
+son ilan tarihini izleyen günden itibaren onbeş gün sonra işlemeye başlar.
+
+İlanı gereken düzenleyici işlemlerde dava süresi, ilan tarihini izleyen günden
+itibaren başlar. Ancak bu işlemlerin uygulanması üzerine ilgililer, düzenleyici
+işlem veya uygulanan işlem yahut her ikisi aleyhine birden dava açabilirler.
+Düzenleyici işlemin iptal edilmemiş olması bu düzenlemeye dayalı işlemin
+iptaline engel olmaz.
+
+Uygulama işlemi özel hukuk alanında olan bir işlem ise idari yargıda dava
+edilemeyecektir. Ancak özel hukuktaki uygulama işleminin dayanağı olan
+düzenleyici işlem idari yargıda dava edilebilecektir.
+
+Süreklilik arz eden bir ihlal varsa süreye tabi olmaksızın dava açılabilir.
+Yoklukla batıl işlemler de süreye tabi olmadan dava edilebilir.
+
+=== GÖREVLİ OLMAYAN YERLERE BAŞVURMA
+
+Çözümlenmesi Danıştayın, idare ve vergi mahkemelerinin görevlerine girdiği
+halde, adli ve askeri yargı yerlerine açılmış bulunan davaların görev
+noktasından reddi halinde, bu husustaki kararların kesinleşmesini izleyen
+günden itibaren otuz gün içinde görevli mahkemede dava açılabilir. Görevsiz
+yargı merciine başvurma tarihi, Danıştaya, idare ve vergi mahkemelerine
+başvurma tarihi olarak kabul edilir.
+
+Adli veya askeri yargı yerlerine açılan ve görevsizlik sebebiyle reddedilen
+davalarda, görevsizlik kararının kesinleşmesinden sonra yukarıda yazılı otuz
+günlük süre geçirilmiş olsa dahi, idari dava açılması için öngörülen süre henüz
+dolmamış ise bu süre içinde idari dava açılabilir.
+
+=== İDAREYE BAŞVURU
+
+İlgililer, haklarında idari davaya konu olabilecek bir işlem veya eylemin
+yapılması için idari makamlara başvurabilirler.
+
+Altmış gün içinde bir cevap verilmezse istek reddedilmiş sayılır.
+
+İlgililer altmış günün bittiği tarihten itibaren dava açma süresi içinde,
+konusuna göre Danıştaya, idare ve vergi mahkemelerine dava açabilirler.
+
+Altmış günlük süre içinde idarece verilen cevap kesin değilse ilgili bu cevabı,
+isteminin reddi sayarak dava açabileceği gibi, kesin cevabı da bekleyebilir. Bu
+takdirde dava açma süresi işlemez. Ancak, bekleme süresi başvuru tarihinden
+itibaren altı ayı geçemez.
+
+Dava açılmaması veya davanın süreden reddi hallerinde, altmış günlük sürenin
+bitmesinden sonra yetkili idari makamlarca cevap verilirse, cevabın tebliğinden
+itibaren altmış gün içinde dava açabilirler.
+
+=== ÜST MAKAMLARA BAŞVURMA
+
+İlgililer tarafından idari dava açılmadan önce, idari işlemin kaldırılması,
+geri alınması değiştirilmesi veya yeni bir işlem yapılması üst makamdan, üst
+makam yoksa işlemi yapmış olan makamdan, idari dava açma süresi içinde
+istenebilir. Bu başvurma, işlemeye başlamış olan idari dava açma süresini
+durdurur.
+
+Altmış gün içinde bir cevap verilmezse istek reddedilmiş sayılır.
+
+İsteğin reddedilmesi veya reddedilmiş sayılması halinde dava açma süresi
+yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre de hesaba
+katılır.
+
+=== İPTAL VE TAM YARGI DAVALARINDA SÜRE
+
+İlgililer haklarını ihlal eden bir idari işlem dolayısıyla Danıştaya ve idare
+ve vergi mahkemelerine doğrudan doğruya tam yargı davası veya iptal ve tam
+yargı davalarını birlikte açabilecekleri gibi ilk önce iptal davası açarak bu
+davanın karara bağlanması üzerine, bu husustaki kararın veya kanun yollarına
+başvurulması halinde verilecek kararın tebliği veya bir işlemin icrası
+sebebiyle doğan zararlardan dolayı icra tarihinden itibaren dava süresi içinde
+tam yargı davası açabilirler. Bu halde de ilgililerin İYUK 11 nci madde
+uyarınca idareye başvurma hakları saklıdır.
+
+. Bir işlemden dolayı hakkı ihlal edilen kişi işlemin tebliğinden itibaren
+altmış günlük dava süresi içinde doğrudan doğruya tam yargı davası
+açabilecektir.
+. Kişi isterse dava süresi içinde iptal ve tam yargı davasını birlikte
+açabilecektir.
+. Kişi önce iptal davası açıp bunun karara bağlanması üzerine tam yargı davası
+açabilecektir.
+
+.. İptal davasına ilişkin ilk derece mahkemesi kararının tebliğinden sonraki
+dava açma süresi içinde tam yargı davası açılabilir.
+.. Karşı taraf kanun yoluna başvurmuş ise kararın kesinleşmesinden sonra dava
+açma süresi içinde tam yargı davası açılabilir.
++
+NOTE: İdare kanun yoluna başvuru süresinden sonra başvurmuş ise üst mahkeme
+tarafından usulen reddedileceğinden kararın kesinleşme tarihi ilk derece
+mahkemesinin kararı verdiği tarih olacaktır. Kişi idarenin kanun yoluna
+başvurusu üzerine kararın kesinleşmesini beklemeyi tercih edip bu şekilde dava
+açma süresini kaçırsa da kanun yolunun reddinden itibaren dava açma süresi
+tanınmalıdır. Kişinin idarenin usulüne uygun kanun yolu başvurusu yapıp
+yapmadığını denetleme görevi kişiye yüklenmemelidir.
++
+IMPORTANT: Kişinin kanun yoluna başvurması tam yargı davası açma süresini
+durdurmaz.
+
+. Zararın işlemin icrası ile birlikte ortaya çıktığı durumlarda dava açma
+süresi geçmiş olsa bile işlemin icra tarihinden itibaren dava açma süresi
+içinde tam yargı davası açılabilir.
+
+=== İDARİ EYLEMLERDEN DOĞAN DAVALARDA SÜRE
+
+İdari eylemlerden hakları ihlal edilmiş olanların idari dava açmadan önce, bu
+eylemleri *yazılı bildirim üzerine veya başka süretle öğrendikleri tarihten
+itibaren bir yıl ve her halde eylem tarihinden itibaren beş yıl* içinde ilgili
+idareye başvurarak haklarının yerine getirilmesini istemeleri gereklidir.
+
+Bu *isteklerin kısmen veya tamamen reddi halinde, bu konudaki işlemin tebliğini
+izleyen günden itibaren* veya *istek hakkında altmış gün içinde cevap verilmediği
+takdirde bu sürenin bittiği tarihten itibaren*, dava süresi içinde dava
+açılabilir.
+
+Görevli olmayan adli ve askeri yargı mercilerine *açılan tam yargı davasının
+görev yönünden reddi halinde* sonradan idari yargı mercilerine açılacak
+davalarda, yukarıda öngörülen *idareye başvurma şartı aranmaz*.
