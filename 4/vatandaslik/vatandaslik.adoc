@@ -1,14 +1,17 @@
+:icons: font
+:toc:
+:toc-title: İÇİNDEKİLER
+:toclevels: 3
+
 == VATANDAŞLIK
 
 Vatandaşlık kişiye sıkı sıkıya bağlı bir haktır. Vatandaşlık vatandaşa ve
 devlete bir takım haklar verir. Vatandaşın devlete en önemli borcu devletin
 kanun ve nizamlarına uymaktır.
 
-== VATANDAŞLIĞIN KAZANILMA YOLLARI
+== VATANDAŞLIĞIN KAZANILMASI
 
-Türk vatandaşlığı, doğumla veya sonradan kazanılır.
-
-=== DOĞUM
+=== VATANDAŞLIĞIN DOĞUM İLE KAZANILMASI
 
 Doğumla kazanılan Türk vatandaşlığı, soy bağı veya doğum yeri esasına göre
 kendiliğinden kazanılır. Doğumla kazanılan vatandaşlık doğum anından itibaren
@@ -37,10 +40,31 @@ vatandaşlığını kazanamayan çocuk, doğumdan itibaren Türk vatandaşıdır
 
 Türkiye'de bulunmuş çocuk aksi sabit olmadıkça Türkiye'de doğmuş sayılır.
 
-=== SONRADAN KAZANMA
+=== VATANDAŞLIĞIN SONRADAN KAZANILMASI
 
-Sonradan kazanılan Türk vatandaşlığı, *yetkili makam kararı* veya *evlat
-edinme* ya da *seçme hakkının kullanılması* ile gerçekleşir.
+Sonradan kazanılan Türk vatandaşlığı, *evlilik*, *yetkili makam kararı* veya
+*evlat edinme* ya da *seçme hakkının kullanılması* ile gerçekleşir.
+
+==== EVLİLİK
+
+Bir Türk vatandaşı ile evlenme doğrudan Türk vatandaşlığını kazandırmaz. Ancak
+bir Türk vatandaşı ile en az üç yıldan beri evli olan ve evliliği devam eden
+yabancılar Türk vatandaşlığını kazanmak üzere başvuruda bulunabilir. Başvuru
+sahiplerinde;
+
+.. Aile birliği içinde yaşama,
+.. Evlilik birliği ile bağdaşmayacak bir faaliyette bulunmama,
+.. Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali
+bulunmama,
+
+şartları aranır.
+
+Başvurudan sonra Türk vatandaşı eşin ölümü nedeniyle evliliğin sona ermesi
+halinde (a) bendindeki şart aranmaz.
+
+Evlenme ile Türk vatandaşlığını kazanan yabancılar evlenmenin butlanına karar
+verilmesi halinde evlenmede iyiniyetli iseler Türk vatandaşlığını muhafaza
+ederler.
 
 ==== YETKİLİ MAKAM KARARI
 
@@ -53,6 +77,8 @@ Türk vatandaşlığını kazanmak isteyen yabancılarda;
 .. Kendi millî kanununa, vatansız ise Türk kanunlarına göre ergin ve ayırt etme
 gücüne sahip olmak,
 .. Başvuru tarihinden geriye doğru Türkiye'de kesintisiz beş yıl ikamet etmek,
++
+NOTE: 5 yıl içerisinde en fazla 12 ay yurtdışında bulunulabilir.
 .. Türkiye'de yerleşmeye karar verdiğini davranışları ile teyit etmek,
 .. Genel sağlık bakımından tehlike teşkil eden bir hastalığı bulunmamak,
 .. İyi ahlak sahibi olmak,
@@ -66,3 +92,128 @@ bulunmamak,
 
 WARNING: Aranan şartların var olması vatandaşlığın kazanılması için mutlak bir
 hak sağlamaz.
+
+Türk vatandaşlığının kazanılmasına ilişkin kararlar, karar tarihinden itibaren
+hüküm ifade eder.
+
+Yetkili makam kararı ile Türk vatandaşlığının kazanılması eşin vatandaşlığına
+tesir etmez. Ana veya babanın velayeti kendisinde bulunan çocukları, diğer eşin
+muvafakat etmesi halinde Türk vatandaşlığını kazanır. Muvafakat verilmemesi
+halinde ana veya babanın mutad meskeninin bulunduğu ülkedeki hakim kararına
+göre işlem yapılır. Türk vatandaşlığını birlikte kazanan ana ve babanın
+çocukları da Türk vatandaşlığını kazanır.
+
+Ana veya babanın Türk vatandaşlığını kazandığı tarihte kendileri ile birlikte
+işlem görmeyen çocukları, ergin olduktan sonra Türk vatandaşlığını kazanmak
+üzere başvurdukları takdirde haklarında Vatandaşlık Kanunu 11 inci madde
+hükümleri uygulanır.
+
+==== EVLAT EDİNME
+
+Bir Türk vatandaşı tarafından evlat edinilen ergin olmayan kişi, millî güvenlik
+ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmamak şartıyla,
+karar tarihinden itibaren Türk vatandaşlığını kazanabilir.
+
+==== SEÇME HAKKI
+
+Vatandaşlık Kanunu 27 nci madde uyarınca ana veya babalarına bağlı olarak Türk
+vatandaşlığını kaybeden çocuklar ergin olmalarından itibaren üç yıl içinde
+seçme hakkını kullanmak suretiyle Türk vatandaşlığını kazanabilirler.
+
+Seçme hakkı ile Türk vatandaşlığının kazanılması, bu hakkın kullanılmasına dair
+şartların tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.
+
+Seçme hakkını kullanarak Türk vatandaşlığını kazanan kişilerin eşleri ve
+çocukları hakkında VK 20 nci madde hükümleri uygulanır.
+
+==== İSTİSNAİ HALLER
+
+Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali
+bulunmamak şartıyla Bakanlığın teklifi, Bakanlar Kurulunun kararı ile aşağıda
+belirtilen yabancılar Türk vatandaşlığını kazanabilirler.
+
+.. Türkiye'ye sanayi tesisleri getiren veya bilimsel, teknolojik, ekonomik,
+sosyal, sportif, kültürel, sanatsal alanlarda olağanüstü hizmeti geçen ya da
+geçeceği düşünülen ve ilgili bakanlıklarca haklarında gerekçeli teklifte
+bulunulan kişiler.
+.. 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununun
+31 inci maddesinin birinci fıkrasının (j) bendi uyarınca ikamet izni alanlar
+ile Turkuaz Kart sahibi yabancılar ve bunların yabancı eşi, kendisinin ve
+eşinin ergin olmayan veya bağımlı yabancı çocuğu.
+.. Vatandaşlığa alınması zaruri görülen kişiler.
+.. Göçmen olarak kabul edilen kişiler.
+
+=== VATANDAŞLIĞIN YENİDEN KAZANILMASI
+
+Türk vatandaşlığından kendi isteğiyle çıkmış veya iradesi dışında çıkarılmış
+kişi için Türk vatandaşlığı yeniden kazanılabilir.
+
+==== İKAMET ŞARTI ARANMAKSIZIN YENİDEN KAZANMA
+
+Millî güvenlik bakımından engel teşkil edecek bir hali bulunmamak şartıyla
+aşağıda belirtilen kişiler Türkiye'de ikamet etme süresine bakılmaksızın, Türk
+vatandaşlığını Bakanlık kararıyla yeniden kazanabilirler.
+
+.. Çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler.
+.. Ana veya babalarına bağlı olarak Türk vatandaşlığını kaybedenlerden
+Vatandaşlık Kanunu 21 inci maddede öngörülen süre içerisinde seçme hakkını
+kullanmayanlar.
+
+NOTE: Ana ve babalarına bağlı olarak Türk vatandaşlığını kaybeden kişi 3 yıl
+içerisinde VK 21'deki seçme hakkını kullanırsa vatandaşlığı kazanır. İdarenin
+takdir hakkı yoktur.
+
+==== İKAMET ŞARTINA BAĞLI OLARAK YENİDEN KAZANMA
+
+Vatandaşlık Kanunu 29 uncu madde uyarınca Türk vatandaşlığı kaybettirilenler
+Bakanlar Kurulu kararıyla, Vatandaşlık Kanunu 34 üncü madde uyarınca Türk
+vatandaşlığını kaybedenler Bakanlık kararıyla, millî güvenlik bakımından engel
+teşkil edecek bir halinin bulunmaması ve Türkiye'de üç yıl ikamet etmek
+şartıyla Türk vatandaşlığını yeniden kazanabilirler.
+
+== VATANDAŞLIĞIN KAYBI
+
+Türk vatandaşlığı, yetkili makam kararı veya seçme hakkının kullanılması ile
+kaybedilir.
+
+=== YETKİLİ MAKAM KARARI
+
+Yetkili makam kararı ile Türk vatandaşlığının kaybı, çıkma veya kaybettirme ya
+da vatandaşlığa alınmanın iptali ile gerçekleşir.
+
+==== TÜRK VATANDAŞLIĞINDAN ÇIKMA
+
+Türk vatandaşlığından çıkmak için izin isteyen kişilere aşağıdaki şartları
+taşımaları halinde Bakanlıkça çıkma izni veya çıkma belgesi verilebilir.
+
+.. Ergin ve ayırt etme gücüne sahip olmak.
+.. Yabancı bir devlet vatandaşlığını kazanmış olmak veya kazanacağına ilişkin
+inandırıcı belirtiler bulunmak.
+.. Herhangi bir suç veya askerlik hizmeti nedeniyle aranan kişilerden olmamak.
+.. Hakkında herhangi bir mali ve cezai tahdit bulunmamak.
+
+Yabancı bir devlet vatandaşlığını kazanmak üzere Türk vatandaşlığından çıkmak
+için izin isteyenlerden talepleri uygun görülenlere Bakanlıkça, Türk
+vatandaşlığından çıkma izin belgesi; verilen izin sonucunda veya önceden
+yabancı bir devlet vatandaşlığını kazandığını belgeleyenlere ise Türk
+vatandaşlığından çıkma belgesi verilir.
+
+Çıkma izin belgesi, karar tarihinden itibaren iki yıl geçerlidir. İzin
+belgesini alanlar bu süre içerisinde yurt içinde ikamet edilen yer valiliğine,
+yurt dışında ise dış temsilciliklere yabancı devlet vatandaşlığını
+kazandıklarına dair bilgi ve belgeleri vermek zorundadır. Süresi içinde yabancı
+devlet vatandaşlığının kazanılamaması durumunda çıkma izin belgesi geçersiz
+hale gelir.
+
+Çıkma belgesinin ilgiliye imza karşılığı teslimi ile Türk vatandaşlığı
+kaybedilir. Türk vatandaşlığını kaybeden kişilerin nüfus aile kütüklerindeki
+kayıtları kapatılır ve kayıp tarihinden itibaren yabancı muamelesine tabi
+tutulurlar.
+
+Eşlerden birinin çıkma izni almak suretiyle Türk vatandaşlığını kaybetmesi
+diğer eşin vatandaşlığına tesir etmez. Türk vatandaşlığını kaybeden ana ya da
+babanın talebinin bulunması ve diğer eşin de muvafakat etmesi halinde çocukları
+da kendileri ile birlikte Türk vatandaşlığını kaybederler. Muvafakat
+verilmemesi halinde hakim kararına göre işlem yapılır. Çıkma izni almak
+suretiyle Türk vatandaşlığını birlikte kaybeden ana ve babanın çocukları da
+Türk vatandaşlığını kaybeder.
