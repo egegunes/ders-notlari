@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İçindekiler
+:toc-title: İÇİNDEKİLER
 
 == YABANCILAR HUKUKUNA HAKİM OLAN İLKELER
 
@@ -30,7 +30,9 @@ milletlerarası hukuka uygun olarak kanunla sınırlanabilir._" demektedir.
 Sözleşme_ ile yapılmıştır. Buna göre vatansız, "_herhangi bir devlet tarafından
 kendi hukukuna göre vatandaş kabul edilmeyen kişidir._"
 
-== MÜLTECİ
+== ULUSLARARASI KORUMA STATÜSÜ
+
+=== MÜLTECİ
 
 [caption=""]
 .Mültecilerin Hukuki Statüsüne Dair Sözleşme
@@ -71,7 +73,7 @@ kimlik belgesi *üç yıl* süreyle verilir ve hukuki anlamda ikamet izni yerine
 geçer. Ayrıca mülteciler düzenlenen _uluslararası seyahat belgesi_ ile seyahat
 edebilirler.
 
-== ŞARTLI MÜLTECİ
+=== ŞARTLI MÜLTECİ
 
 [caption=""]
 .6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
@@ -103,7 +105,7 @@ kişilerin yurtdışına çıkışı için _yabancılara mahsus pasaport_ düzen
 Şartlı mültecilere, mültecilerden farklı olarak, Türkiye'de belirli bir şehirde
 yaşama ve bildirimde bulunma zorunluluğu yüklenebilir.
 
-== İKİNCİL KORUMA STATÜSÜ
+=== İKİNCİL KORUMA STATÜSÜ
 
 [caption=""]
 .6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
@@ -125,7 +127,7 @@ ya da vatansız kişiye, statü belirleme işlemleri sonrasında ikincil koruma
 statüsü verilir.
 ====
 
-== GEÇİCİ KORUMA STATÜSÜ
+=== GEÇİCİ KORUMA STATÜSÜ
 
 [caption=""]
 .6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
@@ -262,7 +264,7 @@ kapsamı dışında tutulması gerektiğinin sonradan anlaşılması halinde ge�
 koruma, Genel Müdürlük veya valilikler tarafından iptal edilir.
 ====
 
-== İDARİ GÖZETİM
+=== İDARİ GÖZETİM
 
 Kişiler uluslararası koruma statüsüne başvurmalarına veya bu statüye
 alınmalarına rağmen idare, idari gözetim altına alarak kişinin hürriyet hakkını
@@ -557,3 +559,448 @@ Bakanlık ve Dışişleri Bakanlığınca birlikte belirlenen belge tanzim edili
 yabancılar, ikamet izninden muafiyet sağlayan durumları sona erdikten sonra da
 Türkiye’de kalmaya devam edeceklerse, en geç on gün içinde ikamet izni almak
 üzere valiliklere başvurmakla yükümlüdür.
+
+=== İKAMET İZNİ TÜRLERİ
+
+==== KISA DÖNEM İKAMET İZNİ
+
+Aşağıda belirtilen yabancılara kısa dönem ikamet izni verilebilir:
+
+.. Bilimsel araştırma amacıyla gelecekler
+.. Türkiye’de taşınmaz malı bulunanlar
+.. Ticari bağlantı veya iş kuracaklar
+.. Hizmet içi eğitim programlarına katılacaklar
+.. Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalar ya da öğrenci değişim
+programları çerçevesinde eğitim veya benzeri amaçlarla gelecekler
+.. Turizm amaçlı kalacaklar
+.. Kamu sağlığına tehdit olarak nitelendirilen hastalıklardan birini taşımamak
+kaydıyla tedavi görecekler
+.. Adli veya idari makamların talep veya kararına bağlı olarak Türkiye’de
+kalması gerekenler
+.. Aile ikamet izninden kısa dönem ikamet iznine geçenler
+.. Türkçe öğrenme kurslarına katılacaklar
+.. Kamu kurumları aracılığıyla Türkiye’de eğitim, araştırma, staj ve kurslara
+katılacaklar
+.. Türkiye’de yükseköğrenimini tamamlayanlardan mezuniyet tarihinden itibaren
+altı ay içinde müracaat edenler
+
+Kısa dönem ikamet izni, her defasında en fazla birer yıllık sürelerle verilir.
+
+(j) bendi kapsamında verilen ikamet izinleri en fazla iki defa verilebilir.
+
+(l) bendi kapsamında verilen ikamet izinleri, bir defaya mahsus olmak üzere en
+fazla bir yıl süreli verilebilir.
+
+==== AİLE İKAMET İZNİ
+
+Türk vatandaşlarının, 5901 sayılı Kanunun 28 inci maddesi kapsamında olanların
+veya ikamet izinlerinden birine sahip olan yabancılar ile mültecilerin ve
+ikincil koruma statüsü sahiplerinin;
+
+.. Yabancı eşine,
+.. Kendisinin veya eşinin ergin olmayan yabancı çocuğuna,
+.. Kendisinin veya eşinin bağımlı yabancı çocuğuna,
+
+her defasında iki yılı aşmayacak şekilde aile ikamet izni verilebilir. Ancak,
+aile ikamet izninin süresi hiçbir şekilde destekleyicinin ikamet izni süresini
+aşamaz.
+
+Vatandaşı olduğu ülkenin hukukuna göre birden fazla eş ile evlilik hâlinde,
+eşlerden yalnızca birine aile ikamet izni verilir. Ancak, diğer eşlerinden olan
+çocuklara da aile ikamet izni verilebilir.
+
+Çocukların aile ikamet izninde, Türkiye dışında varsa ortak velayeti bulunan
+anne veya babanın muvafakati aranır.
+
+Aile ikamet izinleri, on sekiz yaşına kadar, öğrenci ikamet izni almadan ilk ve
+ortaöğretim kurumlarında eğitim hakkı sağlar.
+
+En az üç yıl aile ikamet izniyle Türkiye’de kalmış olanlardan on sekiz yaşını
+tamamlayanlar, talep etmeleri hâlinde bu izinlerini kısa dönem ikamet iznine
+dönüştürebilir.
+
+Boşanma hâlinde, Türk vatandaşıyla evli yabancıya, en az üç yıl aile ikamet
+izniyle kalmış olmak kaydıyla kısa dönem ikamet izni verilebilir.  Ancak
+yabancı eşin, aile içi şiddet gerekçesiyle mağdur olduğu ilgili mahkeme
+kararıyla sabit ise, üç yıllık süre şartı aranmaz.
+
+Destekleyicinin ölümü hâlinde, bu kişiye bağlı aile ikamet izniyle kalanlara,
+süre şartı aranmadan kısa dönem ikamet izni verilebilir.
+
+Aile ikamet izni taleplerinde, destekleyicide aşağıdaki şartlar aranır:
+
+.. Toplam geliri asgari ücretten az olmamak üzere, ailedeki fert başına asgari
+ücretin üçte birinden az olmayan aylık geliri bulunmak
+.. Ailenin nüfusuna göre, genel sağlık ve güvenlik standartlarına uygun barınma
+şartlarına sahip olmak ve tüm aile fertlerini kapsayan sağlık sigortası
+yaptırmış olmak
+.. Başvuru tarihi itibarıyla, beş yıl içinde aile düzenine karşı suçlardan
+herhangi birinden hüküm giymemiş olduğunu adli sicil kaydıyla belgelemek
+.. Türkiye’de en az bir yıldır ikamet izniyle kalıyor olmak
+.. Adres kayıt sisteminde kaydı bulunmak
+
+Bilimsel araştırma amaçlı ikamet izni ya da çalışma izni bulunanlar, 5901
+sayılı Kanunun 28 inci maddesi kapsamında olanlar veya Türk vatandaşlarıyla
+evli olan yabancılar hakkında, (d) bendi uygulanmaz.
+
+Türkiye’de, destekleyicinin yanında kalmak üzere aile ikamet izni talebinde
+bulunacak yabancılarda aşağıdaki şartlar aranır:
+
+.. Yabancılar Kanunu 34 üncü maddenin birinci fıkrası kapsamında olduğunu
+gösteren bilgi ve belgeleri ibraz etmek
+.. Yabancılar Kanunu 34 üncü maddenin birinci fıkrasında belirtilen kişilerle
+birlikte yaşadığını veya yaşama niyeti taşıdığını ortaya koymak
+.. Evliliği aile ikamet izni alabilmek amacıyla yapmamış olmak
+.. Eşlerden her biri için on sekiz yaşını doldurmuş olmak
+.. Yabancılar Kanunu 7 nci madde kapsamına girmemek
+
+Aşağıdaki hâllerde aile ikamet izni verilmez, verilmişse iptal edilir, süresi
+bitenler uzatılmaz:
+
+.. Yabancılar Kanunu 35 inci maddenin birinci ve üçüncü fıkralarında aranan
+şartların karşılanmaması veya ortadan kalkması
+.. Aile ikamet izni alma şartları ortadan kalktıktan sonra kısa dönem ikamet
+izni verilmemesi
+.. Hakkında geçerli sınır dışı etme veya Türkiye’ye giriş yasağı kararı
+bulunması
+.. Aile ikamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
+.. Son bir yıl içinde toplamda yüz seksen günden fazla süreyle yurt dışında
+kalınması
+
+Aile ikamet izni verilmeden veya uzatılmadan önce makul şüphe varsa, evliliğin
+sırf ikamet izni alabilme amacıyla yapılıp yapılmadığı valiliklerce
+araştırılır. Araştırma sonucunda, evliliğin bu amaçla yapıldığı tespit edilirse
+aile ikamet izni verilmez, verilmişse iptal edilir.
+
+Aile ikamet izni verildikten sonra da evliliğin anlaşmalı olup olmadığı
+konusunda valiliklerce denetim yapılabilir.
+
+Anlaşmalı evlilik yoluyla alınan ve sonradan iptal edilen ikamet izinleri, bu
+Kanunda öngörülen ikamet izin sürelerinin toplanmasında hesaba katılmaz.
+
+==== ÖĞRENCİ İKAMET İZNİ
+
+Türkiye’de bir yükseköğretim kurumunda ön lisans, lisans, yüksek lisans ya da
+doktora öğrenimi görecek yabancılara öğrenci ikamet izni verilir.
+
+Bakımı ve masrafları gerçek veya tüzel kişi tarafından üstlenilen ilk ve orta
+derecede öğrenim görecek yabancılara, velilerinin veya yasal temsilcilerinin
+muvafakatiyle öğrenimleri süresince birer yıllık sürelerle öğrenci ikamet izni
+verilebilir ve uzatılabilir.
+
+Öğrenci ikamet izni, öğrencinin anne ve babası ile diğer yakınlarına, ikamet
+izni alma konusunda hiçbir hak sağlamaz.
+
+Öğrenim süresi bir yıldan kısa ise öğrenci ikamet izni süresi öğrenim süresini
+aşamaz.
+
+Aşağıdaki hâllerde öğrenci ikamet izni verilmez, verilmişse iptal edilir,
+süresi uzatılmaz:
+
+.. Yabancılar Kanunu 39 uncu maddede aranan şartların karşılanmaması veya
+ortadan kalkması
+.. Öğrenimin sürdürülemeyeceği konusunda kanıtların ortaya çıkması
+.. Öğrenci ikamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
+.. Hakkında geçerli sınır dışı etme kararı veya Türkiye’ye giriş yasağı
+bulunması
+
+Türkiye’de öğrenim gören ön lisans, lisans, yüksek lisans ve doktora
+öğrencileri, çalışma izni almak kaydıyla çalışabilirler. Ancak, ön lisans ve
+lisans öğrencileri için çalışma hakkı, ilk yıldan sonra başlar ve haftada yirmi
+dört saatten fazla olamaz.
+
+==== UZUN DÖNEM İKAMET İZNİ
+
+Uzun dönem ikamet iznine geçişte aşağıdaki şartlar aranır:
+
+.. Kesintisiz en az sekiz yıl ikamet izniyle Türkiye’de kalmış olmak
+.. Son üç yıl içinde sosyal yardım almamış olmak
+.. Kendisi veya varsa ailesinin geçimini sağlayacak yeterli ve düzenli gelir
+kaynağına sahip olmak
+.. Geçerli sağlık sigortasına sahip olmak
+.. Kamu düzeni veya kamu güvenliği açısından tehdit oluşturmamak
+
+Göç Politikaları Kurulunun belirlediği şartlara sahip olması nedeniyle uzun
+dönem ikamet izni verilmesi uygun görülen yabancılar için (e) bendi dışındaki
+şartlar aranmaz.
+
+Uzun dönem ikamet izni bulunan yabancılar;
+
+.. Askerlik yapma yükümlülüğü,
+.. Seçme ve seçilme,
+.. Kamu görevlerine girme,
+.. Muaf olarak araç ithal etme,
+
+ve özel kanunlardaki düzenlemeler hariç, sosyal güvenliğe ilişkin kazanılmış
+hakları saklı kalmak ve bu hakların kullanımında ilgili mevzuat hükümlerine
+tabi olmak şartıyla, Türk vatandaşlarına tanınan haklardan yararlanırlar.
+
+Uzun dönem ikamet izinleri;
+
+.. Yabancının, kamu düzeni veya kamu güvenliği açısından ciddi tehdit
+oluşturması,
+.. Sağlık, eğitim ve ülkesindeki zorunlu kamu hizmeti dışında bir nedenle
+kesintisiz bir yıldan fazla süreyle Türkiye dışında bulunması,
+
+hâllerinde iptal edilir.
+
+==== İNSANİ İKAMET İZNİ
+
+Aşağıda belirtilen hâllerde, diğer ikamet izinlerinin verilmesindeki şartlar
+aranmadan, Bakanlığın onayı alınmak ve en fazla birer yıllık sürelerle olmak
+kaydıyla, valiliklerce insani ikamet izni verilebilir ve bu izinler
+uzatılabilir:
+
+.. Çocuğun yüksek yararı söz konusu olduğunda
+.. Haklarında sınır dışı etme veya Türkiye’ye giriş yasağı kararı alındığı
+hâlde, yabancıların Türkiye’den çıkışları yaptırılamadığında ya da Türkiye’den
+ayrılmaları makul veya mümkün görülmediğinde
+.. Yabancılar Kanunu 55 inci madde uyarınca yabancı hakkında sınır dışı etme
+kararı alınmadığında
+.. Yabancılar Kanunu 53 üncü, 72 nci ve 77 nci maddelere göre yapılan işlemlere
+karşı yargı yoluna başvurulduğunda
+.. Başvuru sahibinin ilk iltica ülkesi veya güvenli üçüncü ülkeye geri
+gönderilmesi işlemlerinin devamı süresince
+.. Acil nedenlerden dolayı veya ülke menfaatlerinin korunması ile kamu düzeni
+ve kamu güvenliği açısından Türkiye’ye girişine ve Türkiye’de kalmasına izin
+verilmesi gereken yabancıların, ikamet izni verilmesine engel teşkil eden
+durumları sebebiyle diğer ikamet izinlerinden birini alma imkânı bulunmadığında
+.. Olağanüstü durumlarda
+
+İnsani ikamet izni alan yabancılar, iznin veriliş tarihinden itibaren en geç
+yirmi iş günü içinde adres kayıt sistemine kayıt yaptırmak zorundadır.
+
+İnsani ikamet izni Bakanlığın onayı alınmak kaydıyla, iznin verilmesini zorunlu
+kılan şartlar ortadan kalktığında valiliklerce iptal edilir ve uzatılmaz.
+
+==== İNSAN TİCARETİ MAĞDURU İKAMET İZNİ
+
+İnsan ticareti mağduru olduğu veya olabileceği yönünde kuvvetli şüphe duyulan
+yabancılara, yaşadıklarının etkisinden kurtulabilmeleri ve yetkililerle iş
+birliği yapıp yapmayacaklarına karar verebilmeleri amacıyla valiliklerce otuz
+gün süreli ikamet izni verilir.
+
+Bu ikamet izinlerinde, diğer ikamet izinlerinin verilmesindeki şartlar aranmaz.
+
+İyileşme ve düşünme süresi tanımak amacıyla verilen ikamet izni, mağdurun
+güvenliği, sağlığı veya özel durumu nedeniyle en fazla altışar aylık sürelerle
+uzatılabilir. Ancak, bu süreler hiçbir şekilde toplam üç yılı geçemez
+
+İnsan ticareti mağduru olduğu veya olabileceği yönünde kuvvetli şüphe bulunan
+yabancıların, kendi girişimleriyle suçun failleriyle yeniden bağ kurduklarının
+belirlendiği durumlarda ikamet izinleri iptal edilir.
+
+=== İKAMETTE KESİNTİ
+
+Zorunlu kamu hizmeti, eğitim ve sağlık nedenleri hariç, bir yılda toplam altı
+ayı geçen veya son beş yıl içinde toplam bir yılı aşan Türkiye dışında kalışlar
+ikamette kesinti sayılır. İkamet süresinde kesintisi olanların ikamet izni
+başvurularında veya başka bir ikamet iznine geçişlerinde, önceki izin süreleri
+hesaba katılmaz.
+
+Kesintisiz ikamet izin sürelerinin hesaplanmasında, öğrenci ikamet izinlerinin
+yarısı, diğer ikamet izinlerinin ise tamamı sayılır.
+
+== SINIR DIŞI ETME
+
+Yabancılar, sınır dışı etme kararıyla, menşe ülkesine veya transit gideceği
+ülkeye ya da üçüncü bir ülkeye sınır dışı edilebilir.
+
+Sınır dışı etme kararı, Genel Müdürlüğün talimatı üzerine veya resen
+valiliklerce alınır.
+
+Karar, gerekçeleriyle birlikte hakkında sınır dışı etme kararı alınan yabancıya
+veya yasal temsilcisine ya da avukatına tebliğ edilir. Hakkında sınır dışı etme
+kararı alınan yabancı, bir avukat tarafından temsil edilmiyorsa kendisi veya
+yasal temsilcisi, kararın sonucu, itiraz usulleri ve süreleri hakkında
+bilgilendirilir.
+
+Yabancı veya yasal temsilcisi ya da avukatı, sınır dışı etme kararına karşı,
+kararın tebliğinden itibaren on beş gün içinde idare mahkemesine başvurabilir.
+Mahkemeye başvuran kişi, sınır dışı etme kararını veren makama da başvurusunu
+bildirir.
+
+Mahkemeye yapılan başvurular on beş gün içinde sonuçlandırılır. Mahkemenin bu
+konuda vermiş olduğu karar kesindir.
+
+Yabancının rızası saklı kalmak kaydıyla, dava açma süresi içinde veya yargı
+yoluna başvurulması hâlinde yargılama sonuçlanıncaya kadar yabancı sınır dışı
+edilmez.
+
+Sınır dışı etme kararı alınanlara, sınır dışı etme kararında belirtilmek
+kaydıyla, Türkiye’yi terk edebilmeleri için on beş günden az olmamak üzere otuz
+güne kadar süre tanınır. Ancak, kaçma ve kaybolma riski bulunanlara, yasal
+giriş veya yasal çıkış kurallarını ihlal edenlere, sahte belge kullananlara,
+asılsız belgelerle ikamet izni almaya çalışanlara veya aldığı tespit
+edilenlere, kamu düzeni, kamu güvenliği veya kamu sağlığı açısından tehdit
+oluşturanlara bu süre tanınmaz.
+
+=== SINIR DIŞI ETME KARARI ALINACAKLAR
+
+Aşağıda sayılan yabancılar hakkında sınır dışı etme kararı alınır:
+
+.. 5237 sayılı Kanunun 59 uncu maddesi kapsamında sınır dışı edilmesi gerektiği
+değerlendirilenler
+.. Terör örgütü yöneticisi, üyesi, destekleyicisi veya çıkar amaçlı suç örgütü
+yöneticisi, üyesi veya destekleyicisi olanlar
+.. Türkiye’ye giriş, vize ve ikamet izinleri için yapılan işlemlerde gerçek
+dışı bilgi ve sahte belge kullananlar
+.. Türkiye’de bulunduğu süre zarfında geçimini meşru olmayan yollardan
+sağlayanlar
+.. Kamu düzeni veya kamu güvenliği ya da kamu sağlığı açısından tehdit
+oluşturanlar
+.. Vize veya vize muafiyeti süresini on günden fazla aşanlar veya vizesi iptal
+edilenler
+.. İkamet izinleri iptal edilenler
+.. İkamet izni bulunup da süresinin sona ermesinden itibaren kabul edilebilir
+gerekçesi olmadan ikamet izni süresini on günden fazla ihlal edenler
+.. Çalışma izni olmadan çalıştığı tespit edilenler
+.. Türkiye’ye yasal giriş veya Türkiye’den yasal çıkış hükümlerini ihlal
+edenler
+.. Hakkında Türkiye’ye giriş yasağı bulunmasına rağmen Türkiye’ye geldiği
+tespit edilenler
+.. Uluslararası koruma başvurusu reddedilen, uluslararası korumadan hariçte
+tutulan, başvurusu kabul edilemez olarak değerlendirilen, başvurusunu geri
+çeken, başvurusu geri çekilmiş sayılan, uluslararası koruma statüleri sona eren
+veya iptal edilenlerden haklarında verilen son karardan sonra bu Kanunun diğer
+hükümlerine göre Türkiye’de kalma hakkı bulunmayanlar
+.. İkamet izni uzatma başvuruları reddedilenlerden, on gün içinde Türkiye’den
+çıkış yapmayanlar
+
+Başvuru sahibi veya uluslararası koruma statüsü sahibi kişiler hakkında, sadece
+ülke güvenliği için tehlike oluşturduklarına dair ciddi emareler bulunduğunda
+veya kamu düzeni açısından tehlike oluşturan bir suçtan kesin hüküm giymeleri
+durumunda sınır dışı etme kararı alınabilir.
+
+=== SINIR DIŞI ETME KARARI ALINMAYACAKLAR
+
+Hiç kimse, işkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye tabi
+tutulacağı veya ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti
+veya siyasi fikirleri dolayısıyla hayatının veya hürriyetinin tehdit altında
+bulunacağı bir yere gönderilemez.
+
+Yabancılar Kanunu 54 üncü madde kapsamında olsalar dahi, aşağıdaki yabancılar
+hakkında sınır dışı etme kararı alınmaz:
+
+.. Sınır dışı edileceği ülkede ölüm cezasına, işkenceye, insanlık dışı ya da
+onur kırıcı ceza veya muameleye maruz kalacağı konusunda ciddi emare bulunanlar
+.. Ciddi sağlık sorunları, yaş ve hamilelik durumu nedeniyle seyahat etmesi
+riskli görülenler
+.. Hayati tehlike arz eden hastalıkları için tedavisi devam etmekte iken sınır
+dışı edileceği ülkede tedavi imkânı bulunmayanlar
+.. Mağdur destek sürecinden yararlanmakta olan insan ticareti mağdurları
+.. Tedavileri tamamlanıncaya kadar, psikolojik, fiziksel veya cinsel şiddet
+mağdurları
+
+Ülkeye giriş veya ülkede ikameti ihlal etmiş olmasına rağmen ülkeyi terk etmek
+için sınır kapılarına gelmiş kişi hakkında sınır dışı etme kararı
+alınamayacaktır.
+
+Uluslararası korumaya başvurmuş ve başvurusu reddedilmiş kişi dava hakkından
+feragat ederek ülkeden çıkmak istiyorsa sınır dışı etme kararı
+verilemeyecektir.
+
+Uluslararası korumaya başvurmuş ve başvurunun reddi üzerine kanun yoluna
+başvurmuş kişi hakkında sınır dışı etme kararı verilemeyecektir.
+
+=== ULUSLARARASI SÖZLEŞMELERDEKİ SINIRLAMALAR
+
+__Avrupa İkamet Sözleşmesi__nde taraf devlet vatandaşlarının sadece milli
+güvenliği tehdit etme, kamu düzenini veya genel ahlakı bozma sebepleri ile
+sınır dışı edilebileceği düzenlenmiştir.
+
+_Göçmen Kişilerin Ailelerinin Korunmasına İlişkin Sözleşme_ ile göçmen veya
+işçi ailelerinin topluca sınır dışı edilemeyeceği düzenlenmiştir.
+
+=== SINIR DIŞI ETMEK ÜZERE İDARİ GÖZETİM VE SÜRESİ
+
+Yabancılar Kanunu 54 üncü madde kapsamındaki yabancılar, kolluk tarafından
+yakalanmaları hâlinde, haklarında karar verilmek üzere derhâl valiliğe
+bildirilir. Bu kişilerden, sınır dışı etme kararı alınması gerektiği
+değerlendirilenler hakkında, sınır dışı etme kararı valilik tarafından alınır.
+Değerlendirme ve karar süresi kırk sekiz saati geçemez.
+
+Hakkında sınır dışı etme kararı alınanlardan; kaçma ve kaybolma riski bulunan,
+Türkiye’ye giriş veya çıkış kurallarını ihlal eden, sahte ya da asılsız belge
+kullanan, kabul edilebilir bir mazereti olmaksızın Türkiye’den çıkmaları için
+tanınan sürede çıkmayan, kamu düzeni, kamu güvenliği veya kamu sağlığı
+açısından tehdit oluşturanlar hakkında valilik tarafından idari gözetim kararı
+alınır. Hakkında idari gözetim kararı alınan yabancılar, yakalamayı yapan
+kolluk birimince geri gönderme merkezlerine kırk sekiz saat içinde götürülür.
+
+Geri gönderme merkezlerindeki idari gözetim süresi altı ayı geçemez. Ancak bu
+süre, sınır dışı etme işlemlerinin yabancının iş birliği yapmaması veya
+ülkesiyle ilgili doğru bilgi ya da belgeleri vermemesi nedeniyle
+tamamlanamaması hâlinde, en fazla altı ay daha uzatılabilir.
+
+İdari gözetimin devamında zaruret olup olmadığı, valilik tarafından her ay
+düzenli olarak değerlendirilir. Gerek görüldüğünde, otuz günlük süre
+beklenilmez. İdari gözetimin devamında zaruret görülmeyen yabancılar için idari
+gözetim derhâl sonlandırılır. Bu yabancılara, belli bir adreste ikamet etme,
+belirlenecek şekil ve sürelerde bildirimde bulunma gibi idari yükümlülükler
+getirilebilir.
+
+İdari gözetim kararı, idari gözetim süresinin uzatılması ve her ay düzenli
+olarak yapılan değerlendirmelerin sonuçları, gerekçesiyle birlikte yabancıya
+veya yasal temsilcisine ya da avukatına tebliğ edilir. Aynı zamanda, idari
+gözetim altına alınan kişi bir avukat tarafından temsil edilmiyorsa, kendisi
+veya yasal temsilcisi kararın sonucu, itiraz usulleri ve süreleri hakkında
+bilgilendirilir.
+
+İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari
+gözetim kararına karşı sulh ceza hâkimine başvurabilir. Başvuru idari gözetimi
+durdurmaz. Dilekçenin idareye verilmesi hâlinde, dilekçe yetkili sulh ceza
+hâkimine derhâl ulaştırılır. Sulh ceza hâkimi incelemeyi beş gün içinde
+sonuçlandırır. Sulh ceza hâkiminin kararı kesindir. İdari gözetim altına alınan
+kişi veya yasal temsilcisi ya da avukatı, idari gözetim şartlarının ortadan
+kalktığı veya değiştiği iddiasıyla yeniden sulh ceza hâkimine başvurabilir.
+
+İdari gözetim işlemine karşı yargı yoluna başvuranlardan, avukatlık ücretlerini
+karşılama imkânı bulunmayanlara, talepleri hâlinde 19/3/1969 tarihli ve 1136
+sayılı Avukatlık Kanunu hükümlerine göre avukatlık hizmeti sağlanır.
+
+== SUÇLULARIN İADESİ
+
+*Suçlunun iadesi*, işlediği suç belirli bir devletin yargı yetkisinde olan
+kişinin o yargı yetkisine sahip ülkeye gönderilmesidir. Kişinin ya hakkındaki
+cezai soruşturmanın yapılabilmesi ya da hakkında verilmiş hükmün infazı
+amacıyla yargı yetkisine sahip ülkeye gönderilmesidir.
+
+IMPORTANT: Kişinin iadesi hangi fiilden dolayı isteniyorsa iade edildikten
+sonraki yargılama ya da infaz da ancak o fiilden dolayı olabilir.
+
+İade talebinin yapılacağı makam Adalet Bakanlığıdır. Kişinin iadesine karar
+verecek olan makam ise kişinin bulunduğu yer Ağır Ceza Mahkemesidir. Kişinin
+nerede bulunduğu belirsiz ise Ankara Ağır Ceza Mahkemelerinin yetkili olduğu
+kabul edilmiştir.
+
+Ağır Ceza Mahkemesi iadeye karar verirse iadenin uygulanabilmesi için
+Başbakan'ın onayı gerekir. İçişleri Bakanlığının da görüşü alınacaktır.
+
+=== İADE KARARININ ALINAMAYACAĞI HALLER
+
+* Fiil, Türk kanunlarına göre suç teşkil etmiyorsa iadeye tabi değildir.
+* Düşünce suçu, siyasi suçlar ve sadece askeri anlamda gerçekleşebilecek suçlar
+iadeye tabi değildir.
++
+TIP: Bir kimse bir devletin Başbakanı, Bakanları veya Cumhurbaşkanı'na yönelik
+öldürme kastıyla bir fiil gerçekleştirmiş ise bu siyasi suç kabul edilmeyecek
+ve iadeye tabi olacaktır.
+* Suç Türkiye Cumhuriyeti'nin güvenliğine karşı işlenmiş ya da devleti veya bir
+Türk vatandaşını zarara uğratacak bir fiil ise iadeye tabi değildir.
+* Fiil, Türkiye'nin yargı yetkisine giren bir suç teşkil etmekte ise iadeye
+tabi olmayacaktır.
+* Suç zamanaşımına ya da affa uğramış ise iadeye tabi değildir.
+* Suç, daha önce Türkiye'de yargılanmış ve beraat ya da mahkumiyet kararı ile
+sonuçlanmışsa kişinin iadesi söz konusu olmaz.
+* Kişinin gönderileceği ülkede, ölüm cezası veya insanlık onuru ile bağdaşmayan
+bir ceza ile cezalandırılacağı anlaşılmaktaysa kural olarak iade edilmez. Ancak
+böyle bir cezanın infaz edilmeyeceğine dair bir teminat verilirse iade
+yapılabilir.
+* İadesi talep edilen kimse 18 yaşını doldurmamış ise veya uzun zamanıdr
+Türkiye'de ve ailevi durumu incelendiğinde bu kişinin iadesi çok ciddi bir
+mağduriyet yaratacaksa diğer şartların varlığına rağmen iade yapılmayabilir.
+* Yargılama yapılmakta olan bir kimse söz konusuyken yargılandığı suçun
+cezasının üst sınırı 1 yıldan az ise iade yapılmaz.
+* Hakkında kesinleşmiş bir mahkumiyet kararı olan kişinin iadesi isteniyorsa
+aldığı cezanın en az 4 ay olması gerekir.
