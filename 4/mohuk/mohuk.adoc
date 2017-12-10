@@ -1,6 +1,6 @@
-:toc:
-:toc-title: İçindekiler
 :icons: font
+:toc:
+:toc-title: İÇİNDEKİLER
 
 == LEX FORI VE LEX CAUSA
 
@@ -113,7 +113,9 @@ Yerleşim yeri, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hüküm
 göre belirlenir.
 ====
 
-==== GERÇEK KİŞİLER BAKIMINDAN
+==== YERLEŞİM YERİNİN TESPİTİ
+
+===== GERÇEK KİŞİLER BAKIMINDAN
 
 [caption=""]
 .TMK 19 - Tanım
@@ -151,7 +153,7 @@ yeri yoksa* HMK 9 uyarınca mutad mesken mahkemesi milletlerarası yetkili
 mahkeme olacaktır. Eğer *yabancı ülkede yerleşim yeri yoksa veya belli değilse*
 bu kişi bakımından Türkiye'de halen oturduğu yer mahkemesi yetki kazanacaktır.
 
-==== TÜZEL KİŞİLER BAKIMINDAN
+===== TÜZEL KİŞİLER BAKIMINDAN
 
 Tüzel kişinin yerleşim yeri, kuruluş belgesinde başka bir hüküm bulunmadıkça
 işlerinin yönetildiği yerdir.
@@ -164,14 +166,81 @@ Tüzel kişinin Türkiye'de ne yerleşim yeri ne de şubesi var ancak sözleşme
 acente aracılığıyla akdedilmiş ise acentenin bulunduğu yer mahkemesi uyuşmazlık
 bakımından milletlerarası yetkili mahkemedir.
 
+==== KARŞI DAVADA YETKİ
+
+[caption=""]
+.HMK 13 - Karşı davada yetki
+====
+Kesin yetkinin söz konusu olmadığı hâllerde, asıl davaya bakan mahkeme, karşı
+davaya bakmaya da yetkilidir.
+====
+
+==== HAKSIZ FİİLLERDE YETKİ
+
+[caption=""]
+.HMK 16 - Haksız fiilden doğan davalarda yetki
+====
+Haksız fiilden doğan davalarda, haksız fiilin işlendiği veya zararın meydana
+geldiği yahut gelme ihtimalinin bulunduğu yer ya da zarar görenin yerleşim yeri
+mahkemesi de yetkilidir.
+====
+
+==== İHTİYATİ HACİZ VE İHTİYATİ TEDBİR
+
+İhtiyati haciz ve ihtiyati tedbir kararları kesin hüküm niteliği taşımayan
+kararlardır. Bunlar bir uyuşmazlığı mutlak olarak hem şekli anlamda hem de
+maddi anlamda sona erdirmediği için yabancı mahkemelerce verilen ihtiyati haciz
+veya ihtiyati tedbir kararları Türk mahkemelerince tanınmayacaktır.
+
+İhtiyati tedbir sadece uyuşmazlık konusu şey üzerinde sağlanabilir.
+
+İhtiyati haciz kararı sadece para alacakları için getirilmiş bir koruma
+tedbiridir. İhtiyati haciz kararı ile birlikte borçlunun elindeki veya üçüncü
+şahısta bulunan borçluya ait taşınır ve taşınmaz mallar ile alacaklar ve diğer
+haklar haczedilebilir.
+
+[caption=""]
+.İİK 257 - İhtiyati haciz şartları
+====
+Rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı,
+borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve
+alacaklariyle diğer haklarını ihtiyaten haczettirebilir.
+
+Vadesi gelmemiş borçtan dolayı yalnız aşağıdaki hallerde ihtiyati haciz
+istenebilir:
+
+. Borçlunun muayyen yerleşim yeri yoksa;
+. Borçlu taahhütlerinden kurtulmak maksadiyle mallarını gizlemeğe, kaçırmağa
+veya kendisi kaçmağa hazırlanır yahut kaçar ya da bu maksatla alacaklının
+haklarını ihlâl eden hileli işlemlerde bulunursa;
+
+Bu suretle ihtiyati haciz konulursa borç yalnız borçlu hakkında muacceliyet kesbeder.
+====
+
+[NOTE]
+====
+Bir yabancı mahkeme kararı tanınıp tenfiz
+====
+
 === ÖZEL YETKİ KURALLARI
 
-IMPORTANT: MOHUK'taki genel yetki-özel yetki ilişkisi HMK'dan farklıdır. HMK'da
+WARNING: MOHUK'taki genel yetki-özel yetki ilişkisi HMK'dan farklıdır. HMK'da
 özel yetki genel yetkiye alternatif olurken MOHUK'ta özel yetki halleri Türkiye
 mahkemelerinin yetkili olup olmadığına *nihai* olarak karar vermektedir. Yani
 özel yetki kurallarının kapsamına giren bir hal söz konusu ancak yapılan
 değerlendirme sonucu Türkiye mahkemelerinin yetki olmadığı anlaşılmış ise genel
 yetki kuralı da uygulanamaz.
+
+NOTE: HMK'daki kesin yetki halleri milletlerarası usul hukuku bakımından Türk
+mahkemelerine münhasır yetki kazandırmaz. Türk mahkemelerinin münhasıran
+yetkili olması için o davanın yer itibariyle yetkili Türk mahkemesi dışında
+görülmesini engelleyecek güçlü bir menfaatin olması gerekir.
+
+IMPORTANT: Bir uyuşmazlık bakımından Türk mahkemeleri münhasıran yetkili ise
+taraflar yetki anlaşması ile başka yer mahkemelerini yetkili kılamazlar. Ayrıca
+söz konusu dava münhasıran yetkili olan Türk mahkemesi dışında yabancı bir
+mahkemede açılmış ise Türk mahkemelerinde söz konusu yabancı mahkeme kararı
+tanınmaz.
 
 [caption=""]
 .MOHUK 41 - Türklerin kişi hâllerine ilişkin davalar
