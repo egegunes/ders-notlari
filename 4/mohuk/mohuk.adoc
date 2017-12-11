@@ -219,7 +219,47 @@ Bu suretle ihtiyati haciz konulursa borç yalnız borçlu hakkında muacceliyet 
 
 [NOTE]
 ====
-Bir yabancı mahkeme kararı tanınıp tenfiz
+Bir yabancı mahkeme kararı tanınıp tenfiz edilmemiş ise bu yabancı mahkeme
+kararına konu olan alacak vadesi gelmiş bir alacak olarak nitelendirilebilir
+mi?
+
+Bazı görüşlere göre böyle bir alacak muaccel değildir, dolayısıyla İİK 257/1
+uyarınca ihtiyati haciz talep edilemez ancak İİK 257/2 uyarınca edilebilir.
+Diğer bir görüşe göre ise Türk hukukuna göre alacağın muaccel olduğu
+söylenebiliyorsa, tanınıp tenfiz edilmemiş de olsa İİK 257/1'e göre muaccel
+olmuş bir alacaktır ve ihtiyati haciz talep edilebilir.
+====
+
+[caption=""]
+.İİK 258 - İhtiyati haciz kararı
+====
+(1) İhtiyati hacze 50 nci maddeye göre yetkili mahkeme tarafından karar
+verilir. Alacaklı alacağı ve icabında haciz sebepleri hakkında mahkemeye
+kanaat getirecek deliller göstermeğe mecburdur.
+====
+
+[caption=""]
+.İİK 50 - Yetki ve itirazları
+====
+(1) Para veya teminat borcu için takip hususunda Hukuk Usulü Muhakemeleri
+Kanununun yetkiye dair hükümleri kıyas yolu ile tatbik olunur. Şu kadar ki,
+takibe esas olan akdin yapıldığı icra dairesi de takibe yetkilidir.
+====
+
+[NOTE]
+====
+İhtiyati haciz veya ihtiyati tedbir talebinin dayandığı uyuşmazlığa ilişkin
+olarak Türkiye'de davayı görmeye yer itibariyle yetkili bir mahkeme yok ise
+ihtiyati tedbir veya ihtiyati haciz kararı alınamayacak mıdır?
+
+Kürsü ve çoğunluk görüşüne göre yabancılık unsuru içeren bir ihtilafta alacaklı
+bu koruma tedbirlerinden mahrum bırakılmamalı ve Türk mahkemelerinin egemenlik
+yetkisi tanınmalıdır. Taraflar arasında bir yetki anlaşması olmasaydı söz
+konusu uyuşmazlık ile ilgili hangi yer mahkemesi yetkili olacak ise o
+mahkemeden ihtiyati tedbir ve ihtiyati haciz kararı alınabilmelidir.
+
+*Ancak Türkiye'de yer itibariyle yetkili bir mahkeme yoksa, ihtiyati haciz veya
+ihtiyati tebdir kararı alınamayacaktır.*
 ====
 
 === ÖZEL YETKİ KURALLARI
@@ -242,6 +282,8 @@ söz konusu dava münhasıran yetkili olan Türk mahkemesi dışında yabancı b
 mahkemede açılmış ise Türk mahkemelerinde söz konusu yabancı mahkeme kararı
 tanınmaz.
 
+==== VATANDAŞLARIN KİŞİ HÂLLERİNE İLİŞKİN DAVALAR
+
 [caption=""]
 .MOHUK 41 - Türklerin kişi hâllerine ilişkin davalar
 ====
@@ -251,6 +293,23 @@ yetkili mahkemede, bulunmaması hâlinde ilgilinin sâkin olduğu yer, Türkiye�
 sâkin değilse Türkiye’deki son yerleşim yeri mahkemesinde, o da bulunmadığı
 takdirde Ankara, İstanbul veya İzmir mahkemelerinden birinde görülür.
 ====
+
+Aşamalı olarak:
+
+. Türkiye'de yer itibariyle yetkili mahkeme
+. Yoksa, ilgilinin sakin olduğu yer mahkemesi
+. Türkiye'de sakin olduğu yer yoksa, Türkiye'deki son yerleşim yeri mahkemesi
+. Türkiye'de hiç yerleşim yeri yoksa, Ankara, İstanbul veya İzmir
+mahkemelerinden biri
+
+Bir davanın Türk vatandaşlarının kişi hallerine ilişkin sayılması için:
+
+. Taraflardan biri Türk vatandaşı olmalıdır.
+. Dava sonucunda verilen karar kişinin şahsi statüsünü değiştirecek olmalıdır.
+Örneğin ehliyetin kısıtlanması, gaiplik, boşanma, velayet.
+
+TIP: Yargıtay, yakın zamanlı bir kararında, çocuk mallarının korunmasına
+ilişkin davaların kişi hallerine ilişkin olduğuna içtihat etmiştir.
 
 [caption=""]
 .MOHUK 42 - Yabancıların kişi hâllerine ilişkin bazı davalar
@@ -320,3 +379,4 @@ görülür.
 44, 45 ve 46 ncı maddelerde belirlenen mahkemelerin yetkisi tarafların
 anlaşmasıyla bertaraf edilemez.
 ====
+
