@@ -77,43 +77,6 @@ meslekî eğitim ve avlu gibi diğer eklentiler ve araçlar da işyerinden sayı
 İşyeri, işyerine bağlı yerler, eklentiler ve araçlar ile oluşturulan iş
 organizasyonu kapsamında bir bütündür.
 
-== İŞYERİNİN DEVRİ
-
-İşyeri veya işyerinin bir bölümü hukukî bir işleme dayalı olarak başka birine
-devredildiğinde, devir tarihinde işyerinde veya bir bölümünde mevcut olan iş
-sözleşmeleri bütün hak ve borçları ile birlikte devralana geçer.
-
-Devralan işveren, işçinin hizmet süresinin esas alındığı haklarda, işçinin
-devreden işveren yanında işe başladığı tarihe göre işlem yapmakla yükümlüdür.
-
-Yukarıdaki hükümlere göre devir halinde, devirden önce doğmuş olan ve devir
-tarihinde ödenmesi gereken borçlardan devreden ve devralan işveren birlikte
-sorumludurlar. Ancak bu yükümlülüklerden devreden işverenin sorumluluğu devir
-tarihinden itibaren iki yıl ile sınırlıdır
-
-NOTE: Kıdem tazminatı alacağı devirden sonra doğan bir alacaktır ancak buna
-rağmen devreden bu alacaktan sorumludur ve burada bir süre sınırı yoktur. Zira
-1457 sayılı mülga İş Kanununun yürürlükte olan 14. maddesi özel bir
-düzenlemedir.
-
-Tüzel kişiliğin birleşme veya katılma ya da türünün değişmesiyle sona erme
-halinde birlikte sorumluluk hükümleri uygulanmaz.
-
-Devreden veya devralan işveren iş sözleşmesini sırf işyerinin veya işyerinin
-bir bölümünün devrinden dolayı feshedemez ve devir işçi yönünden fesih için
-haklı sebep oluşturm az. Devreden veya devralan işverenin ekonomik ve
-teknolojik sebeplerin yahut iş organizasyonu değişikliğinin gerekli kıldığı
-fesih hakları veya işçi ve işverenlerin haklı sebeplerden derhal fesih hakları
-saklıdır.
-
-Yukarıdaki hükümler, iflas dolayısıyla malvarlığının tasfiyesi sonucu işyerinin
-veya bir bölümünün başkasına devri halinde uygulanmaz.
-
-NOTE: Asıl işveren-alt işveren ilişkisi hukuka uygun şekilde kurulmuşsa alt
-işveren değişmesine rağmen alt işverenin işçileri çalışmalarına asıl işverenin
-işyerinde aynen devam ettiği durumlarda Yargıtay kıyas yoluyla işyerinin devri
-hükümlerinin uygulanmasını kabul ediyor.
-
 == İŞ SÖZLEŞMESİ
 
 İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmeyi, diğer tarafın
@@ -134,12 +97,18 @@ diğer türde oluşturulabilir.
 Süresi bir yıl ve daha fazla olan iş sözleşmelerinin yazılı şekilde yapılması
 zorunludur.
 
-=== SÖZLEŞME SERBESTİSİ
+Yasada öngörülen şekil kuralının ihlal edilmesi halinde uygulanacak sonuç
+doktrinde tartışmalıdır. Bir görüşe göre kanunda öngörülen şekil şartları ispat
+şartıdır. Diğer bir görüş ise bunların geçerlilik şartı olduğunu savunmaktadır.
+
+IMPORTANT: İş hukukunda geçersizlik ileriye etkili olarak sonuç doğurur.
+
+== SÖZLEŞME SERBESTİSİ
 
 Taraflar iş sözleşmesini, Kanun hükümleriyle getirilen sınırlamalar saklı
 kalmak koşuluyla, ihtiyaçlarına uygun türde düzenleyebilirler.
 
-==== SÖZLEŞME YAPILMASININ YASAK OLDUĞU HALLER
+=== SÖZLEŞME YAPILMASININ YASAK OLDUĞU HALLER
 
 . *Yaş küçüklüğü*: On beş yaşını doldurmamış çocukların çalıştırılması
 yasaktır. Ancak, on dört yaşını doldurmuş ve zorunlu ilköğretim çağını
@@ -153,7 +122,7 @@ sözleşme yapmak ve her bir faaliyet için ayrı izin almak şartıyla
 . *Cinsiyet*
 . *Yabancılık*
 
-==== SÖZLEŞME YAPILMASININ ZORUNLU OLDUĞU HALLER
+=== SÖZLEŞME YAPILMASININ ZORUNLU OLDUĞU HALLER
 
 . *Engelli ve eski hükümlü çalıştırma yükümlülüğü*: Bir işverenin işyerinde
 engelli ya da eski hükümlü çalıştırma zorunluluğunun doğabilmesi için işyerinde
@@ -195,13 +164,7 @@ durumlarda doktrinde bir görüşe göre tazminat ödeme yükümlülüğü doğa
 bir görüşe göre ise aynen ifa davası açılacaktır. Yargıtay da bazı kararlarında
 aynen ifayı kabul etmiştir.
 
-=== ŞEKİL
-
-Yasada öngörülen şekil kuralının ihlal edilmesi halinde uygulanacak sonuç
-doktrinde tartışmalıdır. Bir görüşe göre kanunda öngörülen şekil şartları ispat
-şartıdır. Diğer bir görüş ise bunların geçerlilik şartı olduğunu savunmaktadır.
-
-IMPORTANT: İş hukukunda geçersizlik ileriye etkili olarak sonuç doğurur.
+== İŞ SÖZLEŞMESİ TÜRLERİ
 
 === SÜREKLİ VE SÜREKSİZ İŞ SÖZLEŞMESİ
 
@@ -468,6 +431,8 @@ fazla iki defa yenilenebilir. İşçisini geçici olarak devreden işverenin üc
 kendisinde çalıştığı sürede ödenmeyen ücretinden, işçiyi gözetme borcundan ve
 sosyal sigorta primlerinden, devreden işveren ile birlikte sorumludur.
 
+== DEVİR
+
 === İŞ SÖZLEŞMESİNİN DEVRİ
 
 Borçlar Kanunu 429'a göre "_Hizmet sözleşmesi, ancak işçinin yazılı rızası
@@ -489,11 +454,46 @@ hükmün İş Hukuku'na uygun olmayacağını ve iznin devir anında alınması
 gerektiğini savunmaktadır.
 ====
 
-== İŞ SÖZLEŞMESİNDEN DOĞAN BORÇLAR
+=== İŞYERİNİN DEVRİ
 
-=== İŞÇİNİN BORÇLARI
+İşyeri veya işyerinin bir bölümü hukukî bir işleme dayalı olarak başka birine
+devredildiğinde, devir tarihinde işyerinde veya bir bölümünde mevcut olan iş
+sözleşmeleri bütün hak ve borçları ile birlikte devralana geçer.
 
-==== İŞ GÖRME BORCU
+Devralan işveren, işçinin hizmet süresinin esas alındığı haklarda, işçinin
+devreden işveren yanında işe başladığı tarihe göre işlem yapmakla yükümlüdür.
+
+Yukarıdaki hükümlere göre devir halinde, devirden önce doğmuş olan ve devir
+tarihinde ödenmesi gereken borçlardan devreden ve devralan işveren birlikte
+sorumludurlar. Ancak bu yükümlülüklerden devreden işverenin sorumluluğu devir
+tarihinden itibaren iki yıl ile sınırlıdır
+
+NOTE: Kıdem tazminatı alacağı devirden sonra doğan bir alacaktır ancak buna
+rağmen devreden bu alacaktan sorumludur ve burada bir süre sınırı yoktur. Zira
+1457 sayılı mülga İş Kanununun yürürlükte olan 14. maddesi özel bir
+düzenlemedir.
+
+Tüzel kişiliğin birleşme veya katılma ya da türünün değişmesiyle sona erme
+halinde birlikte sorumluluk hükümleri uygulanmaz.
+
+Devreden veya devralan işveren iş sözleşmesini sırf işyerinin veya işyerinin
+bir bölümünün devrinden dolayı feshedemez ve devir işçi yönünden fesih için
+haklı sebep oluşturm az. Devreden veya devralan işverenin ekonomik ve
+teknolojik sebeplerin yahut iş organizasyonu değişikliğinin gerekli kıldığı
+fesih hakları veya işçi ve işverenlerin haklı sebeplerden derhal fesih hakları
+saklıdır.
+
+Yukarıdaki hükümler, iflas dolayısıyla malvarlığının tasfiyesi sonucu işyerinin
+veya bir bölümünün başkasına devri halinde uygulanmaz.
+
+NOTE: Asıl işveren-alt işveren ilişkisi hukuka uygun şekilde kurulmuşsa alt
+işveren değişmesine rağmen alt işverenin işçileri çalışmalarına asıl işverenin
+işyerinde aynen devam ettiği durumlarda Yargıtay kıyas yoluyla işyerinin devri
+hükümlerinin uygulanmasını kabul ediyor.
+
+== İŞÇİNİN BORÇLARI
+
+=== İŞ GÖRME BORCU
 
 İş görme borcunun iki ayrı boyutu vardır:
 
@@ -573,12 +573,229 @@ rakip bir işletme açmaktan, başka bir rakip işletmede çalışmaktan veya bu
 dışında, rakip işletmeyle başka türden bir menfaat ilişkisine girişmekten
 kaçınmayı *yazılı* olarak üstlenebilir._"
 
-"_Rekabet yasağı kaydı, ancak hizmet ilişkisi işçiye müşteri çevresi veya
-üretim sırları ya da işverenin yaptığı işler hakkında bilgi edinme imkânı
-sağlıyorsa ve aynı zamanda bu bilgilerin kullanılması, işverenin önemli bir
-zararına sebep olacak nitelikteyse geçerlidir._"
 
 Geçerli bir rekabet yasağı hükmünün söz konusu olabilmesi için iki temel şart
 aranır:
 
-. İşverenin korunmaya değer bir menfaatinin olması gerekir.
+. Rekabet yasağı kaydı, ancak hizmet ilişkisi işçiye müşteri çevresi veya
+üretim sırları ya da işverenin yaptığı işler hakkında bilgi edinme imkânı
+sağlıyorsa ve aynı zamanda bu bilgilerin kullanılması, işverenin önemli bir
+zararına sebep olacak nitelikteyse geçerlidir.
+. Rekabet yasağı, işçinin ekonomik geleceğini hakkaniyete aykırı olarak
+tehlikeye düşürecek biçimde yer, zaman ve işlerin türü bakımından uygun olmayan
+sınırlamalar içeremez ve süresi, özel durum ve koşullar dışında iki yılı
+aşamaz.
+
+"_Hâkim, aşırı nitelikteki rekabet yasağını, bütün durum ve koşulları serbestçe
+değerlendirmek ve işverenin üstlenmiş olabileceği karşı edimi de hakkaniyete
+uygun biçimde göz önünde tutmak suretiyle, kapsamı veya süresi bakımından
+sınırlayabilir._"
+
+Rekabet yasağına aykırı davranan işçi, bunun sonucu olarak işverenin uğradığı
+bütün zararları gidermekle yükümlüdür. Yasağa aykırı davranış bir ceza koşuluna
+bağlanmışsa ve sözleşmede aksine bir hüküm de yoksa, işçi öngörülen miktarı
+ödeyerek rekabet yasağına ilişkin borcundan kurtulabilir; ancak, işçi bu
+miktarı aşan zararı gidermek zorundadır.
+
+İşveren, ceza koşulu ve doğabilecek ek zararlarının ödenmesi dışında,
+sözleşmede yazılı olarak açıkça saklı tutması koşuluyla, kendisinin ihlal veya
+tehdit edilen menfaatlerinin önemi ile işçinin davranışı haklı gösteriyorsa,
+yasağa aykırı davranışa son verilmesini de isteyebilir.
+
+Rekabet yasağı, işverenin bu yasağın sürdürülmesinde gerçek bir yararının
+olmadığı belirlenmişse sona erer.
+
+İş sözleşmesi, haklı bir sebep olmaksızın işveren tarafından veya işverene
+yüklenebilen bir nedenle işçi tarafından feshedilirse, rekabet yasağı sona
+erer.
+
+== İŞVERENİN BORÇLARI
+
+=== ÜCRET ÖDEME BORCU
+
+Genel anlamda *ücret* bir kimseye bir iş karşılığında işveren veya üçüncü
+kişiler tarafından sağlanan ve para ile ödenen tutardır.
+
+IMPORTANT: Ücret unsuru olmayan bir sözleşme iş sözleşmesi olamaz.
+
+*Brüt ücret*, ücretten yasal kesintiler yapılmadan önceki ücrettir. Yasal
+kesintiler kesildikten sonra kalan miktara *net ücret* denir. İşçinin
+sözleşmeden belirlenmiş işe karşılık aldığı ücrete *çıplak ücret*, bu ücrete
+ilave ödemelerin (yemek, yol vs.) eklendikten sonraki ücrete *giydirilmiş
+ücret* denir.
+
+TIP: Ücretin parayla ödenmesi kuralı çıplak ücret için geçerlidir. İşveren
+ilave ödemeleri ayni olarak da yapabilir.
+
+Emre muharrer senetle (bono ile), kuponla veya yurtta geçerli parayı temsil
+ettiği iddia olunan bir senetle veya diğer herhangi bir şekilde ücret ödemesi
+yapılamaz.
+
+Ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkak kural olarak, Türk
+parası ile işyerinde veya özel olarak açılan bir banka hesabına ödenir.
+
+NOTE: 5 veya daha fazla işçi çalıştıran işyerlerinde işveren işçi ücretlerini
+mutlaka banka aracılığıyla ödemek zorundadır.
+
+Ücret en geç ayda bir ödenir. İş sözleşmeleri veya toplu iş sözleşmeleri ile
+ödeme süresi bir haftaya kadar indirilebilir.
+
+İşveren, işçiye sözleşmede veya toplu iş sözleşmesinde belirlenen; sözleşmede
+hüküm bulunmayan hâllerde ise, asgari ücretten az olmamak üzere emsal ücreti
+ödemekle yükümlüdür.
+
+İş sözleşmesi ile çalışan ve bu Kanunun kapsamında olan veya olmayan her türlü
+işçinin ekonomik ve sosyal durumlarının düzenlenmesi için Çalışma ve Sosyal
+Güvenlik Bakanlığınca Asgari Ücret Tespit Komisyonu aracılığı ile ücretlerin
+asgari sınırları en geç iki yılda bir belirlenir.
+
+Ücret alacağı olduğunu ispatlama yükü işçiye aittir.
+
+Ücret alacaklarında zamanaşımı süresi 5 yıldır.
+
+Ücreti ödeme gününden itibaren yirmi gün içinde mücbir bir neden dışında
+ödenmeyen işçi, iş görme borcunu yerine getirmekten kaçınabilir. Bu nedenle
+kişisel kararlarına dayanarak iş görme borcunu yerine getirmemeleri sayısal
+olarak toplu bir nitelik kazansa dahi grev olarak nitelendirilemez. Gününde
+ödenmeyen ücretler için mevduata uygulanan en yüksek faiz oranı uygulanır. Bu
+işçilerin bu nedenle iş akitleri çalışmadıkları için feshedilemez ve yerine
+yeni işçi alınamaz, bu işler başkalarına yaptırılamaz.
+
+NOTE: Yargıtay, bu hakkını kullanan işçinin çalışmadığı süre boyunca ücret
+almaya hak kazanmayacağına karar vermiştir. İşçi çalışmıyorsa ancak kanun
+ücretin ödenmesiyle ilgili bir düzenleme getirdiyse ücret alacağını talep
+edebilir. Yargıtay da kararında buna dayanmıştır. Kürsü ise kanunun ruhuna
+aykırı olduğu gerekçesiyle aksi görüşte.
+
+Gelecekteki ücret alacaklarının devredilmesi veya rehnedilmesi geçersizdir.
+
+İşveren, işçiden olan alacağı ile ücret borcunu işçinin rızası olmadıkça takas
+edemez. Ancak, işçinin kasten sebebiyet verdiği yargı kararıyla sabit bir
+zarardan doğan alacaklar, ücretin haczedilebilir kısmı kadar takas edilebilir.
+
+Ücretin işveren lehine kullanılacağına ilişkin anlaşmalar geçersizdir.
+
+İşveren toplu sözleşme veya iş sözleşmelerinde gösterilmiş olan sebepler
+dışında işçiye ücret kesme cezası veremez.
+
+İşçi ücretlerinden ceza olarak yapılacak kesintilerin işçiye derhal
+sebepleriyle beraber bildirilmesi gerekir. İşçi ücretlerinden bu yolda
+yapılacak kesintiler bir ayda iki gündelikten veya parça başına yahut yapılan
+iş miktarına göre verilen ücretlerde işçinin iki günlük kazancından fazla
+olamaz.
+
+Her türlü işte uygulanmakta olan çalışma sürelerinin yasal olarak daha aşağı
+sınırlara indirilmesi veya işverene düşen yasal bir yükümlülüğün yerine
+getirilmesi nedeniyle ya da bu Kanun hükümlerinden herhangi birinin uygulanması
+sonucuna dayanılarak işçi ücretlerinden her ne şekilde olursa olsun eksiltme
+yapılamaz.
+
+=== İŞÇİYİ KORUMA VE GÖZETME BORCU
+
+İşveren, hizmet ilişkisinde işçinin kişiliğini korumak ve saygı göstermek ve
+işyerinde dürüstlük ilkelerine uygun bir düzeni sağlamakla, özellikle işçilerin
+psikolojik ve cinsel tacize uğramamaları ve bu tür tacizlere uğramış olanların
+daha fazla zarar görmemeleri için gerekli önlemleri almakla yükümlüdür.
+
+İşveren, işyerinde iş sağlığı ve güvenliğinin sağlanması için gerekli her türlü
+önlemi almak, araç ve gereçleri noksansız bulundurmak; işçiler de iş sağlığı ve
+güvenliği konusunda alınan her türlü önleme uymakla yükümlüdür.
+
+=== EŞİT DAVRANMA BORCU
+
+İş ilişkisinde dil, ırk, renk, cinsiyet, engellilik, siyasal düşünce, felsefî
+inanç, din ve mezhep ve benzeri sebeplere dayalı ayrım yapılamaz.
+
+İşveren, esaslı sebepler olmadıkça tam süreli çalışan işçi karşısında kısmî
+süreli çalışan işçiye, belirsiz süreli çalışan işçi karşısında belirli süreli
+çalışan işçiye farklı işlem yapamaz.
+
+İşveren, biyolojik veya işin niteliğine ilişkin sebepler zorunlu kılmadıkça,
+bir işçiye, iş sözleşmesinin yapılmasında, şartlarının oluşturulmasında,
+uygulanmasında ve sona ermesinde, cinsiyet veya gebelik nedeniyle doğrudan veya
+dolaylı farklı işlem yapamaz.
+
+Aynı veya eşit değerde bir iş için cinsiyet nedeniyle daha düşük ücret
+kararlaştırılamaz. İşçinin cinsiyeti nedeniyle özel koruyucu hükümlerin
+uygulanması, daha düşük bir ücretin uygulanmasını haklı kılmaz.
+
+NOTE: İş Kanunu madde 5'in işe alım aşamasında uygulanmayacağı kabul
+edilmektedir.
+
+İş ilişkisinde veya sona ermesinde yukarıdaki fıkra hükümlerine aykırı
+davranıldığında işçi, dört aya kadar ücreti tutarındaki uygun bir tazminattan
+başka yoksun bırakıldığı haklarını da talep edebilir. 2821 sayılı Sendikalar
+Kanununun 31 inci maddesi hükümleri saklıdır.
+
+20 nci madde hükümleri saklı kalmak üzere işverenin yukarıdaki fıkra
+hükümlerine aykırı davrandığını işçi ispat etmekle yükümlüdür. Ancak, işçi bir
+ihlalin varlığı ihtimalini güçlü bir biçimde gösteren bir durumu ortaya
+koyduğunda, işveren böyle bir ihlalin mevcut olmadığını ispat etmekle yükümlü
+olur.
+
+== İŞ SÖZLEŞMESİNİN SONA ERMESİ
+
+=== İKALE
+
+*İkale*, tarafların uzlaşarak aralarındaki sözleşmeyi sona erdirmesidir.
+
+Yargıtay kötü niyetli ikalelere müdahale etmekte ve ikalenin geçerli olup
+olmadığını kontrol etmektedir. Yargıtay'ın aradığı şartlar:
+
+. İkale hakkında işçinin işveren tarafından bilgilendirilmiş olması
+. Makul bir menfaatin sağlanması
+
+=== SÖZLEŞME SÜRESİNİN DOLMUŞ OLMASI
+
+Belirli süreli hizmet sözleşmesi, aksi kararlaştırılmadıkça, fesih bildiriminde
+bulunulmasına gerek olmaksızın, sürenin bitiminde kendiliğinden sona erer.
+
+Belirli süreli sözleşme, süresinin bitiminden sonra örtülü olarak
+sürdürülüyorsa, belirsiz süreli sözleşmeye dönüşür.  Ancak, esaslı bir sebebin
+varlığı hâlinde, üst üste belirli süreli hizmet sözleşmesi kurulabilir.
+
+Taraflardan her biri, on yıldan uzun süreli hizmet sözleşmesini on yıl
+geçtikten sonra, altı aylık fesih bildirim süresine uyarak feshedebilir. Fesih,
+ancak bu süreyi izleyen aybaşında hüküm ifade eder.
+
+Sözleşmenin fesih bildirimiyle sona ereceği kararlaştırılmış ve iki taraf da
+fesih bildiriminde bulunmamışsa, sözleşme belirsiz süreli sözleşmeye dönüşür.
+
+=== İŞÇİNİN ÖLÜMÜ
+
+Sözleşme, işçinin ölümüyle kendiliğinden sona erer. İşveren, işçinin sağ kalan
+eşine ve ergin olmayan çocuklarına, yoksa bakmakla yükümlü olduğu kişilere,
+ölüm gününden başlayarak bir aylık; hizmet ilişkisi beş yıldan uzun bir süre
+devam etmişse, iki aylık ücret tutarında bir ödeme yapmakla yükümlüdür.
+
+=== İŞVERENİN ÖLÜMÜ
+
+İşverenin ölümü hâlinde, yerini mirasçıları alır. Bu durumda işyerinin
+tamamının veya bir bölümünün devri ile gerçekleşen hizmet ilişkisinin devrine
+ilişkin hükümler kıyas yoluyla uygulanır.
+
+Hizmet sözleşmesi ağırlıklı olarak işverenin kişiliği dikkate alınmak suretiyle
+kurulmuşsa, onun ölümüyle kendiliğinden sona erer. Ancak, işçi sözleşmenin
+süresinden önce sona ermesi yüzünden uğradığı zarar için, mirasçılardan
+hakkaniyete uygun bir tazminat isteminde bulunabilir.
+
+=== SÜRELİ FESİH
+
+Belirsiz süreli iş sözleşmelerinin feshinden önce durumun diğer tarafa
+bildirilmesi gerekir.
+
+İş sözleşmeleri;
+
+.. İşi altı aydan az sürmüş olan işçi için, bildirimin diğer tarafa
+yapılmasından başlayarak iki hafta sonra,
+.. İşi altı aydan birbuçuk yıla kadar sürmüş olan işçi için, bildirimin diğer
+tarafa yapılmasından başlayarak dört hafta sonra,
+.. İşi birbuçuk yıldan üç yıla kadar sürmüş olan işçi için, bildirimin diğer
+tarafa yapılmasından başlayarak altı hafta sonra,
+.. İşi üç yıldan fazla sürmüş işçi için, bildirim yapılmasından başlayarak
+sekiz hafta sonra,
+
+feshedilmiş sayılır. Bu süreler asgari olup sözleşmeler ile artırılabilir.
+
+Bildirim şartına uymayan taraf, bildirim süresine ilişkin ücret tutarında
+tazminat ödemek zorundadır.
