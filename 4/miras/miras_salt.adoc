@@ -1,7 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İçindekiler
-:toclevels: 3
+:toc-title: İÇİNDEKİLER
 
 == TÜRK MİRAS HUKUKU SİSTEMİNİN ÖZELLİKLERİ
 
@@ -164,12 +163,12 @@ olduğu konusunda kuşku doğarsa karine sağlar arası tasarruf olduğu yönün
 Ölüme bağlı tasarruf nitelendirmesi yapılırken temel ölçüt işlemin hukuki
 sebebinin (_causa_) ölüm olup olmadığıdır.
 
-=== ŞEKLİ ANLAMDA ÖLÜME BAĞLI TASARRUFLAR
+== ŞEKLİ ANLAMDA ÖLÜME BAĞLI TASARRUFLAR
 
 Şekli anlamda ölüme bağlı tasarruf *tip zorunluluğuna* tabidir. İki tane ölüme
 baplı tasarruf şekli vardır: *Vasiyetname* ve *miras sözleşmesi*.
 
-==== VASİYETNAME
+=== VASİYETNAME
 
 Vasiyet yapabilmek için *ayırt etme gücüne sahip* ve *onbeş yaşını doldurmuş*
 olmak gerekir.
@@ -191,7 +190,7 @@ gidermeyecektir.
 Vasiyet, resmî şekilde veya mirasbırakanın el yazısı ile ya da sözlü olarak
 yapılabilir.
 
-===== EL YAZILI VASİYETNAME
+==== EL YAZILI VASİYETNAME
 
 El yazılı vasiyetnamenin yapıldığı yıl, ay ve gün gösterilerek başından sonuna
 kadar mirasbırakanın el yazısıyla yazılmış ve imzalanmış olması zorunludur.
@@ -219,7 +218,7 @@ hâkimine veya yetkili memura bırakılabilir.
 Mirasbırakanın ölümünden sonra ele geçen vasiyetnamesinin, geçerli olup
 olmadığına bakılmaksızın hemen sulh hâkimine teslim edilmesi zorunludur.
 
-===== RESMİ VASİYETNAME
+==== RESMİ VASİYETNAME
 
 Resmî vasiyetname, iki tanığın katılmasıyla resmî memur tarafından düzenlenir.
 
@@ -260,7 +259,7 @@ vasiyetname ile kazandırmada bulunulamaz.
 Resmî vasiyetnameyi düzenleyen memur, vasiyetnamenin aslını saklamakla
 yükümlüdür.
 
-===== SÖZLÜ VASİYETNAME
+==== SÖZLÜ VASİYETNAME
 
 Mirasbırakan; yakın ölüm tehlikesi, ulaşımın kesilmesi, hastalık, savaş gibi
 olağanüstü durumlar yüzünden resmî veya el yazılı vasiyetname yapamıyorsa,
@@ -303,7 +302,7 @@ düzenlenmişse bu ancak iptal davasına konu olabilecektir.*
 Mirasbırakan için sonradan diğer şekillerde vasiyetname yapma olanağı doğarsa,
 bu tarihin üzerinden bir ay geçince sözlü vasiyet hükümden düşer.
 
-==== MİRAS SÖZLEŞMESİ
+=== MİRAS SÖZLEŞMESİ
 
 Miras sözleşmesi yapabilmek için *ayırt etme gücüne sahip* ve *ergin olmak*,
 *kısıtlı bulunmamak* gerekir.
@@ -410,3 +409,223 @@ Tek taraflı ortadan kaldırma, vasiyetnameler için kanunda öngörülen şekil
 biriyle yapılır.
 . *Sözleşmede dönme hakkının saklı tutulması*
 . *Geçersizlik sebebi bulunması*
+
+== MADDİ ANLAMDA ÖLÜME BAĞLI TASARRUFLAR
+
+Bir vasiyetnameye konu olan ölüme bağlı tasarruf tek taraflı olarak tasarrufa
+konu olabilecek bir şey olmalıdır. Karşı tarafın rızasını almayı gerektiren
+ölüme bağlı tasarruflar vasiyetname ile yapılamaz.
+
+Mirastan feragat sözleşmesi, mirastan çıkarma sebepleri olmaksızın bir kanuni
+mirasçının mirastan hak almamasını öngören bir hukuki işlemdir. Mutlaka miras
+sözleşmesi ile yapılması gereken tek tasarruf mirastan feragat sözleşmesidir.
+
+Mirastan feragat sözleşmesi dışında kalan her şey tek taraflı tasarrufa konu
+olabilir ve dolayısıyla vasiyetnameye konu olabilir.
+
+Miras sözleşmesi ile tek taraflı olan bütün ölüme bağlı tasarruflar
+yapılabilir. Ancak niteliği gereği tek taraflı olan ölüme bağlı tasarruflar
+miras sözleşmesinin tek taraflı içeriğini teşkil eder ve karşı tarafın iradesi
+hiçbir rol oynamaz. Bu tasarruflar geçerlilik şartları açısından vasiyetname
+gibi değerlendirilir.
+
+=== KOŞUL VE YÜKLEME
+
+Mirasbırakan, ölüme bağlı tasarruflarını koşullara veya yüklemelere
+bağlayabilir. Tasarruf hüküm ve sonuçlarını doğurduğu andan itibaren, her
+ilgili koşul veya yüklemenin yerine getirilmesini isteyebilir.
+
+NOTE: Yükleme kural olarak kanuni mirasçılar içindir. Ancak kanuni mirasçılar
+öldükten sonra onların mirasçılarına sirayet etmez.
+
+Hukuka veya ahlâka aykırı koşullar ve yüklemeler, ilişkin bulundukları
+tasarrufu geçersiz kılar.
+
+Anlamsız veya yalnız başkalarını rahatsız edici nitelikte olan koşullar ve
+yüklemeler yok sayılır.
+
+IMPORTANT: Koşul bağımsız değildir, bir ölüme bağlı tasarrufa ihtiyaç duyar.
+Buna karşılık yükleme bağımsızdır.
+
+== MADDİ ANLAMDA ÖLÜME BAĞLI TASARRUF TÜRLERİ
+
+=== MİRASÇI ATAMA
+
+Mirasbırakan, mirasının tamamı veya belli bir oranı için bir veya birden çok
+kişiyi mirasçı atayabilir.
+
+Bir kişinin, mirasın tamamını veya belli bir oranını almasını içeren her
+tasarruf, mirasçı atanması sayılır.
+
+Kanuni mirasçılar için öngörülen bütün sonuçlar atanmış mirasçılar için de
+uygulanır.
+
+Atanmış mirasçı, mirası ölüm anında kendiliğinden kazanır. Mirasbırakanın ölümü
+ile birlikte mal, hak ve borçlar külli olarak geçer.
+
+Mirasçı atama gerçek kişiler için yapılabileceği gibi tüzel kişiler için de
+yapılabilir.
+
+Mirasbırakan, mirasçı olarak atadığı kişiyi, mutlaka kendisi seçmek zorundadır.
+Zira ölüme bağlı tasarruf yapmak, şahsa bağlı hakkın kullanımıdır. Şahsa bağlı
+haklarda temsil yürümez.
+
+=== BELİRLİ MAL VEYA HAK VASİYETİ
+
+Mirasbırakan, bir kimseye onu mirasçı atamaksızın belirli bir mal bırakma
+yoluyla kazandırmada bulunabilir.
+
+Belirli mal bırakma, ölüme bağlı tasarrufla bir kimseye terekedeki bir malın
+mülkiyetinin veya terekenin tamamı ya da bir kısmı üzerinde intifa hakkının
+kazandırılmasına yönelik olabileceği gibi; bir kimse lehine tereke değeri
+üzerinden bir edimin yerine getirilmesinin, bir iradın bağlanmasının veya bir
+kimsenin bir borçtan kurtarılmasının, mirasçılar veya belirli mal bırakılanlara
+yükletilmesi suretiyle de olabilir.
+
+Bırakılan belirli mal terekede bulunmadığı takdirde, tasarruftan aksi
+anlaşılmadıkça, ölüme bağlı tasarrufu yerine getirmekle yükümlü olanlar borçtan
+kurtulurlar.
+
+Belirli mal veya hak bırakma halinde hak veya mal bırakılan kişi o hakka
+mirasbırakanın ölümüyle kendiliğinden sahip olmaz. Tereke bütün olarak kanuni
+mirasçılara geçer ve hak veya mal vasiyet edilmiş kişiler kanuni mirasçılara
+ölüme bağlı tasarruftan doğan haklarını ileri sürerek ifasını talep eder.
+Belirli mal veya hak bırakılan kişilerin sahip olduğu tek şey alacak hakkıdır.
+
+==== BELİRLİ MAL VEYA HAK BIRAKMA ÇEŞİTLERİ
+
+* *Mülkiyet vasiyeti:* Malın tüm kapsamı ile bırakılmasıdır. Mirasbırakan neyi
+bıraktığını belirlemiş veya belirlenebilir kılmış olmalıdır.
+* *İntifa hakkı vasiyeti:* Bir taşınmaz üzerinde intifa hakkı vasiyet
+edildiğinde prosedür şu şekilde ilerleyecektir:
+
+. Tereke mirasçılara geçer.
+. Vasiyet alacaklısı intifa hakkını mirasçılara ileri sürer.
+. Mirasçıların tescil talebi üzerine veya mirasçıların bunu ifa etmemesi
+halinde açılacak dava sonucu alınan ile tapuya giden vasiyet alacaklısının
+talebi üzerine intifa hakkı tescil edilir.
+
+* *Tedarik vasiyeti:* Tereke üzerinde bir kimse lehine bir edimin yerine
+getirilmesidir.
+* *Alacak vasiyeti:* Mirasbırakan herhangi bir alacağını başkasına vasiyet
+edebilir.
+* *İbra vasiyeti:* Mirasbırakan, bir kimsenin bir borçtan kurtarılmasını
+vasiyet edebilir.
+* *İrat vasiyeti:* Kişinin terekesinden belli bir paranın belirli süreyle veya
+süresiz olarak bir kişiye ödemesini ifade eder.
+
+=== VAKIF KURMA
+
+Mirasbırakan, terekesinin tasarruf edilebilir kısmının tamamını veya bir
+bölümünü özgülemek suretiyle vakıf kurabilir.
+
+Vakıf, ancak kanun hükümlerine uyulmak koşuluyla tüzel kişilik kazanır.
+
+"_Vakıf kurma iradesi, resmî senetle veya ölüme bağlı tasarrufla açıklanır.
+Vakıf, yerleşim yeri mahkemesi nezdinde tutulan sicile tescil ile tüzel kişilik
+kazanır_."
+
+IMPORTANT: Vakıf ölüme bağlı tasarruf ile kurulsa bile ölüm anında tüzel
+kişilik kazanmaz.  Mirasbırakanın vakıf kurma iradesi ölüme bağlı tasarrufla
+açıklandığı zaman, belirli kişilerin vakıf kurmak için gerekli işlemleri
+yapması ve bunun sonucunda mirasbırakanın son yerleşim yeri asliye hukuk
+mahkemesinde tescil ettirmesi gerekir. Vakıf ancak bu tescil ile tüzel kişilik
+kazanır.
+
+"_Mahkemeye başvurma, resmî senet düzenlenmiş ise vakfeden tarafından; vakıf
+ölüme bağlı tasarrufa dayanıyorsa ilgililerin veya vasiyetnameyi açan sulh
+hâkiminin bildirimi üzerine ya da Vakıflar Genel Müdürlüğünce re'sen yapılır._"
+
+[NOTE]
+====
+Vakfın terekedeki malların mülkiyetini hangi anda kazanacağı doktrinde
+tartışmalıdır.
+
+*Cenin görüşüne göre*, vakıf kanuna uygun şekilde kurulup tüzel kişilik
+kazandıktan sonra terekedeki mallar üzerinde mirasbırakanın ölümünden itibaren
+hak kazanacaktır. Baskın görüş budur.
+
+*Artmirasçı görüşüne göre*, vakıf malları tüzel kişilik kazandığı andan
+itibaren kazanır. Bu ana kadar mallar üzerinde hak sahibi kanuni mirasçılardır.
+Azınlıkta kalan bir görüştür.
+====
+
+Ölüme bağlı tasarrufla kurulan vakfın mirasbırakanın borçlarından sorumluluğu,
+özgülenen mal ve haklarla sınırlıdır.
+
+=== YEDEK MİRASÇI ATAMA
+
+Mirasbırakan yaptığı ölüme bağlı tasarrufla başka bir kişiyi mirasçı olarak
+atayabilir ya da ona belirli bir mal bırakabilir. Bu kişi herhangi bir sebeple
+mirasa ehil olamazsa bu durumda söz konusu tasarruflar kural olarak yasal
+mirasçılara döner. Bu kuralın istisnası **yedek mirasçı atama**dır.
+
+Mirasbırakan, atadığı mirasçının kendisinden önce ölmesi veya mirası reddetmesi
+hâlinde onun yerine geçmek üzere bir veya birden çok kişiyi yedek mirasçı
+olarak atayabilir. Bu kural belirli mal bırakmada da uygulanır.
+
+Yedek mirasçı birden fazla kişi de olabilir.
+
+Yedek mirasçının mirası alabilmesi için murisin öldüğü anda hayatta olmasının
+yeterli olduğu kabul edilmektedir.
+
+[NOTE]
+====
+Muris yedek mirasçı atarken belirli bir sebep öngörmüş olabilir.
+
+Örneğin mirasbırakan malvarlığının yarısını Y'ye bırakmış ve öldüğü anda Y de
+*ölmüşse* malvarlığının yarısını C'nin almasını vasiyet etmiştir. Peki Y
+ölmemiş de mirası reddetmişse ne olur?
+
+Burada mirasbırakanın iradesine bakılmalıdır. Mirasbırakanın iradesi tam bir
+yedek mirasçı atama mı yoksa sadece belli şartların gerçekleşmesi halinde yedek
+mirasçı atama mı belirlenmelidir.
+====
+
+=== ARTMİRASÇI ATAMA
+
+Mirasbırakan, ölüme bağlı tasarrufuyla önmirasçı atadığı kişiyi mirası
+artmirasçıya devretmekle yükümlü kılabilir. Aynı yükümlülük artmirasçıya
+yüklenemez. Bu kurallar belirli mal bırakmada da uygulanır.
+
+TIP: Kural olarak bir kimsenin mirasçı olarak atanabilmesi için en azından
+cenin olması gerekir. Fakat hiç doğmamış çocuk artmirasçı atama yoluyla mirasçı
+olarak atanabilir.
+
+Önmirasçı, mirası atanmış mirasçılar gibi kazanır. Önmirasçı, mirasa
+artmirasçıya geçirme yükümlülüğü ile sahip olur.
+
+Önmirasçı malları satamaz, bağışlayamaz, zarar verecek şekilde tasarruf edemez.
+
+NOTE: Geciktirici şarta bağlı tasarruflar kendiliğinden artmirasçı atama
+şeklindedir. Mirasbırakanın ölümünden itibaren malvarlığı yasal mirasçılara
+geçmekte, şartın gerçekleşmesi ile birlikte artmirasçıya geçmektedir. Bu
+artmirasçılık kanundan kaynaklanmaktadır.
+
+Tasarrufta geçiş anı belirtilmemişse miras, önmirasçının ölümüyle artmirasçıya
+geçer.
+
+Tasarrufta geçiş anı gösterilmiş olup önmirasçının ölümünde bu an henüz
+gelmemişse miras, güvence göstermeleri koşuluyla önmirasçının mirasçılarına
+teslim edilir.
+
+Mirasın artmirasçıya geçmesine herhangi bir sebeple olanak kalmadığı anda
+miras, önmirasçıya; önmirasçı ölmüşse onun mirasçılarına kesin olarak kalır.
+
+Önmirasçıya geçen mirasın sulh mahkemesince defteri tutulur.
+
+Mirasbırakan açıkça bağışık tutmadıkça, mirasın önmirasçıya teslimi onun
+güvence göstermesine bağlıdır.  Taşınmazlarda bu güvence, yeterli görüldüğü
+takdirde mirası geçirme yükümlülüğünün tapu kütüğüne şerh verilmesiyle de
+sağlanabilir.
+
+Önmirasçı güvence göstermez veya artmirasçının beklenen haklarını tehlikeye
+düşürürse, mirasın resmen yönetimine karar verilir.
+
+Artmirasçı, mirası belirlenmiş olan geçiş anında sağ ise kazanır.
+
+Artmirasçı geçiş anından önce ölmüşse, tasarrufta aksi öngörülmüş olmadıkça,
+miras önmirasçıya kalır.
+
+Önmirasçı mirasbırakanın ölümünde sağ değilse veya mirastan yoksun kalmışsa ya
+da mirası reddederse, miras artmirasçıya geçer.
