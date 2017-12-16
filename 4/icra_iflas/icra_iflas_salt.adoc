@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İçindekiler
+:toc-title: İÇİNDEKİLER
 
 == İCRA TEŞKİLATI
 
@@ -268,7 +268,7 @@ tekrar kesilir.
 NOTE: Alacaklı, yaptığı icra takibinden vazgeçip takip talebini geri alabilir.
 Bunun için borçlunun rızasına ihtiyaç yoktur.
 
-=== ÖDEME EMRİ
+== ÖDEME EMRİ
 
 İcra müdürü takip talebinin bu Kanunda öngörülen şartları içerdiğine karar
 verirse ödeme emri düzenler. Talebin kabul edilmemesi halinde verilen karar
@@ -313,7 +313,7 @@ Müşterek borçlular aynı zamanda takip ediliyorlarsa hepsinin veya bir kısm�
 bir mümessil tarafından temsil edilmeleri hali müstesna olmak üzere her birine
 ayrı ayrı ödeme emri tebliğ edilmek lazımdır.
 
-==== İTİRAZ
+== İTİRAZ
 
 İtiraz etmek istiyen borçlu, itirazını, ödeme emrinin tebliği tarihinden
 itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine
@@ -379,3 +379,414 @@ makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya
 belgeye müstenitse, alacaklı itirazın kendisine tebliği tarihinden itibaren
 altı ay içinde itirazın kaldırılmasını isteyebilir. Bu süre içerisinde itirazın
 kaldırılması istenilmediği takdirde yeniden ilâmsız takip yapılamaz.
+
+=== İTİRAZIN İPTALİ DAVASI
+
+İtiraz sonucunda duran takibe devam edebilmek için alacaklının başvurabileceği
+yollardan biri *itirazın iptali* davasıdır. Bu dava genel mahkemede genel
+hükümlere göre açılır.
+
+[TIP]
+====
+İtirazın iptali davasının eda davasından farkı; eda davası sonunda alınan
+hükme dayanılarak ilamlı icra takibi yapılabilir, ancak itirazın iptali
+davasında verilen karara dayanarak sadece duran takibin devamı sağlanabilir.
+Duran takibe devam edilmesi ilamlı takip değil, başlatılmış ilamsız takibin
+devamıdır.
+
+Davacı, davayı açarken itirazın iptali davasını doğru bir şekilde ifade etmeli
+ve talep sonucunu doğru yazmalıdır. Neticede hakim talep ile bağlıdır, başka
+bir şeye karar veremez. Başta eda davası olarak açılıp sonradan durmuş takibin
+devamına karar verilmesi istenirse iddianın değiştirilmesi ve genişletilmesi
+yasağı gündeme gelecektir.
+====
+
+İtirazın iptali davası genel hükümlere göre açılır ve incelenir. Alacaklı genel
+hükümlere göre alacağını ispat yükü altındadır. Dava konusunun değerine göre
+senetle ispat mecburiyeti vs. gündeme gelebilir.
+
+İtirazın iptali davası itirazın tebliğ tarihinden itibaren *bir sene*
+içerisinde açılmalıdır. Bu bir seneliik süre hak düşürücüdür. Bir senelik
+sürenin geçmesi üzerine ancak genel mahkemelerde eda davası açılıp, alınacak
+karar ile birlikte ilamlı icra takibi yapılabilir.
+
+Bu davada borçlunun itirazının haksızlığına karar verilirse borçlu; takibinde
+haksız ve kötü niyetli görülürse alacaklı; diğer tarafın talebi üzerine iki
+tarafın durumuna, davanın ve hükmolunan şeyin tahammülüne göre, red veya
+hükmolunan meblağın yüzde yirmisinden aşağı olmamak üzere, uygun bir tazminatla
+mahkum edilir.
+
+Alacaklının aleyhine tazminata hükmedilebilmesi için haksız ve kötü niyetli
+olması aranırken, borçlunun tazminat ile sorumlu olması için haksız çıkması
+yeterlidir.
+
+NOTE: %20 tazminatın alacaklı veya borçlu aleyhine hükmedilebilmesi için talep
+zorunludur. Talep olmadan mahkeme kendiliğinden böyle bir tazminata hükmedemez.
+
+Borçlu aleyhine hükmedilen tazminata *inkar tazminatı*, alacaklı aleyhine
+hükmedilen tazminata *kötüniyet tazminatı* denir.
+
+TIP: Yargıtay'a göre borçlunun aleyhine inkar tazminatına hükmedilebilmesi için
+itiraz ettiği borcun likit, yani kararlaştırılmış ve bilinen olması gerekir.
+Eğer itiraz edilen borç, yargılamanın sonunda tespti gereken bir miktar ise
+herhangi bir şekilde inkar tazminatına hükmedilemez.
+
+IMPORTANT: İtirazın iptali davası ancak genel mahkemelerde açılabilir. İcra
+mahkemesinde açılırsa görevsizlik kararı verilecektir.
+
+İtirazın iptali davası sonunda verilen hüküm maddi anlamda kesin hüküm teşkil
+eder. Alacaklı veya borçlubu davayo tekrar açamaz.
+
+İtirazın iptali davası kabul edildiği takdirde borçlu, eğer daha önceden
+bulunmamışsa, mahkeme kararının kendisine tefhim veya tebliğinden itibaren üç
+gün içinde mal beyanında bulunmak zorundadır.
+
+=== İTİRAZIN KESİN KALDIRILMASI
+
+"_Talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe
+tasdik edilen borç ikrarını içeren bir senede yahut resmî dairelerin veya
+yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz
+veya belgeye müstenitse, alacaklı itirazın kendisine tebliği tarihinden
+itibaren altı ay içinde itirazın kaldırılmasını isteyebilir. Bu süre içerisinde
+itirazın kaldırılması istenilmediği takdirde yeniden ilâmsız takip yapılamaz._"
+
+Alacaklı aşağıdaki belgelerden birini göstermek şartıyla icra mahkemesinden
+itirazın kesin olarak kaldırılmasını isteyebilir.
+
+. *İmzası ikrar edilmiş senet*
+. *İmzası noterlikçe onaylanmış senet*
+. *Resmi dairelerin ve yetkili makamların yetkileri dahilinde usulüne uygun
+verdikleri belgeler*
+
+İtirazın kesin kaldırılması itirazdan itibaren altı ay içinde istenebilir.
+İtirazın kesin kaldırılması talebi reddedilirse itirazdan itibaren bir yıl
+içinde itirazın iptali davası açılabilir. Zira icra mahkemesinin verdiği karar
+kesin değildir.
+
+"_Borçlunun gösterdiği belge altındaki imza alacaklı tarafından inkar edilirse
+hakim, 68/a maddesinde yazılı usule göre yaptığı inceleme neticesinde imzanın
+alacaklıya ait olduğuna kanaat getirdiği takdirde alacaklının itirazın
+kaldırılması talebini reddeder ve alacaklıyı sözü edilen belgenin taalluk
+ettiği değer veya miktarın yüzde onu oranında para cezasına mahkum eder.
+Alacaklı genel mahkemede dava açarsa bu para cezasının infazı dava sonuna kadar
+tehir olunur ve alacaklı bu davada alacağını ve imzanın kendisine ait
+olmadığını ispat ederse bu ceza kalkar._"
+
+"_Tatbika medar imza mevcutsa bununla, yoksa borçluya yazdıracağı yazı ve
+attıracağı imza ile yapılacak mükayese ve incelemelerden veya diğer delil ve
+karinelerden icra mahkemesi, reddedilen imzanın borçluya aidiyetine kanaat
+getirirse itirazın muvakkaten kaldırılmasına karar verir. Hakim lüzum görürse,
+oturumun bir defadan fazla talikine meydan vermiyecek surette, bilirkişi
+incelemesi de yaptırabilir._" (İİK 68/a fıkra 3)
+
+CAUTION: İnkar tazminatı alacaklıya ödenirken para cezası devlete ödenir.
+
+Alacaklı duruşmada bizzat bulunmayıp da imza vekili tarafından reddolunduğu
+takdirde vekil mütaakıp oturumda müvekkilini imza tatbikatı için hazır
+bulundurmaya veya masraflarını vererek davetiye tebliğ ettirmeye mecburdur.
+Kabule değer mazereti olmadan gelmiyen alacaklı borçlunun dayandığı belgede
+yazılı miktar hakkındaki itirazın kaldırılması talebinden vazgeçmiş sayılır.
+
+İtirazın kaldırılması talebinin esasa ilişkin nedenlerle kabulü hâlinde borçlu,
+talebin aynı nedenlerle reddi hâlinde ise alacaklı, diğer tarafın talebi
+üzerine yüzde yirmiden aşağı olmamak üzere tazminata mahkûm edilir. Borçlu,
+menfi tespit ve istirdat davası açarsa, yahut alacaklı genel mahkemede dava
+açarsa, hükmolunan tazminatın tahsili dava sonuna kadar tehir olunur ve dava
+lehine sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.
+
+=== İTİRAZIN GEÇİCİ KALDIRILMASI
+
+Takibin dayandığı senet hususî olup, imza itiraz sırasında borçlu tarafından
+reddedilmişse, alacaklı itirazın kendisine tebliği tarihinden itibaren altı ay
+içinde itirazın geçici olarak kaldırılmasını isteyebilir.
+
+IMPORTANT: Alacaklının takip talebinde dayandığı senet, imzası noter tarafından
+onaylı bir senet ise buradaki imza inkar edilemez, ancak sahtelik davası
+açılabilir. İtirazın geçici kaldırılması ancak adi senet için söz konusu olur.
+
+Senet altındaki imzayı reddeden borçlu takibi yapan icra dairesinin yetki
+çevresi içinde ise, itirazın kaldırılması için icra mahkemesi önünde yapılacak
+duruşmada, mazeretini daha önce bildirip tevsik etmediği takdirde, bizzat
+bulunmaya mecburdur. İcra dairesinin yetki çevresi dışında ödeme emri tebliğ
+edilen borçlu, istinabe yolu ile isticvabına karar verilmesi halinde, aynı
+mecburiyete tabidir.
+
+Tatbika medar imza mevcutsa bununla, yoksa borçluya yazdıracağı yazı ve
+attıracağı imza ile yapılacak mükayese ve incelemelerden veya diğer delil ve
+karinelerden icra mahkemesi, reddedilen imzanın borçluya aidiyetine kanaat
+getirirse itirazın muvakkaten kaldırılmasına karar verir. Hakim lüzum görürse,
+oturumun bir defadan fazla talikine meydan vermiyecek surette, bilirkişi
+incelemesi de yaptırabilir.
+
+Yapılacak duruşmada, borçlunun hazır bulunmaması halinde icra mahkemesince
+başka bir cihet tetkik edilmeksizin itirazın muvakkaten kaldırılmasına ve
+borçlunun sözü edilen senede dayanan takip konusu alacağın yüzde onu oranında
+para cezasına mahkumiyetine karar verilir. Duruşmaya gelmeyen borçlunun
+itirazının muvakkaten kaldırılmasına ve hakkında para cezasına karar
+verilebilmesi için keyfiyetin davetiyeye yazılması şarttır.
+
+İcra hakimi, imzanın borçluya aidiyetine karar verdiği takdirde borçluyu sözü
+edilen senede dayanan takip konusuna alacağın yüzde onu oranında para cezasına
+mahkum eder. Borçlu, borçtan kurtulma, menfi tespit veya istirdat davası
+açarsa, bu para cezasının infazı dava sonuna kadar tehir olunur ve borçlu
+açtığı davayı kazanırsa bu ceza kalkar.
+
+Borçlu inkar ettiği imzayı, itirazın kaldırılması duruşmasında ve en geç
+alacaklının senedin aslını ibraz ettiği celsede kabul ederse, hakkında para
+cezası hükmolunmaz ve kendisine yargılama giderleri yükletilmez. Şu kadar ki,
+kötü niyetle takibe sebebiyet ver en borçlu yargılama giderleri ile mülzem
+olur. Senedin aslı takip talebi anında icra dairesine tevdi edilmiş ise, icra
+dairesinin yetki çevresi içinde ödeme emri tebliğ edilen borçlu hakkında bu
+fıkra hükmü uygulanmaz.
+
+İtirazın muvakkaten kaldırılması talebinin kabulü halinde borçlu, bu talebin
+reddi halinde ise alacaklı, diğer tarafın talebi üzerine yüzde yirmiden aşağı
+olmamak üzere tazminata mahkum edilir. Borçlu, borçtan kurtulma, menfi tespit
+veya istirdat davası açarsa, yahut alacaklı genel mahkemede dava açarsa
+hükmolunan tazminatın tahsili dava sonuna kadar tehir olunur ve dava lehine
+sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.
+
+İtirazın muvakkaten kaldırılmasına karar verilir ve ödeme emrindeki müddet
+geçmiş bulunursa alacaklının talebi ile borçlunun malları üzerine muvakkat
+haciz konur.
+
+== BORÇLUNUN AÇABİLECEĞİ DAVALAR
+
+=== BORÇTAN KURTULMA DAVASI
+
+İtirazın muvakkaten kaldırılması kararının tefhim veya tebliğinden itibaren
+yedi gün içinde borçlu, takibin yapıldığı mahal veya alacaklının yerleşim yeri
+mahkemesinde borçtan kurtulma davası açabilir. Bu davanın dinlenebilmesi için
+borçlunun dava konusu alacağın yüzde 15 ini ilk duruşma gününe kadar mahkeme
+veznesine nakden depo etmesi veya mahkemece kabul edilecek aynı değerde esham
+ve tahvilat veya banka teminat mektubu tevdi etmesi şarttır. Aksi takdirde dava
+reddolunur.
+
+NOTE: Borçtan kurtulma davasının özel dava şartı dava konusu alacağın %15'i
+oranında teminat yatırılmasıdır. %15'lik teminat yatırılmadığı takdirde bu dava
+yalnızca menfi tespit davasıdır.
+
+NOTE: Borçlu menfi tespit davasını önceden açmış ise, itirazın geçici kaldırılması
+kararından sonra bu davayı %15 teminat yatırmak suretiyle borçtan kurtulma
+davasına dönüştürebilir.
+
+Borçlu yukarda yazılı müddet içinde dava etmez veya davası reddolunursa
+itirazın kaldırılması kararı ve varsa muvakkat haciz kesinleşir.
+
+Davanın reddi hakkındaki karara karşı istinaf yoluna başvuran borçlu, ayrıca 36
+ncı madde hükümlerini yerine getirmek şartiyle, icra dairesinden mühlet
+istiyebilir.
+
+Borçtan kurtulma davasında haksız çıkan taraf, dava veya hükmolunan şeyin yüzde
+yirmisinden aşağı olmamak üzere münasip bir tazminatla mahkum edilir.
+
+=== MENFİ TESPİT DAVASI
+
+Borçlu, icra takibinden önce veya takip sırasında borçlu bulunmadığını ispat
+için menfi tesbit davası açabilir.
+
+TIP: Tespit davalarının eda davalarından en önemli farkı; eda davalarında
+hukuki yararın ayrıca ispatı gerekli değilken, tespit davalarında davacının
+davayı açmaktan hukuki yararı olduğunu ispat etmesinin gerekmesidir.
+
+İcra takibinden önce açılan menfi tesbit davasına bakan mahkeme, talep üzerine
+alacağın yüzde onbeşinden aşağı olmamak üzere gösterilecek teminat mukabilinde,
+icra takibinin durdurulması hakkında ihtiyati tedbir kararı verebilir.
+
+İcra takibinden sonra açılan menfi tesbit davasında ihtiyati tedbir yolu ile
+takibin durdurulmasına karar verilemez.  Ancak, borçlu gecikmeden doğan
+zararları karşılamak ve alacağın yüzde onbeşinden aşağı olmamak üzere
+göstereceği teminat karşılığında, mahkemeden ihtiyati tedbir yoluyle icra
+veznesindeki paranın alacaklıya verilmemesini istiyebilir.
+
+TIP: Kanunda takipten sonra açılan menfi tespit davasının takibi durdurmayacağı
+söyleniyorsa da Yargıtay, borçlunun borcun tamamını ve ek olarak %15'ini
+teminat göstermesi halinde takibin durdurulacağını içtihat etmiştir. Böylece
+borçlu dava konusu alacağın %115'ini teminat göstermek suretiyle takibi
+durdurabilir.
+
+Dava alacaklı lehine neticelenirse ihtiyati tedbir kararı kalkar. Buna dair
+hükmün kesinleşmesi halinde alacaklı ihtiyati tedbir dolayısıyla alacağını geç
+almış bulunmaktan doğan zararlarını gösterilen teminattan alır. Alacaklının
+uğradığı zarar aynı davada takdir olunarak karara bağlanır. Bu zarar herhalde
+yüzde yirmiden aşağı tayin edilemez.
+
+Dava borçlu lehine hükme bağlanırsa derhal takip durur. İlamın kesinleşmesi
+üzerine münderecatına göre ve ayrıca hükme hacet kalmadan icra kısmen veya
+tamamen eski hale iade edilir. Borçluyu menfi tespit davası açmaya zorlayan
+takibin haksız ve kötü niyetli olduğu anlaşılırşa, talebi üzerine, borçlunun
+dava sebebi ile uğradığı zararın da alacaklıdan tahsiline karar verilir. Takdir
+edilecek zarar, haksızlığı anlaşılan takip konusu alacağın yüzde yirmisinden
+aşağı olamaz.
+
+=== İSTİRDAT DAVASI
+
+Borçlu, menfi tesbit davası zımmında tedbir kararı almamış ve borç da ödenmiş
+olursa, davaya istirdat davası olarak devam edilir.
+
+Takibe itiraz etmemiş veya itirazının kaldırılmış olması yüzünden borçlu
+olmadığı bir parayı tamamen ödemek mecburiyetinde kalan şahıs, ödediği tarihten
+itibaren bir sene içinde, umumi hükümler dairesinde mahkemeye başvurarak
+paranın geriye alınmasını istiyebilir.
+
+İstirdat davasının şartları:
+
+. *Borç olmayan paranın ödenmiş olması*
+. *Paranın icra takibi sırasında ödenmiş olması*
+. *Paranın cebri icra tehdidi altında ödenmiş olması*
+. *Davanın borcun ödenmesinden itibaren bir sene içinde açılmış olması*
+
+TIP: Bir yıllık süre geçirilirse bile genel hükümlere göre borcun ödenmesinden
+itibaren 2 yıl içinde sebepsiz zenginleşme davası açılabilir.
+
+Dava kesin hüküm teşkil eder ama dava sonunda inkar tazminatına hükmedilmez.
+İstirdat davasının sonunda tazminata hükmedilmesi söz konusu değildir. Ancak
+menfi tespit davası açılmış, bu davada tedbir kararı alınmıl ve bu davanın
+sonunda istirdat davası kazanılmış ise borçlu lehine tazminata karar
+verilecektir.
+
+Menfi tesbit ve istirdat davaları, takibi yapan icra dairesinin bulunduğu yer
+mahkemesinde açılabileceği gibi, davalının yerleşim yeri mahkemesinde de
+açılabilir.
+
+Davacı istirdat davasında yalnız paranın verilmesi lazım gelmediğini ispata
+mecburdur.
+
+== İCRA TAKİBİNİN İPTALİ VE ERTELENMESİ
+
+=== İTFA
+
+Borçlu takibin kesinleşmesinden sonraki evrede borcu ve ferilerini alacaklıya
+öder ve ödediğini noterden tasdikli veya imzası ikrar edilmiş bir belge ile
+ispat ederse takibin iptalini icra mahkemesinden her zaman isteyebilir.
+
+Takibin iptali, icra takibinin yapıldığı yerdeki icra mahkemesinden istenir.
+Takibin kesinleşmesinden paraların paylaştırılmasına kadar takibin iptali
+istenebilir.
+
+=== SÜRE VERİLMESİ
+
+Takibe konu alacağın ödenmesi için alacaklı borçluya süre verebilir. Süre
+verilmesi durumunda takibin ertelenmesi için üç şart aranacaktır:
+
+. *Alacaklı tarafından borçluya, borcu ifa için süre verilmiş olmalıdır.*
+. *Süre takibin kesinleşmesinden sonra verilmiş olmalıdır.*
+. *Borçluya süre verildiği, alacaklı tarafından verilen ve imzası noterlikçe
+onaylı veya imzası alacaklı tarafından ikrar edilmiş senetle ispat
+edilmelidir.*
+
+Taraflar erteleme konusunda uzlaştıktan sonra alacaklı takibe devam etmeye
+kalkışırsa borçlu takibin ertelendiğini ve takibe devam edilmemesi gerektiğini
+ileri sürerek icra mahkemesinde dava açabilir.
+
+=== ZAMANAŞIMI
+
+İcra takibinin kesinleşmesinden sonra alacağın zamanaşımına uğraması halinde
+borçlu her zaman icra mahkemesine başvurarak takibin geri bırakılmasını
+isteyebilir.
+
+Takibin kesinleşmesinden sonra alacağın zamanaşımına uğradığı itirazı süreye
+tabi değildir. Buna karşılık zamanaşımı takibin kesinleşmesinden önce dolmuşsa,
+zamanaşımı itirazı ödeme emrine itiraz süresi içinde ileri sürülmelidir.
+
+Borçlunun alacağın zamanaşımına uğradığını ispat için özel bir belge sunmasına
+gerek yoktur. Hakim dosya üzerinden gerekli incelemeyi yapacaktır. Her takip
+işlemi zamanaşımını kestiğinden yapılan son takip işleminin tarihine
+bakacaktır.
+
+Eğer alacaklı zamanaşımının durduğunu veya kesildiğini iddia ediyorsa, bunu
+ancak resmi belgelerle veya imzası borçlu tarafından ikrar edilen belge ile
+ispat edilebilir.
+
+Borçlunun takibin kesinleşmesinden sonra zamanaşımı itirazını ileri sürmesi
+halinde İİK 33/a hükmü uygulanır.
+
+"_İlamın zamanaşımına uğradığı veya zamanaşımının kesildiği veya tatile
+uğradığı iddiaları icra mahkemesi tarafından resmi vesikalara müsteniden
+incelenerek icranın geri bırakılmasına veya devamına karar verilir._
+
+_Alacaklı, icranın geri bırakılması kararının kesinleştiğinin kendisine
+tebliğinden sonra, zamanaşımının vakı olmadığını ispat sadedinde ve 7 gün
+içinde umumi mahkemelerde dava açabilir. Aksi takdirde icrası istenen ilamın
+zamanaşımına uğradığı hususu kesin hüküm teşkil eder._
+
+_İcranın devamına karar verilmesi halinde 33 üncü maddenin son fıkrası burada da
+uygulanır._" (İİK 33/a)
+
+"_Borçlu olmadığı parayı ödemek mecburiyetinde kalan borçlunun 72 nci madde
+mucibince istirdat davası açarak paranın geriye verilmesini istemek hakkı
+saklıdır._" (İİK 33/son)
+
+== MAL BEYANI
+
+*Mal beyanı*, borçlunun gerek kendisinde ve gerek üçüncü şahıslar yedinde
+bulunan mal ve alacak ve haklarında borcuna yetecek miktarın nevi ve mahiyet ve
+vasıflarını ve her türlü kazanç ve gelirlerini ve yaşayış tarzına göre geçim
+membalarını ve buna nazaran borcunu ne suretle ödeyebileceğini yazı ile veya
+şifahen icra dairesine bildirmesidir
+
+Borçlu ödeme emrine 7 gün içerisinde itiraz etmediği takdirde mal beyanında
+bulunmak zorundadır. Eğer mal beyanında bulunmazsa hapisle tazyik edileceği
+ihtar edilir.
+
+İtirazının iptaline veya kat'i veya muvakkat surette kaldırılmasına karar
+verilen borçlu, bu kararın kendisine tebliğinden itibaren üç gün içinde
+yukarıdaki maddede gösterildiği üzere beyanda bulunmaya mecburdur.
+
+Mal beyanında bulunmıyan borçlu, alacaklının talebi üzerine beyanda bulununcaya
+kadar icra mahkemesi hakimi tarafından bir defaya mahsus olmak üzere hapisle
+tazyik olunur. Ancak bu hapis üç ayı geçemez.
+
+İcra dairesine vakı olan beyanda malı olmadığını bildirmiş veya borcuna yetecek
+mal göstermemiş yahut beyandan imtina etmiş olan borçlu sonradan kazandığı
+malları ve kazancında ve gelirinde vukua gelen tezayütleri yedi gün içinde
+mezkür daireye taahhütlü mektupla veya şifahi olarak bildirmeğe mecburdur.
+
+"_Bu Kanuna göre istenen beyanı, hakikate aykırı surette yapan kimse,
+alacaklının şikâyeti üzerine, üç aydan bir yıla kadar hapis cezası ile
+cezalandırılır._
+
+_Hakkında aciz vesikası alınmış borçlu, asgari ücretin üstünde bir geçim
+sürdürdüğü, aciz vesikası hamili alacaklının alacağının aciz vesikasına
+bağlanmasından en geç beş sene içinde müracaatı üzerine sabit olursa, asgari
+ücretin üstünde kalan gelirlerinden icra mahkemesinin dörtte birden az olmamak
+üzere tespit edeceği kısmını icra mahkemesi kararının kesinleşmesinden itibaren
+en geç bir ay içinde ve aciz vesikasındaki borcun ödenmesine kadar her ay icra
+dairesine yatırmaya mecburdur. Bu mükellefiyeti yerine getirmeyen borçlu
+hakkında bir yıla kadar tazyik hapsine karar verilir. Hapsin tatbikine
+başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesine
+yatırmak zorunda olduğu meblağı öderse tahliye edilir; ödemelerini tekrar
+keserse, hakkında tazyik hapsine yeniden karar verilir. Ancak, bir borçtan
+dolayı tazyik hapsinin süresi bir yılı geçemez._"
+
+== HACİZ
+
+Ödeme emrindeki müddet geçtikten ve borçlu itiraz etmiş ise itirazı
+kaldırıldıktan sonra mal beyanını beklemeksizin alacaklı haciz konmasını
+isteyebilir.
+
+Haciz istemek hakkı, ödeme emrinin tebliği tarihinden itibaren bir sene
+geçmekle düşer. İtiraz veya dava halinde bunların vukuundan hükmün
+katileşmesine kadar veya alacaklıyla borçlunun icra dairesinde taksit
+sözleşmeleri yapmaları halinde taksit sözleşmesinin ihlaline kadar geçen zaman
+hesaba katılmaz.
+
+Haciz talebi kanuni müddet içinde yapılmaz veya geri alındıktan sonra bu müddet
+içinde yenilenmezse dosya muameleden kaldırılır.
+
+=== HACİZ TÜRLERİ
+
+* *Geçici haciz:* İtirazın geçici kaldırılmasından sonra yapılan hacizdir.
+* *İhtiyati haciz:* Daha takip başlamadan, dava açılmadan önce borçlunun
+malvarlığını elden çıkarmasını önlemek amacıyla yapılan hacizdir.
+* *Kesin haciz*
+
+** *Tamamlama haczi:* Satış tutarı bütün alacakları ödemiye yetmezse icra
+memuru kendiliğinden yeni hacizler yaparak haczi tamamlar; ancak bu suretle
+haczolunan mallar üzerinde sonra gelen derecelerin evvelce koydurdukları
+hacizler varsa bu hacizlerin doğurduğu haklara halel gelmez. Yeniden haczedilen
+mallar ayrıca satış talebine hacet kalmaksızın ve mümkün olduğu kadar çabuk
+satılır.
+** *İlave haciz:* İştirak halinde icra dairesi müracaat üzerine aynı derecedeki
+alacaklıların bütün alacaklarına yetecek nispette ilave suretiyle hacizler
+yapar.
