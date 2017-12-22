@@ -1,10 +1,11 @@
 :toc:
-:toc-title: İÇİNDEKİLER
+:toc-title: CMK
 :icons: font
 
 == GENEL SÜREÇ
 
 Suç şüphesiyle başlayıp iddianamenin kabulüyle biten evreye *soruşturma* denir.
+
 Soruşturma evresine başlanabilmesi için mutlaka bir şüpheliye ihtiyaç yoktur.
 Soruşturma evresinde suç şüphesi altında olan birisi varsa buna *şüpheli*,
 şüpheliyi temsil eden avukata da *müdafi* adı verilir. Soruşturma evresi
@@ -688,6 +689,78 @@ suçlar bakımından müdafiden yararlanmayı zorunlu kılmıştır.
 . *Yakalanma ve gözaltı işlemlerine veya gözaltı süresinin uzatılmasına ilişkin
 Cumhuriyet savcısının emirlerine karşı Sulh Ceza Hakimliğine başvurma hakkı*
 
+=== MÜDAFİ
+
+Müdafi, şüpheli veya sanığın avukatıdır. Müdafilikte temsilden ziyade
+yardımcılık ilişkisi vardır. Sanık veya şüpheli ile müdafi arasında vekalet
+ilişkisinin olmasına gerek yoktur. Müdafi ile sanık birbirinden ayrı iki
+öznedir.
+
+Müdafi ile sanık arasında vekalet ilişkisi olmasa da müdafi sanığın iradesi ile
+sınırlıdır. Sanık istediği zaman müdafiyi görevden alabilir.
+
+AİHS, sanık veya şüphelinin müdafiden yararlanması bakımından üç ilke
+belirlemiştir:
+
+. Kişiye kendisini bizzat savunma hakkı tanınmalıdır.
+. Kişiye müdafiden yararlanma hakkı tanınmalıdır.
+. Kişi müdafiden yararlanmak için gerekli olan mali güce sahip değilse
+müdafi devlet tarafından atanmalıdır.
+
+Kişi müdafisini istediği şekilde seçebilir. Birden fazla müdafiye de sahip
+olabilir. Bunun iki istisnası vardır:
+
+. Soruşturma aşamasında, ifade verme işlemine en fazla üç müdafi katılabilir.
+. Kovuşturma aşamasında, terör suçlarıyla ilgili olan yargılamalarda duruşmaya
+en fazla üç müdafi girebilir.
+
+Kural olarak sanık veya şüpheli istediği sürece müdafiden yararlanabilir.
+İsterse müdafiden yararlanma hakkını kullanmaz. Zorunlu müdafilik istisnai
+durumdur.
+
+Şüpheli veya sanık;
+
+. Çocuksa
+. Kendini savunamayacak derecede malulse
+. Sağır *ve* dilsiz ise
+. Alt sınırı *beş yıldan fazla* hapis cezası öngören bir suçtan yargılanıyorsa
+
+zorunlu müdafilik sistemi geçerlidir.
+
+NOTE: Tutuklanacak veya gözlem altına alınacak kişinin müdafisi yoksa kişinin
+iradesine bakılmaksızın müdafi atanacaktır.
+
+Zorunlu müdafilik halinde kişi istediği avukatı seçebilir. Ancak avukat
+seçmemesi halinde iradesine bakılmaksızın bir müdafi atanacaktır. Bu
+görevlendirme soruşturma aşamasında soruşturmayı yapan makamın, kovuşturma
+aşamasında kovuşturmayı yapan makamın talebi üzerine o yerin bağlı olduğu
+barodan yapılacaktır.
+
+İhtiyari müdafilikte kollukta müdafi olmadan alınan ifade kural olarak hukuka
+uygundur ancak sanık kovuşturma aşamasında ifadesinden dönebilir. Ancak zorunlu
+müdafilikte müdafi olmadan verilen ifade hukuka aykırıdır. Bu durumda verilen
+ifade hiçbir şekilde delil olarak kullanılamaz.
+
+TIP: Yargılama esnasında suçun niteliği değişir ve zorunlu müdafiliği
+gerektiren bir suçun varlığı tespit edilirse daha önce yapılmış işlemler
+geçerliliğini korur.
+
+Müdafi, bulunduğu pozisyon itibariyle ancak sanığın lehine olan delilleri
+ortaya koymak zorundadır. Mahkeme aleyhe bir delili direkt olarak sorarsa
+müdafi susma hakkını kullanabilir ancak yalan söyleme hakkı yoktur.
+
+Müdafi, soruşturma evresinde dosya içeriğini inceleyebilir ve istediği
+belgelerin bir örneğini harçsız olarak alabilir.
+
+Müdafiin dosya içeriğini inceleme veya belgelerden örnek alma yetkisi,
+soruşturmanın amacını tehlikeye düşürebilecek ise Cumhuriyet savcısının istemi
+üzerine hâkim kararıyla kısıtlanabilir. Bu karar ancak CMK 153'teki suçlar söz
+konusu ise verilebilir.
+
+Müdafiden yararlanma hakkı aynı zamanda kişilerin müdafi ile serbest bir
+şekilde görüşme imkanını da kapsar. 2016 yılında çıkan bir KHK ile buna bir
+istina getirilmiştir. Buna göre şüpheli müdafi ile görüşmekten 24 saat ile
+sınırlı olmak kaydıyla men edilebilir.
 
 == GÖREV VE YETKİ
 
@@ -896,3 +969,37 @@ Görev itibariyle yetkide bir mahkemenin görev veya yetki alanında yapılacak 
 yapması için yetkinin devredilmesi söz konusudur. Mahkeme heyeti yapılacak iş
 için hakimlerden birini *naip hakim* olarak yetkilendirir ve naip hakim işlemi
 yaparken *heyet adına* hareket eder. Her işlem için ayrıca yetkilendirme gerekir.
+
+== ESKİ HALE GETİRME
+
+Kişi belirli bir süre içinde yapılması gereken işlem için süreyi kusuru olmadan
+kaçırmışsa eski hale getirme imkanından yararlanabilir.
+
+Eski haline getirme talebi süre kaçırılmasaydı işlemi hangi mercii yapacaksa o
+merciye dilekçe ile başvuru şeklinde iletilir. Engelin kalkmasından itibaren 7
+gün içinde başvurunun yapılması gerekir.
+
+Kişi başvurusunda engel olmasaydı yapacağı işlemi de sunmalıdır.
+
+Eski hale getirme talebi kabul edildiği takdirde kesin iken reddedildiği
+takdirde itiraza konu edilebilir.
+
+== KORUMA TEDBİRLERİ
+
+Kural olarak koruma tedbirlerine hükmedecek makam Sulh Ceza Hakimidir. İstisnai
+olarak Cumhuriyet Savcısı gecikmesinde sakınca bulunan hallerin varlığı halinde
+hakim kararı olmadan da koruma tedbirlerine başvurabilir. Hatta Cumhuriyet
+Savcısına ulaşılamıyorsa kolluk amiri de bir kısım koruma tedbirlerine
+başvurabilir.
+
+Koruma tedbirlerinin ortak özellikleri:
+
+* Mahkeme hükmünden önce bir anayasal özgürlük sınırlanır.
+* Koruma tedbiri ile kısıtlanan özgürlük ile ulaşılmak istenen amaç arasında
+orantı olmalıdır.
+* Koruma tedbirleri geçicidir.
+* Tüm koruma tedbirleri kanuna dayanmalıdır.
+* Verilen koruma tedbiri kararı en azından görünüşte bir haklılığa sahip
+olmalıdır.
+* Koruma tedbirleri uygulanması zorunlu hallerde uygulanır.
+* Koruma tedbirlerinin uygulanması için kural olarak hakim kararı gerekir.
