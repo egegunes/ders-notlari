@@ -992,14 +992,90 @@ hakim kararı olmadan da koruma tedbirlerine başvurabilir. Hatta Cumhuriyet
 Savcısına ulaşılamıyorsa kolluk amiri de bir kısım koruma tedbirlerine
 başvurabilir.
 
-Koruma tedbirlerinin ortak özellikleri:
+=== KORUMA TEDBİRLERİNİN ORTAK ÖZELLİKLERİ
 
 * Mahkeme hükmünden önce bir anayasal özgürlük sınırlanır.
 * Koruma tedbiri ile kısıtlanan özgürlük ile ulaşılmak istenen amaç arasında
 orantı olmalıdır.
 * Koruma tedbirleri geçicidir.
 * Tüm koruma tedbirleri kanuna dayanmalıdır.
+* Ortada bir suç şüphesi olmalıdır.
 * Verilen koruma tedbiri kararı en azından görünüşte bir haklılığa sahip
 olmalıdır.
 * Koruma tedbirleri uygulanması zorunlu hallerde uygulanır.
 * Koruma tedbirlerinin uygulanması için kural olarak hakim kararı gerekir.
+
+=== ÖNLEYİCİ TEDBİRLER
+
+Suç şüphesinden sonra bir delil elde edilmesi veya daha sonra infazın
+sağlanması için verilen tedbirlere koruma tedbiri denirken suç şüphesine kadar
+kadar kolluk tarafından yapılan tehlikeyi önlemeye yönelik davranışlara
+önleyici tedbirler denir.
+
+Önleyici tedbirler soruşturma ve kovuşturma aşaması yokken yapılan
+işlemlerdir.
+
+Önleyici tedbirler aşağıdaki şartlar altında yapılabilir:
+
+. Bir suç veya kabahatin engellenmesi
+. Suç işlendikten sonra kaçan faillerin yakalanmasını sağlamak
+. İşlenen suç veya kabahatin faillerinin kimliklerini tespit etmek
+. Hakkında yakalama emri veya zorla getirme kararı verilmiş olan kişileri
+tespit etmek
+. Kişilerin hayatı, vücut bütünlüğü veya malvarlığı bakımından ya da topluma
+yönelik mevcut veya muhtemel bir tehlikenin önlenmesi
+
+Önleyici tedbirler kapsamında suç delili ile karşılaşılırsa bu deliller
+soruşturma sırasında kullanılabilir. Bunların soruşturmada kullanılabilmesi
+için tek şart önleyici tedbirin hukuka uygun şekilde yapılmasıdır.
+
+=== YAKALAMA
+
+Aşağıda belirtilen hâllerde, herkes tarafından geçici olarak yakalama
+yapılabilir:
+
+.. Kişiye suçu işlerken rastlanması.
+.. Suçüstü bir fiilden dolayı izlenen kişinin kaçması olasılığının bulunması
+veya hemen kimliğini belirleme olanağının bulunmaması.
++
+Suçüstü;
+
+... Failin suçun maddi unsurlarını gerçekleştirirken yakalanması
+... Fail suçu henüz işlemiş olmakla birlikte yakalamak için takip edilmesi
+... Failin üstündeki birtakım iz ve eşyalar ile fiili az önce işlediğinin
+anlaşılması
+
+Kolluk görevlileri, tutuklama kararı veya yakalama emri düzenlenmesini
+gerektiren ve gecikmesinde sakınca bulunan hâllerde; Cumhuriyet savcısına veya
+âmirlerine derhâl başvurma olanağı bulunmadığı takdirde, yakalama yetkisine
+sahiptirler.
+
+Soruşturma ve kovuşturması şikâyete bağlı olmakla birlikte, çocuklara, beden
+veya akıl hastalığı, malûllük veya güçsüzlükleri nedeniyle kendilerini idareden
+aciz bulunanlara karşı işlenen suçüstü hallerinde kişinin yakalanması şikâyete
+bağlı değildir.
+
+Yakalamanın gerçekleşmesi ile birlikte yakalama koruma tedbiri de sona erer.
+Kişi yakalandıktan sonra ya serbest bırakılır ya da bir başka koruma tedbiri
+olan gözaltı gündeme gelir.
+
+Yakalamada belirli bir oranda cebir kullanılması gerekebilir. Bu cebrin
+yakalamayı gerçekleştirecek miktarda ölçülü olması gerekir. Eğer ölçülülük
+aşılırsa işlem hukuka aykırı olacaktır.
+
+TIP: Çocuklar bakımından kelepçe asla uygulanamaz. Hatta 12 yaşından küçük
+çocuklar için yakalamaya karar verilemez.
+
+Kolluk, yakalandığı sırada kaçmasını, kendisine veya başkalarına zarar
+vermesini önleyecek tedbirleri aldıktan sonra, yakalanan kişiye kanunî
+haklarını derhal bildirir.
+
+Yakalama işlemi yapıldıktan sonra yakalanan kişinin üstü kaba üst araması
+şeklinde aranabilir.
+
+Yakalama işleminden sonra derhal yakalamanın yapılışına ilişkin bir tutanak
+tutulmalıdır. Ayrıca yakalanan kişi bir sağlık kuruluşuna götürülerek rapor
+alınmalıdır.
+
+CAUTION: Kişiyi yakalayan kolluk görevlisi ile sağlık raporu almaya götüren
+kolluk görevlisi aynı kişi olmamalıdır.
