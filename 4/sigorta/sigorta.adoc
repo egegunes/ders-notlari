@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İÇİNDEKİLER
+:toc-title: SİGORTA
 
 == SİGORTA ŞİRKETLERİ
 
@@ -413,7 +413,7 @@ yapılmadığı takdirde, kesinti yapılmadan, faiziyle birlikte geri verilir.
 
 Ticaret Kanunu 1483. madde hükümleri saklıdır.
 
-=== SİGORTA ACENTESİ
+== ACENTE
 
 *Sigorta acentesi*, ticarî mümessil, ticarî vekil, satış memuru veya müstahdem
 gibi tâbi bir sıfatı olmaksızın bir sözleşmeye dayanarak muayyen bir yer veya
@@ -437,12 +437,12 @@ Acente, aracılıkta bulunduğu veya yaptığı sözleşmelerle ilgili her türl
 ihbar ve protesto gibi hakkı koruyan beyanları müvekkili adına yapmaya ve
 bunları kabule yetkilidir.
 
-==== ACENTE OLMAK İÇİN GEREKLİ KOŞULLAR
+=== ACENTE OLMAK İÇİN GEREKLİ KOŞULLAR
 
 Hem gerçek hem de tüzel kişiler sigorta acentesi olabilir. Sigorta Acenteleri
 Yönetmeliğinde aranan şartlar belirtilmiştir.
 
-===== GERÇEK KİŞİ ACENTELER
+==== GERÇEK KİŞİ ACENTELER
 
 Acentelik faaliyetinde bulunacak gerçek kişilerde aşağıdaki nitelikler aranır.
 
@@ -464,7 +464,7 @@ olması.
 yeterli donanıma sahip olması.
 .. Mesleki deneyim süresini tamamlaması.
 
-===== TÜZEL KİŞİ ACENTELER
+==== TÜZEL KİŞİ ACENTELER
 
 Acentelik faaliyetinde bulunacak tüzel kişilerde aşağıdaki nitelikler aranır.
 
@@ -477,7 +477,7 @@ yeterli donanıma sahip olması.
 gerçek kişi ortaklarında gerçek kişi acenteler için aranan şartlarda belirtilen
 suçlardan birini işlememiş olma şartı aranır.
 
-==== DENKLEŞTİRME TAZMİNATI
+=== DENKLEŞTİRME TAZMİNATI
 
 Sözleşme ilişkisinin sona ermesinden sonra;
 
@@ -503,3 +503,117 @@ sebeplerle feshedilmişse, acente denkleştirme isteminde bulunamaz.
 Denkleştirme isteminden önceden vazgeçilemez. Denkleştirme istem hakkının
 sözleşme ilişkisinin sona ermesinden itibaren bir yıl içinde ileri sürülmesi
 gerekir.
+
+== BROKER
+
+*Broker*, sigorta veya reasürans sözleşmesi yaptırmak isteyenleri temsil
+ederek, bu sözleşmelerin yaptırılacağı şirketlerin seçiminde tamamen tarafsız
+ve bağımsız davranarak ve teminat almak isteyen kişilerin hak ve menfaatlerini
+gözeterek sözleşmelerin akdinden önceki hazırlık çalışmalarını yürütmeyi ve
+gerektiğinde sözleşmelerin uygulanmasında veya tazminatın tahsilinde yardımcı
+olmayı meslek edinen kişidir.
+
+Brokerlik faaliyetinde bulunacak gerçek kişilerde aşağıdaki nitelikler aranır:
+
+.. Türkiye’de yerleşik olması.
+.. Medeni hakları kullanma ehliyetine sahip olması.
+.. Kasten işlenen bir suçtan dolayı affa uğramış olsalar dahi 5 yıldan fazla
+hapis veya sigortacılık mevzuatına aykırı hareketlerinden dolayı hapis veya
+birden fazla adlî para cezasına mahkûm edilmemiş olması; devletin güvenliğine,
+Anayasal düzene ve bu düzenin işleyişine, milli savunmaya ve devlet sırlarına
+karşı suçlar ile casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık,
+sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma,
+edimin ifasına fesat karıştırma, bilişim sistemini engelleme, bozma, verileri
+yok etme veya değiştirme, banka veya kredi kartlarının kötüye kullanılması,
+suçtan kaynaklanan malvarlığı değerlerini aklama, terörün finansmanı,
+kaçakçılık, vergi kaçakçılığı veya haksız mal edinme suçlarından hüküm giymemiş
+olması.
+.. Asgari malvarlığı şartını yerine getirmiş olması.
+.. Brokerlik faaliyetinin yürütüleceği fiziksel mekân, teknik ve idari altyapı
+ile insan kaynakları bakımından yeterli donanıma sahip olması.
+.. Mesleki deneyim süresini tamamlaması.
+
+Brokerlik faaliyetinde bulunacak tüzel kişilerde aşağıdaki nitelikler aranır:
+
+.. Merkezlerinin Türkiye’de bulunması.
+.. Anonim veya limited şirket şeklinde kurulmuş olması.
+.. Asgari ödenmiş sermaye şartını yerine getirmiş olması.
+.. Brokerlik faaliyetinin yürütüleceği fiziksel mekân, teknik ve idari altyapı
+ile insan kaynakları bakımından yeterli donanıma sahip olması.
+.. Genel müdür ile faaliyette bulunulan branşlar itibarıyla sigortacılık veya
+sigortacılık tekniği ile ilgili konulardan sorumlu yeter sayıda genel müdür
+yardımcısı atanması.
+
+Brokerlik ruhsatı hayat, hayat dışı veya reasürans alanlarından bir veya
+birkaçında ayrı ayrı verilir. Brokerlik faaliyetinde bulunmak isteyen gerçek
+veya tüzel kişiler tarafından, Müsteşarlıkça belirlenecek usul ve esaslar
+çerçevesinde ruhsat verilmesini teminen başvuru yapılır.
+
+Brokerlik yetkisi, temsil edilecek tarafça sözleşmelerin akdinden önceki
+hazırlık çalışmalarını yürütmeyi ve gerektiğinde sözleşmelerin uygulanmasına
+ilişkin işlemleri gerçekleştirmeyi içeren yetki belgesi ile brokere verilir.
+Ancak, tarafların fizikî olarak karşı karşıya gelmesinin ve işin gereği olarak
+yetki belgesi verilmesinin söz konusu olmadığı hâllerde yetkilendirmenin sözlü
+veya elektronik olarak verilmesi mümkündür.
+
+Yetki belgesinde, yetkinin kapsamı, sınırı ve süresi açıkça belirtilir.
+Brokerlik yetkisi, broker tarafından başka brokerlere veya kişilere
+devredilmez.
+
+Yetki verilen brokerlerin, yetki belgelerini ibraz etmek suretiyle teklif
+alması, bu teklifleri ve karşılaştırmalı fiyatları brokerlik yetkisi veren
+tarafa bildirmesi esastır.
+
+Şirketler tarafından brokerlere verilecek yetkinin kapsam ve sınırı ile çalışma
+esasları protokolle belirlenebilir. Brokerler, şirketlere portföy taahhüdünde
+bulunamaz.
+
+Prim tahsilatının şirket tarafından doğrudan sigorta ettirenden yapılması
+esastır. Prim transferi konusunda brokerin şirket tarafından
+yetkilendirilmesine ilişkin Müsteşarlıkça usul ve esas belirlenebilir.
+
+Şirket tarafından prim transferi konusunda yetkilendirilen brokerlere yapılan
+ödeme şirkete yapılmış sayılır.
+
+Şirketlerce brokerlere yapılan prim iadeleri hak sahibi tarafından tahsil
+edilmedikçe ödenmiş sayılmaz.
+
+== AYDINLATMA YÜKÜMLÜLÜĞÜ
+
+Sigortacı ve acentesi, sigorta sözleşmesinin kurulmasından önce, gerekli
+inceleme süresi de tanınmak şartıyla kurulacak sigorta sözleşmesine ilişkin tüm
+bilgileri, sigortalının haklarını, sigortalının özel olarak dikkat etmesi
+gereken hükümleri, gelişmelere bağlı bildirim yükümlülüklerini sigorta ettirene
+yazılı olarak bildirir. Ayrıca, poliçeden bağımsız olarak sözleşme süresince
+sigorta ilişkisi bakımından önemli sayılabilecek olayları ve gelişmeleri
+sigortalıya yazılı olarak açıklar.
+
+TTK 1423 uyarınca öngörülen aydınlatma yükümlülüğü hem sözleşme müzakerelerinin
+devam ettiği dönemde hem de sözleşmenin kurulmasından sonraki döndem varlığını
+sürdürür.
+
+Aydınlatma açıklamasının verilmemesi hâlinde, sigorta ettiren, sözleşmenin
+yapılmasına ondört gün içinde itiraz etmemişse, sözleşme poliçede yazılı
+şartlarla yapılmış olur. Aydınlatma açıklamasının verildiğinin ispatı
+sigortacıya aittir.
+
+NOTE: Sigorta ettirenin 14 gün içinde yapacağı itiraz genel kabule göre
+sözleşmeyi sona erdirme beyanıdır. Bir görüşe göre sigorta sözleşmesi sürekli
+borç doğuran bir sözleşme olduğundan ileriye etkili şekilde sona erecektir.
+Diğer bir görüşe göre ise sözleşme bu 14 günlük süre boyunca askıda hükümsüzdür
+ve beyan ileri sürüldüğü takdirde baştan itibaren geçersiz sayılır.
+
+== SİGORTA POLİÇESİ VERME YÜKÜMLÜLÜĞÜ
+
+Sigortacı; sigorta sözleşmesi kendisi veya acentesi tarafından yapılmışsa,
+sözleşmenin yapılmasından itibaren yirmidört saat, diğer hâllerde onbeş gün
+içinde, yetkililerce imzalanmış bir poliçeyi sigorta ettirene vermekle
+yükümlüdür. Sigortacı poliçenin geç verilmesinden doğan zarardan sorumludur.
+
+NOTE: Poliçeyi düzenleyip verme süresi sigorta şirketinin kendisi veya A tipi
+acentesi için 24 saat, B tipi acente veya broker için 15 gündür.
+
+Sigorta ettiren poliçesini kaybederse, gideri kendisine ait olmak üzere, yeni
+bir poliçe verilmesini sigortacıdan isteyebilir.
+
+Poliçenin verilmediği hâllerde, sözleşmenin ispatı genel hükümlere tabidir.
