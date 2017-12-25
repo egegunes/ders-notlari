@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İÇİNDEKİLER
+:toc-title: DENİZ TİCARET
 
 == GEMİ
 
@@ -1005,3 +1005,57 @@ uncu maddesi hükmüne tabidir. Aynı tarihle kaydedilmiş bulunan haklar aynı
 derecededir. Gemi ipoteğinin derecelerinin değiştirilmesi ve ipoteğin malike
 karşı alacaklıya sağladığı hakların zamanaşımına uğraması ile ilgili hükümler
 burada da uygulanır.
+
+== DONATAN
+
+*Donatan*, gemisini menfaat sağlamak amacıyla suda kullanan gemi malikine
+denir.
+
+Kendisinin olmayan gemiyi menfaat sağlamak amacıyla suda kendi adına kullanan
+kişiye ise *gemi işletme müteahhidi* denir. Gemi işletme müteahhidi, gemiyi
+kullanmaktan kaynaklanan bütün haklara, borçlara, alacaklara sahiptir.
+
+CAUTION: Bir gemiyi aynı anda bir kişi işletebilir. Geminin maliki donatan
+sıfatını haiz ise orada gemi işletme müteahhidi yok demektir.
+
+Kendisinin olmayan bir gemiyi menfaat sağlamak amacıyla suda kendi adına bizzat
+veya kaptan aracılığıyla kullanan kişi, üçüncü kişilerle olan ilişkilerinde
+donatan sayılır.
+
+Malik, geminin işletilmesinden dolayı gemi alacaklısı sıfatıyla bir istemde
+bulunan kişiyi, bu işletilme malike karşı haksız ve alacaklı da kötüniyet
+sahibi olmadıkça, hakkını istemekten engelleyemez.
+
+=== DONATANIN SORUMLULUĞU
+
+Donatan, gemi adamlarının, zorunlu danışman kılavuzun veya isteğe bağlı
+kılavuzun görevlerini yerine getirirken işledikleri kusur sonucunda üçüncü
+kişilere verdiği zararlardan sorumludur.
+
+“Gemi adamları”; kaptan, gemi zabitleri, tayfalar ve gemide çalıştırılan diğer
+kişilerdir.
+
+Kılavuz, iç sularda seyrederken gemiyi yönlendiren yerel denizcidir. Danışman
+kılavuz, gemi kaptanına sadece danışmanlık hizmeti verir. Sevk ve idare
+kılavuzu ise geminin idaresini devralır.
+
+NOTE: Gemideki diğer gemi adamları da üçüncü kişidir. Üçüncü kişi gemiden
+tamamen bağımsız olmak zorunda değildir.
+
+Donatanın sorumluluğu kusursuz sorumluluktur. Öğretide donatanın sorumluluğunun
+ek sorumluluk olduğu kabul edilmektedir. Gemi adamı veya kılavuzun kusurlu bir
+eylemi ile bununla illiyet bağı içerisinde olan bir zarar meydana gelmesi
+halinde gemi adamı veya kılavuza ek olarak donatan da sorumlu olacaktır. Ek
+sorumluluk olmasının sonucu olarak gemi adamı veya kılavuz, kusurunun derecesi
+ya da zarara uğrayan kişinin mütefarik kusuru yüzünden zarardan kısmen sorumlu
+ise donatan da kısmen sourumlu olacaktır.
+
+Ancak, donatan, yolculara ve yükle ilgili kişilere karşı, taşıyanın gemi
+adamlarının kusurundan doğan sorumluluğuna ilişkin hükümlere göre sorumlu olur.
+
+TIP: Taşıyan sıfatına sahip olabilmek için bir kişinin eşya taşıma taahhüdünde
+bulunması yeterlidir.
+
+Donatanın, Türkiye Cumhuriyetinin taraf olduğu sorumluluğun sınırlandırılmasına
+ilişkin milletlerarası sözleşmelerden doğan sorumluluğunu sınırlandırma hakkı
+saklıdır.
