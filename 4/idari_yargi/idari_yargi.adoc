@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İÇİNDEKİLER
+:toc-title: İDARİ YARGILAMA
 
 == İDARİ DAVA
 
@@ -505,3 +505,102 @@ açılabilir.
 Görevli olmayan adli ve askeri yargı mercilerine *açılan tam yargı davasının
 görev yönünden reddi halinde* sonradan idari yargı mercilerine açılacak
 davalarda, yukarıda öngörülen *idareye başvurma şartı aranmaz*.
+
+== İDARİ İŞLEMİN İPTALİ
+
+=== YETKİ SAKATLIĞI
+
+Yetki bir işlemin kim tarafından yapıldığını bulmaya yönelik bir unsurdur.
+Sakat olup olmadığını anlamak için yapan makam ile aslında yapması gereken
+makam karşılaştırılmalıdır.
+
+İdare hukukunda yetkisizlik asıldır. Kime yetki verildiği mutlaka mevzuata
+dayalı olmalıdır, mevzuatta yoksa yetkisizlik söz konusudur ve işlem sakattır.
+
+IMPORTANT: Bir usul çerçevesinde bir makamın görüşü alınması ve karara
+katılması gerekıyorsa o usule uyulmaması usul sakatlığı değil yetki sakatlığı
+doğurur.
+
+Yetki unsuru bakımından sakat işlem, işlemi yetkili makam da yapsa sonuç
+değişmeyecek idiyse bile iptal edilecektir.
+
+Yetkili makamın sonradan işleme icazet vermesi geçerli değildir. İşlemin
+yapıldığı andaki hukuka uygunluğu esas alınır.
+
+TIP: İmar ve özellikle kıyılarla ilgili konularda Danıştay, icazeti yetki
+bakımından sakat bir işlemi hukuka uygun hale getiren bir müessese olarak
+tanımıştır.
+
+=== USUL SAKATLIĞI
+
+Usul işlem yapılırken izlenmesi gereken prosedürdür. Usul sakatlığı ikiye
+ayrılır: Esasa etkili usul sakatlığı, esasa etkili olmayan usul sakatlığı. Bir
+işlem ancak esasa etkili usul sakatlığı sebebiyle iptal edilebilir.
+
+=== MAKSAT UNSURU SAKATLIĞI
+
+Bir yetki usulüne göre kullanılmasına rağmen kullanılma amacı yetkinin tanınma
+amacı değil de siyasi bir amaç veya zarar verme amacı ise maksat sakatlığı söz
+konusudur.
+
+=== SEBEP VE KONU UNSURU SAKATLIĞI
+
+İdarenin yaptığı işlemler bir sebebe dayalı olmak zorundadır. İşlem tesis
+edilirken sebep gösterilmek zorunda değildir ancak sebebe dayalı yapılması
+gerekir.
+
+Sebep sakatlığı iki türlü ortaya çıkabilir: Hukuki sebep sakatlığı ve maddi
+sebep sakatlığı.
+
+İdare mevzuatta öngörülmemiş bir sebebe dayanırsa hukuki sebep sakatlığı ortaya
+çıkar. İşlemin sebebi olarak esas alınan maddi unsur gerçekleşmemiş ise maddi
+sebep sakatlığı söz konusudur.
+
+Konu sakatlığı, hukuki sebep sakatlığı sonucunda ortaya çıkabileceği gibi
+mevzuatta olmayan bir işlem tesis edilmesi halinde de söz konusu olabilir.
+
+== İDARENİN SORUMLULUĞU
+
+İdare hukuku tekniği bakımından devlet denildiğinde anlaşılması gereken merkezi
+idaredir. Ancak devlet geniş anlamda yasama, yürütme ve yargı faaliyetleridir.
+
+İdari işlemler sonucunda bir birey zarar görmüş ise bu zararların tazmini için
+tam yargı davası açabilecektir.
+
+İdarenin sorumluluğu ya kusur sorumluluğu ya da kusursuz sorumluluktur.
+
+Kusur sorumluluğu için idarenin bir hizmet kusurunun olması gerekir. Hizmet
+kusuru; hizmetin geç işlemesi, kötü işlemesi veya hiç işlememesidir.
+
+Mücbir sebep, üçüncü kişinin kusuru veya birlikte kusur hali varsa idarenin
+kusur sorumluluğu belli oranda azalır veya kaldırılır.
+
+NOTE: Danıştay son zamanlarda idare tarafından yapılan bir işlem hukuka aykırı
+ise bunu hizmet kusuru olarak yorumlamaktadır. Dolayısıyla bunlardan doğan
+zararlardan da idarenin sorumluluğu söz konusudur.
+
+İdarenin kusursuz sorumluluk hallerinden ilki **risk esası**dır. İdarenin bazı
+tehlikeli faaliyetleri sonucu ne kadar tedbir alınmış olursa olunsun bir zarar
+ortaya çıkmışsa idarenin sorumluluğu söz konusu olacaktır.
+
+Diğer bir kusursuz sorumluluk hali **fedakarlığın denkleştirilmesi veya kamu
+külfetleri karşısında eşitlik ilkesi**dir. İdarenin kamu yararı için yürüttüğü
+faaliyetler sonucunda birtakım üçüncü kişilerin zararı söz konusu olmuşsa
+idarenin bunu tazmin etmesi gerekir.
+
+Son kusursuz sorumluluk hali ise **sosyal risk**tir. Toplum içinde yaşamaktan
+kaynaklanan birtakım risklerden (terör, toplumsal eylemler) kaynaklanan
+zararlar söz konusu olduğunda bu zarardan idarenin sorumlu olacağı kabul
+edilmektedir. Sosyal risk ilkesine dayanmak için idarenin zararın meydana
+gelmemesi için gerekli tüm tedbirleri almış olması gerekir.
+
+Kamu görevlilerinin, zorunlu askerliğini yapan kişilerin bu görevlerini
+yürütürken uğradıkları zararlardan da idare sorumludur.
+
+Genel yaklaşıma göre yasama organının yasama faaliyetlerinden dolayı devletin
+sorumluluğu doğmaz. Aynı şekilde yargı organının yargılama faaliyetlerinden
+dolayı da devletin sorumluluğu söz konusu değildir.
+
+NOTE: Yasama ve yargı organlarının kendı faaliyetleri dışında idari
+faaliyetleri söz konusu olduğunda bundan doğan zararlardan devletin sorumluluğu
+söz konusu olabilecektir.
