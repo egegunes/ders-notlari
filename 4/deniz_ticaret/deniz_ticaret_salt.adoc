@@ -1059,3 +1059,281 @@ bulunması yeterlidir.
 Donatanın, Türkiye Cumhuriyetinin taraf olduğu sorumluluğun sınırlandırılmasına
 ilişkin milletlerarası sözleşmelerden doğan sorumluluğunu sınırlandırma hakkı
 saklıdır.
+
+[NOTE]
+====
+Donatanın sorumluluğunu düzenleyen TTK 1062, gemi alacaklısı hakkının doğumuna
+sebep olabilecek bir maddedir. Bu madde uyarınca donatanın sorumluluğu söz
+konusu olduğunda eğer üçüncü kişinin bir bedensel zararı varsa gemi alacaklısı
+hakkı doğmaktadır. Yine sözleşme dışı haksız fiilden kaynaklanan bir maddi
+zarar söz konusu ise bu da tazminat alacaklısına gemi alacaklısı hakkı
+vermektedir.
+====
+
+[TIP]
+====
+Adam çalıştıranın sorumluluğunu düzenleyen TBK 66 ile donatanın sorumluluğunu
+düzenleyen TTK 1062 yan yana mı yer alır, yoksa birbirinin yerine mi geçer?
+
+Doktrinde ağırlıklı olarak kabul edilen görüşe göre TTK 1062, TBK 66'nın yerine
+getirilmiş özel bir hüküm değil, yanında yer alan bir düzenlemedir. Kişi
+isterse TBK 66'ya isterse TTK 1062'ye dayanabilir.
+====
+
+=== SORUMLULUĞUN SINIRLANDIRILMASI
+
+TTK, 1976 tarihli Londra Konvansiyonu'na doğrudan atıfta bulunarak sorumluluğun
+sınırlandırıması hususunda hiçbir yabancılık unsuru bulunmayan olaylarda dahi
+bu antlaşma hükümlerinin uygulanacağını düzenlemiştir.
+
+TIP: Kanun koyucu ayrıca ileride Londra Konvansiyonu'nun yerine geçmek üzere
+yeni bir antlaşma yapılırsa bu antlaşmanın kendiliğinden Türk Hukukunda da
+geçerli olacağını düzenlemiştir.
+
+Hakim re'sen sorumluluğu Konvansiyon'a göre sınırlayamaz. Sorumluluğuna gidilen
+kişinin bunu ileri sürmesi gerekir.
+
+Londra Konvansiyonu'nda sorumluluğun dayanağı ne olursa olsun bu sınırlama
+sisteminin uygulanacağı hüküm altına alınmıştır.
+
+Londra Konvansiyonu'na göre sorumluluğun sınırlandırılabilmesi için aşağıdaki
+şartların gerçekleşmesi gerekir:
+
+. Sorumluluğuna gidilen kişinin konvansiyonda sorumluluğu sınırlandırılabilecek
+kişiler arasında sayılmış olması gerekir.
+
+.. *Gemi maliki*
+
+... _Malik_
+... _Donatan_
+... _İşleten_
+... _Çarterer_
+... _Yönetici_
+
+.. *Kurtartma faaliyeti yürütenler*
+.. *Yardımda bulunan kişiler*
+
+... _Kaptan_
+... _Gemi adamları_
+... _Kurtaranın yardımcıları_
+
+.. *Sorumluluk sigortacısı*
+
+. İhtilaf konusu alacağın da sınırlandırılabilecek alacaklardan biri olması
+gerekir.
+
+.. *Geminin işletilmesi veya kurtarma faaliyeti ile doğrudan meydana gelebilecek
+kişi veya eşya zararlarından doğan alacaklar*
+.. *Sözleşme dışı hakların ihlalinden doğan diğer bütün zararlardan doğan
+alacaklar*
+.. *Eşya veya yolcu taşıma sözleşmesinin ifasında gecikmeden ileri gelen bütün
+zararlardan doğan alacaklar*
+.. *Yukarıdaki zararların azaltılması ya da doğmasının önlenmesi için üçüncü
+kişilerin aldıkları tedbirlere dayanan alacaklar*
+
+. İhtilaf konusu alacağın sınırlandırılamayacak alacaklardan biri olmaması
+gerekir.
+
+.. *Enkaz kaldırmadan doğan alacaklar*
++
+TIP: 1976 Konvansiyonu bunu sorumluluğun sınırlandırılabileceği alacaklar
+arasında saymış, ancak devletlerin bunu istisna edebileceğini düzenlemiştir.
+TTK 1331 ile bu alacak bakımından sorumluluğun sınırlandırılamayacağı
+düzenlenmiştir.
+.. *Kurtarma alacağı*
+.. *Müşterek avarya garame alacağı*
+.. *Petrol Kirliliği Sözleşmesi anlamında bir petrol kirliliği zararından doğan
+alacaklar*
+.. *Nükleer zararlardan doğan alacaklar*
+..  *Gemi maliki ile yardımda bulunanların çalıştırdığı kişilerin hizmet
+sözleşmesinden doğan alacakları*
+
+Donatan veya sorumluluğunu sınırlandırabilecek diğer kişiler, şahsi fiil ve
+ihmalinden ileri gelen zarara kasten veya pervasızca bir hareketle ve
+muhtemelen böyle bir zarar meydana geleceği bilinci ile sebebiyet verirse
+sorumluluğunu sınırlama hakkını kaybedecektir.
+
+CAUTION: Kaptanın zarara kasten veya pervasızca bir hareketle ve muhtemelen
+zararın meydana geleceği bilinci ile sebebiyet vermesi halinde donatanın
+sorumluluğunu sınırlandırma hakkı etkilenmez.
+
+Sorumluluğu sınırlama hakkının kaybedilmesinde aşağıdaki kişilerin kusuru
+dikkate alınacaktır:
+
+.. Gerçek kişilerde, her bir gerçek kişinin kusuru.
+.. Tüzel kişilerde, Türk Medenî Kanununun 50 nci maddesi uyarınca eylem ve
+işleriyle tüzel kişiyi borç altına sokan organların kusuru ve organı oluşturan
+kişilerin kusurları.
+.. Adi şirketlerde şirket ortaklarının kusuru.
+.. Donatma iştirakinde, paydaş donatanların ve gemi müdürünün kusuru.
+.. Yukarıda sayılan kişileri, genel veya özel bir yetkiye dayanarak temsil eden
+kişilerin kusuru. Örn. gemi yöneticisi.
+
+Sorumluluğun sınırlanması talebi bir fon tesisi yoluyla yapılabileceği gibi fon
+tesis edilmeden sadece sorumluluğun konvansiyon uyarınca sınırlandırılması
+talebi ile de ileri sürülebilir.
+
+1976 ve 1992 tarihli sözleşmeler uyarınca fon kurulması konusunda görevli
+mahkeme, deniz ticareti işlerine bakmakla görevli asliye ticaret mahkemesi, bu
+mahkemenin bulunmadığı yerlerde bu işle görevlendirilmiş asliye ticaret
+mahkemesi, o da yoksa, fonun miktarına bakılmaksızın, bu işle görevlendirilmiş
+asliye hukuk mahkemesidir.
+
+1976 ve 1992 tarihli sözleşmeler uyarınca fon kurulması konusunda, bir Türk
+Gemi Siciline kayıtlı olan gemilerde, o gemi sicilinin gözetimi altında
+tutulduğu mahkeme, sicile kayıtlı olmayan Türk gemilerinde malikin yerleşim
+yeri mahkemesi, yabancı gemilerde ise, deniz ticareti işlerine bakmakla görevli
+İstanbul Asliye Ticaret Mahkemesi yetkilidir.
+
+Sorumluluğun sınırlanabilmesi için bir fon kurulmuşsa sorumlu kişi aleyhine
+aynı olaydan doğan tüm istemler için geçerlidir. Eğer birden fazla kişinin
+sorumluluğuna gidiliyorsa fon hepsi için geçerli olacaktır.
+
+Bir alacağın, 1976 veya 1992 tarihli sözleşmeler uyarınca kurulan fonlara
+gireceği, fonun kurulduğu mahkeme tarafından kabul edildiği anda, o alacağa
+ilişkin bütün ayni ve şahsî teminatlar sona erer. Bu ayni ve şahsî
+teminatların, o alacağa sağladığı öncelikler, fon paylaştırmasında dikkate
+alınmaz.
+
+1976 veya 1992 tarihli sözleşmeler uyarınca kurulan fonlar, yalnız, haklarında
+sınırlı sorumluluk ileri sürülebilecek olan alacakların ödenmesinde
+kullanılabilir. Fon kurulması yoluyla sorumluluğunu sınırlayan kişinin diğer
+alacaklıları, hiçbir şekilde bu fonlara başvuramaz. Fonların
+paylaştırılmasından sonra bir bakiye kalırsa, fonu kuran kişinin diğer
+alacaklıları, bu bakiyeyi takip edebilir.
+
+== DENİZ KİRLİLİĞİ
+
+=== PETROL KİRLİLİĞİ SÖZLEŞMESİ
+
+TTK 1336 uyarınca Petrol Kirliliği Sözleşmesi, olayda yabancılık unsuru
+bulunsun bulunmasın Türkiye'de meydana gelen bir olayda uygulama şartları
+gerçekleşmişse doğrudan uygulanır.
+
+Petrol Kirliliği Sözleşmesi'nin kapsamına petrol ve türevleri olan dayanaklı
+hidrokarbon mineralleri taşımak için dizayn edilmiş, inşa edilmiş veya tadil
+edilmiş gemiler, *tankerler*, girer.
+
+Petrol Kirliliği Sözleşmesi'nin konusu bir tankerde yük olarak taşınan veya
+yakıt tankında yakıt olarak taşınan petrol ve türevlerinin sebep olduğu
+kirlilik zararı ve bu zararın önlenmesi için alınan tedbirlerin masraflarıdır.
+
+TIP: Tankerden kaynaklanan petrol kirliliğinde her zaman Petrol Kirliliği
+Sözleşmesi uygulanır.
+
+Kirlenme zararı söz konusu ise, zararın taraf devletin kara sularında veya münhasır
+ekonomik bölgelerinde meydana gelmiş olması gerekir. Ancak kirliliğin önlenmesi
+için alınan tedbir açık denizde bile olsa masrafı istenebilir.
+
+Sözleşme, sorumlu kişiyi yalnızca donatan olarak belirtmiştir. Geminin
+mülkiyetinin sonradan el değiştirmesi sorumlu kişiyi değiştirmez. Zararın
+meydana geldiği sırada donatan kimse sorumlu odur.
+
+Kural yalnızca donatanın sorumlu olmasıdır ama zarara kasten veya pervasızca
+bir hareketle ve muhtemelen böyle bir zararın meydana geleceği bilinci ile
+hareket ederek neden olmuş başka kişiler varsa bunların da sorumluluğuna
+gidilebilir.
+
+Sözleşme uyarınca sorumluluk, kusursuz sorumluluktur. Donatanın sorumluluktan
+kurtulabilmesi için nedensellik bağını kesen bir sebebin varlığı şarttır.
+Sözleşmede sayılan sebepler:
+
+. Savaş, mücbir sebep vb. haller
+. Üçüncü kişinin kastı
+. Seyir yardımcıları bakımından sorumlu idarenin buna ilişkin kusuru
+
+TTK 1336 uyarınca Petrol Kirliliği Sözleşmesi'nin uygulanma şartları
+gerçekleşmişse yalnızca ve yalnızca bu sözleşme uygulanır.
+
+Sözleşmeden doğan sorumluluk 1976 Konvansiyonu gibi sınırlandırılmıştır. Ancak
+zarara kasten veya pervasızca bir hareketle ve muhtemelen böyle bir zarar
+meydana gelebileceği bilinci ile hareket ederek sebep olunmuşsa sorumluluğu
+sınırlandırma hakkından yararlanılamaz.
+
+Zarara uğrayan kişinin mütefarik kusuru varsa davaya bakan mahkeme tazminatı
+indirebilir veya tamamen kaldırabilir.
+
+Zarara iki tanker müşterek kusurlarıyla sebebiyet vermişse ve tankerlerin
+zarara hangi oranda sebebiyet verdiği tespit edilemiyorsa müteselsilen sorumlu
+olurlar.
+
+Sözleşmeden doğan talepler zararın meydana geldiği tarihten itibaren *üç yıl*
+ve her halükarda zarara neden olan olaydan itibaren *altı yıl* içerisinde ileri
+sürülmelidir. Süreler hak düşürücüdür.
+
+=== YAKIT KİRLİLİĞİ SÖZLEŞMESİ
+
+Yakıt Kirliliği Sözleşmesi, olayda yabancılık unsuru bulunsun bulunmasın
+Türkiye'de meydana gelen bir olayda uygulama şartları gerçekleşmişse doğrudan
+uygulanır.
+
+Sözleşmenin kapsamı, her türlü geminin, deniz aracının çalıştırılması veya
+işletilmesi için kullanılan petrol ve türevlerinin neden olduğu kirlilik
+zararlarıdır.
+
+Sözleşme uyarınca sorumlu kişi donatan, kiracı, yönetici veya işleten olabilir.
+Bunun dışında hükümleri Petrol Kirliliği Sözleşmesi ile aynıdır.
+
+=== DENİZ KİRLİLİĞİ KANUNU
+
+Kanunun kapsamına deniz kirliliği yaratan her türlü madde girer.
+
+Kanun, tonaj bakımından ayrım yapılmaksızın her türlü gemiden kaynaklanan
+zararlara uygulanır. Ayrıca kıyı tesisleri de kanun kapsamındadır.
+
+Zararın tazmini ve koruyucu önlemlerin karşılanması konusunda yükümlülük
+atfedilebilecek kişiler kanun kapsamındaki gemiler ile kıyı tesislerinin
+sahipleri, işletenleri, kaptanları, idare edenleri, kiracıları, zilyetleri ve
+garantörleridir.
+
+Bu Kanun kapsamına giren gemi ve kıyı tesislerinin sorumlu tarafları, uygulama
+alanlarında gemi ve kıyı tesislerinden kaynaklanan olay sonucu ortaya çıkan
+kirlenmenin veya kirlenme tehlikesinin neden olduğu;
+
+* temizleme masraflarını,
+* koruyucu önlemlere ilişkin masrafları,
+* canlı kaynaklar ve deniz yaşamına verilen zararları,
+* bozulan çevrenin yeniden oluşturulması, toplanan atıkların taşınması ve
+bertarafı için yapılacak masrafları,
+* geçim için kullanılan doğal ve canlı kaynaklarda meydana gelen zararları,
+* özel mallardaki zararları,
+* şahısların yaralanması ve ölümünden kaynaklanan zararları,
+* gelir kayıplarını,
+* gelir ve kazanç kapasitelerine verilen zararları
+* diğer kamu zararlarını
+
+tazmin etmekle müteselsilen sorumludur.
+
+İki veya daha fazla geminin karışmasıyla meydana gelen bir olayda ortaya çıkan
+zarardan tüm gemilerin sorumlu tarafları müştereken ve müteselsilen sorumludur.
+
+Gemi başına sorumlu taraf yükümlülüğünün toplamı ve sorumlu tarafa yüklenecek
+azamî tazminat miktarı konusunda Türkiye'nin taraf olduğu uluslararası sözleşme
+hükümleri saklıdır.
+
+Bu Kanun kapsamındaki olaylar nedeniyle tazminat taleplerinde zamanaşımı
+süresi, diğer kanunlarda daha uzun bir süre öngörülmedikçe, zararın öğrenildiği
+ve sorumlu tarafın tespit edildiği tarihten itibaren beş yıl, her hâlde olayın
+meydana geldiği tarihten veya olay, olaylar zincirinden meydana geliyorsa son
+olayın meydana geldiği tarihten itibaren on yıldır. Zamanaşımı süresine ilişkin
+olarak Türkiye'nin taraf olduğu uluslararası sözleşme hükümleri saklıdır.
+
+NOTE: Petrolden doğan zararlarda ancak bir kıyı tesisinden, örneğin bir petrol
+boru hattından petrol sızmışsa Deniz Kirliliği Kanunu uygulanabilir.
+
+=== ÇEVRE KANUNU
+
+Çevre Kanunu deniz kirliliğine özgü bir kanun değildir. Bütün ortamlarda
+meydana gelebilecek kirlilik Çevre Kanununun kapsamındadır.
+
+Çevre Kanununda kirlenmeden dolayı bir idari para cezası öngörülmüştür. Bir
+olayda Petrol Kirliliği Sözleşmesi, Yakıt Kirliliği Sözleşmesi ya da Deniz
+Kirliliği Kanunu uyarınca sorumluluk doğarsa Çevre Kanunu uyarınca idari para
+cezası da kesilebilir.
+
+Kanun uyarınca kirliliğe kim sebep olmuşsa sorumlu da odur. Kusursuz sorumluluk
+söz konusudur. Ayrıca sorumluluğun sınırlandırılması da söz konusu değildir.
+
+Çevreye verilen zararların tazminine ilişkin talepler zarar görenin zararı ve
+tazminat yükümlüsünü öğrendiği tarihten itibaren beş yıl sonra zamanaşımına
+uğrar.
