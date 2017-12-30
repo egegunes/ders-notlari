@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İÇİNDEKİLER
+:toc-title: MÖHUK
 
 == LEX FORI VE LEX CAUSA
 
@@ -305,11 +305,26 @@ mahkemelerinden biri
 Bir davanın Türk vatandaşlarının kişi hallerine ilişkin sayılması için:
 
 . Taraflardan biri Türk vatandaşı olmalıdır.
++
+TIP: Türk vatandaşı olma hali Vatandaşlık Kanunu'na göre belirlenir. Bir kişi
+Türkiye nüfus sistemine kayıtlı olmasa bile Vatandaşlık Kanunu'na göre
+vatandaşlığı kazanmış ise MOHUK 41 işletilecektir.
 . Dava sonucunda verilen karar kişinin şahsi statüsünü değiştirecek olmalıdır.
 Örneğin ehliyetin kısıtlanması, gaiplik, boşanma, velayet.
-
++
 TIP: Yargıtay, yakın zamanlı bir kararında, çocuk mallarının korunmasına
 ilişkin davaların kişi hallerine ilişkin olduğuna içtihat etmiştir.
+. Davanın yabancı mahkemede açılmaması veya açılamaması gerekmektedir.
++
+NOTE: Bu durum *milletlerarası derdestliğin* kabul edildiği bir haldir.
+Derdestliğin olması için aynı taraflar arasında, aynı konuda ve aynı sebeplerle
+bir dava açılması gerekir. Bir görüşe göre MÖHUK 41 uyarınca Türk
+mahkemelerinin milletlerarası yetkisinin engellenmesi yabancı bir mahkemede
+görülmekte olan bir davanın olması halinde söz konusu olacaktır. Diğer bir
+görüşe göre ise yabancı ülkede açılan davada karar verilmişse bu da Türk
+mahkemelerinin milletlerarası yetkisi bakımından engel teşkil edecektir.
+
+==== YABANCILARIN KİŞİ HÂLLERİNE İLİŞKİN DAVALAR
 
 [caption=""]
 .MOHUK 42 - Yabancıların kişi hâllerine ilişkin bazı davalar
@@ -319,6 +334,41 @@ kısıtlılık, gaiplik ve ölmüş sayılma kararları ilgilinin Türkiye'de s�
 olduğu yer, sâkin değilse mallarının bulunduğu yer mahkemesince verilir.
 ====
 
+MÖHUK 42'nin uygulanabilmesi için öncelikle Türkiye'de yerleşim yeri bulunmayan
+bir yabancının söz konusu olması gerekir.
+
+[caption=""]
+.MOHUK 10 - Vesâyet, kısıtlılık ve kayyımlık
+====
+(1) Vesâyet veya kısıtlılık kararı verilmesi veya sona erdirilmesi sebepleri,
+hakkında vesâyet veya kısıtlılık kararının verilmesi veya sona erdirilmesi
+istenen kişinin millî hukukuna tâbidir.
+
+(2) Yabancının millî hukukuna göre vesâyet veya kısıtlılık kararı verilmesi
+mümkün olmayan hâllerde bu kişinin mutad meskeni Türkiye'de ise Türk hukukuna
+göre vesâyet veya kısıtlılık kararı verilebilir veya kaldırılabilir. Kişinin
+zorunlu olarak Türkiye’de bulunduğu hâllerde de Türk hukuku uygulanır.
+
+(3) Vesâyet veya kısıtlılık kararı verilmesi veya sona erdirilmesi sebepleri
+dışında kalan bütün kısıtlılık veya vesâyete ilişkin hususlar ve kayyımlık Türk
+hukukuna tâbidir.
+====
+
+[caption=""]
+.MOHUK 11 - Gaiplik veya ölmüş sayılma
+====
+Gaiplik veya ölmüş sayılma kararı, hakkında karar verilecek kişinin millî
+hukukuna tâbidir. Millî hukukuna göre hakkında gaiplik veya ölmüş sayılma
+kararı verilemeyen kişinin mallarının Türkiye'de bulunması veya eşinin veya
+mirasçılardan birinin Türk vatandaşı olması hâlinde, Türk hukukuna göre gaiplik
+veya ölmüş sayılma kararı verilir.
+====
+
+MÖHUK 10 ve 11'in uygulanabilmesi için Türkiye'de yer itibariyle yetkili bir
+mahkemenin olması gerekir. MÖHUK 42 burada devreye girecektir.
+
+==== MİRAS DAVALARI
+
 [caption=""]
 .MOHUK 43 - Miras davaları
 ====
@@ -326,6 +376,22 @@ Mirasa ilişkin davalar ölenin Türkiye'deki son yerleşim yeri mahkemesinde, s
 yerleşim yerinin Türkiye'de olmaması hâlinde terekeye dâhil malların bulunduğu
 yer mahkemesinde görülür.
 ====
+
+Bir kişi öldüğünde mirastan hak talep eden kişiler öncelikle mahkemeye
+başvurarak mirasçılık belgesi alır. Mirasçılık belgesi almak için yapılan
+başvuru bir dava değil çekişmesiz yargı işidir. Çekişmesiz yargı işleri MÖHUK
+43'ün kapsamına girmemektedir. Mirasçılık belgesi başvurusu için Türkiye
+mahkemelerinin milletlerarası yetkisi HMK 384'e göre belirlenecektir.
+
+Mirasçılardan biri mirasçılık belgesinin iptalini isterse bu bir çekişmeli
+yargı işidir ve dolayısıyla burada milletlerarası yetki MÖHUK 43'e göre
+belirlenecektir.
+
+TIP: Yakın zamanlı bir düzenleme ile mirasçılık belgesinin noterlerden alınma
+imkanı getirilmiştir. Ancak Noter Kanununda yer alan düzenleme uyarınca
+mirasçılık belgesini talep eden kişi yabancı ise noter bu belgeyi düzenleyemez.
+
+==== İŞ SÖZLEŞMESİ VE İŞ İLİŞKİSİ DAVALARI
 
 [caption=""]
 .MOHUK 44 - İş sözleşmesi ve iş ilişkisi davaları
@@ -335,6 +401,11 @@ işini mutaden yaptığı işyerinin Türkiye’de bulunduğu yer mahkemesi yetk
 İşçinin, işverene karşı açtığı davalarda işverenin yerleşim yeri, işçinin
 yerleşim yeri veya mutad meskeninin bulunduğu Türk mahkemeleri de yetkilidir.
 ====
+
+MÖHUK 44 bir özel milletlerarası yetki kuralı tesis ettiği için artık İş
+Mahkemeleri Kanunu'nda yer alan yetki kuralı uygulanmayacaktır.
+
+==== TÜKETİCİ SÖZLEŞMESİNE İLİŞKİN DAVALAR
 
 [caption=""]
 .MOHUK 45 - Tüketici sözleşmesine ilişkin davalar
@@ -350,6 +421,38 @@ mahkemesidir.
 ====
 
 [caption=""]
+.MOHUK 45 - Tüketici sözleşmesine ilişkin davalar
+====
+Meslekî veya ticarî olmayan amaçla mal veya hizmet ya da kredi sağlanmasına
+yönelik tüketici sözleşmeleri, tüketicinin mutad meskeni hukukunun emredici
+hükümleri uyarınca sahip olacağı asgarî koruma saklı kalmak kaydıyla,
+tarafların seçtikleri hukuka tâbidir.
+
+Tarafların hukuk seçimi yapmamış olması hâlinde, tüketicinin mutad meskeni
+hukuku uygulanır. Tüketicinin mutad meskeni hukukunun uygulanabilmesi için;
+
+.. Sözleşme, tüketicinin mutad meskeninin bulunduğu ülkede, ona gönderilen özel
+bir davet üzerine veya ilân sonucunda kurulmuş ve sözleşmenin kurulması için
+tüketici tarafından yapılması gerekli hukukî fiiller bu ülkede yapılmış veya
+.. Diğer taraf veya onun temsilcisi, tüketicinin siparişini bu ülkede almış
+veya
+.. İlişkinin bir satım sözleşmesi olması hâlinde, satıcı tüketiciyi satın
+almaya ikna etmek amacıyla bir gezi düzenlemiş ve tüketici de bu gezi ile
+bulunduğu ülkeden başka ülkeye gidip siparişini orada vermiş,
+
+olmalıdır.
+
+(3) İkinci fıkradaki şartlar altında yapılan tüketici sözleşmelerinin şekline,
+tüketicinin mutad meskeni hukuku uygulanır.
+
+(4) Bu madde, paket turlar hariç, taşıma sözleşmeleri ve tüketiciye hizmetin
+onun mutad meskeninin bulunduğu ülkeden başka bir ülkede sağlanması zorunlu
+olan sözleşmelere uygulanmaz.
+====
+
+==== SİGORTA SÖZLEŞMESİNE İLİŞKİN DAVALAR
+
+[caption=""]
 .MOHUK 46 - Sigorta sözleşmesine ilişkin davalar
 ====
 Sigorta sözleşmesinden doğan uyuşmazlıklarda, sigortacının esas işyeri veya
@@ -361,9 +464,21 @@ mutad meskeni mahkemesidir.
 
 === YETKİ ANLAŞMASI
 
+Yetki anlaşmaları usul hukukuna özgü sözleşmelerdir. Usuli meselelerde _lex
+fori_ ilkesi hakimdir. Dolayısıyla yetki sözleşmelerinin geçerlilikleri ve
+doğuracakları etkiler hakimin hukukuna göre belirlenecektir. Gerek Türkiye
+mahkemelerini yetkilendiren gerekse yabancı mahkemeleri yetkilendiren yetki
+sözleşmelerinin geçerlilikleri Türk hukukuna göre belirlenecektir.
+
 Taraflar yetki anlaşması ile Türkiye mahkemelerini yetkili kılmışsa bunun
 şartları ve sonuçları HMK 18'e tabi olacaktır. Eğer yabancı bir mahkeme yetkili
 kılınmışsa MOHUK 47'ye tabi olacaktır.
+
+Taraflar tacir veya kamu tüzel kişisi değil ise Türkiye mahkemelerini
+yetkilendiren bir milletlerarası yetki sözleşmesi yapamazlar. Ancak
+mahkemelerin yetkisi kural olarak kamu düzenine ilişkin olmadığından yetki
+sözleşmesi geçersiz olsa dahi yetki itirazında bulunulmamışsa mahkeme yetkili
+hale gelir.
 
 [caption=""]
 .MOHUK 47 - Yetki anlaşması ve sınırları
@@ -380,3 +495,28 @@ görülür.
 anlaşmasıyla bertaraf edilemez.
 ====
 
+Yabancı bir mahkemenin yetki sözleşmesi ile yetkilendirilebilmesi için
+aşağıdaki şartlar aranır:
+
+. Yabancılık unsuru taşıyan bir uyuşmazlık
++
+TIP: Bir görüşe göre ihtilaf bakımından yabancı bir hukuk sisteminin seçilmiş
+olması da o ihtilafın yabancılık unsuru taşıdığı anlamına gelir.
+. Bu uyuşmazlığın bir borç ilişkisinden kaynaklanması
+. Bir münhasır yetkinin bulunmaması
+
+CAUTION: Yetki sözleşmesiyle bir yabancı mahkemenin yetkilendirilmesi hak arama
+özgürlüğüne aykırılık teşkil etmemelidir. Yetkilendirilen mahkeme hiçbir
+şekilde sonuca ulaşılmasının mümkün olmadığı bir mahkeme ise, adil bir
+yargılama yapılamayacağı çok açık bir şekilde ortadaysa yabancı mahkemeyi
+yetkilendiren yetki sözleşmesi geçersiz olacaktır.
+
+Geçerli bir yetki sözleşmesi ile yabancı bir mahkemeye yetki verilmesi halinde
+MÖHUK 47 uyarınca yabancı mahkeme lehine münhasır yetki tesis edilmiş olur.
+Ancak yabancı mahkeme yapılmış yetki sözleşmesini geçerli kabul etmeyerek
+kendini yetkisiz görebilir. Yabancı mahkeme kendini yetkisiz gördüğün de dava
+artık Türkiye mahkemelerinde görülebilecektir.
+
+Yine yabancı bir mahkemeye yetki veren yetki sözleşmesine rağmen taraflardan
+biri Türkiye mahkemelerinde dava açmış ve karşı taraf yetki itirazında
+bulunmamışsa Türkiye mahkemesi yetkili olacaktır.
