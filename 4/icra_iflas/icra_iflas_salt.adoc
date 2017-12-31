@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İÇİNDEKİLER
+:toc-title: İCRA İFLAS
 
 == İCRA TEŞKİLATI
 
@@ -772,7 +772,50 @@ sözleşmeleri yapmaları halinde taksit sözleşmesinin ihlaline kadar geçen z
 hesaba katılmaz.
 
 Haciz talebi kanuni müddet içinde yapılmaz veya geri alındıktan sonra bu müddet
-içinde yenilenmezse dosya muameleden kaldırılır.
+içinde yenilenmezse dosya muameleden kaldırılır. Yeniden haciz istemek,
+alacaklı tarafından vukubulan yenileme talebinin borçluya tebliğine
+mütevakkıftır. İlama müstenit olmayan takiplerde yenileme talebi üzerine
+yeniden harc alınır. Yenileme masraf ve harcları borçluya tahmil edilmez.
+
+İcra dairesi talepten nihayet üç gün içinde haczi yapar.
+
+Haczolunacak mallar başka yerde ise haciz yapılmasını malların bulunduğu yerin
+icra dairesine hemen yazar. Bu halde hacizle ilgili şikayetler, istinabe olunan
+icra dairesinin tabi bulunduğu icra mahkemesince çözümlenir. Resmî sicile
+kayıtlı malların haczi, takibin yapıldığı icra dairesince, kaydına işletilmek
+suretiyle doğrudan da yapılabilir.
+
+Borçlu haciz sırasında malın bulunduğu yerde bulunmaz ve hemen bulundurulması
+mümkün olmazsa haciz, gıyabında yapılır.
+
+Talep vukuunda borçlu kilitli yerleri ve dolapları açmağa vesair eşyayı
+göstermeğe mecburdur. Bu yerler icabında zorla açtırılır.
+
+Haczi yapan memur, borçlunun üzerinde para, kıymetli evrak, altın veya gümüş
+veya diğer kıymetli şeyleri sakladığını anlar ve borçlu bunları vermekten
+kaçınırsa, borçlunun şahsına karşı kuvvet istimal edilebilir.
+
+Taşınır bir malı haciz için mahallinde bir tutanak tutulur. Tutanakta alacaklı
+ve borçlunun isim ve şöhretleri, alacağın miktarı, haczin hangi gün ve saatte
+yapıldığı, haczedilen mallar ve takdir edilen kıymetleri ve varsa üçüncü
+şahısların iddiaları yazılır ve haczi icra eden memur tarafından imza edilir.
+
+Haczi kabil mallar kafi gelmezse veya hiç bulunmazsa bu hal tutanağa
+kaydolunur. Haczi kabil mal bulunmazsa haciz tutanağı 143 üncü maddedeki aciz
+vesikası hükmündedir.  İcraca takdir edilen kıymete göre haczi kabil malların
+kifayetsizliği anlaşıldığı surette dahi tutanak muvakkat aciz vesikası yerine
+geçerek alacaklıya 277 nci maddede yazılı hakları verir.
+
+Tutanak tutulurken alacaklı, borçlu veya namlarına Tebligat Kanunu hükümlerine
+göre tebellüğe yetkili kimse bulunmazsa, bulunmayan alacaklı veya borçlu üç gün
+içinde tutanağı tetkik ve diyeceği varsa söylemesi için icra dairesine davet
+olunur. Kanunen ilavesi gereken müddetler mahfuzdur. Haciz sırasında borçlu
+veya alacaklı adına Tebligat Kanunu hükümlerine göre tebellüğe yetkili kimse
+bulunduğu takdirde haciz tutanağının bir örneği bulunan şahsa verilir. Borçluya
+veya alacaklıya ayrıca haber verilmez.
+
+NOTE: Hacizden sonra icra memuru haczedilen malların satışını kendiliğinden
+yapamaz. Satış için alcaklının taleptu bulunması gerekir.
 
 === HACİZ TÜRLERİ
 
@@ -790,3 +833,397 @@ satılır.
 ** *İlave haciz:* İştirak halinde icra dairesi müracaat üzerine aynı derecedeki
 alacaklıların bütün alacaklarına yetecek nispette ilave suretiyle hacizler
 yapar.
+
+=== HACZEDİLEMEYEN MAL VE HAKLAR
+
+Aşağıdaki şeyler haczolunamaz:
+
+. Devlet malları ile mahsus kanunlarında haczi caiz olmadığı gösterilen mallar,
+. Ekonomik faaliyeti, sermayesinden ziyade bedenî çalışmasına dayanan borçlunun
+mesleğini sürdürebilmesi için gerekli olan her türlü eşya,
+. Para, kıymetli evrak, altın, gümüş, değerli taş, antika veya süs eşyası gibi
+kıymetli şeyler hariç olmak üzere, borçlu ve aynı çatı altında yaşayan aile
+bireyleri için lüzumlu eşya; aynı amaçla kullanılan eşyanın birden fazla olması
+durumunda bunlardan biri,
+. Borçlu çiftçi ise kendisinin ve ailesinin geçimi için zaruri olan arazi ve
+çift hayvanları ve nakil vasıtaları ve diğer eklenti ve ziraat aletleri;
+değilse, sanat ve mesleki için lüzumlu olan alat ve edevat ve kitapları ve
+arabacı, kayıkçı, hamal gibi küçük nakliye erbabının geçimlerini temin eden
+nakil vasıtaları,
+. Borçlu ve ailesinin idareleri için lüzumlu ise borçlunun tercih edeceği bir
+süt veren mandası veya ineği veyahut üç keçi veya koyunu ve bunların üç aylık
+yem ve yataklıkları,
+. Borçlunun ve ailesinin iki aylık yiyecek ve yakacakları ve borçlu çiftçi ise
+gelecek mahsül için lazım olan tohumluğu,
+. Borçlu bağ, bahçe veya meyva veya sebze yetiştiricisi ise kendisinin ve
+ailesinin geçimi için zaruri olan bağ bahçe ve bu sanat için lüzumlu bulunan
+alat ve edevat,
++
+Geçimi hayvan yetiştirmeye münhasır olan borçlunun kendisi ve ailesinin
+maişetleri için zaruri olan miktarı ve bu hayvanların üç aylık yem ve
+yataklıkları,
+. Borçlar Kanununun 510 uncu maddesi mucibince haczolunmamak üzere tesis
+edilmiş olan kaydı hayatla iratlar,
+. Memleketin ordu ve zabıta hizmetlerinde malül olanlara bağlanan emeklilik
+maaşları ile bu hizmetlerden birinin ifası sebebiyle ailelerine bağlanan
+maaşlar ve ordunun hava ve denizaltı mensuplarına verilen uçuş ve dalış
+tazminat ve ikramiyeleri,
++
+Askeri malüllerle, şehit yetimlerine verilen terfi zammı ve 1485 numaralı kanun
+hükmüne göre verilen inhisar beyiye hisseleri,
+. Bir muavenet sandığı veya cemiyeti tarafından hastalık, zaruret ve ölüm
+gibi hallerde bağlanan maaşlar, ı11. Vücut veya sıhhat üzerine ika edilen
+zararlar için tazminat olarak mutazarrırın kendisine veya ailesine toptan veya
+irat şeklinde verilen veya verilmesi lazım gelen paralar,
+. Borçlunun haline münasip evi,
++
+NOTE: Borçlunun haline münasip evi, oturmakta olduğu evdir. Borçlu yalı
+dairesinde oturuyorsa tek evi bu olsa bile bu hayatına devam ettirmek için
+gerekenin çok üstünde olduğu için o evin satılıp, ev alınacak bir miktar
+paranın borçluya verilmesi gerekir.
+. Öğrenci bursları.
+
+Medeni Kanunun 807 nci maddesi hükmü saklıdır. 2, 3, 4, 5, 7 ve 12 numaralı
+bendlerdeki istisna, borcun bu eşya bedelinden doğmaması haline munhasırdır.
+
+(2), (4), (7) ve (12) numaralı bentlerde sayılan malların kıymetinin fazla
+olması durumunda, bedelinden haline münasip bir kısmı, ihtiyacını
+karşılayabilmesi amacıyla borçluya bırakılmak üzere haczedilerek satılır.
+
+İcra memuru, haczi talep edilen mal veya hakların haczinin caiz olup olmadığını
+değerlendirir ve talebin kabulüne veya reddine karar verir.
+
+Maaşlar, tahsisat ve her nevi ücretler, intifa hakları ve hasılatı, ilama
+müstenit olmayan nafakalar, tekaüt maaşları, sigortalar veya tekaüt sandıkları
+tarafından tahsis edilen iratlar, borçlu ve ailesinin geçinmeleri için icra
+memurunca lüzumlu olarak takdir edilen miktar tenzil edildikten sonra
+haczolunabilir. Ancak haczolunacak miktar bunların dörtte birinden az olamaz.
+Birden fazla haciz var ise sıraya konur. Sırada önde olan haczin kesintisi
+bitmedikçe sonraki haciz için kesintiye geçilemez.
+
+Yukarıda yazılı mal ve hakların haczolunabileceğine dair önceden yapılan
+anlaşmalar muteber değildir.
+
+NOTE: Haczedilmezliklere ilişkin şikayet Yargıtay'a göre süresizdir.
+
+=== HACİZDE TERTİP
+
+Haciz yapılırken belirli bir sıraya uyulması gerekir. Buna *hacizde tertip*
+denir.
+
+Haczi koyan memur borçlu ile alacaklının menfaatlerini mümkün olduğu kadar
+telif etmekle mükelleftir.
+
+Borçlunun kendi yedinde veya üçüncü şahısta olan taşınır mallariyle
+taşınmazlarından ve alacak ve haklarından alacaklının ana, faiz ve masraflar da
+dahil olmak üzere bütün alacaklarına yetecek miktarı haczolunur.
+
+Borçlu yahut borçlu ile birlikte malı elinde bulunduran şahıslar, taşınır mal
+üzerinde üçüncü bir şahsın mülkiyet veya rehin hakkı gibi sınırlı bir ayni
+hakkının bulunması veya taşınır malın üçüncü şahıs tarafından haczedilmiş
+olması halinde bu hususu haciz yapan memura beyan etmek ve beyanının haciz
+tutanağına geçerilmesini talep etmek, haczi yapan memur da borçluyu yahut
+borçlu ile birlikte malı elinde bulunduran şahısları bu beyana davet etmek
+zorundadır. Bu tür mallar ile üçüncü şahıs tarafından ihtiyaten haciz veya
+istihkak iddia edilmiş bulunan malların haczi en sonraya bırakılır.
+
+. *Öncelikle çekişmesiz mallar haczedilir.*
+
+.. _Öncelikle muhafaza ve satılması en kolay ve yokluğu borçlu için en az yük
+teşkil edecek taşınır mallar haczedilir._
+.. _Daha sonra taşınmazlar haczedilir._
+
+. *Çekişmesiz mallardan sonra, alacaklının alacağına yetecek kadar haciz
+yapılamışsa çekişmeli mallar haczedilir.* Çekişmeli mallar haczedilirken bu
+durum haciz tutanağına yazılır.
+
+=== TAŞINIRLARIN HACZİ
+
+Haczolunan paraları, banknotları, hamiline ait senetleri, poliçeler ve sair
+cirosu kabil senetler ile altın, gümüş ve diğer kıymetli şeyleri icra dairesi
+muhafaza eder.
+
+Diğer taşınır mallar, masrafı peşinen alacaklıdan alınarak muhafaza altına
+alınır. Alacaklı muvafakat ederse, istenildiği zaman verilmek şartıyla,
+muvakkaten borçlu yedinde veya üçüncü şahıs nezdinde bırakılabilir. Üçüncü
+şahsın elinde bulunan taşınır mallar haczedildiğinde, üçüncü şahsın kabulü
+hâlinde üçüncü şahsa yediemin olarak bırakılır. Mallar satış mahalline
+getirilmediği takdirde muhafaza altına alınabilir veya yediemin değişikliği
+yapılabilir.
+
+Türkiye’nin taraf olduğu uluslararası andlaşma hükümleri saklı kalmak kaydıyla,
+yabancı devlet başkanı, parlamento başkanı, hükümet başkanı veya hükümet
+üyelerini taşıyan ulaşım araçları, bu kişiler Türkiye’de bulundukları sürece,
+muhafaza altına alınamaz ve yediemine bırakılamaz.
+
+İcra dairesi üçüncü bir şahsa rehnedilmiş olan malları da muhafaza altına
+alabilir. Ticari işletme rehni kapsamındaki taşınırlar ise icra dairesince
+satılmalarına karar verilmesinden sonra muhafaza altına alınabilir. Bu mallar
+paraya çevrilmediği takdirde geri verilir.
+
+=== ANONİM ŞİRKET PAYININ HACZİ
+
+Anonim şirketlerde paylar için pay senedi veya pay ilmühaberi çıkarılmamışsa,
+borçlunun şirketteki payı icra dairesi tarafından şirkete tebliğ olunarak
+haczedilir. Bu haczin şirket pay defterine işlenmesi zorunludur; ancak haciz,
+şirket pay defterine işlenmemiş olsa bile şirkete tebliğ tarihinde yapılmış
+sayılır. Haciz, icra dairesi tarafından tescil edilmek üzere Ticaret Siciline
+bildirilir. Bu durumda haczedilen payların devri, alacaklının haklarını ihlâl
+ettiği oranda batıldır. Haczedilen payların satışı, taşınır malların satışı
+usulüne tâbidir.
+
+=== HAKLARIN HACZİ
+
+Bir intıfa hakkı veya taksim edilmemiş bir miras veya bir şirket yahut iştirak
+halinde tasarruf edilen bir mal hissesi haczedilirse icra dairesi, yerleşim
+yerleri bilinen ilgili üçüncü şahıslara keyfiyeti ihbar eder. Bu suretle
+borçlunun muayyen bir taşınmazdaki tasfiye sonundaki hissesi haczedilmiş olursa
+icra memuru haciz şerhinin taşınmazın kaydına işlenmesi için tapu sicil
+muhafızlığına tebligat yapar.
+
+Borçlunun reddetmediği miras veya başka bir sebeple iktisap eyleyip henüz
+tapuya veya gemi siciline tescil ettirmediği mülkiyet veya diğer aynı hakların
+borçlu namına tescili alacaklı tarafından istenebilir. Bu talep üzerine icra
+dairesi alacaklının bu muameleyi takip edebileceğini tapu veya gemi sicili
+dairesine ve icabında mahkemeye bildirir.
+
+Borçlunun zilyed bulunduğu bir taşınmaz üzerindeki fevkalade zamanaşımı ile
+iktisabını istemek hakkının haczedilmesi halinde, icra dairesi zilyedliğin
+başkasına devrine mani olacak tedbirleri alır ve alacaklıya bir ay içinde
+taşınmazın borçlusu adına tescili için dava açması yetkisini verir. Mahkemenin
+tescil kararı ile taşınmaz bu alacaklı lehine mahcuz sayılır.
+
+Alacaklının bu sebeple yapacağı kanuni masraflar ayrıca takip ve hükme hacet
+kalmaksızın dairece borçludan tahsil olunur.
+
+=== BORÇLUNUN ÜÇÜNCÜ KİŞİLERDEKİ MAL VE ALACAKLARININ HACZİ
+
+Hamiline ait olmıyan veya cirosu kabil bir senetle müstenit bulunmıyan alacak
+veya sair bir talep hakkı veya borçlunun üçüncü şahıs elindeki taşınır bir malı
+haczedilirse icra memuru; borçlu olan hakiki veya hükmi şahsa bundan böyle
+borcunu ancak icra dairesine ödiyebileceğini ve takip borçlusuna yapılan
+ödemenin muteber olmadığını veya malı elinde bulunduran üçüncü şahsa bundan
+böyle taşınır malı ancak icra dairesine teslim edebileceğini, malı takip
+borçlusuna vermemesini, aksi takdirde malın bedelini icra dairesine ödemek
+zorunda kalacağını bildirir (Haciz ihbarnamesi).Bu haciz ihbarnamesinde, ayrıca
+2, 3 ve 4 üncü fıkra hükümleri de üçüncü şahsa bildirilir.
+
+Üçüncü şahıs; borcu olmadığı veya malın yedinde bulunmadığı veya haciz
+ihbarnamesinin tebliğinden önce borç ödenmiş veya mal istihlak edilmiş veya
+kusuru olmaksızın telef olmuş veya malın borçluya ait olmadığı veya malın
+kendisine rehnedilmiş olduğu veya alacak borçluya veya emrettiği yere verilmiş
+olduğu gibi bir iddiada ise, keyfiyeti, haciz ihbarnamesinin kendisine
+tebliğinden itibaren yedi gün içinde icra dairesine yazılı veya sözlü olarak
+bildirmeye mecburdur.
+
+Üçüncü şahıs, haciz ihbarnamesinin kendisine tebliğinden itibaren yedi gün
+içinde itiraz etmezse, mal yedinde veya borç zimmetinde sayılır ve kendisine
+gönderilen haciz ihbarnamesine süresinde itiraz etmediği, bu nedenle de malın
+yedinde veya borcun zimmetinde sayıldığı ikinci bir ihbarname ile bildirilir.
+Bu ikinci ihbarnamede ayrıca, üçüncü şahsın ihbarnamenin kendisine tebliğinden
+itibaren yedi gün içinde yukarıda belirtilen sebeplerle itirazda bulunması,
+itirazda bulunmadığı takdirde zimmetinde sayılan borcu icra dairesine ödemesi
+veya yedinde sayılan malı icra dairesine teslim etmesi istenir.
+
+İkinci ihbarnameye süresi içinde itiraz etmeyen ve zimmetinde sayılan borcu
+icra dairesine ödemeyen veya yedinde sayılan malı icra dairesine teslim etmeyen
+üçüncü şahsa onbeş gün içinde parayı icra dairesine ödemesi veya yedinde
+sayılan malı teslim etmesi yahut bu süre içinde menfi tespit davası açması,
+aksi takdirde zimmetinde sayılan borcu ödemeye veya yedinde sayılan malı
+teslime zorlanacağı bildirilir.
+
+Bu bildirimi alan üçüncü şahıs, icra takibinin yapıldığı veya yerleşim yerinin
+bulunduğu yer mahkemesinde süresi içinde menfi tespit davası açtığına dair
+belgeyi bildirimin yapıldığı tarihten itibaren yirmi gün içinde ilgili icra
+dairesine teslim ettiği takdirde, hakkında yürütülen cebri icra işlemleri menfi
+tespit davası sonunda verilen kararın kesinleşmesine kadar durur. Bu süre
+içinde 106 ncı maddede belirtilen süreler işlemez. Bu davada üçüncü şahıs,
+takip borçlusuna borçlu olmadığını veya malın takip borçlusuna ait olmadığını
+ispat etmeye mecburdur.
+
+Üçüncü şahıs açtığı bu davayı kaybederse, mahkemece, dava konusu şeyin yüzde
+yirmisinden aşağı olmamak üzere bir tazminata mahkûm edilir.
+
+Üçüncü şahıs, haciz ihbarnamesine müddeti içinde itiraz ederse, alacaklı,
+üçüncü şahsın verdiği cevabın aksini icra mahkemesinde ispat ederek üçüncü
+şahsın 338 inci maddenin 1 inci fıkrası hükmüne göre cezalandırılmasını ve
+ayrıca tazminata mahküm edilmesini istiyebilir. İcra mahkemesi, tazminat
+hakkındaki davayı genel hükümlere göre halleder.
+
+Üçüncü şahıs, kusuru olmaksızın bir mani sebebiyle müddeti içinde haciz
+ihbarnamesine itiraz etmediği takdirde 65 inci madde hükmü uygulanır. Her hâlde
+üçüncü şahıs, borçlu ile kötü niyetli alacaklıya karşı dava açarak ödemek
+zorunda kaldığı paranın veya teslim ettiği malın iadesini isteyebilir.
+
+Malın teslimi mümkün olmazsa, alacaklı icra mahkemesine müracaatla değerini
+üçüncü şahsa ödetmek hakkını haizdir.
+
+Haciz ihbarnamesi, borçlunun hak ve alacaklarının bulunabileceği bir tüzel
+kişinin veya müessesenin şubesine veya tüm şubelerini kapsayacak şekilde
+merkezine tebliğ edilir. Haciz ihbarnamesinin tebliğ edildiği merkez, tüm
+şubeleri veya birimlerini kapsayacak şekilde beyanda bulunmakla yükümlüdür.
+
+=== HACZE ADİ İŞTİRAK
+
+İlk haciz üzerine satılan malın tutarı vezneye girinciye kadar aynı derecede
+hacze iştirak edebilecek alacaklılar:
+
+. İlk haciz ilamsız takibe müstenitse takip talebinden ve ilama istinat
+ediyorsa dava ikamesinden mukaddem yapılmış bir takip üzerine alınan aciz
+vesikasına,
+. Yukarıdaki fıkrada yazılı tarihlerden önce açılmış bir dava üzerine alınan
+ilama,
+. Aynı tarihlerden mukaddem tarihli resmi veya tarih ve imzası tasdikli bir
+senede,
+. Aynı tarihlerden mukaddem tarihli resmi dairelerin veya yetkili makamların
+yetkileri dahilinde ve usulüne göre verdikleri makbuz veya vesikaya
+
+istinat eden alacaklılardır.
+
+Bunların haricindeki alacaklılar ancak, evvelki dereceden artacak bedeller için
+hacze iştirak edebilirler.
+
+Bu suretle iştirak halinde icra dairesi müracaat üzerine aynı derecedeki
+alacaklıların bütün alacaklarına yetecek nispette ilave suretiyle hacizler
+yapar.
+
+CAUTION: Ücret haczinde iştirak olmaz.
+
+Hacze adi iştirakin şartları:
+
+. *Takip yapmış olma*
+. *Öncelik*
+. *Belge ile ispat*
+
+TIP: Hacze iştirak edilip edilemeyceğinin anlaşılması için ilk haciz uygulayan
+alacaklının takip tarihine bakılması gerekir. Eğer ilamlı takip söz konusu ise
+dava açtığı tarih esas alınır. Kişinin alacağı bu tarihten önce doğmuş ve yine
+bu tarihten önce bir takip başlatılmışsa hacze iştirak edebilir.
+
+Kişinin hacze iştirak talebi reddedilirse şikayet yoluna başvurabilir.
+
+=== HACZE İMTİYAZLI İŞTİRAK
+
+Borçlunun eşi ve çocukları ve vasi veya kayyımı olduğu şahıslar evlenme,
+velayet veya vesayetten mütevellit alacaklar için önce icrası lazım gelen takip
+merasimine lüzum olmaksızın ilk haciz üzerine satılan malın tutarı vezneye
+girinceye kadar aynı derecede hacze iştirak edebilirler. Şu kadar ki bu hak
+ancak haciz, vesayetin veya velayetin veya evliliğin devamı esnasında veya
+zevalini takip eden sene içinde yapıldığı takdirde istimal olunabilir.
+
+Bir dava veya takibin devam ettiği müddet hesaba katılmaz.
+
+Borçlunun reşit çocukları Medeni Kanunun 321 inci maddesine müstenit
+alacaklarından dolayı önce icrası lazım gelen takip merasimine hacet
+kalmaksızın her zaman aynı derecede hacze iştirak edebilirler.
+
+Sulh mahkemesi dahi küçükler, vesayet altında bulunanlar veya kendilerine
+kayyım tayin edilmiş olanlar namına aynı suretle hacze iştirak edebilirler.
+
+İcra dairesi iştirak taleplerini borçlu ve alacaklılara bildirir.Onlara, itiraz
+etmeleri için yedi günlük bir mühlet verir. İtiraz halinde iştirak talebinde
+bulunan kimsenin hacze iştiraki muvakkaten kabul olunur ve yedi gün içinde dava
+açması lüzumu bildirilir. Bu süre içinde dava açmazsa iştirak hakkı düşer.
+Açılacak davaya basit yargılama usulüne göre bakılır.
+
+Nafaka ilamına istinat eden alacaklı önce takip merasiminin icrasına lüzum
+olmaksızın her zaman aynı derecede hacze iştirak edebilir. Kötü niyet hali
+müstesnadır.
+
+TIP: Nafaka çok yüksekse diğer alacaklılar hacze iştirak edilmesine karşı
+koyabilir.
+
+=== HACİZDE İSTİHKAK
+
+Bir taşınır malı elinde bulunduran kimse onun maliki sayılır. Borçlu ile üçüncü
+şahısların taşınır malı birlikte ellerinde bulundurmaları halinde dahi mal
+borçlu elinde addolunur. Birlikte oturulan yerlerdeki mallardan mahiyetleri
+itibariyle kadın, erkek ve çocuklara aidiyetleri açıkça anlaşılanlar veya örf
+ve adet, sanat, meslek veya meşgale icabı olanlar bunların farz olunur. Bu
+karinenin aksini ispat külfeti iddia eden kişiye düşer.
+
+İstihkak davacısı malı ne suretle iktisap ettiğini ve borçlunun elinde
+bulunmasını gerektiren hukuki ve fiili sebep ve hadiseleri göstermek ve bunları
+ispat etmekle mükelleftir.
+
+Borçlu, elinde bulunan bir malı başkasının mülkü veya rehni olarak gösterdiği
+yahut üçüncü bir şahıs tarafından o mal üzerinde mülkiyet veya rehin hakkı
+iddia edildiği takdirde, icra dairesi bunu haciz ve icra tutanaklarına geçirir
+ve keyfiyeti iki tarafa bildirir.
+
+İcra dairesi aynı zamanda istihkak iddiasına karşı itirazları olup olmadığını
+bildirmek üzere alacaklı ve borçluya üç günlük mühlet verir. Sükütları halinde
+istihkak iddiasını kabul etmiş sayılırlar.
+
+Malın haczini öğrenmiş olan borçlu veya üçüncü şahıs, öğrenme tarihinden
+itibaren yedi gün içinde istihkak iddiasında bulunmadığı takdirde, aynı takipte
+bu iddiayı ileri sürmek hakkını kaybeder. İstihkak iddiasının yapıldığı veya
+istihkak davasının açıldığı tarihte istihkak müddeisi ile birlikte oturan
+kimseler yahut bu şahısların iş ortakları, iddianın yapıldığı tarihte veya
+istihkak davası 97 nci maddenin 9 uncu fıkrası gereğince açılmışsa davanın
+açıldığı tarihte malın haczini öğrenmiş sayılırlar.
+
+İstihkak iddiasına karşı alacaklı veya borçlu tarafından itiraz edilirse, icra
+memuru dosyayı hemen icra mahkemesine verir. İcra Mahkemesi, dosya üzerinde
+veya lüzum görürse ilgilileri davet ederek mürafaa ile yapacağı inceleme
+neticesinde varacağı kanaate göre takibin devamına veya talikine karar verir.
+
+NOTE: Takibin taliki sadece üzerinde istihkak iddiası bulunan mal için
+geçerlidir.
+
+İstihkak davasının sırf satışı geri bırakmak gayesiyle kötüye kullanıldığını
+kabul etmek için ciddi sebepler bulunduğu takdirde icra mahkemesi takibin
+talikı talebini reddeder.
+
+Takibin talikıne karar verilirse, haksız çıktığı takdirde alacaklının muhtemel
+zararına karşı davacıdan 36 ncı maddede gösterilen teminat alınır. Teminatın
+cins ve miktarı mevcut delillerin mahiyetine göre takdir olunur.
+
+Takibin devamına dair verilen icra mahkemesi kararı kesindir.
+
+Üçüncü şahıs, icra mahkemesi kararının tefhim veya tebliğinden itibaren yedi
+gün içinde icra mahkemesinde istihkak davası açmaya mecburdur. Bu müddet
+zarfında dava edilmediği takdirde üçüncü şahıs alacaklıya karşı iddiasından
+vazgeçmiş sayılır.
+
+Yukardaki hükümler dairesinde kendisine istihkak talebinde bulunmak imkanı
+verilmemiş olan üçüncü şahıs, haczedilen şey hakkında veya satılıp da bedeli
+henüz alacaklıya verilmemişse bedeli hakkında, hacze ıttıla tarihinden itibaren
+yedi gün içinde, icra mahkemesinde istihkak davası açabilir. Aksi takdirde aynı
+takipte bu iddiayı ileri sürmek hakkını kaybeder. Bu halde davacının talebi
+üzerine icra hakimi takibin talik edilip edilmemesi hakkında yukardaki hükümler
+dairesinde acele karar vermeye mecburdur. Bu karar diğer taraf dinlenmeksizin
+de verilebilir.
+
+İstihkak davası neticelenmeden mahcuz mal paraya çevrilmiş bulunursa icra
+hakimi işbu bedelin yargılama neticesine kadar ödenmemesi veya teminat
+karşılığında veya halin icabına göre teminatsız derhal alacaklıya verilmesi
+hususunda ayrıca karar verir.
+
+İstihkak davasına umumi hükümler dairesinde ve basit yargılama usulüne göre
+bakılır.
+
+İstihkak davası üzerine takibin talikine karar verilip de neticede dava
+reddolunursa alacaklının alacağından bu dava dolayısıyla istifası geciken
+miktarın yüzde yirmisinden aşağı olmamak üzere davacıdan tazminat alınmasına
+hükmolunur.
+
+Davanın reddi hakkındaki karara karşı istinaf veya temyiz yoluna başvuran
+istihkak davacısı icra dairesinden 36 ncı maddeye göre mühlet isteyebilir.
+
+İstihkak davası sabit olur ve birinci fıkra gereğince istihkak iddiasına karşı
+itiraz eden alacaklı veya borçlunun kötü niyeti tahakkuk ederse haczolunan
+malın değerinin yüzde onbeşinden aşağı olmamak üzere itiraz edenden tazminat
+alınmasına asıl dava ile birlikte hükmolunur.
+
+İstihkak davalarının hukuki niteliği doktrinde tartışmalıdır. İstihkak iddiası
+ileri sürüldüğünde icra mahkemesinde verilen kararın kesin hüküm teşkil edip
+etmeyeceğine yönelik farklı görüşler vardır. Yargıtay da bu konuda çelişik
+kararlar verebilmektedir.
+
+İcra mahkemesinin inceleme yetkisi ile genel mahkemelerin inceleme yetkisi ve
+kapsamı arasında fark yok ise icra mahkemesinin kararı kesin hüküm teşkil
+etmektedir. Bu anlamda icra mahkemesinin istihkak iddialarını incelerken
+yetkisine bakıldığında genel mahkemelerden daha yetkili olduğu görülür.
+Dolayısıyla kürsüye göre istihkak davaları sonunda verilen hükmün kesin hüküm
+olduğunu kabul etmek gerekir.
