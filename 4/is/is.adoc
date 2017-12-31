@@ -1,6 +1,6 @@
 :icons: font
 :toc:
-:toc-title: İÇİNDEKİLER
+:toc-title: İŞ HUKUKU
 
 == İŞÇİ ve İŞVEREN
 
@@ -797,5 +797,425 @@ sekiz hafta sonra,
 
 feshedilmiş sayılır. Bu süreler asgari olup sözleşmeler ile artırılabilir.
 
-Bildirim şartına uymayan taraf, bildirim süresine ilişkin ücret tutarında
-tazminat ödemek zorundadır.
+NOTE: İşçi ve işveren bakımından ihbar sürelerinin ayrı ayrı artırılmasının
+mümkün olup olmadığı kanunda düzenlenmemiştir. Bir görüşe göre "_Fesih bildirim
+sürelerinin her iki taraf için de aynı olması zorunludur; sözleşmede farklı
+süreler öngörülmüşse, her iki tarafa da en uzun olan fesih bildirim süresi
+uygulanır._" diyen TBK 432/5 uygulanır. Diğer bir görüş ise TBK 432/5'in İş
+Hukukuna uygun olmadığını, uzun olan ihbar süresinin uygulanmasının işçi
+aleyhine bir durum oluşturduğunu savunmaktadır. Buna göre işçinin işverene
+karşı sözleşmeyi sona erdirirken ihbar süresi daha kısaysa bu yararınadır ve
+mümkün olmalıdır. Ancak işverenin uyması gereken süre daha azsa bu anlaşma
+geçersiz olmalıdır.
+
+İhbar sürelerine uyularak iş sözleşmesi sona erdirildiğinde sona erme anı ihbar
+süresinin bitim tarihidir. Henüz ihbar süresi dolmadan bir haklı sebep ortaya
+çıkması halinde sözleşmeyi sona erdirmek mümkündür.
+
+Bildirim süreleri içinde işveren, işçiye yeni bir iş bulması için gerekli olan
+iş arama iznini iş saatleri içinde ve ücret kesintisi yapmadan vermeye
+mecburdur. İş arama izninin süresi günde iki saatten az olamaz ve işçi isterse
+iş arama izin saatlerini birleştirerek toplu kullanabilir. Ancak iş arama
+iznini toplu kullanmak isteyen işçi, bunu işten ayrılacağı günden evvelki
+günlere rastlatmak ve bu durumu işverene bildirmek zorundadır.
+
+WARNING: Yeni iş arama izninin doğması için sözleşmeyi sona erdiren tarafın bir
+önemi yoktur.
+
+İşveren yeni iş arama iznini vermez veya eksik kullandırırsa o süreye ilişkin
+ücret işçiye ödenir.
+
+İşveren, iş arama izni esnasında işçiyi çalıştırır ise işçinin izin kullanarak
+bir çalışma karşılığı olmaksızın alacağı ücrete ilaveten, çalıştırdığı sürenin
+ücretini yüzde yüz zamlı öder.
+
+NOTE: İşçinin işten çıkış sebebi yeni iş bulması ise işverenin yeni iş arama
+izni vermesine gerek yoktur. İşçi yeni iş bulmuş olduğunu, yeni iş arama izni
+almak için gizlerse bu durum sadakat borcuna aykırılık oluşturur ve haklı
+nedenle fesih sebebi oluşturabilir.
+
+Verilen ihbar süresinin işlediği devrede işçinin haklarında bir değişiklik
+olursa bu değişiklik işçiye yansıyacaktır.
+
+=== PEŞİN ÖDEME YOLUYLA FESİH
+
+*Peşin ödeme yoluyla fesih* de ihbar sürelerine uyularak yapılan bir fesihtir.
+Ancak burada işçi ihbar süresi boyunca çalıştırılmayacak ve ihbar süresine
+denk gelen ücret işçiye peşin olarak ödenecektir. Bu ücret çıplak değil,
+giydirilmiş ücrettir.
+
+CAUTION: İhbar süresine uyulacaksa tam olarak uyulmalı aksi takdirde tam olarak
+peşin ödeme yoluyla fesih yapılmalıdır. İhbar süresinin yarısında işçiyi
+çalıştırıp geri kalan kısmın ücretini peşin ödemek usulsüz fesihtir.
+
+Doktrine göre işveren sözleşmeyi peşin ödeme yoluyla feshettiğinde sözleşmenin
+sona ermesi fesih süreleriniln sona ermesiyle olur ve bu süre içerisinde
+haklarda değişme olursa işçiye yansıtılması gerekir.
+
+Yargıtay'ın yerleşik içtihadına göre ise işveren sözleşmeyi peşin ödeme yoluyla
+feshetmişse peşin ödemeyi yaptığı tarihte sözleşme sona erer. Dolayısıyla bu
+tarihten sonra haklarda meydana gelen değişiklik işçiye yansıtılmaz. Yargıtay
+buna iki istisna kabul etmiştir:
+
+. İşveren meydana gelen değişikliklerden işçiyi yararlandırmamak için kötü
+niyetle peşin ödeme yoluyla fesih hakkı kullanmışsa
+. Sözleşmede bu konuyu düzenleyen açık bir hüküm getirildiyse toplu
+sözleşmelerdeki kural gereği
+
+=== USULSÜZ FESİH
+
+Süreli fesih kurallarına uyulmadan bir fesih gerçekleştirilmişse *usulsüz
+fesih* söz konusu olur.
+
+. Hiç bildirim süresi verilmemiş olabilir.
+. Verilmesi gerekenden eksik süre verilmiş olabilir.
+. Peşin ödeme yoluyla yapılan fesihte ücret ödenmemiş ya da eksik ödenmiş
+olabilir.
+
+IMPORTANT: Usulsüz fesih söz konusu olduğunda da sözleşme sona erer.
+
+İşçinin veya işverenin yasada öngörülen fesih sürelerine uymadan sözleşmeyi
+feshetmeleri durumunda ihbar süresine denk düşecek miktarda bir tazminatı
+ödemesi gerekir. Ayrıca bir zararın meydana gelmesi şartı yoktur. Bildirim
+yükümlülüğünü ihlal etmiş olmak tazminat sorumluluğu için yeterlidir.
+
+İş sözleşmesinin bildirim şartına uyulmaksızın feshinden kaynaklanan tazminat
+için zamanaşımı süresi 5 yıldır.
+
+=== İŞ GÜVENCESİ
+
+İşverenin bildirim şartına uymaması veya bildirim süresine ait ücreti peşin
+ödeyerek sözleşmeyi feshetmesi, İş Kanunu'nun 18, 19, 20 ve 21 inci maddesi
+hükümlerinin uygulanmasına engel olmaz.
+
+İş Kanunu'nun 18, 19, 20 ve 21 inci maddeleri iş güvencesi hükümleridir.
+
+[caption=""]
+.İŞ KANUNU 18 - Feshin geçerli sebebe dayandırılması
+====
+Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan
+işçinin belirsiz süreli iş sözleşmesini fesheden işveren, işçinin
+yeterliliğinden veya davranışlarından ya da işletmenin, işyerinin veya işin
+gereklerinden kaynaklanan geçerli bir sebebe dayanmak zorundadır. Yer altı
+işlerinde çalışan işçilerde kıdem şartı aranmaz.
+
+Altı aylık kıdem hesabında bu Kanunun 66 ncı maddesindeki süreler dikkate alınır.
+
+Özellikle aşağıdaki hususlar fesih için geçerli bir sebep oluşturmaz:
+
+.. Sendika üyeliği veya çalışma saatleri dışında veya işverenin rızası ile
+çalışma saatleri içinde sendikal faaliyetlere katılmak.
+.. İşyeri sendika temsilciliği yapmak.
+.. Mevzuattan veya sözleşmeden doğan haklarını takip veya yükümlülüklerini
+yerine getirmek için işveren aleyhine idari veya adli makamlara başvurmak veya
+bu hususta başlatılmış sürece katılmak.
+.. Irk, renk, cinsiyet, medeni hal, aile yükümlülükleri, hamilelik, doğum, din,
+siyasi görüş ve benzeri nedenler.
+.. 74 üncü maddede öngörülen ve kadın işçilerin çalıştırılmasının yasak olduğu
+sürelerde işe gelmemek.
+.. Hastalık veya kaza nedeniyle 25 inci maddenin (I) numaralı bendinin (b) alt
+bendinde öngörülen bekleme süresinde işe geçici devamsızlık.
+
+İşçinin altı aylık kıdemi, aynı işverenin bir veya değişik işyerlerinde geçen
+süreler birleştirilerek hesap edilir. İşverenin aynı işkolunda birden fazla
+işyerinin bulunması halinde, işyerinde çalışan işçi sayısı, bu işyerlerinde
+çalışan toplam işçi sayısına göre belirlenir.
+
+İşletmenin bütününü sevk ve idare eden işveren vekili ve yardımcıları ile
+işyerinin bütününü sevk ve idare eden ve işçiyi işe alma ve işten çıkarma
+yetkisi bulunan işveren vekilleri hakkında bu madde, 19 ve 21 inci maddeler ile
+25 inci maddenin son fıkrası uygulanmaz.
+====
+
+[caption=""]
+.İŞ KANUNU 19 - Sözleşmenin feshinde usul
+====
+İşveren fesih bildirimini yazılı olarak yapmak ve fesih sebebini açık ve kesin
+bir şekilde belirtmek zorundadır.
+
+Hakkındaki iddialara karşı savunmasını almadan bir işçinin belirsiz süreli iş
+sözleşmesi, o işçinin davranışı veya verimi ile ilgili nedenlerle feshedilemez.
+Ancak, işverenin 25 inci maddenin (II) numaralı bendi şartlarına uygun fesih
+hakkı saklıdır.
+====
+
+[caption=""]
+.İŞ KANUNU 20 - Fesih bildirimine itiraz ve usulü
+====
+İş sözleşmesi feshedilen işçi, fesih bildiriminde sebep gösterilmediği veya
+gösterilen sebebin geçerli bir sebep olmadığı iddiası ile fesih bildiriminin
+tebliği tarihinden itibaren bir ay içinde iş mahkemesinde dava açabilir.
+Taraflar anlaşırlarsa uyuşmazlık aynı sürede özel hakeme götürülür.
+
+Feshin geçerli bir sebebe dayandığını ispat yükümlülüğü işverene aittir. İşçi,
+feshin başka bir sebebe dayandığını iddia ettiği takdirde, bu iddiasını ispatla
+yükümlüdür.  Dava seri muhakeme usulüne göre iki ay içinde sonuçlandırılır.
+Mahkemece verilen kararın temyizi halinde, Yargıtay bir ay içinde kesin olarak
+karar verir.
+====
+
+[caption=""]
+.İŞ KANUNU 21 - Geçersiz sebeple yapılan feshin sonuçları
+====
+İşverence geçerli sebep gösterilmediği veya gösterilen sebebin geçerli olmadığı
+mahkemece veya özel hakem tarafından tespit edilerek feshin geçersizliğine
+karar verildiğinde, işveren, işçiyi bir ay içinde işe başlatmak zorundadır.
+İşçiyi başvurusu üzerine işveren bir ay içinde işe başlatmaz ise, işçiye en az
+dört aylık ve en çok sekiz aylık ücreti tutarında tazminat ödemekle yükümlü
+olur.
+
+Mahkeme veya özel hakem feshin geçersizliğine karar verdiğinde, işçinin işe
+başlatılmaması halinde ödenecek tazminat miktarını da belirler.
+
+Kararın kesinleşmesine kadar çalıştırılmadığı süre için işçiye en çok dört aya
+kadar doğmuş bulunan ücret ve diğer hakları ödenir.
+
+İşçi işe başlatılırsa, peşin olarak ödenen bildirim süresine ait ücret ile
+kıdem tazminatı, yukarıdaki fıkra hükümlerine göre yapılacak ödemeden mahsup
+edilir. İşe başlatılmayan işçiye bildirim süresi verilmemiş veya bildirim
+süresine ait ücret peşin ödenmemişse, bu sürelere ait ücret tutarı ayrıca
+ödenir.
+
+İşçi kesinleşen mahkeme veya özel hakem kararının tebliğinden itibaren on
+işgünü içinde işe başlamak için işverene başvuruda bulunmak zorundadır. İşçi bu
+süre içinde başvuruda bulunmaz ise, işverence yapılmış olan fesih geçerli bir
+fesih sayılır ve işveren sadece bunun hukuki sonuçları ile sorumlu olur.
+====
+
+[NOTE]
+====
+İşveren altı aylık kıdem süresinin dolmasına birkaç gün kala iş ilişkisini sona
+erdirirse işçi altı aylık süreyi tamamlamadığı için işe iade davası açamayacak
+mıdır?
+
+Yargıtay burada TBK 175'teki "_Taraflardan biri, koşulun gerçekleşmesine
+dürüstlük kurallarına aykırı olarak engel olursa, koşul gerçekleşmiş sayılır._"
+hükmünün kıyasen uygulanacağını ve işçinin işe iade davası açabileceğini kabul
+ediyor.
+
+Doktrine göre ise bu durumda koşul gerçekleşmediği için işe iade davası
+açılamaz ancak kötü niyetli bir fesih olduğu için kötü niyet tazminatı gündeme
+gelir.
+====
+
+18 inci maddenin birinci fıkrası uyarınca İş Kanunu'nun 18, 19, 20 ve 21 inci
+maddelerinin uygulanma alanı dışında kalan işçilerin iş sözleşmesinin, fesih
+hakkının kötüye kullanılarak sona erdirildiği durumlarda işçiye bildirim
+süresinin üç katı tutarında tazminat ödenir.
+
+Kötü niyet tazminatı yaptırımı işverenin işçiyi kötü niyetli olarak işten
+çıkarmasına karşılık sadece iş güvencesine tabi olmayan işçiler için
+geçerlidir. İşçi kötü niyetli olarak iş sözleşmesini sona erdirirse kötü niyet
+tazminatı gündeme gelmez, işveren genel hükümlere başvuracaktır.
+
+CAUTION: Kötü niyetli fesih gerçekleştirilirken aynı zamanda ihbar süresine de
+uyulmamışsa ihbar tazminatı da devreye girecektir. Bu iki tazminat birbirinden
+bağımsızdır. Fesih için bildirim şartına da uyulmaması ayrıca tazminat
+ödenmesini gerektirir.
+
+=== GEÇERLİ SEBEPLER
+
+Geçerli fesih sebebi olarak kabul edilen sebepler haklı fesih sebepleri kadar
+ağır olmayan nedenlerdir. Haklı sebeplerin varlığı durumunda iş sözleşmesinin
+devam etmesi taraflar için çekilmez hale gelmiştir.
+
+Geçerli fesih sebeplerinin hepsi yargı denetimine açıktır. İşçi konuyu yargıya
+taşıdığı takdirde mahkeme böyle bir sebebin gerçekte var olup olmadığını
+araştıracaktır.
+
+==== İŞÇİNİN KENDİSİNDEN KAYNAKLANAN SEBEPLER
+
+. *İşçinin yetersizliği*
+
+.. _Fiziki yetersizlik_
+
+... *Hastalık*
+
+.... Uzun süreli hastalığın geçerli fesih sebebi oluşturabilmesi için işçinin
+kıdemine göre tabi olduğu bildirim süresinin üzerinden altı hafta geçmesi
+gerekir.
+.... Kısa süreli hastalıklarda ise hastalığın işyerinde birtakım olumsuzluklar
+yaratıyor olması gerekir.
+
+... *Yaşlılık*: Yargıtay ve doktrin tarafından kişinin belirli bir yaşa
+ulaşması geçerli bir fesih sebebi olarak kabul edilmemektedir. Yaşlılık
+sebebiyle performansta bir düşüş söz konusuysa yaşlılıktan değil mesleki
+yetersizlikten dolayı sözleşmeyi sona erdirmek mümkündür.
+
+.... Ekonomik yeniliklerden dolayı işyerinden bir grup işçinin çıkarılması söz
+konusuysa Yargıtay öncelikle belirli bir yaşa gelmiş olanların çıkartılması
+geçerli bir fesih sebebi oluşturabilir demektedir.
+.... Bazı mesleklerde belirli bir yaşa gelmiş olmak o mesleğin niteliğiyle
+bağdaşmaz. Bu durumlarda da yaşlılık geçerli fesih sebebi sayılabilir.
+.... İşyerinin iç yönetmeliğinde belirli yaşa gelenlerin işten çıkarılacağına
+dair bir hüküm varsa ve bu hükümler objektif ve genel ise Yargıtay bunu kabul
+etmektedir.
+
+.. _Mesleki yetersizlik:_ İşçinin mesleki yetersizliği kural olarak geçerli bir
+fesih sebebidir. Bunun için işçi ne kadar çalışması gerektiğini bilmeli, bir
+performans değerlendirme kriteri hazırlanmış olmalı ve bu işçiye bildirilmiş
+olmalıdır.
++
+İşçinin yapamayacağı bilinen bir işin işçiye verilip sonra bunun geçerli sebep
+olarak öne sürülmesi geçerli değildir.
++
+İşçinin bir işi sürdürmek için gerekli olan yasal izni kaybetmesi de geçerli
+fesih sebebi oluşturur.
+. *Akdin esaslı olmayan unsurlarında yanıltma:* Akdin esaslı unsurlarında
+yanıltma söz konusuysa bu bir haklı sebep oluşur. Yanıltmanın gerçekleştiği
+unsur esaslı değilse geçerli fesih sebebi oluşturabilir.
+. *İşi aksatacak kadar devamsızlık:* Haklı sebep oluşturmayacak ancak işi
+aksatacak kadar devamsızlık yapıldıysa geçerli fesih sebebi gündeme gelebilir.
+. *İşçinin ödevini eksik veya kötü olarak yerine getirmesi*
+. *İşçinin ücretlerine çok sık haciz konması*
+
+==== İŞYERİNDEN KAYNAKLANAN SEBEPLER
+
+. *Ekonomik güçlükler*
+. *Yeniden yapılanma*
+. *Teknolojik yenilikler*
+
+IMPORTANT: Bu üç sebebin hepsi istihdam fazlasına yol açmalıdır.
+
+=== FESHİN SON ÇARE OLMASI İLKESİ
+
+Bu konuda herhangi bir düzenleme olmamasına rağmen Yargıtay buna çok önem
+vermektedir. Geçerli bir fesih sebebi olsa bile fesih yapılmadan önce işverenin
+başka çözümler araması gerekir. Yargıtay'a göre işletmesel kararla varılmak
+istenen sonuca fesihten başka bir yolla ulaşmak mümkünse geçerli bir fesih
+sebebinden bahsedilemez.
+
+=== TOPLU İŞÇİ ÇIKARMA
+
+İşveren; ekonomik, teknolojik, yapısal ve benzeri işletme, işyeri veya işin
+gerekleri sonucu toplu işçi çıkarmak istediğinde, bunu en az otuz gün önceden
+bir yazı ile, işyeri sendika temsilcilerine, ilgili bölge müdürlüğüne ve
+Türkiye İş Kurumuna bildirir.
+
+İşyerinde çalışan işçi sayısı:
+
+.. 20 ile 100 işçi arasında ise, en az 10 işçinin,
+.. 101 ile 300 işçi arasında ise, en az yüzde on oranında işçinin,
+.. 301 ve daha fazla ise, en az 30 işçinin,
+
+İşine 17 nci madde uyarınca ve bir aylık süre içinde aynı tarihte veya farklı
+tarihlerde son verilmesi toplu işçi çıkarma sayılır.
+
+Yapılacak bildirimde işçi çıkarmanın sebepleri, bundan etkilenecek işçi sayısı
+ve grupları ile işe son verme işlemlerinin hangi zaman diliminde
+gerçekleşeceğine ilişkin bilgilerin bulunması zorunludur.
+
+Bildirimden sonra işyeri sendika temsilcileri ile işveren arasında yapılacak
+görüşmelerde, toplu işçi çıkarmanın önlenmesi ya da çıkarılacak işçi sayısının
+azaltılması yahut çıkarmanın işçiler açısından olumsuz etkilerinin en aza
+indirilmesi konuları ele alınır. Görüşmelerin sonunda, toplantının yapıldığını
+gösteren bir belge düzenlenir.
+
+Fesih bildirimleri, işverenin toplu işçi çıkarma isteğini bölge müdürlüğüne
+bildirmesinden otuz gün sonra hüküm doğurur. İhbar süreleri bu 30 günün
+bitmesinden sonra işlemeye başlar. Bu hükme uyulmaması feshi geçersiz kılacağı
+gibi işveren işçi başına 584 TL idari para cezası ödemek zorunda kalacaktır.
+
+İşyerinin bütünüyle kapatılarak kesin ve devamlı suretle faaliyete son
+verilmesi halinde, işveren sadece durumu en az otuz gün önceden ilgili bölge
+müdürlüğüne ve Türkiye İş Kurumuna bildirmek ve işyerinde ilan etmekle
+yükümlüdür. İşveren toplu işçi çıkarmanın kesinleşmesinden itibaren altı ay
+içinde aynı nitelikteki iş için yeniden işçi almak istediği takdirde
+nitelikleri uygun olanları tercihen işe çağırır.
+
+Mevsim ve kampanya işlerinde çalışan işçilerin işten çıkarılmaları hakkında,
+işten çıkarma bu işlerin niteliğine bağlı olarak yapılıyorsa, toplu işçi
+çıkarmaya ilişkin hükümler uygulanmaz.
+
+İşveren toplu işçi çıkarılmasına ilişkin hükümleri 18, 19, 20 ve 21 inci madde
+hükümlerinin uygulanmasını engellemek amacıyla kullanamaz; aksi halde işçi bu
+maddelere göre dava açabilir.
+
+=== FESİH BİLDİRİMİNE İTİRAZ
+
+İş sözleşmesi feshedilen işçi, fesih bildiriminde sebep gösterilmediği veya
+gösterilen sebebin geçerli bir sebep olmadığı iddiası ile fesih bildiriminin
+tebliği tarihinden itibaren bir ay içinde iş mahkemesinde dava açabilir.
+Taraflar anlaşırlarsa uyuşmazlık aynı sürede özel hakeme götürülür.
+
+TIP: 2018'te yürürlüğe girecek değişiklik ile feshe itiraz için mahkemeden önce
+arabulucuya gidilmesi şarttır.
+
+Feshe itiraz için ihbar süresinin dolmasını beklemek şart değildir.
+
+Feshin geçerli bir sebebe dayandığını ispat yükümlülüğü işverene aittir. İşçi,
+feshin başka bir sebebe dayandığını iddia ettiği takdirde, bu iddiasını ispatla
+yükümlüdür.
+
+İşe iade talebinin haklı olmadığı sonucuna varılırsa hiçbir parasal sonuç
+doğmaz, sadece iş sözleşmesinin geçerli nedenle sona erdirilmesinin sonuçları
+doğar. Böylece işçi iş güvencesine özgü parasal imkanlardan yararlanamaz.
+
+Dava seri muhakeme usulüne göre iki ay içinde sonuçlandırılır. Mahkemece
+verilen kararın temyizi halinde, Yargıtay bir ay içinde kesin olarak karar
+verir.
+
+İşverence geçerli sebep gösterilmediği veya gösterilen sebebin geçerli olmadığı
+mahkemece veya özel hakem tarafından tespit edilerek feshin geçersizliğine
+karar verildiğinde, işveren, işçiyi bir ay içinde işe başlatmak zorundadır.
+İşçiyi başvurusu üzerine işveren bir ay içinde işe başlatmaz ise, işçiye en az
+dört aylık ve en çok sekiz aylık ücreti tutarında tazminat ödemekle yükümlü
+olur.
+
+Mahkeme veya özel hakem feshin geçersizliğine karar verdiğinde, işçinin işe
+başlatılmaması halinde ödenecek tazminat miktarını da belirler.
+
+Kararın kesinleşmesine kadar çalıştırılmadığı süre için işçiye en çok dört aya
+kadar doğmuş bulunan ücret ve diğer hakları ödenir.
+
+İşçi işe başlatılırsa, peşin olarak ödenen bildirim süresine ait ücret ile
+kıdem tazminatı, yukarıdaki fıkra hükümlerine göre yapılacak ödemeden mahsup
+edilir. İşe başlatılmayan işçiye bildirim süresi verilmemiş veya bildirim
+süresine ait ücret peşin ödenmemişse, bu sürelere ait ücret tutarı ayrıca
+ödenir.
+
+İşçi kesinleşen mahkeme veya özel hakem kararının tebliğinden itibaren on
+işgünü içinde işe başlamak için işverene başvuruda bulunmak zorundadır. İşçi bu
+süre içinde başvuruda bulunmaz ise, işverence yapılmış olan fesih geçerli bir
+fesih sayılır ve işveren sadece bunun hukuki sonuçları ile sorumlu olur.
+
+Yargıtay'a göre:
+
+. 10 iş günlük süre içerisinde işçinin başvuruda bulunmaması halinde fesih
+geçerli hale gelir.
+. 10 iş günlük süre içerisinde işçinin başvuruda bulunması ve işverenin de
+başvuruyu kabul etmesine rağmen işçinin işe gitmemesi halinde işçi hiç
+başvurmamış sayılır ve fesih geçerli hale gelir.
+. 10 iş günlük süre içerisinde işçinin başvuruda bulunması ve işverenin de
+kabul etmesi üzerine işçi işe başlarsa eski iş ilişkisi hiç fesih yapılmamış
+gibi devam eder. İhbar tazminatı ile kıdem tazminatı ödenmişse bir dayanağı
+kalmadığı için mahsup edilir. Ücreti ödenen 4 aylık süre kıdeme eklenir.
++
+CAUTION: İşveren, 4 aylık boşta geçen ücretin alınmayacağı şeklinde şartlar öne
+süremez. Eski iş ilişkisi *aynen* devam eder.
+. İşçi 10 iş günü içinde müracaat etmesine rağmen işe başlatılmazsa iş
+sözleşmesi feshedilmiş olur. Sözleşmenin fesih tarihi 1 aylık işe başlatma
+süresinin sonudur. Eğer bir aylık süre bitmeden işçinin işe başlatılmayacağı
+kesin şekilde belirtildiyse sözleşme bu beyanın yapıldığı tarihte sona erer.
+. İşçi dava sürerken başka bir işyerinde çalışmaya başlarsa buradan elde ettiği
+gelir bir görüşe göre mahsup edilirken bir görüşe göre mahsup edilemez.
+. Dava devam ederken işçin işe davet edilmesi üzerine işe başlaması halinde işe
+iade ve iş güvencesi talepleri konusuz kalmaktadır. Ancak 4 aylık ücretin hükme
+bağlanması gerekir.
+. Dava devam ederken işçin işe davet edilmesi üzerine işçinin bu daveti
+reddetmesinde haklı menfaati vardır. Kabul etmediği için kötü niyetli olduğu
+sonucuna varılamaz.
+. Dava devam ederken işyerinin kapanması feshi geçerli hale getirmez. Zira
+fesih yapıldığında işyeri faal durumdadır. Doktrin ise işçinin iade edileceği
+bir işyeri kalmadığına göre kapanma tarihine kadarki boşta geçen süreye ait
+ücret ve yargılama giderleri devam eder ancak işe iadeye ve iş güvencesi
+tazminatına ilişkin hüküm kurulamaz demektedir.
+. İşçi dava açmadan ölürse dava açma hakkı kişiye bağlı hak olduğundan
+mirasçıları dava açamaz.
+. Yargılama devam ederken işçinin hayatını kaybetmesi durumunda işe iade, iş
+güvencesi tazminatı ve boşta geçen süre ücreti taleplerinin reddine karar
+verilir. Yargılama masraflarının kime yükletileceği ve vekalet ücretiyle ilgili
+sonuçlar hakkında karar verilir. Doktrin boşta geçen süre ücreti de sonuca
+bağlanmalıdır dese de Yargıtay bunu kabul etmemektedir.
+. İşe iade davası sonuçlandıktan sonra işçi işverene başvurmuş ve sonrasında
+ölmüş ise 4 aylık boşta geçen süre ücreti için mirasçıları talepte bulunabilir.
