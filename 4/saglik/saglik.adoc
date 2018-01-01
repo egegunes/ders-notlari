@@ -328,12 +328,51 @@ Türkiye'de üç tür hastane vardır:
 . Devlet hastanesi
 
 *Özel hastanede* muhatap hastanedir. Hastane ile hasta arasında *hasta kabul
-sözleşmesi* kurulur. Hekim burada ifa yardımcısıdır. Hekimin haksız fiili
-durumunda hasta hem hekimin hem de hastanenin sorumluluğuna gidebilir. Hekimin
-kısmen veta tamamen sorumsuz olduğuna ilişkin anlaşmalar geçersizdir. Özel
-hastanelerdeki müdahalelerden doğan zarardan devletin sorumluluğu söz konusu
-değildir. Ancak devlet özel hastaneyi denetim ve gözetim yükümlülüğüne aykırı
-davranırsa sorumluluğu gündeme gelir.
+sözleşmesi* kurulur.
+
+Hastane ile hasta arasında karşılıklı irade beyanları uyuşuyorsa sözleşme
+kurulur. İrade beyanları yazılı veya sözlü olabilir ya da davranışlarla da
+kurulabilir.
+
+Kural olarak hastanenin hastanın kaydını alması ve hastanın şikayeti üzerine
+gerekli incelemelerin yapılmasını kabul etmesiyle birlikte sözleşme kurulmuş
+olur.
+
+NOTE: Hasta küçükse yasal temsilcisinin rızası aranacaktır. Ancak her halükarda
+sözleşmenin tarafı küçük olan hastadır.
+
+Hekim burada ifa yardımcısıdır. Hekimin haksız fiili durumunda hasta hem
+hekimin hem de hastanenin sorumluluğuna gidebilir. Hekimin kısmen veta tamamen
+sorumsuz olduğuna ilişkin anlaşmalar geçersizdir.
+
+Hastanenin sözleşmeden doğan borcunu ifa edebilmesi için alacaklının rızasına
+ihtiyacı vardır. Hastanın rızası ifa aşamasına geçebilmek için zorunludur. Aynı
+zamanda hasta kural olarak istediği anda rızasını geri alabilir.
+
+Dava hastaneye karşı açılmışsa tedavi sadece tıbbi müdahalenin kendisi
+değildir. Hastane hem hekimlik hizmeti verir, hem de müdahaleden önce ve sonra
+bakım hizmeti verir.
+
+TIP: Özel hastanelerdeki müdahalelerden doğan zarardan devletin sorumluluğu söz
+konusu değildir. Ancak devlet özel hastaneyi denetim ve gözetim yükümlülüğüne
+aykırı davranırsa sorumluluğu gündeme gelir.
+
+Hekim ile hasta arasındaki sözleşme bir vekalet sözleşmesidir. Hekim sonucu
+taahhüt ediyor olsa bile bu bir eser sözleşmesi meydana getirmez. Dolayısıyla
+hekimin ayıba karşı yükümlülüğü yoktur ama üstlendiği işi özenle yapma borcu
+vardır. Hekim gereken özeni göstermesine rağmen sonuç meydana gelmemişse
+sorumluluğuna gidilemez.
+
+TIP: Yargıtay'ın uygulamasına göre estetik ameliyat eser sözleşmesinin konusunu
+oluşturur.
+
+Hekim hem vekalet sözleşmesinden kaynaklanan borcunu yerine getirecektir hem de
+hastanın vücuduna yönelik eylemi haksız fiil teşkil edecektir.
+
+NOTE: Birden fazla hukuki sebep varsa kişi tazminat için istediği sebebe
+dayanabilir. Burada sebeplerin yarışması söz konusudur. Hangisine dayandığına
+göre uygulanacak hükümler farklı olacaktır. Ancak ikisini aynı anda ileri
+sürmek mümkün değildir.
 
 *Kamu hastanesinde* hasta ile hekim arasında idare hukuku ilişkisi vardır.
 Yargıtay'a göre ister hizmet kusuru olsun ister hekimin şahsi kusuru olsun dava
@@ -341,3 +380,43 @@ her zaman idareye karşı açılır.
 
 CAUTION: Hekimin göreviyle alakalı olmayan veya yetkisini ciddi şekilde aşan
 eyleminden doğan zararlar için doğrudan hekime dava açılabilir.
+
+== MALPRAKTİS
+
+Bir malpraktis iddiasında hekime sorumluluk atfedebilmek için dört şartın
+yerine gelmiş olması gerekir:
+
+. Hasta-hekim ilişkisi kurulmuş olmalıdır.
+. Hekim tedaviyi uygularken bilimsel standartlardan sapmış olmalıdır.
+. Hekim bilimsel standartlara uygun hareket etseydi önlenebilir bir zararın
+oluşması gerekir.
+. Hekimin eylemi ya da eylemsizliği ile zarar arasında bir illiyet bağı
+olmalıdır.
+
+TIP: Bu dört şartın ortaya çıktığı dava _Bolam_ davasıdır.
+
+== SAĞLIK FAALİYETİ
+
+Türkiye'deki temel sağlık otoritesi Sağlık Bakanlığı'dır. Sağlık Bakanlığı
+bünyesinde bazı kurullar bulunmaktadır:
+
+. *Yüksek Sağlık Şurası:* Özelllikle adli konularda mahkemeye görüş vermek
+üzere oluşturulmuştur.
+. *Tıpta Uzmanlık Kurulu:* Tıp ve diş hekimliği alanında uzmanlık eğitimi veren
+kurumlara eğitim yetkisi vermektedir.
+. *Sağlık Meslekleri Kurulu:* Sağlık eğitimi veren kurumlarında mesleki alan ve
+dallarının belirlenmesi için kurulmuştur.
+
+Bunlar dışında Bakanlık'tan ayrı tüzel kişiliğe sahip kurumlar vardır:
+
+. *Türkiye Halk Sağlığı Kurumu:* Bakanlığın politika ve hedeflerine uygun
+olarak sağlık hizmetlerini yürütür.
+. *Türkiye İlaç ve Tıbbi Cihaz Kurumu:* İlaç üretiminde etken maddeler, tıbbi
+cihazlar, hastalıklarda kullanılabilecek geleneksel bitkiler gibi konularda
+karar alıp düzenlemeler yapar.
+. *Türkiye Hudut ve Sahilleri Sağlık Genel Müdürlüğü:* Deniz seyahatleri
+yoluyla bulaşıcı hastalıkların yayılmasını engellemek için çalışır.
+. *Türkiye Kamu Hastaneleri Kurumu:* Kamu hastanelerinin uyum ve koordine için
+çalışmasını temin etmek için kurulmuştur.
+. *Kamu Hastane Birlikleri:* Sağlık hizmetlerinin il düzeyinde koordineli
+şekilide yürütülmesini amaçlar.
