@@ -604,3 +604,105 @@ dolayı da devletin sorumluluğu söz konusu değildir.
 NOTE: Yasama ve yargı organlarının kendı faaliyetleri dışında idari
 faaliyetleri söz konusu olduğunda bundan doğan zararlardan devletin sorumluluğu
 söz konusu olabilecektir.
+
+== RE'SEN ARAŞTIRMA İLKESİ
+
+Danıştay, bölge idare mahkemeleri ile idare ve vergi mahkemeleri, bakmakta
+oldukları davalara ait her türlü incelemeyi kendiliğinden yapar.
+
+Re'sen araştırma ilkesi bir yetki olduğu kadar yükümlülüktür. Taraflar ileri
+sürme bile maddi veya hukuki gerçeğin ortaya çıkması için gerekli olan
+işlemlerin yapılması mahkemenin yükümlülüğüdür. Bu yükümlülüğün yerine
+getirilmemesi bozma sebebidir.
+
+NOTE: Genel kabul, dava türleri arasında aryrım yapılmaksızın re'sen araştırma
+ilkesinin kabul edilmesidir.
+
+Mahkeme, usul kurallarını kendiliğinden denetleyecektir. Maddi ve hukuki olayın
+belirlenmesi için kendiliğinden araştırma yapacaktır. Aynı zamanda hukuki
+nitelendirmeyi de kendisi yapacaktır.
+
+CAUTION: Re'sen araştırma ilkesine rağmen mahkeme, dava konusu edilmemiş bir
+maddi vakıayı incelemeyecektir. *Ancak, ilk bakışta hayatın olağan akışına
+aykırı olduğu anlaşılabilecek maddi vakıalar, taraflar arasındaki ihtilafa konu
+olmasa dahi re'sen araştırılabilir.*
+
+Mahkemeler belirlenen süre içinde lüzum gördükleri evrakın gönderilmesini ve
+her türlü bilgilerin verilmesini taraflardan ve ilgili diğer yerlerden
+isteyebilirler. Bu husustaki kararların, ilgililerce, süresi içinde yerine
+getirilmesi mecburidir. Haklı sebeplerin bulunması halinde bu süre, bir defaya
+mahsus olmak üzere uzatılabilir.
+
+NOTE: İdarenin susma hakkı söz konusu değildir. Ancak kişiler bakımından susma
+hakkının kabul edilmesi gerekir. AİHM'in de bu yönde kararları vardır.
+
+Ancak, istenen bilgi ve belgeler Devletin güvenliğine veya yüksek menfaatlerine
+veya Devletin güvenliği ve yüksek menfaatleriyle birlikte yabancı devletlere de
+ilişkin ise, Başbakan veya ilgili bakan, gerekçesini bildirmek suretiyle, söz
+konusu bilgi ve belgeleri vermeyebilir. Verilmeyen bilgi ve belgelere
+dayanılarak ileri sürülen savunmaya göre karar verilemez.
+
+Her kurumun kendi faaliyetleri bakımından gizli tuttuğu bilgi ve belgeler
+olabilir. Ancak idarenin kendi işleyişi bakımından birtakım bilgi ve belgeleri
+gizli olarak tasnif etmesi mahkemeyi bağlamaz. Kanun koyucu ancak devlet sırrı
+niteliğinde olan belgeleri korumuştur.
+
+Dilekçeler ve savunmalarla birlikte verilmeyen belgeler, bunların vaktinde
+ibraz edilmelerine imkan bulunmadığına mahkemece kanaat getirilirse, kabul ve
+diğer tarafa tebliğ edilir. Bu belgeler duruşmada ibraz edilir ve diğer taraf
+cevabını hemen verebileceğini beyan eder veya cevap vermeye lüzum görmezse,
+ayrıca tebliğ edilmez.
+
+== HASIM DÜZELTME
+
+Hasım düzeltmenin gerekip gerekmediği davanın esasına girilmeden ilk incelemede
+çözülmesi gereken bir konudur. Fakat daha sonra farkedilmiş veya sonradan hasım
+düzeltme gerekmiş ise davanın esasına girildikten sonra da karar verilebilir.
+
+== TARAF DEĞİŞİKLİĞİ
+
+Dava esnasında ölüm veya herhangi bir sebeple tarafların kişilik veya
+niteliğinde değişiklik olursa, davayı takip hakkı kendisine geçenin
+başvurmasına kadar; gerçek kişilerden olan tarafın ölümü halinde, idarenin
+mirasçılar aleyhine takibi yenilemesine kadar dosyanın işlemden kaldırılmasına
+ilgili mahkemece karar verilir. Dört ay içinde yenileme dilekçesi verilmemiş
+ise, varsa yürütmenin durdurulması kararı kendiliğinden hükümsüz kalır.
+
+Yalnız öleni ilgilendiren davalara ait dilekçeler iptal edilir.
+
+Davacının gösterdiği adrese tebligat yapılamaması halinde, yeni adresin
+bildirilmesine kadar dava dosyası işlemden kaldırılır ve varsa yürütmenin
+durdurulması kararı kendiliğinden hükümsüz kalır. Dosyanın işlemden
+kaldırıldığı tarihten başlayarak bir yıl içinde yeni adres bildirilmek
+suretiyle yeniden işleme konulması istenmediği takdirde, davanın açılmamış
+sayılmasına karar verilir.
+
+Dosyaların işlemden kaldırılmasına ve davanın açılmamış sayılmasına dair
+kararlar diğer tarafa tebliğ edilir.
+
+== DAVANIN KONUSU
+
+*Konu*, davanın tipini ve genişletilebilecek alanını belirleyen kısımdır.
+Davanın konusu ile sonuç kısmının birbirleriyle bağlantılı olması
+gerekmektedir.
+
+Dava konusu olarak hangi işlem gösterilmişse, bu daha sonradan genişletilemez.
+
+İptal davasında dava konusu hi tereddüde yol açmayacak şekilde belirlenmelidir.
+Bu genelde işlemin tarihi ve sayısı belirtilerek yapılır. İşlem tebliğ
+edilmemiş ise idareye başvuru yapılıp bir nüshası alınmalıdır. Bu da mümkün
+değilse dava konusu edilen işlem hiç tereddüde yol açmayacak şekilde tarif
+edilmelidir.
+
+Tam yargı davasında ise istenen tazminat miktarı net bir şekilde
+belirtilmelidir.
+
+Tam yargı davalarında dava dilekçesinde belirtilen miktar, süre veya diğer usul
+kuralları gözetilmeksizin nihai karar verilinceye kadar, harcı ödenmek
+suretiyle bir defaya mahsus olmak üzere artırılabilir ve miktarın artırılmasına
+ilişkin dilekçe otuz gün içinde cevap verilmek üzere karşı tarafa tebliğ
+edilir.
+
+NOTE: Eğer tazminat miktarı ancak mahkemenin incelemesi sonucu hesaplanabilecek
+nitelikte ise olay ve hesaplanılabilir unsurlar yazılarak ıslaha gerek olmadan
+istenebilir.
