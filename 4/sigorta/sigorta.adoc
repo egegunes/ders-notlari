@@ -605,15 +605,36 @@ ve beyan ileri sürüldüğü takdirde baştan itibaren geçersiz sayılır.
 
 == SİGORTA POLİÇESİ VERME YÜKÜMLÜLÜĞÜ
 
+*Poliçe*, sözleşmenin kurulduğunu ve hangi şartları içerdiğini belgeleyen, bunu
+ispata yarayan araçtır.
+
 Sigortacı; sigorta sözleşmesi kendisi veya acentesi tarafından yapılmışsa,
 sözleşmenin yapılmasından itibaren yirmidört saat, diğer hâllerde onbeş gün
 içinde, yetkililerce imzalanmış bir poliçeyi sigorta ettirene vermekle
-yükümlüdür. Sigortacı poliçenin geç verilmesinden doğan zarardan sorumludur.
+yükümlüdür.
 
 NOTE: Poliçeyi düzenleyip verme süresi sigorta şirketinin kendisi veya A tipi
 acentesi için 24 saat, B tipi acente veya broker için 15 gündür.
+
+Sigortacı poliçenin geç verilmesinden doğan zarardan sorumludur.
 
 Sigorta ettiren poliçesini kaybederse, gideri kendisine ait olmak üzere, yeni
 bir poliçe verilmesini sigortacıdan isteyebilir.
 
 Poliçenin verilmediği hâllerde, sözleşmenin ispatı genel hükümlere tabidir.
+
+Sigorta poliçesi, tarafların haklarını, temerrüde ilişkin hükümler ile genel ve
+varsa özel şartları içerir, rahat ve kolay okunacak biçimde düzenlenir.
+
+Poliçenin ve zeyilnâmenin eklerinin içeriği teklifnameden veya kararlaştırılan
+hükümlerden farklıysa, anılan belgelerde yer alıp teklifnameden değişik olan ve
+sigorta ettirenin, sigortalının ve lehtarın aleyhine öngörülmüş bulunan
+hükümler geçersizdir.
+
+Kanunlarda aksine hüküm bulunmadıkça, genel şartlarda sigorta ettirenin,
+sigortalının veya lehtarın lehine olan bir değişiklik hemen ve doğrudan
+uygulanır.
+
+Ancak, bu değişiklik ek prim alınmasını gerektiriyorsa, sigortacı değişiklikten
+itibaren sekiz gün içinde prim farkı isteyebilir. İstenilen prim farkının sekiz
+gün içinde kabul edilmemesi hâlinde sözleşme eski genel şartlarla devam eder.
