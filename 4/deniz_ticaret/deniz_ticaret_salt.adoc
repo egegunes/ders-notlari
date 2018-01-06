@@ -1337,3 +1337,447 @@ söz konusudur. Ayrıca sorumluluğun sınırlandırılması da söz konusu değ
 Çevreye verilen zararların tazminine ilişkin talepler zarar görenin zararı ve
 tazminat yükümlüsünü öğrendiği tarihten itibaren beş yıl sonra zamanaşımına
 uğrar.
+
+== DONATMA İŞTİRAKİ
+
+Birden çok kişinin paylı mülkiyet şeklinde malik oldukları bir gemiyi, menfaat
+sağlamak amacıyla aralarında yapmış oldukları sözleşme gereğince, hepsi adına
+ve hesabına suda kullanmaları hâlinde *donatma iştiraki* vardır.
+
+Tek başına bir geminin maliki veya işletme hakkına sahip olan ticaret
+şirketleri veya diğer tüzel kişiler hakkında donatma iştirakine ilişkin
+hükümler uygulanmaz.
+
+=== PAYDAŞ DONATAN
+
+Donatma iştirakinde paylı mülkiyete sahip her bir donatanın adı **paydaş
+donatan**dır. Bunların paylarına ise *iştirak payı* denir. İştirak payı
+çekirdeğinde gemi mülkiyetindeki pay bulunan ve bunun yanında geminin
+işletilmesi sebebiyle meydana çıkan zarara ve yarara katılma da bulunan bir
+paydır.
+
+Her bir paydaş donatan iştirakin borçlarından dolayı üçüncü kişilere karşı
+şahsen sorumludur.
+
+TTK 1062'de düzenlenmiş olan donatanın sorumluluğu, her bir paydaş donatan için
+de geçerlidir.
+
+=== TESCİLİ
+
+Donatma iştirakinin yapılmasını izleyen onbeş gün içinde iştirak, ticaret ve
+gemi sicillerine tescil edilir.
+
+Ticaret ve gemi sicillerine;
+
+.. Paydaş donatanların adları, yerleşim yerleri ve vatandaşlıkları,
+.. İştirakin unvanı ve merkezi,
+.. İştirakin konusu,
+.. Her paydaş donatanın gemi payının miktarı,
+.. İştiraki temsile yetkili kişilerin ad ve soyadları ile bunların yalnız
+başlarına mı yoksa birlikte mi imza atmaya yetkili oldukları,
+
+kaydedilir.
+
+=== PAYDAŞ DONATANLAR ARASINDAKİ HUKUKİ İLİŞKİLER
+
+Paydaş donatanlar arasındaki hukuki ilişkiler ile donatma iştirakinin temsili,
+paydaşlar arasındaki sözleşme hükümlerine tabidir. Sözleşmede hüküm bulunmayan
+durumlarda, aşağıdaki hükümler uygulanır.
+
+==== OLAĞAN İŞLER
+
+İştirakin işleri paydaş donatanların oy çoğunluğu ile verecekleri kararlara
+göre yürütülür. Her paydaş donatanın sahip olduğu oy hakkı, onun gemideki payı
+veya paylarının miktarına göre belirlenir. Kararın lehinde oy verenlerin, tüm
+payların yarısından fazlasına sahip olmaları hâlinde oy çoğunluğu gerçekleşmiş
+sayılır.
+
+==== OLAĞANÜSTÜ İŞLER
+
+Donatma iştiraki sözleşmesinin değiştirilmesine ilişkin veya bu sözleşmeye
+aykırı ya da iştirakin amacına yabancı kararlar oybirliği ile alınır.
+
+==== GEMİ MÜDÜRÜ
+
+Donatma iştirakinin işlerinin görülmesi için oy çoğunluğu ile bir gemi müdürü
+atanabilir. Paydaş donatanlardan olmayan bir gemi müdürünün atanması için
+oybirliği şarttır.
+
+Gemi müdürü, sözleşmenin feshinden doğan hakları saklı kalmak üzere, her zaman
+oy çoğunluğuyla görevden alınabilir.
+
+Gemi müdürünün atanması ve görevden alınması ticaret ve gemi sicillerine tescil
+olunur.
+
+Gemi müdürü, bu sıfatla iştirakin olağan işlerinin gerektirdiği bütün işlemleri
+ve hukuki tasarrufları üçüncü kişilerle yapmaya ve bu işler dolayısıyla ödenen
+paraları toplamaya yetkilidir. Gemi müdürünün temsil yetkisine, özellikle
+geminin donatılmasına ve bakımına ilişkin işlem ve tasarruflar ile navlun
+sözleşmelerinin yapılması ve geminin, navlunun, donatma giderlerinin ve
+müşterek avaryadan doğan alacakların sigorta ettirilmesi dâhildir.
+
+Kaptan, sadece gemi müdürünün emir ve talimatlarına uymakla yükümlü olup,
+paydaş donatanlardan herhangi birinin vereceği talimata uymak zorunda değildir.
+
+Gemi müdürü yapmaya yetkili olduğu işlerden doğan uyuşmazlıklar dolayısıyla
+açılan davalarda ve girişilen takiplerde iştiraki temsile de yetkilidir.
+
+Gemi müdürü, kendisine özel bir yetki verilmedikçe, iştirak veya paydaş
+donatanlardan birinin veya birkaçının adına kambiyo taahhüdünde bulunamayacağı
+veya ödünç para alamayacağı gibi gemi veya gemi payları üzerinde bunları satmak
+veya rehnetmek suretiyle tasarrufta da bulunamaz.
+
+Gemi müdürünün yönetme hakkı yukarıdaki hükümlere tabidir. Ancak, olağanüstü
+tamirler veya kaptanın atanması ve görevden alınması için önceden donatma
+iştirakinin kararının alınması gerekir.
+
+Gemi müdürü, iştirak tarafından yetkilerinin kapsamına getirilen sınırlamalara
+uymakla yükümlüdür. Bunun dışında, alınan kararlara göre hareket etmek ve bu
+kararları uygulamak zorundadır.
+
+Gemi müdürünün bu sıfatla kanuni yetkileri çerçevesinde yaptığı hukuki
+işlemlerden doğan bütün hak ve borçlar iştirake aittir.
+
+Gemi müdürünün kanuni temsil yetkisinin sınırlandırılması, donatma iştiraki
+tarafından ancak işlemin yapıldığı anda bunu bilen üçüncü kişilere karşı ileri
+sürülebilir.
+
+Gemi müdürü, donatma iştirakinin işlerini yaparken tedbirli bir donatanın
+özenini göstermek zorundadır.
+
+Gemi müdürü, paydaş donatanlardan her birine, istemi üzerine, donatma
+iştirakine ait işler hakkında bilgi vermek ve iştirake ait bütün defterlerle
+belgeleri göstermek zorundadır.
+
+Donatma iştirakinde gemi müdürünün hesap vermesine her zaman karar verilebilir.
+Gemi müdürünün verdiği hesabın çoğunluk tarafından onaylanması ve gördüğü
+işlerin uygun bulunması, bu karara karşı oy verenlerin itiraz haklarını
+düşürmez.
+
+==== KAZANCA VE ZARARA KATILMA
+
+İştirakin kazancı ve zararı, paydaş donatanlara gemideki paylarına göre
+dağıtılır. Kazanç ve zarar hesabı ile kazancın dağıtılması takvim yılı sonunda
+yapılır.
+
+==== GİDERLERE KATILMA
+
+Paydaş donatanlardan her biri iştirakin giderlerine, özellikle geminin
+donatılması ve tamiri giderlerine, gemideki payları oranında katılmak
+zorundadır.
+
+Paydaş donatanlardan biri kendisine düşen gider payını ödemez ve bu para diğer
+paydaş donatanlar tarafından onun hesabına avans olarak verilirse, borçlu
+paydaşın temerrüt faizi ödeme yükümlülüğü, avansların verildiği tarihten
+itibaren başlar. Avansın ödenmesinin, borçlu paydaşa ait gemi payı veya payları
+üzerinde, avans veren paydaş donatanlar bakımından doğurduğu sigortalanabilir
+menfaatin sigorta ettirilmesi hâlinde, sigorta giderleri de borçlu paydaş
+donatana ait olur.
+
+==== PAYDAŞ DONATANLARIN ŞAHSINDE DEĞİŞİKLİK
+
+Paydaş donatanlardan birinin şahsında meydana gelecek bir değişiklik, donatma
+iştirakinin devamına engel olmaz.
+
+Paydaş donatanlardan hiçbiri iştirakten çıkarılamaz.
+
+=== PAYDAŞ DONATANLARIN SORUMLULUĞU
+
+==== İŞTİRAKİN BORÇLARINDAN DOLAYI ÜÇÜNCÜ KİŞİLERE KARŞI SORUMLULUĞU
+
+Deniz alacaklarından sorumluluğun sınırlandırılmasıyla ilgili hükümler saklı
+kalmak üzere, paydaş donatanlar, iştirakin borçlarından dolayı üçüncü kişilere
+karşı iştirak payları oranında şahsen sorumludurlar.
+
+==== İŞTİRAK PAYININ DEVREDİLMİŞ OLMASI HÂLİNDE
+
+İştirak payını devreden paydaş donatan, iktisap edenle birlikte devri diğer
+donatanlara veya gemi müdürüne bildirmedikçe, onlarla olan ilişkilerinde paydaş
+donatan sayılır ve bu bildirimden önce doğan bütün borçlardan dolayı onlara
+karşı paydaş donatan sıfatıyla sorumlu olmakta devam eder. İştirak payını
+iktisap eden kişi de iktisap anından itibaren diğer paydaş donatanlarla olan
+ilişkilerinde paydaş donatan sıfatı ile sorumlu olur.
+
+Donatma iştiraki sözleşmesi hükümleri ile iştirak tarafından verilen kararlar
+ve girişilmiş işler, devredeni ne ölçüde bağlıyorsa, iktisap edeni de o ölçüde
+bağlar. İktisap edenin tekeffül bakımından devredene karşı sahip olduğu haklar
+saklı kalmak şartıyla, diğer paydaş donatanlar, devredenin paydaş donatan
+sıfatıyla devrettiği payına ilişkin olmak üzere ona düşen borçları, iktisap
+edene karşı da takas edebilirler.
+
+Bu hükümler bir iştirak payının cebrî icra yolu ile iktisabı hâlinde de
+uygulanır.
+
+=== SONA ERMESİ
+
+==== FESİH KARARI
+
+Donatma iştiraki, çoğunluk kararı ile fesih olunabilir. Geminin devri
+hakkındaki karar da iştirakin feshi kararı hükmündedir.
+
+==== ÇIKMAK İSTEYEN ORTAĞIN FESİH İSTEMİ
+
+Paydaş donatanlardan her biri, haklı bir sebebe dayanarak iştirakten çıkmasına
+izin verilmesini isteyebilir. İştirakten çıkmasına izin verilmeyen paydaş
+donatan, haklı sebeplere dayanarak mahkemeden iştirakin feshini isteyebilir.
+
+Dürüstlük kuralına göre paydaş donatanın iştirakte kalmasını ondan
+beklenilemeyecek derecede zorlaştıran olaylar haklı sebep sayılır. Sadece
+çıkmak isteyen paydaş donatanın şahsını ilgilendiren ve diğer paydaş
+donatanlardan hiçbiri için sözleşmeye aykırılık oluşturmayan olaylar, haklı
+sebep olarak kabul edilemez.
+
+Mahkeme haklı sebebi ispatlanmış görürse, davacının iştirak payına
+bilirkişilerce biçilecek olan değerin diğer paydaş donatanlar tarafından ödenip
+devralınması için onlara uygun bir süre verir. Her paydaş donatanın, davacı
+paydaş donatanın payını, kendi payı oranında devralmak hakkı vardır. Mahkemece
+verilen süre içinde davacı paydaş donatanın payı devralınmadığı takdirde,
+mahkeme iştirakin feshine karar verir.
+
+Bu hükümlerin paydaş donatanlar aleyhine değiştirilmesi sonucunu doğuran
+sözleşme şartları geçersizdir.
+
+==== İŞTİRAKİN İFLASI
+
+Donatma iştiraki hakkında iflasın açılmasıyla da iştirak sona erer.
+
+==== SONA ERMEYİ GEREKTİRMEYEN HALLER
+
+Paydaş donatanlardan birinin ölümü veya iflası, donatma iştirakinin sona
+ermesine sebep olmaz.
+
+=== YETKİLİ MAHKEME
+
+Paydaş donatanlar aleyhine bu sıfatları dolayısıyla diğer paydaş donatanlar
+veya üçüncü kişiler tarafından herhangi bir alacaktan dolayı geminin bağlama
+limanının bulunduğu yer mahkemesinde de dava açılabilir.
+
+Davanın paydaş donatanlardan biri veya birkaçı aleyhine açılmış olması hâlinde
+de aynı hüküm uygulanır.
+
+== KAPTAN
+
+Kaptan aslında bir gemi adamıdır. Ancak kanun, kaptanı gemi adamlarının
+başında, geminin sevk ve idaresini sağlayan kişi olarak göstermiştir.
+
+NOTE: Kaptan da bir gemi adamı olduğu için deniz iş hukuku bakımından diğer
+gemi adamları gibi Deniz İş Kanunu'na tabidir.
+
+Kaptan, bütün işlerinde, özellikle ifası kendisine düşen sözleşmelerin yerine
+getirilmesinde tedbirli bir kaptan gibi hareket etmek zorundadır.
+
+Kaptan, gemi zayi olsa bile, gerektiği sürece donatanın menfaatlerini korumakla
+yükümlüdür.
+
+=== SORUMLULUĞU
+
+Kaptan, kusuruyla yol açtığı zararlardan, özellikle bu Kısım ile diğer
+Kısımlarda belirtilen görevlerini yapmamasından doğacak zararlardan dolayı,
+yolcular da dâhil, gemi ve eşyayla ilgili herkese karşı sorumludur.
+
+Donatanın emrine uyması kaptanı sorumluluktan kurtarmaz.
+
+Durumu bilerek kaptana emir vermiş olan donatan da sorumludur.
+
+Kaptanın, Türkiye Cumhuriyetinin taraf olduğu sorumluluğun sınırlandırılmasına
+ilişkin milletlerarası sözleşmelerden doğan sorumluluğunu sınırlandırma hakkı
+saklıdır.
+
+=== GÖREVLERİ
+
+====  GEMİNİN DENİZE VE YOLA ELVERİŞLİ OLUP OLMADIĞINA DİKKAT ETME
+
+Kaptan, yola çıkmadan önce geminin denize ve yola elverişli olmasına ve gemiye,
+gemi adamlarına ve yüke ait belgelerin gemide bulunmasına dikkat etmek
+zorundadır.
+
+==== GEMİNİN YÜKLEMEYE VE BOŞALTMAYA ELVERİŞLİ OLUP OLMADIĞINA DİKKAT ETME
+
+Kaptan, yükleme ve boşaltma araçlarının kullanılma amaçlarına uygun durumda
+olmasına ve istifin, özel istifçiler tarafından yapılsa bile, denizcilikte
+geçerli olan kurallara uygun bir şekilde gerçekleştirilmesine dikkat etmek
+zorundadır.
+
+Kaptan, denizcilikte geçerli olan kurallar uyarınca; geminin aşırı derecede
+yüklenmemesine, gerekli safranın gemide bulunmasına ve geminin ambarlarının
+taşınacak olan eşyayı kabule ve korumaya elverişli bir şekilde donatılmış
+olmasına dikkat etmek zorundadır.
+
+==== YABANCI MEVZUATA UYMA
+
+Kaptan, yabancı bir ülkede bulunduğu sırada o ülke devletinin mevzuatına,
+özellikle kolluk, vergi ve gümrük kurallarına uymamasından doğan zararları
+tazmin ile yükümlüdür.
+
+Kaptan, gemisine harp kaçağı niteliğine sahip olduğunu bildiği veya bilmesi
+gereken eşyayı yüklemesi sebebiyle ortaya çıkan zararı da tazmin ile
+yükümlüdür.
+
+==== YOLA ÇIKMA
+
+Kaptan, gemi kalkmaya hazır olunca, elverişli ilk fırsatta yola çıkmak
+zorundadır.
+
+Kaptan, hastalık veya diğer bir sebepten dolayı gemiyi yönetemeyecek durumda
+olsa bile, geminin kalkmasını veya yolculuğun devamını, uygun görülemeyecek bir
+şekilde geciktiremez. Böyle bir durumda kaptan, durumun gereklerine göre
+donatandan talimat alması mümkünse, vakit geçirmeden ona engelleri bildirip
+talimat gelinceye kadar gereken önlemleri almak; aksi takdirde yerine başka bir
+kişiyi kaptan olarak bırakmak zorundadır. Kaptan, seçiminde kusurlu olmadıkça,
+kendisine vekâlet eden kaptanın fiillerinden dolayı sorumlu tutulamaz.
+
+==== GEMİDE HAZIR BULUNMA
+
+Yükleme başladıktan boşaltma bitinceye kadar zorunlu bir sebep bulunmadıkça
+kaptan, ikinci kaptanla birlikte aynı zamanda gemiden ayrılamaz. Kaptan
+ayrılmak zorunda kalırsa, ayrılmadan önce zabitler veya tayfalar arasından
+uygun birisini yerine vekil bırakmakla yükümlüdür.
+
+Bu hüküm, geminin güvenli olmayan bir limanda veya demirleme yerinde bulunduğu
+zamanda, yükleme başlamadan önce ve boşaltma bittikten sonra da uygulanır.
+
+Kaptan, yakın bir tehlikenin var olması hâlinde veya gemi denizde bulunduğu
+sırada, gemiden ayrılmasını haklı gösteren bir zorunluluk olmadıkça, gemide
+kalmakla yükümlüdür.
+
+=== GEMİ JURNALİ
+
+Her gemide gemi jurnali denilen bir defter tutulur. Bu deftere her yolculukta
+eşya veya safranın yüklenmeye başlanması anından itibaren geçecek belli başlı
+olaylar yazılır.
+
+Gemi jurnali, kaptanın gözetimi altında, ikinci kaptan tarafından ve onun
+mazereti hâlinde bizzat kaptan veya kaptanın gözetimi altında olmak şartıyla
+ehil bir gemi adamı tarafından tutulur.
+
+Bir liman içinde yolculuk yapan küçük gemilerde jurnal tutmak yükümlülüğü
+yoktur.
+
+NOTE: Gemi jurnali, geminin özellikle üçüncü kişilere zarar vermesi halinde
+kimin kusurlu olduğu, donatanın sorumluluğunun ne zaman başlayıp bittiği
+hususlarında delil niteliği taşır.
+
+=== DENİZ RAPORU
+
+Kaptan, yolculuk sırasında gemiyi veya taşınan eşyayı ilgilendiren veya başkaca
+bir maddi zarar doğurması muhtemel olan bir kaza meydana geldiğinde, gemi zayi
+olsa bile, bir deniz raporu düzenlenmesini istemeye yetkili ve kendisinden
+istendiği takdirde buna zorunludur. Deniz raporunun düzenlenmesini donatan veya
+ilgisi olduğunu ispat eden herkes isteyebilir. Deniz raporunun, vakit
+kaybetmeksizin aşağıda belirtilen yerlerden birinde düzenlenmesi istenebilir:
+
+.. Varma limanında ve eğer varma limanı birden çok ise, kazadan sonra varılan
+ilk limanda.
+.. Gemi tamir edildiği veya eşya boşaltıldığı takdirde barınma limanında.
+.. Yolculuk geminin batması yüzünden veya diğer bir sebepten varma limanına
+ulaşmadan biter ise, kaptanın veya ona vekâlet eden kişinin uğradığı ilk
+elverişli yerde.
+
+Kaptan ölür veya deniz raporu düzenlettiremeyecek bir hâlde bulunursa, gemide
+kaptandan sonra en yüksek rütbeli zabit tespit yaptırmak zorundadır.
+
+Deniz raporu, Türkiye Cumhuriyeti sınırları içinde mahkemelerce düzenlenir.
+Diğer yerlerde, Türk Bayraklı gemiler için yerel mevzuat hükümleri saklı kalmak
+üzere Türk konsoloslukları, deniz raporu düzenler.
+
+Yolculuğun önemli olayları, özellikle kazalar ve zararın önüne geçilmesi veya
+azaltılması için alınan önlemler tam ve açık olarak mahkemece veya
+konsoloslukça tespit edilir.
+
+=== DONATANIN TEMSİLİ
+
+Donatan, kaptanın onun adına hareket ettiğini bildirerek veya bildirmeyerek,
+gemiyi sevk ve idare eden kişi sıfatıyla kanuni yetkileri dâhilinde yaptığı
+hukuki işlemlerden dolayı üçüncü kişilere karşı hak iktisap eder ve borç altına
+girer.
+
+Kaptan, ifasını ayrıca üstlenmedikçe veya kanuni yetkilerini aşmadıkça, yapmış
+olduğu işlemlerden dolayı şahsen borç altına girmez. Kaptanın 1088 ve 1089 uncu
+maddelerden kaynaklanan sorumluluğu saklıdır.
+
+==== GEMİ BAĞLAMA LİMANINDA BULUNDUĞU SIRADA
+
+Gemi henüz bağlama limanında bulunduğu sırada kaptanın yapmış olduğu hukuki
+işlemler donatanı bağlamaz; meğerki, kaptan kendisine ayrıca verilmiş özel bir
+yetkiye dayanarak hareket etmiş veya borç, diğer bir özel borçlandırıcı
+sebepten doğmuş olsun.
+
+Kaptan bağlama limanında da gemi adamı tutmaya yetkilidir.
+
+==== GEMİ BAĞLAMA LİMANI DIŞINDA BULUNDUĞU SIRADA
+
+Gemi bağlama limanı dışında bulunduğu sırada kaptan, bu sıfatla, geminin
+donatılmasına, yakıt ve kumanyasına, gemi adamlarına, geminin denize, yola ve
+yüke elverişli bir hâlde tutulmasına ve genel olarak yolculuğun güvenli bir
+şekilde sürdürülmesine ilişkin her türlü işlem ve tasarrufları üçüncü kişilerle
+donatan adına yapmaya yetkilidir.
+
+Taşıma sözleşmeleri yapmak ve görevlerine giren hususlarda dava açmak da
+kaptanın yetkisi kapsamındadır.
+
+Yabancı bayraklı gemilerde, geminin malikine veya kiracısına açılacak her türlü
+dava veya takip, onlar hakkında geçerli olmak üzere kaptana da yöneltilebilir.
+
+==== KREDİ İŞLEMLERİ
+
+Kaptan, ancak gemiyi korumak veya yolculuğu yapmak için zorunluluk bulunması
+hâlinde ve bu ihtiyaçların karşılanabilmesi için gerekli olan miktarda ödünç
+para veya veresiye mal almaya ve benzeri kredi işlemlerini yapmaya yetkilidir.
+
+Yukarıda kaptanın yapmaya yetkili olduğu belirtilen işlemlerin geçerliği, onun
+seçtiği işlemin amaca uygun veya bu işlemle sağlanan para veya diğer şeylerin
+fiilen geminin korunması veya yolculuk yapmak için kullanılmış olup olmamasına
+bağlı değildir. Üçüncü kişi, kaptanın yetkisiz olduğunu veya sağlanan krediyi
+başka bir amaçla kullanma niyetinin bulunduğunu biliyorsa yahut bunları
+bilmemesi ağır bir ihmal oluşturuyorsa, kaptanın yaptığı işlem donatanı
+bağlamaz.
+
+Kaptanın kambiyo taahhütlerinden dolayı donatanın şahsen sorumlu tutulması, ona
+donatan tarafından açık bir temsil yetkisi verilmiş bulunmasına bağlıdır.
+
+==== TEMSİL YETKİSİNİN SINIRLANDIRILMASI
+
+Kaptanın kanundan doğan temsil yetkisini sınırlandırmış olan donatan, bu
+sınırlandırmalara kaptanın uymadığını, sadece bunları bilen kişilere karşı
+ileri sürebilir.
+
+==== HESAP VERME VE TALİMAT İSTEME
+
+Kaptan; donatana geminin durumu, yolculuk sırasında meydana gelen olaylar,
+yaptığı sözleşmeler ve açılan davalar hakkında düzenli şekilde bilgi vermekle
+yükümlü olduğu gibi, şartlar elverdikçe bütün önemli işlerde, özellikle 1105
+inci maddede yazılı durumlarda, yolculuğun değiştirilmesi veya kesilmesi
+gerektiğinde ve olağanüstü tamirler ile alımlarda donatandan talimat istemek
+zorundadır.
+
+Kaptan, elinde donatana ait yeterli miktarda para bulunsa bile, olağanüstü
+tamirleri ve alımları, ancak zorunluluk hâlinde yapabilir.
+
+Kaptan, geminin bağlama limanına dönüşünde veya her isteyişinde donatana hesap
+vermek zorundadır.
+
+Kaptan; taşıtandan, yükletenden ve gönderilenden ödül veya tazminat gibi her ne
+ad altında olursa olsun navlun dışında aldığı bütün paraları da donatanın
+hesabına alacak yazmak zorundadır.
+
+=== YÜKLE İLGİLİ OLANLARIN MENFAATLERİNİ KORUMA YÜKÜMLÜLÜĞÜ
+
+Kaptan, yolculuk esnasında yükle ilgili olanların menfaati gereği eşyanın en
+iyi şekilde korunması için mümkün olan özeni göstermekle yükümlüdür.
+
+Kaptan, bir zararın önüne geçilmesi veya azaltılması için özel önlemlerin
+alınması gerektiğinde, yükle ilgililerin menfaatlerini göz önünde bulundurmaya
+ve mümkünse talimatlarını almaya ve durumun gereğine göre bu talimatları yerine
+getirmeye zorunludur. Talimat alınması mümkün olmadığı takdirde, kaptan kendi
+takdirine göre hareket eder; ancak yükle ilgili olanları, bu gibi durumlardan
+ve alınan önlemlerden gecikmeksizin bilgilendirmek için üzerine düşeni yapar.
+
+Kaptan, bu gibi durumlarda eşyayı tamamen veya kısmen boşaltmaya ve eşyanın
+bozulması yüzünden veya diğer sebeplerden ileri gelebilecek büyük bir zararın
+başka surette önüne geçilemeyeceği anlaşılıyorsa, eşyayı satmaya; korunması
+yahut daha ileri götürülmesi için gereken parayı sağlamak için rehnetmeye
+yetkilidir.
+
+Kaptan, yükle ilgili olanların zamanında bizzat yapabilecek durumda olmamaları
+koşuluyla, eşyanın zıyaından ve hasara uğramasından doğan istem haklarını,
+mahkemelerde veya mahkeme dışında kendi adına kullanmaya yetkilidir.
