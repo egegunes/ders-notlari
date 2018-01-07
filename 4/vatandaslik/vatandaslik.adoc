@@ -248,3 +248,68 @@ Türk vatandaşlığının kaybettirilmesi Bakanlar Kurulu kararının Resmi Gaz
 yayımlandığı tarihten itibaren hüküm ifade eder.
 
 Kaybettirme kararları şahsidir, ilgilinin eş ve çocuklarına tesir etmez.
+
+==== VATANDAŞLIĞIN İPTALİ
+
+Türk vatandaşlığını kazanma kararı; ilgilinin yalan beyanı veya vatandaşlığı
+kazanmaya esas teşkil eden önemli hususları gizlemesi sonucunda vuku bulmuş ise
+kararı veren makam tarafından iptal edilir.
+
+İptal kararı, karar tarihinden itibaren hüküm ifade eder. İptal kararı ilgili
+kişiye bağlı olarak Türk vatandaşlığını kazanan eş ve çocuklar hakkında da
+uygulanır.
+
+Vatandaşlığı iptal edilenler hakkında 15/7/1950 tarihli ve 5683 sayılı
+Yabancıların Türkiye'de İkamet ve Seyahatleri Hakkında Kanun hükümleri
+uygulanır. Bunlardan mallarının tasfiyesi gerekli görülen hallerde bu husus
+iptal kararında belirtilir. Bu kişiler en geç bir yıl içinde Türkiye'deki
+mallarını tasfiye etmek zorundadır. Aksi halde, malları Hazinece satılarak
+bedelleri nam ve hesaplarına kamu haznedarlığı sistemine dahil bir kamu
+bankasına yatırılır.
+
+Bu kişiler iptal kararı aleyhine yargı yoluna başvurdukları takdirde malların
+tasfiyesi dava sonuna bırakılır.
+
+=== VATANDAŞLIĞIN SEÇME HAKKI İLE KAYBI
+
+Aşağıda durumları belirtilenler, ergin olmalarından itibaren üç yıl
+içinde Türk vatandaşlığından ayrılabilirler.
+
+.. Ana ya da babadan dolayı soy bağı nedeniyle doğumla Türk vatandaşı
+olanlardan yabancı ana veya babanın vatandaşlığını doğumla veya sonradan
+kazananlar.
+.. Ana ya da babadan dolayı soy bağı nedeniyle Türk vatandaşı olanlardan doğum
+yeri esasına göre yabancı bir devlet vatandaşlığını kazananlar.
+.. Evlat edinilme yoluyla Türk vatandaşlığını kazananlar.
+.. Doğum yeri esasına göre Türk vatandaşı oldukları halde, sonradan yabancı ana
+veya babasının vatandaşlığını kazananlar.
+.. Herhangi bir şekilde Türk vatandaşlığını kazanmış ana veya babaya bağlı
+olarak Türk vatandaşlığını kazananlar.
+
+Yukarıdaki hükümler gereğince vatandaşlığın kaybı ilgiliyi vatansız kılacak ise
+seçme hakkı kullanılamaz.
+
+NOTE: Devlet, bu 3 yıllık süre içerisinde hakkın kullanılması halinde ayrılmayı
+engelleyemez. 3 yıllık süre geçtikten sonra ancak kişinin aranması,
+kovuşturulması vs. gibi durumlarda ayrılma engellenebilir.
+
+Seçme hakkı ile Türk vatandaşlığının kaybı, bu hakkın kullanılmasına dair
+şartların varlığının tespitine ilişkin karar tarihinden itibaren hüküm ifade
+eder.
+
+Seçme hakkını kullanarak Türk vatandaşlığından ayrılan kişilerin eşleri ve
+çocukları hakkında 27 nci madde hükümleri uygulanır.
+
+== VATANDAŞLIĞIN İSPATI
+
+Türk vatandaşlığının ispatı herhangi bir şekle tabi değildir.
+
+Aşağıdaki resmi kayıt ve belgeler, aksi sabit oluncaya kadar ilgilinin Türk
+vatandaşı olduğuna karine teşkil eder.
+
+.. Nüfus kayıtları.
+.. Nüfus cüzdanları.
+.. Pasaport veya pasaport yerine geçen belgeler.
+
+Bir kişinin Türk vatandaşı olup olmadığı konusunda herhangi bir tereddüde
+düşüldüğü takdirde bu husus Bakanlıktan sorulur.
