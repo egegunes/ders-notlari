@@ -520,3 +520,32 @@ artık Türkiye mahkemelerinde görülebilecektir.
 Yine yabancı bir mahkemeye yetki veren yetki sözleşmesine rağmen taraflardan
 biri Türkiye mahkemelerinde dava açmış ve karşı taraf yetki itirazında
 bulunmamışsa Türkiye mahkemesi yetkili olacaktır.
+
+TIP: Yargıtay, bir kararında yetki sözleşmesindeki "Alman mahkemeleri
+yetkilidir" ifadesini belirsiz bulmuş ve yetkilendirilen mahkemenin belirli
+olması gerektiğini söylemiştir. _Kürsüye göre_ bunu her ülkenin iç hukuku tayin
+eder. Dolayısıyla yabancı mahkemenin yetkilendirilmesi için ülke isminin
+belirtilmesi yeterlidir.
+
+== TARAFLAR
+
+=== DAVA EHLİYETİ
+
+Bir gerçek veya tüzel kişinin dava ehliyetine sahip olabilmesi için, yani
+davacı olabilmesi için fiil ehliyetine sahip olması gerekir.
+
+*Hak ve fiil ehliyeti ilgilinin milli hukukuna tabidir.*
+
+Tüzel kişilerin veya kişi veya mal topluluklarının hak ve fiil ehliyetleri,
+statülerindeki idare merkezi hukukuna tabidir. Ancak fiili idare merkezinin
+Türkiye'de olması halinde Türk hukuku uygulanabilir.
+
+=== TARAF EHLİYETİ
+
+Taraf ehliyetine sahip olabilmek için, yani bir davada davalı olabilmek için
+hak ehliyetine sahip olmak gerekir.
+
+=== TARAF SIFATI
+
+Sıfat, kişinin hakkı ile uyuşmazlık konusu arasında bağlantı olup olmadığını
+belirler. Sıfat, uyuşmazlığın esasına uygulanacak hukuka göre belirlenir.
