@@ -1448,7 +1448,7 @@ aldığı cezanın en az 4 ay olması gerekir.
 
 == YABANCILARIN HAK VE ÖZGÜRLÜKLERİ
 
-=== YABANCILARIN TÜRKİYE'DE BASIN ÖZGÜRLÜĞÜ
+=== YABANCILARIN BASIN ÖZGÜRLÜĞÜ
 
 Basın Kanunu'na göre yabancıların Türkiye'de süreli yayın çıkarması mümkündür.
 Türkiye'de çıkarılacak bir süreli yayının sahibi bir yabancı gerçek kişi ya da
@@ -1468,7 +1468,7 @@ Yabancı bir ülkede çıkarılan yayınların Türkiye'de basılması ya da yab
 ülkede basılmış yayınların Türkiye'de dağıtılması bakımından da bir sınırlama
 yoktur. Ancak burada da savcılığa beyanda bulunulması gerekir.
 
-=== YABANCILARIN TÜRKİYE'DE DERNEK/VAKIF KURMA VE ÜYE OLMA ÖZGÜRLÜĞÜ
+=== YABANCILARIN DERNEK/VAKIF KURMA VE ÜYE OLMA ÖZGÜRLÜĞÜ
 
 Dernekler Kanunu'na göre yabancılar herhangi bir izin almaksızın dernek
 kurabilir veya Türkiye'de kurulmuş olan bir derneğen üye olabilirler.
@@ -1488,6 +1488,55 @@ Vakıflar Kanunu'na göre yabancılar Türkiye'de vakıf kurabilir veya bir vakf
 üye olabilir. Fakat burada derneklerden farklı olarak mütekabiliyet şartı
 aranmaktadır.
 
+=== YABANCILARIN EĞİTİM GÖRME HAKKI
+
+Anayasa'da eğitim öğretim hakkından herkesin faydalanacağı düzenlenmiştir.
+Dolayısıyla yabancılar Türkiye'de istedikleri okula gidebilirler.
+
+=== YABANCILARIN OKUL AÇMASI
+
+Yabancı gerçek veya tüzel kişiler, Türkiye'de bir şirket kurar veya bir Türk
+şirkete ortak olurlarsa sadece ve sadece yabancı öğrencilerin gidebilecekleri
+bir *milletlerarası özel öğretim kurumu* kurabilirler.
+
+=== YABANCILARIN TAŞINMAZ EDİNMESİ
+
+Kanuni sınırlamalara uyulmak kaydıyla, uluslararası ikili ilişkiler yönünden ve
+ülke menfaatlerinin gerektirdiği hallerde Bakanlar Kurulu tarafından belirlenen
+ülkelerin vatandaşı olan yabancı uyruklu gerçek kişiler Türkiye’de taşınmaz ve
+sınırlı ayni hak edinebilirler. Yabancı uyruklu gerçek kişilerin edindikleri
+taşınmazlar ile bağımsız ve sürekli nitelikteki sınırlı ayni hakların toplam
+alanı, özel mülkiyete konu ilçe yüz ölçümünün yüzde onunu ve kişi başına ülke
+genelinde otuz hektarı geçemez. Bakanlar Kurulu kişi başına ülke genelinde
+edinilebilecek miktarı iki katına kadar artırmaya yetkilidir.
+
+[NOTE]
+====
+*Kanuni sınırlamaya örnekler:*
+
+* Yabancılar köy sınırları içinde taşınmaz edinemez.
+* Mukabele-i bilmisil
+====
+
+Yabancı ülkelerde kendi ülkelerinin kanunlarına göre kurulan tüzel kişiliğe
+sahip ticaret şirketleri ancak özel kanun hükümleri çerçevesinde taşınmaz ve
+sınırlı ayni hak edinebilirler. Bu ticaret şirketleri dışındakiler taşınmaz
+edinemez ve lehlerine sınırlı ayni hak tesis edilemez. Bu ticaret şirketleri
+ile yabancı uyruklu gerçek kişiler lehine taşınmaz rehni tesisinde bu maddede
+yer alan sınırlamalar uygulanmaz.
+
+Bakanlar Kurulu, ülke menfaatlerinin gerektiği hallerde yabancı uyruklu gerçek
+kişiler ile yabancı ülkelerde kendi ülkelerinin kanunlarına göre kurulan tüzel
+kişiliğe sahip ticaret şirketlerinin taşınmaz ve sınırlı ayni hak edinimlerini;
+ülke, kişi, coğrafi bölge, süre, sayı, oran, tür, nitelik, yüzölçüm ve miktar
+olarak belirleyebilir, sınırlandırabilir, kısmen veya tamamen durdurabilir veya
+yasaklayabilir.
+
+Yukarıdaki sınırlamalar dışında miras yoluyla edinilen taşınmazlar ve sınırlı
+ayni haklar, Maliye Bakanlığınca verilecek bir yılı geçmeyen süre içinde maliki
+tarafından tasfiye edilmediği takdirde tasfiye edilerek bedele çevrilir ve
+bedeli hak sahibine ödenir.
+
 == YABANCILARIN TÜRKİYE'DE ÇALIŞMASI
 
 Türkiye'de çalışmak isteyen yabancılar Çalışma ve Sosyal Güvenlik Bakanlığı'na
@@ -1504,6 +1553,24 @@ başvuruda bulunan gerçek ve tüzel kişileri kapsar.
 TIP: *Sınırötesi hizmet sunucusu*, Türkiye’de geçici nitelikte olmak üzere ve
 herhangi bir hizmet sunumu amacıyla bulunan ve ücretini Türkiye’deki ya da
 Türkiye dışındaki bir kaynaktan alan yabancıyı ifade eder.
+
+Uluslararası İşgücü Kanunu'na göre verilen çalışma izni veya çalışma izni
+muafiyeti, 6458 sayılı Kanunun 27 nci maddesi uyarınca ikamet izni yerine
+geçer. Ancak, 6458 sayılı Kanunda tanımlanan mülteci ya da ikincil koruma
+statüsü dışında yabancının herhangi bir nedenle ikamet izni olması yabancıya
+çalışma hakkı vermez.
+
+Yurt dışından yapılan başvuruya istinaden çalışma izni verilen yabancı, çalışma
+izninin geçerliliğinin başladığı tarihten itibaren altı ay içinde Türkiye’ye
+gelmek zorundadır. Bu süre içinde Türkiye’ye gelmeyen yabancının çalışma izni
+iptal edilir.
+
+Türkiye’nin taraf olduğu ikili veya çok taraflı sözleşmelerle sağlanan haklar
+saklı kalmak kaydıyla ve karşılıklılık ilkesi çerçevesinde çalışma izinleri; iş
+piyasasındaki durum ve çalışma hayatındaki gelişmeler, istihdama ilişkin
+sektörel ve ekonomik konjonktür koşullarının gerekli kıldığı hâllerde, belirli
+bir süre için tarım, sanayi veya hizmet sektörleri, belirli bir meslek, işkolu
+veya mülki ve coğrafi alan itibarıyla sınırlandırılabilir.
 
 === ÇALIŞMA İZNİ BAŞVURUSU
 
@@ -1724,3 +1791,206 @@ kültürel, sanatsal veya sportif amaçla Türkiye’ye gelen,
 
 yabancılara Uluslararası İşgücü Kanunu'nun 7 nci, 9 uncu ve 10 uncu
 maddelerinin uygulanmasına ilişkin istisnalar tanınabilir.
+
+=== ÇALIŞMA İZNİNİN SÜRESİ VE UZATILMASI
+
+Çalışma izni ve çalışma izni muafiyeti, yabancının pasaport veya pasaport
+yerine geçen belgelerinin geçerlilik süresinden altmış gün daha kısa süreli ve
+her yabancı için ayrı verilir.
+
+Çalışma izni uzatma başvurusu, çalışma izni süresinin dolmasına altmış gün
+kalmasından itibaren ve her durumda çalışma izni süresi dolmadan yapılır. Bu
+süre dolduktan sonra yapılan uzatma başvuruları reddedilir.
+
+=== ÇALIŞMA İZNİ MUAFİYETİ
+
+Çalışma izni muafiyeti başvurusu, çalışma izni ile aynı usule tabidir.
+
+Türk Ticaret Kanunu'na göre kurulmuş anonim şirketlerin Türkiye’de ikamet
+etmeyen yönetim kurulu üyesi ve diğer şirketlerin yönetici sıfatı olmayan
+ortağı ile Türkiye’de gerçekleştirdiği faaliyetleri yüz seksen gün içinde
+doksan günü geçmeyen sınırötesi hizmet sunucusu, çalışma izni muafiyeti
+kapsamında değerlendirilir.
+
+IMPORTANT: Çalışma izni muafiyetiyle geçirilen süreler, kanuni çalışma izni
+veya ikamet izni sürelerinin hesabında dikkate alınmaz.
+
+=== YABANCI ÖĞRENCİLER
+
+Türkiye’de bir yükseköğretim kurumunda örgün öğretim programlarına kayıtlı
+yabancı öğrenciler, çalışma izni almak kaydıyla çalışabilirler.
+
+Yabancı öğrencilerden ön lisans ve lisans düzeyinde öğrenim görmekte olanlar,
+öğrenimlerinin ilk yılının tamamlanmasından sonra çalışma iznine başvurabilir
+ve 22/5/2003 tarihli ve 4857 sayılı İş Kanunu uyarınca kısmi süreli
+çalışabilirler. Örgün öğretim programlarına kayıtlı lisansüstü öğrenciler için
+bu sınırlamalar uygulanmaz.
+
+Yabancı öğrencilere verilen çalışma izinleri, geçerli öğrenci ikamet iznini ve
+bu ikamet izninin sağladığı hakları sona erdirmez.
+
+Türkiye’de yükseköğrenimini tamamlayan yabancının mezuniyet tarihinden itibaren
+bir yıl içinde çalışma izni başvurusu yapması hâlinde, başvuru Uluslararası
+İşgücü Politikası Danışma Kurulunca belirlenen esaslar doğrultusunda
+değerlendirilir.
+
+=== ULUSLARARASI KORUMA KAPSAMINDAKİ YABANCILAR
+
+6458 sayılı Kanun uyarınca uluslararası koruma talebinde bulunan ve henüz
+başvurusu hakkında son karar verilmemiş veya şartlı mülteci yabancılar;
+uluslararası koruma başvurusu tarihinden, geçici koruma sağlanan yabancılar ise
+geçici koruma kimlik belgesinin düzenlendiği tarihten altı ay sonra çalışma
+izni veya çalışma izni muafiyeti almak için başvurabilirler.
+
+Çalışma izni veya çalışma izni muafiyetine başvuru hakkı tanınan yabancılara
+çalışma izni veya çalışma izni muafiyeti verilmesinde İçişleri Bakanlığının
+olumlu görüşü aranır.
+
+Geçerli çalışma izni veya çalışma izni muafiyetine sahip olunması bu
+yabancılara Türkiye’de mutlak kalış hakkı sağlamaz.
+
+Başvuru sahibi veya şartlı mülteci, uluslararası koruma başvurusu tarihinden
+altı ay sonra çalışma izni almak için başvurabilir.
+
+Mülteci veya ikincil koruma statüsü sahibi kişiye verilecek kimlik belgesi,
+çalışma izni yerine de geçer ve bu durum kimlik belgesine yazılır.
+
+Mülteci veya ikincil koruma statüsü sahibi, statü almasından itibaren bağımlı
+veya bağımsız olarak çalışabilir. Yabancıların çalışamayacağı iş ve mesleklere
+ilişkin diğer mevzuatta yer alan hükümler saklıdır.
+
+Mülteci ve ikincil koruma statüsü sahibinin iş piyasasına erişimi, iş
+piyasasındaki durum ve çalışma hayatındaki gelişmeler ile istihdama ilişkin
+sektörel ve ekonomik şartların gerekli kıldığı hâllerde, belirli bir süre için,
+tarım, sanayi veya hizmet sektörleri, belirli bir meslek, iş kolu veya mülki ve
+coğrafi alan itibarıyla sınırlandırılabilir. Ancak, Türkiye’de üç yıl ikamet
+eden veya Türk vatandaşıyla evli olan ya da Türk vatandaşı çocuğu olan mülteci
+ve ikincil koruma statüsü sahipleri için bu sınırlamalar uygulanmaz.
+
+6458 sayılı Kanunun;
+
+.. 77 nci maddesi uyarınca uluslararası koruma başvurusunun geri çekilmesi veya
+geri çekilmiş sayılması, 85 inci maddesi uyarınca uluslararası koruma
+statüsünün sona ermesi veya 86 ncı maddesi uyarınca uluslararası koruma
+statüsünün iptali hâlinde İçişleri Bakanlığının bildirimi üzerine,
+.. 91 inci maddesi uyarınca sağlanan geçici korumanın Bakanlar Kurulu kararıyla
+sonlandırılması veya bireysel olarak sona ermesi ya da iptali hâlinde Bakanlar
+Kurulu kararı veya İçişleri Bakanlığının bildirimi üzerine,
+
+verilmiş olan çalışma izni veya çalışma izni muafiyetleri Bakanlıkça iptal
+edilir.
+
+=== GEÇİCİ KORUMA SAĞLANAN KİŞİLER
+
+Geçici koruma statüsü sahiplerinin kimlik belgesi ne ikamet ne de çalışma izni
+yerine geçer. Dolayısıyla bu kişiler Türkiye'de çalışabilmek için çalışma izni
+almalıdır.
+
+Geçici koruma kimlik belgelerinin düzenlenmesinden itibaren 6 ay sonra çalışma
+iznine başvurabilirler.
+
+Kanun koyucu geçici koruma statüsü sahiplerini istisnai çalışma izni
+verilebilecek yabancılar arasında da saymıştır.
+
+=== TÜRK SOYLU YABANCILAR
+
+Türk soylu yabancılar İçişleri Bakanlığı'nın kararı ile belirlenir ve
+kendilerine yabancılara özel kimlik belgesi verilerek özel bir kütüğe
+kaydedilirler.
+
+TIP: KKTC ile yapılan ikili anlaşma sonucu KKTC vatandaşları da çalışma izni
+bakımından Türk soylu yabancılarla aynı statüde kabul edilmiştir.
+
+Türk soylu yabancılar ve KKTC vatandaşlarının Türkiye'de çalışmaları için
+çalışma izni almaları şarttır. Ancak *yabancılara yasaklanmış meslekler bu
+kişilere yasak değildir.* Bu kişiler sadece silahlı kuvvetler ve kolluk mensubu
+olamaz.
+
+=== YABANCI MÜHENDİS VE MİMARLAR
+
+Öğrenimlerini Türkiye’de bir yükseköğretim kurumunun mühendislik ve mimarlık
+fakültelerinde veya yurt dışında ilgili ülke makamları ve Yükseköğretim Kurulu
+tarafından tanınmış bir yükseköğretim kurumunda tamamlayarak mühendis ve mimar
+unvanlarını almış olan yabancılar bu Kanuna göre proje bazlı ve geçici süre ile
+çalışma izni alarak mühendislik ve mimarlık mesleklerini icra edebilirler.
+
+== YABANCI YATIRIMLAR
+
+*Doğrudan yabancı yatırım*, yabancı yatırımcı tarafından,
+
+. Yurt dışından getirilen;
+
+.. Türkiye Cumhuriyet Merkez Bankasınca alım satımı yapılan konvertibl para
+şeklinde nakit sermaye,
+.. Şirket menkul kıymetleri (Devlet tahvilleri hariç),
+.. Makine ve teçhizat,
+.. Sınaî ve fikrî mülkiyet hakları,
+
+. Yurt içinden sağlanan;
+
+.. Yeniden yatırımda kullanılan kâr, hâsılat, para alacağı veya malî değeri
+olan yatırımla ilgili diğer haklar,
+.. Doğal kaynakların aranması ve çıkarılmasına ilişkin haklar,
+
+gibi iktisadî kıymetler aracılığıyla;
+
+. Yeni şirket kurmayı veya şube açmayı,
+. Menkul kıymet borsaları dışında hisse edinimi veya menkul kıymet
+borsalarından en az % 10 hisse oranı ya da aynı oranda oy hakkı sağlayan
+edinimler yoluyla mevcut bir şirkete ortak olmayı,
+
+ifade eder.
+
+IMPORTANT: Türkiye'de bir ortaklık da kurulsa, Türkiye'de kurulu bir ortaklığın
+hissesi alınarak ortak da olunsa söz konusu ortaklık Türkiye kanunlarına göre
+kurulmuş olmalıdır.
+
+Uluslararası anlaşmalar ve özel kanun hükümleri tarafından aksi öngörülmedikçe;
+
+* Yabancı yatırımcılar tarafından Türkiye'de doğrudan yabancı yatırım yapılması
+serbesttir.
+* Yabancı yatırımcılar yerli yatırımcılarla eşit muameleye tabidirler.
+
+Doğrudan yabancı yatırımlar, yürürlükteki mevzuat gereğince; kamu yararı
+gerektirmedikçe ve karşılıkları ödenmedikçe kamulaştırılamaz veya
+devletleştirilemez.
+
+Yabancı yatırımcıların Türkiye'deki faaliyet ve işlemlerinden doğan net kâr,
+temettü, satış, tasfiye ve tazminat bedelleri, lisans, yönetim ve benzeri
+anlaşmalar karşılığında ödenecek meblağlar ile dış kredi ana para ve faiz
+ödemeleri, bankalar veya özel finans kurumları aracılığıyla yurt dışına
+serbestçe transfer edilebilir.
+
+Özel hukuka tabi olan yatırım sözleşmelerinden kaynaklanan uyuşmazlıkların
+çözümü ile yabancı yatırımcıların idare ile yaptıkları kamu hizmeti imtiyaz
+şartlaşma ve sözleşmelerinden kaynaklanan yatırım uyuşmazlıklarının
+çözümlenmesi için; görevli ve yetkili mahkemelerin yanı sıra, ilgili mevzuatta
+yer alan koşulların oluşması ve tarafların anlaşması kaydıyla, milli veya
+milletlerarası tahkim ya da diğer uyuşmazlık çözüm yollarına başvurulabilinir.
+
+=== TAŞINMAZ EDİNME
+
+Türk Vatandaşlığı Kanununun 28 inci maddesi kapsamındaki kişiler hariç olmak
+üzere yabancı uyruklu gerçek kişilerin, yabancı ülkelerin kanunlarına göre
+kurulmuş tüzel kişilerin ve uluslararası kuruluşların yüzde elli veya daha
+fazla oranda hissesine sahip oldukları veya yönetim hakkını haiz kişilerin
+çoğunluğunu atayabilme veya görevden alabilme yetkisine sahip oldukları
+Türkiye’de kurulu tüzel kişiliğe sahip şirketler, ana sözleşmelerinde
+belirtilen faaliyet konularını yürütmek üzere taşınmaz mülkiyeti veya sınırlı
+ayni hak edinebilir ve kullanabilirler.
+
+NOTE: Mavi kart sahiplerinin sahip oldukları hisse miktarı yabancı hisse
+oranının hesaplanmasında dikkate alınmaz.
+
+Yukarıda belirtilen şirketlerin Türkiye’de kurulu başka bir şirkete doğrudan
+veya dolaylı olarak ortak olması durumunda, yabancı yatırımcının ortak olunan
+şirketteki nihai ortaklık oranının yüzde elli veya daha fazla olması halinde;
+yabancı yatırımcıların, taşınmaz maliki yerli sermayeli şirketlerin
+hisselerinin yüzde elli veya daha fazlasını doğrudan veya dolaylı olarak
+edinmesi ve taşınmaz maliki mevcut yabancı sermayeli şirketlerde yabancı
+yatırımcıların ortaklık oranının hisse devri sonucunda yüzde elli veya daha
+fazlasına ulaşması durumunda da aynı esaslar geçerlidir.
+
+Yukarıdaki hükümler kapsamı dışında kalan yabancı sermayeli şirketler, yerli
+sermayeli şirketlerin tabi olduğu hükümler çerçevesinde taşınmaz mülkiyeti ve
+sınırlı ayni hak edinebilir ve kullanabilirler.
