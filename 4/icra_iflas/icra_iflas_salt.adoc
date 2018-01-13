@@ -1133,97 +1133,235 @@ müstesnadır.
 TIP: Nafaka çok yüksekse diğer alacaklılar hacze iştirak edilmesine karşı
 koyabilir.
 
-=== HACİZDE İSTİHKAK
+=== HACİZDE İSTİHKAK PROSEDÜRÜ
 
-Bir taşınır malı elinde bulunduran kimse onun maliki sayılır. Borçlu ile üçüncü
-şahısların taşınır malı birlikte ellerinde bulundurmaları halinde dahi mal
-borçlu elinde addolunur. Birlikte oturulan yerlerdeki mallardan mahiyetleri
-itibariyle kadın, erkek ve çocuklara aidiyetleri açıkça anlaşılanlar veya örf
-ve adet, sanat, meslek veya meşgale icabı olanlar bunların farz olunur. Bu
-karinenin aksini ispat külfeti iddia eden kişiye düşer.
+İstihkak prosedürünün amacı malların gerçekte kime ait olduğunu tespit etmek
+değil, haczedilen mal üzerindeki somut uyuşmazlığın sadece o takip bakımından
+çözülmesidir. *İstihkak davası, takip hukukuna ilişkin özel bir davadır. Bu
+dava ile amaçlanan o takip bakımından mala uygulanan haczin yerine olup
+olmadığının tespitidir.*
 
-İstihkak davacısı malı ne suretle iktisap ettiğini ve borçlunun elinde
-bulunmasını gerektiren hukuki ve fiili sebep ve hadiseleri göstermek ve bunları
-ispat etmekle mükelleftir.
+==== HACİZLİ MALIN BORÇLUNUN VEYA BORÇLU İLE BİRLİKTE ÜÇÜNCÜ KİŞİNİN ELİNDE OLMASI
 
-Borçlu, elinde bulunan bir malı başkasının mülkü veya rehni olarak gösterdiği
-yahut üçüncü bir şahıs tarafından o mal üzerinde mülkiyet veya rehin hakkı
-iddia edildiği takdirde, icra dairesi bunu haciz ve icra tutanaklarına geçirir
-ve keyfiyeti iki tarafa bildirir.
+Borçlunun elinden bulunan bir mal haczedilirken, borçlu veya üçüncü kişi
+tarafından malın üçüncü kişiye ait olduğu ileri sürülürse, icra müdürü bu
+iddiayı tutanağa geçirir.
 
-İcra dairesi aynı zamanda istihkak iddiasına karşı itirazları olup olmadığını
-bildirmek üzere alacaklı ve borçluya üç günlük mühlet verir. Sükütları halinde
-istihkak iddiasını kabul etmiş sayılırlar.
+Bir malın haczedildiğini öğrenen borçlu veya üçüncü kişi haczi öğrendiği
+tarihten itibaren *7 gün içinde* istihkak iddiasında bulunabilir. Bu iddiada
+bulunulmazsa aynı takipte bir daha ileri sürülemez.
 
-Malın haczini öğrenmiş olan borçlu veya üçüncü şahıs, öğrenme tarihinden
-itibaren yedi gün içinde istihkak iddiasında bulunmadığı takdirde, aynı takipte
-bu iddiayı ileri sürmek hakkını kaybeder. İstihkak iddiasının yapıldığı veya
-istihkak davasının açıldığı tarihte istihkak müddeisi ile birlikte oturan
-kimseler yahut bu şahısların iş ortakları, iddianın yapıldığı tarihte veya
-istihkak davası 97 nci maddenin 9 uncu fıkrası gereğince açılmışsa davanın
-açıldığı tarihte malın haczini öğrenmiş sayılırlar.
+İddianın üçüncü kişi tarafından ileri sürülmesi halinde icra müdürü bunu borçlu
+ve alacaklıya bildirir. Eğer alacaklı veya borçlu üçüncü kişinin iddiasını
+itiraz etmezse istihkak iddiasını kabul edilmiş sayılır ve o mallar bakımından
+haciz son bulur.
 
-İstihkak iddiasına karşı alacaklı veya borçlu tarafından itiraz edilirse, icra
-memuru dosyayı hemen icra mahkemesine verir. İcra Mahkemesi, dosya üzerinde
-veya lüzum görürse ilgilileri davet ederek mürafaa ile yapacağı inceleme
-neticesinde varacağı kanaate göre takibin devamına veya talikine karar verir.
+Alacaklı veya borçlu istihkak iddiasına itiraz ederse icra müdürü kendisi karar
+veremez ve dosyayı icra mahkemesine gönderir. İcra mahkemesi öncelikle takibin
+ertelenip ertelenmeyeceğine karar verir. *Bu erteleme sadece istihkak iddia
+edilen mal içindir.* Eğer takibin ertelenmesine karar verilirse doğabilecek
+zararların karşılanması amacıyla bir teminat yatırılmasına karar verilir. Bu
+teminat bakımından takdir icra mahkemesine aittir.
 
-NOTE: Takibin taliki sadece üzerinde istihkak iddiası bulunan mal için
-geçerlidir.
+İcra mahkemesinin takibin ertelenmesine veya devamına dair kararı kesindir.
 
-İstihkak davasının sırf satışı geri bırakmak gayesiyle kötüye kullanıldığını
-kabul etmek için ciddi sebepler bulunduğu takdirde icra mahkemesi takibin
-talikı talebini reddeder.
+Üçüncü kişi, takibin ertelenmesi veya devamına ilişkin icra mahkemesi kararının
+kendisine *tefhim veya tebliğ tarihinden itibaren 7 gün içinde* aynı mercide
+istihkak davası açabilir.
 
-Takibin talikıne karar verilirse, haksız çıktığı takdirde alacaklının muhtemel
-zararına karşı davacıdan 36 ncı maddede gösterilen teminat alınır. Teminatın
-cins ve miktarı mevcut delillerin mahiyetine göre takdir olunur.
+NOTE: Bu aşamaya kadar üçüncü kişiye istihkak iddiasına bulunma imkanı
+verilmemişse, üçüncü kişi *haczi öğrendiği tarihten itibaren 7 gün içinde*
+haczedilmiş mal satılıp, bedeli alacaklıya ödeninceye kadar istihkak davası
+açabilir. Mal satılmışsa dava, mal bedeli üzerinden yürütülür. Mal satılıp
+bedeli alacaklıya ödenmişse üçüncü kişi ancak borçluya karşı sebepsiz
+zenginleşme davası açabilir.
 
-Takibin devamına dair verilen icra mahkemesi kararı kesindir.
+Üçüncü kişi süresi içinde istihkak davası açmazsa, iddiasından vazgeçmiş
+sayılır. Fakat bu borçluya karşı sebepsiz zenginleşmeden doğan taleplerini
+engellemez.
 
-Üçüncü şahıs, icra mahkemesi kararının tefhim veya tebliğinden itibaren yedi
-gün içinde icra mahkemesinde istihkak davası açmaya mecburdur. Bu müddet
-zarfında dava edilmediği takdirde üçüncü şahıs alacaklıya karşı iddiasından
-vazgeçmiş sayılır.
+İstihkak davasının davacısı üçüncü kişi, davalısı ise alacaklıdır. İstihkak
+iddiasına borçlu itiraz etmişse, borçlu da davalı olabilir. İstihkak davası
+icra mahkemelerinde, genel hükümlere göre ve basit yargılama usulü ile görülür.
 
-Yukardaki hükümler dairesinde kendisine istihkak talebinde bulunmak imkanı
-verilmemiş olan üçüncü şahıs, haczedilen şey hakkında veya satılıp da bedeli
-henüz alacaklıya verilmemişse bedeli hakkında, hacze ıttıla tarihinden itibaren
-yedi gün içinde, icra mahkemesinde istihkak davası açabilir. Aksi takdirde aynı
-takipte bu iddiayı ileri sürmek hakkını kaybeder. Bu halde davacının talebi
-üzerine icra hakimi takibin talik edilip edilmemesi hakkında yukardaki hükümler
-dairesinde acele karar vermeye mecburdur. Bu karar diğer taraf dinlenmeksizin
-de verilebilir.
+İstihkak davacısı üçüncü kişi, malı ne surette iktisap ettiğini ve malın
+borçlunun elinde bulunmasını gerektiren hukuki ve fiili sebep ve olayları
+göstermek ve bunları ispat etmekle yükümlüdür.
 
-İstihkak davası neticelenmeden mahcuz mal paraya çevrilmiş bulunursa icra
-hakimi işbu bedelin yargılama neticesine kadar ödenmemesi veya teminat
-karşılığında veya halin icabına göre teminatsız derhal alacaklıya verilmesi
-hususunda ayrıca karar verir.
+Borçlu ile birlikte oturulan yerlerdeki mallardan mahiyetleri gereği kadın,
+erkek ve çocuklara ait olduğu açıkça anlaşılan veya örf, adet, sanat, meslek,
+meşgale icabı olanlar bu kişilerin farz olunur. Bunun aksini iddia eden ispat
+etmelidir. Böyle bir malın haczedilmesine karşı şikayet yoluna başvurulabilir.
+Fakat şikayet prosedürü ile istihkak prosedürü birleştirilemez.
 
-İstihkak davasına umumi hükümler dairesinde ve basit yargılama usulüne göre
-bakılır.
+Borçlunun üçüncü kişinin iddiasını kabul etmesi alacaklıyı etkilemez. Borçlunun
+ikrarına rağmen üçüncü kişi iddiasını ispat etmelidir. Yapılmış olan bu ikrarın
+sonucu borçlu ile üçüncü kişi arasındaki meseleyi etkiler.
 
-İstihkak davası üzerine takibin talikine karar verilip de neticede dava
-reddolunursa alacaklının alacağından bu dava dolayısıyla istifası geciken
-miktarın yüzde yirmisinden aşağı olmamak üzere davacıdan tazminat alınmasına
-hükmolunur.
+Bir görüşe göre istihkak davası sonunda icra mahkemesi tarafından verilen hüküm
+maddi anlamda kesin hüküm teşkil eder. Diğer bir görüşe göre ise bu karar
+sadece takip hukuku bakımından sonuç doğurur ve kesin hüküm teşkil etmez.
 
-Davanın reddi hakkındaki karara karşı istinaf veya temyiz yoluna başvuran
-istihkak davacısı icra dairesinden 36 ncı maddeye göre mühlet isteyebilir.
+Dava devam ederken haciz kalkarsa dava konusuz kalır.
 
-İstihkak davası sabit olur ve birinci fıkra gereğince istihkak iddiasına karşı
-itiraz eden alacaklı veya borçlunun kötü niyeti tahakkuk ederse haczolunan
-malın değerinin yüzde onbeşinden aşağı olmamak üzere itiraz edenden tazminat
-alınmasına asıl dava ile birlikte hükmolunur.
+İcra mahkemesinin kararına karşı istinaf kanun yoluna başvurulabilir.
 
-İstihkak davalarının hukuki niteliği doktrinde tartışmalıdır. İstihkak iddiası
-ileri sürüldüğünde icra mahkemesinde verilen kararın kesin hüküm teşkil edip
-etmeyeceğine yönelik farklı görüşler vardır. Yargıtay da bu konuda çelişik
-kararlar verebilmektedir.
+İstihkak davasının reddedilmesi halinde, daha önce takibin ertelenmesine karar
+verilmişse ve bu karar dolayısıyla alacaklının bir zararı varsa üçüncü kişi
+aleyhine istifası geciken miktarın %20'sinden az olmamak kaydıyla tazminata
+hükmedilir. Daha önce teminat yatırılmışsa bu teminattan karşılanır. Tazminata
+hükmedilmesi için talebe ihtiyaç yoktur.
 
-İcra mahkemesinin inceleme yetkisi ile genel mahkemelerin inceleme yetkisi ve
-kapsamı arasında fark yok ise icra mahkemesinin kararı kesin hüküm teşkil
-etmektedir. Bu anlamda icra mahkemesinin istihkak iddialarını incelerken
-yetkisine bakıldığında genel mahkemelerden daha yetkili olduğu görülür.
-Dolayısıyla kürsüye göre istihkak davaları sonunda verilen hükmün kesin hüküm
-olduğunu kabul etmek gerekir.
+TIP: İcra mahkemesince tazminata hükmedilmemiş olsa bile genel hükümler
+çerçevesinde zararın tazmini talep edilebilir.
+
+İstihkak davasının kabul edilmesi halinde söz konusu mal üzerindeki haciz
+kalkar. İtiraz eden alacaklı veya borçlunun kötü niyetli olduğu tespit
+edilirse, malın değerinin %15'inden az olmamak üzere tazminata hükmolunur.
+Burada da talep olmasa da tazminata hükmedilir.
+
+TIP: Malı haksız yere haczedilen üçüncü kişi, bu yüzden doğan gerçek zararının
+tazminini genel hükümler çerçevesinde de talep edebilir.
+
+==== HACİZLİ MALIN ÜÇÜNCÜ KİŞİNİN ELİNDE BULUNMASI
+
+Malın üçüncü kişinin elinde bulunduğu durumlarda mal karinesi tersine işler ve
+mal üçüncü kişinin sayılır. Bu durumda istihkak prosedürü alacaklı tarafından
+başlatılmalıdır.
+
+Alacaklı 7 günlük süre içerisinde üçüncü kişiye karşı istihkak davası
+açmalıdır. Bu dava açıldığı takdirde dava sonuna kadar haczedilen malların
+satışı yapılmaz.
+
+Bu davada tazminata dair hükümler dışında yukarıdaki prosedür izlenecektir.
+
+== BORCUN TAKSİTLE ÖDENMESİ
+
+Borcun taksitle ödenmesi sözleşmesi, hacizden önce iki şekilde yapılabilir:
+
+. Borçlu ve alacaklı taksit sözleşmesi yapar ve tutanağa geçirilir. Bu
+sözleşmede borçlu, alacaklı ve icra müdürünün imzası bulunmalıdır.
+. Borçlu taksitle ödeme talebini icra müdürüne bildirir ve bu talep alacaklıya
+iletilir. Alacaklı kabul ederse sözleşme yapılır.
+
+IMPORTANT: Hacizden önce taksitle ödeme sözleşmesi bakımından alacaklının
+rızasının alınması mecburidir.
+
+Sözleşmede taksitle ödenecek miktarların ve taksit sayısının açıkça belirtilmiş
+olması gerekir.
+
+NOTE: Hacizden önce böyle bir taksit sözleşmesi yapılırsa haciz isteme süresi
+işlemez.
+
+[caption=""]
+.İİK 111 - Taksitle ödeme
+====
+Borçlu alacaklının satış talebinden evvel borcunu muntazam taksitlerle ödemeği
+taahüt eder ve birinci taksiti de derhal verirse icra muamelesi durur.
+
+Şukadar ki borçlunun kafi miktar malı haczedilmiş bulunması ve her taksitin
+borcun dörtte biri miktarından aşağı olmaması ve nihayet aydan aya verilmesi ve
+müddetin üç aydan fazla olmaması şarttır.
+
+Borçlu ile alacaklının borcun taksitlendirilmesi için icra dairesinde
+yapacakları sözleşme veya sözleşmelerin devamı süresince 106 ve 150/e
+maddelerindeki süreler işlemez. Ancak bu sözleşme veya sözleşmelerin toplam
+süresinin on yılı aşması hâlinde, aştığı tarihten itibaren süreler kaldığı
+yerden işlemeye başlar.
+
+Taksitlerden biri zamanında verilmezse icra muamelesi ve süreler kaldığı yerden
+devam eder.
+====
+
+Hacizden sonra taksitle ödeme halinde, borçlu İİK 111'deki şartları taşıyan bir
+taksitle ödeme planı sunarsa alacaklı bunu kabul etmek *zorundadır*. Borçlu bu
+şartları taşımayan bir plan da sunabilir, alacaklı bu halde kabul etmek zorunda
+değildir.
+
+== HACZEDİLEN MALLARIN SATIŞI
+
+Malların haczinden sonra, satışın yapılabilmesi için alacaklının satış
+talebinde bulunması gerekir. Sadece talepte bulunmak yetmez, satış
+masraflarının da ödenmesi gerekir. Alacaklı talep etmeden borçlunun talebiyle
+de satış yapılabilir.
+
+NOTE: İstisnai hallerde, malların bozulması söz konusu ise icra müdürü talep
+olmadan da satışı yapabilir.
+
+Hacizli taşınır mallar için satışı talep süresi heczin kesinleşmesinden
+itibaren 6 aydır. Taşınmazlar bakımından ise 1 yıl içerisinde satış talebinde
+bulunulmalıdır.
+
+TIP: Hacizden sonra istihkak davası açılmışsa, bu davanın görülmesi ve
+sonuçlanmasına kadar geçen süre bu sürelerin içinde hesaba katılmayacaktır.
+
+Satış talep süresi içinde satış istenmezse, mallar üzerindeki haciz kalkar ama
+takip durmaya devam eder. Alacaklı tekrar haciz ve satış isteyebilir.
+
+=== TAŞINIR MALLARIN SATIŞI
+
+Taşınır mallar satış talebinden nihayet iki ay içinde satılır. Bu süre
+düzenleyicidir.
+
+Satış açık artırma ile yapılır. Birinci ve ikinci artırmanın yapılacağı yer,
+gün ve saat daha önceden ilân edilir. İlanın şekli, malın değerine, en doğru
+şekilde nasıl satılacağına göre belirlenir.
+
+NOTE: İlanın yanlış yazılması ve satışın yapılması ihalenin feshi sebebi
+olabilir.
+
+Taşınırlar için mutlaka gazeteyle ilan şartı yoktur. El ilanı vs. ile de
+yapılabilir.
+
+Açık artırmaya elektronik ortamda teklif verme yoluyla başlanır. Elektronik
+ortamda teklif verme, birinci ihale tarihinden on gün önce başlar, ihalenin
+tamamlanacağı günden önceki gün sonunda sona erer; ikinci ihalede ise
+elektronik ortamda teklif verme birinci ihaleden sonraki beşinci gün başlar, en
+az on gün sonrası için belirlenecek ikinci ihalenin tamamlanacağı günden önceki
+gün sonunda sona erer.
+
+Elektronik ortamda verilecek teklifler haczedilen malın tahmin edilen
+kıymetinin yüzde ellisinden az olamaz; teklif vermeden önce, haczedilen malın
+tahmin edilen kıymetinin yüzde yirmisi nispetinde teminat gösterilmesi
+zorunludur.
+
+Birinci ve ikinci ihale icra memuru tarafından, ilanda belirlenen yer, gün ve
+saatte, elektronik ortamda verilen en yüksek teklif üzerinden başlatılır.
+
+Satışa çıkarılan mal üç defa bağırıldıktan sonra, elektronik ortamda verilen en
+yüksek teklif de değerlendirilerek, en çok artırana ihale edilir. Şu kadar ki,
+artırma bedelinin malın tahmin edilen bedelinin yüzde ellisini bulması ve satış
+isteyenin alacağına rüçhanı olan diğer alacaklar o malla temin edilmişse bu
+suretle rüçhanı olan alacakların mecmuundan fazla olması ve bundan başka paraya
+çevirme ve paraların paylaştırılması masraflarını aşması gerekir.
+
+Birinci ihalede, alıcı çıkmazsa veya bu maddede yazılı miktara ulaşılmazsa
+satış icra memuru tarafından geri bırakılır.
+
+İkinci ihalede, alıcı çıkmazsa veya bu maddede yazılı şartlar gerçekleşmezse
+satış talebi düşer.
+
+Altın ve gümüş eşya maden halindeki kıymetlerinden daha aşağı bir bedel ile
+satılamaz.
+
+Satış peşin para ile yapılır. Ancak icra memuru müşteriye yedi günü geçmemek
+üzere bir mühlet verebilir.
+
+Satılan mal ihale kesinleşmeden teslim olunmaz.
+
+İhaleye katılıp daha sonra ihale bedelini yatırmamak suretiyle ihalenin feshine
+sebep olan tüm alıcılar ve kefilleri, teklif ettikleri bedel ile son ihale
+bedeli arasındaki farktan ve diğer zararlardan ve ayrıca temerrüt faizinden
+müteselsilen sorumludurlar. İhale farkı ve temerrüt faizi ayrıca hükme hacet
+kalmaksızın dairece tahsil olunur. Bu fark, varsa öncelikle teminat bedelinden
+tahsil olunur.
+
+Aşağıdaki hallerde satış pazarlık suretiyle yapılabilir:
+
+. Bütün alakadarlar isterse,
+. Borsa veya piyasada fiyatı bulunan kıymetli evrak veya diğer mallar için o
+günün piyasasında mukarrer fiyat teklif edilirse,
+. Artırmada maden kıymetini bulmamış olan altın ve gümüş eşyaya bu kıymet
+verilirse,
+. 113 üncü maddenin ikinci fıkrasında gösterilen haller bulunursa,
+. Mahcuz malın tahmin edilen değeri 3.230 lirayı geçmezse.
