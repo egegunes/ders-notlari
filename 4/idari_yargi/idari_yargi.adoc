@@ -706,3 +706,86 @@ edilir.
 NOTE: Eğer tazminat miktarı ancak mahkemenin incelemesi sonucu hesaplanabilecek
 nitelikte ise olay ve hesaplanılabilir unsurlar yazılarak ıslaha gerek olmadan
 istenebilir.
+
+== YÜRÜTMENİN DURDURULMASI
+
+Yürütmenin durdurulması iptal davasına ilişkin bir müessesedir. İdarenin
+işlemlerinin hukuka uygunluğu karinesi gereği iptal davası açıldığında işlemin
+yürütülmesi kendiliğinden durmaz. İşlemin yürütülmesinin durdurulması için bunun
+talep edilmesi gerekir. Yürütmenin durdurulması işlemi iptal etmeye, hukuka
+aykırı kılmaya yönelik bir müessese değildir.
+
+Yürütmenin durdurulması iptal davasının açılmasından sonuçlanmasına kadar talep edilebilir.
+
+Danıştay ve idari mahkemeler, idari işlemin uygulanması halinde *telafisi güç
+veya imkansız zararların doğması* ve *idari işlemin açıkça hukuka aykırı olması*
+şartlarının birlikte gerçekleşmesi durumunda, davalı idarenin savunması
+alındıktan veya savunma süresi geçtikten sonra gerekçe göstererek yürütmenin
+durdurulmasına karar verebilirler.
+
+Yürütmenin durdurulması İYUK 27'de düzenlenmiştir. İYUK 27'ye göre yürütmenin
+durdurulmasına karar verilebilmesi için iki şart gerçekleşmelidir:
+
+. İşlemin yürütülmesi durdurulmazsa dava sonucunda verilecek kararın uygulanması
+imkansızlaşacak olmalıdır.
+. İlk bakışta hukuka aykırılık kanaati veren hususlar bulunmalıdır.
+
+*Uygulanmakla etkisi tükenecek olan idari işlemlerin yürütülmesi, savunma
+alındıktan sonra yeniden karar verilmek üzere, idarenin savunması alınmaksızın
+da durdurulabilir.*
+
+NOTE: _Kürsüye göre_ uygulanmakla etkisi tükenecek olan işlemlerin, dava
+süresince yürütmesinin durdurulması kararı verilinceye kadar durdurulmasında
+telafisi güç veya imkansız zarar ve açıkça hukuka aykırılık şartlarının
+aranmaması gerekir. Ancak bu kararın ardından idarenin savunması alındıktan
+sonra gerçek yürütmeyi durdurma kararı verilmesinde bu iki şart aranır.
+
+CAUTION: Kamu görevlileri hakkında tesis edilen atama, naklen atama, görev ve
+unvan değişikliği, geçici veya sürekli görevlendirmelere ilişkin idari işlemler,
+uygulanmakla etkisi tükenecek olan idari işlemlerden sayılmaz.
+
+Yürütmenin durdurulması kararlarında idari işlemin hangi gerekçelerle hukuka
+açıkça aykırı olduğu ve işlemin uygulanması halinde doğacak telafisi güç veya
+imkansız zararların neler olduğunun belirtilmesi zorunludur.
+
+IMPORTANT: *Sadece* ilgili kanun hükmünün iptali istemiyle Anayasa Mahkemesine
+başvurulduğu gerekçesiyle yürütmenin durdurulması kararı verilemez.
+
+Dava dilekçesi ve eklerinden yürütmenin durdurulması isteminin yerinde olmadığı
+anlaşılırsa, davalı idarenin savunması alınmaksızın istem reddedilebilir.
+
+TIP: Vergi uyuşmazlıklarında davanın açılmasıyla yürütmenin duracağı
+düzenlenmiştir. Ancak dava açan kişi kötüniyetli davranır ve açtığı davayı
+takipsiz bırakırsa tahsilat işlemi kaldığı yerden devam eder. Kişi takipsiz
+bıraktığı dosyanın işlemden kaldırılmasına sebep olur ve daha sonra yenileme
+işlemi yaparsa yürütme kendiliğinden durmayacak ancak yürütmeyi durdurma talep
+edilebilecektir.
+
+Esasında yürütmeyi durdurma talebinin reddi veya kabulü bir ara karardır. Kural
+olarak nihai karar verilmeden ara kararlara başka mahkeme bakamaz. Ancak
+yürütmenin durdurulması kararının önemi gereği buna bir istisna getirilmiştir.
+
+Yürütmenin durdurulması istemleri hakkında verilen kararlar;
+
+* Danıştay dava dairelerince verilmişse konusuna göre İdari veya Vergi Dava
+Daireleri Kurullarına,
+* Bölge idare mahkemesi tarafından verilmişse en yakın bölge idare mahkemesine,
+* İdare ve vergi mahkemeleri ile tek hakim tarafından verilen kararlara karşı
+bölge idare mahkemesine,
+
+kararın tebliğini izleyen günden itibaren *7 gün içinde* bir defaya mahsus olmak
+üzere itiraz edilebilir. İtiraz edilen merciler, dosyanın kendisine gelişinden
+itibaren yedi gün içinde karar vermek zorundadır. *İtiraz üzerine verilen
+kararlar kesindir*.
+
+İlk derece mahkemesince iptal davasının reddi halinde kanun yoluna başvurulmuşsa
+burada da yürütmenin durdurulması talep edilebilir. Kanun yolunda dosya önüne
+gelen mahkemenin yürütmenin durdurulmasına karar verebilmesi için İYUK 27'de
+sayılan iki şartın gerçekleşmesi gerekir. Ancak burada yürütmenin durdurulması
+ile ilgili karara karşı bir itiraz mekanizması yoktur.
+
+Kural olarak ilk derece mahkemesi kararları, kanun yolundan çıkacak sonuç
+beklenmeksizin uygulanmak zorundadır. Ancak davalı idare, iptalle sonuçlanan
+davalarda kanun yoluna başvurarak *mahkeme kararının yürütülmesinin
+durdurulmasını* talep edebilir. Bunun için İYUK 27'deki şartlar aranmaz. Bu
+karara karşı da bir itiraz mekanizması yoktur.
