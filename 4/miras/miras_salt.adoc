@@ -143,6 +143,8 @@ mirasçı olur:
 . Mirasbırakanın ana ve baba zümresi ile birlikte mirasçı olursa, mirasın yarısı,
 . Mirasbırakanın büyük ana ve büyük babaları ve onların çocukları ile birlikte
 mirasçı olursa, mirasın dörtte üçü,
++
+IMPORTANT: Eş, kuzenler ile mirasçı olursa mirasın tamamını alır.
 
 bunlar da yoksa mirasın tamamı eşe kalır.
 
@@ -336,6 +338,14 @@ dolayısıyla temsil yasağı vardır.
 . *Bozucu şartın gerçekleşmesi*
 . *Mirastan yoksunluk sebepleri*
 . *Boşanma*
++
+"_Boşanan eşler, bu sıfatla birbirlerinin yasal mirasçısı olamazlar ve
+boşanmadan önce yapılmış olan ölüme bağlı tasarruflarla kendilerine sağlanan
+hakları, aksi tasarruftan anlaşılmadıkça, kaybederler._"
++
+"_Boşanma davası devam ederken, ölen eşin mirasçılarından birisinin davaya
+devam etmesi ve diğer eşin kusurunun ispatlanması hâlinde de yukarıdaki fıkra
+hükmü uygulanır._"
 . *Evliliğin butlanı kararı*
 
 ==== VASİYETNAME İÇİN ÖZEL SEBEPLER
@@ -346,6 +356,19 @@ dolayısıyla temsil yasağı vardır.
 şekillerden birine uymak suretiyle yeni bir vasiyetname yaparak önceki
 vasiyetnameden her zaman dönebilir. Vasiyetnamenin tamamından veya bir
 kısmından dönülebilir.
++
+[TIP]
+====
+Dönülen vasiyetnameden dönülebilir mi?
+
+Örneğin kişi vasiyetname ile evini birine bıraktı. İkinci bir vasiyetname ile
+de birinci vasiyetnamesinden döndü. Üçüncü bir vasiyetname ile ikinci
+vasiyetnamesinden dönerse birinci vasiyetname dirilecek midir?
+
+*Baskın görüşe göre*, ikinci vasiyetnamede başka bir tasarruf yapılmamışsa
+birinci vasiyetnamenin hüküm ifade edeceği kabul edilebilir. İkinci
+vasiyetnamede başka tasarruflar varsa hepsinden dönülmüş olur.
+====
 .. _Yok etme_: Mirasbırakan, yok etmek suretiyle de vasiyetnameden
 dönebilir.
 .. _Sonraki tasarruflar_: Mirasbırakan, önceki vasiyetnamesini ortadan
@@ -409,6 +432,8 @@ Tek taraflı ortadan kaldırma, vasiyetnameler için kanunda öngörülen şekil
 biriyle yapılır.
 . *Sözleşmede dönme hakkının saklı tutulması*
 . *Geçersizlik sebebi bulunması*
++
+IMPORTANT: Eş, kuzenler ile mirasçı olursa mirasın tamamını alır.
 
 == MADDİ ANLAMDA ÖLÜME BAĞLI TASARRUFLAR
 
@@ -774,6 +799,9 @@ yükümlüdür; ilgililere karşı bir vekil gibi sorumludur.
 Mirasbırakan, bir mirasçısı ile karşılıksız veya bir karşılık sağlanarak
 mirastan feragat sözleşmesi yapabilir.
 
+Mirastan feragat sözleşmesi ile müstakbel mirasçı *beklenen bir hakkından*
+vazgeçmektedir. Zira miras hakkı murisin ölümü ile doğar.
+
 NOTE: Ölüme bağlı tasarruf olduğu için mirasbırakan bakımından bu sözleşmeyi
 yapmak şahsa sıkı suretle bağlı bir haktır, temsilci vasıtasıyla yapılamaz.
 Mirasçı bakımından sağlararası bir işlem olduğu için temsilci kullanılabilir.
@@ -791,6 +819,9 @@ altsoy mirasçı olabilir.
 
 NOTE: Tarafların, ivazsız mirastan feragat sözleşmesinin altsoy için de sonuç
 doğuracağına dair anlaşmalarının geçerli olup olmadığı doktrinde tartışmalıdır.
+Bir görüşe göre ivazlıda nasıl yapılıyorsa aynı şekilde yapılabilir. Baskın
+görüşe göre ise, altsoyun aleyhine bir sonuç doğurduğu ve kanunda açık
+düzenleme olmadığı için yapılamaz.
 
 Mirastan feragat sözleşmesi belli bir kişi lehine yapılmış olup bu kişinin
 herhangi bir sebeple mirasçı olamaması hâlinde, feragat hükümden düşer.
@@ -994,3 +1025,50 @@ Miras sözleşmesinin hata, hile, tehdit nedeniyle sona erdirilmesinin ne
 
 Mahkemenin iptal kararı sadece tarafları ilgilendirir, diğer kişilere etki
 etmez.
+
+== SAKLI PAYLI MİRASÇILAR
+
+"_Mirasçı olarak altsoyu, ana ve babası veya eşi bulunan miras bırakan,
+mirasının saklı paylar dışında kalan kısmında ölüme bağlı tasarrufta
+bulunabilir. Bu mirasçılardan hiç biri yoksa, mirasbırakan mirasının tamamında
+tasarruf edebilir._"
+
+Mirasbırakan, saklı paylı mirasçısının saklı payına dokunamaz. Fakat
+dokunduysa, yapılan işlem kendiliğinden geçersiz olmaz. Saklı payı ihlal edilen
+mirasçı, tenkis davası açarak saklı payını alacak derecede tasarrufu
+etkisizleştirebilir.
+
+Kural olarak mirasbırakan ölüme bağlı tasarruf ile saklı paylı mirasçıların
+saklı payına dokunamaz. Fakat mirasbırakan sağlararası işlem yaparak malları
+üzerinde istediği gibi tasarruf edebilir. Buna rağmen belirli nitelikte
+sağlararası işlemler tenkise tabidir.
+
+TIP: Mirasbırakan sağlararası işlemle eşine evini satmış göstererek gerçekte
+bağışlamış ise öncelikle muvazaa nedeniyle iptal davası açılacaktır. *Tenkis
+davası açılırsa, mirasçı sadece saklı payını alır. Muvazaa nedeniyle iptal
+davası açılırsa işlem iptal edildiği için mal terekeye döner ve mirasçı tüm
+miras payını (yasal miras payını) alır.*
+
+Saklı paylı mirasçılar:
+
+. Altsoy (çocuk, torun, torunun torunu, evlatlık, evlatlığın altsoyu vs.)
+. Anne baba
+. Eş
+
+NOTE: Zümrelerin hepsi aynı anda mirasçı olamaz. Örneğin altsoy varken anne
+baba mirasçı olamaz. Fakat eş zümre mirasçısı olmadığı için her zümre ile
+birlikte mirasçı olur.
+
+Saklı paylı mirasçı varsa, saklı payların toplamı üzerinde mirasbırakan
+tasarrufta bulunamaz. Bunun dışında kalan kısım, mirasbırakanın **tasarruf
+nisabı**nı oluşturur.
+
+Saklı pay oranları:
+
+. Altsoy için yasal miras payının yarısı,
+. Ana ve babadan her biri için yasal miras payının dörtte biri,
+. Sağ kalan eş için, altsoy veya ana ve baba zümresiyle birlikte mirasçı olması
+hâlinde yasal miras payının tamamı, diğer hâllerde yasal miras payının dörtte
+üçü.
+
+IMPORTANT: Saklı paylarda kök içi halefiyet kuralı işlemez.
