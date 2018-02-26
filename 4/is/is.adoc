@@ -1497,3 +1497,144 @@ ikramiyesinin bir yıllık tutarıdır.
 
 Sözleşmenin feshedildiği tarihten itibaren işçinin faiz isteme hakkı vardır.
 Zamanaşımı süresi ise 5 yıldır.
+
+=== YENİ İŞVERENİN SORUMLULUĞU
+
+Süresi belirli olan veya olmayan sürekli iş sözleşmesi ile bir işverenin işine
+girmiş olan işçi, sözleşme süresinin bitmesinden önce yahut bildirim süresine
+uymaksızın işini bırakıp başka bir işverenin işine girerse sözleşmenin bu
+suretle feshinden ötürü, işçinin sorumluluğunun yanında, ayrıca yeni işveren de
+aşağıdaki hallerde sorumludur:
+
+.. İşçinin bu davranışına, yeni işe girdiği işveren sebep olmuşsa
+.. Yeni işveren, işçinin bu davranışını bilerek işe almışsa
+.. Yeni işveren işçinin bu davranışını öğrendikten sonra dahi onu çalıştırmaya
+devam ederse
+
+=== İBRANAME
+
+*İbra*, borcun özel bir sona erme sebebi olup, alacaklının alacak hakkından
+vazgeçmesini ve bu suretle borçlunun borcundan kurtarılmasını sağlayan
+sözleşmedir.
+
+İşçinin işverenden alacağına ilişkin ibra sözleşmesinin geçerli olması için
+aşağıdaki şartların gerçekleşmesi gerekir:
+
+. Sözleşmenin yazılı olması
+. Sözleşmenin, iş sözleşmesinden bitmesinden *bir ay sonra* yapılması
+. İbra konusu alacağın türünün ve miktarının açıkça belirtilmesi
+. Alacağın banka aracılığıyla eksiksiz şekilde ödenmesi
+
+=== İŞÇİNİN FESİH HAKKININ CEZAİ ŞART İLE SINIRLANDIRILMASI
+
+Kural olarak haklı fesih yetkisi cezai şarta bağlanamaz, bağlansa da geçerli
+olmaz. Ancak işçinin iş sözleşmesini haklı neden dışında sona erdirmesi
+yetkisinin sözleşmelerle sınırlandırılabileceği kabul edilmektedir.
+
+TIP: Yargıtay'ın süregelen uygulamasına göre, işveren işçinin eğitimden
+geçirilmesini sağlamışsa fesih hakkını cezai şarta bağlayabilir.
+
+Sözleşmede iki taraflı olarak cezai şart öngörülmüşse, işçi en fazla işveren
+için öngörülmüş cezai şart ile bağlıdır.
+
+IMPORTANT: Hizmet sözleşmelerine sadece işçi aleyhine koyulan ceza koşulu
+geçersizdir.
+
+== İŞİN DÜZENLENMESİ
+
+=== ÇALIŞMA SÜRESİ
+
+Genel bakımdan çalışma süresi haftada *en çok kırkbeş saattir*. Aksi
+kararlaştırılmamışsa bu süre, işyerlerinde haftanın çalışılan günlerine eşit
+ölçüde bölünerek uygulanır.
+
+Tarafların anlaşması ile haftalık normal çalışma süresi, işyerlerinde haftanın
+çalışılan günlerine, günde onbir saati aşmamak koşulu ile farklı şekilde
+dağıtılabilir. Bu halde, iki aylık süre içinde işçinin haftalık ortalama çalışma
+süresi, normal haftalık çalışma süresini aşamaz.
+
+NOTE: Denkleştirme süresi toplu iş sözleşmeleri ile dört aya kadar
+artırılabilir.
+
+TIP: İşçi bir gün dinlendirilmek zorunda olduğu için iş mevzuatındaki
+düzenlemelere göre haftada en fazla 6 gün ve her gün en fazla 11 saat
+çalıştırılabilir. Dolayısıyla bir işçi haftada en fazla 66 saat
+çalıştırılabilir.
+
+=== FAZLA ÇALIŞMA VE FAZLA SÜRELERLE ÇALIŞMA
+
+İşçinin haftalık kırkbeş saatlik sınırın üzerinde yaptığı çalışmalara *fazla
+çalışma* adı verilir. İşyerlerinde uygulanacak haftalık çalışma süresi kırkbeş
+saatin altında belirlenmişse, belirlenen sürenin üzerinde yapılan ancak kırkbeş
+saatin altında olan çalışmalara *fazla sürelerle çalışma* adı verilir.
+
+NOTE: Fazla çalışma süreleri toplamı yılda *270 saatten* fazla olamaz.
+
+11 saatlik süre, fazla çalışma için de sınır oluşturur. Yargıtay kararlarına
+göre, kırkbeş saatlik haftalık sınır aşılmamasına rağmen günlük 11 saatin
+üstünde bir çalışma varsa fazla çalışma ücretinin ödenmesi gerekir.
+
+Yargıtay'a göre fazla çalıştığını işçinin ispatlaması gerekir. İspat için tanık
+dahil her türlü delil kullanılabilir. Fazla çalışma ücretinin ödendiğini ispat
+yükü ise işveren üzerindedir.
+
+İşçi fazla çalışma ücreti yerine izin de kullanılabilir. Seçme hakkı işçinindir.
+İşveren tek taraflı olarak karar veremez. Her bir saatlik çalışma için bir buçuk
+saatlik izin kullanılabilir. İşveren altı aylık süre içerisinde bu izni
+kullandırmak zorundadır. Aksi takdirde işçi fazla çalışma ücretini talep
+edebilir.
+
+İşçi fazla çalışma yapmışsa her bir saatlik fazla çalışmanın karşılığında %50
+zamlı olarak ücret talep edebilir. Fazla sürelerle çalışma söz konusu ise %25
+zamlı ücret uygulanır.
+
+CAUTION: Fazla çalışma ücretinin talep edilebilmesi için bu çalışmanın
+yapılmasını işveren istemiş olmalıdır. İşçi kendi iradesiyle fazla çalışmışsa,
+bunun karşılığında ücret verme zorunluluğu yoktur. Ancak Yargıtay'a göre
+işverenin işçiye verdiği iş yükü sebebiyle işçi fazla çalışma yapmak zorunda
+kalıyorsa bu durumda işçi ücrete hak kazanır.
+
+=== ARA DİNLENMESİ
+
+İşçiye,
+
+* Dört saat veya daha kısa süreli işlerde *onbeş dakika*
+* Dört saatten fazla ve yedibuçuk saate kadar (yedibuçuk saat dahil) süreli
+işlerde *yarım saat*
+* Yedibuçuk saatten fazla süreli işlerde *bir saat*
+
+ara dinlenmesi verilir. Bu dinlenme süreleri en az olup, aralıksız verilir.
+
+IMPORTANT: Ara dinlenmeleri çalışma süresinden sayılmaz.
+
+=== HAFTA TATİLİ
+
+İşçiye, yedi günlük bir zaman dilimi içerisinde kesintisiz en az yirmidört saat
+dinlenme (hafta tatili) verilir. Çalışılmayan hafta tatili günü için işveren
+tarafından bir iş karşılığı olmaksızın o günün ücreti tam olarak ödenir.
+
+TIP: Yargıtay'a göre 24 saat olarak verilmesi gereken izin daha az bir süreyle
+verilmişse hiç verilmemiş sayılır.
+
+Hafta tatilinde çalışan işçi 2.5 günlük ücrete hak kazanır:
+
+. Her halükarda verilecek bir günlük ücret
+. Çalıştırıldığı için verilecek bir günlük ücret
+. Fazla mesai için %50 zamlı ücret
+
+=== YILLIK ÜCRETLİ İZİN
+
+İşyerinde işe başladığı günden itibaren, deneme süresi de içinde olmak üzere, en
+az bir yıl çalışmış olan işçilere yıllık ücretli izin verilir. *Yıllık ücretli
+izin hakkından vazgeçilemez.*
+
+İşçilere verilecek yıllık ücretli izin süresi, hizmet süresi;
+
+.. Bir yıldan beş yıla kadar (beş yıl dahil) olanlara ondört günden,
+.. Beş yıldan fazla onbeş yıldan az olanlara yirmi günden,
+.. Onbeş yıl ve daha fazla olanlara yirmialtı günden
+
+az olamaz.
+
+NOTE: İşçi 18 yaşında veya daha küçükse ya da 50 yaşında veya daha fazlaysa,
+hizmet süresine bakılmaksızın en az yirmi günlük ücretli izine hak kazanır.
