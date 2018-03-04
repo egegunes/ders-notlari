@@ -1302,3 +1302,401 @@ Gözaltı süresinin dolması veya sulh ceza hâkiminin kararı üzerine serbest
 bırakılan kişi hakkında yakalamaya neden olan fiille ilgili yeni ve yeterli
 delil elde edilmedikçe ve Cumhuriyet savcısının kararı olmadıkça bir daha aynı
 nedenle yakalama işlemi uygulanamaz.
+
+=== TUTUKLAMA
+
+Tutuklama tedbirine karar verildiğinde kişi, Anayasa'da belirlenen süreler
+içerisinde tutukevi olarak adlandırılan bir yerde tutulur. Kişinin burada
+tutulmasının temel gerekçesi, gözaltında olduğu gibi belirli işlemlerin
+tamamlanması değil, muhakemenin bütününe yönelik bir tehlikenin bertaraf
+edilmesidir.
+
+Tutuklama koruma tedbirine başvurulabilmesi için ilk olarak bir *tutuklama
+nedeninin var olması*, ikinci olarak *kuvvetli suç şüphesinin bulunması* ve son
+olarak da *tutuklamanın ölçülü olması* gerekir.
+
+Aşağıdaki hallerde bir tutuklama nedeni var sayılabilir:
+
+.. Şüpheli veya sanığın kaçması, saklanması veya kaçacağı şüphesini uyandıran
+somut olgular varsa.
+.. Şüpheli veya sanığın davranışları;
+
+. Delilleri yok etme, gizleme veya değiştirme,
+. Tanık, mağdur veya başkaları üzerinde baskı yapılması girişiminde bulunma,
+
++
+Hususlarında kuvvetli şüphe oluşturuyorsa.
+
+IMPORTANT: Tutuklama nedeni bir vakıanın, bir olgunun varlığına bağlıdır.
+
+CMK 100/3'te sayılan suçlarda tutuklama nedeninin varlığı karine olarak kabul
+edilir.
+
+Ölçülülük değerlendirmesi tedbirin tatbik edileceği kişiye göre yapılmalıdır.
+Ölçülülükten kasıt, tedbirin tatbik edilmesi nedeniyle yarattığı ihlalin, suç
+soruşturmasından elde edilecek menfaate nazaran daha önemli olmamasıdır.
+
+NOTE: 2 yılın altında cezayı gerektiren suçlarda tutuklama yasaktır (vücut
+dokunulmazlığını ihlal eden suçlar hariç). 
+
+Tutuklamanın maddi koşulları olan neden, şüphe ve ölçülülük hem kararın talep
+edilmesi aşamasında hem kararın verilmesi aşamasında hem de denetlenmesi
+aşamasında tekrar tekrar gözden geçirilmelidir. Bu koşullardan herhangi biri
+ortadan kalktığı takdirde tutuklamaya kendiliğinden son verilmesi gerekir.
+
+Ölçülülük denetiminde dikkat edilmesi gereken bir husus tutuklamayla ortadan
+kaldırılmak istenen tehlikenin adli kontrol ile ortadan kaldırılabilir olup
+olmamasıdır. Dolayısıyla tutuklama talebinde savcı, adli kontrol tedbirlerinin
+neden yetersiz kaldığını açıklamalı ve hakim de tutuklama kararında adli kontrol
+tedbirlerinin neden yetersiz kaldığını gerekçelendirmelidir. Adli kontrolün
+yeterli olması tutuklamanın ölçüsüz olması anlamına gelecektir.
+
+[caption=""]
+.Güvence belgesi
+====
+Güvence belgesi, kaçak ya da gaip sanığa verilen ve tutuklanmayacağı garantisini
+içeren belgedir. Bu belge, sadece bir suç için değil; bir kişi için verilir.
+Dolayısıyla o kişi hakkında ne dar soruşturma ve kovuşturma var ise o soruşturma
+ve kovuşturmalara kişinin tutuklanmasını imkansız hale getirir; yeter ki belge
+düzenlendikten sonra kişi hakkında yeni bir tutuklama nedeni ortaya çıkmasın.
+
+Kaçak veya gaip sanığa güvence belgesi verilmiş olması tutuklamanın bozucu şekil
+şartıdır. Tutuklamanın bütün koşulları gerçekleşmiş olsa bile güvence belgesi
+verilmişse tutuklama yapılamaz.
+====
+
+Tutuklama kararını verebilecek yegane merci hakim veya mahkemelerdir. Soruşturma
+evresinde sulh ceza hakimi, kovuşturma evresinde yargılamayı yapan hakimin
+vereceği bir tutuklama kararı gereklidir.
+
+Tutuklama kararının verilebilmesi, tutuklama yargılaması denebilecek bir tali
+muhakemeye ihtiyaç duyar. Tutuklama mahkemesinin ilk ve en önemli koşulu
+**şüpheli veya sanığın hazır bulunması**dır. Mahkeme ya da hakim mevcut
+delillere göre tutuklama kararı verilmesi gerektiğini düşünüyorsa verebileceği
+azami karar yakalama emri çıkarmaktır. Çünkü tutuklama kararı ancak sanığın
+hazır bulunması ile sorgu ve savunması alındıktan sonra verilebilir.
+
+TIP: Şüpheli veya sanık yurtdışında kaçak ise yokluğunda tutuklama kararı
+verilebilir.
+
+Tutuklama muhakemesi soruşturma evresinde ancak istem üzerine başlatılabilir.
+Dolayısıyla soruşturma evresinde tutuklama kararının verilebilmesi Cumhuriyet
+savcısının talebine bağlıdır. Bu aşamada hakimin yetkisi savcının istemiyle
+sınırlıdır.
+
+Soruşturma evresinde tutuklama talebi üzerine hakimin adli kontrol kararı
+verebilmesinin önünde bir engel yoktur.
+
+NOTE: Soruşturma evresinde Cumhuriyet savcısı artık tutuklamanın gereksiz
+olduğuna kanaat getirirse karara gerek olmaksızın kişiyi salıvermek yetkisine
+sahiptir.
+
+Kovuşturma evresinde ise mahkeme re'sen tutuklama kararı verebilir. 
+
+Tutuklama muhakemesi zorunlu müdafilik hallerinden bir tanesidir. Müdafinin
+yokluğunda tutuklama kararı verilemez.
+
+[caption=""]
+.Tutukluluk denetimi
+====
+Anayasa Mahkemesi ve AİHM'in tutukluluk denetimi yaklaşımı benzerdir. Her iki
+mahkeme de aşağıdaki hususlara dikkat çekmektedir:
+
+* Tutuklamanın hukuki olması için öncelikle mevcut normlara uygun bir tutuklama
+kararının verilmesi gerekir.
+* Tutuklama kararındaki gerekçe, kişi ve fiil özelinde delille
+ilişkilendirilmelidir.
+* İsnat edilen suçun cezasının ağır olması tek başına tutuklama gerekçesi
+olamaz.
+====
+
+Tutuklama bakımından anayasal sınır **makul süre**dir. Anayasa "_Kişi ancak o
+soruşturma veya kovuşturma bakımından makul sayılabilecek bir süreyle tutuklu
+kalabilir_" demektedir.
+
+Ağır ceza mahkemelerinin görev alanı dışında kalan suçlarda bu süre 1 yıldır.
+Ancak zorunlu hallerde gerekçe gösterilerek 6 ay uzatılabilir. Yani asliye
+cezalık suçlarda kişi ancak 18 aya kadar tutuklu yargılanabilir.
+
+Ağır cezalık suçlarda ise bu süre 2 yıldır. Ancak zorunlu hallerde gerekçe
+gösterilerek bu süre 3 yıl daha uzatılabilir. Dolayısıyla ağır cezalık suçlarda
+kişi en fazla 5 yıl tutuklu yargılanabilir.
+
+TIP: OHAL KHK'larından biri ile 5 yıllık süre 7 yıla çıkarılmıştır.
+
+NOTE: Anayasa Mahkemesi tutukluluk süresinin makul olup olmadığını incelerken
+yapılan işlemler ve bu işlemler için gereken makul süreyi dikkate alır.
+İşlemler, gereken makul süre içerisinde yapılmamışsa azami tutukluluk süresi
+aşılmamış olsa bile makul süreden bahsedilemez.
+
+Azami süre bittiğinde tutukluluğa son verilmesi gerekir. Fakat bu süre
+Yargıtay'a göre ilk derece mahkemesi için geçerli süredir. Kişi hakkında ilk
+derece mahkemesinde bir mahkumiyet kararı verilmişse kanun yolu denetiminde
+geçecek süre bu azami sürelere dahil değildir.
+
+CAUTION: Azami süre dolmuş olsa bile tutukluluğun son bulması için hakim veya
+mahkeme tarafından bir karar verilmesine ihtiyaç vardır.
+
+Soruşturma evresinde şüpheli hakkında tutuklama kararı verilmişse, kovuşturmaya
+yer olmadığı kararı ile birlikte tutuklama bir karara ihtiyaç bulunmaksızın son
+bulur.
+
+Beraat kararı da başka herhangi bir karara ihtiyaç duyulmaksızın tutuklamayı
+sona erdirir.
+
+NOTE: Soruşturmada savcının tutuklama veya adli kontrol kararı vermek gibi bir
+yetkisi yoktur. Ancak verilmiş bir adli kontrol veya tutuklama kararını
+kaldırabilir.
+
+Tutuklama kararına karşı itiraz yoluna başvurmak mümkündür. Tutuklama kararının
+verildiği tarihten itibaren *7 gün* içerisinde itiraz kanun yoluna gidilebilir.
+
+Soruşturma veya kovuşturma sürecinde şüpheli/sanık ve müdafisi diledikleri zaman
+tahliye talebinde bulunabilir. Tahliye isteminin kabul veya reddine ilişkin
+karara karşı da yeniden itiraz mekanizmasının işletilmesi mümkündür.
+
+CAUTION: Katılanın veya suçtan zarar görenin tutuklama kararlarına itiraz gibi
+bir hakkı yoktur.
+
+Hem soruşturma hem kovuşturma evresinde tutukluluk hali belirli aralıklara (en
+fazla 30 günde bir) mahkeme ya da hakimlik tarafından denetlenir. Bu denetim,
+kural olarak duruşmalı olarak gerçekleştirilir. Bu denetimlerin sonucunda
+tutukluluk halinin devamına ya da kişinin tahliyesine karar verilebilir.
+Dolayısıyla bunlar da bağımsız olarak itiraza konu olabilir.
+
+TIP: Kural olarak itiraz üzerine verilen karar kesindir ve ancak nihai hüküm ile
+birlikte istinaf veya temyiz incelemesi sırasında denetlenir. İstisnai olarak,
+şüpheli veya sanık hakkında ilk tutuklama kararı itiraz muhakemesi üzerine
+verilmişse şüpheli veya sanığın bir kez daha itiraz imkanı vardır.
+
+=== ADLİ KONTROL
+
+Tutuklama neden ve koşullarının varlığına rağmen hakimlik veya mahkeme ya da
+Cumhuriyet savcısı, tutuklamanın ölçüsüz olduğu sonucuna ulaşır ve tutuklamayla
+hedeflenen amacın adli kontrol tedbirlerinden birinin veya birden fazlasının
+uygulanması suretiyle temin edilebileceği kanaatine varırsa tutuklamaya değil
+adli kontrole başvurur. Adli kontrol tutuklamaya alternatif ve öncül bir
+tedbirdir. Dolayısıyla tutuklamadan beklenen fayda adli kontrol tedbirleri ile
+sağlanabiliyorsa adli kontrole başvurulması zorunludur.
+
+Adli kontrol tedbirleri:
+
+* Yurt dışına çıkamamak
+* Hakim tarafından belirlenen yerlere, belirtilen süreler içinde düzenli olarak
+başvurmak
+* Hakimin belirttiği merci veya kişilerin çağrılarına ve gerektiğinde mesleki
+uğraşlarına ilişkin veya eğitime devam konularında kontrol tedbirlerine uymak
+* Her türlü taşıtı veya bunlardan bazılarını kullanamamak ve gerektiğinde
+kaleme, makbuz karşılığında sürücü belgesini teslim etmek
+* Uyuşturucu, uyarıcı veya uçucu maddeler ile alkol bağımlılığından arınmak
+amacıyla hastaneye yatmak dahil, tedavi veya muayene tedbirlerine tabi olmak ve
+bunları kabul etmek
+* Şüphelinin parasal durumu göz önünde bulundurularak, miktarı ve bir defada
+veya birden çok taksitle ödeme süreleri hakimce belirlenecek bir güvence miktarı
+yatırmak
+* Silah bulunduramamak veya taşıyamamak, gerektiğinde sahip olunan silahları
+makbuz karşılığında adli emanete teslim etmek
+* Hakim tarafından miktarı ve ödeme süresi belirlenecek parayı, mağdurun
+haklarını güvence altına almak üzere ayni veya kişisel güvenceye bağlamak
+* Aile yükümlülüklerini yerine getireceğine ve adli kararlar gereğince ödemeye
+mahkum edildiği nafakayı düzenli olarak ödeyeceğine dair güvence vermek
+* Konutunu terk etmemek
+* Belirli bir yerleşim bölgesini terk etmemek
+* Belirlenen yer veya bölgelere gitmemek
+
+Tıpkı tutuklamada olduğu gibi adli kontrole karar verilebilmesi de soruşturma
+evresinde Cumhuriyet savcısının istemine bağlıdır. Kovuşturma evresinde ise
+mahkeme, talep olsun veya olmasın re'sen adli kontrole karar verebilir.
+
+NOTE: Sulh ceza hakiminden tutuklama istendiğinde hakim tutuklama yerine adli
+kontrole karar verebilir.
+
+Adli kontrole ilişkin kararların tamamına itiraz edilebilir.
+
+Adli kontrol tedbirlerinin herhangi bir süresi yoktur. Nihayetinde yargılamanın
+sonuna kadar bir tedbire başvurulabilir.
+
+IMPORTANT: Adli kontrolde geçirilen zaman mahkumiyet halinde hükümden mahsup
+edilmez. İstisnaen, uyuşturucu madde suçlarında bağımlılıktan kurtulmak için bir
+tedavi kurumuna yatırılma kararlarında burada geçirilen süre hükümden mahsup
+edilir.
+
+[caption=""]
+.Güvence bedeli
+====
+Güvence bedelinin temel amacı kişinin kaçmamasını ve soruşturma veya kovuşturma
+işlemlerine katılmasını sağlamaktır. İkinci amaç ise söz konusu suç sebebiyle
+mağdurun veya kamunun uğradığı bir zarar varsa bunların karşılanmasıdır. Üçüncü
+amaç, kişinin aile hukukundan kaynaklanan yükümlülükleri varsa bu
+yükümlülüklerin yerine getirilmesini sağlamaktır.
+
+Adli kontrol tedbiri, bu amaçların tamamı veya sadece bir tanesi için
+verilebilir. Ancak adli kontrol, bu şekilde bir güvencenin yatırılması olarak
+verildiğinde ne kadar miktarın neyi garanti ettiği söz konusu kararda
+belirtilmelidir.
+====
+
+NOTE: Tutuklamanın azami süresini doldurup salıverilmiş kişi hakkında adli
+kontrol tedbirine karar verilmiş ve kişi bu tedbirin gereklerini yerine
+getirmemişse yeniden tutuklanabilir. Bu halde tutuklama süresi ağır cezalık
+suçlarda 9 ayı, asliye cezalık suçlarda 2 ayı geçemez.
+
+=== ZORLA GETİRME
+
+Soruşturma evresinde ifade söz konusuysa Cumhuriyet savcısı, kovuşturma
+evresinde ise mahkemenin zorla getirme kararı verebilme imkanı vardır. Zorla
+getirmenin temel amacı, şüpheli veya sanığın ifadesinin alınmasını veya
+sorgusunun yapılmasını sağlamaktır.
+
+Zorla getirme, tanık, bilirkişi ve suçtan zarar gören bakımından da
+uygulanabilecek bir tedbirdir. Ancak bu kişilerin zorla getirilebilmesi için
+bunlara yapılacak davette, gelmemesi durumunda zorla getirileceği ihtar
+edilmelidir.
+
+Zorla getirme bir kişiye ve bir yere yöneliktir. Bütün yurt sathında zorla
+getirme kararı verilemez. Zira bu durumda bir yakalama kararından söz edilir.
+Zorla getirme kararı, işlemin yapılacağı tarih ve saatte kişinin bulunduğu
+yerden alınıp, kararı veren makamın huzuruna çıkartılması şeklinde infaz edilir.
+
+Zorla getirme kararına karşı herhangi bir kanun yolu düzenlemesi yoktur.
+
+=== GÖZLEM ALTINA ALMA
+
+Şüpheli veya sanığın akıl hastası olduğu yönünde bir şüphe ortaya çıkarsa
+hekimin görüşü alınarak akıl sağlığının yerinde olup olmadığının, akıl sağlığı
+yerinde değilse ne zamandır yerinde olmadığının ve işlediği suçun hukuki anlam
+ve sonuçlarını idrak etmek ihtimalinin bulunup bulunmadığının tespiti amacıyla 3
+haftalığına bir tedavi kurumuna yatırılmasına karar verilebilir. Bu tedbire
+*gözlem altına alma* denir.
+
+Bu üç haftalık süre üçer haftalık periyotlar halinde ve 3 ayı geçmemek üzere
+uzatılabilir.
+
+Gözlem altına alma işlemi zorunlu müdafilik hallerinden birisidir.
+
+NOTE: Gözlem altına alma kararına karşı itiraz, kararın uygulanmasını
+kendiliğinden durdurur.
+
+=== ARAMA
+
+Görülemeyen veya gizlenmiş şüpheli, sanık ya da suç delillerini elde etmek
+amacıyla gerçekleştirilen araştırma faaliyetine *arama* denir.
+
+[caption=""]
+.Önleme araması
+====
+PVSK 9, suç şüphesi sebebiyle değil, tehlikenin ortadan kaldırılması amacıyla
+belirli şartlarda aramaya izin verir.
+
+Önleme aramasının muhatabı, tehlikenin ortaya çıktığı yer ve zaman diliminde
+bulunan herkes olabilir. Yeter ki tehlikenin bertaraf edilmesi bakımından tıpkı
+durdurmada olduğu gibi o kişinin aranmasını meşru kılabilecek yeterli şüphe
+ortaya çıksın.
+
+Önleme aramasına sulh ceza hakimi karar verir. Gecikmesinde sakınca bulunan
+hallerde ise mülki amirin emri de yeterlidir.
+
+Sulh ceza hakiminin verdiği bir önleme araması kararının denetimi itiraz
+hükümlerine göre yapılır. Valinin emri söz konusu olduğunda ise idari yargının
+devreye girmesi icap eder.
+
+*Önleme araması sadece kamuya açık alanlar için geçerli bir işlemdir.*
+
+Önleme araması hukuka uygun olarak yapılmış ve işlem sırasında bir suçun
+işlendiğine dair deliller elde edilmişse bunlar bir soruşturmanın başlangıcında
+ve sonrasında ispat aracı olarak kullanılabilir.
+====
+
+Kanun bazı durumlarda kolluk görevlisine herhangi bir karar veya emir olmaksızın
+arama yetkisi vermektedir:
+
+* Gözaltına alınırken kişinin üstünün aranması
+* Polisin kendi koruduğu binaların giriş ve çıkışlarında arama işlemi gerçekleştirilmesi
+* Spor müsabakalarının yapıldığı yerlerin girişinde arama işlemi gerçekleştirilmesi
+* Gümrük bölgelerindeki şüpheli eşyaların aranması
+* Havalimanı ve istasyonlar gibi yerlerin girişinde arama yapılması
+* Kolluğun elindeyken kaçmış ya da suçüstü halinde bulunan kişinin kesintisiz
+takibi sırasında girdiği yerler bakımından kanun, kolluğa doğrudan girme ve
+arama yetkisi verir.
+
+NOTE: Arama işlemi, PVSK'da düzenlenen kimlik sorma yetkisiyle
+karıştırılmamalıdır. Durdurma ve kimlik sorma işleminde kolluk, kişinin
+kendisine veya çevresine zarar verebilecek tehlike barındırdığından
+şüphelenirse, kıyafetlerini çıkartmamak veya aracın dışarıdan bakıldığında
+görülmeyen yerlerini açtırmamak koşuluyla üst arama yetkisi vardır. Bunlar
+aramaya ilişkin olsa da arama işlemi değildir.
+
+*Adli arama*, suç şüphesini bertaraf etmek bakımından, üçüncü kişiye ya da
+şüpheli veya sanığa yönelik üstünde, eşyasında, konutunda gerçekleştirilen ve
+şüpheli veya sanığın, delilin ya da müsadereye tabi eşyanın tespitine yönelik
+işlemdir.
+
+Aramanın yapılması, aranılan kişinin veya suçun delillerinin belirtilen yerlerde
+bulunduğunun kabul edilebilmesine olanak sağlayan olayların varlığına bağlıdır.
+
+Adli aramayı diğerlerinden ayıran husus, bir şüphelinin varlığı değil bir suç
+şüphesinin varlığıdır. Arama işleminin gerçekleştirilmesi için mutlaka bir
+şüpheliye ihtiyaç yoktur.
+
+Aramaya kural olarak hakim karar verir. Ancak gecikmesinde sakınca bulunan
+hallerde Cumhuriyet savcısı da arama kararı verebilir. Bu hallerde savcıya
+ulaşılamıyorsa kolluk amiri de arama kararı verebilir.
+
+CAUTION: Konut, işyeri veya kamuya kapalı yerlerde arama kararını vermek yetkisi
+sadece hakime ve gecikmesinde sakınca bulunan hallerde savcıya aittir. Kolluk
+amirinin arama emri verebilme yetkisi sadece üst, eşya ve araçlarda mümkündür.
+
+Yargıtay'a göre savcının arama talimatı vermesi bakımından iki temel ölçüt
+bulunmaktadır:
+
+. Savcı önceden arama için karar talep etmiş ve bu talebi reddedilmiş ise, daha
+sonra gecikmesinde sakınca bulunduğu gerekçesiyle doğrudan arama emri veremez.
+. Savcının arama talimatını verdiği hal, esasında gecikmesinde sakınca bulunan
+hal değilse arama işlemi hukuka uygun değildir. Halin gecikmesinde sakınca
+bulunan hal olup olmadığı geriye bakarak denetlenir.
+
+*Aramanın hukuka aykırı olmasının en önemli sonucu, arama ile elde edilen
+deliller ve bu delillerden hareketle elde edilen diğer delillerin soruşturma
+veya kovuşturmada kullanılamamasıdır.*
+
+Arama kararında bulunması zorunlu hususlar şunlardır:
+
+. Aramanın nedenini oluşturan fiil
+. Aranacak kişi veya yer
+. Aramanın ne kadar süreyle geçerli olduğu
+
+NOTE: Arama kararları tek kullanımlık kararlardır. Arama kararı ne kadar süre
+ile verilmişse o süre içerisinde sadece tek bir arama yapılabilir.
+
+İster hakim kararı olsun, ister savcı talimatı ya da kolluk amiri emri olsun
+aramaya ilişkin bütün karar ve emirler *yazılı* olarak yapılmak zorundadır.
+
+TIP: Adli arama bakımından, suç şüphesi altında bulunan kişinin soruşturma
+makamına aramanın yapılması için verdiği rızanın özgür irade ile verilmiş bir
+rıza olduğundan söz edilemez.
+
+Konut, işyeri ve kamuya kapalı alanlarda gece arama yapılması yasaktır. Gece
+araması kural olarak sadece kişinin üstünde, eşyasında ve aracında
+gerçekleştrilebilir. Gece, güneşin batmasından 1 saat sonra ve doğumundan bir
+saat önceki zaman dilimidir. İstisnaen, gecikmesinde sakınca bulunan hallerde
+veya firar etmiş kişinin yeniden yakalanması için gece araması her yerde
+yapılabilir.
+
+Aramanın mutlaka şüpheli/sanığa karşı yapılması şart değildir. Dolayısıyla
+aramanın mutlaka malik denetiminde gerçekleşmesine ihtiyaç vardır. Ancak burada
+da işlemi geciktirmemek koşulu aranır.
+
+Cumhuriyet savcısı arama işlemine bizzat nezaret edemiyorsa o yer ihtiyar
+heyetinden veya komşulardan iki kişinin de işleme nezaret etmesi sağlanır. Bu
+kişiler arama işleminden başından sonuna tanıklık etmek ve tutanağı imzalamak
+ile yükümlüdür. Bu kişilere *işlem tanığı* denir.
+
+NOTE: Yargıtay, işlem tanığının bulunmamasının arama işlemini hukuka aykırı hale
+getirmeyeceğini kabul etmektedir.
+
+Arama işleminin sonunda işlem bir tutanakla tespit edilir. Tutanakta aramanın
+hangi karara veya emre istinaden, hangi fiil sebebiyle, hangi şüpheli/sanık ya
+da üçüncü kişi hakkında, nerede ve ne hakkında, ne zaman tatbik edildiği, elde
+edilen delillerin neler olduğu tespit edilir. Yine bu tutanakta, elde edilen
+eşyaya ilişkin mülkiyet veya başka bir iddia varsa bu belirtilir. Sonunda da
+hazır bulunanlarca imzalanır.
