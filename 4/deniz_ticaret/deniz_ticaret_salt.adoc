@@ -1781,3 +1781,50 @@ yetkilidir.
 Kaptan, yükle ilgili olanların zamanında bizzat yapabilecek durumda olmamaları
 koşuluyla, eşyanın zıyaından ve hasara uğramasından doğan istem haklarını,
 mahkemelerde veya mahkeme dışında kendi adına kullanmaya yetkilidir.
+
+== GEMİ KİRA SÖZLEŞMESİ
+
+Gemi kirası sözleşmeleri esas olarak BARECOM standart gemi kirası sözleşmesi
+şeklinde düzenlenir. Burada düzenlenmeyen hallerde veya istisnaen bu tip
+sözleşme çerçevesinde akdedilmeyen sözleşmelerde TTK hükümleri uygulanır.
+
+NOTE: TTK'de hüküm bulunmayan hallerde TBK'deki adi kira hükümleri uygulama
+alanı bulur.
+
+_Gemi kira sözleşmesi, kiraya verenin belirli bir süre için geminin
+kullanılmasını, kira bedeli karşılığında, kiracıya bırakmayı üstlendiği bir
+sözleşmedir._
+
+Kira sözleşmesinin konusu sadece gemi ise çıplak gemi kirası (bareboat charter)
+söz konusudur. Gemi yönetimini de içeren sözleşmelere ise _charter by demise_
+denir.
+
+_Kiraya verenin, gemi ile birlikte gemi adamlarını da kiracının emrine vermeyi
+üstlenmesi, sözleşmenin niteliğini değiştirmez._ Gemi adamlarının kiracının
+emrine verilmesinden kasıt, gemi adamları ile malik arasındaki hizmet
+sözleşmelerinin kiracıya devri ya da bu sözleşmelere kiracının katılmasıdır.
+Buna uygulamada *donatılmış kira sözleşmesi* denir.
+
+_Gemi kira sözleşmesinin taraflarından her biri, giderini vermek koşuluyla,
+sözleşme şartlarını içeren ve gemi kira çarter partisi olarak adlandırılan bir
+gemi kira senedi düzenlenmesini ve kendisine verilmesini isteyebilir._
+
+NOTE: Kiracı, gemi işletme müteahhidi sıfatını kazanacağından üçüncü kişilerle
+olan ilişkilerinde donatan sayılır. Malikle olan ilişkisi ise kira sözleşmesine
+ilişkin TTK hükümlerine tabidir.
+
+Aksi kararlaştırılmış olmadıkça kiracının gemiyi başkasına kiralama hakkı
+yoktur.
+
+_Sözleşmede aksi kararlaştırılmadıkça, taraflar, gemi kira sözleşmelerinin Türk
+Gemi Siciline veya Ulaştırma, Denizcilik ve Haberleşme Bakanlığı tarafından
+tutulan özel sicile şerhini isteyebilirler. Bu şerh sonraki maliklere, kiracının
+gemi kira sözleşmesindeki koşullar çerçevesinde, gemiyi kullanmasına izin vermek
+zorunluluğu yükler._
+
+TIP: TUGS'a tescilli geminin kiralanması halinde şerhin TUGS'a verilmesi
+mümkündür.
+
+CAUTION: Bakanlık tarafından tutulan özel sicile şerh imkanı kanunda
+düzenlenmiştir. Ancak mülkiyet el değiştirdiği takdirde yabancı maliklere ileri
+sürülmesi mümkün değildir.
