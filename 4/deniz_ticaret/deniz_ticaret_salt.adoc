@@ -1828,3 +1828,190 @@ mümkündür.
 CAUTION: Bakanlık tarafından tutulan özel sicile şerh imkanı kanunda
 düzenlenmiştir. Ancak mülkiyet el değiştirdiği takdirde yabancı maliklere ileri
 sürülmesi mümkün değildir.
+
+=== KİRAYA VEREN
+
+==== KİRAYA VERENİN BORÇLARI
+
+Kiraya verenin temel borcu, belli bir süre geminin kullanımını kiracıya
+bırakmaktır. Kiraya veren gemiyi, denize ve sözleşmede öngörülen amaca uygun
+kullanmaya elverişli bir şekilde sözleşmede öngörülen yer ve tarihte kiracıya
+teslim edecektir. Söz konusu teslim zilyetliğin devri ile olur.
+
+NOTE: Zaman çarteri sözleşmesinde zilyetliğin devri yoktur.
+
+Zilyetlik kiracıya devredildiği için kiracı, *gemi işletme müteahhidi* sıfatını
+kazanır.
+
+Sözleşmeden zilyetliğin devri için yer öngörülmemişse TBK'daki genel hükümlere
+göre zilyetlik gemi nerede bulunuyorsa orada devredilir.
+
+Zilyetlik devredilmeden kira borcu muaccel olmaz.
+
+Teslim edilen gemi ayıplı ise iki ihtimal söz konusudur:
+
+. *Önemli ve kısa sürede giderilemeyecek bir ayıp söz konusu ise* kiracı gemiyi
+kabul etmek zorunda değildir. Gemiyi teslim almaktan kaçınarak borçlu temerrüdü
+hükümlerine dayanabilir. Ayıp hükümlerinde de dayanabilir.
+. *Önemli olmayan ve tamiri kısa sürecek bir ayıp* ya da *gizli ayıp* söz konusu
+ise ve bu ayıp *geminin 24 saatten fazla kullanılamamasına sebep olursa* bu 24
+saati aşan süre için kira ücreti işlemez.
+
+Kiraya veren ile kiracı, gemi adamlarının da kiracının emrine bırakılması
+hususunda anlaşmışlarsa kiraya verenin geminin zilyetliğini devretme borcu
+yanında gemi adamlarının hizmet sözleşmelerini devretme borcu da bulunmaktadır.
+Bu durumda, gemi adamlarının hizmet sözleşmelerinin doğan alacakları için kiraya
+veren de kiracı ile birlikte müteselsilen sorumludur.
+
+NOTE: Müteselsil sorumluluk için bir üst süre öngörülmemiştir. Dolayısıyla kira
+sözleşmesi boyunca sorumluluk devam eder.
+
+IMPORTANT: Kanunda hizmet sözleşmesinden doğan alacaklar için asıl borçlunun
+kiracı olduğu düzenlenmiştir. Buna göre, kiraya veren gemi adamlarına bir ödeme
+yaparsa kiracıya rücu edebilir.
+
+==== KİRAYA VERENİN HAKLARI
+
+Kiraya verenin temel hakkı, ücret alma hakkıdır. Kira ücretini temin etmek
+üzere, kiraya verenin, kıymetli evrak üzerinde hapis hakkı, kiracının navlun ve
+diğer alacakları üzerinde alacaklı def'ine sahip olduğu öngörülmüştür.
+
+=== KİRACI
+
+Kiracının temel borcu, kira bedelini ödemektir. Kira bedeli aksi
+kararlaştırılmadıkça aylık ve peşin olarak ödenir.
+
+Kiracı, gemiyi sözleşmede belirlenen tahsis amacına uygun şekilde kullanmak
+zorundadır.
+
+Kiracı, sefer bölgelerine ilişkin sınırlandırmalara riayet etmek zorundadır. Bu
+sınırlandırma, sözleşmede öngörülmemiş olsa dahi; örneğin geminin sigorta
+sözleşmesinde böyle bir sınırlama varsa, geminin sınıflama kuruluşu belgesinde
+böyle bir sınırlama varsa, bu sınırlandırmalara kiracı riayet etmek zorundadır.
+
+Kiracı, sözleşme bitiminde gemiyi, teslim aldığı haliyle geri verir. Kiracı,
+gemide, normal bir kullanım sonucu meydana gelen eksiklik, değişiklik veya
+aşınmadan sorumlu değildir.
+
+Sözleşmenin bitiminde gemiyi iadede geciktiği takdirde kiracı, geciktiği sürenin
+ilk onbeş günü için kira bedeli üzerinden ve sonraki günler için kira bedelinin
+iki katı üzerinden hesaplanacak bir tazminatı ödemekle yükümlüdür. Kiraya veren
+daha yüksek bir zarara uğradığını ispat ederse tazminat buna göre hesaplanır.
+
+Gemi kira sözleşmesinden doğan alacaklar, alacağın muaccel olmasından itibaren 1
+yıllık zamanaşımı süresine tabidir.
+
+== ZAMAN ÇARTERİ SÖZLEŞMESİ
+
+Zaman çarteri sözleşmesinde, tahsis eden, donatılmış bir geminin ticari
+kullanımını belirli bir süre boyunca tahsis olunana bırakır. Tahsis olunan zaman
+çarteri, tahsis eden ise donatandır. Teknik yönetim tahsis edende iken, ticari
+yönetim tahsis olunandadır.
+
+Zaman çarterinin unsurları:
+
+. Ücret kararlaştırılmış olmalıdır.
+. Belirli bir süre öngörülmüş olmalıdır.
+. Donatılmış gemi
+. Ticari kullanımı bırakma
+
+Kaptan, tahsis olunanın geminin ticari yönetimine ilişkin olarak zaman çarteri
+sözleşmesi hükümleri çerçevesinde kendisine verdiği bütün talimatlara uymak
+zorundadır.
+
+Tahsis eden, geminin teknik yönetimini üstlenir. Bu amaçla tahsis eden,
+belirlenen gemiyi:
+
+. Kararlaştırılan tarihte ve yerde hazır bulundurmak
+. Sözleşme süresince gemiyi denize ve yola elverişli ve sözleşmede belirtilen
+amaca uygun halde bulundurmak
+
+il yükümlüdür.
+
+IMPORTANT: Zaman çarteri sözleşmesinde zilyetlik devredilmez. Bu sebeple, tahsis
+olunan, gemiyi kendi adına ve hesabına işletme hakkını kazanmaz ve dolayısıyla
+gemi işletme müteahhidi değildir.
+
+== NAVLUN SÖZLEŞMESİ
+
+Navlun sözleşmesi, bir eşyanın gemiyle bir yerden bir yere taşınmasının
+üstlenildiği sözleşmedir.
+
+=== UNSURLARI
+
+. *Eşya*: Taşınabilir her türlü maddi şey navlun sözleşmesine konu olabilir.
+. *Taşımanın üstlenilmesi*: Bir taahhütte bulunulması yeterlidir.
+. *Eşyanın deniz yoluyla taşınması*
+. *Eşyanın, taşıyanın zilyetliğine bırakılması*
+. *Navlun*: Deniz eşya taşınması karşılığında verilen ücrettir. Ücretsiz yapılan
+taşıma, navlun sözleşmesi olarak nitelendirilemez.
+
+=== TARAFLARI
+
+==== TAŞIYAN
+
+Bir kişi, bir başka kişiye karşı ücret karşılığında deniz yoluyla bir limandan
+başka bir limana eşya taşımayı taahhüt ettiği anda, kanun gereği *taşıyan*
+sıfatını kazanır. Bu taşımayı bizzat yerine getirip getirmemesi, taşıyan
+sıfatının kazanılması bakımından bir farklılık yaratmaz.
+
+TIP: Taşıyan, donatan veya gemi işletme müteahhidi değilse taşımayı
+gerçekleştirmek için bir başkasıyla navlun sözleşmesi yapacaktır. Bu durumda
+taşıma, *fiili taşıyan* tarafından gerçekleştirilir.
+
+==== TAŞITAN
+
+Navlunu ödeyecek olan kişi, **taşıtan**dır. Taşıtanın, yükün maliki olması şart
+değildir.
+
+=== İLGİLİLER
+
+==== YÜKLETEN
+
+*Yükleten*, eşyayı gemiye kadar getirip taşıyana teslim eden kişidir.
+
+[TIP]
+====
+Genellikle, navlun sözleşmesinin arka planında bir deniz aşırı satış sözleşmesi
+bulunur. Bu satış sözleşmesinin alıcıya ifa edilebilmesi için bir navlun
+sözleşmesi akdedilir.
+
+Örneğin *FOB (Free On Board)* "Eşya gemi bordasını geçtiği anda, nevi ve hasar
+alıcıya intikal eder" kuralı çerçevesinde şekillenmiş bir satış tipidir. Ayrıca
+malı taşıtmak için bir taşıyan bulmak ve navlunu ödemek yükümlülüğü alıcı
+üzerindedir.
+====
+
+==== GÖNDERİLEN
+
+*Gönderilen*, malın gönderildiği ve varma limanında malı teslim alma hakkına
+sahip kişidir.
+
+Malı teslim alma hakkı konşimentoya dayanabileceği gibi navlun sözleşmesine de
+dayanabilir. Eğer navlun sözleşmesine dayanıyorsa ve gönderilen taşıtandan başka
+bir kişi ise navlun sözleşmesi bir üçüncü kişi yararına sözleşme olacaktır.
+
+CAUTION: Navlun sözleşmesinin tarafları taşıyan ve taşıtandır. Taraflar anlaşsa
+bile navlunun gönderilen tarafından ödeneceğini kararlaştıramazlar, zira üçüncü
+kişi aleyhine borç yüklenemez.
+
+=== TÜRLERİ
+
+==== YOLCULUK ÇARTERİ SÖZLEŞMESİ
+
+Yolculuk çarteri sözleşmesinde, taşıyan, taşıma işini belli bir geminin tamamını
+veya bir kısmını tahsis ederek gerçekleştirecektir. Tahsis, bu sözleşmenin
+ayrıcı unsurudur.
+
+==== KIRKAMBAR SÖZLEŞMESİ
+
+Kırkambar sözleşmesinde tahsis unsuru yoktur. Burada sadece ayırt edilmiş bir
+eşyanın navlun karşılığında bir yerden bir yere taşınması söz konusudur.
+
+=== İFASI
+
+. *Taşımanın sözleşmede kararlaştırılan gemi ile yapılması*: Taşıyan sözleşme
+ile kararlaştırılan gemiden başka bir gemiye malları yüklerse bundan doğacak
+zararlardan sorumlu olur. Ancak taşıyan, mallar kararlaştırılmış gemiyi
+yüklenmiş olsaydı da bu zararın meydana geleceğini ispatlarsa sorumluluktan
+kurtulabilir.
