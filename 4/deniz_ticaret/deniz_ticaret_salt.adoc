@@ -2010,8 +2010,277 @@ eşyanın navlun karşılığında bir yerden bir yere taşınması söz konusud
 
 === İFASI
 
-. *Taşımanın sözleşmede kararlaştırılan gemi ile yapılması*: Taşıyan sözleşme
-ile kararlaştırılan gemiden başka bir gemiye malları yüklerse bundan doğacak
-zararlardan sorumlu olur. Ancak taşıyan, mallar kararlaştırılmış gemiyi
-yüklenmiş olsaydı da bu zararın meydana geleceğini ispatlarsa sorumluluktan
-kurtulabilir.
+==== TAŞIMANIN SÖZLEŞMEDE KARARLAŞTIRILAN GEMİ İLE YAPILMASI
+
+Taşıyan sözleşme ile kararlaştırılan gemiden başka bir gemiye malları yüklerse
+bundan doğacak zararlardan sorumlu olur. Ancak taşıyan, mallar kararlaştırılmış
+gemiyi yüklenmiş olsaydı da bu zararın meydana geleceğini ispatlarsa
+sorumluluktan kurtulabilir.
+
+==== GEMİNİN YOLCULUĞA HAZIRLANMASI
+
+Taşıyan, gemiyi, denize, yola ve yüke hazır olarak *yükleme limanında*
+bulundurmak zorundadır.
+
+.. _Denize elverişlilik_, geminin, gövdesi, genel donanımı, makinesi ve kazanı
+itibariyle yolculuğun yapılacağı sudan ileri gelen (anormal tehlikeler hariç)
+tehlikelere karşı koyabilecek durumda olmasıdır.
+.. _Yola elverişlilik_, denize elverişli geminin, teşkilatı, yükleme durumu,
+yakıtı, kumanyası, gemi adamlarının yeterliliği ve sayısı bakımından, (tamamıyla
+anormal tehlikeler hariç) yapacağı yolculuğun tehlikelerine karşı koyabilmek
+için gerekli niteliklere sahip bulunmasıdır.
+.. _Yüke elverişlilik_, geminin, soğutma tesisatı da dahil olmak üzere, eşya
+taşımada kullanılan kısımları eşyanın kabulüne, taşınmasına ve muhafazasına
+elverişli olmasıdır.
+
+==== EŞYANIN YÜKLENMESİ
+
+Sözleşme, yükleme limanı düzenlemeleri ve bunlar yoksa yerel teamül ile aksi
+öngörülmüş olmadıkça, eşyanın gemiye kadar taşıma gideri taşıtana, yükleme
+gideri ise taşıyana aittir.
+
+TIP: Eğer sözleşmede _FIO (Free in and out)_ unsuru varsa yükleme ve boşaltma
+taşıyanın faaliyet sahasından, taşıtanın ve gönderilenin faaliyet sahasına
+aktarılmış olur. _FIOS_ varsa sadece yükleme değil, istiflenmesi de taşıtana ait
+olur. _FIOST_ varsa sabitleme de taşıtana ait olur.
+ 
+Yükleme aşamasında sadece yükün kararlaştırılan zaman dilimi içinde gemiye
+teslim edilmesi yeterli değildir. Ayrıca yükle ilgili belgelerin de taşıyana
+teslim edilmesi gerekir.
+ 
+NOTE: Yük nevi ve cinsi ile belirlenmişse, taşıtan, *aynı varma limanı için*
+başka bir yük belirleme hakkına sahiptir. Taşıyan, durumu ağırlaşmadığı sürece
+bunu kabul etmek zorundadır.
+
+===== TAŞITAN VE YÜKLETENİN SORUMLULUĞU
+
+Taşıtan ve yükleten, eşya hakkında taşıyana tam ve doğru beyanda bulunmakla
+yükümlüdür. Bunlardan her biri, beyanlarının doğru olmamasından doğan zarardan
+taşıyana karşı sorumludur. *Bu yüzden zarar gören diğer kişilere karşı ise ancak
+kusurları varsa sorumlu olurlar.*
+
+Taşıtan ve yükleten, *harp kaçağı veya ihracı, ithali veya transit olarak
+geçirilmesi menedilmiş olan eşyayı yükler yahut yükleme sırasında mevzuata,
+özellikle kolluk, vergi ve gümrük kurallarına aykırı hareket ederlerse, taşıyana
+karşı sorumludur; bu yüzden zarar gören diğer kişilere karşı ise ancak kusurları
+varsa sorumlu olurlar*. Kaptanın onayıyla hareket etmiş olmaları, taşıtan ve
+yükleteni diğer kişilere karşı sorumluluktan kurtarmaz. Bunlar eşyanın el
+konulmuş olduğunu ileri sürerek navlunu ödemekten kaçınamazlar. Eşya, gemiyi
+veya içindeki diğer eşyayı tehlikeye sokarsa, kaptan, bunu karaya çıkarmaya veya
+zorunluluk hâllerinde denize atmaya yetkilidir.
+
+Kaptanın bilgisi olmaksızın gizlice gemiye eşya yükleyen kişi de bu yüzden
+doğacak zararı tazmin etmekle yükümlüdür. Kaptan bu gibi eşyayı tekrar karaya
+çıkarmaya ve gemiyi veya diğer eşyayı tehlikeye düşürürse gerektiğinde denize
+atmaya yetkilidir. Kaptan eşyayı gemide tutarsa, yükleme yerinde ve yükleme
+sırasında bu gibi yolculuk ve eşya için alınan en yüksek navlunun ödenmesi
+gerekir.
+
+Denizde can ve mal koruma hakkındaki mevzuata göre tehlikeli sayılan eşya
+kaptanın bunlardan veya bunların tehlikeli cins veya niteliklerinden bilgisi
+olmaksızın gemiye getirilirse, taşıtan veya yükleten, kendilerine bir kusur
+isnat edilmese dahi bundan ileri gelen zararlardan sorumludur. Bu hâlde kaptan
+eşyayı her zaman ve herhangi bir yerde gemiden çıkarmaya, imha etmeye veya başka
+suretle zararsız hâle getirmeye yetkilidir. Kaptan, eşyanın tehlikeli cins veya
+niteliğini bildiği hâlde, yüklemeye onay vermişse, eşya gemiyi veya diğer eşyayı
+tehlikeye soktuğu takdirde aynı şekilde hareket etmeye yetkilidir. Bu hâlde de
+taşıyan veya kaptan, zararı tazmin etmekle yükümlü değildir.
+
+===== YÜKLEMEDE BEKLEME SÜRELERİ
+
+Taşıyanın yüklemenin tamamlanması için kanunen beklemek zorunda olduğu süre
+**starya süresi**dir. Kural olarak bu süre için taşıyan bir ücret talep edemez.
+Ancak bunun aksi kararlaştırılabilir.
+
+Starya süresi, taraflar ne zaman başlayacağını kararlaştırmamışsa, *hazırlık
+ihbarı* ile başlar. Hazırlık ihbarı, geminin yükleme limanına gelip yerine
+demirlediğinde taşıtana hazır olduğunu bildirmesidir. İşte starya süresi,
+hazırlık ihbarının ulaşmasını takip eden gün işlemeye başlar.
+
+Starya süresi, navlun sözleşmesinde açıkça belirlenmemişse, işçiler 24 saat
+yükleme yapacakmış gibi düşünülerek hesaplanır.
+
+Taraflar, yüklemenin starya süresinde bitmemesi ihtimaline karşı yedek bir süre
+de belirleyebilir. Bu süreye *sürastarya süresi* denir. Sürastarya süresi,
+taşıyanın, *sözleşmede kararlaştırılmışsa beklemek zorunda olduğu süredir*.
+Taşıyan, sürastarya süresi kapsamında beklenen gün kadar *sürastarya ücreti*
+alır. Sürastarya süresi, starya süresinin bitimini takip eden gün başlar.
+Taraflar ne kadar süreceğini belirlememişse kanunen 10 gün olduğu kabul edilir.
+
+Starya süresinin hesaplanmasında tatil, bayram vs. dikkate alınmaz.
+
+Yükleme, taşıtanın faaliyet alanında ortaya çıkan bir engel yüzünden gecikmişse
+süre durmaz. Taşıyanın faaliyet alanında ortaya çıkan bir engel yüzünden
+gecikmişse ise durur. Her iki tarafın ortak alanında ortaya çıkan bir engel söz
+konusuysa süre durur ancak taşıyana sürastarya ücreti ödenir.
+
+Engel ortaya çıkmış ancak buna rağmen yükleme yapılmışsa süre durmaz.
+
+Sürastarya süresi hiçbir şekilde durmaz. Bunun tek istisnası taşıyanın kusuru
+sebebiyle yüklemeye engel olmasıdır.
+
+NOTE: Yüklemenin, sözleşmede kararlaştırılan yükleme süresinden önce bitirilmesi
+halinde, taşıyanın, kullanılmayan süre için taşıtana bir para ödemesi
+öngörülebilir. Buna *hızlandırma primi* denir.
+
+Yükleme süresi ve kararlaştırılmışsa sürastarya süresi bittiği halde *yükleme
+henüz başlamamışsa* taşıyan;
+
+.. Sözleşmeyi feshedilmiş sayabilir. Bunu yazılı olarak bildirip *fesih
+tazminatı* talep edebilir.
+.. Yüklemenin yapılması için beklemeye devam edebilir. Bu durumda navlunu alır,
+sürastarya ücretini alır ve sürastarya süresini aşan bekleme sebebiyle meydana
+gelen zararı varsa bunun tazminini talep edebilir.
+
+Yükleme süresi ve kararlaştırılmış ise sürastarya süresi bittikten sonra,
+taşıyan, yüklemenin tamamlanması için daha fazla beklemek zorunda değildir.
+Taşıyan, taşıtanın talimatına dayanarak yükleme ve sürastarya süresinden sonra
+beklemeye devam ederse, bu süre için yaptığı giderlerle bu yüzden uğradığı
+zarara karşılık tazminat isteyebilir.
+
+Yükleme süresi ve kararlaştırılmış ise sürastarya süresi bittikten sonra,
+taşıyan, taşınması için kararlaştırılan eşyanın tamamı yüklenmiş olmasa bile,
+*taşıtanın istemi üzerine* yola çıkmak zorundadır. Bu durumda taşıyan;
+
+. Sözleşmede kararlaştırılmış navlunun tamamını,
++
+NOTE: Kısmen yüklenmeyen eşyanın yerine başka bir sözleşme uyarınca eşya
+taşınmışsa, bu eşya için alınacak navlun bundan düşülür.
+. Doğmuş sürastarya ücretini,
+. Eksik yükleme sebebiyle yapmak zorunda kaldığı giderleri ve uğradığı zararı,
+. Alacakları, eksik yükleme sebebiyle kısmen veya tamamen teminatsız kalmışsa,
+kendisine ek teminat gösterilmesini
+
+isteyebilir.
+
+Taşıyan, taşıtandan kendisine talimat verilmesini *yazılı olarak* isteyebilir.
+Taşıtan buna rağmen sessiz kalırsa, taşıyan sözleşmeyi feshedilmiş sayıp fesih
+tazminatı talep edebilir.
+
+.Kırkambar sözleşmesine bekleme süresi
+****
+Kırkambar sözleşmesinde kanuni bekleme süresi yoktur. Taşıtan, taşıyanın çağrısı
+üzerine, gecikmeden eşyayı yükletmek zorundadır. Taşıtan gecikirse taşıyan,
+eşyanın teslimini beklemekle yükümlü değildir.
+
+Yolculuk, eşya teslim alınmadan başlamış olsa bile, taşıtan tam navlunu ödemekle
+yükümlüdür. Ancak taşıyanın teslim edilmiş olmayan eşya yerine yüklediği eşyanın
+navlunu, tam navlundan indirilir.
+
+Taşıyanın, geciken taşıtandan navlun isteyebilmesi için bunu yola çıkmadan önce
+taşıtana yazılı olarak bildirmesi gerekir.
+****
+
+===== GÜVERTEDE TAŞIMA
+
+Güvertede daha fazla zarara uğrama ihtimali olduğu için kural olarak taşıyan
+eşyayı güvertede taşıyamaz. Taşımışsa bundan ileri gelen zararlardan sorumlu
+olur.
+
+Güvertede taşıma aşağıdaki hallerde yapılabilir:
+
+. *Yükletenle* anlaşma yapılması
++
+IMPORTANT: Navlun sözleşmesinde açıkça eşyanın ambarda taşınacağı düzenlenmişse,
+taşıyan ile yükletenin malın güvertede taşınmasına dair yaptığı anlaşma,
+taşıyanın taşıtana karşı sorumluluğunu ortadan kaldırmaz.
+. Eşyanın güvertede taşınmasına yönelik bir *ticari teamül* bulunması
+. Güvertede taşımanın *mevzuat gereği* zorunlu olması
+
+Taşıyan, eşyanın güvertede taşınabileceğine dair yükletenle anlaşmışsa bunu
+konşimentoya geçirmek zorundadır. Geçirmezse bu anlaşmayı ayrıca ispat etmek
+zorundadır.
+
+IMPORTANT: Taşıyan ile yükletenin anlaşması konişmentoya geçirilmemiş ve
+konişmento ciro + teslim yoluyla üçüncü kişiye devredilmişse, taşıyan anlaşmayı
+yazılı delille ispatlasa dahi eşyanın güvertede taşınmasından dolayı meydana
+gelen üçüncü kişinin zararından sorumludur.
+
+==== EŞYANIN BOŞALTILMASI
+
+Eşyanın boşaltılması süreler vs. bakımından eşyanın yüklenmesi ile aynı şekilde
+düzenlenmiştir.
+
+Eşyanın boşaltılması bakımından özellik arz eden husus, navlun sözleşmesinin
+ifası yükün boşaltma limanında gönderilene teslimi ile tamamlanacağından, yükün
+teslim edilememesi halidir. Bu durumda taşıyan, TBK'daki alacaklı temerrüdü
+hükümlerine dayanabilir ve malı umumi bir ambara tevdi edebilir ya da yükün
+çabuk bozulacak olması sebebiyle açık artırma yoluyla satışını yapabilir. Bunun
+için öncelikle gönderilene ihbar yapılmalıdır.
+
+Gönderilene ihbar yapılamıyorsa, taşıtana yapılacak ihbar ile de alacaklı
+temerrüdünün sonuçları uygulanabilir.
+
+Tevdi işlemleri sırasında sürastarya süresi geçti ise sürastarya ücreti talep
+edilebilir. Bu sürenin geçmesi sebebiyle uğranılan zarar varsa bunların tazmini
+de talep edilebilir.
+
+== KONİŞMENTO
+
+*Konişmento*, bir taşıma sözleşmesinin yapıldığını ispatlayan, eşyanın taşıyan
+tarafından teslim alındığını veya gemiye yüklendiğini gösteren ve taşıyanın
+eşyayı, ancak onun ibrazı karşılığında teslimle yükümlü olduğu senettir.
+
+Eşya taşınmak üzere taşıyana teslim edilmiş ancak henüz gemiye yüklenmemişse ve
+o aşamada bir konişmento düzenlenmişse buna *tesellüm konişmentosu* denir.
+Tesellüm konişmentosu taşıyanın eşyayı taşımak üzere teslim aldığını gösterir.
+
+Eşya gemiye yüklendikten sonra düzenlenen konişmentoya ise *yükleme
+konişmentosu* denir.
+
+NOTE: Tesellüm konişmentosuna geminin adı ve yükleme tarihi yazılırsa yükleme
+konişmentosuna dönüşür.
+
+Tesellüm konişmentosu *ifa olarak kabul edilmez*. Alıcı ancak yükleme
+konişmentosunu ifa olarak kabul edecektir.
+
+Konişmento *yükletenin talebi üzerine* taşıyan tarafından düzenlenir.
+
+Konişmento, nama, hamile veya emre yazılı olarak düzenlenebilir.
+
+CAUTION: Konişmentoda cironun teminat işlevi yoktur. Eşya zarar gördüğünde yük
+ilgilisinin tek muhatabı taşıyandır.
+
+Konişmentoda uyulması gereken şekil şartları konişmentonun düzenlendiği yer
+hukukuna tabidir.
+
+Konişmentonun içeriği bakımından olmazsa olmaz unsur yüke ilişkin bir kayıt
+bulunmasıdır. Eşyanın cinsi, işareti ve miktarı açıkça belirtilmelidir.
+
+Cins, işaret ve miktar bakımından taşıyan, yükletenin beyanını aynen
+konişmentoya geçirecektir. Ancak bu kayıtlar karine işlevi gördüğünden, taşıyan
+gerekçeli bir çekince koyabilir. Bu durumda kaydın karine işlevi olmaz.
+
+NOTE: Yükleten, taşıyanın çekince koymaması karşılığında uğrayacağı zararı
+karşılamayı taahhüt edebilir. Bu her halde gönderilene karşı geçersizdir. Sadece
+taşıyan ve yükleten arasında sonuç doğurur.
+
+Taşıyan eşyanın haricen belli olan durumunu da konişmentoya yazabilir. Aksi
+takdirde eşyanın iyi durumda yüklendiğine dair bir karine oluşur.
+
+Konişmentodan taşıyanın kim olduğu anlaşılamıyorsa donatan taşıyan sayılır.
+
+Konişmentoda, navlunun gönderilen tarafından ödeneceği de kararlaştırılabilir.
+
+* Konişmento taşıyanı ve göndereni belirler. Taşıyan ve gönderen arasındaki
+ilişkiyi belirler.
+* Konişmentonun meşru hamili eşyanın teslimini isteme hakkına sahip olduğundan
+gönderileni belirlemiş olur.
+* Taşıyan ve gönderilen arasındaki ilişkiyi belirler.
+* Gemiye yüklenen eşyayı ispatlar. Eşyaya ilişkin kayıtlar karine teşkil eder ve
+bu karinenin aksi iyiniyetli üçüncü kişiye karşı ispatlanamaz.
+
+Kaptan, konişmentoyu ilk ibraz edene malı teslim ederek ifayı gerçekleştirir.
+
+Kaptana aynı anda birden çok konişmento ibraz edilirse, mal umumi bir ambara
+tevdi edilir ve uyuşmazlık mahkemece çözümlenir. Birden çok konişmento ibraz
+edilerek farklı ayni haklar ileri sürülürse ortak ciranta bulunup cirp
+zincirleri incelenerek kimin haklı olduğu bulunur.
+
+NOTE: Konişmentoyu iyiniyetle teslim alan kimse ile eşyayı iyiniyetle teslim
+alan kimse arasında uyuşmazlık çıkarsa eşyayı teslim alan tercih olunur. 
+
+Varma limanından önce yükleten eşyanın kendisine iadesini ister ya da ara bir
+limanda yetkili hamil malın teslimini isterse zilyetliğin devri ancak tüm
+nüshaların teslimi karşılığında gerçekleştirilebilir. Aksi takdirde taşıyanın
+sorumluluğu sona ermez.
