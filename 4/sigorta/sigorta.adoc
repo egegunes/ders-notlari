@@ -638,3 +638,112 @@ uygulanır.
 Ancak, bu değişiklik ek prim alınmasını gerektiriyorsa, sigortacı değişiklikten
 itibaren sekiz gün içinde prim farkı isteyebilir. İstenilen prim farkının sekiz
 gün içinde kabul edilmemesi hâlinde sözleşme eski genel şartlarla devam eder.
+
+== GÜVENCE HESABI
+
+Birtakım zorunlu sigortalarda zarar gören, sigorta şirketine gidemediği zaman,
+zararını güvence hesabından karşılayabilir. *Güvence hesabına bedensel zararlar
+için gidilebilir*. Güvence hesabına gidilebilecek sigortalar:
+
+. Trafik sigortası
+. Karayolu yolcu taşıma zorunlu koltuk ferdi kaza sigortası
+. Tüp gaz zorunlu mali mesuliyet sigortası
+. Tehlikeli maddeler ve tehlikeli atık zorunlu mali mesuliyet sigortası
+. Maden çalışanları zorunlu ferdi kaza sigortası
+
+Aşağıdaki hallerde zarar, güvence hesabından temin edilebilir:
+
+.. Sigortalının tespit edilememesi
+.. Rizikonun meydana geldiği tarihte geçerli olan teminat tutarları dahilinde
+sözleşmesini yaptırmamış olan kişilerin neden olduğu bedensel zararlar
+.. Mali bünye zaafiyeti veya sebebiyle ruhsatı iptal edilen ya da iflas eden
+sigorta şirketiyle sözleşmenin bulunması
++
+NOTE: Bu durumda hem maddi hem bedensel zararlar için güvence hesabına
+gidilebilir.
+.. Çalınmış veya gasp edilmiş bir aracın yol açtığı bedensel zararlar
+
+== SİGORTA SÖZLEŞMELERİNİN SINIFLANDIRILMASI
+
+=== TTK AYRIMI
+
+. *Zarar sigortaları*: Teminat altına alının rizikonun gerçekleşmesi sebebiyle
+meydana gelen zararın giderilmesi hedeflenir.
+
+.. *Mal sigortaları*: Malvarlığı değerinin zarara uğraması halinde sigortacının
+tazmin yükümlülüğü altına girdiği sözleşmelerdir.
+.. *Sorumluluk sigortaları*: Kişinin hukuken üçüncü kişilere karşı sorumlu
+olması ve tazminat ödeme yükümlülüğünün ortaya çıkması halinde sigortacının
+ortaya çıkan tazminat yükümlülüğünü üstlendiği sigortalardır.
+
+. *Can sigortaları*
+
+.. *Hayat sigortaları*: Kişinin ölüm veya hayatta kalma riskinin teminat altına
+alındığı sigorta sözleşmeleridir.
+.. *Kaza sigortaları*: Beklenmeyen ani bir olayın gerçekleşmesi neticesinde
+kişinin ölmesi, bedensel zarara uğraması gibi riskler teminat altına alınır. 
+.. *Hastalık Sağlık Sigortaları*: Kişinin sağlık sorunları yaşaması halinde
+ortaya çıkan tedavinin teminat altına alındığı sigorta sözleşmeleridir.
+
+=== DOKTRİN AYRIMI
+
+. *İhtiyacın karşılanması prensibi*
+
+.. *Zarar sigortası*: Rizikonun gerçekleşmesi somut olarak bir tazmin ihtiyacı
+doğuruyorsa zarar sigortasından söz edilir. Zarar sigortaları, mutlaka
+malvarlığında bir zarar ortaya çıkmasını gerektiren sigortalardır.
+
+... *Aktif sigortaları*: _Aktif sigortasının konusu menfaattir_. Sigorta
+hukukunda menfaat, bir malvarlığı değerine sahip olmak, onu kullanmak, işletmek
+dolayısıyla oluşan ekonomik değer ilişkisini ifade eder. Bir malın kendisi
+sigortanın konusunu oluşturmaz. Bir malvarlığı değerinde farklı kişilerin farklı
+menfaatleri olabilir ve herkes kendi menfaatini ayrı ayrı sigorta edebilir.
+... *Pasif sigorta*: Rizikonun gerçekleşmesi sebebiyle malvarlığında pasif
+oluşuyorsa, üçüncü kişilere karşı bir tazmin mükellefiyeti ortaya çıkıyorsa
+pasif sigortasının söz edilir.
+
++
+[NOTE]
+====
+Zarar sigortalarında *zenginleşme yasağı* ilkesi hakimdir. Sigorta sözleşmesi
+bir zenginleşme aracı olarak kullanılamaz. Zenginleşmeyi engelleyen bazı
+düzenlemeler mevcuttur:
+
+.. *Çifte sigorta yasağı*: Bir menfaat, aynı risklere karşı iki ayrı sigorta
+sözleşmesine konu edilemez.
+.. *Aşkın sigorta yasağı*: Bir menfaat, kendi değerinin üzerinde bir sigortaya
+konu edilemez. Değerini aşan kısım geçersizdir.
+====
+.. *Meblağ sigortası*: Teminat alınan rizikonun gerçekleşmesi yeterlidir. Bunun
+malvarlığında bir zarara yol açıp açmadığına bakılmaz.
+
+. *Riziko konusuna göre yapılan ayrım*
+
+.. *Malvarlığı sigortaları*
+.. *Şahıs sigortaları*
+
+=== ÖRNEKLER
+
+. *Kasko sigortası*
+
+.. *TTK'ya göre*: Zarar sigortası ve mal sigortası
+.. *Doktrine göre*: İhtiyacın karşılanması prensibine göre aktif zarar
+sigortası, rizikonun konusuna göre malvarlığı sigortası
+
+. *Trafik sigortası*
+
+.. *TTK'ya göre*: Zarar sigortası, zarar sigortalarından sorumluluk sigortası
+.. *Doktrine göre*: İhtiyacın karşılanması prensibine göre pasif zarar
+sigortası, rizikonun konusuna göre malvarlığı sigortası
+
+. *Hayat sigortası*
+
+.. *TTK'ya göre*: Can sigortaları içinde hayat sigortası
+.. *Doktrine göre*: İhtiyacın karşılanması prensibine göre meblağ sigortası,
+rizikonun konusuna göre şahıs sigortası
+
+. *Yangın sigortası*
+
+.. *TTK'ya göre*: Zarar sigortaları içinde mal sigortası
+.. *Doktrine göre*: İhtiyacın karşılanması prensibine göre aktif zarar
+sigortası, rizikonun konusuna göre mal sigortası
