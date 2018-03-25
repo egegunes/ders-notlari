@@ -1072,3 +1072,170 @@ hâlinde yasal miras payının tamamı, diğer hâllerde yasal miras payının d
 üçü.
 
 IMPORTANT: Saklı paylarda kök içi halefiyet kuralı işlemez.
+
+== TEREKENİN PARASAL DEĞERİNİN HESAPLANMASI
+
+Terekenin parasal değerinin hesaplanması için;
+
+. Mirasbırakanın *tereke aktifleri* belirlenmelidir.
+. Terekeden *çıkarılacak değerler* belirlenmelidir.
+. Terekeye *eklenecek değerler* belirlenmelidir.
+
+=== TEREKENİN AKTİFLERİ
+
+Terekenin aktifi, mirasbırakanın ölümü anında, mirasbırakanın varlığının
+aktifini oluşturan değerlerdir.
+
+Mirasbırakan öldüğünde onunla sona eren haklar terekenin aktifine dahil edilmez.
+
+Terekenin aktifinde yer alan alacak hakkının, sözleşmeden, haksız fiilden,
+sebepsiz zenginleşmeden vs. kaynaklanması önemli değildir.
+
+Manevi tazminatın mirasçılara geçmesi için mirasbırakanın ya talep etmiş olması
+ya da davayı açmış olması gerekir.
+
+NOTE: Evlilikte yasal mal rejimi, edinilmiş mallara katılma rejimidir. Edinilmiş
+mallara katılma rejiminin sonra erme hallerinden biri ölümdür. Ölen eşin, sağ
+kalan eşten artık paya katılma alacağı söz konusuysa bu değer terekenin aktifine
+yazılır.
+
+Terekenin aktifleri belirlenirken, mirasbırakanın ölümü günündeki duruma göre
+hesaplanır.
+
+=== ÇIKARILACAK DEĞERLER
+
+Hesap yapılırken aşağıdaki kalemler terekeden indirilir:
+
+. *Mirasbırakanın borçları*: Mirasbırakan öldükten sonra doğan borçlar kural
+olarak terekeden çıkarılmaz, sağlığında mevcut borçlar çıkarılır. Bunun iki
+istisnası vardır:
++
+****
+.. Mirasbırakan öldüğü için eğitimini bitirmeyen ya da engelli olan çocuklar
+için uygun bir ödeme yapılır, bu miktar da borç olarak terekeden indirilir.
+.. Çalışan 17 yaşındaki çocuk, gelirini babasına bırakmışsa, babası öldüğünde
+bir miktar paranın tazminat olarak ödenmesi gerekir. Bu değer de terekeden
+indirilir.
+****
++
+CAUTION: Vasiyet borçları çıkarılacak değerlere dahil değildir.
+. *Cenaze giderleri*
+. *Terekenin mühürlenmesi ve yazımı giderleri*
+. *Mirasbırakan ile birlikte yaşayan ve onun tarafından bakılan kimselerin üç
+aylık geçim giderleri*
+
+.NET TEREKE = TEREKENİN AKTİFLERİ - ÇIKARILACAK DEĞERLER
+****
+****
+
+=== EKLENECEK DEĞERLER
+
+Net terekeye bazı değerler eklenerek *fiktif terekeye* ulaşılır. Net terekeye
+eklenecek değerler:
+
+. Mirasbırakanın *denkleştirmeye tabi* sağlararası ivazsız kazandırmaları
+. Mirasbırakanın *tenkise tabi* sağlararası ivazsız kazandırmaları
+. Bazı hayat sigortaları alım bedeli
+
+=== DENKLEŞTİRMEYE TABİ İVAZSIZ KAZANDIRMALAR
+
+Mirasbırakanın, sağlığında, *mirasçılarına* yapmış olduğu sağlararası ve ivazsız
+kazandırmalar denkleştirmeye tabidir.
+
+IMPORTANT: Üçüncü kişilere karşı sağlararası ivazsız kazandırmalar
+denkleştirmeye tabi değildir. Denkleştirme ancak mirasçılar için söz konusu
+olur.
+
+Mirasbırakanın yaptığı sağlararası kazandırmalardan denkleştirmeye tabi olanlar:
+
+.. Yasal mirasçılara, yasal miras paylarına mahsuben yapılmış karşılıksız
+kazandırmalar
+.. Mirasbırakan tarafından aksi belirtilmedikçe, mirasbırakanın sağlığında
+altsoyuna yapmış olduğu çeyiz, kuruluş sermayesi, borçtan kurtarma gibi
+kazandırmalar
+
+Altsoy dışındaki mirasçılara yapılan karşılıksız kazandırmalar karine olarak
+denkleştirmeye tabi değildir. Bunların denkleştirmeye tabi olması için
+mirasbırakan tarafından açıkça denkleştirmeye tabi olduğu belirtilmelidir.
+Altsoy bakımından ise tam tersi şekilde, mirasbırakan tarafından açıkça
+belirtilmedikçe, yapılan karşılıksız kazandırmalar denkleştirmeye tabidir.
+
+=== TENKİSE TABİ İVAZSIZ KAZANDIRMALAR
+
+Mirasbırakanın sağlararası ivazsız kazandırmalarından tenkise tabi olanlar:
+
+. *Denkleştirmeye tabi olması gerekirken bundan kurtulan kazandırmalar*
+
+.. _Mirasbırakanın, mirasçılık sıfatını kaybeden yasal mirasçısına, miras payını
+mahsuben yaptığı sağlararası kazandırmalar_
+.. _Mirasbırakan tarafından denkleştirmeden muaf tutulduğu için denkleştirmesi
+istenemeyen kazandırmalar_
+
+. *Mirastan ivazlı feragat halinde mirasbırakanın mirasçıya hayatta iken ödediği
+karşılık*
+
+. *Bağışlayanın serbestçe dönme hakkını saklı tutarak yaptığı bağışlamalar ve
+adet üzerine verilen hediyeler hariç olmak üzere, _mirasbırakanın ölümünden
+önceki bir yıl içinde_ yapmış olduğu bağışlamalar*
++
+Kazandırmanın tenkise tabi olup olmayacağına bakarken tasarruf işleminin
+tarihine bakılır.
++
+Bağışlama vaadi sözleşmesi yapıldıktan sonra tasarruf işlemi yapılmadan önce
+mirasbırakanın ölmesi durumu tartışmalıdır. Bir görüşe göre bu da ölmeden bir
+yıl önce yapılmış bağışlama gibi terekeye eklenir. *Kürsüye göre ise* burada
+artık bir ölüme bağlı tasarruf söz konusudur. Mirasbırakan ölünce bağışlama sona
+ermez, bağışlama yapılan kişiye karşı terekenin bir borcu söz konusudur. Bu
+bağışlama bir ölüme bağlı tasarruf gibi işlem görür ve tüm ölüme bağlı
+tasarruflar gibi tenkise tabidir.
+
+. *Saklı payı etkisiz kılmak kaydıyla yapılan kazandırmalar*: Burada sadece
+bağışlama değil, kazandırma söz konusu olduğundan bu kapsama satış, ölünceye
+kadar bakma sözleşmesi, muvazaalı işlem vs. girebilir.
++
+Saklı paylı mirasçıların saklı payına zarar verme kastı, mirasbırakanda olsa
+yeterlidir. İşlemin karşı tarafının bunu bilmesine gerek yoktur. Mirasbırakan,
+bu işlem sonucunda yasal mirasçıların saklı paylarını alamayacağını bilmelidir.
++
+.Muris muvaazası
+****
+Mirasbırakanın sağlığında yaptığı muvazaalı işlem için tenkis davası mı açmak
+gerekir, yoksa iptal davası mı açılmalıdır?
+
+HMK hükümleri uyarınca muvazaa iddiası işlemin tarafları tarafından ileri
+sürülüyorsa yazılı delille ispat edilmek zorundadır. Üçüncü kişiler ise işlemin
+muvazaalı olduğunu her türlü delille ispat edebilir.
+
+Muris muvazaasında, muvazaayı mirasçılar iddia edecektir. Mirasçılar da
+mirasbırakanın külli halefleri olduğuna göre sözleşmenin tarafıdır ve
+dolayısıyla üçüncü kişi değildir.
+
+Yargıtay, bir içtihadı birleştirme kararında, saklı payı olsun olmasın her
+mirasçının, muvazaalı işlemin iptalini dava edebileceğini kabul etmiştir.
+
+Yine aynı içtihadı birleştirme kararında, mirasçıların miras hakkı ihlal
+edildiğinden üçüncü kişi gibi her türlü delili kullanarak işlemin muvazaalı
+olduğu ispatlanabilir denmiştir.
+
+NOTE: Davayı tek bir mirasçı açarsa, kendi payı oranında düzeltme yapılır.
+
+Başka bir içtihadı birleştirme kararında, saklı paylı mirasçı önce tenkis davası
+açıp bu dava sonuçlandıktan sonra, muvazaa şartları varsa muvazaa davası da
+açabilir denmiştir.
+****
+
+. *Mirasbırakanın hayattayken yapmış olduğu vakıf kurma işlemi*
+. *Mirasbırakanın hayattayken kurduğu vakfa, _ölmeden önceki 1 yıl içinde_
+özgülemiş olduğu malvarlığı değerleri*
+
+=== BAZI HAYAT SİGORTALARI ALIM BEDELİ
+
+Mirasbırakanın kendi ölümünde ödenmek üzere _üçüncü kişi lehine hayat sigortası
+sözleşmesi yapması_ veya böyle bir kişiyi _sonradan lehtar olarak tayin etmesi_
+ya da _sigortacıya karşı olan istem hakkını_ sağlararası veya ölüme bağlı
+tasarrufla *karşılıksız* olarak üçüncü kişiye devretmesi halinde, *sigorta
+alacağının mirasbırakanın ölümü zamanındaki satın alma değeri* terekeye eklenir.
+
+.VARSAYIMSAL TEREKE = TEREKENİN AKTİFLERİ - ÇIKARILACAK DEĞERLER + EKLENECEK DEĞERLER
+****
+****
