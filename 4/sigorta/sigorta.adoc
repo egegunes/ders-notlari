@@ -747,3 +747,134 @@ rizikonun konusuna göre şahıs sigortası
 .. *TTK'ya göre*: Zarar sigortaları içinde mal sigortası
 .. *Doktrine göre*: İhtiyacın karşılanması prensibine göre aktif zarar
 sigortası, rizikonun konusuna göre mal sigortası
+
+== SİGORTA SÖZLEŞMESİNDE İLGİLİLER
+
+=== ZARAR SİGORTALARINDA İLGİLİLER
+
+* *Sigortalı*: Sigorta ettiren üçüncü kişinin menfaatini sigorta ettirmiş ise,
+sigorta sözleşmesi üçüncü kişi yararına bir sözleşme haline gelir ve üçüncü kişi
+sigortalı sıfatını kazanır. Sigortalı, sigorta sözleşmesinin tarafı değildir.
+Ancak sigorta sözleşmesinden doğan haklar sigortalıya aittir.
++
+Sigorta ettiren, kimin menfaatini sigortaya konu ettiğini belirtmek zorunda
+değildir. Bu tip sigortalara *kimin olacaksa onun lehine* sigorta denir. Riziko
+gerçekleştiğinde kimin menfaati zarara uğrarsa o kişi sigortalı sıfatına haiz
+olacaktır.
++
+TIP: Sigorta edilen menfaatin sahibinin değişmesi halinde, aksine sözleşme
+yoksa, sigorta ilişkisi sona erer.
+
+* *Zarar gören üçüncü kişi*: Kanun, tüm sorumluluk sigortaları bakımından, *aksi
+kararlaştırılmadıkça*, zarar gören üçüncü kişinin doğrudan sigortacıya başvuru
+hakkına sahip olduğu düzenlemiştir. Karayolları Trafik Kanunu uyarınca yapılan
+trafik sigortasında ise bunun aksi kararlaştırılamaz.
+
+* *İpotekli alacaklı*: Bir taşınmaz veya gemi üzerinde ipotekli alacaklı
+sıfatına sahip kişi, sigorta tazminatı üzerinde hak sahibidir. İpotekli
+alacaklının rızası olmadan sigorta ettirene ödeme yapılması söz konusu değildir.
+
+=== HAYAT SİGORTALARINDA İLGİLİLER
+
+* *Riziko şahsı*: Hayatı sigortaya konu edilen kişidir. Sigorta ettiren,
+kendisinin veya başkasının hayatını, ölüm veya hayatta kalma ihtimallerine karşı
+sigorta ettirebilir. *Başkasının hayatı üzerine sigorta yapılabilmesi için, o
+kişinin hayatının devamında lehtarın menfaatinin bulunması şarttır*.
+
+* *Lehtar*: Lehine sözleşme yapılan üçüncü kişidir. Sigorta tazminatı lehtara
+ödenir.
++
+Sigorta ettiren ile lehtar sıfatları birleşebilir.
++
+Lehtar belirlenmemişse sigorta tazminatı, yasal mirasçılara ödenir.
++
+Lehtarın sigortacıya bildirilmemiş olması halinde, sigortacı iyiniyetle yaptığı
+ödeme ile borcundan kurtulur.
++
+Sigorta ettiren, lehtarı değiştirme hakkından vazgeçtiğini poliçeye yazdırır ve
+poliçe lehtara teslim edilirse lehtar değiştirilemez. Aksi takdirde sigorta
+ettiren istediği zaman lehtarı değiştirebilir.
++
+TIP: Sigora ettiren, lehtarı değiştirme hakkından vazgeçtiğini poliçeye
+yazdırmış ve poliçe lehtara teslim edilmiş olsa bile mirasçılıktan çıkarma veya
+bağışlamadan dönme sebeplerinden herhangi birinin gerçekleşmesi halinde lehtar
+değiştirilebilir.
+
+== SİGORTA SÖZLEŞMELERİNDE SÜRELER
+
+* *Formel süre*: Sigorta sözleşmesinin kurulmasından sona ermesine kadar geçen
+süredir.
+* *Teknik süre*: Prim ödeme borcunun başlayıp devam ettiği süredir. Prim ödeme
+borcu, poliçenin teslimi ile başlar.
+* *Materyal süre*: Sigortacının himaye sağlama borcunun başlayıp devam ettiği
+süredir. Himaye sağlama borcu kural olarak ilk primin ödenmesiyle başlar.
+
+== SİGORTA SÖZLEŞMESİNDE TARAFLARIN HAK VE BORÇLARI
+
+=== SİGORTA ETTİRENİN YÜKÜMLÜLÜKLERİ
+
+==== PRİM ÖDEME BORCU
+
+Sigorta ettiren, sözleşmeyle kararlaştırılan primi ödemekle yükümlüdür. *Aksine
+sözleşme yoksa, sigorta primi peşin ödenir.*
+
+Sigorta primi nakden ödenir. *İlk taksidin nakden ödenmesi şartıyla*, sonraki
+primler için kambiyo senedi verilebilir; bu halde, ödeme kambiyo senedinin
+tahsili ile gerçekleşir.
+
+Sigota priminin tamamının taksitle ödenmesi kararlaştırılmışsa ilk taksidin,
+sözleşme yapılır yapılmaz ve *poliçenin teslimi karşılığında* ödenmesi gerekir.
+
+NOTE: Karada ve denizde eşya taşıma işlerine ilişkin sigortalarda sigorta primi,
+*poliçe henüz düzenlenmemiş olsa bile*, sözleşme yapıldığı anda ödenir.
+
+İzleyen taksitlerin ödeme zamanı, miktarı ve priminin vadesinde ödenmemesinin
+sonuçları, poliçe ile birlikte yazılı olarak sigorta ettirene bildirilir veya bu
+şartlar poliçe üzerine yazılır.
+
+*İlk taksidi veya tamamı bir defada ödenmesi gereken prim, zamanında
+ödenmemişse*, sigortacı, ödeme yapılmadığı sürece, sözleşmeden üç ay içinde
+cayabilir. Bu süre, vadeden başlar. Prim alacağının, muacceliyet gününden
+itibaren üç ay içinde dava veya takip yoluyla istenmemiş olması halinde,
+sözleşmeden cayılmış olur.
+
+IMPORTANT: İlk prim ödenmediği sürece, sigortacının himaye borcu başlamaz. Aksi
+kararlaştırılabilir.
+
+*İzleyen primlerden herhangi biri zamanında ödenmez ise*, sigortacı, sigorta
+ettirene noter aracılığı veya iadeli taahhütlü mektupla, *on günlük süre
+vererek* borcunu yerine getirmesini, aksi halde süre sonunda, sözleşmenin
+feshedilmiş sayılacağını ihtar eder. Bu sürenin sonunda borç ödenmemiş ise
+sigorta sözleşmesi feshedilmiş olur. Sigortacı ayrıca borçlu temerrüdü
+hükümlerine de gidebilir.
+
+IMPORTANT: Sonraki primlerin ödenmemesinin himaye borcu üzerinde bir etkisi
+yoktur. Sigortacı, himaye borcunu sona erdirmek için sözleşme sona erdirmelidir.
+Bunun aksi kararlaştırılamaz.
+
+.Hayat sigortalarında prim ödeme borcunda temerrüt
+****
+Hayat sigortası sözleşmelerinde sonraki primleri ödeme borcunda tespit edilmesi
+gereken ilk husus, sigortalının ilk 1 yılda mı, 1 yıldan sonra mı temerrüde
+düştüğüdür.
+
+İlk 1 yıl içerisinde temerrüde düşülmüşse yukarıdaki kurallar geçerlidir.
+
+Sigorta ettiren 10 yıllık sözleşme sürecinde ilk 1 yıl primlerini düzenli olarak
+ödemiş, 1 yıldan sonra temerrüde düşmüşse *sigortacının başvurabileceği bir
+imkan yoktur*. Sigortacı sözleşmeyi feshedemez veya prim isteyemez. Bu halde
+sigorta, *prim ödenmesinden muaf sigortaya* dönüşür. Prim ödenmesinden muaf
+sigortada, sigorta bedeli ödenen primle sözleşme uyarınca ödenmesi gereken prim
+arasındaki orana göre ödenir.
+
+Sigorta ettiren ise iki şekilde davranabilir:
+
+. *Sigortadan ayrılma*: Sigorta ettiren, en az bir yıldan beri yürürlükte
+bulunan ve bir yıllık primi ödenmiş olan sigorta sözleşmelerinde, istediği zaman
+sözleşmeyi sona erdirerek sigortadan ayrılabilir. Ayrılma değeri, ayrılmanın
+istenildiği andaki genel kabul görmüş aktüerya kurallarına uygun bir biçimde
+hesaplanan değerdir.
+. *Ödünç alma*: En az bir yıldan beri yürürlükte bulunan ve bir yıllık primi
+ödenmiş olan sigorta sözleşmelerinde, sigorta ettirenin istemesi halinde
+sigortacı, istem anındaki genel kabul görmüş aktüerya kurallarına uygun olarak
+hesaplanan değer üzerinden sigortalıya ödünç para vermek zorundadır.
