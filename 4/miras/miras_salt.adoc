@@ -1239,3 +1239,189 @@ alacağının mirasbırakanın ölümü zamanındaki satın alma değeri* tereke
 .VARSAYIMSAL TEREKE = TEREKENİN AKTİFLERİ - ÇIKARILACAK DEĞERLER + EKLENECEK DEĞERLER
 ****
 ****
+
+== TENKİS DAVASI
+
+*Tenkis davası*, mirasbırakan, kanun koyucunun öngördüğünden daha fazla
+tasarrufta bulunarak saklı paylı mirasçıların haklarını zedelemişse, saklı paylı
+mirasçıların haklarını almalarını sağlayan davadır.
+
+=== ŞARTLARI
+
+Tenkis davası mirasçıların saklı paylarını ihlal eden *sağlararası* ve *ölüme
+bağlı* tasarruflara karşı açılabilir.
+
+Tenkis davası açılması için;
+
+. *Kanuni mirasçının bulunması gerekir.*
+. *Mirasbırakanın tasarruf oranını aşmış olması gerekir.*
+. *Davacının saklı payını alamamış olması gerekir.*
+
+Tenkis davası *geçerli bir işleme* karşı açılır. Geçerli bir işleme karşı
+açıldığından *yenilik doğuran* bir davadır. Verilen karar da yenilik doğuran bir
+karar olur ve yapılan geçerli bir kazandırmanın *saklı payı ihlal ettiği oranda*
+geçmişe etkili olarak geçersizliğine karar verilir. Karar aynı zamanda bir eda
+hükmünü de içerir.
+
+=== DAVACI
+
+Tenkis davası, mirasçılıktan doğan hakları koruyan bir davadır ve dolayısıyla
+mirasçılık sıfatına bağlıdır. Aynı zamanda şahsa bağlı bir davadır.
+
+Tenkis davası tüm mirasçıların aynı anda açacağı bir dava değildir. Her mirasçı
+kendi saklı payını almak için dava açacaktır.
+
+*Mirasçıların alacaklıları* ve *iflas masası* da tenkis davası açabilecektir.
+Ancak doktrinde bunların önce mirasçıya başvurması ve bir süre vermesi, süre
+sonunda tenkis davası açabileceği savunulmaktadır.
+
+=== DAVALI
+
+İster ölüme bağlı tasarrufla ister sağlararası tasarrufla *kazandırma lehtarı*
+olan kişi davalı olacaktır. Bu kişi mirasçı ya da üçüncü kişi olabilir. Bu kişi
+ölmüş ise mirasçılarına karşı dava açılabilir.
+
+NOTE: Dava kural olarak tasarruf kime yapılmışsa ona karşı açılır ama istisnaen
+kendisine mal devredilen üçüncü kişi kötü niyetliyse ve saklı pay kuralını
+etkisizleştirmek amacıyla malı üçüncü kişiye devrederse o kişiye de dava
+açılabilir.
+
+=== DAVA AÇMA SÜRESİ
+
+Tenkis davası her zaman *mirasbırakanın ölümünden sonra* açılır.
+
+IMPORTANT: Tenkis davası bir yenilik doğuran dava olduğundan dava açma süresi
+hak düşürücü süredir. Zamanaşımı değildir.
+
+Tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini
+öğrendikleri tarihten başlayarak *bir yıl* ve her halde vasiyetnamelerde açılma
+tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden *on yıl*
+geçmekle düşer.
+
+TIP: Saklı payların ihlali, ölüme bağlı tasarrufun iptali ile söz konusu olmuşsa
+dava açma süresi iptal kararının kesinleşmesiyle başlar.
+
+=== TENKİS DEF'İ
+
+Kanun koyucu tenkisi sadece dava olarak düzenlememiş, aynı zamanda def'i olarak
+düzenlemiştir. Yani açılmış bir dava sırasında kanuni mirasçı, kendisinden
+istenen bir malvarlığı unsuruna karşı tenkis hakkı olduğunu ileri sürebilir.
+
+*Tenkis def'i hiçbir süreye bağlı değildir.*
+
+Tenkis def'inden yararlanmak için;
+
+. Mal ya da hakkın mirasçının elinde bulunması
+. Karşı tarafın bu hak veya mal için mirasçıya dava açması
+
+gerekir.
+
+=== TENKİSTE SIRA
+
+Tenkiste sıra probleminin gündeme gelmesi için tenkise tabi birden fazla ölüme
+bağlı tasarruf ya da birden fazla sağlararası işlemin varlığı gerekir.
+
+Tenkis, saklı pay tamamlanıncaya kadar, *önce ölüme bağlı tasarruflardan*; bu
+yetmezse, en yeni tarihlisinden başlayarak sağlararası kazandırmalardan yapılır.
+
+NOTE: Ölüme bağlı tasarruflar kural olarak hepsi aynı anda tenkis edilirken,
+sağlararası kazandırmalar tarih itibariyle teker teker tenkis edilir.
+
+Kamu tüzel kişileri ile kamuya yararlı dernek ve vakıflara yapılan ölüme bağlı
+tasarruflar ve sağlararası kazandırmalar en son sırada tenkis edilir.
+
+.Tenkis sırası
+****
+. Ölüme bağlı tasarruflar
+. Sağlararası kazandırmalar
+. Kamu tüzel kişileri ile kamuya yararlı dernek ve vakıflara yapılan ölüme
+bağlı kazandırmalar
+. Kamu tüzel kişileri ile kamuya yararlı dernek ve vakıflara yapılan tenkise
+tabi sağlararası kazandırmalar
+****
+
+NOTE: Doktrinde bu sıranın emredici olduğu söylenmektedir. Mirasbırakan bu
+sırayı yapmış olduğu ölüme bağlı tasarruflarla bozamaz.
+
+=== ÖLÜME BAĞLI TASARRUFLARIN TENKİSİ
+
+Tenkis, mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça,
+mirasçı ataması yoluyla veya diğer bir ölüme bağlı tasarrufla elde edilen
+kazandırmaların *tamamında, orantılı* olarak yapılır.
+
+Tenkis hesabı yapılırken dikkat edilmesi gereken en önemli husus, kazandırmanın
+kime yapıldığıdır. Kazandırma üçüncü kişiye ya da saklı payı olmayan bir
+mirasçıya yapılmışsa oran hesabı ve tenkis usulü farklıdır, saklı paylı
+mirasçıya yapılmışsa farklıdır.
+
+. Saklı payı olmayan mirasçı veya üçüncü kişiye yapılan tasarruflar:
++
+.oran = saklı payı ihlal eden kısım / tüm ÖBT'ler toplamı
+****
+****
+. Saklı paylı mirasçıya yapılan tasarruflar:
++
+.oran = saklı payı aşan tasarruf miktarı x (saklı payı ihlal eden miktar toplamı / saklı paylar çıkarıldıktan sonra kalan tasarruf miktarı)
+****
+****
++
+Saklı pay sahibi mirasçılara ölüme bağlı tasarrufla yapılan ve tasarruf
+edilebilir kısmı aşan kazandırmaların *onların saklı paylarını aşan kımsı*
+orantılı olarak tenkise tabi olur.
++
+Tenkise tabi birden fazla ölüme bağlı tasarrufun bulunması halinde, saklı pay
+sahibi mirasçıya yapılan kazandırmanın saklı payı aşan kısmı ile saklı pay
+sahibi olmayan kimselere yapılan kazandırmalar orantılı olarak tenkis edilir.
+
+IMPORTANT: Tenkis oranı belirlenirken saklı paylı mirasçıya yapılan tasarrufun
+tamamı değil, saklı payı aşan kısmı dikkate alınır. Tenkis hesabı da saklı
+paylar çıkarıldıktan sonraki tasarruflar üzerinden belirlenir.
+
+=== SAĞLARARASI TASARRUFLARIN TENKİSİ
+
+Sağlararası tasarruflarda en son tarihten başlayarak tenkis yapılır. En son
+tarihli tasarrufun tümü, yetmediği takdirde bir önceki tasarrufun tümü tenkis
+edilir.
+
+CAUTION: Tenkis geçerli işlemlere uygulanan bir müeyyidedir. İhlali
+karşılayacak miktara kadar tasarruf iptal edilir, kalan kısım geçerli olarak
+kalır.
+
+TIP: Eğer tarihi ispatlanamayan birden çok sağlararası tasarruf varsa doktrine
+göre *hepsi orantılı olarak tenkise tabi tutulur*.
+
+=== TENKİSTE BAZI ÖZEL DURUMLAR
+
+==== BÖLÜNMEZ MAL VASİYETİNDE TENKİS
+
+Değerinde azalma meydana gelmeksizin bölünmesine olanak bulunmayan belirli bir
+mal vasiyeti tenkise tabi olursa, vasiyet alacaklısı, dilerse tenkisi gereken
+kısmın değerini ödeyerek malın verilmesini, dilerse tasarruf edilebilir kısmın
+değerini karşılayan parayı isteyebilir.
+
+==== İNTİFA VE İRAT KAZANDIRMALARININ TENKİSİ
+
+Öncelikle intifanın parasal değeri belirlenecektir. Ardından vasiyeti alan bu
+parayı vererek hakka sahip olabilecektir.
+
+==== İVAZLI MİRASTAN FERAGAT SÖZLEŞMELERİ
+
+Saklı paylı mirasçılar, paylarını alamazsa mirastan feragat sözleşmesi
+karşılığında alınan ivaz da tenkise konu olabilir.
+
+CAUTION: İvazlı feragat eden mirasçının saklı payı da korunmuş olacağından
+tenkis ancak saklı payı aşan kısım için söz konusu olur.
+
+İvazı alarak mirastan feragat eden kişi, dilerse tankise tabi olan saklı payı
+aşan kısmı verir, dilerse de ivazı tamamen vererek paylaşıma diğer mirasçılar
+gibi katılır.
+
+==== ARTMİRASÇI ATAMASINDA TENKİS
+
+Eğer önmirasçı, kendisine yapılan kazandırmanın saklı payını karşılamadığını
+düşünüyorsa tenkis isteme hakkı vardır.
+
+==== YÜKLEMENİN TENKİSİ
+
+Mirasçı, kendisine yapılan kazandırmanın tenkisi halinde yüklemenin de
+tenkisini talep edebilir.
