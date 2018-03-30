@@ -1365,3 +1365,241 @@ günün piyasasında mukarrer fiyat teklif edilirse,
 verilirse,
 . 113 üncü maddenin ikinci fıkrasında gösterilen haller bulunursa,
 . Mahcuz malın tahmin edilen değeri 3.230 lirayı geçmezse.
+
+== TAŞINMAZ MALLARIN SATILMASI
+
+Taşınmazlar, satış talebinden itibaren 3 ay içinde icra dairesi tarafından açık
+artırma ile satılır. 3 aylık bu süre düzenleyici süredir.
+
+CAUTION: Taşınmazlar pazarlık suretiyle satılamaz.
+
+Satış talebi ile birlikte icra memuru, tapu idaresinden taşınmaz üzerindeki
+hakları öğrenerek bir mükellefiyetler listesi hazırlar. İhale gerçekleşip satış
+yapıldığında alıcı, taşınmazı mükellefiyetler listesindeki haklar ve külfetler
+ile birlikte almış olur.
+
+IMPORTANT: Tapuda kayıtlı olduğu halde mükellefiyetler listesinde yazılı
+olmayan bir şey, ihale yoluyla taşınmazı satın alan bakımından bağlayıcı
+değildir.
+
+Alıcı, mükellefiyetler listesindeki durum ile tapudaki durumun uyuşmaması
+sebebiyle zarar görürse devletin sorumluluğuna gidebilir.
+
+Satış, açık artırma ile yapılır. Birinci ve ikinci ihalenin yapılacağı yer, gün
+ve saat önceden ilan edilir. Bu ilan metninin ilgililere tebliğ edilmesi
+gerekir. *Şikayet süresi tebliğden itibaren başlamaktadır*. Tapudaki kayıtlı
+adrese yapılan tebligat geçerli sayılacaktır.
+
+Alacaklı veya borçlu tebliğ tarihinden itibaren 3 gün içerisinde şikayet yoluna
+başvurarak mükellefiyetler listesinde yazılı olmayan haklarını listeye
+yazdırabilir. Bu istihkak prosedürü içinde çözülecektir.
+
+Bir kişinin artırmaya katılıp pey ileri sürebilmesi için, taşınmazın değerinin
+%20'si oranında teminat göstermesi gerekmektedir.
+
+=== KIYMET TAKDİRİ
+
+Kıymet takdirinin tebliğ edildiği ilgililer, raporun tebliğinden itibaren *yedi
+gün içinde* raporu düzenleten icra dairesinin bulunduğu icra mahkemesinde
+şikayette bulunabilirler.
+
+Şikayet tarihinden itibaren *yedi gün içinde* gerekli masraf ve ücretin mahkeme
+veznesine yatırılması halinde yeniden bilirkişi incelemesi yaptırılabilir; aksi
+halde başka bir işleme gerek olmaksızın şikayet kesin olarak reddedilir.
+
+*Kesinleşen kıymet takdirinin yapıldığı tarihten itibaren iki yıl geçmedikçe
+yeniden kıymet takdiri istenemez.* Ancak, doğal afetler ve imar durumundaki
+çok önemli değişiklikler meydana getiren benzer hallerde yeniden kıymet takdiri
+istenebilir.
+
+Kıymet takdirine ilişkin şikayet yetkisiz icra mahkemesine yapılırsa, icra
+mahkemesi evrak üzerinde inceleme yaparak başvuru tarihinden itibaren en geç on
+gün içinde yetkisizlik kararı verir. Mahkemenin verdiği bu karar kesindir.
+
+=== İHALE
+
+Birinci ve ikinci ihale icra memuru tarafından, ilanda belirlenen yer, gün ve
+saatte, elektronik ortamda verilen en yüksek teklif üzerinden başlatılır.
+
+Taşınmaz üç defa bağırıldıktan sonra, elektronik ortamda verilen en yüksek
+teklif de değerlendirilerek, en çok artırana ihale edilir.
+
+Artırma bedelinin, malın tahmin edilen bedelinin yüzde ellisini bulması ve
+satış isteyenin alacağına rüçhanı olan diğer alacaklar o malla temin edilmişse
+bu suretle rüçhanı olan alacakların toplamından fazla olması ve bundan başka
+paraya çevirme ve paraların paylaştırılması masraflarını aşması gerekir.
+
+Birinci ihalede alıcı çıkmaz veya aranan miktara ulaşılmazsa satış icra memuru
+tarafından geri bırakılır.
+
+İkinci ihalede alıcı çıkmazsa veya aranan miktara ulaşılmazsa satış talebi
+düşer.
+
+=== ÖDEME USULÜ
+
+Satış bedeli peşin ödenir. Anca icra memuru alıcıya on günü geçmemek üzere bir
+süre verebilir.
+
+Satış bedelinin ödenmesi için süre verilmişse para verilinceya kadar hasar ve
+masrafı müşteriye ait olmak üzere taşınmaz, icra dairesi tarafından idare
+olunur. Bu müddet içinde icra dairesinin izni olmadan tapuca hiç bir tescil
+yapılamaz.
+
+İcra dairesi, satış bedelini temin için ayrıca teminat gösterilmesini
+isteyebilir.
+
+İhaleye katılıp daha sonra ihale bedelini yatırmamak suretiyle
+ihalenin feshine sebep olan tüm alıcılar ve kefilleri teklif ettikleri
+bedel ile son ihale bedeli arasındaki farktan ve diğer zararlardan ve ayrıca
+temerrüt faizinden müteselsilen sorumludurlar. İhale farklı ve temerrüt
+faizi ayrıca hükme gerek olmaksızın dairece tahsil olunur. Bu fark, varsa
+öncelikle teminat bedelinden tahsil olunur.
+
+Taşınmaz kendisine ihale olunan kimse derhal veya verilen süre içinde parayı
+vermezse, ihale kararı icra memuru tarafından kaldırılarak teminat akçesi
+alıcının yukarıdaki hüküm gereğince sorumlu bulunduğu miktara mahsup edilmek
+üzere alıkonulur.
+
+Kendisinden evvel en yüksek teklifte bulunan kimsenin ileri sürdüğü pey, ihale
+için aranan şartlara bulunması ve bu kimsenin adresinin de biliniyor olması
+halinde teklif ettiği bedel ile taşınmaz kendisine teklif edilir ve üç gün
+içinde almaya razı olursa ona ihale olunur.
+
+Böyle bir kişi bulunmaz, bulunsa da razı olmaz ya da teklifi cevapsız bırakırsa
+taşınmaz icra dairesince hemen artırmaya çıkarılır. Bu artırma ilgililere
+tebliğ edilmeyip yalnızca satıştan en az yedi gün önce yapılacak ilanla
+yetinilir. Bu artırmada, teklifin ihale için aranan şartlara uygun olması
+şartıyla taşınmaz en çok artırana ihale olunur.
+
+TIP: Ancak birinci artırma sonunda ihale yapılmış ve alıcı ödememişse
+yukarıdaki usul işletilip yeniden artırma yapılabilir. Aynı taşınmaz için üç
+kere artırma yapılamaz.
+
+=== İHALENİN FESHİ
+
+İcra dairesi tarafından taşınmaz kendisine ihale edilen alıcı o taşınmazın
+mülkiyetini iktisap etmiş olur. İhale kesinleşinceye kadar taşınmazın ne
+şekilde muhafaza ve idare edileceği icra dairesi tarafından kararlaştırılır.
+
+İhalenin feshini, yalnız satış isteyen alacaklı, borçlu, tapu sicilindeki
+ilgililer ve pey sürmek suretiyle ihaleye iştirak edenler, yurt içinde bir
+adres göstermek koşuluyla icra mahkemesinden şikayet yolu ile ihale tarihinden
+itibaren *yedi gün içinde* isteyebilirler.
+
+İlgililerin ihale yapıldığı ana kadar cereyan eden muamelelerdeki yolsuzlukları
+en geç ihale günü öğrendikleri kabul edilir ve bunlardan dolayı ihalenin feshi
+ihale tarihinden itibaren *yedi gün içinde* istenebilir. Sonradan ihaleye fesah
+karıştırıldığının öğrenilmesi ya da alıcının malın vasıflarında sonradan hataya
+düştüğünü öğrenmesi halinde ihale tarihinden itibaren *bir yıl içinde* fesih
+talep edilebilir.
+
+İhale tarihinden en fazla bir yıl içinde ihalenin feshinin istenebileceği özel
+durumlar:
+
+.. Satış ilanının tebliğ edilmemiş olması
+.. Satılan malın esaslı vasıflarında hataya düşülmüş olması
+.. İhaleye fesat karıştırıldığının sonradan öğrenilmesi
+
+İhalenin feshi talebi üzerine icra mahkemesi talep tarihinden itibaren yirmi
+gün içinde duruşma yapar ve taraflar gelmeseler bile icap eden kararı verir.
+
+Talebin reddine karar verilmesi halinde icra mahkemesi davacıyı feshi istenilen
+ihale bedelinin yüzde onu oranında para cezasına mahkum eder. Ancak işin
+esasına girilmemesi nedeniyle talebin reddi halinde para cezasına hükmolunamaz.
+
+İhalenin feshine ilişkin şikayet görevsiz veya yetkisiz icra mahkemesi veya
+mahkemeye yapılırsa, icra mahkemesi veya mahkeme evrak üzerinde inceleme
+yaparak başvuru tarihinden itibaren en geç on gün içinde görevsizlik veya
+yetkisizlik kararı verir. Bu kararlar kesindir.
+
+IMPORTANT: İhalenin feshinin reddi kararı, Yargıtay tarafından kesin hüküm
+olarak kabul edilmektedir.
+
+İcra mahkemesinin dosya üzerinden, duruşma yapmadan karar verebilme imkanı
+yoktur. Yargıtay'a göre ilgisi olan herkes burada taraftır.
+
+=== TAŞINMAZIN TESCİLİ
+
+Taşınmaz alıcıya ihale edilip bedeli alındıktan sonra alıcı namına tescil
+edilmesi için tapuya müzekkere yazılır.
+
+Taşınmaz borçlu tarafından veya hacizden evvelki bir tarihte yapıldığı resmi
+bir belge ile belgelenmiş bir akte dayanmayarak başkaları tarafından işgal
+edilmekte ise onbeş gün içinde tahliyesi için borçluya veya işgal edene bir
+tehliye emri tebliğ edilir. Bu müddet içinde tahliye edilmezse zorla çıkarılıp
+taşınmaz alıcıya teslim olunur.
+
+== PARALARIN PAYLAŞTIRILMASI
+
+Mahcuz (hacizli) mallar tamamen satıldıktan sonra bedelleri ilgililere
+hisselerine göre paylaştırılır.
+
+Malların bir kısmı satılabildiyse, durum gerektiriyorsa, bedelleri hisselerine
+göre ilgililere *avans* olarak dağıtılır.
+
+Haciz, paraya çevirme ve paylaştırma gibi bütün alacaklıları ilgilendiren
+masraflar önce satış tutarından alınır ve artan para takip masrafları ve
+işlemiş faizler dahil olduğu halde alacakları oranında paylaştırılır.
+
+Satış tutarı bütün alacakları ödemeye yetmezse icra memuru kendiliğinden yeni
+hacizler yaparak haczi tamamlar; ancak bu suretle haczolunan mallar üzerinde
+sonra gelen derecelerin evvelce koydurdukları hacizler varsa bu hacizlerin
+doğurduğu haklara halel gelmez. Yeniden haczedilen mallar ayrıca satış
+talebine hacet kalmaksızın ve mümkün olduğu kadar çabuk satılır.
+
+Toplam elde edilen paranın tüm alacaklılara yetmemesi halinde *sıra cetveli*
+düzenlenir. Sıra cetvelinde alacaklar sıraya konulur. Birinci sıradaki
+alacakların tamamı tahsil edilmeden ikinci sıraya geçilmez.
+
+Sıra cetvelinin bir sureti icra dairesi tarafından alacaklılara tebliğ edilir.
+
+Cetvel suretinin tebliğinden itibaren *yedi gün içinde* her alacaklı takibin
+icra edildiği mahal mahkemesinde ilgililer aleyhine dava etmek suretiyle cetvel
+içeriğine itiraz edebilir. Başka bir ifade ile, cetvelde başka bir alacaklının
+alacağına veya sırasına itiraz edilmek isteniyorsa dava açılmak zorundadır.
+
+Alacaklı yalnızca kendi sırasına itiraz etmek istiyorsa şikayet yoluna
+başvuracaktır.
+
+Sıra cetveline karşı şikayet veya dava yoluna başvurulmuş ise diğer alacaklılar
+teminat göstererek kendilerine düşen payı alabilirler.
+
+== BORÇ ÖDEMEDEN ACİZ VESİKASI
+
+Alacaklı alacağının tamamını alamamış ve aciz vesikası düzenlenmesi için
+gerekli şartlar yerine gelmişse, icra dairesi kalan miktar için hemen bir aciz
+vesikası düzenleyip alacaklıya ve borçluya tebliğ eder.
+
+Elinde aciz vesikası bulunan alacaklı, bir yıl içinde takibe gerek olmaksızın
+borçlunun mallarını haczettirip sattırabilir. Bir yıllık süre geçtikten sonra
+yeniden takip yapılmak zorundadır.
+
+Borç, aciz vesikasının düzenlenmesinden itibaren *yirmi yıl geçmesiyle*
+zamanaşımına uğrar. Borçlunun mirasçıları, mirasın açılmasından itibaren bir
+sene içinde alacaklı hakkını aramamışsa, borcun zamanaşımına uğradığını ileri
+sürebilirler.
+
+Borçlu, hakkında verilmiş aciz belgesinin sicilden terkini istiyorsa faiziyle
+birlikte borcunu ödemelidir. Normalde aciz vesikasında yazılı alacak miktarı
+için faiz istenemez ve borçlu sadece bu miktarı ödeyerek borcundan kurtulur.
+Ancak terkinini istiyorsa faiziyle birlikte ödemesi gerekir.
+
+Aciz belgesinin iki türü vardır:
+
+. *Kesin aciz vesikası:* İcra takibinin sonunda, bütün tamamlama hacizlerine
+rağmen alacaklının alacağı tahsil edilememişse, tahsil edilemeyen kısım için
+verilir.
+
+.. Madde 68 anlamında bir belgedir.
+.. Bir sene içinde takip yapmak zorunda olmadan borçlunun mallarını haczettirme
+imkanı sunar.
+.. Tasarrufun iptali davası açılabilir.
+.. Hacze iştirak imkanı sunar.
+
+. *Geçici aciz vesikası:* Hacze gidildiğinde borçlunun hiç malvarlığı ya da
+alacaklının alacağına yetecek kadar malvarlığı olmadığı tespit edilirse
+düzenlenen haciz tutanağı bu hükümdedir. Tasarrufun iptali davası vs. gibi
+imkanlardan yararlanma şansı sunar. *Yargıtay'a göre borçlunun sadece evine
+veya işyerine gidilip malvarlığı bulunamayınca düzenlenen tutanak geçici aciz
+vesikası hükmünde değildir.* Geçici aciz vesikası hükmünde olması için
+yeterince araştırma yapılması gerekir.
