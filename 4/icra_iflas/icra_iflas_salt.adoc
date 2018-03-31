@@ -1518,6 +1518,13 @@ olarak kabul edilmektedir.
 İcra mahkemesinin dosya üzerinden, duruşma yapmadan karar verebilme imkanı
 yoktur. Yargıtay'a göre ilgisi olan herkes burada taraftır.
 
+Mahkeme ihalenin feshi talebini kabul ederse:
+
+. İhale kalkar.
+. Mülkiyet borçluya geri döner.
+. İhale bedeli alıcıya iade edilir.
+. _İhalenin feshi süresince icra dairesi ihale bedelini nemalandırır._
+
 === TAŞINMAZIN TESCİLİ
 
 Taşınmaz alıcıya ihale edilip bedeli alındıktan sonra alıcı namına tescil
@@ -1551,6 +1558,15 @@ Toplam elde edilen paranın tüm alacaklılara yetmemesi halinde *sıra cetveli*
 düzenlenir. Sıra cetvelinde alacaklar sıraya konulur. Birinci sıradaki
 alacakların tamamı tahsil edilmeden ikinci sıraya geçilmez.
 
+Sıra cetvelinin düzenlenmesi için:
+
+. Borçlunun birden fazla alacaklısı olmalıdır.
+. Borçlunun mallarının satılmasıyla elde edilen para, alacaklıları tatmin
+etmemelidir.
+
+TIP: Mal üzerinde birden fazla haciz olması halinde, Yargıtay'a göre ilk haczi
+koyan icra dairesi sıra cetvelini de hazırlayacaktır.
+
 Sıra cetvelinin bir sureti icra dairesi tarafından alacaklılara tebliğ edilir.
 
 Cetvel suretinin tebliğinden itibaren *yedi gün içinde* her alacaklı takibin
@@ -1563,6 +1579,38 @@ başvuracaktır.
 
 Sıra cetveline karşı şikayet veya dava yoluna başvurulmuş ise diğer alacaklılar
 teminat göstererek kendilerine düşen payı alabilirler.
+
+Sıra cetvelinde dört sıra vardır. İlk üç sıradaki alacaklar imtiyazlı alacak,
+son sıradaki alacak adi alacaktır.
+
+NOTE: Bu dört sıranın üzerinde olan ve doktrinde *süper imtiyazlı alacak*
+denilen alacaklar da vardır: _Rehinler_ ve _bir kısım devlet alacakları_
+(motorlu taşıt vergisi, emlak vergisi gibi malın aynından kaynaklanan
+alacaklar).
+
+.Alacak sırası
+****
+. SIRA
+
+..  _Hacizden önceki bir yıl içinde doğan ve iş ilişkisinden kaynaklanan işçi
+alacakları_
+.. _Hacizden önceki bir yıl içinde doğan nafaka alacakları_
+
+. SIRA
+
+.. _Vesayet alacakları_
+
+. SIRA
+
+.. _Özel kanunlardan doğan alacaklar_
+
+... *Vekalet ücreti alacağı*
+... *Kat mülkiyeti kanunundan doğan alacaklar*
+****
+
+IMPORTANT: Her sıradaki alacaklar, kendi aralarında garame usulü ile
+paylaştırılır. Örneğin 1. sıradaki işçi alacakları nafaka alacaklarından önce
+gelmez.
 
 == BORÇ ÖDEMEDEN ACİZ VESİKASI
 
@@ -1603,3 +1651,240 @@ imkanlardan yararlanma şansı sunar. *Yargıtay'a göre borçlunun sadece evine
 veya işyerine gidilip malvarlığı bulunamayınca düzenlenen tutanak geçici aciz
 vesikası hükmünde değildir.* Geçici aciz vesikası hükmünde olması için
 yeterince araştırma yapılması gerekir.
+
+== KAMBİYO SENETLERİNE ÖZGÜ HACİZ YOLUYLA TAKİP
+
+Elinde kambiyo senedi olan bir alacaklı;
+
+. Kambiyo senetlerine özgü haciz yoluyla takip yapabilir.
+. Genel haciz yoluyla takip yapabilir.
+. (Elinde bir ilam varsa) ilamlı takip yapabilir.
+. Tacir ise iflas yoluyla takip yapabilir.
+
+Takibin başlatılacağı icra dairesi, İcra Kanunun yollamasıyla HMK'daki yetkiye
+kurallara göre belirlenir.
+
+Takibi başlatacak kişi yetkili hamil olmalıdır. Bunun için senet üzerindeki
+ciro zincirinin sıhhatli olması gerekir.
+
+Takip talebini kambiyo senedinin aslı da eklenmelidir. Gerekirse ödememe
+protestosu da eklenecektir.
+
+TIP: Çek Kanunu'ndaki düzenleme gereğince, çekin karşılıksız kalması halinde
+çekin aslı bankada kalır ve banka hamile çekin onaylı bir fotokopisini verir.
+Alacaklı bu fotokopi ile takip başlatabilecektir.
+
+İcra müdürü aşağıdaki hususları inceleyecektir:
+
+* Senedin aslı eklenmiş mi?
+* Eklenen senet bir kambiyo senedi mi?
+* Alacaklının takip yetkisi var mı?
+* Senedin vadesi gelmiş mi?
+
+İcra müdürü bunlarda bir eksiklik görmezse borçluya ödeme emri göndererek üç
+seçenek sunar:
+
+. *Öde*: 10 gün içinde
+. *İtiraz et*: 5 gün içinde
++
+İtiraz için dilekçe ile *icra mahkemesine* başvurulmalıdır. Genel haciz yoluyla
+takipteki _gecikmiş itiraz_ müessesesi burada da uygulanabilir.
++
+İtiraz ederken borca veya imzaya itiraz edilebilr. *İtiraz takibi kendiliğinden
+durdurmaz, icra mahkemesi gerekli görürse bu yönde karar verebilir*.
++
+Boçlu borca itiraz ettiğinde, teorik olarak ispat yükü alacaklıya aittir. Ancak
+burada alacaklının elinde bir kambiyo senedi olduğundan ispat yükü borçlunun
+üzerinde olacaktır. Borçlu, borca itiraz ederken herhangi bir belge ile ispat
+edemez, ancak *resmi senetle veya imzası ikrar edilmiş senetle ispat edebilir*.
++
+Mahkeme, borçlunun itirazını kabul veya ret ederse genel haciz yoluyla
+takipteki tazminatlar burada da söz konusu olur.
++
+.İtirazın takibi durdurmaması ve HMK 209
+****
+İcra Kanunu'na göre _itiraz, satış harici takibi durdurmaz_. İtirazın takibi
+durdurması için mahkemenin karar vermesi gerekir.
+
+HMK 209'daki düzenlemeye göre ise _adi bir senetteki yazı veya imza inkar
+edildiğindei bu konuda bir karar verilinceye kadar, o senet herhangi bir işleme
+esas alınamaz_.
+
+*Birinci görüşe göre* HMK 209, tüm hukuk sisteminde uygulanması gereken bir
+düzenlemedir.
+
+*İkinci görüşe göre* İcra Kanunu'ndaki hüküm özel hüküm olduğundan, o
+uygulanır.
+
+*Yargıtay* bu konuda yerleşik bir karara sahip değildir. En son kararında HMK
+209'u esas almıştır.
+****
+
+. *Şikayet et*
+
+.. _Senedin aslının eklenmemiş olması_: 7 gün içinde
+.. _Senedin vadesinin gelmemiş olması_: 7 gün içinde
+.. _Eklenen senedin kambiyo senedi olmaması_: 5 gün içinde
+.. _Alacaklının takip yetkisinin olmaması_: 5 gün içinde
+
+== İLAMLI İCRA
+
+Para ve teminat alacaklarında ilamlı icraya başvurmak tamamen alacaklının
+takdirindedir. Para ve teminat dışındaki alacaklarda ise ilamlı icra
+alacaklının tek seçeneğidir.
+
+NOTE: Yargıtay, alacaklının elinde ilam olmasına rağmen ilamsız icraya
+başvurmasının dürüstlük kuralına aykırı olduğunu söylemiştir.
+
+Bir kararın ilam niteliğinde olması için eda hükmü içermesi gerekir. Özel
+kanunlarda ayrıca ilam niteliğinde olan belgeler sayılmıştır:
+
+. Düzenleme şeklindeki noter senetleri
+. Mahkeme önünde yapılan kefaletnameler
+. İcra kefaletnameleri
+. Mahkeme önündeki sulhler
+. Mahkeme önündeki kabuller
+. Arabulucuk anlaşma belgesi
+
+Kural olarak ilamlı icraya başvurmak için hükmün kesinleşmesi aranmaz. Bunun
+istisnaları:
+
+* Aile hukukuna ilişkin kararlar
+* Kişiler hukukuna ilişkin kararlar
+* Taşınmaz mallar ile ilgili ayni haklara ilişkin kararlar
+* Yabancı mahkeme kararlarının tenfizi hakkındaki kararlar
+* Gemilere ilişkin kararlar
+
+İlamların icrası her icra dairesinden talep olunabilir. Alacaklı yerleşim
+yerini değiştirirse takibin yeni yerleşim yeri icra dairesine havalesini
+isteyebilir.
+
+İcra müdürü takip talebini aldıktan sonra aşağıdaki hususları inceleyecektir:
+
+. İlam veya ilam niteliğinde belge eklenmiş mi?
+. Eğer ilamsa, ilam cebri icraya elverişli mi?
+
+İcra müdürü bu hususlarda eksiklik görmezse borçluya *icra emri* gönderir. İcra
+emrinde borçluya süresi içinde ifa etmesi teklif edilir. Bu süre normal
+şartlarda 7 gündür ancak borçtan borca değişir.
+
+Borçlu icra emrini aldıktan sonra:
+
+. Borcunu ifa edebilir.
+. Susabilir.
+. İcranın geri bırakılmasına başvurabilir.
+
+=== İLAMLI İCRANIN GERİ BIRAKILMASI
+
+İcranın geri bırakılması yoluna sadece üç sebeple başvurulabilir:
+
+. İtfa (borcun sona ermesi)
+. İmhal (borçluya süre verilmesi)
+. Zamanaşımı
+
+İcranın geri bırakılması yoluna belirli sürelerde başvurulabilir:
+
+. *Üç sebepten birinin hükümden önce ortaya çıkması halinde* bunların davada
+ileri sürülmesi gerekir. Davada ileri sürülmezse daha sonra ileri sürülemez.
+. *Hükmün verilmesinden ilamlı icranın başlamasına kadarki süre içinde ortaya
+çıkması halinde* ortaya çıkmasından itibaren 7 gün içinde icranın geri
+bırakılması istenebilir.
+. *İcra emrinin tebliğinden sonra ortaya çıkması halinde* süre sınırı
+olmaksızın ileri sürülebilir.
+
+İcranın geri bırakılması sebepleri belirli belgelerle ispat edilebilir:
+
+. Borçlu, *icra emrinin tebliğinden önce* borcunun itfa edildiğini veya
+kendisine süre verildiğini iddia ediyorsa, sadece *yetkili mercilerce düzenleme
+ya da tasdik şeklinde hazırlanan belgeler* yahut *icra dairesi veya icra
+mahkemesini önünde alacaklı tarafından ikrar edilmiş olan belgelerle* bu
+iddiasını ispatlayabilir.
+. Borçlu, *icra emrinin tebliğinden sonra* ortaya çıkan sebeplere dayanıyorsa
+iddiasını ispatlama için *noterlik belgeleri* ya da *icra tutanağına*
+dayanabilir.
+
+IMPORTANT: Belirli belgelere dayanma şartı sadece itfa ve imhal için
+geçerlidir. Zamanaşımı takip dosyasından anlaşılabilecek bir sebep olduğundan
+belirli belgeye dayanma şartı yoktur.
+
+=== İLAMLI İCRANIN DURDURULMASI
+
+İlama karşı istinaf veya temyiz yoluna başvuran borçlu;
+
+* hükmolunan para veya eşyanın resmi bir mercie depo edildiğini ispat ederse,
+* ya da hükmolunan para veya eşya değerinde bir teminat gösterirse,
+* ya da borçlunun hükmolunan para ve eşyayı karşılayacak hacizli malı mevcut
+ise,
+
+icranının geri bırakılması bölge adliye mahkemesi veya Yargıtay'dan karar
+alınmak üzere icra müdürü tarafından kendisine uygun bir süre verilir. Bu süre
+ancak zorunluluk halinde uzatılabilir.
+
+Borçlu devlet veya adli yardımdan yararlanan biri ise teminat gösterme
+zorunluluğu yoktur.
+
+CAUTION: Nafaka hükümlerinde böyle bir süre verilemez.
+
+Bölge adliye mahkemesince başvurunun esastan reddine karar verilmesi veya
+Yargıtayca hükmün onaylanması halinde alacaklının istemi üzerine başkaca işleme
+gerek kalmaksızın teminata konu olan para alacaklıya ödenir. Mal ve haklar
+ise, malın türüne göre icra dairesince paraya çevrilir. İlam alacaklısının
+teminat üzerinde rüçhan hakkı vardır.
+
+=== İLAMIN İCRA EDİLMESİ
+
+==== PARA ALACAKLARINDA
+
+İcra emrinden sonraki 7 gün içinde borçlu ödeme yapmazsa alacaklı ya haciz
+yoluna başvurabilir ya da borçlu tacir ise iflas yoluna başvurabilir.
+
+==== TAŞINIRLARDA
+
+Taşınır borçlunun elindeyse, taşınır, icra dairesi tarafından zorla alınarak
+alacaklıya verilir.
+
+Taşınır üçüncü kişinin elindeyse, malın değeri borçludan alınır. Malın değeri
+ilamda yazıyorsa bu esas alınır. Yazmıyorsa bilirkişiden değer tespiti istenir.
+
+==== TAŞINMAZLARDA
+
+Taşınmaz borçlunun elindeyse, önce tapu idaresinden tescili istenir ve ardından
+alacaklıya teslim edilir.
+
+Taşınmaz üçüncü kişinin elindeyse ve üçüncü kişi bir *ayni hak iddiasında*
+bulunuyorsa öncelikle taşınmazın üçüncü kişiye tescil edilip edilmediği ve
+tescil edildiyse iyiniyetli olup olmadığı incelenir. Tescil edilmiş ve
+iyiniyetli ise alacaklı ya *satış bedelinin kendisine ödenmesini* isteyebilir
+ya da borçludan tazminat talep edebilir.
+
+Taşınmaz üçüncü kişinin elinde ve üçüncü kişi bir *şahsi hak iddiasında*
+bulunursa bu üçüncü kişi taşınmazdan çıkarılabilir. Ancak Yargıtay'a göre şahsi
+hak tapuya şerh verilmişse, üçüncü kişi taşınmazdan çıkarılamaz.
+
+==== İŞ GÖRME BORÇLARINDA
+
+İşin başkası tarafından yapılması mümkünse yaptırılır ve yaptırma masrafları
+borçludan alınır.
+
+İşin başkası tarafından yapılması mümkün değilse, borçlu, 3 aya kadar tazyik
+hapsine mahkum edilir.
+
+== REHNİN PARAYA ÇEVRİLMESİ YOLUYLA TAKİP
+
+*Rehinle teminat altına alınmış bir alacak varsa, borçlu iflasa tabi
+şahıslardan olsa bile, alacaklı yalnız rehnin paraya çevrilmesi yoluyla takip
+yapabilir.*
+
+Ancak rehnin tutarı borcu ödemeye yetmezse alacaklı kalan alacağını iflas veya
+haciz yoluyla takip edebilir.
+
+NOTE: Alacaklı rehin varken genel haciz yoluyla takibe başvurmuş ve icra müdürü
+bunu denetlememiş ise Yargıtay'a göre süresiz şikayet yoluna başvurulabilir.
+
+Bazı hallerde önce rehne başvurma zorunluluğu yoktur:
+
+* Konut kredileri
+* TOKİ alacakları
+* Kambiyo senetleri
+* İpotekle temin edilen faiz alacakları
+* Gemi üzerindeki alacaklar
