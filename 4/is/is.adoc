@@ -1638,3 +1638,236 @@ az olamaz.
 
 NOTE: İşçi 18 yaşında veya daha küçükse ya da 50 yaşında veya daha fazlaysa,
 hizmet süresine bakılmaksızın en az yirmi günlük ücretli izine hak kazanır.
+
+Yıllık izin iş günü olarak hesaplanır. Yıllık izin ve ulusal bayram izni
+çakışırsa ya da iznin arasında hafta tatili günü olursa işveren bunlar yıllık
+izinden düşemez.
+
+İşveren kural olarak izni bölmeden, bir bütün halinde kullandırmak zorundadır.
+İşçi ile işveren bunun aksini kararlaştırabilir. Bir parçası 10 günden aşağı
+olmadığı sürece istenildiği kadar parçaya bölünebilir.
+
+İş sözleşmesinin, *herhangi bir nedenle* sona ermesi halinde işçinin hak
+kazanıp da kullanmadığı yıllık izin sürelerine ait ücreti, sözleşmenin sona
+erdiği tarihteki ücreti üzerinden kendisine veya hak sahiplerine ödenir.
+
+Bu ücrete ilişkin zamanaşımı sözleşmenin sona erdiği tarihten itibaren başlar.
+Yıllık ücretli izin alacakları beş yıllık zamanaşımı süresine tabidir.
+
+IMPORTANT: Akit devam ederken yıllık izin ücretinin ödenmesi mümkün değildir.
+Bunun izin olarak kullandırılması gerekir.
+
+== SENDİKALAR
+
+*Sendika*, işçilerin veya işverenlerin çalışma ilişkilerinde, ortak ekonomik ve
+sosyal hak ve çıkarlarını korumak ve geliştirmek için *en az yedi* işçi veya
+işverenin bir araya gelerek bir işkolunda faaliyette bulunmak üzere
+oluşturdukları tüzel kişiliğe sahip kuruluşları ifade eder. Sendikalar özel
+hukuk tüzel kişileridir.
+
+*Konfederasyon*, değişik işkollarında *en az beş sendikanın* bir araya gelerek
+oluşturdukları tüzel kişiliğe sahip kuruluşu ifade eder.
+
+=== SENDİKA ÖZGÜRLÜĞÜ
+
+*Çalışanlar ve işverenler*, üyelerinin çalışma ilişkilerinde, ekonomik ve
+sosyal hak ve menfaatlerini korumak ve geliştirmek için önceden izin almaksızın
+*sendikalar ve üst kuruluşlar* kurma, bunlara serbestçe üye olma ve üyelikten
+serbestçe çekilme haklarına sahiptir. Hiç kimse bir sendikaya üye olmaya ya da
+üyelikten ayrılmaya zorlanamaz.
+
+*Olumlu sendika özgürlüğü:*
+
+* Bireylerin serbestçe sendika kurma hakkı
+* Kurulmuş olan sendikalara üye olma hakkı
+* Mevcut birden fazla sendikadan birini seçme hakkı
+* Sendika içerisinde faaliyette bulunabilme hakkı
+* Sendikanın faaliyetlerinden yararlanma hakkı
+
+*Olumsuz sendika özgürlüğü:*
+
+* Sendikaya girmeme hakkı
+* Sendikadan serbestçe ayrılabilme hakkı
+
+=== İŞKOLUNA GÖRE SENDİKALAŞMA İLKESİ
+
+Kanunumuz işkoluna göre sendikalaşma ilkesini benimsemiştir.
+
+NOTE: Kamu işveren sendikalarının, aynı işkolundaki kamu işverenleri tarafından
+kurulması ve faaliyette bulunması şartı aranmaz.
+
+Yürürlükte olan kanuna göre 20 değişik işkolu bulunmaktadır. Yasanın arkasında
+bulunan cetvelde bunlar sayılmıştır.
+
+TIP: Bir işyerinde yürütülen asıl işe yardımcı işler de, asıl işin girdiği
+işkolundan sayılır.
+
+Bir işyerinin girdiği işkolunun tespiti Bakanlıkça yapılır. Bakanlık, tespit
+ile ilgili kararını Resmi Gazete'de yayımlar. Bu tespite karşı ilgililer,
+kararın yayımından itibaren *on beş gün içinde* dava açabilir. Mahkeme iki ay
+içinde karar verir.
+
+=== SENDİKADA KURUCULUK ŞARTLARI
+
+Fiil ehliyetine sahip ve fiilen çalışan gerçek veya tüzel kişiler sendika kurma
+hakkına sahiptir.
+
+NOTE: İşçi sendikası için işçi, işveren sendikası için işveren sıfatına sahip
+olmak gerekir.
+
+Sendikalar en az yedi kişinin bir araya gelmesiyle kurulur.
+
+*Kürsüye göre* sendika kurucularının fiilen o işkolunda çalışıyor olması
+gerekir.
+
+Sendika kurucularının kanunda sayılan suçlardan mahkum edilmemiş olması
+gerekir.
+
+=== SENDİKAYA ÜYE OLMAK
+
+*On beş yaşını dolduran* ve İş Kanunu hükümlerine göre *işçi sayılanlar*, işçi
+sendikalarına üye olabilir.
+
+İşçi veya işverenler aynı işkolunda ve aynı zamanda birden çok sendikaya üye
+olamaz. *Ancak aynı işkolunda ve aynı zamanda farklı işverenlere ait
+işyerlerinde çalışan işçiler birden çok sendikaya üye olabilir.* İşçi ve
+işverenlerin bu hükme aykırı şekilde *birden çok sendikaya üye olmaları halinde
+sonraki üyelikler geçersizdir*.
+
+Üyelik başvurusu, sendika tarafından *otuz gün içinde reddedilmediği takdirde*
+üyelik talebi kabul edilmiş sayılır. Haklı bir neden gösterilmeden üyelik
+başvurusu kabul edilmeyenler, bu kararın kendilerine tebliğinden itibaren otuz
+gün içinde dava açabilir. Mahkemenin kararı kesindir. *Mahkemenin davacı lehine
+karar vermesi halinde üyelik, red kararının alındığı tarihte kazanılmış
+sayılır*.
+
+Üyelik aidatının miktarı kuruluşların tüzüklerinde belirtilen usul ve esaslara
+göre genel kurul tarafından belirlenir. Üyelik ve dayanışma aidatları, yetkili
+işçi sendikasının işverene yazılı başvurusu üzerine, işçinin ücretinden
+kesilmek suretiyle ilgili sendikaya ödenir.
+
+=== ÜYELİĞİN SONA ERMESİ
+
+Üyelik için taşınması gereken koşullar yitirilirse kural olarak sendika üyeliği
+de kendiliğinden ortadan kalkar.
+
+NOTE: İşçi sıfatının sona ermesi üyeliği hemen sona erdirmez. _İşçi sendikası
+üyesinin bir yılı geçmemek üzere işsiz kalması üyeliğini etkilemez._
+
+Çekilme, sendikaya bildirim tarihinden itibaren bir ay sonra geçerlilik
+kazanır. Çekilenin bir aylık süre içinde başka bir sendikaya üye olması halinde
+yeni üyelik bu sürenin bitimi tarihinde kazanılmış sayılır.
+
+Çıkarılma kararına karşı üye, kararın tebliğinden itibaren otuz gün içinde
+mahkemeye itiraz edebilir. Mahkeme iki ay içinde kesin olarak karar verir.
+Üyelik, çıkarılma kararı kesinleşinceye kadar devam eder.
+
+İşveren veya işveren vekili sıfatını kaybedenlerin sendika ve üst
+kuruluşlardaki üyelikleri ve görevleri, bu sıfatı kaybettikleri tarihte
+kendiliğinden sona erer.
+
+Sosyal Güvenlik Kurumundan yaşlılık veya malüllük aylığı ya da toptan ödeme
+alarak işten ayrılan işçilerin sendika üyeliği sona erer.
+
+İşkolunu değiştirenin sendika üyeliği kendiliğinden sona erer.
+
+Herhangi bir askeri ödev nedeniyle silah altına alınan üyenin üyelik ilişkisi
+bu süre içinde askıda kalır.
+
+=== SENDİKANIN ZORUNLU ORGANLARI
+
+. *Genel Kurul*: Karar organıdır.
+. *Yönetim Kurulu*: İcra organıdır.
+. *Denetleme Kurulu*: Yönetim kurulunu denetler.
+. *Disiplin Kurulu*: Kurallara uymayanlara yaptırım uygular.
+
+=== GÜVENCE
+
+==== İŞÇİ KURULUŞU YÖNETİCİLİĞİNİN GÜVENCESİ
+
+İşçi kuruluşunda *yönetici* olduğu için çalıştığı işyerinden ayrılan işçinin iş
+sözleşmesi *askıda kalır*. Yönetici dilerse işten ayrıldığı tarihte iş
+sözleşmesini bildirim süresine uymaksızın veya sözleşme süresinin bitimini
+beklemeksizin fesheder ve kıdem tazminatına hak kazanır.
+
+Yönetici, yöneticilik süresi içerisinde iş sözleşmesini feshederse kıdem
+tazminatı fesih tarihindeki emsal ücret üzerinden hesaplanır.
+
+İş sözleşmesi askıya alınan yönetici; sendikanın tüzel kişiliğinin sona ermesi,
+seçime girmemek, yeniden seçilmemek veya kendi isteği ile çekilmek suretiyle
+görevinin sona ermesi halinde, sona erme tarihinden itibaren bir ay içinde
+ayrıldığı işyerinde işe başlatılmak üzere işverene başvurabilir.
+
+İşveren, talep tarihinden itibaren bir ay içinde bu kişileri o andaki şartlarla
+eski işlerine veya eski işlerine uygun bir diğer işe başlatmak zorundadır. Bu
+kişiler süresi içinde işe başlatılmadığı takdirde, iş sözleşmeleri işverence
+feshedilmiş sayılır.
+
+Yukarıda sayılan nedenler dışında yöneticilik görevi sona eren sendika
+yöneticisine ise başvuruları halinde işveren tarafından kıdem tazminatı ödenir.
+Ödenecek tazminatın hesabında, iyerinde çalışılmış süreler gözönünde
+bulundurulur ve fesih anında emsalleri için geçerli olan ücret ve diğer hakları
+esas alınır.
+
+==== İŞYERİ SENDİKA TEMSİLCİLİĞİNİN GÜVENCESİ
+
+İşveren, işşyeri sendika temsilcilerinin iş sözleşmelerini *haklı bir neden
+olmadıkça* ve nedenini *yazılı olarak açık ve kesin şekilde belirtmedikçe*
+feshedemez.
+
+Fesih bildiriminin tebliği tarihinden itibaren bir ay içinde, temsilci veya
+üyesi bulunduğu sendika dava açabilir.
+
+Temsilcinin işe iadesine karar verilirse fesih geçersiz sayılarak *temsilcilik
+süresini aşmamak kaydıyla* fesih tarihi ile kararın kesinleşme tarihi
+arasındaki ücret ve diğer hakları ödenir.
+
+Kararın kesinleşmesinden itibaren altı iş günü içinde işe başlatılmaması
+halinde, iş ilişkisinin devam ettiği kabul edilerek ücreti ve diğer hakları
+temsilcilik süresince ödenmeye devam edilir.
+
+İşveren, *yazılı rızası olmadıkça* işyeri sendika temsilcisinin işyerini
+değiştiremez veya işinde esaslı tarzda değişiklik yapamaz. Aksi halde
+değişiklik geçersiz sayılır.
+
+Yukarıdaki hükümler, işyerinde çalışmaya devam eden yöneticiler (*amatör
+yöneticiler*) hakkında da uygulanır.
+
+==== SENDİKA ÖZGÜRLÜĞÜNÜN GÜVENCESİ
+
+İşveren, bir sendikaya üye olan işçilerle sendika üyesi olmayan işçiler veya
+ayrı sendikalara üye olan işçiler arasında, çalışma şartları veya çalıştırmaya
+son verilmesi bakımından herhangi bir ayrım yapamaz. Ücret, ikramiye, prim ve
+paraya ilişkin sosyal yardım konularında *toplu iş sözleşmesi hükümleri
+saklıdır*.
+
+İşçiler, sendikaya üye olmaları veya olmamaları, iş saatleri dışında veya
+işverenin izni ile iş saatleri içinde işçi kuruluşlarının faaliyetlerine
+katılmaları veya sendikal faaliyette bulunmalarından dolayı işten çıkarılamaz
+veya farklı işleme tabi tutulamaz.
+
+İşveren yukarıdaki hükümlere aykırı hareket ettiği takdirde işçinin bir yıllık
+ücretinden az olmamak kaydıyla sendikal tazminata hükmedilir.
+
+=== TOPLU İŞ SÖZLEŞMELERİ
+
+*Toplu iş sözleşmesi*, iş sözleşmesinin yapılması, içeriği ve sona ermesine
+ilişkin hususları düzenlemek üzere işçi sendikası ile işveren sendikası veya
+sendika üyesi olmayan işveren arasında yapılan sözleşmeyi ifade eder.
+
+Toplu iş sözleşmesi, iş sözleşmesinin yapılması, içeriği ve sona ermesine
+ilişkin hükümleri içerir.
+
+Toplu iş sözleşmesi, tarafların karşılıklı hak ve borçları ile sözleşmenin
+uygulanması ve denetimini ve uyuşmazlıkların çözümü için başvurulacak yolları
+düzenleyen hükümleri de içerebilir.
+
+*Çerçeve sözleşme*, sözleşmenin tarafı olan işçi ve işveren sendikasının
+üyeleri hakkında uygulanır ve mesleki eğitim, iş sağlığı ve güvenliği, sosyal
+sorumluluk ve istihdam politikalarına ilişkin düzenlemeleri içerebilir.
+
+Çerçeve sözleşme, taraflardan birinin çağrısı ve karşı tarafın çağrıya olumlu
+cevap vermesi halinde en az bir, en çok üç yıl için yapılır.
+
+*Toplu iş sözleşmeleri ve çerçeve sözleşmeler, Anayasaya ve kanunların emredici
+hükümlerine aykırı düzenlemeler içeremez.*
