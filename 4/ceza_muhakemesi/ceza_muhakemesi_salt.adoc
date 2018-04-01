@@ -1700,3 +1700,297 @@ da üçüncü kişi hakkında, nerede ve ne hakkında, ne zaman tatbik edildiği
 edilen delillerin neler olduğu tespit edilir. Yine bu tutanakta, elde edilen
 eşyaya ilişkin mülkiyet veya başka bir iddia varsa bu belirtilir. Sonunda da
 hazır bulunanlarca imzalanır.
+
+=== EL KOYMA
+
+El koymanın konusu iki şey olabilir:
+
+. *İspat vasıtası* olarak yararlı görülen eşyalar, yani deliller
+. *Mülkiyeti devlete geçmesi gereken* malvarlığı değerleri veya eşyalar
+
+Taşınması veya bulundurulması suç olan eşyalar bakımından el koyma kararına
+ihtiyaç yoktur.
+
+Bir ispat vasıtası ya da müsadereye tabi eşya, ilgilisi tarafından rızayla
+teslim edilebilir. Bu durumda eşya *muhafaza altına alınır*. Fakat muhafaza
+altına işlemi sonrasında eşyanın adliyenin elinde tutulmasını sürdürebilmek
+için *hakim kararına* ihtiyaç vardır. Muhafaza altına almanın el koymaktan
+farkı, bünyesinde zor barındırmamasıdır.
+
+Eşya ilgilisi tarafından rızayla teslim edilmiyor ise iki tür zor
+kullanılabilir:
+
+. El koyma kararı vermek
+. Eşyanın teslimini sağlamak için disiplin hapsi tatbik etmek (60 güne kadar,
+tanıklıktan çekinme hakkına sahip olanlar için uygulanamaz)
+
+El koymanın maddi koşulu, eşyanın, delil olduğuna ilişkin tespit ya da
+müsadereye tabi olabileceğine ilişkin tespittir.
+
+El koymaya kural olarak *hakim karar verir*. *Gecikmesinde sakınca bulunan
+hallerde* cumhuriyet savcısı talimat verir. *Savcıya ulaşılamaması halinde*
+kolluk amiri emir verir.
+
+NOTE: Savcı talimatının veya kollum amiri emrinin *yazılı* olarak verilmesi
+gerekir.
+
+Hakim kararıyla verilmeyen el koymaların, *el koymanın tatbikinden itibaren 24
+saat içinde* hakim onayına sunulması gerekir. Hakimin de el koymanın
+tatbikinden *48 saat içinde* işlemi onaylaması veya reddetmesi gerekir. 48 saat
+içinde bir karar verilmezse el koyma kendiliğinden kalkar ve işleme son
+verilir.
+
+CAUTION: El koyma bakımından _aksi belirtilen özel el koymalar hariç_ eşyanın
+kime ait olduğu ya da kimin elinde bulunduğu önemli değildir.
+
+Söz konusu eşyanın adliyenin eli altında bulundurulması zorunlu değildir:
+
+* Eşyaya el konulup yediemine teslim edilebilir.
+* Eşya mağdura ait ise, *ispat vasıtası olmamak veya ispat vasıtası ise
+işlevini tamamlamış olmak koşulu ile* mağdura teslim edilebilir.
+* Muhafaza imkanı yoksa elden çıkartılmasına karar verilebilir. Zira el koyma
+tatbik edildiğinde eşyanın değerinin korunması ve bir zarara uğramaması
+adliyenin yükümlülüğü altındadır. Bu karar soruşturmada hakim, kovuşturmada
+mahkeme tarafından verilir. Her iki aşamada da hem cumhuriyet savcısının hem de
+ilgilinin elden çıkartmaya ilişkin talep ve beyanları alınır. *Elden çıkartma
+ancak müsadereye tabi eşya için söz konusu olur, ispat vasıtası hiçbir şekilde
+elden çıkartılamaz.*
+
+Kanunda el koyma kararına doğrudan itiraz imkanı düzenlenmemiştir. Soruşturma
+evresinde bütün hakim kararları itiraz yoluna açık olduğundan el koyma kararına
+veya el koyma emrinin onaylanmasına itiraz edilebilir. Kovuşturma evresinde ise
+eşyanın iadesi istenip reddedilirse, ret kararına karşı itiraz yoluna
+başvurulabilir.
+
+Soruşturma veya kovuşturma herhangi bir biçimde bittiğinde el koyma son
+bulacaktır. Soruşturma takipsizlikle bittiğinde elkonulan eşyanın iadesine
+karar verilir. Kovuşturma beraat ile biterse de eşyanın iadesi söz konusu olur.
+Kovuşturma mahkumiyet ile biterse el koyma işlemi müsadereye dönüşür.
+
+.İçeriği devlet sırrı oluşturan belgelerde el koyma
+****
+Açıklanması, devletin dış ilişkilerine, milli savunmasına ve milli güvenliğine
+zarar verebilecek; anayasal düzeni ve dış ilişkilerinde tehlike yaratabilecek
+nitelikteki bilgiler, Devlet sırrı sayılır.
+
+Bir belgenin içeriğinin devlet sırrı olduğu iddiası, belgeyi elinde tutan
+kişiler bakımından her zaman ileri sürülebilir. *Ancak belgenin devlet sırrı
+olup olmadığı tespiti mahkeme tarafından yapılacaktır*.
+
+İleri sürülen sır iddiası, mahkeme tarafından yerinde görülmezse belge üzerine
+el koyma kararı verilmesi mümkündür.
+
+Sır iddiası yerinde görülürse, kanun, devlet sırlarının bir ceza muhakemesi
+sürecinde ancak alt sınır 5 yıldan daha fazla bir cezayı öngören bir suçta
+ispat işlevi görebileceğini düzenlemiştir. Söz konusu suçun daha az bir cezayı
+öngörmesi halinde belgenin elde edilmesine de değerlendirilmesine de kanun
+müsaade etmemektedir.
+****
+
+CAUTION: Şüpheli veya sanığın tanıklıktan çekinebilecek yakınlarıyla arasında
+geçen yazışmalar ve bu kişiler nezdindeki belgeler el koyma kararının konusunu
+oluşturamaz.
+
+==== POSTADA EL KOYMA
+
+*Suçun delillerini oluşturduğundan şüphe edilen ve gerçeğin ortaya çıkartılması
+için soruşturma ve kovuşturmada adliyenin eli altında olması zorunlu sayılıp*,
+posta hizmeti veren her türlü resmi veya özel kuruluşta bulunan gönderilere,
+hakimin veya gecikmesinde sakınca bulunan hallerde cumhuriyet savcısının
+kararı ile elkonulabilir.
+
+CAUTION: Sadece ispat vasıtaları bakımından bu hüküm uygulanabilir. Müsadereye
+tabi eşya bakımından uygulanamaz.
+
+Hakim kararının veya cumhuriyet savcısının emrinin kendilerine bildirilmesi
+üzerine elkoyma işlemini yerine getiren kolluk memurları, gönderilerin içinde
+bulunduğu zarfları veya paketleri açamazlar. Elkonulan gönderiler, ilgili posta
+görevlilerinin huzuru ile mühür altına alınıp derhal elkoyma kararını veya
+emrini veren hakim veya Cumhuriyet savcısına teslim edilir.
+
+TIP: Tehlikeli maddelerin izinsiz taşınması (silah dahil), uyuşturucu madde
+imal ve ticareti, silah kaçakçılığı, tarihi eser kaçakçılığı suçlarında kolluk
+görevlilerinin paketi açma yetkisi vardır.
+
+Soruşturma ve kovuşturmanın amacına zarar vermek olasılığı bulunmadıkça,
+alınmış tedbirler ilgililere bildirilir.
+
+==== AVUKAT BÜROSUNDA ARAMA VE EL KOYMA
+
+Avukata soruşturma açılması Adalet Bakanlığı'nın iznine tabidir. Dava
+açılabilmesi Adalet Bakanı izniyle beraber yargılamanın yapılacağı yere en
+yakın Ağır Ceza Mahkemesinin kararına bağlıdır. Yargılama yapacak mahkeme de
+suç ne olursa olsun suçun işlendiği yerdeki Ağır Ceza Mahkemesidir.
+
+Avukat büroları *ancak mahkeme kararı ile ve kararda belirtilen olayla ilgili
+olarak cumhuriyet savcısının denetiminde* aranabilir. Baro başkanı veya onu
+temsil eden bir avukat aramada hazır bulundurulur.
+
+TIP: Avukatın konutu da yukarıdaki hükmün kapsamındadır.
+
+Arama sonucu elkonulmasına karar verilen şeyler bakımından bürosunda arama
+yapılan avukat, baro başkanı veya onu temsil eden avukat, bunların avukat ile
+müvekkili arasındaki mesleki ilişkiye ait olduğunu öne sürerek karşı
+koyduğunda, bu şey ayrı bir zarf veya paket içerisine konularak hazır
+bulunanlarca mühürlenir ve bu konuda gerekli kararı vermesi, soruşturma
+evresinde sulh ceza hakiminden, kovuşturma evresinde hakim veya mahkemeden
+istenir.
+
+Yetkili hakim elkonulan şeyin avukatla müvekkili arasındaki mesleki ilişkiye
+ait olduğunu saptadığında, elkonulan şey derhal avukata iade edilir ve yapılan
+işlemi belirten tutanaklar ortadan kaldırılır.
+
+Yukarıdaki kararlar, 24 saat içinde verilir.
+
+==== TAŞINMAZ MAL, HAK VE ALACAKLARA EL KOYMA
+
+Soruşturma veya kovuşturma konusu suçun işlendiğine ve bu suçlardan elde elde
+edildiğine dair kuvvetli şüphe sebebi bulunan hallerde, *şüpheli veya sanığa
+ait*;
+
+. Taşınmazlara
+. Kara, deniz veya hava ulaşım araçlarına
+. Banka veya diğer mali kurumlardaki her türlü hesaba
+. Gerçek veya tüzel kişiler nezdindeki her türlü hak ve alacaklara
+. Kıymetli evraka
+. Ortağı bulunduğu şirketteki ortaklık paylarına
+. Kiralık kasa mevcutlarına
+. Diğer malvarlığı değerlerine
+
+elkonulabilir. Bu taşınmaz, hak, alacak ve diğer malvarlığı değerlerinin
+şüpheli veya sanıktan başka bir kişinin zilyetliğinde bulunması halinde dahi,
+elkoyma işlemi yapılabilir. Bu hüküm ancak kanunda sayılan katalog suçlar için
+söz konusudur.
+
+IMPORTANT: Bu tip el koymaya ancak hakim karar verebilir.
+
+==== ŞİRKET YÖNETİMİ İÇİN KAYYIM TAYİNİ
+
+Suçun bir şirketin faaliyeti çerçevesinde işlenmekte olduğu hususunda kuvvetli
+şüphe sebeplerinin varlığı ve *maddi gerçeğin ortaya çıkarılabilmesi için
+gerekli olması halinde*; soruşturma ve kovuşturma sürecinde, hakim veya
+mahkeme, şirket işlerinin yürütülmesiyle ilgili olarak kayyım atayabilir.
+Atama kararında, yönetim organının yetkilerinin tümüyle kayyıma verildiği
+açıkça belirtilir.
+
+==== BİLGİSAYARLARDA, BİLGİSAYAR PROGRAMLARINDA VE KÜTÜKLERİNDE ARAMA, KOPYALAMA, ELKOYMA
+
+Bir suç dolayısıyla yapılan soruşturmada, *başka surette delil elde etme
+imkanının bulunmaması halinde*, Cumhuriyet savcısının istemi üzerine şüphelinin
+kullandığı bilgisayar kütüklerinde arama yapılmasına, bilgisayar kayıtlarından
+kopya çıkarılmasına, bu kayıtların çözülerek metin haline getirilmesine hakim
+tarafından karar verilir.
+
+Bilgisayar, bilgisayar programları ve bilgisayar kütüklerine şifrenin
+çözülememesinden dolayı girilememesi veya gizlenmiş bilgilere ulaşılamaması
+halinde çözüm yapılabilmesi ve gerekli kopyaların alınabilmesi için, bu araç ve
+gereçlere el konulabilir. Şifrenin çözümünün yapılması ve gerekli kopyaların
+alınması halinde, elkonulan cihazlar gecikme olmaksızın iade edilir.
+
+== GİZLİ SORUŞTURMA TEDBİRLERİ
+
+=== TELEKOMÜNİKASYONUN DENETLENMESİ
+
+Bir suç dolayısıyla yapılan soruşturma ve kovuşturmada, *suç işlendiğine
+ilişkin somut delillere dayanan kuvvetli şüphe sebeplerinin varlığı* ve *başka
+suretle delil elde edilmesi imkanının bulunmaması* durumunda, hakim veya
+gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının kararıyla *şüpheli
+veya sanığın* telekomünikasyon yoluyla iletişimi dinlenebilir, kayıt altına
+alınabilir ve sinyal bilgileri değerlendirilebilir.
+
+Cumhuriyet savcısı kararını *derhal* hakimin onayına sunar ve kararını en geç
+yirmi dört saat içinde verir. Sürenin dolması veya hakim tarafından aksine
+karar verilmesi halinde tedbir Cumhuriyet savcısı tarafından derhal kaldırılır.
+
+Tedbir kararı *en çok iki ay* için verilebilir; bu süre, bir ay daha
+uzatılabilir. Ancak, *örgütün faaliyeti çerçevesinde işlenen suçlarla ilgili
+olarak gerekli görülmesi halinde*, hakim yukarıdaki sürelere ek olarak her
+defasında bir aydan fazla olmamak ve toplam üç ayı geçmemek üzere uzatılmasına
+karar verebilir.
+
+Tedbirin konusu telekomünikasyon araçları kullanmak suretiyle, sanık veya
+şüpheli ile üçüncü kişi arasında *devam eden* bir iletişimdir.
+
+Telekomünikasyonun yoluyla iletişimin denetlenmesinde beş işleme müsaade
+edilir:
+
+. Dinleme
+. Kaydetme
+. Sinyal bilgilerin değerlendirilmesi
+. Yer tespiti
+. Kimlik tespiti
+
+NOTE: Dinleme, kaydetme ve sinyal bilgilerinin değerlendirilmesi ancak kanunda
+sayılan katalog suçlar için söz konusu olabilir.
+
+Kuvvetli suç şüphesi ve başka şekilde elde etme imkanı olup olmadığı her suç
+bakımından ayrı ayrı denetlenmek zorunda olunduğuna göre, suç vasfı
+değiştiğinde tedbire son verilmesi icap eder. Yargıtay, suç vasfı değiştiye ve
+yeni suç katalogda yer alan suçlardansa elde edilmiş delillerin
+kullanılabileceğini kabul etmektedir. Yeni suç katalog dışındaysa ama
+katalogdaki suçlardan birine dönüşebilecek nitelikte ise yine deliller
+kullanılabilir.
+
+Sanık veya şüphelinin, tanıklıktan çekinebilecek yakınlarından biri ile olan
+iletişimi dinlenemez. Dinlense ve kaydedilse bile silinmesi gerekir. Ancak
+Yargıtay'a göre, sanık veya şüphelinin konuştuğu yakını da suçtan şüpheli ise
+bu yasak uygulanmaz. Zira şüpheli veya sanıklar birbirlerinin fiilleri hakkında
+tanık sıfatıyla dinlenebilirler.
+
+Mevcut dinleme sırasında bir başka suça ilişkin bilgi edinilirse ve bu suç
+katalogdaki suçlardansa o ana kadar yapılan dinleme hukuka uygundur, ancak
+devam etmek için yeni bir karar almak gerekir. Suç katalogda yer almıyorsa, bu
+dinleme ile elde edilen bilgiler delil olarak kullanılmayacaktır. Ancak delilin
+kullanılamaması, fiili bildirme yükümlülüğünü ortadan kaldırmaz.
+
+=== GİZLİ SORUŞTURMACI
+
+Soruşturma konusu suçun işlendiği hususunda *somut delillere dayanan kuvvetli
+şüphe sebeplerinin bulunması* ve *başka suretle delil elde edilememesi*
+halinde, kamu görevlileri gizli soruşturmacı olarak görevlendirilebilir. Bu
+görevlendirmeye *hakim* karar verir.
+
+Soruşturmacının kimliği değiştirilebilir. Bu kimlikle hukuki işlemler
+yapılabilir. Kimliğin oluşturulması ve devam ettirilmesi için zorunlu olması
+durumunda gerekli belgeler hazırlanabilir, değiştirilebilir ve kullanılabilir.
+
+Soruşturmacı, faaliyetlerini izlemek ile görevlendirildiği örgüte ilişkin her
+türlü araştırmada bulunmak ve bu örgütün faaliyetleri çerçevesinde işlenen
+suçlarla ilgili delilleri toplamakla yükümlüdür.
+
+Soruşturmacı, görevini yerine getirirken suç işleyemez ve görevlendirildiği
+örgütün işlemekte olduğu suçlardan sorumlu tutulamaz.
+
+Soruşturmacı görevlendirilmesiyle suretiyle elde edilen kişisel bilgiler,
+görevlendirildiği ceza soruşturması ve kovuşturması dışında kullanılamaz. Suçla
+bağlantılı olmayan kişisel bilgiler derhal yok edilir.
+
+IMPORTANT: Soruşturmacı, kamu görevlisi olmak zorundadır.
+
+=== TEKNİK ARAÇLA İZLEME
+
+Kanunda sayılmış katalog suçların *işlendiği hususunda somut delillere dayanan
+kuvvetli şüphe sebepleri bulunması* ve *başka suretle delil elde edilememesi*
+halinde, *şüpheli veya sanığın* kamu açık yerlerdeki faaliyetleri ve işyeri
+teknik araçla izlenebilir, ses veya görüntü kaydı alınabilir.
+
+Teknik araçlarla izlemeye hâkim, gecikmesinde sakınca bulunan hâllerde
+Cumhuriyet savcısı tarafından karar verilir. Cumhuriyet savcısı tarafından
+verilen kararlar yirmi dört saat içinde hâkim onayına sunulur. Hâkim kararını
+en geç yirmi dört saat içinde verir. Sürenin dolması veya hâkim tarafından
+aksine karar verilmesi hâlinde kayıtlar derhâl imha edilir.
+
+Teknik araçlarla izleme kararı *en çok üç haftalık* süre için verilebilir. Bu
+süre gerektiğinde *bir hafta daha* uzatılabilir. Ancak, *örgütün faaliyeti
+çerçevesinde işlenen suçlarla ilgili olarak gerekli görülmesi hâlinde*, hâkim
+yukarıdaki sürelere ek olarak her defasında bir haftadan fazla olmamak ve
+toplam dört haftayı geçmemek üzere uzatılmasına karar verebilir.
+
+NOTE: Teknik araçlarla izleme tedbiri ile birlikte gizli soruşturmacı
+görevlendirilmesi halinde bu süreler bir kat artırılarak uygulanır.
+
+Elde edilen deliller, yukarıda sayılan suçlarla ilgili soruşturma ve kovuşturma
+dışında kullanılamaz; ceza kovuşturması bakımından gerekli olmadığı taktirde
+Cumhuriyet savcısının gözetiminde derhâl yok edilir.
+
+IMPORTANT: Bu hükümler, kişinin konutunda uygulanamaz.
