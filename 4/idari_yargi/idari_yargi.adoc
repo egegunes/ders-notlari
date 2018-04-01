@@ -789,3 +789,109 @@ beklenmeksizin uygulanmak zorundadır. Ancak davalı idare, iptalle sonuçlanan
 davalarda kanun yoluna başvurarak *mahkeme kararının yürütülmesinin
 durdurulmasını* talep edebilir. Bunun için İYUK 27'deki şartlar aranmaz. Bu
 karara karşı da bir itiraz mekanizması yoktur.
+
+== DURUŞMA
+
+İdari yargıda kural olarak, dosya üzerinden ve duruşmasız yargılama yapılır.
+Duruşma ancak belirli şartların varlığı halinde yapılır.
+
+Danıştay ile idare ve vergi mahkemelerinde açılan *iptal* ve *yirmibeşbin Türk
+Lirasını aşan tam yargı davaları* ile tarh edilen vergi, resim ve harçlarla
+benzeri mali yükümler ve bunların zam ve cezaları toplamı yirmibeşbin Türk
+Lirasını aşan vergi davalarında, *taraflardan birinin isteği üzerine duruşma
+yapılır*.
+
+Temyiz ve istinaflarda duruşma yapılması *tarafların istemine* ve *Danıştay
+veya ilgili bölge idare mahkemesi kararına* bağlıdır.
+
+Duruşma talebi, dava dilekçesi ile cevap ve savunmalarda yapılabilir.
+
+NOTE: Danıştay, mahkeme ve hakim tarafların istemine bağlı olmaksızın
+kendiliğinden duruşma yapılmasına karar verebilir.
+
+Tarafların talebine rağmen duruşma yapılmaması bir usul sakatlığı olarak kanun
+yolu aşamasında ileri sürülebilir ve bozma sebebi teşkil eder.
+
+Duruşma yapıldıktan sonra *en geç onbeş gün içinde karar verilir*. Bu bir
+düzenleyici süredir.
+
+== İSPAT VE DELİL
+
+İdari yargıda mahkemenin re'sen araştırma yetkisi, delilleri toplama ve
+değerlendirme görevini de kapsamaktadır. Taraflar ileri sürmemiş olsa bile
+ilgili kişi ve kuruluşlardan bilgi ve belge isteme, araştırma yapma, keşif
+yapma gibi yöntemlere mahkeme kendiliğinden başvurabilecektir.
+
+HMK'da delillerin sunulması belirli bir zamanla sınırlıdır. Ancak idari yargıda
+böyle bir şey yoktur. Temyiz aşamasında dahi yeni delil ibraz edilebilir.
+
+İdari yargıda delil serbestisi geçerli olduğu için kural olarak kanunen yasak
+olmayan her türlü delil ile ispat faaliyeti yürütülebilir.
+
+=== DELİL TÜRLERİ
+
+==== TANIK
+
+İdari yargıda tanık dinleme müessesesi yoktur. Yazılılık ilkesi prensibi gereği
+tanık dinletilemez. Danıştay, kategorik olarak tüm davalar bakımından tanık
+beyanlarını reddetmektedir. Hatta keşif esnasında tanık dinlenmesine dahi izin
+vermemektedir.
+
+==== İKRAR
+
+İkrar, bir vakıanın karşı taraf tarafından kabul edilmesidir. Re'sen araştırma
+ilkesi, taraflardan birinin ikrar ettiği bir vakıayı mahkemenin tekrar
+araştırmasını gerekli kılmaz. Hayatın olağan akışına aykırı olmayan olgular,
+ikrar edilmişse mahkeme tarafından tekrar araştırılmayacaktır.
+
+NOTE: _Kürsüye göre_ idarenin ikrardan kaçınması hukuk devletine aykırılık
+teşkil edecektir.
+
+==== BİLİRKİŞİ
+
+Hakimlik mesleğinin dışında bilgi gerektiren teknik konular bakımından
+bilirkişiye başvurulabilir.
+
+Hem denetlenemez olması sebebiyle hem de tarafların hakimin teknik bilgisi
+konusunda aksini ispat edebilme imkanı tanınmadığı için, her tür teknik
+meselede, hakimin bilgi sahibi olması halinde dahi bilirkişiye gidilmelidir.
+
+=== DELİL TESPİTİ
+
+Dava açılmadan önceki delil tespiti bakımından HMK hükümleri uygulanır.
+
+Taraflar, idari dava açıkldıktan sonra bu davalara ilişkin delillerin
+tespitini ancak davaya bakan Danıştay, idare ve vergi mahkemelerinden
+isteyebilirler.
+
+Davaya bakan Danıştay, idare ve vergi mahkemeleri istemi uygun gördüğü takdirde
+üyelerden birini bu işle görevlendirebileceği gibi, tespitin mahalli idari veya
+adli yargı mercilerince yapılmasına da karar verebilir.
+
+Delillerin tespiti istemi, ivedilikle karara bağlanır.
+
+TIP: Noter tespitleri delil tespiti sayılmaz. Delil tespitinin bir mahkemece
+yapılması gerekir. *Ancak noterler tarafından kanuna uygun olarak yapılan
+tespitler mahkemeler için delil niteliğinde olacaktır.*
+
+== DAVAYA MÜDAHALE
+
+İYUK'ta davaya müdahale konusunda bir düzenleme yapılmamış ve HMK'ya atıfta
+bulunulmuştur. Dolayısıyla davaya müdahale bakımından HMK hükümleri uygulama
+alanı bulacaktır.
+
+HMK'da iki tür müdahale vardır:
+
+. *Asli müdahale:* Taraflar arasında görülmekte olan davadaki uyuşmazlık konusu
+üzerinde hak iddia eden üçüncü kişinin davanın taraflarına dava açmasıdır.
+. *Fer'i müdahale:* Üçüncü kişinin, davayı kazanmasında menfaati bulunan
+tarafın yanında davaya katılarak ona yardımcı olmasıdır.
+
+NOTE: Doktrinde çoğunluk görüşü asli müdahalenin idari yargıda mümkün
+olmadığını savunmaktadır. Bundan sonra müdahale deyince fer'i müdahale
+kastedilecektir.
+
+== DAVAYA SON VEREN TARAF İŞLEMLERİ
+
+Davaya son veren taraf işlemleri; *kabul*, *sulh* ve **feragat**tir. Bu
+işlemler için de İYUK, HMK'ya atıfta bulunmuştur.
