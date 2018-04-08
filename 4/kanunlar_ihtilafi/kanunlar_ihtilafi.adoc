@@ -1,0 +1,86 @@
+:toc:
+:toc-title: KANUNLAR İHTİLAFI
+:icons: font
+
+== GİRİŞ
+
+Her kanunlar ihtilafı kuralında bir bağlama konusu ve bir bağlama noktası
+vardır. *Bağlama konusu*, hakimin çözümlemesi gereken ihtilaftır. *Bağlama
+noktası* ise ihtilafın hangi hukuka göre çözümlenmesi gerektiğini gösteren
+yabancılık unsurudur.
+
+Uygulanacak yabancı hukukun kanunlar ihtilafı kurallarının başka bir hukuku
+yetkili kılması, sadece kişiler hukuku ve aile hukukuna ilişkin ihtilaflarda
+dikkate alınır ve bu hukukun maddi hukuk hükümleri uygulanır.
+
+== KANUNLAR İHTİLAFI KURALLARI
+
+=== ŞEKİL
+
+Hukuki işlemler, yapıldıkları ülke hukukunun veya o hukuki işlemin esası
+hakkında yetkili olan hukukun maddi hukuk hükümlerinin öngördüğü şekle uygun
+olarak yapılabilir.
+
+=== ZAMANAŞIMI
+
+*Zamanaşımı*, hukuki işlem ve ilişkinin esasına uygulanan hukuka tabidir.
+
+=== EHLİYET
+
+Hak ve fiil ehliyeti *ilgilinin milli hukukuna* tabidir.
+
+Milli hukukuna göre ehliyetsiz olan bir kişi, *işlemin yapıldığı ülke hukukuna
+göre ehil ise* yaptığı hukuki işlemle bağlıdır. Aile ve miras hukuku ile başka
+bir ülkedeki taşınmazlar üzerindeki ayni haklara ilişkin işlemler bu hükmün
+dışındadır.
+
+Kişinin milli hukukuna göre kazandığı erginlik, vatandaşlığının değişmesi ile
+sona ermez.
+
+Tüzel kişilerin veya kişi veya mal topluluklarının hak ve fiil ehliyetleri,
+statülerindeki idare merkezi hukukuna tabidir. *Ancak fiili idare merkezinin
+Türkiye'de olması halinde Türk hukuku uygulanabilir*. Statüsü bulunmayan tüzel
+kişiler ile tüzel kişiliği bulunmayan kişi veya mal topluluklarının ehliyeti,
+fiili idare merkezi hukukuna tabidir.
+
+=== GAİPLİK VE ÖLMÜŞ SAYILMA
+
+Gaiplik ve ölmüş sayılma kararı, *hakkında karar verilecek kişinin milli
+hukukuna tabidir*. Milli hukukuna göre hakkında gaiplik veya ölmüş sayılma
+kararı verilemeyen kişinin mallarının Türkiye'de bulunması veya eşinin veya
+mirasçılardan birinin Türk vatandaşı olması halinde, Türk hukukuna göre gaiplik
+veya ölmüş sayılma kararı verilir.
+
+=== VESAYET, KISITLILIK VE KAYYIMLIK
+
+Vesayet veya kısıtlılık kararı verilmesi veya sona erdirilmesi sebepleri,
+hakkında vesayet veya kısıtlılık kararının verilmesi veya sona erdirilmesi
+istenen *kişinin milli hukukuna* tabidir.
+
+Yabancının milli hukukuna göre vesayet veya kısıtlılık kararı verilmesi mümkün
+olmayan hallerde bu kişinin mutad meskeni Türkiye'de ise Türk hukukuna göre
+vesayet veya kısıtlılık karrı verilebilir veya kaldırılabilir. Kişinin zorunlu
+olarak Türkiye'de bulunduğu hallerde de Türk hukuku uygulanır.
+
+Vesayet ve kısıtlılık kararı verilmesi veya sona erdirilmesi sebepleri dışında
+kalan bütün kısıtlılık veya vesayete ilişkin hususlar ve kayyımlık Türk
+hukukuna tabidir.
+
+NOTE: Bir uluslararası sözleşme gereği, çocuğun malları ile ilgili kayyım
+atanacaksa çocuğun mutad meskeninin bulunduğu devlet hukuku uygulanır.
+
+=== MİRAS
+
+Miras *ölenin milli hukukuna tabidir*. Türkiye'de bulunan taşınmazlar hakkında
+Türk hukuku uygulanır.
+
+Mirasın açılması sebeplerine, iktisabına ve taksimine ilişkin hükümler
+terekenin bulunduğu ülke hukukuna tabidir.
+
+Türkiye'de bulunan mirasçısız tereke devlete kalır.
+
+Ölüme bağlı tasarrufun şekline yukarıdaki şekil kuralı uygulanır. Ölenin milli
+hukukuna uygun şekilde yapılan ölüme bağlı tasarruflar da geçerlidir.
+
+Ölüme bağlı tasarruf ehliyeti, tasarrufta bulunanın, tasarrufun yapıldığı
+andaki milli hukukuna tabidir.
