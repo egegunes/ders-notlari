@@ -549,3 +549,58 @@ hak ehliyetine sahip olmak gerekir.
 
 Sıfat, kişinin hakkı ile uyuşmazlık konusu arasında bağlantı olup olmadığını
 belirler. Sıfat, uyuşmazlığın esasına uygulanacak hukuka göre belirlenir.
+
+== TEBLİGAT
+
+Türk mahkemesi yurtdışına tebligat yapacağı zaman önce tebligatı Adalet
+Bakanlığına gönderir. Adalet Bakanlığı, Dışişleri Bakanlığına; Dışişleri
+Bakanlığı da tebligat yapılacak kişi hangi ülkedeyse o ülkedeki Türk
+büyükelçiliğine (veya konsolosluğuna); büyükelçilik de yabancı ülkedeki yetkili
+makama tebligatı gönderir. *Tebligat, yabancı ülkenin kendi usulüne göre
+yapılır.*
+
+Yabancı ülkede kendisine tebligat yapılacak kimse Türk vatandaşı olduğu
+takdirde tebliğ, o yerdeki Türkiye Büyükelçiliği veya Konsolosluğu aracılığıyla
+da yapılabilir. Tebligat yine yabancı ülkenin kendi usulüne göre yapılır. Kişi
+30 gün boyunce tebligata cevap vermezse tebligat yapılmış sayılır. *Kişi Türk
+vatandaşı ise bu şekilde tebligat yapılması zorunlu değildir.*
+
+.Milletlerarası sözleşmeler
+****
+*1954 yılında* imzalanmış bir sözleşme ile tebligat için şöyle bir usul
+düzenlenmiştir: Mahkeme tebligatı adalet bakanlığına gönderir, adalet bakanlığı
+yurtdışındaki elçiliğe gönderir, elçilik de ülkenin yetkili makamına gönderir.
+Burada fark adalet bakanlığı ile elçilik arasında dışişleri bakanlığının
+olmamasıdır. Ayrıca burada evrakın karşı tarafın anlayacağı şekilde tercüme
+edilmesi zorunludur.
+
+*1965 tarihli* bir sözleşmeye göre ise taraf ülkeler birer merkezi makam
+belirler. Her ülke, sözleşmeye taraf bir diğer ülkenin merkezi makamına
+doğrudan tebligat yapabilir. Bu sözleşmeye taraf devlet 1954 tarihli sözleşmeye
+göre tebligat yapamaz. *Bu sözleşmeye göre tebligat ancak hukuki ve ticari
+belgelere ilişkin yapılabilir, cezai belgeler için yapılamaz.* Bu sözleşme
+ayrıca yabancı ülkedeki kişiye doğrudan tebligat yapma imkanı da getirmiştir.
+Ancak bunun için yabancı ülkenin buna izin vermesi şarttır.
+****
+
+== TEMİNAT
+
+Türk mahkemesinde dava açan, davaya katılan veya icra takibinde bulunan
+*yabancı* gerçek ve tüzel kişiler, yargılama ve takip giderleriyle karşı
+tarafın zarar ve ziyanını karşılamak üzere mahkemenin belirleyeceği teminatı
+göstermek zorundadır.
+
+Mahkeme, dava açanı, davaya katılanı veya icra takibi yapanı *karşılıklılık*
+esasına göre teminattan muaf tutar.
+
+NOTE: Yargıtay'a göre teminat döviz cinsinden ve %10 oranında yatırılacaktır.
+
+.Vatansız ve mültecilerin durumu
+****
+_Vatansız bir kişi, daimi ikametinin bulunduğu Sözleşmeci Devlette, adli yardım
+ve teminat akçesinden muafiyet dahil olmak üzere mahkemelere başvuruya ilişkin
+konularda bir vatandaşınki ile aynı muameleden yararlanır._
+
+Türk vatandaşı mutad meskeni belli olduğu takdirde teminattan muaftır.
+Yukarıdaki hüküm gereği vatansız ve mülteciler için de aynı kural geçerlidir.
+****
