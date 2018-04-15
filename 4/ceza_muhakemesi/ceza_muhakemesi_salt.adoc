@@ -1994,3 +1994,27 @@ dışında kullanılamaz; ceza kovuşturması bakımından gerekli olmadığı t
 Cumhuriyet savcısının gözetiminde derhâl yok edilir.
 
 IMPORTANT: Bu hükümler, kişinin konutunda uygulanamaz.
+
+== GÖZLEM ALTINA ALMA
+
+*Gözlem altına alma*, bir kişinin akıl hastası olup olmadığını, akıl hastasıysa
+ne kadar süredir akıl hastası olduğunu ve hastalığının kişinin fiillerine
+etkisini tespit etmeye yarayan bir tedbirdir. Bu tedbirin uygulanabilmesi için
+kişinin fiili işlediği hususunda kuvvetli suç şüphesinin olması ve bu kişinin
+akıl hastalığı şüphesinin olması gerekir.
+
+Gözlem altına alma ile akıl hastalığının fiilden önce mi sonra mı akıl hastası
+olduğunun tespiti önemlidir. Fiilden önce akıl hastası olduğu tespiti yapıldığı
+takdirde bu *kusuru etkileyen faktör* olur. Fiil gerçekleştikten sonra
+*hastalığa düçar olunması* halinde ise muhakeme şartlarının oluşmamasına sebep
+olur.
+
+Gözlem süresi *üç haftayı geçemez*. Bu sürenin yetmeyeceği anlaşılırsa resmi
+sağlık kurumunun istemi üzerine, her seferinde *üç haftayı geçmemek üzere* ek
+süreler verilebilir; ancak sürelerin toplamı *üç ayı geçemez*.
+
+== BEDEN MUAYENESİ
+
+Bir suça ilişkin delil elde etmek için *şüpheli* veya *sanık* üzerinde iç beden
+muayenesi yapılabilmesine ya da vücuttan kan veya benzeri biyolojik örneklerle
+saç, tükürük
