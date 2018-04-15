@@ -2215,7 +2215,7 @@ Tevdi işlemleri sırasında sürastarya süresi geçti ise sürastarya ücreti 
 edilebilir. Bu sürenin geçmesi sebebiyle uğranılan zarar varsa bunların tazmini
 de talep edilebilir.
 
-== KONİŞMENTO
+=== KONİŞMENTO
 
 *Konişmento*, bir taşıma sözleşmesinin yapıldığını ispatlayan, eşyanın taşıyan
 tarafından teslim alındığını veya gemiye yüklendiğini gösteren ve taşıyanın
@@ -2278,9 +2278,209 @@ edilerek farklı ayni haklar ileri sürülürse ortak ciranta bulunup cirp
 zincirleri incelenerek kimin haklı olduğu bulunur.
 
 NOTE: Konişmentoyu iyiniyetle teslim alan kimse ile eşyayı iyiniyetle teslim
-alan kimse arasında uyuşmazlık çıkarsa eşyayı teslim alan tercih olunur. 
+alan kimse arasında uyuşmazlık çıkarsa eşyayı teslim alan tercih olunur.
 
 Varma limanından önce yükleten eşyanın kendisine iadesini ister ya da ara bir
 limanda yetkili hamil malın teslimini isterse zilyetliğin devri ancak tüm
 nüshaların teslimi karşılığında gerçekleştirilebilir. Aksi takdirde taşıyanın
 sorumluluğu sona ermez.
+
+=== TAŞIYANIN SORUMLULUĞU
+
+==== BAŞLANGIÇTAKİ ELVERİŞSİZLİKTEN SORUMLULUK
+
+Her türlü navlun sözleşmesinde taşıyan, geminin *denize*, *yola* ve *yüke*
+elverişli halde bulunmasını sağlamakla yükümlüdür.
+
+.. _Denize elverişlilik_, geminin, gövdesi, genel donanımı, makinesi ve kazanı
+itibariyle yolculuğun yapılacağı sudan ileri gelen (anormal tehlikeler hariç)
+tehlikelere karşı koyabilecek durumda olmasıdır.
+.. _Yola elverişlilik_, denize elverişli geminin, teşkilatı, yükleme durumu,
+yakıtı, kumanyası, gemi adamlarının yeterliliği ve sayısı bakımından, (tamamıyla
+anormal tehlikeler hariç) yapacağı yolculuğun tehlikelerine karşı koyabilmek
+için gerekli niteliklere sahip bulunmasıdır.
+.. _Yüke elverişlilik_, geminin, soğutma tesisatı da dahil olmak üzere, eşya
+taşımada kullanılan kısımları eşyanın kabulüne, taşınmasına ve muhafazasına
+elverişli olmasıdır.
+
+Taşıyan, *yükle ilgili olanlara karşı* geminin denize, yola veya yüke
+elverişli olmamasından doğan zararlardan sorumludur; meğer ki, tedbirli bir
+taşıyanın harcamakla yükümlü olduğu dikkat ve özen gösterilmekle beraber,
+*eksikliği yolculuğun başlangıcına kadar keşfe imkan bulunmamış olsun.*
+
+Yolculuk başladıktan sonra ortaya çıkan elverişsizlik bu hüküm kapsamında
+değildir. Sonradan ortaya çıkan elverişsizlikten doğan sorumluluk, zıya, hasar
+ve geç teslimden doğan sorumluluk kapsamında değerlendirilir.
+
+Taşıyanın sorumluluktan kurtulmak için tek imkanı, gerekli özeni gösterdiği
+halde elverişsizliği keşfedememiş olduğunu ispatlamaktır. Elverişsizliğin
+taşıyanın veya ona bağlı çalışanların kusurundan ileri gelmesi aranmaz.
+
+NOTE: Yolculuğun başlama zamanı yüke göre belirlenecektir. Dolayısıyla ara bir
+limanda gemiye alınmış yük için başlama zamanı ara liman olacaktır.
+
+Taşıyanın sorumluluğuna gidilebilmesi için yük sahibinin yükünde meydana gelen
+zararı, gemideki elverişsizliği ve elverişsizlik ile zarar arasındaki illiyet
+bağını ispatlaması gerekir.
+
+==== EŞYANIN ZIYA, HASAR YA DA GEÇ TESLİMİ
+
+Eşyanın zıya, hasar veya geç teslimi sonucunda taşıyanın sorumluluğuna
+gidilebilmek için:
+
+. Eşya zıya veya hasar uğramış ya da geç teslim edilmiş olmalıdır.
++
+*Zıya*, taşıyanın, eşyayı tamamen veya kısmen teslim etmek etmek gücünden
+yoksun olmasıdır.
++
+*Hasar*, eşyanın uğradığı nitelik değişikliği sonucunda sürekli ekonomik değer
+kaybına uğramış olmasıdır.
++
+*Geç teslim*, eşyanın, sözleşmede bir teslim zamanı öngörülmüşse bu zaman içinde
+teslim edilmemesidir. Sözleşmede bir teslim zamanı öngörülmemişse somut olayın
+koşullarına göre makul teslim süresi belirlenir ve buna göre geç teslim olup
+olmadığı belirlenir.
++
+NOTE: Teslim süresinin dolmasından itibaren *aralıksız 60 gün* geçer ve eşya
+hala teslim edilmemiş olursa, eşya zayi olmuş sayılır.
+. Zarara yol açan *olay*, eşya taşıyanın hakimiyetindeyken meydana gelmiş
+olmalıdır. Hakimiyet (zilyetlik) eşyanın teslim alınması ile başlar ve teslim
+edilmesi ile sona erer.
++
+.Sorumluluğun başlaması
+****
+* Eşya doğrudan yükleten tarafından taşıyana teslim ediliyorsa sorumluluk bu
+anda başlar.
+* Eşya yükleten adına veya hesabına hareket eden birisinden teslim alınıyorsa
+sorumluluk bu anda başlar.
+* Yükleme limanında uygulanan düzenlemeler çerçevesinde eşyanın yükleme için
+kendilerine teslimi zorunlu olan makam ya da üçüncü kişilerden teslim
+alınıyorsa sorumluluk bu anda başlar.
+****
++
+.Sorumluluğun sona ermesi
+****
+* Eşya doğrudan gönderilene teslim ediliyorsa sorumluluk bu anda sona erer.
+* Taşıyan boşaltma limanında eşyayı doğrudan gönderilene teslim edemiyorsa;
+eşyanın liman idaresine teslimi söz konusu ise bu teslim ile sorumluluk sona
+erer.
+* Gönderilen eşyayı teslim almaktan kaçınırsa ve taşıyan alacaklı temerrüdü
+hükümleri çerçevesinde eşyayı umumi bir ambara tevdi ederse tevdi zamanı ile
+birlikte sorumluluk sona erer.
+****
+. Taşıyanın ve adamlarının kusursuzluğu ispatlanmamış olmalıdır.
++
+Tazminat talep eden yükle ilgili kişi, taşıyanın veya adamlarının zarara
+kusurlarıyla yol açtığını kanıtlamak zorunda değildir. Taşıyan sorumluluktan
+kurtulmak için kendisinin ve adamlarının kusursuzluğunu ispatlayacaktır.
+
+Taşıyanın veya adamlarının kusurunun diğer bir sebeple birlikte zıya, hasar
+veya teslimdeki gecikmeye yol açması halinde, taşıyan, zıya, hasar ve
+teslimdeki gecikmenin sadece belirtilen kusura bağlanabilen kısmından
+sorumludur. *Böyle bir kısmi sorumluluk için bu hallerin söz konusu kusura
+bağlanamayacak kısmının taşıyanca ispatı gerekir.*
+
+=== TAŞIYANIN SORUMSUZLUK HALLERİ
+
+==== TEKNİK KUSUR VE YANGIN
+
+Zarar, *geminin sevkine* veya *başkaca teknik yönetimine* ilişkin bir hareketin
+veya *yangının* sonucu olduğu takdirde, *taşıyan yalnız kendi kusurundan*
+sorumludur. *Daha çok yükün menfaati gereği alınan önlemler, geminin teknik
+yönetimine dahil sayılmaz.*
+
+Tereddüt halinde zararın, teknik yönetimin sonucu olmadığı kabul edilir.
+
+IMPORTANT: Başlangıçtaki elverişsizlik söz konusu ise taşıyan teknik kusur
+savunmasına dayanamaz.
+
+.Uluslararası Güvenli Yönetim Kodu
+****
+Denizde can ve mal güvenliğinin korunması, birtakım kazaların önlenmesi için
+oluşturulmuş bir sistemdir. Bu sistem çerçevesinde acil durumlarda uygulanması
+gereken prosedür ile birlikte alınması gereken önlemler de belirlenmiştir.
+
+Bu çerçevede taşıyanın güvenli yönetim koduna uygun bir yönetim sistemi
+oluşturup oluşturmadığı, sistem çerçevesinde uygulanması gereken kuralların
+uygulanmasını sağlayıp sağlamadığı şahsi kusurunu gündeme getirir.
+****
+
+==== DENİZDE KURTARMA
+
+Taşıyan, müşterek avarya hali hariç, *denizde can ve eşya kurtarmadan* veya
+*kurtarma teşebbüsünden* ileri gelen zararlardan sorumlu değildir. Teşebbüs,
+sadece eşya kurtarmaya yönelikse, aynı zamanda makul bir hareket tarzı
+oluşturması gerekir.
+
+==== EŞYANIN CİNSİNİN VEYA DEĞERİNİN KASTEN YANLIŞ BİLDİRİLMESİ
+
+Yükle ilgili kişi, eşyanın *cinsi* veya *değeri* hakkında taşıyanı *kasten*
+yanlış bilgilendirmiş ve bu bilgi denizde taşıma senedine geçmişse taşıyan
+sorumluluktan kurtulur.
+
+=== TAŞIYANIN KUSURSUZLUK VE UYGUN İLLİYET BAĞI KARİNELERİNDEN YARARLANDIĞI HALLER
+
+Taşıyan, zararın kanunda sayılan hallerin birinden doğmuş olabileceğini ilk
+bakışta ve ispat kuralları çerçevesinde ortaya koyduğu takdirde, lehine iki
+karine oluşur:
+
+. *Zararın gerçekten bu sebepten ileri geldiği karinesi*
+. *Taşıyan ve adamlarının kusursuz olduğu karinesi*
+
+IMPORTANT: Bunların ikisi de karinedir. Sadece ispat yükü yer değiştirir ve
+aksini ispat yükle ilgiliye düşer.
+
+.. *Denizin tehlike ve kazaları:* Örneğin yükün ıslanmış olması karşısında
+taşıyan yolda karşılaşılan şiddetli ve öngörülemez fırtınayı öne sürebilir ve
+yükün bu yüzden ıslanmış olabileceği savunmasını yapabilir. Kesin ispat
+aranmadığından gemi jurnalinin ve meteoroloji raporlarının sunulması yeterli
+olacaktır.
+.. *Harp olayları, karışıklıklar, ayaklanmalar*
+.. *Yükletenin fiil ve ihmalleri:* Örneğin taşıyan ambalajın yetersizliğini
+ortaya koyabilir ya da yükün üzerine koyulan işaretlerin yetersizliğini ileri
+sürebilir.
+.. *Grev, lokavt ve diğer çalışma engelleri*
+.. *Eşyanın kendine özgü doğal cinsi ve niteliği*
+
+=== BİLDİRİM YÜKÜMLÜLÜĞÜ
+
+Zıya veya hasarın *en geç eşyanın gönderilene teslimi sırasında* taşıyana
+*yazılı* olarak bildirilmesi şarttır. Zıya veya hasar haricen belli değilse,
+bildirimin eşyanın *gönderilene teslimi tarihinden itibaren* aralıksız olarak
+hesaplanacak *üç gün* içinde gönderilmesi yeterlidir.
+
+Süresi içinde yapılmayan bildirimin sonuçlarına gönderilen katlanır. Bu halde
+ispat yükü yer değiştirir ve olayları aydınlatma yükümlülüğü bildirim yapmayan
+gönderilene geçer. İspat yükü yer değiştirdiğinde taşıyan lehine iki karine
+oluşur:
+
+. *Eşyanın denizde taşıma senedinde olduğu gibi teslim edildiği*
+. *Zararın taşıyanın sorumlu olmadığı bir sebepten ileri geldiği*
+
+Eşyanın teslimindeki gecikmenin, gönderilen tarafından, onun *kendisine teslimi
+tarihinden itibaren* aralıksız olarak hesaplanacak *altmış gün içinde* taşıyana
+*yazılı* olarak bildirilmesi şarttır. Süresinde bildirim yapılmayan gecikme
+zararları için tazminat ödenmez.
+
+Eşya, fiili taşıyan tarafından teslim edilmişse, kendisine yapılan her bildirim
+taşıyana yapılmış gibi hüküm ifade eder. Kaptan ve sorumlu gemi zabiti dahil
+olmak üzere, taşıyan veya fiili taşıyan ad ve hesabına hareket eden her kişiye
+yapılan bildirim, taşıyana veya fiili taşıyana yapılmış sayılır.
+
+NOTE: Bildirim sonrasında tazminat talebi de 1 yıllık hak düşürücü süre
+içerisinde ileri sürülmelidir.
+
+=== TAŞIYAN VE ADAMLARININ AKİT DIŞI SORUMLULUĞU
+
+Taşıyanın sorumluluktan kurtulması halleri ile sorumluluk sınırlandırılmasına
+ilişkin hükümler, navlun sözleşmesine konu olan eşyanın zıya, hasar veya geç
+teslimi yüzünden, taşıyan aleyhine, haksız fiile veya diğer bir sebebe
+dayanılarak açılacak bütün davalarda uygulanır.
+
+Böyle bir dava, taşıyanın adamlarından biri aleyhine açılırsa, *görevi ve
+yetkisi sınırları içinde hareket ettiğini ispat etmek kaydıyla*, o da,
+taşıyanın sorumluluktan kurtulması halleri ile sorumluluğu sınırlandırma
+hakkından yararlanabilir.
+
+Taşıyan ile onun adamlarından istenebilecek olan tazminat miktarlarının
+*toplamı*, kanunda öngörülen sorumluluk sınırını aşamaz.
