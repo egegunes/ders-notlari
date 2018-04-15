@@ -1,5 +1,5 @@
 :toc:
-:toc-title: CMK
+:toc-title: CEZA MUHAKEMESİ
 :icons: font
 
 == GENEL SÜREÇ
@@ -1887,6 +1887,39 @@ halinde çözüm yapılabilmesi ve gerekli kopyaların alınabilmesi için, bu a
 gereçlere el konulabilir. Şifrenin çözümünün yapılması ve gerekli kopyaların
 alınması halinde, elkonulan cihazlar gecikme olmaksızın iade edilir.
 
+=== KORUMA TEDBİRLERİ NEDENİYLE TAZMİNAT
+
+Suç soruşturması ve kovuşturması sırasında;
+
+.. Kanunlarda belirtilen koşullar dışında yakalanan, tutuklanan veya
+tutukluluğunun devamına karar verilen,
+.. Kanuni gözaltı süresi içinde hakim önüne çıkarılmayan,
+.. Kanuni hakları hatırlatılmadan veya hatırlatılan haklarından yararlanma
+isteği yerine getirilmeden tutuklanan,
+.. Kanuna uygun olarak tutuklandığı halde makul sürede yargılama mercii
+huzuruna çıkarılmayan ve bu süre içinde hakkında hüküm verilmeyen,
+.. Kanuna uygun olarak yakalandıktan veya tutuklandıktan sonra haklarında
+kovuşturmaya yer olmadığına veya beraatlerine karar verilen,
+.. Mahkum olup da gözaltı ve tutuklulukta geçirdiği süreleri, hükümlülük
+sürelerinden fazla olan,
+.. Yakalama ve tutuklama nedenleri ve haklarındaki suçlamalar kendilerine,
+yazıyla veya bunun hemen olanaklı bulunmadığı hallerde sözle açıklanmayan,
+.. Yakalanmaları veya tutuklanmaları yakınlarına bildirilmeyen,
+.. Eşyasına veya diğer malvarlığı değerlerine, koşulları oluşmadığı halde
+elkonulan veya korunması için gerekli tedbirler alınmayan ya da eşyası veya
+diğer malvarlığı değerleri amaç dışı kullanılan veya zamanında geri verilmeyen,
+.. Yakalama veya tutuklama işlemine karşı kanunda öngörülen başvuru
+imkanlarından yararlandırılmayan
+
+kişiler, *maddi* ve *manevi* her türlü zararlarını, devletten isteyebilirler.
+
+Karar veya hükümlerin kesinleştiğinin ilgilisine tebliğinden itibaren *üç ay*
+ve her halde karar veya hükümlerinin kesinleşme tarihini izleyen *bir yıl*
+içinde tazminat isteminde bulunulabilir.
+
+Kararı veren hakim bakımından *görevi kötüye kullanma* tespit edildiği takdirde
+tazminat hakime rücu edilecektir.
+
 == GİZLİ SORUŞTURMA TEDBİRLERİ
 
 === TELEKOMÜNİKASYONUN DENETLENMESİ
@@ -2015,6 +2048,358 @@ süreler verilebilir; ancak sürelerin toplamı *üç ayı geçemez*.
 
 == BEDEN MUAYENESİ
 
-Bir suça ilişkin delil elde etmek için *şüpheli* veya *sanık* üzerinde iç beden
-muayenesi yapılabilmesine ya da vücuttan kan veya benzeri biyolojik örneklerle
-saç, tükürük
+Bir suça ilişkin delil elde etmek için *şüpheli* veya *sanık* üzerinde *iç beden
+muayenesi yapılabilmesine ya da vücuttan kan veya benzeri biyolojik örnekler
+alınabilmesine*; Cumhuriyet savcısı veya mağdurun istemiyle ya da re'sen hakim
+veya mahkeme, gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısı
+tarafından karar verilebilir.
+
+Cumhuriyet savcısının kararı, 24 saat içinde hakim veya mahkemenin onayına
+sunulur. Hakim veya mahkeme, 24 saat içinde karar verir. Onaylanmayan kararlar
+hükümsüz kalır ve elde edilen deliller kullanılamaz.
+
+*Şüpheli* veya *sanık* üzerinde üzerinde *dış beden muayenesi* Cumhuriyet
+savcısı ile, emrindeki adli kolluk görevlileri veya kovuşturma makamlarının
+talebiyle yapılabilir.
+
+IMPORTANT: Beden muayenesi bir tabip tarafından gerçekleştirilmelidir.
+
+Dış beden muayenesi bütün suçlar bakımından uygulanabilirken, iç beden
+muayenesi ve vücuttan örnek alma ancak *üst sınırı iki yıldan fazla* suçlar
+için uygulanabilir.
+
+İç ve dış beden muayenesi delil elde etmek için gerekli olması halinde, mağdur
+için de uygulanabilir. Bunun için de Cumhuriyet savcısının istemiyle ya da
+re'sen hakim veya mahkeme, gecikmesinde sakınca bulunan hallerde Cumhuriyet
+savcısı tarafından karar verilmesi gereklidir.
+
+Mağdurun rızası halinde herhangi bir karara ihtiyaç yoktur. Mağdur çocuk veya
+akıl hastası ise vücuttan örnek alınmasına yönelik karara rıza gösterecek olan
+kişi kanuni temsilcidir. Kanuni temsilci şüpheli veya sanık ise rıza hakim
+tarafından verilir.
+
+NOTE: Tanıklıktan çekinebilme hakkına sahip olan kişiler vücuttan örnek alma
+veya beden muayenesinden kaçınabilirler.
+
+== FİZİK KİMLİĞİNİN TESPİTİ
+
+*Üst sınırı iki yıl veya daha fazla hapis cezası gerektiren bir suçtan dolayı
+şüpheli veya sanığın,* kimliğinin teşhisi için gerekli olması halinde,
+*Cumhuriyet savcısının emriyle* fotoğrafı, beden ölçüleri, parmak ve avuç izi,
+sesi ve görüntüleri kayda alınarak, soruşturma ve kovuşturma işlemlerine
+ilişkin dosyaya konulur.
+
+Kovuşturmaya yer olmadığı kararına itiraz süresinin dolması, itirazın reddi,
+beraat veya ceza verilmesine yer olmadığı kararı verilip kesinleşmesi halinde
+söz konusu kayıtlar Cumhuriyet savcısının huzurunda derhal yok edilir.
+
+== DELİL
+
+Maddi gerçeği ortaya çıkarmaya çalışırken, basit şüpheden başlayıp mahkumiyet
+noktasına getirilinceye kadar dosyada yer alan bilgi, belge, görüntü vs. her
+türlü unsur delildir. *Her şey delil olabilir*. Ceza muhakemesinde temel
+prensip *delil serbestisidir*. Bunun tek istisnası duruşmada olan olayların
+sadece duruşma tutanağı ile ispat edilebilmesidir.
+
+CAUTION: Delil serbestisinin geçerli olması kanuna aykırı elde edilmiş
+delillerin ispat vasıtası olarak kullanabileceği anlamına gelmez.
+
+Delillerin birtakım özelliklere sahip olması şarttır:
+
+. Hukuka uygun olarak elde edilmiş olması
+. Somut olayla bağlantılı olması
+. Beş duyu organıyla teşhis edilebiliyor olması
+. İlme, akla ve fenne uygun olması
+
+=== BEYAN DELİLLERİ
+
+==== ŞÜPHELİ/SANIK BEYANI
+
+Şüpheli veya sanık beyanı iki türlü ortaya çıkabilir: *İfade* ile ya da *sorgu*
+ile. Savcı denetiminde kolluk tarafından beyan alınıyorsa *ifade*, hakim veya
+mahkeme önünde beyan alınıyorsa *sorgu* söz konusu olur.
+
+IMPORTANT: Kolluk ifadeyi sadece bir kere alabilir. Bir soruşturmaya ilişkin
+ikinci kez ifade alınması gerekiyorsa ikinci ifade ancak Cumhuriyet savcısı
+tarafından alınabilir.
+
+Zorunlu müdafiliğin öngörüldüğü durumlarda ifadenin geçerli olması için müdafi
+bulundurulması şarttır. İhtiyari müdafilik söz konusu ise müdafi olmadan da
+ifade alınabilir. Ancak bu müdafi olmadan alınan bu ifadenin yargılamada temel
+alınabilmesi için mahkeme huzurunda kabul edilmesi gerekir.
+
+Şüpheli veya sanık ifadeye çağrıldığında gelmez ise hakkında *zorla getirme*
+kararı verilebilir.
+
+Şüpheli veya sanık olaya ilişkin bir beyanda bulunmamak konusunda özgürdür.
+Bunun tek istisnası *kişinin kimliği ile alakalı sorulardır*.
+
+İfade alma ve sorgu sırasında, işkence yapılması, iradesini ortadan kaldırmaya
+yönelik ilaç verilmesi, aç veya susuz bırakılması, uykusuz bırakılması hukuka
+aykırıdır. Yine ifadeyi alan kişinin vaatlerde bulunarak şüpheli veya sanığı
+aldatması da ifadeyi hukuka aykırı hale getirir.
+
+==== TANIK BEYANI
+
+Tanık beyanı, olaya ilişkin *beş duyu organıyla bilgi sahibi olan kişinin*,
+olayın gerçekleşmesine yönelik verilen beyanlarıdır.
+
+NOTE: Tanık kendisini anlatabilecek pozisyonda olduğu sürece, yaşı, akli dengesi vs.
+önem arz etmez.
+
+Prensip olarak sanık tanık olamaz. Ancak birden fazla sanığın olduğu dosyalarda
+bir sanığın diğer sanığa yönelik tanık olabileceği kanunda düzenlenmiştir.
+
+===== TANIĞIN YÜKÜMLÜLÜKLERİ
+
+Tanığın ilk yükümlülüğü *yargılamaya katılmaktır*.
+
+Kural, tanığın *çağrı üzerine* gelmesidir. Tanık çağrı üzerine gelmediğinde
+zorla getirilebilir, ancak bunun için kişinin gelmediği takdirde zorla
+getirileceği çağrıda belirtilmiş olmalıdır.
+
+Usulüne uygun olarak çağrılıp da mazeretini bildirmeksizin gelmeyen tanıklar
+*zorla getirilir* ve *gelmemelerinin sebep olduğu giderler* takdir edilerek,
+kamu alacaklarının tahsili usulüne göre ödettirilir.
+
+NOTE: Yargı mercii zorunluluk görüyorsa veya tutukluluğa dair bir husus varsa
+tanığa çağrı yapılmadan doğrudan zorla getirilebilir.
+
+CAUTION: Tanık kolluk tarafından çağrılmışsa, gelmediği takdirde zorla
+getirilemez. Zorla getirilebilmesi için çağrının, Cumhuriyet savcısı, hakim
+veya mahkeme tarafından yapılmış olması gerekir.
+
+Kolluğun, olayı görenlerin veya olay mahallinde bulunanların bilgisine
+başvurması tanıklık değil bilgi alma işlemidir.
+
+Tanığın ikinci yükümlülüğü *beyanda bulunmaktır*. Tanığın susma hakkı yoktur.
+Aynı şekilde tanık yalan söyleyemez. Tanığın yalan söylemesi suçtur.
+
+===== TANIKLIKTAN ÇEKİNME
+
+Bazı kişiler yakınlık ilişkisi bağlamında _nemo tenatur ilkesi_ bağlamında
+tanıklıktan çekinme hakkına sahiptir:
+
+.. Şüpheli veya sanığın nişanlısı
+.. Evlilik bağı kalmasa bile şüpheli veya sanığın eşi
+.. Şüpheli veya sanığın kan hısımlığından veya kayın hısımlığından üstsoy veya
+altsoyu
+.. Şüpheli veya sanığın üçüncü derece dahil kan veya ikinci derece dahil kayın
+hısımları
+.. Şüpheli veya sanıkla aralarında evlatlık bağı bulunanlar
+
+*Tanıklıktan çekinebilecek olan kimselere, dinlenmeden önce tanıklıktan
+çekinebilecekleri bildirilir. Bu kimseler, dinlenirken de her zaman tanıklıktan
+çekinebilirler.*
+
+NOTE: Tanıklıktan çekinme hakkına sahip kişiler, bu haklarını kullanmadıkları
+takdirde yeminsiz olarak beyanda bulunabilir.
+
+*Meslekleri ve sürekli uğraşları sebebiyle tanıklıktan çekinebilecekler* ile
+çekinme konu ve koşulları şunlardır:
+
+.. *Avukatlar veya stajyerleri veya yardımcılarının*, bu sıfatları dolasıyla
+veya yüklendikleri yargı görevleri sebebiyle öğrendikleri bilgiler
+.. *Hekimler, diş hekimleri, eczacılar, ebeler ve bunların yardımcıları* ve
+diğer bütün tıp meslek veya sanatları mensuplarının, bu sıfatları dolasıyla
+hastaları ve bunların yakınları hakkında öğrendikleri bilgiler
+.. *Mali işlerde görevlendirilmiş müşavirler ve noterlerin* bu sıfatları
+dolayısıyla hizmet verdikleri kişiler hakkında öğrendikleri bilgiler
+
+IMPORTANT: Şüpheli veya sanık, mesleği dolayısıyla tanıklıktan çekinebilecek
+kişiye tanıklıktan çekinmemesini söylerse bu kişi tanıklıktan çekinemez. Ancak
+bu hüküm *avukatlar bakımından geçerli değildir*.
+
+Tanıklıktan çekinme ancak mahkeme huzurunda yapılabilir. Tanıklıktan
+çekinebilecek olsa da her halükarda çağrıldığında gitmek zorundadır.
+
+Hakimin veya mahkemenin, tanıklıktan çekinebilecek kişiye bu hakkını
+hatırlatması zorunludur. Aksi takdirde işlem hukuka aykırı olur.
+
+.Devlet sırrı
+****
+Kişi sahip olduğu bilginin devlet sırrı olduğu gerekçesiyle tanıklıktan
+çekinebilir. Ancak bilginin devlet sırrı olup olmadığı kararı her şekilde
+mahkeme tarafından verilmek zorundadır.
+
+Mahkeme zabıt katibi olmaksızın kişiyi çağırır ve dinler. Bilginin devlet sırrı
+olmadığı kanaatine varırsa kişiyi tanık olarak dinleyebilir.
+
+Bilginin devlet sırrı olduğuna karar verilirse ve yargılama konusu suçun
+cezası *beş yıl veya daha fazla* ise, sadece mahkemeyi maddi gerçeğe götürecek
+kadar bilgi dosyaya konulur. Cezası beş yıldan az suçlarda ise hiçbir şekilde
+devlet sırrı dosyaya giremez.
+****
+
+TIP: Süreli yayın sahibi, sorumlu müdür ve eser sahibi, bilgi ve belge dahil
+her türlü haber kaynaklarını açıklamaya ve bu konuda tanıklık yapmaya
+zorlanamaz.
+
+Bir kimse, *kendisinin ceza sorumluluğunu doğurabilecek sorular bakımından*
+cevap vermeme hakkına sahiptir.
+
+===== YEMİN
+
+Tanıklar, tanıklıktan önce ayrı ayrı yemin ederler. Gerektiğinde veya bir
+kimsenin tanık sıfatıyla dinlenilmesinin uygun olup olmadığında tereddüt varsa
+yemin, tanıklıktan sonraya bırakılabilir.
+
+Aşağıdaki kimseler yeminsiz dinlenir:
+
+.. Dinlenme sıras-ında onbeş yaşını doldurmamış olanlar
+.. Ayırt etme gücüne sahip olmamaları nedeniyle yeminin niteliği ve önemini
+kavrayamayanlar
+.. Soruşturma veya kovuşturma konusu suçlara iştirakten veya bu suçlar
+nedeniyle suçluyu kayırmaktan ya da suç delillerini yok etme, gizleme veya
+değiştirmekten şüpheli, sanık veya hükümlü olanlar
+
+NOTE: Tanıklıktan çekinme hakkına sahip kişiler, bu haklarını kullanmadıkları
+takdirde yeminsiz olarak beyanda bulunabilir.
+
+===== TANIĞIN DİNLENMESİ
+
+Soruşturma evresinde tanık, kural olarak *savcı tarafından* ve *tek başına*
+dinlenir. Kovuşturma evresinde ise tanık, sanığın sorgusundan sonra dinlenir.
+Her tanık, *ayrı ayrı* ve *sonraki tanıklar yanında bulunmaksızın* dinlenir.
+
+Sanığın yüzüne karşı bir tanığın gerçeği söylemeyeceğinden endişe edilirse,
+mahkeme, dinleme sırasında sanığın mahkeme salonundan çıkarılmasına karar
+verebilir.
+
+Tanığa;
+
+.. Dinlenmeden önce, gerçeği söylemesinin önemi,
+.. Gerçeği söylememesi halinde yalan tanıklık suçundan dolayı
+cezalandırılacağı,
+.. Doğruyu söyleyeceği hususunda yemin edeceği,
+.. Duruşmada mahkeme başkanı veya hakimin açık izni olmadan mahkeme salonunu
+terk edemeyeceği
+
+anlatılır.
+
+Tanık beyanının alınması sırasında görüntü ve ses _kaydedilebilir_. Bu
+mahkemenin takdiridir. Mağdur çocukların tanık sıfatıyla dinlendiği durumlarda
+*kayıt alınması zorunludur*. Duruşmaya getirilmesi mümkün olmayan ve tanıklığı
+maddi gerçeğin ortaya çıkması bakımından zorunlu kişiler için de kayıt
+alınması zorunludur.
+
+TIP: Bu kayıtlar sadece ceza muhakemesinde ispat vasıtası olarak
+kullanılabilir. Hukuk davasında vs. kullanılamaz.
+
+===== TANIĞIN KORUNMASI
+
+Tanığın yaptığı açıklama sebebiyle kendisinin veya yakınlarının hayatı
+bakımından ağır bir tehlike ortaya çıkacaksa kişinin kimliği saklanır.
+Duruşmaya getirilmez.
+
+NOTE: Gizli tanık sadece örgüt faaliyeti çerçevesinde işlenen suçlar bakımından
+geçerlidir.
+
+=== BELGE DELİLLERİ
+
+Belge delilleri dörde ayrılır:
+
+. Görsel materyaller
+. Ses kayıtları
+. Yazılar
+. İrade açıklaması içeren yazılı belgeler
+
+Bunların tamamı elde edilmesi bakımından koruma tedbirlerine ilişkin
+hükümlerden hangi rejime tabi iseler o biçimde elde edilirler.
+
+*Her delil, kural olarak, aslıyla ortaya konulur*. Belgenin duruşmada sunulması
+icap eder. Görsel materyal ise, duruşmada gösterilmek ve içeriği tutanağa
+aktarılmak zorundadır. Ses kaydı ise, duruşmada dinlenmek zorundadır.
+
+=== BELİRTİ DELİLLERİ
+
+Kişinin irade açıklamasını göstermeyen ancak bir bütünün içerisinde anlam
+ifade eden deliller belirti delilleridir. Örneğin suç mahallinde bulunan ayak
+izi bir belirti delilidir.
+
+=== YER GÖSTERME
+
+İşlediği fiile ilişkin açıklamada bulunan şüpheli veya sanığın *olay yerinde
+tekrar dinlenmesi* işlemi yer göstermedir. Yer gösterme bir delil elde etme
+işlemidir.
+
+=== DELİLLERİN DEĞERLENDİRİLMESİ
+
+Delil değerlendirme faaliyeti kovuşturma evresinde *kolektif olarak*
+gerçekleştirilir. _Delile erişimin kısıtlanması_ savunma hakkının
+kısıtlanmasıdır ve mutlak bozma sebebidir.
+
+==== KEŞİF
+
+Keşif bir kovuşturma işlemi ve bir duruşma işlemidir. Kural olarak keşif bütün
+süjelerin katılımı ile yapılır.
+
+Bir tanığın beyanının olay yerinde alınması ihtiyacı ortaya çıkarsa veya olay
+yerinde bulunan bir izin incelenmesi ihtiyacı ortaya çıkarsa bu işlem keşif
+yoluyla gerçekleştirilir.
+
+Bütün süjelerin söz konusu keşiften haberdar edilmeleri ve keşfe katılmalarının
+sağlanması icap eder. Sanık veya şüpheli ise zorunlu olmadığı takdirde keşfe
+iştirak etmez.
+
+Gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısı da keşif yapabilir.
+
+==== BİLİRKİŞİ
+
+Bilirkişi incelemesi bir delil değerlendirme vasıtasıdır. Dolayısıyla bilirkişi
+raporu bir delil değildir, bir delili konu alır.
+
+Bilirkişi incelemesi, *ancak çözümü teknik bilgiyi gerektiren sorunlar veya
+konular* bakımından söz konusu olur.
+
+Soruşturma evresinde Cumhuriyet savcısı veya hakim, kovuşturma evresinde ise
+mahkeme tarafından bilirkişi görevlendirilebilir.
+
+Bilirkişiler, her sene bölge adliye mahkemeleri tarafından düzenlenen listeden
+belirlenir. Liste dışı görevlendirme ancak çözüme ilişkin uzman başka bir bölge
+adliye mahkemesinin listesinde ise ya da zorunluluk halinde gerekçenin
+belirtilmesi koşuluyla yapılabilir.
+
+Bilirkişi kural olarak tanığın tabi olduğu hükümlere tabidir. Davet, davete
+uymama, zorla getirme vs. bakımından aynı hükümler uygulanır. Aynı şekilde
+bilirkişi, tanığın çekinme nedenlerini gerekçe göstererek bilirkişilikten
+çekinebilir.
+
+Bir bilirkişinin tarafsızlığının şüpheye düştüğü durumlarda ya da hakimin
+yasaklılık nedenlerinden birisinin bilirkişi bakımından söz konusu olduğu
+durumlarda bilirkişinin reddi kurumu gündeme gelir. Kovuşturma evresinde ret
+konusunda karar verecek mercii mahkemedir. Soruşturma evresinde ise Cumhuriyet
+savcısı karar verecektir. Savcı ret talebini kabul ediyorsa başka bir işleme
+gerek yoktur, talebi reddediyorsa bilirkişinin reddi talebi Sulh ceza hakimine
+gönderilmek zorundadır.
+
+NOTE: Kamu görevlileri, çalıştıkları kurumların taraf olduğu davalarda
+bilirkişilik yapamaz.
+
+Bilirkişi delil toplamak üzere görevlendirilemez. Ancak Cumhuriyet savcısı ya
+da mahkeme şüpheli veya sanık dışında başka kişi ve makamlarla görüşmek üzere
+bilirkişiye yetki verebilir. Benzer şekilde bilirkişiye başka uzmanlardan
+görüş almak hususunda sınırlı bir yetki de verilebilir
+
+Bilirkişi incelemesinin *üç ay içinde bitirilmesi* zorunludur.
+
+Bazı bilirkişi incelemeleri özel hükümlere tabi tutulmuştur:
+
+* *Moleküler genetik inceleme:* Ancak hakim kararıyla gerçekleştirilebilir.
+İncelemeyi yapacak bilirkişinin, soruşturma veya kovuşturma organı dışında
+ayrı bir kurum olması gerekir.
+* *Otopsi:* Kural olarak savcının katılımıyla bir patolog, bir adli tıp ve bir
+de başka alana mensup uzman tarafından ölünün bedeninin araştırılması suretiyle
+gerçekleştilir. Zorunluluk halinde, uzmanlık alanı önem taşımaksızın tek bir
+hekimle gerçekleştilir. *Ölümden önce kişiyi tedavi etmiş hekim, otopsiyi
+yapamaz*.
+
+==== TEŞHİS
+
+Teşhis, *soruşturma evresinde* şüphelinin gerçekte aranan kişi olup olmadığının
+belirlenmesi için uygulanır. Teşhise Cumhuriyet savcısı karar verir.
+
+Teşhis işlemi, en az dört birbirine benzeyen kişi arasından ve en az iki defa
+tekrarlanmak suretiyle gerçekleştirilir.
+
+Fotoğraf üzerinden teşhis de mümkündür.
