@@ -2484,3 +2484,122 @@ hakkından yararlanabilir.
 
 Taşıyan ile onun adamlarından istenebilecek olan tazminat miktarlarının
 *toplamı*, kanunda öngörülen sorumluluk sınırını aşamaz.
+
+=== TAŞIYANIN SORUMLULUK SINIRLARI
+
+Eşya zıya veya hasara uğradığında ilk olarak talep edilecek tazminat kalemi
+**eşyanın değeri**dir. Tam zıya söz konusu ise malın değerinin tamamı kadar
+zarar ortaya çıkacaktır. Hasar söz konusu ise eşyanın hasarsız hali ile hasarlı
+hali arasındaki değer farkı kadar zarar ortaya çıkacaktır.
+
+Taşıyanın ödemesi gereken tazminatın toplamı, *eşyanın navlun sözleşmesine uygun
+olarak gemiden boşaltıldığı veya boşaltılması gereken yerdeki ve tarihteki
+değerine* göre hesaplanır.
+
+Eşyanın değeri, *borsa fiyatına* veya böyle bir fiyat yoksa, *cari piyasa
+fiyatına* veya her ikisinin de yokluğu halinde *aynı nitelikte ve kalitede
+eşyanın olağan değerine* göre belirlenir.
+
+Taşıyandan bütün zararlar talep edebilir ancak taşıyanın sorumluluğu için bir
+üst sınır öngörülmüştür.
+
+Üst sınır hesaplanırken;
+
+. Koli veya ünite başına 666.67 özel çekme hakkı hesabı yapılır.
++
+Koli olarak kastedilen eşyanın herhangi bir şekilde paketlenmiş olmasıdır.
+Dökme yüklerde ise uygulamada mutat olarak kullanılan birim ne ise (kilogram,
+metreküp vs.) onunla 666.67 özel çekme hakkı çarpılır.
++
+TIP: Konişmentoda sadece konteyner sayısı belirtilmişse sorumluluk sınırının
+belirlenmesi bu dikkate alınır. Konteyner içindeki paket sayısı belirtilmişse
+paket sayısı dikkate alınır.
++
+Özel çekme hakkı, *fiili ödeme günündeki* veya taraflarca kararlaştırılan diğer
+bir tarihteki, Merkez Bankası tarafından belirlenen değerine göre Türk Lirasına
+çevrilir.
+. Zıya veya hasara uğrayan eşyanın ağırlığı üzerinden bir hesap yapılır.
+
+Bu hesaplamalar sonucundan *hangisi daha yüksek ise* üst sınır ona göre
+belirlenir.
+
+Yükleten yükün cins ve değerini (ikisini birlikte) yüklemeden önce taşıyana
+bildirir ve bu da deniz taşıma senedine geçilirse sorumluluk sınırı uygulanmaz
+ve eşyanın bildirilen değeri esas alınır.
+
+Geç teslimde üst sınır belirlenirken farklı bir sistem izlenir: *Taşıyanın geç
+teslim dolayısıyla ödemekle yükümlü olduğu maksimum tazminat, navlun sözleşmesi
+dolayısıyla elde edeceği navlunla sınırlıdır*.
+
+NOTE: Navlun sözleşmesi uyarınca taşınacak eşyanın bir kısmı zayi olur, bir
+kısmı da geç teslim edilirse üst sınır eşya tam zayi olmuş gibi hesaplanır.
+
+Taşıyan *şahsi kastı* veya *pervasızca hareketi* ile zarara sebebiyet vermişse
+sınırlı sorumluluktan yararlanamaz. Kaptanın kastı veya gemi adamının
+pervasızca hareketi taşıyanın sınırlı sorumluluktan yararlanma hakkını
+etkilemez.
+
+CAUTION: Taşıyanı, genel veya özel bir yetkiye dayanarak temsil eden bir kişi
+varsa bu kişinin kastı veya pervasızca hareketi taşıyana izafe edilebilir.
+
+Eşyanın zıyaı veya hasarı ile geç tesliminden dolayı taşıyana karşı her türlü
+tazminat istem hakkı, *bir yıl içinde* yargı yoluna başvurulmadığı takdirde
+düşer. Bu süre taşıyanın eşyayı veya bir kısmını teslim ettiği veya eşya hiç
+teslim edilmemişse, onun teslim edilmesinin gerektiği tarihten itibaren başlar.
+
+Tazminat isteminin muhatabı, zarar göreni *dava açma süresini kaçırmasına yol
+açacak şekilde oyalarsa*, hak düşürücü sürenin geçmiş olduğu itirazından
+yararlanamaz. Bu takdirde, dava açma süresi, *zarar görenin, bu durumu
+öğrendiği tarihten itibaren başlar.*
+
+=== EMREDİCİ HÜKÜMLER
+
+IMPORTANT: Taşıyanın sorumluluğuna ilişkin bütün düzenlemeler emredicidir, aksi
+kararlaştıramaz, kararlaştırılmışsa geçersizdir.
+
+Yolculuk çarteri sözleşmesine dair düzenlemer kural olarak emredici değildir.
+Ancak yolculuk çarteri sözleşmesine dayanılarak konişmento düzenlenirse ve bu
+konişmento üçüncü bir kişiye devredilirse, konişmento hamili ile taşıyan
+arasında emredici hükümler uygulanır.
+
+Kırkambar sözleşmesindeki hükümler her zaman emredicidir.
+
+Hükümlerin emredici olmasının istisnaları:
+
+* Konişmentonun hiç düzenlenmediği ya da düzenlenip üçüncü kişiye
+devredilmediği yolculuk çarteri sözleşmesi
+* Taşımanın veya taşınmakta olan yükün özelliği dolayısıyla söz konusu olan
+haller
++
+NOTE: Bu özel haller taşıma senedine yazılmalıdır. Ayrıca konişmento
+düzenlenmişse "emre değildir" kaydı yer almalıdır.
+
+** Canlı hayvan taşınması
+** Yükleten yapılan anlaşma sonucu eşyanın güvertede taşınması ve bu hususun
+deniz taşıma senedine geçirilmesi
+** Eşyanın, taşıyanın hakimiyetinde olduğu ancak gemiye yüklenmesinden önceki ve
+boşaltılmasından sonraki safha
+** Mutat ticari olmayan taşımalar
+
+* Müşterek avarya anlaşmaları
+
+=== FİİLİ TAŞIYANIN SORUMLULUĞU
+
+Akdi taşıyan, taşımanın tamamını veya bir kısmını başka bir taşıyana
+devrediyorsa bu taşıyana *fiili taşıyan* denir. Akdi taşıyan her halde
+taşımanın tamamından sorumludur. Fiili taşıyan da taşımayı fiilen
+gerçekleştirdiği kısım için sorumlu olacaktır.
+
+NOTE: Akdi taşıyan, navlun sözleşmesinde sorumluluğunu genişleten bir anlaşma
+yapmışsa bu husus fiili taşıyana uygulanmaz.
+
+Eğer zarardan hem akdi hem fiili taşıyan birlikte sorumlu tutulabiliyorsa; akdi
+taşıyan ile fiili taşıyan müteselsilen sorumludur.
+
+Navlun sözleşmesinde taşımanın belirli bir kısmının belirli bir fiili taşıyan
+tarafından gerçekleştirileceği öngörülmüşse, akdi taşıyanın sorumluluğunu
+daraltan veya kaldıran anlaşma yapılabilir.
+
+CAUTION: Taşımanın belirli kısmının belirli bir fiili taşıyan tarafından
+gerçekleştirileceği öngörülmüş olsa da, fiili taşıyan aleyhine Türk
+mahkemelerinde dava açılamıyorsa akdi taşıyanın sorumluluğu devam eder.
