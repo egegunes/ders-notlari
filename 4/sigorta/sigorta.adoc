@@ -809,11 +809,9 @@ borcu, poliçenin teslimi ile başlar.
 * *Materyal süre*: Sigortacının himaye sağlama borcunun başlayıp devam ettiği
 süredir. Himaye sağlama borcu kural olarak ilk primin ödenmesiyle başlar.
 
-== SİGORTA SÖZLEŞMESİNDE TARAFLARIN HAK VE BORÇLARI
+== SİGORTA ETTİRENİN YÜKÜMLÜLÜKLERİ
 
-=== SİGORTA ETTİRENİN YÜKÜMLÜLÜKLERİ
-
-==== PRİM ÖDEME BORCU
+=== PRİM ÖDEME BORCU
 
 Sigorta ettiren, sözleşmeyle kararlaştırılan primi ödemekle yükümlüdür. *Aksine
 sözleşme yoksa, sigorta primi peşin ödenir.*
@@ -878,3 +876,102 @@ hesaplanan değerdir.
 ödenmiş olan sigorta sözleşmelerinde, sigorta ettirenin istemesi halinde
 sigortacı, istem anındaki genel kabul görmüş aktüerya kurallarına uygun olarak
 hesaplanan değer üzerinden sigortalıya ödünç para vermek zorundadır.
+
+=== SÖZLEŞME ÖNCESİ İHBAR YÜKÜMLÜLÜĞÜ
+
+Sigorta ettiren sözleşmenin yapılması sırasında bildiği veya bilmesi gereken
+tüm önemli hususları sigortacıya bildirmekle yükümlüdür. Sigortacıya
+bildirilmeyen, eksik veya yanlış bildirilen hususlar, *sözleşmenin
+yapılmamasını veya değişik şartlarda yapılmasını gerektirecek nitelikte ise,
+önemli kabul edilir.* Sigortacı tarafından yazılı veya sözlü olarak sorulan
+hususlar, aksi ispat edilinceye kadar önemli sayılır.
+
+NOTE: Sözleşmeden haberdar olmaları şartıyla, sigortalı, temsilci ve lehtar da
+ihbar yükümlüsüdür.
+
+İhbar sigortacıya ya da acentesine yapılacaktır. Bu bakımdan acentenin tipi
+önem taşımaz.
+
+İhbar yükümlülüğü yerine getirildikten sonra sözleşmenin kurulması anına kadar
+bir değişiklik meydana gelirse bunun da ayrıca ihbar edilmesi gerekir.
+
+Sigortacı sigorta ettirene, cevaplaması için sorular içeren bir liste vermişse,
+sunulan listede yer alan sorular dışında kalan hususlara ilişkin olarak sigorta
+ettirene hiçbir sorumluluk yüklenemez; meğer ki, sigorta ettiren önemli bir
+hususu kötüniyetle saklamış olsun.
+
+Sigortacı için önemli olan bir husus bildirilmemiş veya yanlış bildirilmiş
+olduğu takdirde, sigortacı öğrenme tarihinden itibaren 15 gün içinde
+sözleşmeden cayabilir ya da prim farkı isteyebilir. İstenilen prim farkının on
+gün içinde kabul edilmemesi halinde, sözleşmeden cayılmış kabul olunur.
+
+Cayma halinde sözleşme geçmişe etkili olarak sona verer ve iki taraf da
+aldıklarını iade eder. Ancak sigorta ettiren, ihbar yükümlülüğünü kasten ihlal
+etmişse sigortacı sigorta ettirenin ödediği primleri iade etmek zorunda
+değildir.
+
+Rizikonun gerçekleşmesinden sonra, sigorta ettirenin ihmali ile beyan
+yükümlülüğü ihmal edildiği takdirde, bu ihlal tazminatın veya bedelin miktarına
+ya da rizikonun gerçekleşmesine etki edebilecek nitelikte ise, ihmalin
+derecesine göre tazminattan indirim yapılır. *Sigorta ettirenin kusuru kast
+derecesinde ise beyan yükümlülüğünün ihlali ile gerçekleşen riziko arasında
+bağlantı varsa, sigortacının tazminat veya bedel ödeme borcu ortadan kalkar.*
+
+Cayma hakkı aşağıdaki hallerde kullanılamaz:
+
+.. Cayma hakkının kullanılmasından vazgeçilmişse
+.. Caymaya yol açan ihlale sigortacı sebebiyet vermişse
+.. Sigortacı, sorularından bazıları cevapsız bırakıldığı halde sözleşmeyi
+yapmışsa
+
+=== RİZİKOYU AĞIRLAŞTIRMAMA
+
+Sigorta ettiren, sözleşmenin yapılmasından sonra, sigortacının izni olmadan
+rizikoyu veya mevcut durumu ağırlaştırarak tazminat tutarının artmasını
+etkileyici davranış ve işlemlerde bulunamaz.
+
+Sigorta ettiren rizikoyu ağırlaştırıcı harekette bulunursa derhal, üçüncü kişi
+rizikoyu ağırlaştırıcı harekette bulunursa öğrenmeden itibaren 10 gün içinde
+sigortacıya bildirmek zorundadır.
+
+Sigortacı sözleşmenin süresi içinde, rizikonun gerçekleşmesi veya mevcut
+durumun ağırlaşması ihtimalini ya da sözleşmede riziko ağırlaşması olarak kabul
+edilebilecek olayların varlığını öğrendiği takdirde, bu tarihten itibaren bir
+ay içinde sözleşmeyi *feshedebilir* veya prim farkı isteyebilir. Farkın on gün
+içinde kabul edilmemesi halinde sözleşme feshedilmiş sayılır.
+
+=== RİZİKONUN GERÇEKLEŞMESİ HALİNDE İHBAR YÜKÜMLÜLÜĞÜ
+
+Sigorta ettiren, rizikonun gerçekleştiğini öğrenince durumu gecikmesizin
+sigortacıya bildirir.
+
+Rizikonun gerçekleştiğine ilişkin bildirimin yapılmaması veya geç yapılması,
+ödenecek tazminatta veya bedelde artışa neden olmuşsa, kusurun ağırlığına göre,
+tazminattan veya bedelden indirim yoluna gidilebilir.
+
+=== BİLGİ VERME VE ARAŞTIRMA YAPILMASINA İZİN VERME YÜKÜMLÜLÜĞÜ
+
+Sigorta ettiren, rizikonun gerçekleşmesinden sonra, sözleşme uyarınca veya
+sigortacının istemi üzerine, rizikonun veya tazminatın kapsamının
+belirlenmesinde gerekli ve sigorta ettirenden beklenebilecek her türlü bilgi ve
+belgeyi sigortacıya makul bir süre içinde sağlamak zorundadır. Ayrıca, sigorta
+ettiren, aldığı bilgi ve belgenin niteliğine göre, rizikonun gerçekleştiği veya
+diğer ilgili yerlerde sigortacının inceleme yapmasına izin vermekle yükümlüdür.
+Bu yükümlülüğün ihlal edilmesi sebebiyle ödenecek tutar artarsa, kusurun
+ağırlığına göre tazminattan indirim yapılır.
+
+=== ZARARI ÖNLEME, AZALTMA VE SİGORTACININ RÜCU HAKLARINI KORUMA YÜKÜMLÜLÜĞÜ
+
+Sigorta ettiren, rizikonun gerçekleştiği veya gerçekleşme ihtimalinin yüksek
+olduğu durumlarda, zararın önlenmesi, azaltılması, artmasına engel olunması
+veya sigortacının üçüncü kişilere olan rücu haklarının korunabilmesi için,
+imkanlar ölçüsünde önlemler almakla yükümlüdür. Bu yükümlülüğe aykırılık
+sigortacı aleyhine bir durum yaratmışsa, kusurun ağırlığına göre tazminattan
+indirim yapılır.
+
+Sigortacı, sigorta ettirenin yaptığı makul giderleri, faydasız kalmış olsa
+bile, tazmin etmekle yükümlüdür.
+
+Sigortacı, sigorta ettirenin yaptığı makul giderleri, faydasız kalmış olsa
+bile, tazmin etmekle yükümlüdür. Gerekirse, sigorta ettirenin istemi üzerine,
+gerekli tutarı avans olarak ödemek zorundadır.
