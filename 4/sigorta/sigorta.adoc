@@ -876,6 +876,7 @@ hesaplanan değerdir.
 ödenmiş olan sigorta sözleşmelerinde, sigorta ettirenin istemesi halinde
 sigortacı, istem anındaki genel kabul görmüş aktüerya kurallarına uygun olarak
 hesaplanan değer üzerinden sigortalıya ödünç para vermek zorundadır.
+****
 
 === SÖZLEŞME ÖNCESİ İHBAR YÜKÜMLÜLÜĞÜ
 
