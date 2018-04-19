@@ -1425,3 +1425,108 @@ düşünüyorsa tenkis isteme hakkı vardır.
 
 Mirasçı, kendisine yapılan kazandırmanın tenkisi halinde yüklemenin de
 tenkisini talep edebilir.
+
+== DENKLEŞTİRME
+
+Denkleştirme kurumu, *sağlıkta* kanuni mirasçılara yapılan karşılıksız
+kazandırmaların vefat halinde terekeye dahil edilmesi ve kanuni mirasçılar
+arasında *mirasbırakanın iradesi dışında* oluşacak bir eşitsizliğin
+engellenmesidir.
+
+Yapılan sağlararası kazandırma iade anındaki değeriyle terekeye girer.
+
+Denkleştirme, mirasın paylaşılması sırasında *talep edilmesi* halinde devreye
+girer. Denkleştirmeyi talep hakkı bir alacak hakkıdır.
+
+Denkleştirme sadece kanuni mirasçılar için söz konusudur. Üçüncü kişilere
+yapılan sağlararası kazandırmalar denkleştirmeye tabi değildir.
+
+Kanuna göre miras paylaşımı sırasında her bir mirasçı, terekeyle ilgili
+bilgileri dürüstçe vermelidir.
+
+[%header,cols=2*]
+.Denkleştirme ile tenkisin farkı
+|===
+|*Denkleştirme* |*Tenkis*
+
+|Denkleştirme *kanuni miras payını* korur.
+|Tenkis *saklı payı* korur.
+
+|Tüm *kanuni mirasçılar* denkleştirme talep edebilir.
+|Sadece *saklı paylı mirasçılar* tenkis talep edebilir.
+
+|Denkleştirme kuralları *emredici değildir*.
+|Tenkis kuralları *kısmi emredicidir*.
+
+|Denkleştirme *sadece mirasçılar* arasında söz konusu olur.
+|Tenkis mirasçılara ve *üçüncü kişilere* ileri sürülebilir.
+
+|Denkleştirme *sadece sağlararası tasarruflar* için gündeme gelir.
+|Tenkis hem sağlarası tasarruflar hem *ölüme bağlı tasarruflar* için gündeme gelir.
+
+|Denkleştirme kazandırmanın *tamamen* terekeye dönmesini sağlar.
+|Tenkis *ihlal oranında* iade sağlar.
+|===
+
+=== İADE YÜKÜMLÜLÜĞÜ
+
+Yasal mirasçılar, mirasbırakandan miras paylarına mahsuben elde ettikleri
+sağlararası karşılıksız kazandırmaları, denkleştirmeyi sağlamak için terekeye
+geri vermekle birbirlerine karşı yükümlüdürler.
+
+Mirasbırakanın çeyiz veya kuruluş sermayesi vermek ya da bir malvarlığını
+devretmek veya borçtan kurtarmak ve benzerleri gibi karşılık almaksızın
+altsoyuna yapmış olduğu kazandırmalar, aksi mirasbırakan tarafından açıkça
+belirtilmiş olmadıkça, denkleştirmeye tabidir.
+
+Olağan hediyeler ile evlenme sırasında yapılan geleneğe uygun giderler
+denkleştirmeye tabi değildir.
+
+Altsoy hısımlarının evlenmelerinde, alışılmış ölçüler içinde yapılan çeyiz
+giderleri hakkında denkleştirmeye tabi tutmama arzusunun bulunduğu asıldır.
+
+Yapılan kazandırma miras payını aştığı takdirde mirasçı, mirasbırakanın bunu
+kendisine bırakmak istediğini ispat ederse, bu fazlalık denkleştirmeye tabi
+olmaz. Diğer mirasçıların tenkise ilişkin hakları saklıdır.
+
+==== ALTSOYUN İADE YÜKÜMLÜLÜĞÜ
+
+Altsoyun yükümlülüğü kanundan doğan bir iade yükümlülüğüdür.
+
+Kanuna göre, *karine olarak*, bir kişinin sağlığında altsoyunda yaptığı tüm
+kazandırmalar denkleştirmeye tabidir. Altsoy karinenin aksini ispatlamak için
+iki imkana sahiptir:
+
+. Mirasbırakanın aksi yönde iradesini ispat etmek
+. Mirasbırakanın sağlığında yaptığı kazandırmanın olağan hediye veya
+evlendirme gideri olduğunu ispat etmek
+
+==== ALTSOY DIŞINDAKİ KANUNİ MİRASÇILARIN İADE YÜKÜMLÜLÜĞÜ
+
+Kanun, altsoy dışındaki kanuni mirasçıların iade mükellefiyetinin olmadığı
+yönünde bir karine getirmektedir. *Altsoy dışındaki kanuni mirasçıların iade
+mükellefiyeti sadece ve sadece mirasbırakanın iadesinden doğar*.
+
+NOTE: Eş altsoy dışındaki mirasçı grubuna girer.
+
+=== DENKLEŞTİRME ŞEKLİ
+
+Geri vermekle yükümlü olan mirasçı, dilerse aldığını aynen geri verir; dilerse
+payından fazla olsa bile değerini miras payına mahsup ettirir.
+
+Mirasbırakanın bu kurala aykırı tasarrufları ve mirasçıların tenkise ilişkin
+hakları saklıdır.
+
+NOTE: Doktrine göre karma usül mümkün değildir.
+
+=== EĞİTİM VE ÖĞRENİM GİDERLERİ
+
+Çocukların eğitim ve öğrenimi için yapılan giderler sebebiyle geri verme
+yükümlülüğü, mirasbırakanın aksini arzu ettiği ispat edilmedikçe, ancak
+alışılmış ölçüleri aşan kısım için mevcuttur.
+
+Eğitim ve öğrenimini tamamlamamış olan veya engelliliği bulunan çocuklara,
+paylaşmada hakkaniyete uygun bir ödeme yapılır.
+
+Çocuğa yapılacak ödeme, diğer kanuni mirasçıların miras payından indirim
+yapılarak ödenir. Bu emredici bir hükümdür.
