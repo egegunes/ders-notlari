@@ -1530,3 +1530,178 @@ paylaşmada hakkaniyete uygun bir ödeme yapılır.
 
 Çocuğa yapılacak ödeme, diğer kanuni mirasçıların miras payından indirim
 yapılarak ödenir. Bu emredici bir hükümdür.
+
+== MİRASIN GEÇMESİ
+
+Ölüm anı gerçekleştiği anda mirasbırakanın terekesinde yer alan malvarlığı
+değerleri *kül halinde* mirasçıların *iştirak* halinde mülkiyetine geçer.
+İntikal, malvarlığı değerleri nerede ise orada gerçekleşir.
+
+*Mirasın açıldığı yer*, terekeye dair ihtilafların çözüleceği yerdir. Terekeye
+dair ihtilaflar, *mirasbırakanın yerleşim yeri* mahkemesinde çözülür*Mirasın
+açıldığı yer*, terekeye dair ihtilafların çözüleceği yerdir. Terekeye dair
+ihtilaflar, *mirasbırakanın yerleşim yeri* mahkemesinde çözülür.
+
+Mirasçı olabilmek için;
+
+. Mirasbırakan vefat ettiği ande hayatta olmak
+. Mirasçılık ehliyetine (hak ehliyeti) sahip olmak
+. Mirastan yoksun olmamak
+
+gerekir.
+
+=== MİRASTAN YOKSUNLUK
+
+*Yoksunluk*, mirasçının, kanunun ifade ettiği gerekçeler kapsamında mirasa
+layık görülmemesidir. *Kanunda aranan şartlar gerçekleşmişse, yoksunluk
+kendiliğinden olur*.
+
+Yoksunluk için kanunda sayılan fiillerin mirasbırakana karşı işlenmiş olması
+gerekir. Mirasbırakanın bir yakınına karşı işlenmesi ancak mirastan çıkarma
+sebebi olabilir.
+
+*Yoksunluk afla ortadan kalkar.*
+
+Sadece yasal mirasçılar değil, mirasçı olarak atanmış kişiler veya vasiyet
+alacakları da mirastan yoksun olabilir.
+
+Mirastan yoksunluk sebepleri:
+
+. Mirasbırakanı kasten ve hukuka aykırı olarak öldüren veya öldürmeye teşebbüs
+edenler
+. Mirasbırakanı kasten ve hukuka aykırı olarak sürekli şekilde ölüme bağlı
+tasarruf yapamayacak duruma getirenler
+. Mirasbırakanın ölüme bağlı bir tasarruf yapmasını veya böyle bir tasarruftan
+dönmesini aldatma, zorlama veya korkutma yoluyla sağlayanlar ve engelleyenler,
+. Mirasbırakanın artık yeniden yapamayacağı bir durumda ve zamanda ölüme bağlı
+tasarrufu kasten ve hukuka aykırı olarak ortadan kaldıranlar veya bozanlar
+
+Yoksunluk kendiliğinden hüküm ifade eder ve kişi mirasbırakandan önce ölmüş
+gibi kabul edilir.
+
+=== MİRAS PAYININ DEVRİ
+
+Mirasın açılmasından önce devirde, devralan kişi kesinlikle külli halef olmaz.
+Sadece ölüm gerçekleştiğinde kendisine payını devreden kişiden bir alacak
+hakkına sahip olur. Bu tür bir sözleşmenin yapılması için *mirasbırakanın bu
+sözleşmeye katılması veya izin vermesi gerekir*.
+
+Kişi miras payını bir *mirasçıya* devretmek isterse sözleşmenin *adi yazılı
+şekilde* yapılması gerekir. Miras payını bir *üçüncü kişiye* devrediliyorsa
+sözleşmenin *noterde düzenleme* şeklinde yapılması gerekir.
+
+Miras payının devri mümkün iken *rehni mümkün değildir*. Rehin ayni bir haktır
+ve ayni haklarda belirlilik ilkesi hakimdir. Miras payında ise devredilen şey
+belli değildir.
+
+=== KORUMA ÖNLEMLERİ
+
+Mirasçılar düzgün şekilde tespit edilinceye kadar terekenin değer kaybına
+uğramaması için birtakım koruma önlemleri alınabilir. Bu önlemi almaya yetkili
+makam *mirasbırakanın son yerleşim yerindeki sulh hakimidir*. Ancak
+mirasbırakan başka bir yerde öldüyse ve öldüğü yerde de malları varsa bu yerin
+sulh hakimi de yerleşim yerindeki sulh hakimini haberdar ederek önlem almasını
+talep edebilir veya kendi yetki alanındaki mallar için önlem alabilir.
+
+Önlem talep üzerine alınmışsa ileride terekeden karşılanmak üzere talep
+edenden, re'sen alınmışsa hazineden karşılanır.
+
+==== DEFTER TUTMA
+
+Defter tutma, hem terekedeki malların kayıt altına alınması hem de terekedeki
+mallar üzerinde haklara etki edecek olan işlemlerin kayıt altına alınmasıdır.
+
+Defter tutmaya aşağıdaki hallerde karar verilebilir:
+
+* Mirasçılar arasında vesayet alınmış olan veya alınması gereken varsa
+* Mirasçılardan biri uzun süreden beri bulunamıyorsa ve temsilcisi de yoksa
+* Mirasçılardan veya ilgililerden biri, ölüm tarihinde başlayarak *bir ay
+içinde* istemde bulunursa
++
+Bu durumda hakimin takdir yetkisi yoktur.
+
+==== TEREKENİN MÜHÜRLENMESİ
+
+Yazımı yapılan tereke mallarından gerekenler *mühürlenir*. Mühürlenmeyen mallar
+için uygun koruma önlemi alınmır. Mühür altına alma yazımdan önce de
+yapılabilir.
+
+Mühürleme, alacaklıların istemi üzerine yapılıyor ise güvence altına alınan
+miktarla sınırlı bir mühürleme de yapılabilir. Ancak mirasçılar alacaklıya
+güvence verirlerse o zaman mühürleme işlemine başvurulmaz.
+
+==== TEREKENİN RESMEN YÖNETİLMESİ
+
+Terekenin resmen yönetilmesi, terekenin *sulh hakimi* veya sulh hakiminin
+görevlendirdiği bir kişi tarafından yönetilmesidir.
+
+Terekenin resmen yönetilmesine aşağıdaki hallerde karar verilebilir:
+
+* Mirasçılardan birinin uzun süreden beri bulunamaması ve temsilci de
+bırakmaması halinde menfaati gerektiriyorsa
+* Mirasta hak sahibi olduğunu ileri sürenlerden hiçbiri mirasçılık sıfatını
+yeterince ispatlayamazsa veya bir mirasçı bulunup bulunmadığı şüpheli olursa
+* Mirasçıların tamamı bilinmiyorsa
+
+NOTE: Mirasbırakan öldükten sonra terekenin yönetilmesi için vasiyeti tenfiz
+memuru atamışsa önemli bir engel bulunmadıkça terekenin bu kişi tarafından
+yönetilmesi gerekir.
+
+Yönetici, görevine giren konularda miras ortaklığının temsilcisidir.
+
+Terekenin resmen yönetilmesine, niteliklerine uygun düştüğü ölçüde vesayete
+ilişkin hükümler uygulanır.
+
+==== MİRASÇILARA İLAN
+
+Mirasbırakanın mirasçısı bulunup bulunmadığına dair kuşku varsa, uygun
+araçlarla iki ayrı ilan yapılır ve son ilan tarihinden itibaren bir yıl içinde
+başvuru olmazsa miras ya var olan mirasçılar arasında paylaştırılır ya da
+mirasçı yoksa miras devlete geçer.
+
+==== VASİYETE İLİŞKİN ÖNLEMLER
+
+Mirasbırakan öldüğünde, kişinin elinde mirasbırakana ait bir vasiyetname varsa
+bunu derhal mirasbırakanın son yerleşim yerindeki sulh hakimini tevdi
+etmelidir. *Teslim için mirasçı olmak şart değildir*.
+
+=== GAİPLİĞİN ETKİSİ
+
+Kişi ölüm tehlikesi içinde kaybolduysa ya da kendisinden uzun süredir haber
+alınmıyorsa gaiplik kararı alınmak suretiyle gaip kabul edilir. Gaiplik,
+kararın alındığı tarihten değil, *kendisinden son haber alındığı günden veya
+ölüm tehlikesi içinde kaybolma tarihinden itibaren hükümlerini doğurur.
+
+Gaibin mirasçı olup olmadığını belirlemek için, mirasbırakanın ölüm tarihinde
+hükümlerini doğurmuş bir gaiplik kararının olup olmadığına bakmak gerekir.
+
+Kanun koyucu gaibin mirasının dağıtılması için güvence istenmesini öngörmüştür.
+Bu güvence, gaip ortaya çıkarsa, mirasçılar terekeyi geri veremese bile gaibin
+zor durumda kalmasını önlemek içindir. *Güvence olmasa bile, gaip geldiği andan
+itibaren dağıtılan mirasın geri verilmesi gerekir.* Bu geri verme zilyetlik
+kurallarına göre yapılır. *Mirasçı kötü niyetliyse gaip mirasın hepsini alır,
+iyi niyetliyse sadece elinde kalan kısmı iadeyle yükümlüdür.*
+
+Ölüm tehlikesi içinde kaybolan kişi için mirasçıları *5 yıl* için bir teminat
+verecektir. Kişiden uzun süreden beri haber alınamıyorsa *15 yıl* için bir
+teminat verilmelidir. Ancak kişinin *100 yaşına ulaşacağı süre* daha kısaysa bu
+süre için teminat verilecektir. *Bu sürelerden sonra gaip gelirse miras yine
+geri verilecektir, ancak artık teminatlardan yararlanamayacaktır*.
+
+Gaip ortaya çıktıktan sonra mallarını zilyetlik kurallarına göre
+isteyebilecektir. Mirasçı iyiniyetli ise miras sebebiyle istihkak davasındaki
+10 yıllık süre uygulanır ancak kötüniyetli ise süre sınırlaması olmaksızın iade
+talep edilebilir.
+
+== MİRASÇILIK BELGESİ
+
+Mirasçılık belgesi, kişinin mirasçılık sıfatını ispatlayan belgedir. Bu belge
+sulh mahkemesi ve yeni düzenleme ile noterler tarafından verilir.
+
+Atanmış mirasçılar ve vasiyet alacaklıları da mirasçılık belgesi talep
+edebilir. Ancak bunların mirasçılık belgesi alabilmesi için öncelikle
+vasiyetnamenin açılması gerekir. Ardından bir ay beklenir. Bu bir aylık süre
+içinde mirasçılık belgesi verilmesine itiraz edilirse belge verilmez.
+
+CAUTION: Mirasçılık belgesi, mirasçı olmayan kişiyi mirasçı yapmaz. Ancak bu
+yönde bir karine oluşturur.
