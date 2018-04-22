@@ -1849,7 +1849,7 @@ veya farklı işleme tabi tutulamaz.
 İşveren yukarıdaki hükümlere aykırı hareket ettiği takdirde işçinin bir yıllık
 ücretinden az olmamak kaydıyla sendikal tazminata hükmedilir.
 
-=== TOPLU İŞ SÖZLEŞMELERİ
+== TOPLU İŞ SÖZLEŞMELERİ
 
 *Toplu iş sözleşmesi*, iş sözleşmesinin yapılması, içeriği ve sona ermesine
 ilişkin hususları düzenlemek üzere işçi sendikası ile işveren sendikası veya
@@ -1862,12 +1862,184 @@ Toplu iş sözleşmesi, tarafların karşılıklı hak ve borçları ile sözle�
 uygulanması ve denetimini ve uyuşmazlıkların çözümü için başvurulacak yolları
 düzenleyen hükümleri de içerebilir.
 
-*Çerçeve sözleşme*, sözleşmenin tarafı olan işçi ve işveren sendikasının
-üyeleri hakkında uygulanır ve mesleki eğitim, iş sağlığı ve güvenliği, sosyal
-sorumluluk ve istihdam politikalarına ilişkin düzenlemeleri içerebilir.
+*Toplu iş sözleşmeleri, Anayasaya ve kanunların emredici hükümlerine aykırı
+düzenlemeler içeremez.* Normlar hiyerarşisinde önce kanun, sonra toplu iş
+sözleşmesi, sonra bireysel iş sözleşmesi gelir. Toplu iş sözleşmesinin
+getirdiği haklardan bireysel iş sözleşmesinde vazgeçilemez.
 
-Çerçeve sözleşme, taraflardan birinin çağrısı ve karşı tarafın çağrıya olumlu
-cevap vermesi halinde en az bir, en çok üç yıl için yapılır.
+=== YETKİ
 
-*Toplu iş sözleşmeleri ve çerçeve sözleşmeler, Anayasaya ve kanunların emredici
-hükümlerine aykırı düzenlemeler içeremez.*
+Kurulu bulunduğu işkolunda çalışan işçilerin *en az yüzde birinin* üyesi
+bulunması şartıyla işçi sendikası, toplu iş sözleşmesinin kapsamına girecek
+işyerinde başvuru tarihinde çalışan işçilerin yarıdan fazlasının, işletmede ise
+yüzde kırkının kendi üyesi bulunması halinde bu işyeri veya işletme için toplu
+iş sözleşmesi yapmaya yetkilidir.
+
+İşletme toplu iş sözleşmeleri için işyerleri bir bütün olarak dikkate alınır
+ve yüzde kırk çoğunluk buna göre hesaplanır.
+
+CAUTION: İşletme toplu iş sözleşmelerinde *işletmenin bütünlüğü* ilkesi
+hakimdir. İşletmenin sadece bir bölümü için sözleşme yapılması mümkün değildir.
+Ancak bütün işyerleri için aynı koşullar bulunması gerekmez. Aynı sözleşme
+içerisinde farklı işyerleri için farklı düzenlemeler yapılabilir. Önemli olan
+aynı yetki ve aynı sözleşmenin olmasıdır.
+
+İşletmede birden çok sendikanın yüzde kırk veya fazla üyesinin olması durumunda
+başvuru tarihinde en çok üyeye sahip sendika toplu iş sözleşmesi yapmaya
+yetkilidir.
+
+*Bir işkolunda çalışan işçilerin yüzde birinin tespitinde Bakanlıkça her yıl
+ocak ve temmuz aylarında yayımlanan istatistikler esas alınır.*
+
+NOTE: Bir işçi sendikası ile bir işveren sendikası arasında, birden çok üye
+işverene ait aynı işkolunda kurulu işyerleri ve işletmeleri kapsayacak şekilde
+yapılan sözleşmeye *grup toplu iş sözleşmesi* denir.
+
+Toplu iş sözleşmesi yapmak isteyen işçi sendikası *Bakanlığa* başvurarak
+yetkili olduğunun tespitini ister. İşveren sendikası veya sendika üyesi olmayan
+işveren de Bakanlığa başvurarak yetkili işçi sendikasının tespitini
+isteyebilir.
+
+Başvuru, yürürlükte bir toplu iş sözleşmesi yoksa her zaman yapılabilir.
+Yürürlükte bir toplu iş sözleşmesi varsa en erken sözleşmenin süresinin
+dolmasından 120 gün önce başvuru yapılabilir.
+
+Bakanlık, kayıtlarına göre başvuru tarihi itibarıyla bir işçi sendikasının
+yetkili olduğunu tespit ettiğinde, başvuruyu, işyeri veya işletmedeki işçi ve
+üye sayısını, o işkolunda kurulu işçi sendikaları ile taraf olacak işveren
+sendikası veya sendika üyesi olmayan işverene *altı iş günü* içinde bildirir.
+
+İşçi sendikasının yetki şartlarına sahip olmadığının ya da işyerinde yetki
+şartlarına sahip bir işçi sendikasının bulunmadığının tespiti halinde, bu
+bilgiler sadece başvuruyu yapan tarafa bildirilir.
+
+Kendilerine tespit yazısını gönderilen işvi veya işveren sendikaları veya
+sendika üyesi olmayan işveren; *taraflardan birinin veya her ikisinin yetki
+şartlarına sahip olmadığı* veya *kendisinin bu şartları taşıdığı* yolundaki
+itirazını, nedenlerini de göstererek yazının kendilerine tebliğ edildiği
+tarihten itibaren *altı iş günü* içinde *iş mahkemesine* yapabilir.
+
+*İşkolunda çalışan işçilerin yüzde birinden daha az üyesi bulunan işçi
+sendikası, yetki itirazında bulunamaz.*
+
+Kendisine yetki şartlarına sahip olmadığı bildirilen işçi sendikası, *altı iş
+günü* içinde yetkili olup olmadığının tespiti için dava açabilir. Mahkeme
+açılan davayı o işkolunda çalışan işçilerin en az yüzde birini üye kaydeden
+işçi sendikaları ile işveren sendikası veya sendika üyesi olmayan işverene de
+bildirir. Mahkeme davayı iki ay içinde sonuçlandırır.
+
+*İtiraz, karar kesinleşinceye kadar yetki işlemlerini durdurur.*
+
+Tespit yazısına süresi içinde itiraz edilmemişse sürenin bitimini takip eden
+altı iş günü içinde; yapılan itiraz reddedilmişse ya da kendisine yetki
+şartlarına sahip olmadığı bildirilen sendikanın itirazı sonucunda yetki
+şartlarına sahip olduğunu tespit eden kesinleşmiş mahkeme kararının tebliğ
+edildiği tarihten itibaren altı iş günü içinde; ilgili sendikaya, Bakanlıkça
+bir yetki belgesi verilir.
+
+=== TOPLU GÖRÜŞMEYE ÇAĞRI
+
+Taraflardan biri, yetki belgesinin alındığı tarihten itibaren *on beş gün
+içinde* karşı tarafı toplu görüşmeye çağırır. Çağrı tarihi, çağrıyı yapan
+tarafça derhal görevli makama bildirilir. *Bu süre içinde çağrı yapılmazsa,
+yetki belgesinin hükmü kalmaz.*
+
+Çağrıyı yapan taraf, toplu görüşmede ileri süreceği tekliflerin bütününü çağrı
+süresi içinde karşı tarafa vermek zorundadır. Ancak, tarafların toplu görüşme
+gereği ileri sürecekleri tekliflerde değişiklik yapma hakları saklıdır.
+
+Çağrının karşı tarafa tebliğ edildiği tarihten itibaren *altı iş günü* içinde
+taraflar toplu görüşmenin yer, gün ve saatini aralarında *anlşarak* belirler ve
+bunu görevli makama yazı ile bildirir. Anlaşmaya varılamazsa, taraflardan
+birinin başvurusu üzerine, yapılacak ilk toplantının yeri, günü ve saati
+görevli makamca derhal belirlenir ve taraflara bildirilir.
+
+İşçi sendikası, çağrı tarihinden itibaren *otuz günü içinde yapılacak olan ilk
+toplantıya gelmez* veya *aynı süre içinde toplu görüşmeye başlamazsa* yetkisi
+düşer.
+
+Toplu görüşmenin süresi, ilk toplantı tarihinden itibaren altmış gündür.
+
+=== TOPLU İŞ SÖZLEŞMESİNİN HÜKMÜ
+
+Toplu iş sözleşmesinde aksi belirtilmedikçe iş sözleşmeleri toplu iş
+sözleşmesine aykırı olamaz.
+
+İş sözleşmelerinin toplu iş sözleşmesine aykırı hükümlerinin yerini toplu
+iş sözleşmesindeki hükümler alır.
+
+Toplu iş sözleşmesinde iş sözleşmelerine aykırı hükümlerin bulunması halinde
+ise iş sözleşmesinin işçi yararına olan hükümleri geçerlidir.
+
+Sona eren toplu iş sözleşmesinin iş sözleşmesine ilişkin hükümleri yenisi
+yürürlüğe girinceye kadar iş sözleşmesi hükmü olarak devam eder.
+
+=== TOPLU İŞ SÖZLEŞMESİNDEN YARARLANMA
+
+Toplu iş sözleşmesinden *taraf işçi sendikasının üyeleri* yararlanır.
+
+CAUTION: Asıl işverenin tarafı olduğu bir toplu iş sözleşmesi varsa, o
+işyerinde alt işveren işçisi olarak çalışanlar bundan yararlanamaz.
+
+Toplu iş sözleşmesinden, sözleşmenin imzalanması tarihinde *taraf sendikaya üye
+olanlar yürürlük tarihinden*, imza tarihinden sonra üye olanlar ise
+*üyeliklerinin taraf işçi sendikasınca işverene bildirildiği tarihten* itibaren
+yararlanır.
+
+.Yürürlük tarihi geriye yürütülmüş sözleşmeler
+****
+*Toplu iş sözleşmelerinin yürürlük tarihi geçmiş bir tarih olarak da
+belirlenebilir.* Bu durumda imzalandığı tarihte ya da imzalanmaya yakın bir
+tarihte sendikaya üye olan işçi hangi andan itibaren sözleşmeden yararlanır?
+
+Kanundaki hükmün lafzı açıktır: "_Toplu iş sözleşmesinden, sözleşmenin
+imzalanması tarihinde taraf sendikaya üye olanlar yürürlük tarihinden itibaren
+yararlanır._"
+
+Bir grup yazar, hükmün lafzına bağlı kalarak, işçi imza tarihinde sendikaya üye
+ise yürürlük tarihi geçmişe yürütülse bile yürürlük tarihinden itibaren
+sözleşmeden yararlanacağını kabul etmektedir.
+
+Bu görüşe karşı çıkan yazarlar ise, toplu iş sözleşmesinden yararlanmanın
+üyelik şartına bağlandığının hareketle üyeliğin olmadığı bir tarihte toplu iş
+sözleşmesinden yararlanılamayacağını savunmaktadır.
+****
+
+Toplu iş sözleşmesinin imza tarihi ile yürürlük tarihi arasında iş sözleşmesi
+sona eren üyeler de, iş sözleşmelerinin sona erdiği tarihe kadar toplu iş
+sözleşmesinden yararlanır.
+
+Toplu iş sözleşmesinin imzası sırasında taraf işçi sendikasına üye olmayanlar,
+sonradan işyerine girip de üye olmayanlar veya imza tarihinde taraf işçi
+sendikasına üye olup da ayrılanlar veya çıkarılanların toplu iş sözleşmesinden
+yararlanabilmeleri, toplu iş sözleşmesinin tarafı olan işçi sendikasına
+*dayanışma aidatı* ödemelerine bağlıdır. Bunun için işçi sendikasının onayı
+aranmaz. Dayanışma aidatı ödemek suretiyle toplu iş sözleşmesinden yararlanma,
+talep tarihinden itibaren geçerlidir. *İmza tarihinden önceki talepler, imza
+tarihi itibarıyla hüküm doğurur*.
+
+İşveren vekilleri ile toplu iş sözleşmesi görüşmelerine işvereni temsilen
+katılanlar, toplu iş sözleşmesinden yararlanamaz.
+
+Grev sonunda yapılan toplu iş sözleşmesinden, kanun gereği zorunlu olarak
+çalışanlar dışında işyerine çalışmış olanlar, sözleşmede aksine hüküm
+bulunmadıkça yararlanamaz.
+
+NOTE: Toplu iş sözleşmesinde bulunan ücret, ikramiye, paraya ilişkin sosyal
+yardım konularına ilişkin hükümlerden işverenin sadece belirli bir kesimi
+yararlandırması ayrımcılık yasağı kapsamında değerlendirilemez.
+
+IMPORTANT: İşyeri düzenine dair toplu iş sözleşmesinde bulunan düzenlemeler,
+sendika üyesi olsun olmasın bütün işçiler için uygulanır. Sadece parasal
+haklara ilişkin düzenlemeler yararlanma hükümleri kapsamındadır.
+
+=== TOPLU İŞ SÖZLEŞMESİNİN SONA ERMESİ
+
+Toplu iş sözleşmesi belirli süreli (1-3 yıl) bir sözleşme olduğu için
+sözleşmede öngörülen sürenin bitiminde yürürlükten kalkar. *Sözleşme süresinden
+önce sona erdirilemez.*
+
+Toplu iş sözleşmesine taraf olan sendikanın tüzel kişiliğinin sona ermesi,
+faaliyetinin durdurulması, işçi sendikasının yetkiyi kaybetmesi ve toplu iş
+sözleşmesinin uygulandığı işyerlerinde işverenin veya işyerinin girdiği
+işkolunun değişmesi toplu iş sözleşmesini sona erdirmez.
