@@ -1,0 +1,39 @@
+:toc:
+:toc-title: SOSYAL GÜVENLİK HUKUKU
+:icons: font
+
+== SOSYAL SİGORTA
+
+*Sigortalı*, kısa veya uzun vadeli sigorta kolları bakımından adına prim
+ödenmesi gereken veya kendi adına prim ödemesi gereken kişidir.
+
+=== STATÜLER
+
+* *4-A*
+
+. İş sözleşmesi uyarınca bir ya da daha fazla işveren tarafından çalıştırılan
+işçiler
+. İşçi sendikaları ve konfederasyonları ile sendika şubelerinin başkanlıklarına
+ve yönetim kuruluna seçilenler
+. Bir ya da daha fazla işveren tarafından çalıştırılan güzel sanat kolları
+çalışanları
+. Düşünürler, yazarlar
+. Mütekabiliyet esasına dayalı olarak uluslararası sosyal güvenlik sözleşmesi
+yapılmış ülke uyruğunda olanlar hariç olmak üzere yabancı uyruklu kişilerden iş
+sözleşmesiyle çalışanlar
+. Genelevde çalışan kadınlar
+. Çiftçi Mallarının Korunması Hakkında Kanun uyarınca çalıştırılan koruma
+bekçileri
+. Ev hizmetlerinde çalışan ve çalışma saatine göre hesaplanan çalışma gün ve
+sayısı 10 gün ve daha fazla olan kişiler
+
+* *4-B*
+
+. Ticari kazanç veya serbest meslek kazancı nedeniyle gerçek veya basit usulde
+gelir vergisi mükellefi olanlar
+. Gelir vergisinden muaf olup da esnaf ve sanatkar siciline kayıt olanlar
+. Şirket ortakları
+. Tarımsal faaliyette bulunanlar
+. Köy ve mahalle muhtarları
+
+* *4-C*: Kamu kurum ve kuruluşlarında çalışanlar
