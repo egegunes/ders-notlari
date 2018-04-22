@@ -1888,3 +1888,251 @@ Bazı hallerde önce rehne başvurma zorunluluğu yoktur:
 * Kambiyo senetleri
 * İpotekle temin edilen faiz alacakları
 * Gemi üzerindeki alacaklar
+
+=== TAŞINIR REHNİNİN PARAYA ÇEVRİLMESİ YOLUYLA TAKİP
+
+Alacağı taşınır rehni ile sağlanmış alacaklı, takip talebinde bulunması gereken
+hususlara ek olarak, merhunun ne olduğunu ve merhun üçüncü şahıs tarafından
+verilmiş veya merhunun mülkiyeti üçüncü şahısa geçmiş ise onun ve merhun
+üzerinde sonra gelen rehin hakkı mevcut ise bu hakka sahip olan şahsın ismini
+de bildirir.
+
+Takip talebi üzerine, icra dairesi, keyfiyeti merhun üzerine sonra gelen rehin
+hakkı sahibine bir ihbarname ile bildirir ve borçlu ile rehin maliki üçüncü
+şahsa aşağıdaki kayıtlara uygun olmak üzere birer ödeme emri gönderir:
+
+. *Ödeme süresi on beş gündür*.
+. *Yedi gün içinde itiraz* olunmaz ve yukarıdaki süre içinde borç ödenmezse
+rehnin satılacağı bildirilir.
+
+Ödeme emrini itiraz hakkında genel hükümler uygulanır. Ancak;
+
+. Rehin hakkına açıkça itiraz edilmemişse, alacaklının rehin hakkı takip
+safhası içinde artık tartışma konusu olamaz.
+. Sırf rehin hakkına itiraz olunduğu takdirde, alacaklı, rehnin paraya
+çevrilmesi yoluyla takipten vazgeçerek, takibin haciz yolu ile devamını
+isteyebilir. Bu takdirde, borçluya mal beyanında bulunması için yedi gün mühlet
+verilir.
+
+=== İPOTEĞİN PARAYA ÇEVRİLMESİ YOLUYLA TAKİP
+
+Taşınmaz ipotek alacaklısı, yetkili veya taşınmazın bulunduğu yer icra
+dairesine elindeki *ipotek akit tablosunu* ibraz ederek takip talebinde
+bulunur.
+
+İcra memuru, ibraz edilen akit tablosunun *kayıtsız şartsız bir para borcu
+ikrarını ihtiva ettiğini* ve *alacağın muaccel olduğunu* anlarsa, borçluya
+ve taşınmaz üçüncü şahıs tarafından rehnedilmiş veya taşınmazın mülkiyeti
+üçüncü şahsa geçmişse ayrıca bunlara birer icra emri gönderir. Bu icra
+emrinde *borcun otuz gün içinde ödenmesi* ve bu müddet içinde ödenmez ve
+icra mahkemesinden icranın geri bırakılmasına dair bir karar getirilmezse,
+alacaklının taşınmazın satışını isteyebileceği bildirilir.*
+
+TIP: Doğmuş bir alacak varsa *anapara ipoteği*, doğmamış bir alacak varsa
+*limit ipoteği* söz konusu olur. Anapara ipoteği söz konusuysa, ipotek akit
+tablosu kayıtsız şartsız para borcu ikrarı içeriyordur. Dolayısıyla
+anapara ipoteğinde ilamlı icraya, limit ipoteğinde ilamsız icraya gidilir.
+
+İcra memuru, borçluya ve varsa taşınmaz sahibi üçüncü şahsa aşağıdaki
+kayıtlara uygun olmak üzere birer ödeme emri gönderir:
+
+. *Ödeme süresi otuz gündür.*
+. *Yedi gün içinde itiraz* olunmaz ve süresinde ödeme yapılmaz ise
+alacaklının taşınmazın satışını isteyebileceği bildirilir.
+
+Borçlu veya üçüncü şahıs ödeme emrinin tebliğinden itibaren yedi gün içinde
+itirazda bulunabilirler. *Ancak, rehin hakkı itiraz konusu yapılamaz.*
+
+=== SATIŞ TALEBİ
+
+Satış hükümleri genel haciz yoluyla takip ile aynıdır. Satış talebi
+taşınırlarda 6 ay, taşınmazlarda 1 yıl içinde yapılmalıdır.
+
+IMPORTANT: Süresinde satış talebinde bulunulmazsa genel haciz yoluyla takipten
+farklı olarak *takip düşer*.
+
+=== REHİN AÇIĞI BELGESİ
+
+Alacaklının satış talebinden sonra takdir edilen ve kesinleşen kıymete göre
+merhunun alacağı karşılamayacağı anlaşılırsa, alacaklının talebi üzerine
+kendisine açık kalan için bir *muvakkat rehin açığı belgesi* verilir. Alacaklı,
+bu belgeye dayanarak borçlunun diğer mallarının haczini icra memurundan talep
+edebilir ve diğer alacaklıların haczine iştirak edebilir. Bu takdirde alacaklı,
+rehnin satışı neticesinde, alacağının tahsil edilemeyen kısmını borçlunun diğer
+mahcuz mallarından rüçhansız olarak alır.
+
+Geçici rehin açığı belgesi sahibi, aynı dosya üzerinden haciz isteyebilir.
+Borçlunun mallarını buldukça haczedebilir fakat rehinli mal satılmadan
+haczedilen mallar satılamaz. Zira rehinli mal satılmadığı için açık kesin
+olarak belli değildir.
+
+Buna karşılık kesin rehin açığı belgesi sahibi, genel haciz yoluyla takibe
+başvurabileceği gibi iflas yoluyla takip de başlatabilir. Yani önce rehne
+başvurma kuralı bertaraf olur. Yeni takip belgenin düzenlenmesinden itibaren 1
+yıl içinde başlatılırsa, borçluya ödeme emri bile gitmez.
+
+NOTE: Yargıtay, kesin rehin açığı belgesinin tasrrufun iptali davasında
+kullanılamayacağını kabul etmektedir.
+
+== İHTİYATİ HACİZ
+
+*Rehinle temin edilmemiş* ve *vadesi gelmiş bir para borcunun* alacaklısı,
+borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve
+alacaklarıyla diğer haklarını ihtiyaten haczettirebilir.
+
+*Vadesi gelmemiş borçtan* dolayı yalnız aşağıdaki hallerde ihtiyati haciz
+istenebilir:
+
+. Borçlunun muayyen yerleşim yeri yoksa
+. Borçlu taahhütlerinden kurtulmak maksadıyla mallarını gizlemeye, kaçırmaya
+veya kendisi kaçmaya hazırlanır yahut kaçar ya da bu maksatla alacaklının
+haklarını ihlal eden hileli işlemlerde bulunursa
+
+Bu suretle ihtiyati haciz konulursa borç yalnız borçlu hakkında muaccelliyet
+kesbeder.
+
+İhtiyati hacze, HMK'nın yetkiye dair hükümleri ile belirlenecek mahkeme karar
+verir.
+
+İhtiyati haciz için yaklaşık ispat yeterlidir. Alacaklı alacağın varlığını ve
+muaccel olduğunu yaklaşık olarak ispat edecektir. Vadesi gelmemiş ise ihtiyati
+haciz sebeplerinin varlığını yaklaşık olarak ispat edecektir.
+
+*Mahkeme iki tarafı dinleyip dinlememekte serbesttir.*
+
+İhtiyati haciz talebinin reddine karşı istinaf yolu açık fakat temyiz yolu
+kapalıdır.
+
+İhtiyati haciz talebi kabul edilirse alacaklının alacağını dayandırdığı hususa
+göre teminat alınır:
+
+* Alacaklı ilama dayanıyorsa teminat aranmaz.
+* İlam niteliğinde belgeye dayanıyorsa teminat aranması hakimin takdiridir.
+* Başka bir belgeye dayanıyorsa alacaklı teminat göstermek zorundadır.
+
+=== TAMAMLAYICI MERASİM
+
+Alacaklı, *ihtiyati haciz kararının verildiği tarihten itibaren on gün içinde*
+kararı veren mahkemenin yargı çevresindeki icra dairesinden kararın infazını
+istemeye *mecburdur*. Aksi halde ihtiyati haciz kararı kendiliğinden kalkar.
+
+Dava açılmadan veya icra takibine başlanmadan önce ihtiyati haciz yaptırmış
+olan alacaklı; haczin tatbikinden, haciz gıyabında yapılmışsa haciz
+tutanağının kendisine tebliğinden itibaren *yedi gün içinde* takip talebinde
+(haciz veya iflas) bulunmaya ya da dava açmaya *mecburdur*.
+
+İhtiyati haciz, alacak davasının mahkemede görüldüğü sırada konulmuş veya
+alacaklı yukarıdaki hüküm uyarınca dava açmış ise, esas hakkında verilecek
+hükmün tebliğinden itibaren *bir ay içinde* alacaklı takip talebinde bulunmaya
+mecburdur.
+
+İcra takibinde, borçlu ödeme emrine itiraz ederse bu itiraz hemen alacaklıya
+tebliğ olunur. Alacaklı, tebliğ tarihinden itibaren *yedi gün içinde* icra
+mahkemesinden *itirazın kaldırılmasını istemeye* veya mahkemede *dava açmaya*
+*mecburdur*. İcra mahkemesi, itirazın kaldırılması talebini reddederse
+alacaklının kararın tefhim veya tebliği tarihinden itibaren yedi gün içinde
+dava açması zorunludur.
+
+Borçlu süresi içinde ödeme emrine itiraz etmez veya itirazı icra mahkemesince
+kesin olarak kaldırılır veya mahkemece iptal edilirse, ihtiyati haciz
+kendiliğinden icrai hacze dönüşür.
+
+CAUTION: Bu süreler ihtiyati haczin devamını sağlamak içindir.
+
+=== İHTİYATİ HACZİN KALDIRILMASI
+
+İhtiyati haciz iki şekilde kaldırılır:
+
+. İhtiyati haciz talebinin kabulüne itiraz
+. Teminat gösterme
+
+İhtiyati haczin kaldırılması;
+
+. İhtiyati haciz kararı verildikten sonra, alacaklı henüz tamamlayıcı merasim
+yapmadıysa, kararı veren mahkemeden
+. Tamamlayıcı merasim ile dava açıldıysa davanın görüldüğü mahkemeden
+. Tamamlayıcı merasim ile takip başlatılmışsa icra mahkemesinden
+
+==== İTİRAZ
+
+İhtiyati haciz talebinin kabulüne itiraz, borçlu veya menfaati ihlal edilen
+üçüncü kişi tarafından yapılabilir.
+
+*Borçlunun itiraz edebilmesi için ihtiyati haciz yargılamasında dinlenilmemiş
+olması gerekir.*
+
+İtiraz, kararı veren mahkemeye, haczin icrası veya haciz tutanağının
+tebliğinden itibaren yedi gün içinde yapılır.
+
+Borçlu;
+
+. Yetki itirazında bulunabilir.
+. Sebeplere itiraz edebilir.
+. Teminata itiraz edebilir.
+
+Üçüncü kişi;
+
+. Sebeplere itiraz edebilir.
+. Teminata itiraz edebilir.
+
+*İtiraz üzerine verilen karara karşı istinaf yolu açıktır.*
+
+==== TEMİNAT
+
+Teminat gösterilmesi ihtiyati haczi kendiliğinden kaldırmaz. İcra mahkemesinin
+bir karar vermesi gerekir. Karar üzerine ihtiyati haciz teminat üzerinden devam
+eder.
+
+=== İHTİYATİ HACİZDEN KAYNAKLANAN TAZMİNAT DAVASI
+
+Borçlunun mallarına haksız şekilde haciz koyduran alacaklı, borçlunun veya
+üçüncü kişinin bu sebeple ortaya çıkan zararını tazmin etmek zorundadır. Bu
+sorumluluk haksız fiil esaslarına dayanır, *ancak kusur aranmaz*.
+
+Doktrinde bir görüşe göre haksız fiil sorumluluğu olduğu için 2-10 yıllık
+zamanaşımı uygulanacak, diğer bir görüşe göre ise HMK ihtiyati tedbire dair
+1 yıllık zamanaşımı kıyasen uygulanacaktır.
+
+== İFLAS
+
+İflasa tabi olanlar:
+
+. Tacirler
+. Tacir gibi sorumlu olanlar
+. Tacir sayılanlar
+. Donatma iştiraki
+. Kanunda sayılan şartlarda komandit ve kollektif şirket ortakları
+
+=== TAKİPLİ İFLAS
+
+==== ADİ TAKİPLİ İFLAS
+
+Adi takipli iflas, genel haciz yoluyla takipteki gibi bir takip talebi ile
+başlar.
+
+_Tacir, her türlü borcu için iflasa tabidir._ Ancak bu takip yolu için borcun
+*para* veya *teminat* borcu olması gerekir.
+
+*Önce rehne başvurma kuralı* burada da geçerlidir.
+
+İflas yoluyla takipte yetkili merci, borçlunun muamele merkezinin bulunduğu yer
+icra dairesidir.
+
+Merkezleri yurt dışında bulunan ticari işletmeler hakkında yetkili merci,
+Türkiye'deki şubenin, birden fazla şube bulunması halinde merkez şubenin
+bulunduğu yerdeki icra dairesidir.
+
+Borçlu ile alacaklı yetkili icra dairesini yazılı anlaşma ile tayin etmişlerse,
+o yerin icra dairesi de iflas takibi için yetkili sayılır.
+
+Takip talebinde, hangi takip talebinin seçildiği belirtilmelidir.
+
+Borçluya ödeme emri gönderildikten sonra borçlunun yapabileceği üç şey vardır:
+
+. Ödeyebilir.
+. İtiraz ederse, takip durur.
+. Susarsa, ödeme emri kesinleşir.
+
+Ödeme emri kesinleştikten sonra alacaklı *iflas davası* açacaktır. İflas
+davaları için yetki sözleşmesi yapılamaz ve iflas davası mutlaka *boçlunun
+muamele merkezinin bulunduğu yer ticaret mahkemesinde açılır*.
