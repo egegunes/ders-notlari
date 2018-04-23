@@ -895,3 +895,175 @@ kastedilecektir.
 
 Davaya son veren taraf işlemleri; *kabul*, *sulh* ve **feragat**tir. Bu
 işlemler için de İYUK, HMK'ya atıfta bulunmuştur.
+
+*Kabul*, davalı tarafından yapılabilen bir işlemdir. Davacı tarafından ileri
+sürülen hukuki ve maddi olgunun gerçek olduğunun davalı tarafından kabul
+edilmesidir.
+
+*İdari işlemin geri alınması*, bir işlemin idare tarafından geçmişe dönük
+olarak bütün sonuçlarıyla birlikte ortadan kaldırılmasıdır. *İdari işlemin
+kaldırılması* ise işlemin idare tarafından ileriye dönük olarak ortadan
+kaldırılmasıdır.
+
+CAUTION: Dava açma süresi geçtikten sonra özellikle kişiler lehine sonuç
+doğuran işlemler geri alınamaz. Çünkü ya kazanılmış hak doğurur ya da müesses
+durum oluşturur.
+
+Geri alma ve kaldırma her zaman kabul anlamına gelmez. Ancak geri alma ve
+kaldırma ile birlikte dava konusuz kalabilir ve mahkeme bu sebeple davayı
+sonlandırabilir. Davanın konusuz kalması sebebiyle sonlandırılması ile kabul
+ile sona ermesi arasında fark vardır. Kabul ile açılan davanın haklı olduğu
+kabul edilmiş olur.
+
+Kabul beyanının idarede yetkili bir kimse tarafından yapılması gerekir. Kabul
+beyanında bulunabilecek yetkili makam, KHK'de gösterilen usul ile belirlenir.
+
+== HAKİMİN YASAKLILIK VE REDDİ
+
+Tek hakimle görülen davalarda hakimin redi istemi, reddedilen hakimin
+katılmadığı idare veya vergi mahkemesince incelenir.
+
+İtiraz üzerine veya doğrudan davaya bakmakta olan bölge idare mahkemesi ile
+idare ve vergi mahkemesi başkan ve üyelerinin reddi istemi, reddedilen başkan
+ve üyenin katılmadığı bölge idare, idare ve vergi mahkemesince incelenir.
+
+İdare ve vergi mahkemelerinde reddedilen başkan ve üye birden çok ise istem
+bölge idare mahkemesince incelenir. Bölge idare mahkemelerinde reddedilen
+başkan ve üye birden çok ise istem Danıştayca incelenir.
+
+Danıştayca ve bu mahkemelerce ret istemleri yerinde görülürse işin esası
+hakkında da karar verilir.
+
+Hakimin çekinme hallerinde de bu hükümler uygulanır.
+
+== ISLAH
+
+Tam yargı davalarında dava dilekçesinde belirtilen miktar, süre veya diğer usul
+kuralları gözetilmeksizin *nihai karar verilinceye kadar*, harcı ödenmek
+suretiyle *bir defaya mahsus* olmak üzere artırılabilir.
+
+== İVEDİ YARGILAMA USULÜ
+
+İvedi yargılama usulü aşağıda sayılan işlemleren doğan uyuşmazlıklar hakkında
+uygulanır:
+
+.. İhaleden yasaklama kararı hariç *ihale işlemleri*
+.. Acele kamulaştırma işlemleri
+.. Özelleştirme Yüksek Kurulu kararları
+.. Turizmi Teşvik Kanunu uyarınca yapılan satış, tahsis ve kiralama işlemleri
+.. Çevre Kanunu uyarınca, idari yaptırım kararları hariç çevresel etki
+değerlendirmesi sonucu alınan kararlar
+.. Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun (kentsel
+dönüşüm) uyarınca alınan Bakanlar Kurulu kararları
+
+İvedi yargılama usulünde:
+
+* Dava süresi *otuz* gündür.
+* İdari işleme itiraz kurumu (IYUK 11) uygulanmaz.
+* Yedi gün içinde ilk inceleme yapılır ve dava dilekçesi ile ekleri tebliğe
+çıkarılır.
+* Savunma süresi dava dilekçesinin tebliğinden itibaren on beş gün olup, bu
+süre bir defaya mahsus olmak üzere en fazla on beş gün uzatılabilir.
+Savunmanın verilmesi veya savunma verme süresinin geçmesiyle dosya tekemmül
+etmiş sayılır.
+* Taraflar birer tane dilekçe verir.
+* Yürütmenin durdurulması talebine ilişkin olarak verilecek kararlara itiraz
+edilemez.
+* Dava dosyanın tekemmülünden itibaren en geç bir ay içinde karara bağlanır.
+Ara karar verilmesi, keşif, bilirkişi incelemesi ya da duruşma yapılması gibi
+işlemler ivedilikle sonuçlandırılır.
+* Verilen nihai kararlara karşı tebliğ tarihinden itibaren on beş gün içinde
+temyiz yoluna başvurulabilir. *İstinaf yolu kapalıdır*.
+* Temyiz dilekçeleri üç gün içinde incelenir.
+* Temyiz dilekçelerine cevap verme süresi on beş gündür.
+* Danıştay evrak üzerinde yaptığı inceleme sonunda, maddi vakıalar hakkında
+edinilen bilgiyi yeterli görürse veya temyiz sadece hukuki noktalara ilişkin
+ise yahut temyiz olunan karardaki maddi yanlışlıkların düzeltilmesi mümkün ise
+işin esası hakkında karar verir. Aksi halde gerekli inceleme ve tahkikatı
+kendisi yaparak esas hakkında yeniden karar verir. Ancak, ilk inceleme üzerine
+verilen kararlara karşı yapılan temyizi haklı bulduğu hallerde kararı bozmakla
+birlikte dosyayı geri gönderir. Temyiz üzerine verilen kararlar kesindir.
+* Temyiz istemi en geç iki ay içinde karara bağlanır. Karar en geç bir ay
+içinde tebliğe çıkarılır.
+
+== MERKEZİ VE ORTAK SINAVLARA İLİŞKİN YARGILAMA USULÜ
+
+Milli Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi tarafından
+yapılan merkezi ve ortak sınavlar, bu sınavlara ilişkin iş ve işlemler ile
+sınav sonuçları hakkında açılan davalara ilişkin yargılama usulünde:
+
+* Dava açma süresi on gündür.
+* İdari işleme itiraz kurumu (IYUK 11) uygulanmaz.
+* Yedi gün içinde ilk inceleme yapılır ve dava dilekçesi ile ekleri tebliğe
+* Savunma süresi dava dilekçesinin tebliğinden itibaren üç gün olup, bu
+süre bir defaya mahsus olmak üzere en fazla üç gün uzatılabilir. Savunmanın
+verilmesi veya savunma verme süresinin geçmesiyle dosya tekemmül etmiş sayılır.
+* Yürütmenin durdurulması talebine ilişkin olarak verilecek kararlara itiraz
+edilemez.
+* Dava dosyanın tekemmülünden itibaren en geç on beş gün içinde karara
+bağlanır. Ara karar verilmesi, keşif, bilirkişi incelemesi ya da duruşma
+yapılması gibi işlemler ivedilikle sonuçlandırılır.
+* Verilen nihai kararlara karşı tebliğ tarihinden itibaren beş gün içinde
+temyiz yoluna başvurulabilir. *İstinaf yolu kapalıdır*.
+* Temyiz dilekçeleri üç gün içinde incelenir.
+* Temyiz dilekçelerine cevap verme süresi beş gündür.
+* Danıştay evrak üzerinde yaptığı inceleme sonunda, maddi vakıalar hakkında
+edinilen bilgiyi yeterli görürse veya temyiz sadece hukuki noktalara ilişkin
+ise yahut temyiz olunan karardaki maddi yanlışlıkların düzeltilmesi mümkün ise
+işin esası hakkında karar verir. Aksi halde gerekli inceleme ve tahkikatı
+kendisi yaparak esas hakkında yeniden karar verir. Ancak, ilk inceleme üzerine
+verilen kararlara karşı yapılan temyizi haklı bulduğu hallerde kararı bozmakla
+birlikte dosyayı geri gönderir. Temyiz üzerine verilen kararlar kesindir.
+* Temyiz istemi en geç on beş gün içinde karara bağlanır. Karar en geç yedi gün
+içinde tebliğe çıkarılır.
+
+Milli Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi tarafından
+yapılan merkezi ve ortak sınavlar, bu sınavlara ilişkin iş ve işlemler ile
+sınav sonuçları hakkında açılan davalarda verilen yürütmenin durdurulması ve
+iptal kararları, söz konusu sınava katılan kişilerin lehine sonuç doğuracak
+şekilde uygulanır.
+
+== YARGI KARARLARININ UYGULANMASI
+
+İptal kararları geçmişe etkilidir. İşlem hiç yapılmamış gibi, hukuk aleminde
+hiç varlık kazanmamış gibi hukuki sonuç ortaya çıkarır. Örneği görevden alınan
+bir memurun açtığı dava sonucunda görevden alma işlemine ilişkin iptal kararı
+verilirse memur hiç görevden alınmamış gibi işlem yapılması, tüm özlük hakları
+ve ücret haklarının verilmesi gerekir.
+
+Yeni bir yönetmelik yapıldığında veya bir yönetmeliğin hükmü değiştiğinde
+idarenin aynı anda tecelli eden iki iradesi vardır. İlk iradesi mevcut
+yönetmeliği değiştirme iradesi, ikinci iradesi ise yeni bir düzenleme yapma
+iradesidir. İptal kararı ile birlikte idarenin bu iki iradesinin de hukuka
+aykırı olduğu kabul edilmektedir. *Bu nedenle imar planları hariç düzenleyici
+işlemler iptal edildiğinde eski hükümlerinin tekrar devreye girmesi Danıştay
+tarafından kabul edilmektedir*. İmar planı iptal edildiğinde ise o alan plansız
+bir alana dönüşür ve Plansız Alanlar Yönetmeliği hükümlerine tabi olur.
+
+Bazı iptal kararları kendiliğinden sonuç doğurur, idarenin herhangi bir işlem
+yapmasına gerek kalmaz. Bazı iptal kararının sonucunda ise idare, işlemdeki
+sakatlık sebebini ortadan kaldırmak suretiyle aynı işlemi yeniden tesis
+edebilir. Bazı iptal kararlarında ise iptal kararının yerine getirilmesi için
+idarenin birtakım işlemler tesis etmesi gerekir.
+
+Danıştay, bölge idare mahkemeleri, idare ve vergi mahkemelerinin *esasa* ve
+*yürütmenin durdurulmasına* ilişkin kararlarının icaplarına göre idare,
+gecikmeksizin *işlem tesis etmeye* veya *eylemde bulunmaya* mecburdur. Bu süre
+hiçbir şekilde *kararın idareye tebliğinden başlayarak otuz günü geçemez*.
+
+NOTE: Önemli olan yargı kararının 30 gün içinde uygulanması değildir. Önemli
+olan kararın yerine getirilmesi için gereken işlemleri 30 gün içinde
+başlanmasıdır.
+
+Konusu belli bir miktar paranın ödenmesini gerektiren davalarda hükmedilen
+miktar ile her türlü davalarda hükmedilen vekalet ücreti ve yargılama
+giderleri, davacının veya vekilinin davalı idareye yazılı şekilde bildireceği
+banka hesap numarasına, bu bildirim tarihinden itibaren 30 gün içerisinde
+yatırılır. Bu süre içerisinde yatırılmaması halinde ilamlı icraya başvurulur.
+
+Danıştay, bölge idare mahkemeleri, idare ve vergi mahkemeleri kararlarına göre
+işlem tesis edilmeyen veya eylemde bulunulmayan hallerde idare aleyhine
+Danıştay ve ilgili idari mahkemede maddi ve manevi tazminat davası açılabilir.
+
+CAUTION: Tazminat davası sonucunda idarenin tazminat ödemeye mahkum edilmesi
+kararın uygulanmayacağı anlamına gelmez.
