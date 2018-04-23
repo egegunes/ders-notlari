@@ -44,6 +44,79 @@ etmesi halinde *devam eden atıf* söz konusudur. Yabancı hukuk kanunlar ihtila
 kurallarının Türk hukukuna geri yollaması durumunda ise *geri yollanan atıf
 (iadeli atıf)* söz konusudur.
 
+=== HAKİMİN HUKUKU UYGULAMASI
+
+Hakim, Türk kanunlar ihtilafı kurallarını ve bu kurallara göre yetkili olan
+yabancı hukuku re'sen uygular. Hakim, yetkili yabancı hukukun muhtevasının
+tespitinde tarafların yardımını isteyebilir.
+
+NOTE: Hakim yabancı hukuku, içtihatları, doktrinleri ile birlikte bir bütün
+olarak uygular.
+
+Yabancı hukukun olaya ilişkin hükümlerinin tüm araştırmalara rağmen tespit
+edilememesi halinde, Türk hukuku uygulanır.
+
+Hakim taraflardan yardım isteyebileceği gibi _Yabancı Hukuklardan Bilgi
+Edinilmesine Dair Avrupa Sözleşmesi_ tarafı olan devletlerin merkezi
+makamlarından da bilgi alabilir.
+
+TIP: Hakimin yabancı hukuku yanlış uygulaması bir bozma sebebidir.
+
+=== KAMU DÜZENİ
+
+Yetkili yabancı hukukun belirli bir olaya uygulanan hükmünün Türk kamu düzenine
+açıkça aykırı olması halinde, bu hüküm uygulanmaz; gerekli görülen hallerde,
+Türk hukuku uygulanır.
+
+* Kamu düzeni istisnaidir.
+* Türk kanunlar ihtilafı kurallarının gösterdiği yabancı hukukun uygulanmasının
+*somut sonuçlarının* kamu düzenine *açıkça aykırı olması* gerekir.
+
+=== DOĞRUDAN UYGULANAN KURALLAR
+
+Yetkili yabancı hukukun uygulandığı durumlarda, düzenleme amacı ve uygulama
+alanı bakımından Türk hukukunun doğrudan uygulanan kurallarının kapsamına giren
+hallerde o kural uygulanır.
+
+Sözleşmeden doğan ilişkinin tabi olduğu hukuk uygualnırken, sözleşmeyle sıkı
+ilişkili olduğu takdirde üçüncü bir devletin hukukunun doğrudan uygulanan
+kurallarına etki tanınabilir. Söz konusu kurallara etki tanımak ve uygulayıp
+uygulamamak konusunda bu kuralların amacı, niteliği, muhtevası ve sonuçları
+dikkate alınır.
+
+=== TANIMA VE TENFİZ
+
+Yabancı bir mahkeme kararının *kesin hüküm kuvvetinin* Türk hukukunda geçerli
+olabilmesi için bir *tanıma* kararı verilmesi gerekir.
+
+Yabancı birm mahkeme kararının *icra kuvvetinin* Türk hukukunda da geçerli
+olabilmesi için bir *tenfiz* kararı verilmesi gerekir.
+
+Çekişmesiz yargı işleri ancak verildiği ülkede kesin hüküm kudretine sahipse
+Türk hukukunda tanınabilir.
+
+Sadece özel hukuka ilişkin kararlar tanınabilir.
+
+Tanıma ve tenfiz davaları çekişmeli yargı işidir.
+
+Doktrinde nisbi harç mı alınacak maktu harç mı alınacak tartışması mevcuttur.
+Uygulamada nisbi harç alınmaktadır. Ancak maktu harç alınması gerektiğine dair
+Yargıtay kararları da mevcuttur. Kürsü de maktu harç alınması gerektiği
+görüşündedir.
+
+Tanıma ve tenfiz davası açarken yabancı mahkeme kararının noterden tasdikli
+çevirisi de dava dilekçesine eklenmelidir.
+
+=== APOSTİL ŞERHİ
+
+Yabancı ülkeden bir resmi belge alındığı zaman, bunun resmi belge gücü sadece
+alındığı ülke için geçerlidir. Resmi belge gücünün Türk hukukunda da geçerli
+olması için:
+
+. Belgenin alındığı ülkedeki Türk konsolosluğundan tasdik almak
+. _Yabancı Resmi Belgelerin Tasdikten Muafiyetine İlişkin Sözleşme_
+çerçevesinde ülkede apostil şerhi vermeye yetkili makamdan tasdik almak
+
 == KANUNLAR İHTİLAFI KURALLARI
 
 === ŞEKİL
