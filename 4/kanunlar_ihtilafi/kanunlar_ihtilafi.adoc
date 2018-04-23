@@ -4,14 +4,45 @@
 
 == GİRİŞ
 
+Kanunlar ihtilafı kuralı, yabancılık unsuru içeren ihtilaflarda, olaya
+uygulanma ihtimali olan hukuklardan hangisinin uygulanacağını gösteren
+kuraldır.
+
 Her kanunlar ihtilafı kuralında bir bağlama konusu ve bir bağlama noktası
 vardır. *Bağlama konusu*, hakimin çözümlemesi gereken ihtilaftır. *Bağlama
 noktası* ise ihtilafın hangi hukuka göre çözümlenmesi gerektiğini gösteren
 yabancılık unsurudur.
 
+Kanunlar ihtilafı kuralları, *tek yanlı* bağlama kuralları ve *çift yanlı*
+bağlama kuralları olmak üzere ikiye ayrılır. Yalnızca mahkemenin hukukunu
+gösteren kurallar tek yanlıdır. Hukuku, uyuşmazlık konusu üzerinden belirleyen
+kurallar ise çift yanlıdır.
+
+=== VASIFLANDIRMA
+
+Vasıflandırma, hayat ilişkisini belirli bir hukuki kalıba sokma işlemidir. Türk
+hukukunun, o hayat ilişkisine ilişkin vasıflandırması ile lex causanın
+vasıflandırması uyuşmazsa vasıf ihtilafı ortaya çıkar.
+
+Hakim dosya önüne geldiğinde lex fori vasıflandırmaya gidebileceği gibi lex
+causa vasıflandırmaya da gidebilir. Ancak, *her halükarda hakim önüne gelen
+bağlama konusunda lex fori vasıflandırma yapmak zorundadır*. Zira lex causa
+vasıflandırmaya bu şekilde ulaşılır.
+
+Bağlama noktasının vasıflandırılmasında ise söz konusu *bağlama noktası hangi
+kanunlar ihtilafı kuralının içinde yer alıyorsa o kanunlar ihtilafı kuralının
+yer aldığı hukuka göre vasıflandırma yapılır*.
+
+=== ATIF
+
 Uygulanacak yabancı hukukun kanunlar ihtilafı kurallarının başka bir hukuku
 yetkili kılması, sadece kişiler hukuku ve aile hukukuna ilişkin ihtilaflarda
 dikkate alınır ve bu hukukun maddi hukuk hükümleri uygulanır.
+
+Yabancı hukukun kanunlar ihtilafı kurallarının başka bir devlet hukukunu işaret
+etmesi halinde *devam eden atıf* söz konusudur. Yabancı hukuk kanunlar ihtilafı
+kurallarının Türk hukukuna geri yollaması durumunda ise *geri yollanan atıf
+(iadeli atıf)* söz konusudur.
 
 == KANUNLAR İHTİLAFI KURALLARI
 
@@ -84,3 +115,113 @@ hukukuna uygun şekilde yapılan ölüme bağlı tasarruflar da geçerlidir.
 
 Ölüme bağlı tasarruf ehliyeti, tasarrufta bulunanın, tasarrufun yapıldığı
 andaki milli hukukuna tabidir.
+
+=== NİŞANLILIK
+
+Nişanlanma ehliyeti ve şartları taraflardan her birinin nişanlanma anındaki
+milli hukukuna tabidir.
+
+Nişanlılığın hükümlerine ve sonuçlarına müşterek milli hukuk, taraflar ayrı
+vatandaşlıkta iseler Türk hukuku uygulanır.
+
+NOTE: Nişanlanma kişiler hukukuna ilişkin bir mesele olduğundan her devletin
+kendi hukukundaki kanunlar ihtilafı kuralları dikkate alınır.
+
+=== EVLİLİK
+
+Evlenme ehliyeti ve şartları, taraflardan her birinin evlenme anındaki hukukuna
+tabidir.
+
+Evliliğin şekline *yapıldığı ülke hukuku* uygulanır.
+
+Evliliğin genel hükümleri, eşlerin müşterek milli hukukuna tabidir. Tarafların
+ayrı vatandaşlıkta olmaları halinde müşterek mutad mesken hukuku, bulunmadığı
+takdirde Türk hukuku uygulanır.
+
+NOTE: Evlenme kişiler hukukuna ilişkin bir mesele olduğundan her devletin kendi
+hukukundaki kanunlar ihtilafı kuralları dikkate alınır.
+
+Yabancı bir ülkenin Türkiye'deki konsolosluğunda evlenebilmek için öncelikle o
+ülkenin konsolosluğa izin vermiş olması ve evlenecek kişilerin o ülkenin
+vatandaşı olması gerekir.
+
+Türkiye'nin yabancı bir ülkedeki bir konsolosluğunda evlenebilmek için öncelike
+Türk mevzuatının o konsolosluğa evlendirme yetkisi tanımış olması gerekir.
+İkinci olarak yabancı ülkenin de konsolosluğa evlendirme yetkisi tanıması
+gerekir. Son olarak da evlenecek kişilerin Türk vatandaşı olması gerekir.
+
+.Mal rejimi
+****
+*Evlilik malları hakkında eşler evlenme anındaki mutad mesken veya milli
+hukuklarından birini açık olarak seçebilirler*; böyle bir seçim yapılmamış
+olması halinde evlilik malları hakkında eşlerin evlenme anındaki müşterek milli
+hukuku, bulunmaması halinde evlenme anındaki müşterek mutad mesken hukuku,
+bunun da bulunmaması halinde Türk hukuku uygulanır.
+
+Malların tasfiyesinde, taşınmazlar için bulundukları ülke hukuku uygulanır.
+
+Evlenmeden sonra yeni bir müşterek hukuka sahip olan eşler, üçüncü kişilerin
+hakları saklı kalmak üzere, bu yeni hukuka tabi *olabilirler*.
+****
+
+=== BOŞANMA
+
+Boşanma ve ayrılık sebepler ve hükümleri, eşlerin müşterek milli hukukuna
+tabidir. Tarafların ayrı vatandaşlıkta olmaları halinde müşterek mutad mesken
+hukuku, bulunmadığı takdirde Türk hukuku uygulanır.
+
+Boşanmış eşler arasındaki nafaka talepleri, boşanmada velayet ve vesayete
+ilişkin sorunlar hakkında da yukarıdaki hüküm uygulanır.
+
+CAUTION: Velayet normalde soybağına ilişkin bir meseledir. *Boşanmadan sonra
+bir velayet davası açılacak olursa soybağı hükümlerine tabi olur*.
+
+.Müşterek velayet
+****
+Kişiler, yabancı hukukta boşanmış ve çocuk hakkında müşterek velayete
+hükmedilmiş ise Yargıtay Medeni Kanun'daki düzenlemeyi kamu düzeninden sayarak
+müşterek velayete hükmedilemeyeceğini söylüyordu.
+
+Türkiye, 8 Nisan 2016 tarihinde AİHS'in 7 nolu protokolüne imza attı. Bu
+protokolün 5. maddesine göre:
+
+_Eşler evlilikte, evlilik süresince ve evliliğin sona ermesi durumunda, kendi
+aralarında ve çocukları ile ilişkilerinde medeni haklar ve sorumluluklardan
+eşit şekilde yararlanırlar. Bu madde devletlerin çocuklar yararına gereken
+tedbirleri almalarını engellemez._
+
+Yargıtay bu sebeple, "_Türkiye artık AİHS'in 7 nolu protokolüne taraf
+olduğundan ve Anayasa'nın 90.  maddesi gereği uluslararası bir sözleşme ile iç
+hukuktaki bir düzenlemenin çelişmesi halinde uluslararası sözleşme
+uygulanacağından müşterek velayete hükmedilebilir._" demiştir.
+****
+
+Geçici tedbir taleplerine Türk hukuku uygulanır.
+
+TIP: Boşanmada ehliyet düzenlenmediği için MOHUK 9'daki "_Hak ve fiil ehliyeti
+ilgilinin milli hukukuna tabidir._" hükmü uygulanacaktır. *Aile hukukuna
+ilişkin bir mesele olduğundan atıf da dikkate alınır.*
+
+=== SOYBAĞI
+
+Soybağının kuruluşu, çocuğun doğum anındaki milli hukukuna, kurulamaması
+halinde çocuğun mutad meskeni hukukuna tabidir.
+
+Soybağı bu hukuklara göre kurulamıyorsa, ananın veya babanın, çocuğun doğumu
+anındaki milli hukuklarına, bunlara göre kurulamaması halinde ana ve babanın,
+çocuğun doğumu anındaki müşterek mutad mesken hukukuna, buna göre de
+kurulamıyorsa çocuğun doğum yeri hukukuna tabi olarak kurulur.
+
+Soybağı hangi hukuka göre kurulmuşsa iptali de o hukuka tabidir.
+
+Soybağının hükümleri, soybağını kuran hukuka tabidir. Ancak ana, baba ve çocuk
+müşterek milli hukuku bulunuyorsa, soybağının hükümlerine o hukuk, bulunmadığı
+takdirde müşterek mutad mesken hukuku uygulanır.
+
+Soybağına ilişkin uluslararası sözleşmeler:
+
+. *Çocuk Haklarına Dair Birleşmiş Milletler Sözleşmesi*
+. *Evlenme ile Nesep Düzeltilmesi Hakkında Sözleşme*
+. *Evlilik Dışı Çocukların Tanınmalarını Kabule Yetkili Makamların Yetkilerinin
+Genişletilmesi Hakkında Sözleşme*
+. *Evlilik Dışında Doğan Çocukların Tanınmasına Dair Sözleşme*
