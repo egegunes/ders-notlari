@@ -298,3 +298,60 @@ Soybağına ilişkin uluslararası sözleşmeler:
 . *Evlilik Dışı Çocukların Tanınmalarını Kabule Yetkili Makamların Yetkilerinin
 Genişletilmesi Hakkında Sözleşme*
 . *Evlilik Dışında Doğan Çocukların Tanınmasına Dair Sözleşme*
+. *Velayet Sorumluluğu ve Çocukların Korunması Hakkında Tedbirler Yönünden
+Yetki, Uygulanacak Hukuk, Tanıma, Tenfiz, İşbirliğine Dair Sözleşme*
++
+****
+Bu sözleşme ile:
+
+.. Çocuğun şahsı ve malvarlığı ile ilgili bir tedbir almaya yetkili makam,
+.. Bu tedbirlere hangi hukukun uygulanacağı,
+.. Velayete hangi hukukun uygulanacağı,
+.. Çocuğun şahsına ve kendi malvarlığına ilişkin kararların nasıl tanınacağı ve
+tenfiz edileceği
+
+düzenlenmektedir.
+****
++
+*Çocuğun mutad meskeni makamları, çocukla ilgili gerekli tedbirleri alma
+yetkisini haizdir.* Çocuğun üstün menfaati söz konusuysa, istisnaen çocuğu
+daha iyi koruyabilecek mahkeme için yetkiden feragat edilebilir. Ancak,
+yetkiden feragat edecek mahkeme, öncelikle lehine yetkiden feragat edeceği
+mahkemeden izin almalıdır.
++
+Sözleşme, mutad mesken mahkemesine ek olarak, boşanma dava görülüyorsa bu
+mahkemenin de yetkili olacağını düzenlemektedir.
++
+Çocukla ilgili verilmesi gereken çok acil bir karar varsa ve ana ve baba
+velayet uyuşmazlığı sebebiyle bu kararı ortaklaşa veremiyorsa, çocuğun
+bulunduğu ülke mahkemesi de yetkilidir.
++
+Tüm bu yetkili hukukların yanında, üçüncü bir devletin hukukunun çocuk ile daha
+sıkı ilişkide bulunduğu ortada ise bu devletin hukuku da uygulanabilir.
++
+*Bu sözleşmenin hükümleri, taraf olmayan devlet vatandaşlarına da uygulanır.*
++
+Çocuğun malvarlığına ilişkin bir hukuki işlem gerçekleştiren kişi, işlemin
+gerçekleştirildiği ülke hukukuna göre ehliyetsiz olsa da işlem geçerli sayılır.
+Yani bu sözleşme ile işlem güvenliği ilkesine bir istisna getirilmiştir.
++
+Velayete uygulanacak hukuk bakımından bu sözleşme hükümleri, MOHUK 16'dan önce
+uygulama alanı bulacaktır.
+. *Uluslararası Çocuk Kaçırmanın Yönlerine Dair Sözleşme*
++
+Bu sözleşme sadece ana veya baba çocuğu kaçırırsa uygulama alanı bulacaktır.
+Üçüncü kişinin kaçırması, sözleşmenin kapsamına girmez.
++
+Bu bir adli yardım sözleşmesidir. Kişi doğrudan dava açamaz; bulunduğu yerdeki
+Cumhuriyet savcısından talepte bulunur.
++
+*Bu sözleşmenin kapsamına sadece 16 yaşından küçük çocuklar girer.*
++
+Sözleşme ile sözleşmeye taraf yabancı devlette verilmiş velayet kararının
+tanıma ve tenfiz prosedürüne ihtiyaç duyulmaksızın geçerli olacağı
+düzenlenmiştir.
++
+Sözleşmede, çocuğun iadesine ilişkin dava sonuçlanmadan velayete ilişkin
+davanın görülemeyeceği de düzenlenmiştir.
+. *Çocukla Kişisel İlişki Kurulmasına Dair Avrupa Sözleşmesi*
+
