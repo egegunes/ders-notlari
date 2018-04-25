@@ -355,3 +355,163 @@ Sözleşmede, çocuğun iadesine ilişkin dava sonuçlanmadan velayete ilişkin
 davanın görülemeyeceği de düzenlenmiştir.
 . *Çocukla Kişisel İlişki Kurulmasına Dair Avrupa Sözleşmesi*
 
+=== NAFAKA
+
+Nafaka türleri 4 tanedir:
+
+. *Yardım nafakası:* Kural olarak alt soy ile üst soy arasındaki nafaka
+talepleridir. Kanuna göre mirasçılık sırasına göre talepte bulunulabilir.
++
+Alt soy - üst soy arasındaki nafaka taleplerine *1973 Tarihli Nafaka
+Yükümlülüklerine Uygulanacak Sözleşme* hükümleri uygulanır. Kayın ve civar
+hısımları arasındaki nafaka taleplerine ise MOHUK 19 uygulanır. MOHUK 19
+uyarınca "_Nafaka talepleri, nafaka alacaklısının mutad meskeni hukukuna
+tabidir._"
++
+IMPORTANT: Bu sözleşme taraf olmayan devlete karşı da uygulanır.
+. *İştirak nafakası:* Çocuğun velayetine sahip olmayan kişinin, çocuğun bakım
+ve giderlerini karşılamak için ödeme gücü oranında ödemekle yükümlü olduğu
+nafaka türüdür.
+
+.. *1956 Tarihli Çocuklara Karşı Nafaka Yükümlülüğüne Uygulanacak Kanuna Dair
+Sözleşme:* 21 yaşından küçük ve evlenmemiş çocuklara karşı olan nafaka
+yükümlülüğü düzenlenmiştir. Evlilik içi-evlilik dışı veya evlatlık olması
+farketmez. Bu sözleşmeye göre yetkili hukuk *nafaka alacaklısı çocuğun mutad
+mesken hukuku*, bu hukuka göre nafaka tesis edilemezse *davanın açıldığı yer
+hukukudur*.
++
+NOTE: Türkiye'nin çekincesi gereği *nafaka alacaklısı ve borçlusu aynı devlet
+vatandaşı ise ve nafaka borçlusu o devlette bulunuyorsa o devletin hukuku
+uygulanır.*
+.. *1973 Tarihli Nafaka Yükümlülüklerine Uygulanacak Sözleşme:* Sıhhi veya
+civar hısımlığı veya evlilik içi-evlilik dışı çocuk farkı gözetmeksizin
+*çocuğun mutad meskeni hukuku* uygulanır. Bu yoksa, *nafaka alacaklısı ve
+nafaka borçlusunun müşterek milli hukuku* uygulanır. Bu da yoksa, *davanın
+açıldığı yer hukuku* uygulanır.
++
+NOTE: Türkiye'nin çekincesi gereği *nafaka alacaklısı ve borçlusu aynı devlet
+vatandaşı ise ve nafaka borçlusu o devlette bulunuyorsa o devletin hukuku
+uygulanır.*
++
+TIP: Sınavda çocuğun bakım nafakasına hangi hukukun uygulanacağına ilişkin soru
+gelirse şu şekilde cevaplandırılmalıdır: *Bu husus kanunda düzenlenmemiştir. Bu
+konuya ilişkin biri 1956 biri 1973 tarihli iki sözleşme vardır. Yabancı
+devletin bu sözleşmelerden birine taraf olup olmadığı konusunda bilgi
+verilmediği için 1973 tarihli sözleşme uygulanacaktır. Zira 1973 tarihli
+sözleşme, taraf olsun olmasın bütün devletlere karşı uygulanacaktır. Bu
+sözleşmeye göre uygulanacak hukukun bağlama noktaları şu şekilde
+düzenlenmiştir: nafaka alacaklısının mutad meskeni hukuku, bu yoksa nafaka
+alacaklısı ile borçlusunun müşterek milli hukuku, bu da yoksa davanın açıldığı
+yer hukuku.*
+
+. *Yoksulluk nafakası:* Boşanmadan sonra yoksulluğa düşecek olan eşin belirli
+bir hayat standardını sürdürmesi için diğer eş tarafından ödenen nafakadır.
++
+Boşanmaya uygulanacak hukuka tabidir.
+. *Tedbir nafakası:* Boşanma davası açılmadan önce veya boşanma davası
+sırasında talep edilebilecek geçici nafakadır.
++
+MOHUK 14/4 uyarınca "_Geçici tedbir taleplerine Türk hukuku uygulanır._"
+
+Nafakanın tahsiline ilişkine sözleşmeler:
+
+. *1956 Tarihli Nafaka Alacağının Tahsiline İlişkin Birleşmiş Milletler
+Sözleşmesi:* Bir adli yardım sözleşmesidir. Taraf devletler birer aracı kurum
+ile gönderici kurum belirler. *İdari makamlarca verilen kararlar da bu sözleşme
+çerçevesinde tanıma ve tenfize konu olabilir.*
+
+.. *(1. olasılık) Yabancı ülkede nafaka davası açmak:* Kişi, Cumhuriyet
+savcılıklarına başvurarak yabancı ülkedeki kişiye nafaka davası açabilir.
+Cumhuriyet savcısı, kişinin sunduğu tüm belgeleri yabancı devletin aracı
+kurumuna gönderir ve aracı kurum kişi adına nafaka davasını açar.
+.. *(2. olasılık) Türkiye'deki nafaka kararının tenfizi:* Yabancı ülkenin aracı
+kurumu, kişi adına tenfiz davası açar. Vekaletnamede açıkça yetki verilmişse
+sulh de olabilir.
+. *1958 Tarihli Çocuklara Karşı Nafaka Yükümlülüğü Konusundaki Kararların
+Tanınması ve Tenfizine İlişkin Sözleşme:* 21 yaşından küçük çocuklar hakkında
+verilen nafaka kararlarının tanıma ve tenfizini düzenlemektedir. Mütekabiliyet
+esasına dayalı bir sözleşmedir. Geçici nitelikte bir nafaka kararı varsa bile
+taraf devletler tarafından tenfiz edilebilir. *İdari makamlarca verilen kararlar da bu sözleşme
+çerçevesinde tanıma ve tenfize konu olabilir.*
+. *1973 Tarihli Sözleşmeye İlişkin Nafaka Yükümlülüğü Konusundaki Kararların
+Tanınması ve Tenfizine İlişkin Sözleşme:* Uygulanacak hukuka ilişkin
+sözleşmenin aksine bu sadece taraf devletler arasında uygulanır. *İdari
+makamlarca verilen kararlar da bu sözleşme çerçevesinde tanıma ve tenfize konu
+olabilir.* Bu sözleşmeye Türkiye'nin koyduğu çekinceler:
+
+.. Sıhhi hısımlara ilişkin nafaka taleplerine uygulanmaz.
+.. Düzenli şekilde ödenmesine hükmedilmemiş nafakalara uygulanmaz.
+.. Sulh kabul edilmez.
+. *2007 Tarihli Çocuk Nafakası ve Diğer Aile Nafaka Türlerinin Uluslararası
+Tahsiline İlişkin Sözleşme:* Taraf devletler arasında geçerlidir. 1956 tarihli
+ve 1973 tarihli sözleşmelerin yerine geçer. 1958 tarihli sözleşme ile hükümleri
+çelişiyorsa bu sözleşme uygulanır, aksi takdirde 1958 tarihli sözleşme
+uygulanabilir. *İdari makamlarca verilen kararlar da bu sözleşme
+çerçevesinde tanıma ve tenfize konu olabilir.* Bu sözleşme ile yardım nafakası
+talepleri de tenfiz edilebilir.
+
+=== EVLAT EDİNME
+
+Evlat edinme ehliyeti ve şartları, taraflardan her birinin evlat edinme
+anındaki milli hukukuna tabidir.
+
+Evlat edinmeye ve edinilmeye diğer eşin rızası konusuda eşlerin milli hukukları
+birlikte uygulanır. İki hukukun da izin vermesi şarttır. İki hukuktan
+hangisinin şartları daha ağırsa o esas alınır.
+
+Evlat edinmenin hükümleri evlat edinenin milli hukukuna, eşlerin birlikte evlat
+edinmesi halinde ise evlenmenin genel hükümlerini düzenleyen hukuka tabidir.
+
+NOTE: Yargıtay evlat edinmeye ilişkin şartların kamu düzeninden olduğunu kabul
+etmektedir. Dolayısıyla bu şartları hafifleştiren bir hukuk uygulanamaz.
+
+=== MİRAS
+
+Miras ölenin milli hukukuna tabidir. Türkiye'de bulunan taşınmazlar hakkında
+Türk hukuku uygulanır.
+
+Mirasın açılması sebeplerine, iktisabına ve taksimine ilişkin hükümler
+terekenin bulunduğu ülke hukukuna tabidir.
+
+Türkiye'de bulunan mirasçısız tereke devlete kalır.
+
+Ölüme bağlı tasarrufun şekline işlemin yapıldığı yer hukukunun öngördüğü şekil
+uygulanır. Ölenin milli hukukuna uygun şekilde yapılan ölüme bağlı tasarruf da
+geçerlidir.
+
+.Vasiyetnamede şekil
+****
+Vasiyetnamede şekil, _Vasiyet Tasarrufunun Biçimine İlişkin Lahey
+Sözleşmesi_ hükümlerine tabidir. Bu sözleşme mütekabiliyet şartı aranmaksızın
+uygulanır.
+
+Bu sözleşmeye göre kişi vasiyetnameyi düzenlediği anda üç tane bağlama noktası
+vardır:
+
+. Milli hukuk
+. İkametgah hukuku
+. Mutad mesken hukuku
+
+Vasiyetnamenin *şekil açısından geçerli olup olmadığı* incelenirken ilk olarak
+milli hukukuna bakılır. Geçerli değilse yerleşim yeri hukukuna bakılır. Buna
+göre de geçerli değilse mutad mesken hukukuna bakılır. *Bunlar arasında sıra
+gözetmek şart değildir.* Vasiyetnameyi ayakta tutmak için vasiyetnamenin
+yapıldığı an esas alınacağı gibi, ölüm anı da esas alınabilir.
+
+Vasiyetnamenin yapıldığı yer hukukuna göre şeklin geçerli olup olmadığı
+çözümlenebilir. Taşınmaz söz konusu ise taşınmazın bulunduğu yer hukuku da
+uygulanabilir.
+
+*Türkiye'nin koyduğu çekince gereği sözleşmede yer alan ikametgah kavramının
+nitelendirilmesi Türk hukukuna göre yapılacaktır.*
+
+Türkiye'nin ikinci çekincesi gereği ise Türk vatandaşları bakımından sözlü
+yapılan vasiyetnameler için bu sözleşme uygulanmaz.
+****
+
+Ölüme bağlı tasarruf ehliyeti, tasarrufta bulunanın, tasarrufun yapıldığı
+andaki milli hukukuna tabidir.
+
+*Miras hakkının varlığı ölenin milli hukukuna göre, taşınmaz söz konusu ise
+Türk hukukuna göre çözümlenir. Ancak, mirasın iktisabı açısından tapu kanunu
+uygulanır.*
