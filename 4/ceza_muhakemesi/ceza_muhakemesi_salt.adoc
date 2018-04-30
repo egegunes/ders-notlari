@@ -2877,3 +2877,101 @@ Süre dolduğunda düşme kararı verilir.
 
 Hükmün açıklanmasının geri bırakılması kararına karşı istinafa başvurabilme
 imkanı yoktur. Zira ortada bir hüküm yoktur. Ancak itiraz yoluna gidilebilir.
+
+== KANUN YOLLARI
+
+=== GENEL ÖZELLİKLER
+
+Kanun koyucu, olağan kanun yollarını *itiraz*, *istinaf* ve *temyiz* olarak;
+olağanüstü kanun yollarını ise *kanun yararına bozma*, *başsavcının itirazı* ve
+*yargılamanın yenilenmesi* olarak öngörmüştür. Anayasa Mahkemesi'ne bireysl
+başvuru da bir olağanüstü kanun yoludur.
+
+Bütün kanun yolları bünyelerinde şu üç özelliği barındırır:
+
+. *Aktarma etkisi:* Kararın denetimi her zaman daha vasıflı başka bir merciye
+bırakılır.
+. *Durdurma etkisi:* Kanun yolları, kural olarak konusunu oluşturan kararın
+infaz edilebilirliğini durdurur. *Gözlem altına alma hariç, itiraz kanun yolu
+infaz edilebilirliği durdurmaz!*
+. *Yayılma etkisi:* Yapılan temyiz başvurusu diğer sanıklar hakkında da lehe
+sonuç doğurabilir mahiyette ve doğrudan uygulanabilir ise onlar da yararlanır.
+
+Kanun yoluna başvuru için doğmuş ve ortaya çıkmış bir karara ihtiyaç vardır.
+
+Kanun yolu başvurusu, kararı veren makama yapılır.
+
+Tutuklu şüpheli/sanık, kanun yoluna başvurmak için tutuklu bulundukları
+cezaevi idaresine beyanda bulunabilir ya da yazılı dilekçe verebilir. Süresinde
+idareye başvurulması yeterlidir.
+
+
+==== BAŞVURU YAPABİLECEK KİŞİLER
+
+Cumhuriyet savcısı, şüpheli, sanık, katılan, katılma talebi karara bağlanmamış
+vaya hukuka aykırı biçimde reddedilmiş olanlar, katılan olabilecek ölçüde
+suçtan zarar görmüş olanlar kanun yollarına başvurabilir.
+
+Müdafi de müvekillinin açık arzusuna muhalif olmamak koşuluyla kanun yollarına
+başvurabilir.
+
+Sanığın yasal temsilcisi veya eşi de sanığın lehine olmak ve hukuki menfaatin
+bulunması şartıyla kanun yollarına başvurabilir.
+
+==== GERİ ALMA
+
+Kanun yolunda karar verilene kadar başvuru geri alınabilir. Savcının
+başvurusunu geri alması, başvuru sanığın lehine ise sanığın rızasına bağlıdır.
+Müdafinin başvuruyu geri alması için vekaletnamede özel yetki verilmiş
+olmalıdır.
+
+==== YANLIŞ MERCİ VEYA YANLIŞ YOL TAYİNİ
+
+Başvuruda yanlış merci veya yanlış kanun yolu tayin edilmiş olsa bile,
+başvuruyu alan merci bunu doğru merciye yönlendirmek zorundadır.
+
+Mahkemeler kararlarında bu karara karşı hangi kanun yoluna başvurulabileceğini
+göstermek zorundadır. Yargıtay, bunun gösterilmediği halde kanun yoluna
+başvurma süresinin başlamayacağını kabul etmektedir.
+
+==== ALEYHE CEZAYI AĞIRLAŞTIRMA YASAĞI
+
+Cumhuriyet savcısı tarafından aleyhine kanun yoluna gidilen karar, sanık lehine
+bozulabilir veya değiştirilebilir. Cumhuriyet savcısı, kanun yoluna sanık
+lehine başvurduğunda, yeniden verilen hüküm önceki hükümde tayin edilmiş olan
+cezadan *daha ağır bir cezayı içeremez*.
+
+Yargıtay, aleyhe cezayı ağırlaştırma yasağını oldukça sınırlı yorumlamaktadır.
+Yargıtay'a göre bu yasak sadece somut ceza için geçerlidir. Yapılacak kanun
+yolu incelemesinde hukuka aykırılıkların saptanmasına engel olarak
+yorumlanamaz. Örneğin hırsızlıktan verilmiş hüküm kanun yolunda yağma suçuna
+dönüşebilir ama yağma suçundan dolayı verilecek ceza ilk hükümdeki cezayı
+aşamaz.
+
+CAUTION: Lehe başvuru yapılmış olması kararın bozulmasına veya kaldırılmasına
+engel değildir.
+
+Yine bu yasak, infaz edilemeyecek bir kararın infaz edilebilir hale
+getirilmesine de engel değildir.
+
+İlk hükümde düşme kararı verilmiş ise kanun yolunda üst merciyi bağlayan bir
+ceza yok demektir.
+
+=== İTİRAZ
+
+İtiraz kanun yolunda, itirazı inceleyecek merci itiraza konu karardaki hem
+*maddi vakaya ilişkin kanaatin yerinde olup olmadığını* hem de *hukukun
+uygulanmasını* denetler.
+
+İtiraz kanun yolu, kural olarak hakimlik kararlarına karşı öngörülmüştür.
+
+=== İSTİNAF
+
+İstinaf kanun yolunda, bölge adliye mahkemesi, hükmün *sübut bakımından yerinde
+olup olmadığını* ve bir *hukuka aykırılık olup olmadığını* denetler.
+
+=== TEMYİZ
+
+Temyiz denetiminin kapsamı ve sebebi, hükmün veya hükmün verilmesindeki ara
+kararların hukuka aykırı olduğu iddiasıdır. *Temyiz denetiminin kapsamında
+sübutun yeri yoktur.*
