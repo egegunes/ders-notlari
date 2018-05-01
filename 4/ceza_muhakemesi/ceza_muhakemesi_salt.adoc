@@ -2505,12 +2505,19 @@ sayılı kanun uygulanmaz, yani soruşturma için izin alınmaz.
 Başlatılan her soruşturma bir şekilde son bulur. Bu iddianamenin kabulü ile
 olabileceği gibi, kovuşturmaya yer olmadığına karar verilmesi ile de olabilir.
 
-<<<
-
 ==== TAKİPSİZLİK KARARI
 
-.Yeterli şüpheye rağmen takipsizlik kararı verilmesi
-****
+Savcı kast-taksir tartışmasına girip takipsizlik kararı verebilir. Yine hukuka
+uygunluk nedenlerinden birisinin var olduğu sonucuna ulaşırsa soruşturmayı
+takipsizlikle sonuçlandırmalıdır. Ancak bu konular *açıkça anlaşılmıyorsa*
+savcı kanaatini kullanamaz, bu husus kovuşturma aşamasında çözülmelidir.
+
+Kusur ile ilgili meseleler kural olarak mahkemenin yetkisindedir. Kusurun
+varlığı ve yokluğu ya da derecesi ancak kovuşturma aşamasında belirlenebilir.
+
+
+.YETERLİ ŞÜPHEYE RAĞMEN TAKİPSİZLİK KARARI VERİLMESİ
+
 . *Şüpheli soruşturma sürecinde ölmüş* veya *dava zamanaşımı süresi dolmuş* ya
 da *dava koşullarından bir tanesi ortadan kalkmış* olabilir.
 . Cezayı kaldıran şahsi sebep olarak etkin pişmanlık hükümlerinin uygulanmasını
@@ -2572,15 +2579,6 @@ takipsizlik kararı ile dosyayı işlemden kaldırır.
 +
 TIP: Kovuşturma aşamasında suç vasfı değişir ve yeni suçun uzlaştırma
 kapsamında olduğu görülürse kovuşturma evresinde de uzlaştırmaya gidilebilir.
-****
-
-Savcı kast-taksir tartışmasına girip takipsizlik kararı verebilir. Yine hukuka
-uygunluk nedenlerinden birisinin var olduğu sonucuna ulaşırsa soruşturmayı
-takipsizlikle sonuçlandırmalıdır. Ancak bu konular *açıkça anlaşılmıyorsa*
-savcı kanaatini kullanamaz, bu husus kovuşturma aşamasında çözülmelidir.
-
-Kusur ile ilgili meseleler kural olarak mahkemenin yetkisindedir. Kusurun
-varlığı ve yokluğu ya da derecesi ancak kovuşturma aşamasında belirlenebilir.
 
 ==== TAKİPSİZLİK KARARINA İTİRAZ
 
