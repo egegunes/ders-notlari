@@ -976,3 +976,191 @@ bile, tazmin etmekle yükümlüdür.
 Sigortacı, sigorta ettirenin yaptığı makul giderleri, faydasız kalmış olsa
 bile, tazmin etmekle yükümlüdür. Gerekirse, sigorta ettirenin istemi üzerine,
 gerekli tutarı avans olarak ödemek zorundadır.
+
+== RİZİKONUN GERÇEKLEŞTİRİLMESİ
+
+=== ZARAR SİGORTALARINDA
+
+Sigortacı, aksine sözleşme yoksa, sigorta ettirenin, sigortalının, lehtarın ve
+bunların hukuken fiillerinden sorumlu bulundukları kişilerin *ihmallerinden
+kaynaklanan zararları tazmin ile yükümlüdür*.
+
+Sigorta ettiren, sigortalı ve tazminat ödenmesini sağlamak amacıyla bunların
+hukuken fiillerinden sorumlu oldukları kişiler, rizikonun gerçekleşmesine
+*kasten* sebep oldukları takdirde, *sigortacı tazminat borcundan kurtulur* ve
+*aldığı primleri geri vermez.*
+
+=== HAYAT SİGORTALARINDA
+
+==== İNTİHAR
+
+Sigortalı, yenilemeler de dahil olmak üzere, *en az üç yıldan beri devam eden*
+ve ölüm ihtimaline karşı yapılan sözleşmede, bu süre geçtikten sonra *intihar
+ederse* veya intihara teşebbüs sonucu ölürse, *sigortacı sigorta bedelini
+ödemekle yükümlüdür*.
+
+Sigortalının intiharı veya intihara teşebbüsü sonucu ölümü, *akli
+melekelerindeki bir rahatsızlık* sebebiyle *üç yıldan önce* gerçeleşmiş ise
+*sigortacı sigorta bedelini ödemek zorundadır*.
+
+==== SİGORTA ETTİREN VEYA LEHTARIN SİGORTALIYI ÖLDÜRMESİ
+
+*Sigorta ettiren*, sigorta bedelini ödeme borcunun doğmasını sağlamak amacıyla
+*sigortalıyı öldürür* veya öldürülmesinde suç ortaklığı ederse, *sigortacı
+bedel ödeme borcundan kurtulur*.
+
+*Lehtar*, *sigortalıyı öldürmüş* veya öldürülmesinde herhangi bir şekilde suç
+ortaklığı etmişse, sigorta bedelinden mahrum kalır ve *bu bedel ölenin
+mirasçılarına ödenir*.
+
+== SİGORTA HİMAYESİNİN SINIRLARI
+
+. *Sigorta bedeli:* Hem zarar hem meblağ sigortalarında geçen, esases poliçede
+yazan, sigortacının ediminin üst sınırını oluşturan, sigortacının riziko
+gerçekleştiğinde ödeyeceği azami tutarı ifade eden bedeldir.
+. *Sigorta değeri:* Sigortaya konu olan menfaatin değerini ifade eder.
+*Menfaat, bir mala sahip olmak, onu kullanmak ve işletmek sonucu oluşan
+ekonomik değerdir.* Meblağ sigortalarında sigorta değeri yoktur!
+. *Sigorta zararı:* Rizikonun gerçekleşmesi neticesinde oluşan somut zarar
+tutarını ifade eder.
+
+=== TAKSELİ SİGORTA
+
+Taraflar sözleşme ile sigorta değerini belirli bir para olarak belirlemişlerse,
+bu para taraflar arasında, sigorta değeri için esas olur.
+
+Bir sigorta sözleşmesinin takseli olması için, tarafların sigorta değerini
+tayin etmede karşılıklı olarak anlaşmaları ve anlaştıkları bu değerin poliçeye
+yazılması gerekir.
+
+Takse esaslı şekilde fahiş ise, sigortacı taksenin indirilmesini isteyebilir.
+Umulan kazanç takselenmiş ise, taksenin sözleşmenin yapıldığı sırada ticari
+tahminlere göre elde edilmesi mümkün görülen kazancı aşması halinde sigortacı
+bunun indirilmesini isteyebilir.
+
+=== EKSİK SİGORTA
+
+Sigorta bedeli, sigorta değerinden az olduğu takdirde, sigorta edilmiş
+menfaatin bir kısmının zarara uğraması halinde sigortacı, aksine sözleşme
+yoksa, sigorta bedelinin sigorta değerine olan oranına göre tazminat öder.
+
+Aksine sözleşmenin varlığı halinde *ilk tehlike sigortası* söz konusu olur. Bu
+durumda bedel ve değerin birbirine eşitlenmesi, buna göre primin yeniden tayin
+edilmesi ve zararın buna göre ödenmesi istenebilir.
+
+CAUTION: Sigorta edilmiş menfaatin tamamen zarara uğradığı, yok olduğu durumda
+poliçede yazan bedel ödenir.
+
+=== AŞKIN SİGORTA
+
+Sigorta bedeli sigorta olunan menfaatin değerinin üstünde ise, aşan kısım
+geçersizdir. Bu sebeple, sigorta bedeli ile sigorta priminin onu karşılayan
+kısmı indirilir ve tahsil edilmiş fazla prim geri verilir.
+
+Sigorta ettirenin, mali çıkar sağlamak amacıyla kötü niyetle yaptığı aşkın
+sigorta sözleşmesi geçersizdir. Sözleşme yapılırken geçersizliği bilmeyen
+sigortacı, durumu öğrendiği sigorta döneminin sonuna kadar prime hak kazanır.
+
+=== BİRDEN ÇOK SİGORTA
+
+Aynı menfaatin, aynı rizikolara karşı, aynı süre için, birden çok sigortacıya,
+aynı veya farklı tarihlerde sigorta ettirilmesi halinde sigorta ettirene
+sigorta bedelinden fazlası ödenmez.
+
+Birden çok sigortada, sigorta ettiren, sigortacılardan her birine hem rizikonun
+gerçekleştiğini hem de aynı menfaat için yapılan diğer sigortaları bildirir.
+
+CAUTION: Meblağ sigortaları bakımından böyle bir sınırlama söz konusu değildir.
+
+=== MÜŞTEREK SİGORTA
+
+Bir menfaat birden çok sigortacı tarafından aynı zamanda, aynı süreler için ve
+aynı rizikolara karşı sigorta edilmişse, yapılan birden çok sigorta
+sözleşmesinin hepsi, ancak sigorta olunan menfaatin değerine kadar geçerli
+sayılır. Bu takdirde sigortacılardan her biri, sigorta bedellerinin toplamına
+göre, sigorta ettiği bedel oranında sorumlu olur.
+
+Sözleşmelere göre sigortacılar müteselsilen sorumlu oldukları takdirde,
+sigortalı, uğradığı zarardan fazla bir para isteyemeyeceği gibi,
+sigortacılardan her biri yalnız kendi sözleşmesine göre ödemekle yükümlü
+olduğu bedele kadar sorumlu olur. Bu halde ödemede bulunan sigortacının diğer
+sigortacılara karşı haiz olduğu rücu hakkı, sigortacıların sigortalıya sözleşme
+hükümlerine göre ödemek zorunda oldukları bedeller oranındadır.
+
+IMPORTANT: Müşterek sigortada en önemli husus, sigortacıların bu yönde
+iradesinin olmasıdır.
+
+=== ÇİFTE SİGORTA
+
+Değerinin tamamı sigorta olunan bir menfaat, sonradan aynı veya farklı kişiler
+tarafından, aynı rizikolara karşı, aynı süreler için sigorta ettirilemez;
+sigorta ettirilmişse, sigorta ancak aşağıdaki hal ve şartlarda geçerli sayılır:
+
+.. Sonraki ve önceki sigortacılar onay verirlerse; bu takdirde, sigorta
+sözleşmeleri aynı anda yapılmış sayılarak riziko gerçekleştiğinde sigorta
+bedeli, *müşterek sigorta hükümleri* çerçevesinde ödenir.
+.. *Sigorta ettiren, önceki sigortadan doğan haklarını ikinci sigortacıya devir
+veya o haklardan feragat etmişse*; bu takdirde, devir veya feragatin ikinci
+sigorta poliçesine yazılması şarttır; yazılmazsa ikinci sigorta sözleşmesi
+geçersiz sayılır.
+.. *Sonraki sigortacının, ancak önceki sigortacının ödemediği tazminattan
+sorumluluğu şart kılınmış ise*; bu halde önceden yapılmış olan sigortanın
+ikinci sigorta poliçesine yazılması gerekir; yazılmazsa, ikinci sigorta
+sözleşmesi geçersiz sayılır.
+
+=== KISMİ SİGORTA
+
+Sigorta olunan menfaatin değeri önceki sözleşmeyle tamamen teminat altına
+alınamamışsa bu menfaat, geri kalan değerine kadar bir veya birkaç defa daha
+sigorta ettirilebilir. Bu takdirde, o menfaati sonradan sigorta eden
+sigortacılar, bakiyeden dolayı sözleşmenin yapılış tarihleri sırasıyla sorumlu
+olurlar. Aynı günde yapılmış olan sözleşmeler, aynı anda yapılmış sayılır.
+
+== TAZMİNAT BORCUNUN ÖDENMESİ
+
+Aynen tazmine ilişkin sözleşme yoksa sigorta tazminatı nakden ödenir.
+
+Sigorta tazminatı veya bedeli, rizikonun gerçekleşmesini müteakip ve rizikoyla
+ilgili belgelerin sigortacıya verilmesinden sonra sigortacının edimine ilişkin
+araştırmaları bitince ve her halde sigorta ettiren tarafından rizikonun
+gerçekleştiğine dair yapılacak bildirimden *45 gün sonra muaccel olur*. Can
+sigortaları için bu süre *15 gündür*. Sigortacıya yüklenemeyen bir kusurdan
+dolayı inceleme gecikmiş ise süre işlemez.
+
+Araştırmalar, ihbardan başlayarak *üç ay içinde tamamlanamamışsa*; sigortacı,
+tazminattan veya bedelden mahsup edilmek üzere, tarafların mutabakatı veya
+anlaşmazlık halinde mahkemece yaptırılacak ön ekspertiz sonucuna göre süratle
+tespit edilecek hasar miktarının veya bedelin *en az yüzde ellisini* avans
+olarak öder.
+
+Borç muaccel olunca, sigortacı ihtara gerek kalmaksızın temerrüde düşer.
+Sigortacının temerrüt faizi ödeme borcundan kurtulmasını öngören sözleşme
+hükümleri geçersizdir.
+
+Sigortacı, sözleşmede öngörülen rizikonun gerçekleşmesinden doğan zarardan veya
+bedelden sorumludur. Sözleşmede öngörülen rizikolardan herhangi birinin veya
+bazılarının sigorta teminatı dışında kaldığını ispat yükü sigortacıya aittir.
+
+== HALEFİYET
+
+Sigortacı, sigorta tazminatını ödediğinde, hukuken sigortalının yerine geçer.
+Sigortalının, gerçekleşen zarardan dolayı sorumlulara karşı dava hakkı varsa bu
+hak, tazmin ettiği bedel kadar, sigortacıya intikal eder.
+
+Sorumlulara karşı bir dava veya takip başlatılmışsa, sigortacı, mahkemenin veya
+diğer tarafın onayı gerekmeksizin, halefiyet kuralı uyarınca, sigortalısına
+ödeme yaptığını ispat ederek, dava veya takibi kaldığı yerden devam
+ettirebilir.
+
+NOTE: Doktrin ve uygulamada hakim görüşe göre, sigortacının rücu edeceği üçüncü
+kişinin sigortalı ile ilişkisi gereği rücu davası sonucunda sigortalıya ödediği
+bedeli geri alması sonucuna ulaşılacaksa rücu davası açılamaz.
+
+Sigortalı, halefiyet kuralı uyarınca sigortacıya geçen haklarını ihlal edici
+davranırsa, sigortacıya karşı sorumlu olur.
+
+Sigortacı zararı kısmen tazmin etmişse, sigortalı kalan kısımdan dolayı
+sorumlulara karşı sahip olduğu başvurma hakkını korur.
+
+CAUTION: Halefiyet, zarar sigortaları için geçerlidir. Meblağ sigortalarında
+böyle bir kurum yoktur.
