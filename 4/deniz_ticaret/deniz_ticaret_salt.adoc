@@ -2603,3 +2603,253 @@ daraltan veya kaldıran anlaşma yapılabilir.
 CAUTION: Taşımanın belirli kısmının belirli bir fiili taşıyan tarafından
 gerçekleştirileceği öngörülmüş olsa da, fiili taşıyan aleyhine Türk
 mahkemelerinde dava açılamıyorsa akdi taşıyanın sorumluluğu devam eder.
+
+=== TAŞIYANIN HAKLARI
+
+Taşıyanın navlun sözleşmesinden dolayı ortaya çıkan hakları özetle şunlar
+olabilir:
+
+. Navlun sözleşmesinden kaynaklanan navlun alacağı
+. Sürastarya kararlaştırılmışsa sürastarya ücreti alacağı
+. Müşterek avarya meydana gelmişse, bundan dolayı yapılan paylaştırmada gemiye
+düşen garame alacağı
+. Eğer eşyanın tevdi edilmesi söz konusu olmuşsa, bunun masrafları
+. Eşyanın satılması ya da emniyet altına alınması için yapılan masraflar
+. Yükle ilgililerin kusurlu hareketleri ile bir zarar meydana gelmişse, taşıyan
+herhangi bir zarara uğramışsa buna yönelik tazminat alacağı
+
+==== NAVLUN ALACAĞI
+
+===== NAVLUNUN KARARLAŞTIRILMAMIŞ OLMASI
+
+Navlunun miktarı kararlaştırılmadıysa, yükleme yeri ve zamanında o tür yük için
+mutat olan navlun esas alınacaktır.
+
+===== NAVLUNUN EŞYA MİKTARINA GÖRE BELİRLENMESİ
+
+Taraflar, navlunun belirlenmesinde eşyanın miktarının esas alınacağı
+kararlaştırmışlar, ancak teslim alınan eşya miktarının mı teslim edilen eşya
+miktarının mı esas alınacağı hususunda tereddüt varsa kanuna göre teslim edilen
+eşya miktarı esas alınacaktır.
+
+===== NAVLUNUN ZAMANA GÖRE BELİRLENMESİ
+
+Taraflar, geminin belirli bir süre, birden çok sefer yapması üzerine
+anlaşmışlarsa navlunun zaman üzerine belirlenmesi mümkündür. Bu durumda eşyanın
+yüklenmesine başlanacak tarih belirli ise bu tarihte süre başlar. Böyle bir
+tarih belirlenmemiş ise navlun hesabına esas olan süre hazırlık ihbarını takip
+eden gün başlayacaktır. Boşaltmanın bittiği gün de süre sona erer.
+
+Taraflar, bir sürastarya kararlaştırmışlarsa, bu sürastarya süresince navlun
+hesabına esas olan süre işlemez.
+
+Yolculuk sırasında geminin tamir edilmesi zorunluluğu ortaya çıkmışsa, bu tamir
+süresince de süre işlemeyecektir.
+
+Bir kamu tasarrufu nedeniyle geminin seferine ara verilmişse, sefere ara
+verilen süre de navlun hesabında dikkate alınmaz.
+
+===== NAVLUN DIŞINDA ÜCRET İSTENMESİ
+
+*Taşıyan, taşıma dolayısıyla navlun dışında bir ücret isteyemez.* Yolculuğun
+gerek olağan gerek olağanüstü giderlerinin taşıyana ait olduğu kabul edilir.
+Limana giriş çıkış masrafları, kılavuzluk hizmeti dolayısıyla yaptığı ödemeler
+vs. navluna eklenemez.
+
+===== NAVLUNUN MUACCELİYETİ
+
+Navlun, eşyanın tesliminin istendiği anda ve her halde boşaltma süresinin
+sonunda muaccel olur.
+
+===== EŞYANIN NAVLUN YERİNE BIRAKILMASI
+
+Taşıyan, bozulmul veya hasarlanmış olup olmadığına bakılmaksızın eşyayı navlun
+yerine kabul etmek zorunda tutulamaz.
+
+===== HASAR VEYA ZIYAA UĞRAYAN EŞYANIN DURUMU
+
+Hasar durumunda bunun navlun alacağını etkilememiş olması kabul edilmiştir.
+Eşya ister tamamen hasar görmüş olsun, isterse kısmen hasar görmüş olsun navlun
+tamamen ödenir.
+
+Boşaltma süresinin sonuna kadar bir kaza sonucunda zıyaa uğrayan eşya için
+navlun ödenmez ve peşin ödenmiş ise geri alınır. Navlun götürü kararlaştırılmış
+ise eşyanın bir kısmının zıyaı, navlunun o oranda indirilmesini istemeye hak
+verir.
+
+*Boşaltmayı gönderilen gerçekleştirecekse*, eşyanın zıyaından taşıyanın
+sorumluluğu eşyanın gönderilene teslim edildiği an sona erer.
+
+Niteliği itibarıyla, özellikle içinden bozulma, kendiliğinden eksilme ve olağan
+akma ve sızma yüzünden zıyaa uğrayan eşya ile yolda ölen hayvanlar için, teslim
+edilmiş olup olmadıklarına bakılmaksızın navlun ödenir.
+
+===== NAVLUN BORÇLUSU
+
+*Navlun borçlusu her zaman için navlun sözleşmesinin tarafı olan taşıtandır.*
+
+Navlun sözleşmesinde, konişmentoda veya diğer denizde taşıma senetlerinde
+navlun ve sürastarya gibi alacakları *gönderilenin* ödemesi
+kararlaştırılabilir. Fakat bu, gönderileni sözleşmenin borçlusu hale getirmez.
+Navlun sözleşmesinde gönderilen üçüncü kişi ise bir üçüncü kişi yararına
+sözleşme söz konusudur ve gönderilene eşyayı varma limanında teslim alma hakkı
+tanınmıştır. Navlunun gönderilen tarafından ödenecek olması bu teslim alma
+hakkının şarta bağlanmasıdır.
+
+==== HAPİS HAKKI
+
+*Taşıyan, navlun sözleşmesinden doğan bütün alacakları için eşya üzerinde hapis
+hakkına sahiptir.* Hapis hakkı, eşya, taşıyanın zilyetliğinde bulunduğu sürece
+devam eder; teslimden sonra dahi, *otuz gün içinde mahkemeye müracaat edilmek*
+ve *eşya henüz gönderilenin zilyetliğinde bulunmak* şartıyla, hapis hakkından
+doğan yetkilerin kullanılması mümkündür.
+
+*Hapis hakkı, sadece üzerinde hapis hakkı kullanılan eşyanın taşındığı
+yolculuktan doğan alacakları teminat altına alır.*
+
+Hapis hakkı ancak alacağı teminata alacak miktardaki eşya üzerinde
+kullanılabilir; ancak, müşterek avarya ve kurtarma alacakları için taşıyan,
+eşyanın tümü üzerinde hapis hakkı kullanabilir.
+
+Taşıyanın alacakları hakkında uyuşmazlık çıkarsa, çekişmeli tutar, mahkemece
+belirlenecek yere yatırılır yatırılmaz, taşıyan, eşyayı teslim etmek
+zorundadır. Taşıyan, eşyanın tesliminden sonra, yeterli teminat göstererek
+yatırılmış olan tutarı çekebilir.
+
+=== NAVLUN SÖZLEŞMESİNİN SONA ERMESİ
+
+Navlun sözleşmesi eşyanın taşınması, varma limanına ulaşması, varma limanında
+gönderilene teslim edilmesi, taşıyanın alacağını alması yoluyla sona erer.
+
+==== NAVLUN SÖZLEŞMESİNİN HÜKÜMDEN DÜŞMESİ
+
+Yolculuk başlamadan önce, beklenmedik bir hal yüzünden gemi tamir kabul etmez
+veya tamire değmez hale gelirse, gemi mahkemenin tespit kararıyla zayi olmuş
+sayılır. Bu halde navlun sözleşmesi hükümden düşer.
+
+Yolculuk başlamadan önce, navlun sözleşmesinde ferden belirlenen eşyanın tamamı
+beklenmedik bir halden dolayı zayi olursa, navlun sözleşmesi hükümden düşer.
+
+Yolculuk başladıktan sonra, beklenmedik bir hal yüzünden eşyanın tamamı zayi
+olmuşsa navlun sözleşmesi hükümden düşer. Taşıyana sadece sözleşmenin sona
+erdiği ana kadar doğmuş bulunan alacakları ödenir.
+
+==== NAVLUN SÖZLEŞMESİNİN FESHİ
+
+Taşıtan ve taşıyan, kanunda belirtilen sebeplerle sözleşmeyi feshedebilir:
+
+. Bir kamu tasarrufu yüzünden sözleşmenin ifasının engellenmiş olması
+. Savaş sebebiyle gemi veya navlun sözleşmesi gereğince taşınacak eşyanın
+serbest sayılmaması ve zapt veya müsadere tehlikesinin olması
+
+Yolculuk çarteri sözleşmesinde, taşıtana, yolculuk başlayıncaya kadar hiçbir
+sebep göstermeksizin sözleşmeyi feshetme imkanı tanınmıştır.
+
+*Tam yolculuk çarteri sözleşmesinde*, geminin tamamı taşıtana tahsis edilmiş
+olduğundan, taşıyanın uğradığı zararları ve mahrum kaldığı karı tazmin ederek
+sözleşmeyi feshedebilir.
+
+*Kısmi yolculuk çarteri sözleşmesinde*, taşıtan, yine taşıyanın uğradığı
+zararları ve mahrum kaldığı karı tazmin ederek sözleşmeyi feshedebilir. Ancak,
+eşya gemiye alındıktan sonra sözleşme feshedilmiş ise ve eşyanın boşaltılması,
+yolcuğun gecikmesine sebep olabilecek ise, diğer bütün taşıtanların onayı
+alınmış olmadıkça eşyanın boşaltılması istenemez.
+
+*Kırkambar sözleşmesinde*, taşıtan, yolculuk başlayıncaya kadar sebep
+göstermeksizin sözleşmeyi feshedebilir. Ancak böyle bir durumda taşıtan tam
+navlun bedeli ödeyecektir. Ayrıca eşyanın gemiden boşaltılması, yolculuğun
+gecikmesine sebep olacaksa, diğer bütün taşıtanların onayı alınmadan eşya
+boşaltılamaz.
+
+== DENİZ KAZALARI
+
+=== ÇATMA
+
+Kanundaki *çatma* hükümleri, iki veya daha çok geminin çarpışması sonucu
+gemilere ve gemilerde bulunan insanlara veya eşyaya verilen zararın tazmini
+hakkında uygulanır.
+
+Geminin, bir manevrayı yapmak veya yapmamak yahut seyir kurallarına uymamak
+suretiyle başka bir gemiye veya gemide bulunan insanlara veya eşyaya çatma
+olmaksızın zarar vermesi halinde de, çatma hakkındaki hükümler uygulanır.
+
+Çatmaya ilişkin iki uluslararası antlaşma vardır:
+
+. *SOLAS (Safety of Life at Sea):* Bu sözleşme, çatmaların önlenebilmesi için
+bir takım yükümlülükler getirmekte ve bir takım tedbirlerin alınmasını
+öngörmektedir.
+
+.. *SOLAS Kural - 5:* _Her tekne içinde bulunulan durum ve koşullarda durumun
+ve çatışma riskinin tamamen değerlendirilmesini sağlamak üzere elde mevcut tüm
+uygun araçların kullanımının yanı sıra her zaman tam bir görme ve işitme
+gözcülüğü de yapacaktır._
+.. *SOLAS Kural - 16:* _Yol vermekle yükümlü olan taraf mümkün mertebe erken ve
+çok net şekilde manevra yapmalıdır._
+
+. *Brüksel Formasyonu:* 1910 tarihli, bir çok devletin taraf olduğu, çatma
+meydana geldikten sonra kimin, ne şekilde sorumlu olacağına ilişkin hükümler
+içeren uluslararası antlaşmadır. Ticaret Kanunu da bir çok hükmünü buradan
+almıştır.
+
+IMPORTANT: Ticaret Kanununda düzenlenen çatma hükümleri, sadece ticari gemilere
+değil bütün gemilere uygulanır.
+
+*Çatma*, iki veya daha çok geminin fiilen çarpışmasıdır. Ayrıca bu gemiler
+arasında bir sözleşme ilişkisi bulunmamalıdır. Sözleşme ilişkisi varsa akdi
+sorumluluk söz konusu olur ve sözleşme hükümleri uygulanır. *Çatma, bir haksız
+fiil sorumluluğudur*.
+
+==== KUSURUN DURUMUNA GÖRE ÇATMA TÜRLERİ
+
+. *Kusursuz çatma:* Çatma, umulmayan bir hal veya mücbir bir sebepten meydana
+gelmişse ya da neyden ileri geldiği anlaşılamamışsa kusursuz çatma söz konusu
+olur. Bu durum, gemilerden biri demirliyken bir ileri gelse kusursuz çatma
+kabul edilir.
+. *Kusurlu çatma:* Çatma, gemilerden birinin donatanının veya gemi adamlarının
+kusurundan ileri gelmişse, zararı o geminin donatanı tazmin etmek zorundadır.
+. *Ortak kusurlu çatma:* Çatma, çarpışan gemilerin donatanlarının veya gemi
+adamlarının kusurlarından ileri gelmişse, bu gemilerin donatanları, *çatma
+yüzünden gemilerin veya gemide bulunan eşyanın uğradıkları zarardan*
+kusurlarının ağırlığı oranında sorumludur. Bununla beraber, duruma göre, bu
+oranın saptanması mümkün olmaz veya tarafların aynı derecede kusurlu olduğu
+ortaya çıkarsa, taraflar eşit oranda sorumlu tutulurlar. Bu tazminat istemleri
+bakımından, donatanların üçüncü kişilere karşı olan sorumluluğu müteselsil
+değildir.
++
+*Çatmaya bir teknik kusur sebep olmuşsa donatan, teknik kusurdan sorumsuzluk
+savunmasına dayanabilir.*
++
+Çatma, çarpışan gemilerin donatanlarının veya gemi adamlarının kusurlarından
+ileri gelmişse, bu gemilerin donatanları, *gemilerde bulunan kişilerin çatma
+yüzünden ölümünden veya yaralanmasından yahut sağlığının bozulmasından doğan
+zararlardan* müteselsilen sorumludur. Bununla beraber, duruma göre bu oranın
+tespiti mümkün olmaz veya tarafların aynı derecede kusurlu olduğu ortaya
+çıkarsa, taraflar eşit oranda sorumlu olurlar müteselsilen sorumludur.
+Bununla beraber, duruma göre bu oranın tespiti mümkün olmaz veya tarafların
+aynı derecede kusurlu olduğu ortaya çıkarsa, taraflar eşit oranda sorumlu
+olurlar.
++
+Donatanların birbirine rücuunda, her donatan, kusurunun ağırlığı oranında
+sorumludur.
+. *Kılavuzun kusuru:* Gemi, zorunlu danışman kılavuz veya isteğe bağlı kılavuz
+tarafından sevk edilirken onun kusurundan ileri gelen çatmadan geminin donatanı
+sorumludur.
++
+Gemi zorunlu sevk kılavuzu tarafından sevk edilirken onun kusurundan ileri
+gelen çatmadan geminin donatanı sorumlu değildir.
+
+==== DAVA ÖNCESİ DELİL TESPİTİ
+
+Dava öncesi yaptırılacak delil tespitlerinde, çatmanın meydana geldiği yerde
+deniz ticareti işlerine bakmakla görevli asliye ticaret mahkemesi, bulunmadığı
+takdirde asliye ticaret mahkemesi, o da yoksa ticaret davalarına bakmakla
+görevli asliye hukuk mahkemesi yetkilidir.
+
+==== ZAMANAŞIMI
+
+Çatmaya dayanan her türlü tazminat istemi, çatmanın meydana geldiği günden
+başlayarak iki yılda zamanaşımına uğrar.
+
+Donatanların birbirine karşı olan rücu hakları, ödemenin yapıldığı tarihten
+başlayarak bir yıl içinde zamanaşımına uğrar.
+
