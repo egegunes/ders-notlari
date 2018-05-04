@@ -2853,3 +2853,235 @@ başlayarak iki yılda zamanaşımına uğrar.
 Donatanların birbirine karşı olan rücu hakları, ödemenin yapıldığı tarihten
 başlayarak bir yıl içinde zamanaşımına uğrar.
 
+=== KURTARMA
+
+Seyrüsefere elverişli sularda tehlikeye uğramış bulunan su aracı veya diğer
+eşyanın kurtarılması için yapılan her fiil veya hareket, kurtarma faaliyetini
+oluşturur.
+
+*Su aracı* teriminin kapsamına, her türlü gemi ve seyrüsefere elverişli yapı
+girer. *Eşya* terimi ise, kıyıya sürekli ve iradi olarak sabitlenmiş olmayan
+her türlü şey ile hak kazanılmış olmayan navlun alacağını ifade eder.
+
+*Kurtarma faaliyeti* terimine;
+
+.. Su aracının malikinin veya kaptanının yahut araçta bulunmayan veya bulunmuş
+olmayan eşyanın malikinin açık ve makul olarak karşı koymasına rağmen yürütülen
+faaliyetler,
+.. Tehlike altında bulunan araçta çalıştırılan kişiler tarafından yürütülen
+faaliyetler,
+..  Tehlike doğmadan önce kurulmuş bir sözleşmenin ifası amacıyla yapılan veya
+yapılması gereken hizmetler
+
+girmez.
+
+Ticaret Kanunu'nun kurtarmaya ilişkin hükümleri;
+
+.. Kurtaranın, mevzuat gereğince kurtarma yükümlülüğünün bulunması,
++
+Türkiye'de mevzuat gereği kurtarma hususunda tekel sahibi, Kıyı Emniyeti ve
+Gemi Kurtarma Genel Müdürlüğü'dür.
+.. Kurtarma faaliyetinde bulunan aracın, kurtarılan araçla aynı malike ait
+olması
+
+hallerinde de uygulanır.
+
+==== KURTARMA ÜCRETİ
+
+Faydalı bir sonuç vermiş olan her türlü kurtarma faaliyeti, kurtarma ücreti
+istemine hak kazandırır.
+
+*Faydalı sonuç vermeyen kurtarma faaliyeti için kurtarma ücreti isteme hakkı
+doğmaz.*
+
+Kurtarma ücreti, kurtarılan eşyanın kurtarılma sonrasındaki değerini geçemez.
+Bu kuralın uygulanmasında, ödenmesi gerekebilecek faiz ve yargılama giderleri
+dikkate alınmaz.
+
+Kurtarma ücreti taraflarca belirlenmemişse veya kararlaştırılan ücretin mahkeme
+tarafından mevcut şartlara uyarlanması istenmişse, ücret, kurtarma faaliyetini
+özendirecek bir anlayışla, sıralama dikkate alınmaksızın aşağıdaki kıstaslar
+gözetilerek belirlenir:
+
+.. Aracın ve diğer eşyanın kurtarıldıktan sonraki değeri,
+.. Çevre zararının önlenmesi veya sınırlandırılması için kurtaranın gösterdiği
+çaba ve beceri,
+.. Kurtaran tarafından elde edilen başarının derecesi,
+.. Kurtarılan aracın ve içindeki insanların ve eşyanın karşılaştıkları tehlike
+ile kurtarmaya katılmış olanların kendileri ve araçları için göza aldıkları
+tehlikenin niteliği ve büyüklüğü,
+.. Kurtaranın harcadığı zaman, yaptığı giderler ve uğradığı zararlar,
+.. Verilen hizmetlerin ne kadar çabuk sağlandığı
+
+*Kurtarma ücreti para olarak saptanır. Aksi kararlaştırılmadıkça ücret,
+kurtarılan şeylerinin değerlerinin bir yüzdesi olarak belirlenemez.*
+
+==== KURTARMA SÖZLEŞMESİ
+
+Kaptan, aracın kurtarılması için malik adına kurtarma sözleşmesi yapmaya
+yetkilidir. Bu yetkinin kapsamına, yetkili mahkemeyi veya tahkimi
+kararlaştırmak da girer.
+
+Aracın maliki ve kaptanı, araçta bulunan şeylerin malikleri adına kurtarma
+sözleşmesi yapmaya yetkilidir. Bu yetkinin kapsamına, yetkili mahkemeyi veya
+tahkimi kararlaştırmak da girer.
+
+Kurtarma sözleşmesi, yanlış yönlendirme veya tehlikenin etkisi altında yapılmış
+ve kabul edilen şartlar hakkaniyete aykırı bulunmuş yahut kurtarma ücreti,
+yapılan hizmetlerle aşırı derecede oransız bulunmuşsa, istem üzerine sözleşme
+mahkeme tarafından mevcut şartlara uyarlanabilir yahut iptal olunabilir.
+
+==== ÜCRETTEN MAHRUMİYET
+
+Kurtaran, kurtarma faaliyetini kendi kusuruyla zorunlu kılmış veya daha da
+güçleştirmiş yahut hileli davranış sayılan ya da dürüstlüğe sığmayan diğer
+hareketlerde bulunmuş ise, kurtarma ücretinden tamamen veya kısmen mahrum
+bırakılabilir.
+
+==== ÖZEL TAZMİNAT
+
+Bir kurtaran, çevre zararı tehdidi oluşturan bir araç veya onun içindeki eşya
+için kurtarma faaliyetinde bulunmuş, ancak başarısız olduğundan kurtarma
+ücretine hak kazanamamış ise yapmış olduğu giderleri özel tazminat olarak
+malikten isteyebilir.
+
+Kurtaran, kurtarma faaliyeti ile çevre zararını önlemiş veya sınırlandırmış
+ise, malik tarafından ödenecek özel tazminat, kurtaranın yaptığı giderlerin en
+çok yüzde otuzuna kadar artırılabilir. Mahkeme veya hakem kurulu, hakkaniyet
+gerektiriyorsa, özel tazminatın miktarını daha da artırabilir; ancak, yapılacak
+artırım, hiçbir halde kurtaranın giderlerinin yüzde yüzünü geçemez.
+
+==== KURTARMA ÜCRETİ BORÇLULARI
+
+Kurtarma ücretinin borçluları, kurtarılan aracın ve diğer eşyanın kurtarma
+faaliyetinin tamamlandığı andaki malikleridir.
+
+Kurtarma ücreti, kurtarılan aracın maliki ve diğer eşyanın malikleri arasında
+kurtarılan değerler oranında paylaşılır. Kurtarma ücretinin borçluları arasında
+teselsül yoktur.
+
+==== ÜCRETİN GEMİ ADAMLARINA DAĞITILMASI
+
+Kurtarma faaliyeti gerçekleştiren gemi, bir yük veya yolcu gemisi ise, yani
+kurtarma faaliyetini ticari olarak gerçekleştiren bir gemi değilse kurtarma
+ücreti donatana ödenir ve bu ücretin bir kısmı gemi adamlarına ve kaptana
+dağıtılır.
+
+Kurtaran gemi, kurtarma işine tahsis edilmiş, bunu ticari bir faaliyet olarak
+yürüten bir gemi ise gemi adamlarını zaten bu iş için istihdam edilip ücret
+aldığından kurtarma ücretinden pay almaz.
+
+==== ÖDEME ZAMANI VE TEMİNAT
+
+Kurtarılan şeyler teslim alınırken borçlular, kurtaranın alacaklarından kendi
+paylarına düşen paraları ödemek veya kurtaranın istemi üzerine bu paralar için
+faizi ve yargılama giderlerini de kapsayacak şekilde teminat göstermek
+zorundadır.
+
+Kurtarma ücreti alacaklarından dolayı kurtaran, *kurtarılan gemi üzerine gemi
+alacaklısı hakkını* ve kurtarılan diğer *eşya üzerinde hapis hakkını* haizdir.
+
+Kurtarılan araç ve diğer eşya, kurtaranın rızası olmaksızın, kurtarma
+faaliyetinin tamamlanmasından sonra ilk olarak varılan liman veya yerden,
+kurtaranın alacakları için yeterli teminat gösterilinceye kadar
+uzaklaştırılamaz.
+
+==== ZAMANAŞIMI
+
+Bir sözleşmeye dayanıp dayanmadığına bakılmaksızın, kurtarma faaliyeti ile
+enkazın kaldırılmasından doğan bütün alacaklar iki yılda zamanaşımına uğrar.
+Bu süre kurtarma faaliyetinin sona erdiği tarihten itibaren işlemeye başlar.
+
+=== MÜŞTEREK AVARYA
+
+Ortak bir deniz sergüzeştine atılmış olan gemiyi, yükü diğer eşyayı ve navlunu
+birlikte tehdit eden bir tehlikeden onları korumak amacıyla ve makul bir
+hareket tarzı oluşturacak şekilde, bile bile olağanüstü bir fedakarlık
+yapılması veya olağanüstü bir gidere katlanılması halinde *müşterek avarya
+hareketi* var sayılır ve bu hareketin doğrudan doğruya sonucu olan zarar ve
+giderler müşterek avarya olarak kabul edilir.
+
+Müşterek avaryadan sayılacak bir giderin yapılmaması için göze alınan her fazla
+gider de, başka ilgililer bu fazla giderlerden faydalansalar bile, önlenmiş
+olan giderin tutarına kadar, müşterek avarya garamesine girer.
+
+Taraflarca başka bir husus kararlaştırılmamış olduğu takdirde, müşterek avarya
+garamesi, Milletlerarası Denizcilik Komitesi tarafından hazırlanarak, Türkçe'ye
+çevrilip yayımlanmış olan en son tarihli *York-Anvers Kurallarına* tabidir.
+
+==== MÜŞTEREK AVARYANIN UNSURLARI
+
+. *Geminin bir yüke sahip olması*
+. *Gemi ve yükün birlikte tehlikede olması*
+. *Olağanüstü fedakarlık, masraf yapılması*
+. *Fedakarlığın iradi olması*
+. *Fedakarlığın makul olması*
+. *Faydalı netice elde edilmiş olması*
+
+==== ÖZEL MÜŞTEREK AVARYA TÜRLERİ
+
+* *Denize yük atma müşterek avaryası:* Bunun bir müşterek avarya olarak
+sayılabilmesi için denize atılan yükün hukuka uygun şekilde taşınıyor olması
+gerekir.
+* *Karaya oturtma müşterek avaryası*
+* *Yüzdürme müşterek avaryası:* Gemiyi yüzdürebilmek için makine ve kazanların
+zorlanmasından dolayı bir zarar ortaya çıkarsa bu müşterek avarya olarak kabul
+edilir.
+* *Hafifletme müşterek avaryası:* Denize yük atmayı gerektirecek kadar acil bir
+durum olmamakla birlikte eşyanın bir kısmının boşaltılması gerekiyorsa en yakın
+limandan bir mavna çağırılıp eşyalar mavnaya yüklenebilir. Bu durumda mavnaya
+ödenesi gereken masraflar müşterek avarya olarak kabul edilir.
+* *Yangın söndürme müşterek avaryası:* Gemide yangın çıkarsa bu hususi
+avaryadır. Yangının söndürülmesi için yapılan işlemler sonucu bir zarar ortaya
+çıkmışsa bu müşterek avaryadır.
+* *Barınma müşterek avaryası:* Ancak rota dışında bir barınma limanına
+sığınılmışsa müşterek avaryadan bahsedilir.
+* *Geçici tamir müşterek avaryası:* Üç şekilde ortaya çıkabilir:
+
+. Geminin müşterek selamet, güvenlik ve emniyet için tamiri
+. Tamirin müşterek avarya yüzünden gerekmesi
+. Kazaen ortaya çıkmış hasarın tamiri
+
+==== GARAME PAYLARININ BORÇLULARI
+
+Müşterek avarya garame paylarının kişisel borçluları, garameye girecek olan
+geminin müşterek avarya hareketinin meydana geldiği andaki donatanı, navlunun
+boşaltma tarihindeki alacaklısı ve diğer eşyanın boşaltma tarihindeki
+malikidir.
+
+==== GARAME PAYLARININ ALACAKLILARI
+
+Alacaklılar, *gemi üzerinde gemi alacaklısı hakkına*, garameye girecek *eşya
+üzerinde hapis hakkına* ve *navlun üzerinde alacak rehnine* sahiptirler.
+
+Kaptan, garame payları ödenmedikçe veya bunlar için teminat gösterilmedikçe
+garameye iştirak edecek eşyayı teslim edemez; ederse kendisi de bu paylardan
+şahsen sorumlu olur.
+
+==== ZAMANAŞIMI
+
+Müşterek avarya garame payı alacakları bir yılda zamanaşımına uğrar.
+Zamanaşımı, geminin varma yerine ya da yolculuğun bittiği yere vardığı tarihten
+itibaren işlemeye başlar.
+
+==== DİSPEÇ
+
+Donatan gecikmeksizin dispeçi yaptırmakla yükümlüdür; bu yükümlülüğünü yerine
+getirmezse ilgililerin her birine karşı sorumlu olur. Dispeç süresinde
+yaptırılmazsa, sigortacı da dahil olmak üzere, ilgililerden herhangi biri bunun
+yapılmasını istemeye ve yaptırmaya yetkilidir.
+
+Zararın tespiti ve paylaştırılması varma yerinde, eğer buraya varılmazsa
+yolculuğun bittiği limanda yapılır.
+
+Dispeç, ilgililerin oybirliğiyle atayacakları bir veya birden fazla dispeççi
+tarafından yapılır. Oybirliği sağlanamazsa, dispeççiyi, dispeçin yapılacağı yer
+mahkemesi atar.
+
+Dispeç dört kısımdan oluşur:
+
+. *Müşterek avaryanın gerekçesi*
+. *Alacaklı masa:* Müşterek avaryaya giren gemi, yük ve navlun zararları ve
+kaptan tarafından yapılan fevkalade masraflar tayin edilir.
+. *Borçlu masa*
+. *Paylaştırma oranının belirlenmesi*
