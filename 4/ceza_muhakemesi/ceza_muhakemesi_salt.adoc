@@ -2963,13 +2963,438 @@ uygulanmasını* denetler.
 
 İtiraz kanun yolu, kural olarak hakimlik kararlarına karşı öngörülmüştür.
 
+Kanunda, kanun yoluna başvurma yetkisi tanınmış kişiler hukuki çıkarları
+bulunmak şartıyla itiraz kanun yoluna başvurabilir. Buna ek olarak, süje
+vasfına sahip olmayıp itiraz kanun yoluna başvurabilecek üçüncü kişiler de
+vardır. Örneğin, üçüncü kişinin mülkiyetinde bulunan eşyaya el konulduğunda
+eşyanın iadesini talep yetkisi ve bu talebin reddedilmesi halinde itiraz
+yetkisi üçüncü kişiye aittir.
+
+İtirazın aktarma etkisi vardır fakat durdurma etkisi yoktur. Yani itiraza konu
+edilecek kararlara karşı itiraz yoluna başvurulmuş olması, kararın infazını
+durdurmaz. Bunun tek istisnaı gözlem altına almadır.
+
+İtiraz başvurusu, itiraza konu edilen kararı veren merciye yapılır. Kararın
+tebliği veya tefhiminden itibaren 7 gün içinde başvuru yapılabilir.
+
+Kararı veren merci itiraz başvurusu yapıldığında karar veren merciin kendi
+kararını denetlemek için üç günlük bir süresi vardır. Bu süre içerisinde kendi
+kararının hukuka aykırılığını farkederse kendisi bu hukuka aykırılığı
+düzeltebilir. Kararının hukuka uygun olduğu sonucuna ulaşırsa dosyayı itirazı
+inceleyecek mercie göndermek zorundadır.
+
+Sulh Ceza Hakimliği bakımından; o yerde birden fazla Sulh Ceza Hakimliği varsa
+bir sonraki numaralı ve son numara için de 1 numaraları hakimliğe, tek Sulh
+Ceza Hakimliği varsa Ağır Ceza Mahkemesinin merkezinde bulunan Sulh Ceza
+Hakimliği, ildeki tek Sulh Ceza Hakimliği ise en yakın yerdeki Sulh Ceza
+Hakimliği itirazı inceleyip sonuçlandırır.
+
+Asliye Ceza Mahkemeleri için itirazı inceleyecek merci Ağır Ceza
+Mahkemeleridir.
+
+Ağır Ceza Mahkemeleri bakımından bir sonraki numaralı Ağır Ceza Mahkemesi, son
+numara ise 1 numaralı Ağır Ceza Mahkemesi itirazı inceleyecek mercidir.
+
+İtirazı inceleyecek merci, karar verebilemk için ek araştırmaya ihtiyaç
+duyuyorsa bunu bizzat yapabilir veya yapılması yönünde emir verebilir. Bunun
+sonucunda iki karar verebilir:
+
+. İtirazı kabul eder, itiraza konu kararı kaldırır ve verilmesi gereken kararı
+verir.
+. İtirazı reddeder. Bu karara karşı ikinci bir itiraz imkanı yoktur. Fakat
+süreç sıfırdan başlatılabilir. Örneğin tahliye talebi reddedilen tutuklu kişi,
+tahliye talebi reddedildikten sonra bu ret kararına itiraz etmiş ve itiraz da
+reddedilmişse yeniden tahliye talebinde bulunarak süreci sıfırdan başlatabilir.
+
+.Hükmün açıklanmasının geri bırakılması
+****
+Hükmün açıklanmasının geri bırakılması kararına karşı işletilebilecek yol
+itirazdır. Ancak, itiraz incelemesi sonucunda ne şekilde bir karar verileceği
+problemlidir.
+
+. HAGB kararı kaldırılıp hüküm açıklanabilir. Ancak, itirazı inceleyen merci,
+ilk derece mahkemesinin hükmünün sübut bakımından hatalı olduğunu ya da tatbik
+edilen maddi ceza hukuku kuralları bakımından hatalı olduğunu saptar ise bunu
+duruşmasız şekilde dosya üzerinden sonuçlandıramaz. Zira sübut bakımından
+delillerin takdiri doğru yapılmamış ise yeniden delil değerlendirmesine
+gidilmelidir ve _hakim, kararını ancak duruşmaya getirilmiş ve huzurunda
+tartışılmış delillere dayandırabilir._
+. HAGB kararı kaldırılıp yeniden karar verilmek üzere ilk hükmü veren mahkemeye
+dosya gönderilir.
+****
+
 === İSTİNAF
 
 İstinaf kanun yolunda, bölge adliye mahkemesi, hükmün *sübut bakımından yerinde
 olup olmadığını* ve bir *hukuka aykırılık olup olmadığını* denetler.
+
+İlk derece mahkemelerinden verilen hükümlere karşı istinaf yoluna
+başvurulabilir. *Ancak, onbeş yıl ve daha fazla hapis cezalarına ilişkin
+hükümler, bölge adliye mahkemesince re'sen incelenir.*
+
+Hükümden önce verilip hükme esas teşkil eden veya başkaca kanun yolu
+öngörülmemiş olan mahkeme kararlarına karşı da hükümle birlikte istinaf yoluna
+başvurulabilir.
+
+Aşağıdaki hükümlere karşı istinaf yoluna başvurulamaz:
+
+.. Hapis cezasından çevrilen adli para cezaları hariç olmak üzere, sonuç olarak
+belirlenen *üç bin Türk Lirası* dahil adli para cezasına mahkumiyet hükümlerine
+.. Üst sınırı *beş yüz günü geçmeyen* adli para cezasını gerektiren suçlardan
+beraat hükümlerine
+.. Kanunlarda kesin olduğu yazılı bulunan hükümlere
+
+==== BAŞVURU
+
+Kanun yoluna başvurmak hakkına sahip olduğu düzenlenmiş herkes, hukuki menfaat
+koşuluyla istinaf kanun yoluna başvurabilir.
+
+Başvuru, hükmün tefhiminden ya da hüküm yokluklarında verilmişse tebliğinden
+itibaren *yedi gün içerisinde* hükmü veren mahkemeye yapılabilir.
+
+Cumhuriyet savcısı, istinaf başvurusunda istinaf nedenlerini gerekçeleriyle
+göstermek zorundadır ve bu başvuru çelişmeliliği sağlamak açısından diğer
+taraflara tebliğ edilir. Gerekçe gösterilmezse, bir görüşe göre başvuru
+reddedilirken diğer bir görüşe göre gerekçe göstermesi için savcıya iade
+edilir.
+
+Diğer süjeler bakımından böyle bir gerekçe göstermek zorunluluğu yoktur.
+Dolayısıyla istinaf mahkemesi denetimi re'sen yapmak zorundadır; süjeler
+tarafından gösterilmiş sebeplerle bağlı değildir.
+
+İlk derece mahkemesi başvuruyu aldıktan sonra usuli bir incelemeye tabi tutar:
+
+. Başvuran istinafa gitme hakkına sahip mi?
+. Başvurulan karar istinafa tabi bir karar mı?
+. Başvuru süresi içinde yapılmış mı?
+
+Bunlardan herhangi biri olumsuz yanıtlanırsa *başvuru usulden reddedilir*.
+Başvuru usulden reddedildiğinde karar kesinleşmiş olur ve infaza verilir.
+Başvurunun usulden reddi kararı kendisine tebliğ edildiğinde, başvuran, *yedi
+gün içerisinde* ilk derece mahkemesine ikinci bir başvuru yaparak usulden ret
+kararının istinaf mahkemesi tarafından incelenmesini talep edebilir. *İkinci
+başvuru, infazı durdurmaz.* Ancak, ilk derece mahkemesi veya istinaf mahkemesi
+infazın durdurulmasına karar verebilir.
+
+==== İLK DENETİM
+
+Başvuru, ilk derece mahkemesinin usul denetiminden geçerse dosya bölge adliye
+mahkemesine gönderilir. Bölge adliye mahkemesi bir ilk denetim gerçekleştirir:
+
+. Başvuran istinafa gitme hakkına sahip mi?
+. Başvurulan karar istinafa tabi bir karar mı?
+. Başvuru süresi içinde yapılmış mı?
+. *Kendisi yetkili bölge adliye mahkemesi mi?*
+
+Yer bakımından yetkisiz ise yetkisizlik kararı ile dosyayı yetkili bölge adliye
+mahkemesine gönderir. Yer bakımından yetkili ise dosya üzerinde ön inceleme
+aşamasına geçilir.
+
+==== ÖN İNCELEME
+
+Ön inceleme aşaması dosya üzerinden gerçekleştirilir. Ön inceleme sonucunda;
+
+.. Delillerin doğru değerlendirilip tartışıldığını ve herhangi bir hukuka
+aykırılık bulunmadığını söylerek istinaf başvurusunu *esastan reddedebilir*.
+Mahkumiyet hükmü 5 yılın altında ise Yargıtay'a gitme imkanı olmadığı için
+kesinleşir.
+.. *Sabit bir cezanın söz konusu olması* veya *beraat* veya *düşme* kararı söz
+konusuysa ve araştırma yapmak gibi bir yükümlülüğü de yoksa *düzelterek
+onayabilir*.
+.. Savcının istemine uygun biçimde en alt sınırdan cezanın uygulanması
+gerektiği sonucuna ulaşılırsa *doğrudan alt sınıra hükmedip istinaf başvurusunu
+esastan reddedebilir*.
+.. Mutlak bir hukuka aykırılık hali (CMK 289) söz konusuysa *hükmü bozarak*
+dosyayı ilk derece mahkemesine geri gönderir. İlk derece mahkemesinin istinafın
+bozma kararlarına karşı direnme imkanı yoktur.
+.. Mutlak hukuka aykırılıklar dışında bir hukuka aykırılık hali saptar veya
+ispat bakımından mahkemenin ulaştığı sonucu hatalır bulur. Bu durumda yeniden
+yargılama yapmak üzere duruşma günü belirler. Duruşmanın sonuna kadar eski
+hüküm varlığını korur.
+
+==== DURUŞMA
+
+Duruşma, ön inceleme raporunun kabulü ve ilk derece mahkemesi hükmünün okunması
+ile başlar.
+
+Dosyada kullanılan tanık beyanları, keşif işlemleri gibi ispat vasıtası olarak
+kullanılan ve yeniden dinlenilmesine gerek olmayan deliller okunur. Daha önce
+dinlenmiş bir tanık veya bilirkişinin yeniden dinlenmesine ihtiyaç duyulursa
+davet edilir ve dinlenir. Daha önce toplanmamış bir delilin toplanmasına
+ihtiyaç duyuyorsa bunun toplanmasına karar verilir.
+
+Bu aşamadaki yargılama çelişmesi bir yargılamadır. Dolayısıyla Bölge Adliye
+Mahkemesi Cumhuriyet Başsavcılığına mensup bir Cumhuriyet savcısı duruşmalara
+iştirak eder ve iddia makamı olarak taleplerini açıklar. Sanık ve müdafii
+bakımından da savunmaya ilişkin aynı imkanların sağlanması gerekir.
+
+Duruşmanın sonunda bölge adliye mahkemesi, ya ilk derece mahkemesinin kararını
+hukuka uygun bularak istinaf başvurusunu esastan reddedebilir ya da hukuka
+aykırılık tespit eder veya ispat bakımından yerinde olmadığına karar verirse
+kararı kaldırarak hükmü kendisi tesis eder.
 
 === TEMYİZ
 
 Temyiz denetiminin kapsamı ve sebebi, hükmün veya hükmün verilmesindeki ara
 kararların hukuka aykırı olduğu iddiasıdır. *Temyiz denetiminin kapsamında
 sübutun yeri yoktur.*
+
+Bölge adliye mahkemesi ceza dairelerinin *bozma dışında kalan hükümleri* temyiz
+edilebilir.
+
+Aşağıdaki kararlar ise temyiz edilemez:
+
+.. İlk derece mahkemelerinden verilen *beş yıl veya daha az hapis cezaları* ile
+miktarı ne olursa olsun adli para cezalarına karşı istinaf başvurusunun esastan
+reddine dair bölge adliye mahkemesi kararları
+.. İlk derece mahkemelerinden verilen *beş yıl ve daha az hapis cezalarını
+artırmayan* bölge adliye mahkemesi kararları
+.. Hapis cezasından çevrilen seçenek yaptırımlara ilişkin ilk derece mahkemesi
+kararları ile ilgili olarak bölge adliye mahkemesince verilen; *seçenek
+yaptırımlara ilişkin her türlü kararlar ve istinaf başvurusunun esastan reddine
+dair kararlar*
+.. İlk derece mahkemelerinin görevine giren ve kanunda *üst sınırı iki yıla
+kadar (iki yıl dahil)* hapis cezasını gerektiren suçlar ve bunlara bağlı adli
+para cezalarına ilişkin her türlü bölge adliye mahkemesi kararı
+.. Adli para cezasını gerektiren suçlarda ilk derece mahkemelerinden verilen
+hükümlere ilişkin her türlü bölge adliye mahkemesi kararı
+.. *On yıl veya daha az hapis cezasını* veya adlî para cezasını gerektiren
+suçlardan, ilk derece mahkemesince verilen *beraat* kararları ile ilgili olarak
+istinaf başvurusunun esastan reddine dair kararları
+
+Temyizin konusu hüküm ve yargılama sırasında verilen diğer kararlardır.
+Dolayısıyla temyiz sadece hükmün denetlendiği bir yol değil, hükümle beraber
+bütün yargılamanın denetlendiği bir kanun yoludur.
+
+==== BAŞVURU
+
+Temyiz istemi, hükmün açıklanmasından itibaren *on beş gün içinde* hükmü veren
+mahkemeye yapılır. Hüküm, temyiz yoluna başvurma hakkı olanların yokluğunda
+açıklanmışsa, süre tebliğ tarihinden itibaren başlar.
+
+Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda
+göstermek zorundadır. Temyiz sebebi, ancak hükmün hukuki yönüne ilişkin
+olabilir.
+
+Bölge adliye mahkemesine temyiz başvurusu yapıldığında usuli bir inceleme
+yapar:
+
+. Karar temyiz incelemesine tabi midir?
+. Başvuran, başvuru hakkına sahip midir?
+. Başvuru süresi içinde yapılmış mıdır?
+
+Başvuru usulden reddedilirse, kişi bu karara karşı *7 gün içerisinde* temyize
+başvurabilir.
+
+Süresi içinde yapılan temyiz başvurusu, hükmün kesinleşmesini engeller.
+
+==== TEMYİZ DENETİMİ
+
+Temyiz başvurusu Yargıtay'a ulaştığında, öncelikle daire tarafından Yargıtay
+Başsavcılığına gönderilir ve başsavcının temyiz başvurusuna ilişkin görüşü
+alınır. Bu görüşün sanık aleyhine olduğu durumlarda sanığa tebliğ edilmesi
+gerekir. Sanık bu tebliğden itibaren 7 gün içinde cevap verebilir.
+
+Yargıtay başsavcısının görüşündan sonra hüküm, temyiz mercii tarafından
+incelenir. Temyiz denetimi, hükmün hukuka aykırılığına ilişkindir.
+
+==== HUKUKA AYKIRILIK
+
+*Temyiz, ancak hükmün hukuka aykırı olması nedenine dayanır.* Bir hukuk
+kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.
+
+Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılır hallerde
+*kesin hukuka aykırılık* var sayılır:
+
+.. Mahkemenin kanuna uygun olarak teşekkül etmemiş olması
+.. Hakimlik görevini yapmaktan kanun gereğince yasaklanmış hakimin hükme
+katılması
+.. Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem
+kabul olunduğu halde hakimin hükme katılması veya bu istemin kanuna aykırı
+olarak reddedilip hakimin hükme katılması
+.. Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili
+görmesi
+.. Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır olarak bulunması
+gereken kişilerin yokluğunda duruşma yapılması
+.. Hükmün gerekçeyi içermemesi
+.. Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının
+sınırlandırılmış olması
+.. Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması
+
+Kesin olmayan hukuka aykırılık ise iki noktada ortaya çıkabilir:
+
+.. Yargılama sırasında verilmiş ve başka bir kanun yolu öngörülmemiş kararlarda
+hukuka aykırılık gerçekleşmiş ve bu hukuka aykırılık hüküme etki etmiş
+olabilir.
+.. Hükmün içerisinde bir hukuka aykırılık olabilir. Örneğin, suç oluşturan
+fiilin vasfı yanlış değerlendirilmiş olabilir.
+
+NOTE: Sanığın yararına olan hukuk kurallarında aykırılık, sanık aleyhine hükmün
+bozdurulması için Cumhuriyet savcısına bir hak vermez.
+
+==== DURUŞMA
+
+Yargıtay'ın incelemesi sırasında duruşma yapılması, ancak 10 yıldan fazla
+cezayı gerektiren hükümler bakımından söz konusudur. Bu durumda Yargıtay,
+re'sen veya talep üzerine duruşma yapabilir.
+
+==== TEMYİZ SONUCU
+
+Yargıtay'ın temyiz incelemesi sonucunda aşağıdaki kararlar ortaya çıkabilir:
+
+. Kesin hukuka aykırılık ya da kesin olmamakla birlikte hükme etki eden hukuka
+aykırılık söz konusuysa başvuruyu kabul eder ve kararı bozarak dosyayı bölge
+adliye mahkemesine geri gönderir.
+. Herhangi bir değerlendirme gerektirmeyen şekli hukuka aykırılıklar (CMK 303)
+söz konusuysa hükmü düzeltir ve başvuruyu esastan reddeder.
+. Hükümde ne bir kesin hukuka aykırılık nedeni ne de başvuru da gösterilen
+temyiz nedeni bulunmaktadır. Bu durumda başvuruyu esastan reddeder ve hükmü
+onar.
+
+NOTE: Temyiz incelemesi sırasında Yargıtay bir düşme nedeni olduğunu farkederse
+artık vermesi gereken karar düşme kararıdır.
+
+==== HÜKMÜN BOZULMASI
+
+Hüküm bozulduğunda artık muhatap bölge adliye mahkemesidir. Bölge adliye
+mahkemesi, bozma kararını taraflara tebliğ eder ve buna ilişkin beyanlarını
+dinlemek için davet eder. Bölge adliye mahkemesinin verebileceği iki karar
+vardır:
+
+. *Direnme kararı* verebilir. Bu karar yeni bir hüküm mahiyetindedir ve
+dolayısıyla yeniden temyiz konusu edilebilir. Dosya bu durumda Yargıtay Ceza
+Genel Kurulu tarafından incelenir.
+. *Bozmaya uyma* kararı verebilir. Bu durumda bölge adliye mahkemesi,
+Yargıtay'ın bozma gerekçesine veya kendisinin verdiği ilk hükme bağlı
+olmaksızın yeni bir hüküm verir. Buna *bozmadan sonra serbesti* denir. Bunun
+iki istisnası vardır:
+
+.. Cezayı ağırlaştıma yasağı
+.. Yargıtay, hükmü usuli bir eksiklikten dolayı bozmuşsa bölge adliye
+mahkemesinin bu eksikliği gidermek zorundadır.
+
+NOTE: Bozmaya uyan mahkeme *eylemli direnme* yolunu tercih edebilir. Böylece
+hem bozmaya uyup hem aynı hükmü vermiş olur. Eylemli direnme ve eylemli uyma
+sadece bölge adliye mahkemeleri için geçerlidir.
+
+== OLAĞANÜSTÜ KANUN YOLLARI
+
+=== BAŞSAVCILIK İTİRAZI
+
+Yargıtay ceza dairelerinden birinin kararına karşı Yargıtay Cumhuriyet
+Başsavcısı, re'sen veya istem üzerine, ilamın kendisine verildiği tarihten
+itibaren *otuz gün içinde* Ceza Genel Kuruluna itiraz edebilir. *Sanığın lehine
+itirazda süre aranmaz.*
+
+Genel kurul itiraza konu kararın hukuka aykırı olduğu sonucuna ulaşırsa kararı
+kaldırır ve verilmesi gereken kararı kendisi verir. Bir denetim, direnme
+üzerine Genel Kurula çıktığında, genel kurul kararlarına karşı bölge adliye
+mahkemelerinin direnme yetkisi yoktur. Ancak burada genel kurul tarafından
+verilmiş karar, direnme sonucu verilmiş olmadığından bölge adliye mahkemesi bu
+karara karşı direnebilir.
+
+Bölge adliye mahkemesi ceza dairelerinin kesin nitelikteki kararlarına karşı
+bölge adliye mahkemesi Cumhuriyet başsavcılığı, re'sen veya istem üzerine,
+kararın kendisine verildiği tarihten itibaren *otuz gün içinde* kararı veren
+daireye itiraz edebilir. *Sanığın lehine itirazda süre aranmaz*.
+
+=== KANUN YARARINA BOZMA
+
+Hakim veya mahkeme tarafından verilen ve *istinaf veya temyiz incelemesinden
+geçmeksizin kesinleşen karar veya hükümde* hukuka ykırılık bulunduğunu
+öğrenen *Adalet Bakanlığı*, o karar veya hükmün Yargıtayca bozulması
+istemini, yasal nedenlerini belirterek Yargıtay Cumhuriyet Başsavcılığına
+yazılı olarak bildirir.
+
+Yargıtay Cumhuriyet Başsavcısı, bu nedenleri aynen yazarak karar veya hükmün
+bozulması istemini içeren yazısını Yargıtayın ilgili ceza dairesine
+verir.
+
+Yargıtayın ceza dairesi ileri sürülen nedenleri yerinde görürse, karar veya
+hükmü kanun yararına bozar. Bu bozma kararına karşı direnilemez.
+
+CAUTION: Sanık aleyhine sonuç doğmaz.
+
+Yargıtay Cumhuriyet Başsavcısı da cezanın doğrudan kaldırılmasını gerektiren
+haller ile doğrudan daha hafif ceza verilmesini gerektiren hallerle sınırlı
+olmak üzere kanun yararına bozmaya gidebilir.
+
+=== YARGILAMANIN YENİLENMESİ
+
+==== YARGILAMANIN LEHE YENİLENMESİ
+
+Kesinleşen bir hükümle sonuçlanmış bir dava, aşağıda yazılı hallerde
+hükümlü lehine olarak yargılamanın yenilenmesi yolula tekrar görülür:
+
+.. Duruşmada kullanılan ve hükmü etkileyen bir belgenin sahteliği
+anlaşılırsa
+.. Yemin verilerek dinlenmiş olan bir tanık veya bilirkişinin hükmü
+etkiyecek biçimde hükümlü aleyhine kasıt veya ihmal ile gerçek dışı tanıklıkta
+bulunduğu veya oy verdiği anlaşılırsa
+.. Hükme katılmış olan hakimlerden biri, hükümlünün neden olduğu kusur dışında,
+aleyhine ceza kovuşturmasını veya bir ceza ile mahkumiyetini gerektirecek
+biçimde görevlerini yapmada kusurlu davranmış ise
+.. Ceza hükmü hukuk mahkemesinin bir hükmünü dayandırılmış olup da bu
+hüküm kesinleşmiş diğer bir hüküm ile ortadan kaldırılmış ise
+.. Yeni olaylar ve yeni deliller ortaya konulup da bunlar yanlız başına veya
+önceden sunulan delillerle birlikte göz önüne alındıklarında sanığın
+beraatini veya daha hafif bir cezayı içeren kanun hükmünün uygulanması ile
+mahkum edilmesini gerektirecek nitelikte olursa
+.. Ceza hükmünün, insan haklarını ihlal ettiğinin Avrupa İnsan Hakları Mahkemesi'nin kesinleşmiş
+kararıyla tespit edilmiş olması. Bu halde yargılamanın yenilenmesi,
+AİHM kararının kesinleştiği tarihten itibaren bir yıl içinde istenebilir.
+
+==== YARGILAMANIN ALEYHE YENİLENMESİ
+
+Kesinleşen bir hükümle sonuçlanmış bir dava, aşağıda yazılı hallerde
+sanık veya hükümlünün aleyhine olarak yargılamanın yenilenmesi yoluyla tekrar
+görülür:
+
+.. Duruşmada sanığın veya hükümlünün lehine ileri sürülen ve hükme etkili
+olan belgenin sahte olduğu anlaşılırsa
+.. Hükme katılmış olan hakimlerden biri, aleyhine ceza kovuşturmasını veya
+bir ceza ile mahkumiyetini gerektirecek nitelikte olarak görevlerini yapmada
+sanık veya hükümlü lehine kusurlu davranmışsa
+.. Sanık beraat ettikten sonra suçla ilgili olarak hakim önünde güvenilebilir
+nitelikte ikrarda bulunmuşsa
+
+==== YARGILAMANIN YENİLENMESİNİN KABUL EDİLMEYECEĞİ HALLER
+
+Kanunun aynı maddesinde yer almış sınır içinde olmak üzere cezanın
+değiştirilmesi amacıyla yargılamanın yenilenmesi kabul edilemez.
+
+Hatanın giderilebilmesini sağlayacak başka bir yol varsa, yargılamanın
+yenilenmesi yoluna gidilemez.
+
+==== KABULE ŞAYANLIK DENETİMİ
+
+Mahkeme, yargılamanın yenilenmesi başvurusu üzerine bir inceleme yapar:
+
+. Başvuruda gösterilen sebepler, yargılamanın yenilenmesi sebebi midir?
+. Bu sebepler gösterilen istikamete (lehe veya aleyhe) uygun mudur?
+. Bunların ispat vasıtları gösterilmiş midir?
+
+Mahkeme başvuruyu kabule şayan bulmazsa başvuruyu reddeder. Bu karar itiraza
+konu olabilir.
+
+Başvuru kabule şayan bulunursa gösterilen sebeplere ilişkin delilleri toplamaya
+başlar. Delil incelemesi sonucunda da başvuru reddedilebilir. Bu karara karşı
+da itiraz yolu açıktır.
+
+==== DURUŞMA
+
+Mahkeme duruşma açmadan doğrudan beraat kararı verebilecekse, beraat kararını
+verir ve sonuçlandırır. Aksi takdirde yeni yargılama için duruşma günü belirler
+ve genel hükümlere göre duruşma gerçekleştirilir. Eski deliller ile yeni ortaya
+çıkan deliller bir arada değerlendirilerek yargılamaya devam edilir.
+
+==== SONUÇ
+
+Mahkeme yargılamanın sonunda iki karar verebilir:
+
+. İlk hüküm tasdik edilebilir.
+. İlk hüküm kaldırılarak yeni hüküm tesis edilebilir. Yeni hüküm de istinaf ve
+temyiz denetiminden geçerek kesinleşir.
+
+CAUTION: Aleyhe cezayı ağırlaştırma yasağı, yargılamanın yenilenmesi için de
+geçerlidir.
