@@ -1051,8 +1051,8 @@ anlaşılması
 ==== YAKALAMA EMRİ
 
 Soruşturma evresinde çağrı üzerine gelmeyen veya çağrı yapılamayan şüpheli
-hakkında, Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi tarafından
-yakalama emri düzenlenebilir. Bunun bir istisnası CMK 199'daki "_Mahkeme,
+hakkında, Cumhuriyet savcısının istemi üzerine *sulh ceza hâkimi tarafından
+yakalama emri düzenlenebilir*. Bunun bir istisnası CMK 199'daki "_Mahkeme,
 sanığın hazır bulunmasına ve zorla getirme kararı veya yakalama emriyle
 getirilmesine her zaman karar verebilir_" hükmüdür. Bu durumda çağrı yapmasına
 veya yaptığı çağrının sonuçsuz kalmasına gerek yoktur.
@@ -1061,7 +1061,6 @@ NOTE: Yakalama emri soruşturma aşamasında verildiğinde bir sulh hakimi karar
 olduğuna göre emre karşı başvurulacak yol da itiraz kanun yoludur. Kovuşturma
 evresinde ise ancak mahkemeden emri kaldırması talep edilebilir.
 
-Ayrıca, tutuklama isteminin reddi kararına itiraz halinde, itiraz mercii
 tarafından da yakalama emri düzenlenebilir.
 
 [TIP]
@@ -1225,41 +1224,20 @@ uzatılmasına dair bütün işlemler yazılı olarak yapılmak zorundadır.
 
 ==== KOLLUK AMİRİNİN GÖZALTI KARARI
 
-Suçüstü hâlleriyle sınırlı olmak kaydıyla; kişi hakkında aşağıdaki bentlerde
-belirtilen suçlarda mülki amirlerce belirlenecek kolluk amirleri tarafından
-yirmi dört saate kadar, şiddet olaylarının yaygınlaşarak kamu düzeninin ciddi
-şekilde bozulmasına yol açabilecek toplumsal olaylar sırasında ve toplu olarak
-işlenen suçlarda kırk sekiz saate kadar gözaltına alınma kararı verilebilir.
+Suçüstü hâlleriyle sınırlı olmak kaydıyla; kişi hakkında kanunda belirtilen
+suçlarda mülki amirlerce belirlenecek kolluk amirleri tarafından yirmi dört
+saate kadar, şiddet olaylarının yaygınlaşarak kamu düzeninin ciddi şekilde
+bozulmasına yol açabilecek toplumsal olaylar sırasında ve toplu olarak işlenen
+suçlarda kırk sekiz saate kadar gözaltına alınma kararı verilebilir.
+
 Gözaltına alma nedeninin ortadan kalkması hâlinde veya işlemlerin tamamlanması
 üzerine derhâl ve her hâlde en geç yukarıda belirtilen sürelerin sonunda
 Cumhuriyet savcısına, yapılan işlemler hakkında bilgi verilerek talimatı
-doğrultusunda hareket edilir. Kişi serbest bırakılmazsa yukarıdaki fıkralara
-göre işlem yapılır. Ancak kişi en geç kırk sekiz saat, toplu olarak işlenen
-suçlarda dört gün içinde hâkim önüne çıkarılır. Bu fıkra kapsamında kolluk
-tarafından gözaltına alınan kişiler hakkında da gözaltına ilişkin hükümler
-uygulanır.
+doğrultusunda hareket edilir. Ancak kişi en geç kırk sekiz saat, toplu olarak
+işlenen suçlarda dört gün içinde hâkim önüne çıkarılır.
 
-.. Toplumsal olaylar sırasında işlenen cebir ve şiddet içeren suçlar.
-.. 5237 sayılı Türk Ceza Kanununda yer alan;
-
-. Kasten öldürme, taksirle öldürme
-. Kasten yaralama
-. Cinsel saldırı
-. Çocukların cinsel istismarı
-. Hırsızlık
-. Yağma
-. Uyuşturucu veya uyarıcı madde imal ve ticareti
-. Bulaşıcı hastalıklara ilişkin tedbirlere aykırı davranma
-. Fuhuş
-. Kötü muamele
-
-.. 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununda yer alan suçlar.
-.. 6/10/1983 tarihli ve 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanununun
-33 üncü maddesinin birinci fıkrasının (a) bendinde belirtilen suçlar.
-.. 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanununa dayanılarak ilan edilen
-sokağa çıkma yasağını ihlal etme.
-.. 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun 3 üncü
-maddesinde belirtilen suçlar
+IMPORTANT: Vali tarafından yetkilendirilmiş kolluk amiri gözaltı kararı
+verebilirse de gözaltı süresini uzatamaz.
 
 ==== GÖZALTI İŞLEMLERİNİN DENETİMİ
 
@@ -1275,6 +1253,9 @@ Yakalama işlemine, gözaltına alma ve gözaltı süresinin uzatılmasına ili�
 Cumhuriyet savcısının yazılı emrine karşı, yakalanan kişi, müdafii veya kanunî
 temsilcisi, eşi ya da birinci veya ikinci derecede kan hısımı, hemen serbest
 bırakılmayı sağlamak için sulh ceza hâkimine başvurabilir.
+
+CAUTION: Bu itiraz, itiraz kanun yolu ile karıştırılmamalıdır. Bu bir *yasal
+çaredir.*
 
 Sulh ceza hâkimi incelemeyi evrak üzerinde yaparak derhâl ve nihayet yirmidört
 saat dolmadan başvuruyu sonuçlandırır.
@@ -1337,7 +1318,7 @@ edilir.
 soruşturmasından elde edilecek menfaate nazaran daha önemli olmamasıdır.
 
 NOTE: 2 yılın altında cezayı gerektiren suçlarda tutuklama yasaktır (vücut
-dokunulmazlığını ihlal eden suçlar hariç). 
+dokunulmazlığını ihlal eden suçlar hariç).
 
 Tutuklamanın maddi koşulları olan neden, şüphe ve ölçülülük hem kararın talep
 edilmesi aşamasında hem kararın verilmesi aşamasında hem de denetlenmesi
@@ -1421,6 +1402,10 @@ cezalık suçlarda kişi ancak 18 aya kadar tutuklu yargılanabilir.
 Ağır cezalık suçlarda ise bu süre 2 yıldır. Ancak zorunlu hallerde gerekçe
 gösterilerek bu süre 3 yıl daha uzatılabilir. Dolayısıyla ağır cezalık suçlarda
 kişi en fazla 5 yıl tutuklu yargılanabilir.
+
+IMPORTANT: Tutuklama süresinde azami süreyi belirlerken sanığın hangi mahkemede
+yargılandığı değil, suçun hangi mahkemenin görev alanına girdiği dikkate
+alınır.
 
 TIP: OHAL KHK'larından biri ile 5 yıllık süre 7 yıla çıkarılmıştır.
 
@@ -1600,11 +1585,15 @@ Sulh ceza hakiminin verdiği bir önleme araması kararının denetimi itiraz
 hükümlerine göre yapılır. Valinin emri söz konusu olduğunda ise idari yargının
 devreye girmesi icap eder.
 
-*Önleme araması sadece kamuya açık alanlar için geçerli bir işlemdir.*
-
 Önleme araması hukuka uygun olarak yapılmış ve işlem sırasında bir suçun
 işlendiğine dair deliller elde edilmişse bunlar bir soruşturmanın başlangıcında
 ve sonrasında ispat aracı olarak kullanılabilir.
+
+*Önleme araması sadece kamuya açık alanlar için geçerli bir işlemdir.* Ancak
+kolluk, imdat istenmesi veya yangın, su baskını ve boğulma gibi büyük
+tehlikelerin haber verilmesi ya da görülmesi halleriyle ağır cezayı gerektiren
+bir suçun işlenmesine veya yapılmakta devam olunmasına mani olabilmek için
+konutlara, işyerlerine ve eklentilerine girebilir.
 ====
 
 Kanun bazı durumlarda kolluk görevlisine herhangi bir karar veya emir olmaksızın
@@ -1864,6 +1853,10 @@ söz konusudur.
 
 IMPORTANT: Bu tip el koymaya ancak hakim karar verebilir.
 
+Bu el koyma türünde ayrıca ilgili kurullardan bir rapor alınması gerekir.
+Örneğin banka hesaplarına el koyma için BDDK'dan rapor alınmalıdır.Örneğin
+banka hesaplarına el koyma için BDDK'dan rapor alınmalıdır.
+
 ==== ŞİRKET YÖNETİMİ İÇİN KAYYIM TAYİNİ
 
 Suçun bir şirketin faaliyeti çerçevesinde işlenmekte olduğu hususunda kuvvetli
@@ -2000,12 +1993,28 @@ bağlantılı olmayan kişisel bilgiler derhal yok edilir.
 
 IMPORTANT: Soruşturmacı, kamu görevlisi olmak zorundadır.
 
+.Kışkırtıcı ajan
+****
+Kafasında suç işleme planı olmayan bir kişinin kolluk kuvvetleri tarafından
+yanıltılarak suça sevk edilmesi durumunda *kışkırtıcı ajan* söz konusudur.
+Böyle bir kurum hukukumuzda düzenlenmemiştir, ve dolayısıyla hukuka aykırıdır.
+Ancak, *kişi ilgili suç için hazırlık hareketlerini halihazırda gerçekleştirmiş
+ise kolluk kuvvetlerinin kimliklerini gizleyerek bu kişiyle temasa geçmeleri
+kışkırtıcı ajanlık değildir.* Bu hususun, Cumhuriyet savcısının genel araştırma
+yetkisi içinde olduğu kabul edilmelidir. *Bu durumda gizli soruşturmacı kurumu
+da söz konusu değildir*.
+
 === TEKNİK ARAÇLA İZLEME
 
 Kanunda sayılmış katalog suçların *işlendiği hususunda somut delillere dayanan
 kuvvetli şüphe sebepleri bulunması* ve *başka suretle delil elde edilememesi*
 halinde, *şüpheli veya sanığın* kamu açık yerlerdeki faaliyetleri ve işyeri
 teknik araçla izlenebilir, ses veya görüntü kaydı alınabilir.
+
+TIP: Cumhuriyet savcısı, genel araştırma yetkisi kapsamında şüpheli veya
+sanığın kamusal alanda takip edilmesini ve hareketlerinin not edilmesini
+emredebilir. Ancak bu takip sırasında ses ve görüntü toplanması genel araştırma
+yetkisi kapsamında değil, teknik araçla izleme kapsamında değerlendirilir.
 
 Teknik araçlarla izlemeye hâkim, gecikmesinde sakınca bulunan hâllerde
 Cumhuriyet savcısı tarafından karar verilir. Cumhuriyet savcısı tarafından
@@ -2079,7 +2088,8 @@ kişi kanuni temsilcidir. Kanuni temsilci şüpheli veya sanık ise rıza hakim
 tarafından verilir.
 
 NOTE: Tanıklıktan çekinebilme hakkına sahip olan kişiler vücuttan örnek alma
-veya beden muayenesinden kaçınabilirler.
+veya beden muayenesinden kaçınabilirler. Ancak beden muayenesi yapan kişi
+bilirkişilik sıfatını taşıdığından tanıklıktan çekinemez.
 
 == FİZİK KİMLİĞİNİN TESPİTİ
 
@@ -2653,7 +2663,7 @@ sebebidir.
 
 Suçun sübutu bakımından mutlak sayılacak bir delil toplanmadan iddianame
 düzenlenmiş ise, bu bir iade nedenidir. Yargıtay'a göre bu mutlak delil somut
-olaya göre değerlendirilir.
+olaya göre değerlendirilir. Ancak bu delil açıkça belirtilmelidir.
 
 Uzlaştırmaya veya ön ödemeye tabi bir suç söz konusuysa, bu yollar tüketilmeden
 iddianamenin düzenlenmiş olması bir iade sebebidir.
