@@ -767,6 +767,11 @@ tutuklu bulunan şüpheli veya sanıkla görüşme ve hukuki yardımda bulunma y
 vardır. Ancak soruşturma konusu suçun terör örgütü kapsamında suç olması
 halinde müdafi ile görüşme 24 saat kısıtlanabilir.
 
+Suç işlemek amacıyla örgüt kurma, silahlı örgüt ve terör suçlarından tutuklu ve
+hükümlü olanların müdafilik görevini üstlenen avukat, bu suçlardan dolayı
+hakkında kovuşturma açılması halinde kovuşturmayı yürüten mahkeme tarafından bu
+kişilerin müdafiliğini yapmaktan yasaklanabilir.
+
 == GÖREV VE YETKİ
 
 === MADDİ ANLAMDA YETKİ (GÖREV)
@@ -1531,6 +1536,10 @@ kontrol tedbirine karar verilmiş ve kişi bu tedbirin gereklerini yerine
 getirmemişse yeniden tutuklanabilir. Bu halde tutuklama süresi ağır cezalık
 suçlarda 9 ayı, asliye cezalık suçlarda 2 ayı geçemez.
 
+Kişinin adli kontrol yükümlülüklerine uymaması halinde savcı, kararı veren
+mercie başvurarak kişinin tutuklanmasını veya başka adli kontrole tutulmasını
+talep edebilir.
+
 === ZORLA GETİRME
 
 Soruşturma evresinde ifade söz konusuysa Cumhuriyet savcısı, kovuşturma
@@ -1859,8 +1868,7 @@ söz konusudur.
 IMPORTANT: Bu tip el koymaya ancak hakim karar verebilir.
 
 Bu el koyma türünde ayrıca ilgili kurullardan bir rapor alınması gerekir.
-Örneğin banka hesaplarına el koyma için BDDK'dan rapor alınmalıdır.Örneğin
-banka hesaplarına el koyma için BDDK'dan rapor alınmalıdır.
+Örneğin banka hesaplarına el koyma için BDDK'dan rapor alınmalıdır.
 
 ==== ŞİRKET YÖNETİMİ İÇİN KAYYIM TAYİNİ
 
@@ -2109,131 +2117,6 @@ Kovuşturmaya yer olmadığı kararına itiraz süresinin dolması, itirazın re
 beraat veya ceza verilmesine yer olmadığı kararı verilip kesinleşmesi halinde
 söz konusu kayıtlar Cumhuriyet savcısının huzurunda derhal yok edilir.
 
-== KORUMA TEDBİRLERİ KARŞILAŞTIRMASI
-
-[%header, cols="1a,1a,1a,1a"]
-|===
-| *TEDBİR*
-| *TANIM*
-| *KARAR VEREBİLECEK MERCİ*
-| *ÖZEL DURUMLAR*
-
-| *Elkoyma*
-| Müsadereye tabi olan veya ispata yarayabilecek malvarlığı değerinin zilyedin
-tasarruf yetkisinin kaldırılması suretiyle adliyenin eli altında
-bulundurulmasıdır.
-|
-
-. Hakim veya mahkeme kararı
-. Gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısı
-. Cumhuriyet savcısına ulaşılamayan hallerde kolluk amirinin yazılı emri
-
-Hakim kararı olmayan durumlarda Cumhuriyet savcısı ya da kolluk amirinin
-kararları 24 saat içinde hakim onayına sunulur ve hakim kararı
-48 saat içinde açıklar.
-|
-* Bulundurulması suç olan eşya söz konusu ise herhangi bir karar alınmaksızın
-kolluk görevlisinin el koyma yetkisi bulunmaktadır.
-* İspat aracını elinde bulunduran kimse, istem üzerine bunu teslim etmezse 3
-ayı geçmemek üzere disiplin hapsine mahkum edilebilir. *Tanıklıktan
-çekinebilecek kişiler bu sebeple disiplin hapsine mahkum edilemez.*
-
-| *Arama*
-| Şüpheli veya sanığın yakalanması, suç delillerinin ve müsadereye tabi eşyanın
-elde edilebilmesi için, şüpheli, sanık veya üçüncü bir kişinin konut, işyeri ve
-sair yerlerinde, üstünde veya eşyasında gerçekleştirilen araştırma
-faaliyetidir.
-|
-
-. Soruşturma evresinde hakim, kovuşturma evresinde hakim
-. Gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının yazılı emri
-. Cumhuriyet savcısına ulaşılamaması durumunda, konut, işyeri ve kamuya açık
-olmayan yerler dışında kolluk amirinin yazılı emri
-
-|
-
-| *Yakalama*
-| Suç şüphesi altında bulunan kişinin, fiilen denetim altına alınması ve
-özgürlüğünün kısıtlanması işlemidir.
-| Yakalama herkesin yapabileceği yakalama ve kolluğun yapabileceği yakalama
-olarak ikiye ayrılır:
-
-. *Herkesin yapabileceği yakalama:* Kişiye suç işlerken rastlanması ya da
-suçüstü bir fiilden dolayı izlenen kişinin kaçması olasılığının bulunması veya
-hemen kimliğinin belirlenme olanığının bulunmaması halinde herkesin geçici
-olarak yakalama yetkisi vardır.
-. *Kolluğun yapabileceği yakalama:* Kolluk görevlileri, tutuklama kararı veya
-yakalama emri düzenlenmesini gerektiren ve gecikmesinde sakınca bulunan
-hallerde; Cumhuriyet savcısına veya amirlerine derhal başvurma olanağı
-bulunmadığı takdirde, yakalama yetkisine sahiptir.
-|
-
-* Şüpheliye çağrı yapılamaması veya yapılmasına rağmen çağrıya uymaması
-durumunda, tüm ülkede görüldüğü yerde fiilen denetim altına alınmasını temin
-eden karara *yakalama emri* denir. Soruşturma evresinde yakalama emri
-çıkartılması Cumhuriyet savcısının talebi ile Sulh Ceza Hakiminin karar vermesi
-sonucu olur.
-
-| *Gözaltı*
-| Soruşturmanın sürdürülmesi bakımından zorunlu olması durumunda, şüphelinin
-kanunda belirtilen sınırlı sürelerde adliyenin eli altında tutulmasıdır.
-| Gözaltı veya gözaltı süresinin uzatılmasına dair kararları verme yetkisi
-kural olarak Cumhuriyet savcısındadır.
-|
-
-* Bireysel suçlarda gözaltı süresi yakalanma anından itibaren 24 saattir.
-* İştirak ilişkisi olsun veya olmasın üç ya da daha fazla şüphelinin birlikte
-soruşturulduğu suçlarda bu süre her defasında 24 saat olmak üzere 4 güne kadar
-uzatılabilir.
-
-| *Bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama
-ve el koyma*
-| Bir suç dolayısıyla yapılan soruşturmada, başka suretle delil elde etme
-imkanının bulunmaması halinde, şüphelinin kullandığı bilgisayar ve bilgisayar
-programları ile bilgisayar kütüklerinde arama yapılması, bilgisayar
-kayıtlarından kopya çıkarılması ve bu kayıtların çözülerek metin hale
-getirilmesidir.
-| Cumhuriyet savcısının istemi üzerine hakim kararı ile gerçekleştirilebilir.
-|
-
-| *Gözlem altına alma*
-| Fiili işlediği yolunda kuvvetli şüpheler bulunan şüpheli veya sanığın akıl
-hastası olup olmadığını, akıl hastası ise ne zamandan beri hasta olduğunu ve
-bunun, kişinin davranışları üzerindeki etkilerini saptamak için uzman hekimin
-önerisi üzerine Cumhuriyet savcısının ve müdafiin dinlenmesinden sonra resmi
-bir sağlık kurumunda gözlem altına alınmasıdır.
-| Soruşturma evrsinde hakim, kovuşturma evresinde mahkeme
-|
-* Gözlem süresi 3 haftayı geçemez.
-* 3 haftalık sürenin yetmeyeceği anlaşılırsa resmi sağlık kurumunun istemi
-üzerine her seferinde 3 haftayı geçmemek üzere ek süreler verilebilir.
-* Sürelerin toplamı 3 ayı geçemez.
-
-| *Tutuklama*
-| Tanım
-| Soruşturma aşamasında Cumhuriyet savcısının talebi üzerine Sulh Ceza Hakimi
-tarafından karar verilir.
-|
-* Tutuklama talebine rağmen hakim adli kontrole karar verebilir.
-
-| *Adli kontrol*
-| Tanım
-| Soruşturma aşamasında Cumhuriyet savcısının talebi üzerine Sulh Ceza Hakimi
-tarafından karar verilir.
-|
-* Adli kontrol talebi üzerine hakim tutuklamaya karar veremez.
-
-| *Telekomünikasyon yoluyla iletişimin denetlenmesi*
-| Tanım
-| Merci
-|
-* Şüpheli ile tanıklıktan çekinebilecek kişiler arasındaki iletişim
-dinlenebilir ama kaydedilemez.
-* Tanıklıktan çekinebilecek kişi de iştirak şüphesi altında ise bir görüşe göre
-yine kayıt yapılamayacaksa da Yargıtay'ın görüşü kayıt yapılabileceği
-yönündedir.
-|===
-
 == DİSİPLİN HAPSİ
 
 Disiplin hapsi, kısmi bir düzeni korumak amacıyla yaptırım altına alınmış olan
@@ -2293,6 +2176,12 @@ alınabilmesi için mahkeme huzurunda kabul edilmesi gerekir.
 Şüpheli veya sanık ifadeye çağrıldığında gelmez ise hakkında *zorla getirme*
 kararı verilebilir.
 
+İfade alma işlemi sırasında uyulması gereken hususlar kanunda ve yönetmelikte
+belirtilmektedir. Buna göre, öncelikle şüphelinin kimliği saptanmalı, daha
+sonra kendisine yüklenilen suç anlatılmalıdır. Ayrıca şüpheliye haklarının
+(müdafiden yararlanma hakkı, susma hakkı, yakınlarına haber verme hakkı)
+hatırlatılmalıdır.
+
 Şüpheli veya sanık olaya ilişkin bir beyanda bulunmamak konusunda özgürdür.
 Bunun tek istisnası *kişinin kimliği ile alakalı sorulardır*.
 
@@ -2300,6 +2189,13 @@ Bunun tek istisnası *kişinin kimliği ile alakalı sorulardır*.
 yönelik ilaç verilmesi, aç veya susuz bırakılması, uykusuz bırakılması hukuka
 aykırıdır. Yine ifadeyi alan kişinin vaatlerde bulunarak şüpheli veya sanığı
 aldatması da ifadeyi hukuka aykırı hale getirir.
+
+Sanık; iddianamenin anlatılması veya esas hakkındaki mütalaanın verilmesi
+üzerine sözlü savunmasını knedisini daha iyi ifade edebileceğini beyan ettiği
+başka bir dilde yapabilir. Bu durumda tercüme hizmeti, sanığın seçeceği bir
+tercüman tarafından yerine getirilir. Bu tercümanın giderleri Hazine tarafından
+karşılanmaz. Bu imkan, yargılamanın sürüncemede bırakılması amacına yönelik
+olarak kötüye kullanılamaz.
 
 ==== TANIK BEYANI
 
@@ -2311,6 +2207,8 @@ NOTE: Tanık kendisini anlatabilecek pozisyonda olduğu sürece, yaşı, akli de
 
 Prensip olarak sanık tanık olamaz. Ancak birden fazla sanığın olduğu dosyalarda
 bir sanığın diğer sanığa yönelik tanık olabileceği kanunda düzenlenmiştir.
+
+Tanık, meramını anlatacak kadar Türkçe bilmiyorsa tercüman kullanabilir.
 
 ===== TANIĞIN YÜKÜMLÜLÜKLERİ
 
@@ -3274,6 +3172,10 @@ koşuluyla istinaf kanun yoluna başvurabilir.
 
 Başvuru, hükmün tefhiminden ya da hüküm yokluklarında verilmişse tebliğinden
 itibaren *yedi gün içerisinde* hükmü veren mahkemeye yapılabilir.
+
+NOTE: Hükmün tefhimi duruşma dışı bir işlem olup diğer süjelerin irade
+beyanında bulunma imkanı söz konusu olmadığından tefhimden hemen sonra istinaf
+isteminde bulunulamaz.
 
 Cumhuriyet savcısı, istinaf başvurusunda istinaf nedenlerini gerekçeleriyle
 göstermek zorundadır ve bu başvuru çelişmeliliği sağlamak açısından diğer
