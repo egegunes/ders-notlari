@@ -1913,3 +1913,176 @@ terekenin aktifi ve pasifi belirlenmeye çalışılır.
 Tasfiyeyi alacaklı talep etmişse, tasfiyeden ele geçecek olan miktar ile
 alacaklının alacağı tahsil edilir. Daha sonra artan bir şey kalırsa, ret yokmuş
 gibi en yakın mirasçılara paylaştırılır.
+
+== MİRAS SEBEBİYLE İSTİHKAK DAVASI
+
+Miras sebebiyle istihkak davası, miras hakkını koruyan bir davadır. Korunan mal
+değil, mirasçının tereke üzerindeki hakkıdır. Terekedeki her değer bu davanın
+konusu olabilir.
+
+Davacı, kanuni ya da atanmış mirasçıdır. Vasiyet alacaklısı davacı olamaz.
+
+Baskın görüş, paylaşmadan önce bu davanın hep birlikte açılacağı yönündedir.
+Yargıtay da bu nedenle süre verir ve diğer mirasçıların katılımını bekler.
+Azınlık görüşe göre ise, paylaşmadan önce mirasçıya karşı istihkak davası değil
+paylaşma davası açılabilir.
+
+NOTE: Miras sebebiyle istihkak davası aynı zamanda koruma davası olduğu için
+mirasçılardan her biri tek başına açma hakkına sahiptir.
+
+Paylaşmadan sonra davanın açılması hakkında bir görüşe göre, davacı mirasçı
+paylaşmaya katılmış ve mal kendisine kalmışsa istihkak davası diğer bir
+mirasçıya veya üçüncü kişiye karşı açılabilir. Diğer bir görüş ise bu durumda
+sadece üçüncü kişiye dava açılabileceğini, mirasçıya ise paylaşmanın ifası
+davası açılması gerektiğini söylemektedir.
+
+*Davacı mirasçı, paylaşmaya katılmamışsa ne olacaktır?* Örneğin aslında 5
+mirasçı var ama 4 mirasçı mirasçılık belgesi almış olsun. Bu durumda yapılması
+gereken mirasçılık belgesinin iptalidir. Bundan sonra, kendisine düşen pay için
+diğer mirasçıların her birine karşı miras sebebiyle istihkak davası açılabilir.
+Buna Yargıtay uygulamasında *miras hakkının ketmedilmesi* (miras hakkının gasp
+edilmesi) denir.
+
+Bu dava ile mirasçı, miras hakkının külli olarak korunmasını isteyebileceği
+gibi bir tek mala da davasını yönlendirebilir.
+
+Bu davanın açılması için, mirasın açıldığı anda tereke malının bir başkasının
+elinde haksız olarak bulundurulması gerekir. Dava malı haksız olarak elinde
+bulunduran kişiye karşı açılır. Bu kişi, mirasçının mirasçılık hakkını
+tanımayan diğer bir mirasçı veya bir üçüncü kişi olabilir.
+
+Davacı aşağıdaki hususları ispat etmelidir:
+
+* Mirasçılık sıfatına sahip olduğu
+* Dava konusu ettiği unsurların terekeye dahil olduğu
+* Davalının bu mal üzerine haksız zilyet olduğu
+
+NOTE: Mal elden çıkmışsa ve iyiniyetli kazanım dolayısıyla üçüncü kişiden
+alınamıyorsa (örneğin MK 1023) malın bedeline yönelik olarak açılabilir.
+
+Miras sebebiyle istihkak davasının kabulü halinde, tereke veya terekeye dahil
+mal, davacıya zilyetliğe ilişkin hükümler uyarınca verilir.
+
+Zamanaşımı bakımından kanun koyucu tarafından üç ayrı süre düzenlenmiştir:
+
+. Davacının kendisinin mirasçı olduğunu ve iyiniyetli davalının terekeyi veya
+tereke malını elinde bulundurduğunu öğrendiği tarihten itibaren *1 yıl*
+. Her halde mirasbırakanın ölümünün veya vasiyetnamenin açılmasının üzerinden
+*10 yıl*
+. Haksız zilyet kötü niyetli ise *20 yıl*
+
+.Miras sebebiyle istihkak davası ile eşya hukukunda istihkak davasının farkları
+****
+* İstihkak davasında ayni hakkın ispat edilmesi gerekirken miras sebebiyle
+istihkak davasında mirasçılık sıfatının ispat edilmesi gerekir.
+* Miras sebebiyle istihkak davası bir ayni hakka değil bir mutlak hakka
+dayanır.
+* Miras sebebiyle istihkak davası bir külli davadır. Oysa istihkak davası külli
+olarak açılamaz, dava konusu şeyin somut olarak gösterilmesi gerekir.
+* İstihkak davasında süre söz konusu değilken, miras sebebiyle istihkak
+davasında 1, 10 ve 20 yıllık süreler öngörülmüştür.
+****
+
+== MİRASIN PAYLAŞILMASI
+
+Miras paylaşım öncesinde *elbirliği* ortaklık halindedir. Kanun koyucu bunu
+emredici olarak düzenlemiştir. Elbirliği mülkiyet halinde pay yoktur.
+Mirasçılar, mirasın her yerinde hak sahibidir. Miras payı oranında bir hak
+sahipliği söz konusudur.
+
+Tasfiye payında bir hak söz konusudur, bu hak da bir malvarlığı değerine
+sahiptir. Dolayısıyla devri mümkündür, haczi mümkündür.
+
+Alacaklıların miras payını takip etmesi ve o mirasın tasfiye edilmesini
+sağlaması mümkündür. İcra dairesi bu durumda bir kayyım atayarak diğer
+mirasçıların hakkını da korumalıdır.
+
+CAUTION: Tereke alacaklısı, tüm mirasçıları değil de tek bir mirasçıyı takip
+etmeyi tercih ederse alacağını terekeden alamaz. Terekeden alması için tüm
+mirasçıları birlikte takip etmesi gerekir.
+
+Miras ortaklığının sona erme nedenleri:
+
+* Paylaşma
+* Mahkemeden paylı mülkiyete geçme kararı (tek bir mirasçı talep edebilir)
+* Terekede mal kalmaması
+
+Kanun, *miras ortaklığına temsilci tayinini* mümkün kılmıştır. Taraflar
+anlaşarak ya da anlaşamazlarsa mahkemeden talep ederek temsilci tayin
+edebilirler. Temsilci, vekil gibi terekeyi idare eder. Temsilci, çok geçerli
+bir sebep olmadıkça mirasçıların kararlarına uymalıdır. Özel bir yetki
+verilmemişse temsilcinin yetkisi olağan yönetim işleriyle sınırlıdır. Her bir
+mirasçı temsilciden hesap sorabilir. Ayrıca temsilci, üç ayda bir kendisini
+atayan sulh mahkemesine rapor verir. Temsilci, sulh mahkemesi tarafından
+atanmışsa mirasçıların azil hakkı yoktur. Mahkeme mirasçıların istekleriyle
+bağlı değildir.
+
+Terekenin borçlarından mirasçıların şahsi sorumluluğu söz konusudur. Bu sebeple
+kanun koyucu, mirasçılara terekenin paylaşılmadan önce tereke borçlarının
+ödenmesi ile ilgili talep hakkı tanımıştır.
+
+Mirasçılar, paylaşmadan önce veya sonra bir araya gelerek tereke borçları
+hakkında tasarrufta bulunabilirler.
+
+*Mirasçıların, paylaşmadan sonra 5 yıl birbirlerine ve üçüncü kişilere karşı
+sorumlulukları devam eder.*
+
+Paylaşmayı kanuni mirasçılar, atanmış mirasçılar ve alacaklılar talep edebilir.
+
+*Paylaşma en erken*;
+
+.. Mirasçıların kim olduğu tartışmasız şekilde belli olup hepsinin mirasçılık
+belgesi almasından sonra
+.. Mirasçılar arasında cenin varsa, onun tam ve sağ doğumundan sonra
+.. Malın değerinin düşme tehlikesi varsa bu tehlikenin geçmesinden sonra
+
+yapılabilir.
+
+Mirasbırakan, yapacağı hiçbir tasarrufla paylaşmayı engelleyemez. Aynı şekilde
+mirasçılar da paylaşma yapmayacaklarına dair süresiz bir sözleşme yapamaz.
+Ancak, mirasbırakan haklı bir sebeple paylaşmanın belirli tarihe kadar
+yapılmamasını öngörebilir.
+
+Miras paylaşımı iki şekilde yapılabilir:
+
+. *Taksim sözleşmesi:* Bu sözleşmenin geçerli olması için oybirliği ile
+yapılması şarttır. Bu sözleşme ile terekede yer alan tüm mal ve haklar, mirasçı
+sayısına göre aynen veya ayni ve denkleştirme usulü kullanılarak ya da satım
+bedelini paylaşmak suretiyle nakdi şekilde paylaştırılır. Sözleşmenin paylaşma
+sözleşmesi niteliğinde olabilmesi için *terekedeki malların mirasçı sayısına
+bölünmesinin ve tahsis edilmesinin karara bağlanması* gerekir.
++
+Mirasbırakan da paylaştırma kuralları öngörebilir. Bir mal birine
+özgüleniyorsa bu kural olarak taksim kuralı sayılır. Oybirliği olduktan sonra
+mirasçılar, mirasbırakanın iradesiyle bağlı değildir.
++
+Mirasçılar bu sözleşme yapılırken birbirlerine doğru bilgi vermekle yükümlüdür.
+Aksi takdirde tazminat ödeme yükümlülüğü doğar.
++
+Mirasçılar terekenin bir kısmının paylaşılıp geri kalanına elbirliği
+mülkiyetinin devam etmesine karar verebilirler. Buna *objektif kısmi taksim*
+denir. *Subjektif kısmi taksim* ise, miras ortaklığının bir kısım mirasçılar
+için devam ettirilip, bir kısım için paylaşmanın yapılmasıdır.
+
+.. _Pay teşkili sözleşmesi:_ Taraflar sadece payların ne olacağını
+kararlaştırır.
+.. _Elden taksim anlaşması:_ Borçlandırıcı işlem ile tasarruf işlemi iç içedir.
+.. _Paylaşma sözleşmesi:_ Birinci safha olan payların teşkili ile ikinci
+safha olan her bir payın bir mirasçıya tahsisi bu sözleşmede yer alır.
+
+. *Taksim davası:* Mirasçılar paylaşma konusunda anlaşamazlarsa mirasçılardan
+her biri mahkemeden paylaşmanın yapılmasını isteyebilir.
+
+Değerinde önemli azalma olmadan bölünmeye müsait olmayan şeyler, bir mirasçıya
+özgülenecektir. Eğer satılıp değeri üzerinde paylaşma yapılacaksa aksine karar
+olmadıkça bu satış açık artırma ile yapılacaktır.
+
+Aile belgesi ve anı değeri olan şeyler satışa çıkarılmaz, kural olarak bir
+mirasçıya özgülenir. Mirasçılar arasında anlaşma sağlanamaz ise kime
+özgüleneceğini mahkeme belirler.
+
+Aile konutunun miras olarak kalması halinde sağ kalan eşin kendisine kalmasını
+isteme hakkı vardır.
+
+Miras olarak kalan taşınmaz tarım arazisi ise Medeni Kanun hükümleri değil
+Tarımsal Arazilerin Korunması Hakkında Kanun hükümleri uygulanır.
