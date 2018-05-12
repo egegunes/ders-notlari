@@ -1705,3 +1705,211 @@ içinde mirasçılık belgesi verilmesine itiraz edilirse belge verilmez.
 
 CAUTION: Mirasçılık belgesi, mirasçı olmayan kişiyi mirasçı yapmaz. Ancak bu
 yönde bir karine oluşturur.
+
+== MİRASIN KAZANILMASI
+
+=== YASAL VE ATANMIŞ MİRASÇILAR BAKIMINDAN
+
+Mirasçılar, Mirasbırakanın ölümü ile mirası bir bütün olarak, kanun gereğince
+kazanırlar.
+
+NOTE: Burada bir kendiliğinden kazanım söz konusudur. Mirası kazanmada
+mirasçıların iradesi rol oynamaz. Murisin vefatını bilmeseler dahi mirası
+kazanırlar.
+
+*Miras, ölüm anında kazanılır*. Bunun istisnası mirasçının mirası
+reddetmesidir. Mirasın reddi geriye dönük hüküm ifade eder.
+
+NOTE: Borca batık tereklerde ölüm anında kazanım ilkesi tersine çevrilmiştir.
+Eğer ölüm anında terekenin borca batık olduğu sabit ise kanunun getirdiği
+karineye göre miras reddedilmiş sayılır. Borca batık terekenin kazanılması için
+mirasçının açık kabulü gerekir.
+
+Mirasın kabulü veya reddi kanun gereği şarta bağlanamaz.
+
+Kanunda öngörülen ayrık durumlar saklı kalmak üzere mirasçılar, mirasbırakanın
+ayni haklarını, alacaklarını, diğer malvarlığı haklarını, taşınır ve
+taşınmazlar üzerindeki zilyetliklerini doğrudan doğruya kazanırlar ve
+mirasbırakanın borçlarından kişisel olarak sorumlu olurlar.
+
+*Miras kazanıldığında tereke, mirasçının kişisel malvarlığı ile birleşir.*
+Tereke, mirasçının malvarlığı içinde ayrı olarak kendini göstermez. Dolayısıyla
+mirasçı, terekenin borçlarından sadece tereke ile kazandığı malvarlığı ile
+değil, tüm malvarlığı ile sorumlu olur. Mirasçının kendi alacaklıları da
+alacaklarını terekeden geçen bir mal üzerinden tahsil edebilir.
+
+TIP: Temsil yetkisi mirasçılara geçmez. Ancak, vekalet sözleşmesi bakımından
+bir istisna getirilmiştir: İşin niteliği veya sözleşmeye konulmuş hüküm gereği
+ölümden sonrada temsil yetkisi devam edebilir.
+
+Atanmış mirasçılar da mirası, mirasbırakanın ölümü ile kazanırlar. Yasal
+mirasçılar, atanmış mirasçılara düşen mirası onlara zilyetlik hükümleri
+uyarınca teslim etmekle yükümlüdürler.
+
+=== VASİYET ALACAKLILARI BAKIMINDAN
+
+Vasiyet alacaklısı, vasiyeti yerine getirme görevlisi varsa ona; yoksa yasal
+veya atanmış mirasçılara karşı kişisel bir istem hakkına sahip olur.
+
+NOTE: Vasiyet alacaklısı, kural olarak kendisine bırakılan kazanımın ölüm
+anındaki durumuna göre alacaklı olur.
+
+Bu alacak, tasarruftan aksi anlaşılmıyorsa vasiyet yükümlüsünün mirası kabul
+etmesi veya ret hakkının düşmesi ile muaccel olur.
+
+Vasiyet alacaklısı, yükümlülüğünü yerine getirmeyen vasiyet yükümlüsüne karşı,
+vasiyet edilen malın teslimini veya hakkın devrini; vasiyet konusu bir davranış
+ise, bunun yerine getirilmemesinden doğan zararın giderilmesini dava edebilir.
+
+Vasiyet alacaklısının hakkı ile mirasbırakanın alacaklılarının hakları
+çatışabilir. *Kanun öncelikle mirasbırakanın alacaklılarını korumaktadır*.
+Vasiyet alacağının ifası istendiğinde mirasçılar bunu def'i olarak ileri
+sürebilir.
+
+TIP: Saklı paylar alınamıyorsa, vasiyet alacaklısına tenkis def'i de ileri
+sürülebilir.
+
+*Vasiyet alacaklısının hakkı, mirasçıların alacaklılarının haklarından önce
+gelir.*
+
+== MİRASIN REDDİ
+
+Mirasın reddi, mirasçının mirasın kazanılmasını kendi isteği ile reddetmesidir.
+Reddeden mirasbırakandan önce ölmüş gibi değerlendirilir.
+
+Mirasın reddi ancak mirasbırakanın ölümünden sonra yapılabilir. Ölümden önce
+mirastan hak kazanmamanın yolu mirastan feragat sözleşmesidir.
+
+=== GERÇEK RET
+
+Mirasçının *açık irade beyanıyla* kanun gereği ölüm anında kendiliğinden
+kazandığı mirası kabul etmediğine dair yaptığı işleme mirasın gerçek reddi
+denir.
+
+Mirasın reddi bir hukuki işlemdir. Niteliği gereği bir bozucu yenilik doğuran
+haktır. Bozma geriye etkilidir.
+
+Herhangi bir şekle bağlı değildir. Mirasçının açık irade beyanını içerecek
+şekilde sözlü veya yazılı yapılabilir.
+
+Mirasın reddi, *mirasbırakanın son ikametgahının bulunduğu yerdeki sulh hukuk
+mahkemesine* müracaat ile yapılır. Ret, mahkeme nezdinde tutulan bir ret
+kütüğüne tescil edilir ve isterse mirasçıya bir belge verilir.
+
+Mirasın reddi, reddeden mirasçı olduğunu daha sonra öğrenmemişse
+*mirasbırakanın ölümünün öğrenilmesinden itibaren 3 ay içinde* yapılmalıdır.
+
+NOTE: Vasiyet alacaklısı alacak hakkına sahip olduğundan kazanımı reddetmesi
+için beyanda bulunmak zorunda değildir. Alacağını zamanaşımı süresinde (10 yıl)
+talep etmezse reddetmiş olur.
+
+Ret hakkını kullanma süresi içinde ölen kişinin ret hakkı kendi mirasçısına
+geçer. Reddetme süresi bu hakkın kendisinde olduğunu öğrenmesinden itibaren
+başlar.
+
+CAUTION: Defter tutulmuşsa ret süresi, deftere geçirmenin sona erdiğinin
+tebliğinden itibaren başlar.
+
+* Mirasçı daha üç aylık ret süresi bitmeden terekeyle ilgili olağan işler
+dışındaki işleri yaparsa
++
+Olağan işler dışındaki işlerin nasıl çözümleneceği tartışmalıdır. Bu konuda
+İsviçre Federal Mahkemesi, Yargıtay ve doktrin iki kriter belirlemiştir:
+
+. *Subjektif kriter:* Mirasçının işi yapma amacına bakılır.
+. *Objektif kriter:* İş, yapılmadığı takdirde terekenin zarar göreceği bir iş
+midir?
+* Terekeden bir malı gizlerse, kendisine alırsa
+
+mirası reddedemez.
+
+=== HÜKMİ RET
+
+Mirasbırakanın öldüğü anda tereke borçlarını ödeyemeyecek durumdaysa ve bu
+durum resmi olarak sabit ise, mirasın mirasçılar tarafından reddedilmiş
+sayılacağı ve miras kabul edilecekse açık bir kabul beyanının yapılması
+gerektiği hükme bağlanmıştır.
+
+Ölüm anında bir resmi aciz belgesi olabileceği gibi, ölüm anında acz içinde
+olduğunun tespiti ölüm sonrasında da yapılabilir.
+
+=== MİRASIN REDDİNİN SONUÇLARI
+
+* Ret gerçekleştiğinde mirasçılık sıfatı ortadan kalkar. Reddeden, mirasçıdan
+önce ölmüş gibi değerlendirilir.
+* Mirası reddeden atanmış mirasçıysa, mirasbırakan aksine bir tasarruf
+yapmadığı sürece atanmış mirasçıya tahsis edilen kısmın en yakın kanuni
+mirasçıya geçer.
+* Zümrenin tümü mirası reddetmişse, miras iflas hükümlerine göre tasfiye
+edilir. Tasfiye ile borçlar ödenir, tereke alacakları tahsil edilir ve tasfiye
+sonucunda net bir varlık ya da borç miktarı saptanır. Elde bir malvarlığı
+değeri kalmışsa bu değer bir sonraki zümre mirasçılarına paylaştırılır.
++
+IMPORTANT: Altsoyun hepsi mirası reddederse onların payı eşe geçer. Yani
+birinci zümrenin mirası reddetmiş sayılması için eşin de reddetmesi gerekir.
+* *Mirası reddedecek kişi, kendinden sonra gelen mirasçıların mirası kabul edip
+etmeyeceğinin sorulması yönünde bir dilekçe verebilir*. Sulh hakimi cevabı
+alınca bunu bildirir ve kişi buna göre karar verebilir.
+* *Borca batık olmayan bir miras reddedilirse, alacaklılar bu reddin
+gerçekleşmesinden 6 ay içinde itiraz hakkına sahiptir*. Bu itirazı reddin iptali
+davasıdır. Eğer ret iptal edilirse, miras tekrar reddedene dönmez,
+alacaklıların menfaatine olarak resmi tasfiye yapılır.
+* *Borca batık bir terekenin mirasbırakanı, ölümüne 5 yıl kala birtakım
+bağışlamalarda bulunduysa, alacaklılar bunların iadesini isteyebilir*.
+Bağışlama ile kazanım elde edenler iyiniyetli sebepsiz zenginleşme hükümlerine
+göre sorumlu kılınmıştır. Eğitim öğretim giderleri ile normal çeyiz giderleri
+bu hükümden muaftır.
+
+=== RESMİ DEFTER TUTMA
+
+Ret hakkı olan mirasçılar, ret beyanında bulunmak yerine bir ay içinde sulh
+hakiminden içinde terekenin defterinin tutulmasını isteyebilir.
+
+TIP: Devlet, mirasın defterini tutmadan mirası üstüne alamaz.
+
+Defter tutma masrafı terekeden karşılanır.
+
+Sulh hakimi, ilgililere malvarlığı değerleri, alacaklar ve borçlar hakkında
+bilgi vermeleri için tebliğde bulunur. Tüm alacaklıların bilinmemesi durumunda
+en az iki kez ilan yapılır. *Alacaklı, deftere adını yazdırmazsa borcunu
+isteyemez.*
+
+Bilgilerin deftere geçirilmesi bitince sulh hakimi deftere geçirmenin
+bittiğine karar verir ve bu husus da bir ay süreyle ilgililerin incelemesine
+açılır.
+
+Defter tutma prosedürü başladığı andan itibaren icra takibi yapılamaz, tereke
+alacakları hakkında dava açılamaz, açılmış davalara devam edilemez, zamanaşımı
+işlemez. Tereke ile ilgili işlemlerden sadece zorunlu yönetim işleri
+yapılabilir.
+
+Defter tutma talebini mirasçılardan biri yapsa bile diğer tüm mirasçılar
+aşağıdaki dört seçeneğe sahiptir:
+
+. Mirası kabul etme
+. Mirası reddetme
+. Mirası deftere göre kabul etme
+. Terekenin resmi tasfiyesini isteme
+
+*Defter uyarınca kabul*, mirasçının sadece deftere kaydedilmiş borçlardan
+sorumluluğunu doğurur. Ancak, *deftere kaydedilen borçlardan sadece defterin
+aktifi ile değil, tüm malvarlığı ile sorumlu olur.*
+
+Geçerli bir mazereti olmadan alacaklarını deftere yazdırmayanlar, alacaklarını
+mirasçılardan talep edemezler. Geçerli bir mazereti olanlar ise mirasçıya ancak
+defte uyarınca kabulden zenginleştiği oran kadar başvurabilirler.
+
+NOTE: Deftere geçirilmemiş *teminatlı* bir alacak varsa, yani tereke malı
+teminat olarak verilmişse alacaklı, teminatlı alacağını alma hakkını korur.
+
+=== RESMİ TASFİYE
+
+Resmi tasfiyeyi alacaklılar veya mirasçılar isteyebilir.
+
+Resmi tasfiye ya sulh hakiminin atadığı tasfiye memurları tarafından ya da
+iflas usulüne göre iflas memurları tarafından yapılır. Burada da ilan yapılarak
+terekenin aktifi ve pasifi belirlenmeye çalışılır.
+
+Tasfiyeyi alacaklı talep etmişse, tasfiyeden ele geçecek olan miktar ile
+alacaklının alacağı tahsil edilir. Daha sonra artan bir şey kalırsa, ret yokmuş
+gibi en yakın mirasçılara paylaştırılır.
