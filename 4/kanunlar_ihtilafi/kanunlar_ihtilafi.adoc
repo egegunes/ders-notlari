@@ -89,7 +89,7 @@ dikkate alınır.
 Yabancı bir mahkeme kararının *kesin hüküm kuvvetinin* Türk hukukunda geçerli
 olabilmesi için bir *tanıma* kararı verilmesi gerekir.
 
-Yabancı birm mahkeme kararının *icra kuvvetinin* Türk hukukunda da geçerli
+Yabancı bir mahkeme kararının *icra kuvvetinin* Türk hukukunda da geçerli
 olabilmesi için bir *tenfiz* kararı verilmesi gerekir.
 
 Çekişmesiz yargı işleri ancak verildiği ülkede kesin hüküm kudretine sahipse
@@ -106,6 +106,41 @@ görüşündedir.
 
 Tanıma ve tenfiz davası açarken yabancı mahkeme kararının noterden tasdikli
 çevirisi de dava dilekçesine eklenmelidir.
+
+Hakim, önüne gelen tanıma veya tenfiz meselesinde sadece kanunda yazılı
+şartların varlığını denetler. Hiçbir suretle önüne getirilen yabancı mahkeme
+kararının içeriğine giremez, *yeniden tetkik* yasağı söz konusudur. Hakim
+sadece MOHUK 54'teki şartların varlığını inceleyecektir:
+
+. *Mütekabiliyet:* Yabancı mahkeme kararının verildiği ülke ile Türkiye
+arasında bir sözleşme olmalı ya da o devletin kanunları yabancı mahkeme
+kararlarının tanınması ve tenfizini sağlayan hukuki düzenlemeye sahip
+olmalıdır. Bunlardan ikisi de olmasa bile yabancı mahkeme kararının verildiği
+ülkenin mahkemeleri Türk mahkeme kararlarını fiilen tanıyorsa da şart sağlanır.
++
+*Tanıma için bu şart aranmaz, tenfiz için aranır.*
+. *Yabancı mahkeme kararının Türk mahkemelerinin münhasır yetkisine girmeyen
+bir konuda verilmiş olması*
+. *Yabancı mahkeme hükmünün kamu düzenine açıkça aykırı olmaması*
+. *Savunma hakkının ihlal edilmiş olmaması*
+
+Tenfiz edilen bir mahkeme kararı, Türk mahkemelerinden verilip kesinleşmesi bir
+mahkeme kararı ile aynı hükümdedir. *Tenfiz mahkemesi kararlarına karşı da
+kanun yoluna gidilebilir*.
+
+NOTE: Tanıma kararı verildiği andan itibaren geriye etkilidir. Tenfiz kararı
+ise verildiği anda icra kabiliyeti kazanır.
+
+Tanıma iki türlü olabilir:
+
+. Taraflardan biri açtığı davada delil olarak yabancı mahkeme kararını
+gösterir. Bu durumda mahkeme, yabancı mahkeme kararının tanınıp tanımayacağını
+incelemeli ve şartları taşıyorsa tanımalıdır. Tanımadan sonra bu karar delil
+olarak kullanılabilir.
+. Yabancı mahkeme kararı doğrudan tanıma davasına konu edilir.
+
+Kararın tenfiz edilmesinde hukuki yararı olan herkes tenfiz isteminde
+bulunabilir.
 
 === APOSTİL ŞERHİ
 
@@ -515,3 +550,254 @@ andaki milli hukukuna tabidir.
 *Miras hakkının varlığı ölenin milli hukukuna göre, taşınmaz söz konusu ise
 Türk hukukuna göre çözümlenir. Ancak, mirasın iktisabı açısından tapu kanunu
 uygulanır.*
+
+=== AYNİ HAKLAR
+
+Taşınırlar ve taşınmazlar üzerindeki mülkiyet hakkı ve diğer ayni haklar,
+*işlem anında* malların bulunduğu ülke hukukuna tabidir. İşlemden kasıt
+tasarruf işlemidir.
+
+Malın taşınır mı taşınmaz mı olduğu tespiti malın bulunduğu ülke hukukuna göre
+yapılır.
+
+Taşınmakta olan mallar üzerindeki ayni haklara varma yeri hukuku uygulanır.
+
+Konişmentonun eşyayı temsil edip etmediği meselesine uygulanacak hukuk ile
+ilgili doktrinde çeşitli görüşler vardır. Klasik görüş kıymetli evrakın
+bulunduğu yer hukukuna göre cevaplanması gerektiğini, bir başka görüş ise malın
+bulunduğu yer hukukunun uygulanması gerektiğini söylemektedir.
+
+Yer değişikliği halinde henüz kazanılmamış ayni haklar malın son bulunduğu ülke
+hukukuna tabidir.
+
+Taşınmazlar üzerindeki ayni haklara ilişkin hukuki işlemlere şekil yönünden bu
+malların bulundukları ülke hukuku uygulanır.
+
+Taşınırlar üzerindeki ayni haklara ilişkin hukuki işlemlere şekil yönünden
+işlemin yapıldığı yer hukuku ya da işlemin esasına yetkili olan hukuk
+uygulanır.
+
+=== AKİTLER
+
+Sözleşmeden doğan borç ilişkileri tarafların açık olarak seçtikleri hukuka
+tabidir. Sözleşme hükümlerinden veya halin şartlarından tereddüde yer
+vermeyecek biçimde anlaşılabilen hukuk seçimi de geçerlidir.
+
+Hukuk seçimi taraflarca her zaman yapılabilir veya değiştirilebilir.
+Sözleşmenin kurulmasından sonraki hukuk seçimi, üçüncü kişilerin hakları saklı
+kalmak kaydıyla, geriye etkili olarak geçerlidir.
+
+Tarafların hukuk seçimi yapmamış olmaları halinde sözleşmeden doğan ilişkiye, o
+sözleşmeyle en sıkı ilişkili olan hukuk uygulanır. Bu hukuk,
+
+* Karakteristik edim borçlusunun, sözleşmenin kuruluşu sırasındaki mutad
+meskeni hukuku
+* Ticari veya mesleki faaliyetler gereği kurulan sözleşmelerde karakteristik
+edim borçlusunun işyeri
+
+** İşyeri bulunmadığı takdirde yerleşim yeri hukuku
+** Karakteristik edim borçlusunun birden çok işyeri varsa söz konusu
+sözleşmeyle en sıkı ilişki içinde bulunan işyeri hukuku
+
+Ancak halin bütün şartlarına göre sözleşmeyle daha sıkı ilişkili bir hukukun
+bulunması halinde sözleşme, bu hukuka tabi olur.
+
+NOTE: Bir sözleşmenin mesleki veya ticari olup olmadığını anlamak için
+yapılacak vasıflandırma lex foriye göre yapılır.
+
+Karakteristik edim;
+
+* Sözleşmeye ismini veren edimdir.
+* Edimi daha rizikolu olandır.
+* Edimi para olmayan taraftır.
+
+Sözleşmeden doğan ilişkinin tabi olduğu hukuk uygulanırken, sözleşmeyle sıkı
+ilişkili olduğu takdirde üçüncü bir devletin hukukunun doğrudan uygulanan
+kurallarına etki tanınabilir. Söz konusu kurallara etki tanımak ve uygulayıp
+uygulamamak konusunda bu kuralların amacı, niteliği, muhtevası ve sonuçları
+dikkate alınır.
+
+Sözleşmeden doğan ilişkinin veya bir hükmünün varlığı ve maddi geçerliliği,
+sözleşmenin geçerli olması halinde hangi hukuk uygulanacaksa o hukuka tabidir.
+
+Taraflardan birinin davranışına hüküm tanımanın, uygulanacak hukuka tabi
+kılınmasının hakkaniyete uygun olmayacağı halin şartlarından anlaşılırsa, irade
+beyanının varlığına, rızası olmadığını iddia eden tarafın mutad meskeninin
+bulunduğu ülke hukuku uygulanır.
+
+İfa sırasında gerçekleştirilen fiil ve işlemler ile malların korunmasına
+ilişkin tedbirler konusunda bu işlem veya fiillerin yapıldığı veya tedbirin
+alındığı ülke hukuku dikkate alınır.
+
+==== TAŞINMAZLARA İLİŞKİN AKİTLER
+
+Taşınmazlara veya onların kullanımına ilişkin sözleşmeler taşınmazın bulunduğu
+ülke hukukuna tabidir.
+
+CAUTION: Taşınmazlara ilişkin tasarruf işlemleri MOHUK 21'e, borçlandırıcı
+işlemler bu hükme (MOHUK 25) tabidir.
+
+[TIP]
+====
+* Taşınırların satışı: MOHUK 21
+* Taşınırların kiralanması: MOHUK 24
+* Hava, deniz ve raylı taşıma araçlarının satışı: MOHUK 22
+* Kara taşıma araçlarının satışı: MOHUK 21
+* Taşınmazların satışı: MOHUK 21
+* Taşınmazların kiralanması: MOHUK 25
+====
+
+NOTE: Ev kiralarının TÜFE oranına göre artırılacağına ilişkin TBK'daki hüküm,
+doğrudan uygulanan kuraldır.
+
+==== TÜKETİCİ SÖZLEŞMELERİ
+
+Mesleki veya ticari olmayan amaçla mal veya hizmet ya da kredi sağlanmasına
+yönelik tüketici sözleşmeleri, *tüketicinin mutad meskeni hukukunun emredici
+hükümleri uyarınca sahip olacağı asgari koruma saklı kalmak kaydıyla*,
+tarafların seçtikleri hukuka tabidir.
+
+Tarafların hukuk seçimi yapmamış olması halinde, tüketicinin mutad meskeni
+hukuku uygulanır. Tüketicinin mutad meskeni hukukunun uygulanabilmesi için;
+
+.. Sözleşme, tüketicinin mutad meskeninin bulunduğu ülkede, ona gönderilen özel
+bir davet üzerine veya ilan sonucunda kurulmuş ve sözleşmenin kurulması için
+tüketici tarafından yapılması gerekli hukuki fiiller bu ülkede yapılmış veya
+.. Diğer taraf veya onun temsilcisi, tüketicinin siparişini bu ülkede almış
+veya
+.. İlişkinin bir satış sözleşmesi olması halinde, satıcı tüketiciyi satın
+almaya ikna etmek amacıyla bir gezi düzenlemiş ve tüketici de bu gezi ile
+bulunduğu ülkeden başka ülkeye gidip siparişini orada vermiş
+
+olmalıdır.
+
+Yukarıdaki şartlar altında yapılan tüketici sözleşmelerinin şekline,
+tüketicinin mutad meskeni hukuku uygulanır.
+
+NOTE: Uyuşmazlık mahkemeye geldiğinde bunun bir tüketici sözleşmesi olup
+olmadığı lex foriye göre vasıflandırılır.
+
+Tüketici sözleşmeleri için yetkili mahkemeyi tayin ederken MOHUK 45
+uygulanacaktır.
+
+==== İŞ SÖZLEŞMELERİ
+
+İş sözleşmeleri, *işçinin mutad işyeri hukukunun emredici hükümleri uyarınca
+sahip olacağı asgari koruma saklı kalmak kaydıyla*, tarafların seçtikleri
+hukuka tabidir.
+
+Tarafların hukuk seçimi yapmamış olmaları halinde iş sözleşmesine, işçinin
+işini mutad olarak yaptığı işyeri hukuku uygulanır. İşçinin işini geçici olarak
+başka bir ülkede yapması halinde, bu işyeri mutad işyeri sayılmaz.
+
+İşçinin işini belirli bir ülkede mutad olarak yapmayı devamlı olarak birden
+fazla ülkede yapması halinde iş sözleşmesi, işverenin esas işyerinin bulunduğu
+ülke hukukuna tabidir.
+
+Ancak halin bütün şartlarına göre iş sözleşmesiyle daha sıkı ilişkili bir
+hukukun bulunması halinde sözleşmeye bu hukuk uygulanabilir.
+
+İşçinin, işi kapsamında ve işinin ifası sırasında meydana getirdiği fikri
+ürünler üzerindeki fikri mülkiyet haklarıyla ilgili işçi ve işveren arasındaki
+sözleşmelere, iş sözleşmesinin tabi olduğu hukuk uygulanır.
+
+==== EŞYA TAŞIMA SÖZLEŞMELERİ
+
+Eşyanın taşınmasına ilişkin sözleşmeler tarafların seçtikleri hukuka tabidir.
+
+Tarafların hukuk seçimi yapmamış olmaları halinde, sözleşmenin kuruluşu
+sırasında taşıyıcının esas işyerinin bulunduğu ülke aynı zamanda yüklemenin
+veya boşaltmanın yapıldığı ülke veya gönderenin esas işyerinin bulunduğu ülke
+ise bu ülkenin sözleşmeyle en sıkı ilişkili olduğu kabul edilir ve sözleşmeye
+bu ülkenin hukuku uygulanır.
+
+=== FİKRİ MÜLKİYET
+
+*Fikri mülkiyete ilişkin haklar*, hangi ülkenin hukukuna göre koruma talep
+ediliyorsa o hukuka tabidir.
+
+Taraflar, fikri mülkiyet hakkının ihlalinden doğan talepler hakkında, ihlalden
+sonra mahkemenin hukukunun uygulanmasını kararlaştırabilirler.
+
+*Fikri mülkiyet haklarına ilişkin sözleşmeler*, tarafların seçtikleri hukuka
+tabidir.
+
+Tarafların hukuk seçimi yapmamış olmaları halinde sözleşmeden doğan ilişkiye,
+fikri mülkiyet hakkını veya onun kullanımını devreden tarafın sözleşmenin
+kuruluşu sırasındaki işyeri, bulunmadığı takdirde, mutad meskeni hukuku
+uygulanır. Ancak halin bütün şartlarına göre sözleşmeyle daha sıkı ilişkili bir
+hukukun bulunması halinde sözleşme bu hukuka tabi olur.
+
+=== HAKSIZ FİİLLER
+
+Haksız fiilden doğan borçlar haksız fiilin işlendiği ülke hukukuna tabidir.
+
+Haksız fiilin işlendiği yer ile zararın meydana geldiği yerin farklı ülkelerde
+olması halinde, zararın meydana geldiği yer hukuku uygulanır.
+
+Haksız fiilden doğan borç ilişkisinin başka bir ülke ile daha sıkı ilişkili
+olması halinde bu ülke hukuku uygulanır.
+
+Haksız fiile veya sigorta sözleşmesine uygulanan hukuk imkan veriyorsa, zarar
+gören, talebini doğrudan doğruya sorumlunun sigortacısına karşı ileri
+sürebilir.
+
+Taraflar, haksız fiilin meydana gelmesinden sonra uygulanacak hukuku açık
+olarak seçebilirler.
+
+==== KİŞİLİK HAKLARININ İHLALİ
+
+Kişilik haklarının, basın, radyo, televizyon gibi medya yoluyla, internet veya
+diğer kitle iletişim araçları ile ihlalinden doğan taleplere, zarar görenin
+seçimine göre;
+
+.. Zarar veren, zararın bu ülkede meydana geleceğini bilecek durumda ise zarar
+görenin mutad meskeni hukuku
+.. Zarar verenin işyeri veya mutad meskeninin bulunduğu ülke hukuku veya
+.. Zarar veren, zararın bu ülkede meydana geleceğini bilecek durumda ise
+zararın meydana geldiği ülke hukuku
+
+uygulanır.
+
+Bu hüküm, kişisel verilen işlenmesi veya kişisel veriler hakkında bilgi alma
+hakkının sınırlandırılması yoluyla kişiliğin ihlal edilmesinden doğan taleplere
+de uygulanır.
+
+Kişilik haklarının ihlalinde cevap hakkı, süreli yayınlarda, münhasıran
+baskının yapıldığı ya da programın yayınlandığı ülke hukukuna tabidir.
+
+==== İMALATÇININ SÖZLEŞME DIŞI SORUMLULUĞU
+
+İmal edilen şeylerin sebep olduğu zarardan doğan sorumluluğa, zarar görenin
+seçimine göre, zarar verenin mutad meskeni veya işyeri hukuku ya da imal edilen
+şeyin iktisap edildiği ülke hukuku uygulanır.
+
+NOTE: İktisap yeri hukukunun uygulanabilmesi için zarar verenin, mamülün o
+ülkeye rızası dışında sokulduğunu ispat edememiş olması gerekir.
+
+==== HAKSIZ REKABET
+
+Haksız rekabetten doğan talepler, haksız rekabet sebebiyle piyasası doğrudan
+etkilenen ülke hukukuna tabidir.
+
+Haksız rekabet sonucunda zarar görenin münhasıran işletmesine ilişkin
+menfaatleri ihlal edilmişse, söz konusu işletmenin işyerinin bulunduğu ülke
+hukuku uygulanır.
+
+==== REKABETİN ENGELLENMESİ
+
+Rekabetin engellenmesinden doğan talepler, bu engellemeden doğrudan etkilenen
+piyasanın bulunduğu ülkenin hukukuna tabidir.
+
+Türkiye'de rekabetin engellenmesine yabancı hukuk uygulanan hallerde, Türk
+hukuku uygulansaydı verilecek tazminattan daha fazla tazminata hükmedilemez.
+
+==== SEBEPSİZ ZENGİNLEŞME
+
+Sebepsiz zenginleşmeden doğan talepler, zenginleşmeye sebep olan mevcut veya
+mevcut olduğu iddia edilen hukuki ilişkiye uygulanan hukuka tabidir. Diğer
+hallerde sebepsiz zenginleşmeye, zenginleşmenin gerçekleştiği ülke hukuku
+uygulanır.
+
+Taraflar, sebepsiz zenginleşmenin meydana gelmesinden sonra, uygulanacak hukuku
+açık olarak seçebilirler.
