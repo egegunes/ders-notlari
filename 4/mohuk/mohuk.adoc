@@ -1,17 +1,19 @@
 :toc:
-:toc-title: MÖHUK
+:toc-title: MÖHUK, Yabancılar ve Vatandaşlık
 :icons: font
 
-== LEX FORI VE LEX CAUSA
+== MİLLETLERARASI ÖZEL HUKUK USULÜ
+
+=== LEX FORI VE LEX CAUSAE
 
 Milletlerarası usul hukukuna _lex fori_ ilkesi hakimdir. _Lex fori_, ilgili
 topraklarda hakim devletin hukukunun geçerli olduğunu ifade eder. İçinde
 yabancılık unsuru bulunan ihtilaflarda yargılamanın her aşamasında _lex fori_
 gereği mahkemenin bulunduğu yer hukukunun uygulanacaktır.
 
-_Lex causa_ sözleşmenin esası olan hukuktur.
+_Lex causae_ sözleşmenin esası olan hukuktur.
 
-== YARGI VE İCRA BAĞIŞIKLIĞI
+=== YARGI VE İCRA BAĞIŞIKLIĞI
 
 Uyuşmazlıktaki taraflardan birinin *yargı bağışıklığı* varsa Türkiye
 mahkemeleri bu uyuşmazlık bakımından yargı yetkisine sahip değildir. Yargı
@@ -66,6 +68,84 @@ diplomatik temsilcilerine de tabligat yapılabilir.
 WARNING: Diplomatik temsilci veya konsolosun tarafı olduğu bir uyuşmazlık söz
 konusu ise Tebligat Kanunu'nda belirtilen diplomatik usulün işletilmesi
 zorunludur.
+
+=== TEBLİGAT
+
+Türk mahkemesi yurtdışına tebligat yapacağı zaman önce tebligatı Adalet
+Bakanlığına gönderir. Adalet Bakanlığı, Dışişleri Bakanlığına; Dışişleri
+Bakanlığı da tebligat yapılacak kişi hangi ülkedeyse o ülkedeki Türk
+büyükelçiliğine (veya konsolosluğuna); büyükelçilik de yabancı ülkedeki yetkili
+makama tebligatı gönderir. *Tebligat, yabancı ülkenin kendi usulüne göre
+yapılır.*
+
+Yabancı ülkede kendisine tebligat yapılacak kimse Türk vatandaşı olduğu
+takdirde tebliğ, o yerdeki Türkiye Büyükelçiliği veya Konsolosluğu aracılığıyla
+da yapılabilir. Tebligat yine yabancı ülkenin kendi usulüne göre yapılır. Kişi
+30 gün boyunce tebligata cevap vermezse tebligat yapılmış sayılır. *Kişi Türk
+vatandaşı ise bu şekilde tebligat yapılması zorunlu değildir.*
+
+.Milletlerarası sözleşmeler
+****
+*1954 yılında* imzalanmış bir sözleşme ile tebligat için şöyle bir usul
+düzenlenmiştir: Mahkeme tebligatı adalet bakanlığına gönderir, adalet bakanlığı
+yurtdışındaki elçiliğe gönderir, elçilik de ülkenin yetkili makamına gönderir.
+Burada fark adalet bakanlığı ile elçilik arasında dışişleri bakanlığının
+olmamasıdır. Ayrıca burada evrakın karşı tarafın anlayacağı şekilde tercüme
+edilmesi zorunludur.
+
+*1965 tarihli* bir sözleşmeye göre ise taraf ülkeler birer merkezi makam
+belirler. Her ülke, sözleşmeye taraf bir diğer ülkenin merkezi makamına
+doğrudan tebligat yapabilir. Bu sözleşmeye taraf devlet 1954 tarihli sözleşmeye
+göre tebligat yapamaz. *Bu sözleşmeye göre tebligat ancak hukuki ve ticari
+belgelere ilişkin yapılabilir, cezai belgeler için yapılamaz.* Bu sözleşme
+ayrıca yabancı ülkedeki kişiye doğrudan tebligat yapma imkanı da getirmiştir.
+Ancak bunun için yabancı ülkenin buna izin vermesi şarttır.
+****
+
+=== TEMİNAT
+
+Türk mahkemesinde dava açan, davaya katılan veya icra takibinde bulunan
+*yabancı* gerçek ve tüzel kişiler, yargılama ve takip giderleriyle karşı
+tarafın zarar ve ziyanını karşılamak üzere mahkemenin belirleyeceği teminatı
+göstermek zorundadır.
+
+Mahkeme, dava açanı, davaya katılanı veya icra takibi yapanı *karşılıklılık*
+esasına göre teminattan muaf tutar.
+
+NOTE: Yargıtay'a göre teminat döviz cinsinden ve %10 oranında yatırılacaktır.
+
+.Vatansız ve mültecilerin durumu
+****
+_Vatansız bir kişi, daimi ikametinin bulunduğu Sözleşmeci Devlette, adli yardım
+ve teminat akçesinden muafiyet dahil olmak üzere mahkemelere başvuruya ilişkin
+konularda bir vatandaşınki ile aynı muameleden yararlanır._
+
+Türk vatandaşı mutad meskeni belli olduğu takdirde teminattan muaftır.
+Yukarıdaki hüküm gereği vatansız ve mülteciler için de aynı kural geçerlidir.
+****
+
+=== TARAFLAR
+
+==== DAVA EHLİYETİ
+
+Bir gerçek veya tüzel kişinin dava ehliyetine sahip olabilmesi için, yani
+davacı olabilmesi için fiil ehliyetine sahip olması gerekir.
+
+*Hak ve fiil ehliyeti ilgilinin milli hukukuna tabidir.*
+
+Tüzel kişilerin veya kişi veya mal topluluklarının hak ve fiil ehliyetleri,
+statülerindeki idare merkezi hukukuna tabidir. Ancak fiili idare merkezinin
+Türkiye'de olması halinde Türk hukuku uygulanabilir.
+
+==== TARAF EHLİYETİ
+
+Taraf ehliyetine sahip olabilmek için, yani bir davada davalı olabilmek için
+hak ehliyetine sahip olmak gerekir.
+
+==== TARAF SIFATI
+
+Sıfat, kişinin hakkı ile uyuşmazlık konusu arasında bağlantı olup olmadığını
+belirler. Sıfat, uyuşmazlığın esasına uygulanacak hukuka göre belirlenir.
 
 == MİLLETLERARASI ÖZEL HUKUKTA YETKİ
 
@@ -527,84 +607,6 @@ olması gerektiğini söylemiştir. _Kürsüye göre_ bunu her ülkenin iç huku
 eder. Dolayısıyla yabancı mahkemenin yetkilendirilmesi için ülke isminin
 belirtilmesi yeterlidir.
 
-== TARAFLAR
-
-=== DAVA EHLİYETİ
-
-Bir gerçek veya tüzel kişinin dava ehliyetine sahip olabilmesi için, yani
-davacı olabilmesi için fiil ehliyetine sahip olması gerekir.
-
-*Hak ve fiil ehliyeti ilgilinin milli hukukuna tabidir.*
-
-Tüzel kişilerin veya kişi veya mal topluluklarının hak ve fiil ehliyetleri,
-statülerindeki idare merkezi hukukuna tabidir. Ancak fiili idare merkezinin
-Türkiye'de olması halinde Türk hukuku uygulanabilir.
-
-=== TARAF EHLİYETİ
-
-Taraf ehliyetine sahip olabilmek için, yani bir davada davalı olabilmek için
-hak ehliyetine sahip olmak gerekir.
-
-=== TARAF SIFATI
-
-Sıfat, kişinin hakkı ile uyuşmazlık konusu arasında bağlantı olup olmadığını
-belirler. Sıfat, uyuşmazlığın esasına uygulanacak hukuka göre belirlenir.
-
-== TEBLİGAT
-
-Türk mahkemesi yurtdışına tebligat yapacağı zaman önce tebligatı Adalet
-Bakanlığına gönderir. Adalet Bakanlığı, Dışişleri Bakanlığına; Dışişleri
-Bakanlığı da tebligat yapılacak kişi hangi ülkedeyse o ülkedeki Türk
-büyükelçiliğine (veya konsolosluğuna); büyükelçilik de yabancı ülkedeki yetkili
-makama tebligatı gönderir. *Tebligat, yabancı ülkenin kendi usulüne göre
-yapılır.*
-
-Yabancı ülkede kendisine tebligat yapılacak kimse Türk vatandaşı olduğu
-takdirde tebliğ, o yerdeki Türkiye Büyükelçiliği veya Konsolosluğu aracılığıyla
-da yapılabilir. Tebligat yine yabancı ülkenin kendi usulüne göre yapılır. Kişi
-30 gün boyunce tebligata cevap vermezse tebligat yapılmış sayılır. *Kişi Türk
-vatandaşı ise bu şekilde tebligat yapılması zorunlu değildir.*
-
-.Milletlerarası sözleşmeler
-****
-*1954 yılında* imzalanmış bir sözleşme ile tebligat için şöyle bir usul
-düzenlenmiştir: Mahkeme tebligatı adalet bakanlığına gönderir, adalet bakanlığı
-yurtdışındaki elçiliğe gönderir, elçilik de ülkenin yetkili makamına gönderir.
-Burada fark adalet bakanlığı ile elçilik arasında dışişleri bakanlığının
-olmamasıdır. Ayrıca burada evrakın karşı tarafın anlayacağı şekilde tercüme
-edilmesi zorunludur.
-
-*1965 tarihli* bir sözleşmeye göre ise taraf ülkeler birer merkezi makam
-belirler. Her ülke, sözleşmeye taraf bir diğer ülkenin merkezi makamına
-doğrudan tebligat yapabilir. Bu sözleşmeye taraf devlet 1954 tarihli sözleşmeye
-göre tebligat yapamaz. *Bu sözleşmeye göre tebligat ancak hukuki ve ticari
-belgelere ilişkin yapılabilir, cezai belgeler için yapılamaz.* Bu sözleşme
-ayrıca yabancı ülkedeki kişiye doğrudan tebligat yapma imkanı da getirmiştir.
-Ancak bunun için yabancı ülkenin buna izin vermesi şarttır.
-****
-
-== TEMİNAT
-
-Türk mahkemesinde dava açan, davaya katılan veya icra takibinde bulunan
-*yabancı* gerçek ve tüzel kişiler, yargılama ve takip giderleriyle karşı
-tarafın zarar ve ziyanını karşılamak üzere mahkemenin belirleyeceği teminatı
-göstermek zorundadır.
-
-Mahkeme, dava açanı, davaya katılanı veya icra takibi yapanı *karşılıklılık*
-esasına göre teminattan muaf tutar.
-
-NOTE: Yargıtay'a göre teminat döviz cinsinden ve %10 oranında yatırılacaktır.
-
-.Vatansız ve mültecilerin durumu
-****
-_Vatansız bir kişi, daimi ikametinin bulunduğu Sözleşmeci Devlette, adli yardım
-ve teminat akçesinden muafiyet dahil olmak üzere mahkemelere başvuruya ilişkin
-konularda bir vatandaşınki ile aynı muameleden yararlanır._
-
-Türk vatandaşı mutad meskeni belli olduğu takdirde teminattan muaftır.
-Yukarıdaki hüküm gereği vatansız ve mülteciler için de aynı kural geçerlidir.
-****
-
 == KANUNLAR İHTİLAFI
 
 Kanunlar ihtilafı kuralı, yabancılık unsuru içeren ihtilaflarda, olaya
@@ -624,17 +626,24 @@ kurallar ise çift yanlıdır.
 === VASIFLANDIRMA
 
 Vasıflandırma, hayat ilişkisini belirli bir hukuki kalıba sokma işlemidir. Türk
-hukukunun, o hayat ilişkisine ilişkin vasıflandırması ile lex causanın
+hukukunun, o hayat ilişkisine ilişkin vasıflandırması ile lex causae'nın
 vasıflandırması uyuşmazsa vasıf ihtilafı ortaya çıkar.
 
 Hakim dosya önüne geldiğinde lex fori vasıflandırmaya gidebileceği gibi lex
-causa vasıflandırmaya da gidebilir. Ancak, *her halükarda hakim önüne gelen
-bağlama konusunda lex fori vasıflandırma yapmak zorundadır*. Zira lex causa
+causae vasıflandırmaya da gidebilir. Ancak, *her halükarda hakim önüne gelen
+bağlama konusunda lex fori vasıflandırma yapmak zorundadır*. Zira lex causae
 vasıflandırmaya bu şekilde ulaşılır.
 
 Bağlama noktasının vasıflandırılmasında ise söz konusu *bağlama noktası hangi
 kanunlar ihtilafı kuralının içinde yer alıyorsa o kanunlar ihtilafı kuralının
 yer aldığı hukuka göre vasıflandırma yapılır*.
+
+NOTE: _Lex fori_ tarafından tanınmayan bir müessesenin yorumu __lex causae__'ya
+göre yapılmalıdır.
+
+Taraflar sözleşmenin belirli bir hukuka göre çözümünü kararlaştırdıkları
+takdirde konu ile ilgili her tür vasıflandırma __lex causae__'ya göre
+yapılacaktır.
 
 === ATIF
 
@@ -677,11 +686,14 @@ Türk hukuku uygulanır.
 
 === DOĞRUDAN UYGULANAN KURALLAR
 
+Doğrudan uygulanan kurallar, bir ülkenin sosyal, politik veya ekonomik
+yapılanmasının korunması için uyulması zorunlu olan kurallardır.
+
 Yetkili yabancı hukukun uygulandığı durumlarda, düzenleme amacı ve uygulama
 alanı bakımından Türk hukukunun doğrudan uygulanan kurallarının kapsamına giren
 hallerde o kural uygulanır.
 
-Sözleşmeden doğan ilişkinin tabi olduğu hukuk uygualnırken, sözleşmeyle sıkı
+Sözleşmeden doğan ilişkinin tabi olduğu hukuk uygulanırken, sözleşmeyle sıkı
 ilişkili olduğu takdirde üçüncü bir devletin hukukunun doğrudan uygulanan
 kurallarına etki tanınabilir. Söz konusu kurallara etki tanımak ve uygulayıp
 uygulamamak konusunda bu kuralların amacı, niteliği, muhtevası ve sonuçları
@@ -721,12 +733,27 @@ kararlarının tanınması ve tenfizini sağlayan hukuki düzenlemeye sahip
 olmalıdır. Bunlardan ikisi de olmasa bile yabancı mahkeme kararının verildiği
 ülkenin mahkemeleri Türk mahkeme kararlarını fiilen tanıyorsa da şart sağlanır.
 +
+Karşılıklılık bakımından aranan, yabancı mahkemenin tenfiz sisteminde Türk
+hukuku bakımından daha ağır şartların bulunmamasıdır. Bu nedenle yabancı
+mahkeme kararlarının esastan incelenmesi olan "_revision_" sistemini içeren
+hukuka sahip devletler ile Türk hukuku arasında mütekabiliyetin gerçekleşmesi
+mümkün değildir.
++
 *Tanıma için bu şart aranmaz, tenfiz için aranır.*
 +
 Mütekabiliyetin aranaco an esas olarak hükmün verildiği andır. Doktrinde bir
 görüş, davanın açıldığı tarihi esas almaktadır.
 . *Yabancı mahkeme kararının Türk mahkemelerinin münhasır yetkisine girmeyen
 bir konuda verilmiş olması*
+. *Yabancı mahkeme kararının aşkın yetkili mahkemeden verilmemiş olması:*
+Tenfiz hakimi, tenfiz şartlarını araştırırken yabancı mahkemenin yetkisini,
+yabancı mahkeme kararının Türk mahkemelerinin münhasır yetkisine girmesi hali
+dışında ayrıca *davalının itiraz etmesi şartı ile* incelemek üzere "_aşkın
+yetki_" hali olarak kabul edilip edilemeyeceği hususunda da tetkik edecektir.
++
+Aşkın yetki hali, ilamın, dava konusu veya taraflarla gerçek bir ilişkisi
+bulunmadığı halde kendisine yetki tanıyan bir devlet mahkemesince verilmiş
+olması halinde söz konusu olacaktır.
 . *Yabancı mahkeme hükmünün kamu düzenine açıkça aykırı olmaması*
 . *Savunma hakkının ihlal edilmiş olmaması*
 
@@ -1461,3 +1488,2326 @@ uygulanır.
 
 Taraflar, sebepsiz zenginleşmenin meydana gelmesinden sonra, uygulanacak hukuku
 açık olarak seçebilirler.
+
+=== TEMSİL
+
+Temsilci ile temsil olunan arasındaki hukuki ilişkiden doğan temsil yetkisi,
+aralarındaki sözleşmeden doğan ilişkiye uygulanan hukuka tabidir.
+
+Temsilcinin bir fiilinin, temsil olunanı üçüncü kişiye karşı taahhüt altına
+sokabilmesi için aranan şartlara temsilcinin işyeri hukuku uygulanır.
+Temsilcinin işyeri bulunmadığı veya üçüncü kişi tarafından bilinmediği veya
+yetkinin işyeri dışında kullanıldığı durumlarda temsil yetkisi, yetkinin fiilen
+kullanıldığı ülke hukukuna tabidir. Yetkisiz temsilde, temsilci ile üçüncü kişi
+arasındaki ilişkiye de bu hüküm uygulanır.
+
+Temsilci ile temsil olunan arasında hizmet ilişkisi varsa ve temsilcinin
+bağımsız bir işyeri yoksa temsil yetkisi, temsil olunanın işyerinin bulunduğu
+ülke hukukuna tabidir.
+
+== YABANCILAR HUKUKU
+
+=== YABANCILAR HUKUKUNA HAKİM OLAN İLKELER
+
+. *Eşitlik İlkesi*: Prensip olarak vatandaş ile yabancı eşittir.
+. *Karşılıklı Muamele (Mutekabiliyet) İlkesi*: İki devlet arasında uygulanan ve
+ülkelerinde diğerinin vatandaşlarına aynı mahiyetteki hakları tanımalarını
+ifade eden prensiptir.
+. *En Ziyade Müsaadeye Mazhar Millet Muamelesi (En Çok Gözetilen Ulus Kaydı)*:
+İki ülke arasındaki anlaşmanın üçüncü ülke vatandaşlarını uygulanmasını
+sağlayan kayıttır.
+. *Mukebele-i Bilmisil*: Yabancı bir devletin topraklarında bulunan kendi
+vatandaşı gerçek veya tüzel kişilere karşı yaptığı hak ihlallerine karşı
+devletin kendi topraklarındaki aynı devletin vatandaşlarına karşı aynı
+muamelede bulunmasıdır.
+
+=== YABANCI
+
+*Yabancı*, hiçbir devletin vatandaşlığını taşımayan veya bulunduğu devletin
+vatandaşlığını taşımayan kişidir.
+
+Anayasa'nın 16.maddesi "_Temel hak ve hürriyetler, yabancılar için,
+milletlerarası hukuka uygun olarak kanunla sınırlanabilir._" demektedir.
+
+=== VATANSIZ
+
+*Vatansız* kişilerin tanımı _Vatansız Kişilerin Hukuki Statüsüne İlişkin
+Sözleşme_ ile yapılmıştır. Buna göre vatansız, "_herhangi bir devlet tarafından
+kendi hukukuna göre vatandaş kabul edilmeyen kişidir._"
+
+=== ULUSLARARASI KORUMA STATÜSÜ
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Başvuru*
+
+*MADDE 65 –* (1) Uluslararası koruma başvuruları valiliklere bizzat yapılır.
+
+(2) Başvuruların ülke içinde veya sınır kapılarında kolluk birimlerine
+yapılması hâlinde, bu başvurular derhâl valiliğe bildirilir. Başvuruyla ilgili
+işlemler valilikçe yürütülür.
+
+(3) Her yabancı veya vatansız kişi kendi adına başvuru yapabilir. Başvuru
+sahibi, başvuruları aynı gerekçeye dayanan ve kendisiyle birlikte gelen aile
+üyeleri adına başvuru yapabilir. Bu durumda, ergin aile üyelerinin, kendi
+adlarına başvuruda bulunulmasına yönelik muvafakati alınır.
+
+(4) Makul bir süre içinde valiliklere kendiliğinden uluslararası koruma
+başvurusunda bulunanlar hakkında; yasa dışı girişlerinin veya kalışlarının
+geçerli nedenlerini açıklamak kaydıyla, Türkiye’ye yasal giriş şartlarını ihlal
+etmek veya Türkiye’de yasal şekilde bulunmamaktan dolayı cezai işlem yapılmaz.
+
+(5) Hürriyeti kısıtlanan kişilerin uluslararası koruma başvuruları, valiliğe
+derhâl bildirilir. Başvuruların alınması ve değerlendirilmesi, diğer adli ve
+idari işlemlerin ya da tedbir ve yaptırımların uygulanmasını engellemez.
+====
+
+Kişinin valiliğe başvurusu ile kendisine 30 günlük geçerlilik süresi olan bir
+kayıt belgesi verilecektir. Bu kayıt belgesi uzatılabilir. Kayıt belgesinin
+verilmesinin ardından kişi ile bir mülakat yapılması gerekir. Mülakat
+tamamlandıktan sonra kişinin başvuru aşaması tamamlanmış olur ve kişiye bir
+başvuru sahibi olduğuna dair bir belge verilir. Bu belgenin süresi 6 aydır
+ancak kişi hakkındaki değerlendirme 6 ayda tamamlanmaz ise 6'şar ay olarak
+uzatılması mümkündür.
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Uluslararası korumanın haricinde tutulma*
+
+*MADDE 64 –* (1) Başvuru sahibi;
+
+.. Birleşmiş Milletler Mülteciler Yüksek Komiserliği dışında, diğer bir
+Birleşmiş Milletler organı veya örgütünden hâlen koruma veya yardım görüyorsa,
+.. İkamet ettiği ülke yetkili makamlarınca, o ülke vatandaşlarının sahip
+bulundukları hak ve yükümlülüklere sahip olarak tanınıyorsa,
+.. Sözleşmenin 1 inci maddesinin (F) fıkrasında belirtilen fiillerden suçlu
+olduğuna dair ciddi kanaat varsa,
+
+uluslararası korumadan hariçte tutulur.
+
+(2) Birinci fıkranın (a) bendine giren bir kişi hakkındaki koruma veya yardım
+herhangi bir nedenle sona erdiği zaman, bu kişilerin konumları Birleşmiş
+Milletler Genel Kurulunda alınan kararlara istinaden kesin bir çözüme
+kavuşturulmadığı takdirde, bu kişiler bu Kanunun sağladığı korumadan
+yararlanabilir.
+
+(3) Başvuru sahibinin, uluslararası koruma başvurusu yapmadan önce, Türkiye
+dışında hangi saikle olursa olsun zalimce eylemler yaptığını düşündürecek
+nedenler varsa birinci fıkranın (c) bendi kapsamında değerlendirme yapılır.
+
+(4) Birinci fıkranın (c) bendi ile üçüncü fıkrada belirtilen suç ya da
+fiillerin işlenmesine iştirak eden veya bu fiillerin işlenmesini tahrik eden
+kişi uluslararası korumadan hariçte tutulur.
+
+(5) Birinci fıkranın (c) bendi ile üçüncü ve dördüncü fıkralardaki durumlara ek
+olarak; kamu düzeni veya kamu güvenliği açısından tehlike oluşturduğuna dair
+ciddi emareler bulunan yabancı veya vatansız kişi ile birinci fıkranın (c)
+bendi kapsamında olmayan, fakat Türkiye’de işlenmesi hâlinde hapis cezası
+verilmesini gerektiren suç veya suçları daha önce işleyen ve sadece bu suçun
+cezasını çekmemek için menşe veya ikamet ülkesini terk eden yabancı veya
+vatansız kişi, ikincil korumadan hariçte tutulur.
+
+(6) Başvuru sahibinin uluslararası korumadan hariçte tutulması, hariçte tutma
+nedenlerinden herhangi birinin diğer aile üyeleri için oluşmaması şartıyla,
+başvuru sahibinin aile üyelerinin de hariçte tutulmasını gerektirmez.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Başvuru sahiplerinin idari gözetimi*
+
+*MADDE 68 –* (1) Başvuru sahipleri, sadece uluslararası koruma başvurusunda
+bulunmalarından dolayı idari gözetim altına alınamaz.
+
+(2) Başvuru sahiplerinin idari gözetim altına alınması istisnai bir işlemdir.
+Başvuru sahibi sadece aşağıdaki hâllerde idari gözetim altına alınabilir:
+
+.. Kimlik veya vatandaşlık bilgilerinin doğruluğuyla ilgili ciddi şüphe varsa,
+bu bilgilerinin tespiti amacıyla
+.. Sınır kapılarında usulüne aykırı surette ülkeye girmekten alıkonulması
+amacıyla
+.. İdari gözetim altına alınmaması durumunda başvurusuna temel oluşturan
+unsurların belirlenemeyecek olması hâlinde
+.. Kamu düzeni veya kamu güvenliği açısından ciddi tehlike oluşturması hâlinde
+
+(3) İdari gözetimin gerekip gerekmediği bireysel olarak değerlendirilir. İkinci
+fıkrada belirtilen hâllerde; idari gözetim altına alınmadan önce, 71 inci
+maddede belirtilen ikamet zorunluluğu ve bildirim yükümlülüğünün yeterli olup
+olmayacağı öncelikle değerlendirilir. Valilik, idari gözetim yerine başka
+usuller belirleyebilir. Bu tedbirler yeterli olmadığı takdirde, idari gözetim
+uygulanır.
+
+(4) İdari gözetim kararı, idari gözetim altına alınma gerekçelerini ve
+gözetimin süresini içerecek şekilde idari gözetim altına alınan kişiye veya
+yasal temsilcisine ya da avukatına yazılı olarak tebliğ edilir. İdari gözetim
+altına alınan kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu ve
+itiraz usulleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
+
+(5) Başvuru sahibinin idari gözetim süresi otuz günü geçemez. İdari gözetim
+altına alınan kişilerin işlemleri en kısa sürede tamamlanır. İdari gözetim,
+şartları ortadan kalktığı takdirde derhâl sonlandırılır.
+
+(6) İdari gözetimin her aşamasında, kararı alan makam tarafından, idari gözetim
+sonlandırılarak, 71 inci maddede belirtilen yükümlülüklerin veya başka
+tedbirlerin yerine getirilmesi istenebilir.
+
+(7) İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari
+gözetime karşı sulh ceza hâkimine başvurabilir. Başvuru idari gözetimi
+durdurmaz. Dilekçenin idareye verilmesi hâlinde, dilekçe yetkili sulh ceza
+hâkimine derhâl ulaştırılır. Sulh ceza hâkimi incelemeyi beş gün içinde
+sonuçlandırır. Sulh ceza hâkiminin kararı kesindir. İdari gözetim altına alınan
+kişi veya yasal temsilcisi ya da avukatı, idari gözetim şartlarının ortadan
+kalktığı veya değiştiği iddiasıyla yeniden sulh ceza hâkimine başvurabilir.
+
+(8) İkinci fıkra uyarınca idari gözetim altına alınan kişi, usul ve esasları
+yönetmelikle belirlenmek üzere ziyaretçi kabul edebilir. İdari gözetim altına
+alınan kişiye yasal temsilcisi, avukat, noter ve Birleşmiş Milletler Mülteciler
+Yüksek Komiserliği görevlileriyle görüşme imkânı sağlanır.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Kayıt ve kontrol*
+
+*MADDE 69 –* (1) Uluslararası koruma başvuruları valiliklerce kaydedilir.
+
+(2) Başvuru sahibi kayıt esnasında kimlik bilgilerini doğru olarak bildirmek ve
+varsa kimliğini ispatlayacak belge ve seyahat dokümanlarını yetkili makamlara
+teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmesini sağlamak
+amacıyla, başvuru sahibinin üzerinde ve eşyalarında kontrol yapılabilir.
+
+(3) Kayıt esnasında başvuru sahibinin kimliğine ilişkin belge olmaması hâlinde,
+kimlik tespitinde kişisel verilerinin karşılaştırılmasından ve yapılan
+araştırmalardan elde edilen bilgiler kullanılır. Kimlik tespit araştırmaları
+sonucunda da kimliğine dair bilgi elde edilememesi hâlinde, başvuranın beyanı
+esas alınır.
+
+(4) Kayıt esnasında; başvuru sahibinin menşe veya ikamet ülkesini terk etme
+sebepleri, ülkesini terk ettikten sonra başından geçen ve başvuru yapmasına
+neden olan olaylar, Türkiye’ye giriş şekli, kullandığı yol güzergâhları ve
+vasıta bilgileri, daha önceden başka bir ülkede uluslararası korumaya başvurmuş
+veya korumadan yararlanmışsa, bu başvuru veya korumaya ilişkin bilgi ve
+belgeleri alınır.
+
+(5) Mülakat zamanı ve yeri kayıt esnasında bildirilir.
+
+(6) Kamu sağlığını tehlikeye düşürebileceği değerlendirilen başvuru sahibi
+sağlık kontrolünden geçirilir.
+
+(7) Başvuru sahibine kayıt esnasında; kimlik bilgilerini içeren, uluslararası
+koruma başvurusunda bulunduğunu belirten, otuz gün geçerli kayıt belgesi
+verilir. Kayıt belgesi, gerektiğinde otuz günlük sürelerle uzatılabilir. Kayıt
+belgesi, hiçbir harca tabi olmayıp başvuru sahibinin Türkiye’de kalışına imkân
+sağlar.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*İkamet zorunluluğu ve bildirim yükümlülüğü*
+
+*MADDE 71 –* (1) Başvuru sahibine, kendisine gösterilen kabul ve barınma
+merkezinde, belirli bir yerde veya ilde ikamet etme zorunluluğu ile istenilen
+şekil ve sürelerde bildirimde bulunma gibi idari yükümlülükler getirilebilir.
+
+(2) Başvuru sahibi, adres kayıt sistemine kayıt yaptırmak ve ikamet adresini
+valiliğe bildirmekle yükümlüdür.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Kabul edilemez başvuru*
+
+*MADDE 72 –* (1) Başvuru sahibi;
+
+.. Farklı bir gerekçe öne sürmeksizin aynı başvuruyu yenilemişse,
+.. Kendi adına başvuru yapılmasına muvafakat verdikten sonra, başvurunun
+herhangi bir aşamasında haklı bir neden göstermeksizin veya başvurunun
+reddedilmesinin ardından farklı bir gerekçe öne sürmeksizin ayrı bir başvuru
+yapmışsa,
+.. 73 üncü madde kapsamında olan ülkeden gelmişse,
+.. 74 üncü madde kapsamında olan ülkeden gelmişse,
+
+başvurusunun kabul edilemez olduğuna ilişkin karar verilir.
+
+(2) Birinci fıkrada belirtilen durumların, değerlendirmenin herhangi bir
+aşamasında ortaya çıkması hâlinde değerlendirme durdurulur.
+
+(3) Başvurunun kabul edilemez olduğuna ilişkin karar, ilgiliye veya yasal
+temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir avukat tarafından
+temsil edilmiyorsa kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi
+veya yasal temsilcisi bilgilendirilir.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*İlk iltica ülkesinden gelenler*
+
+*MADDE 73 –* (1) Başvuru sahibinin, daha önceden mülteci olarak tanındığı ve
+hâlen bu korumadan yararlanma imkânının olduğu veya geri göndermeme ilkesini de
+içeren yeterli ve etkili nitelikte korumadan hâlen faydalanabileceği bir
+ülkeden geldiğinin ortaya çıkması durumunda, başvuru kabul edilemez olarak
+değerlendirilir ve ilk iltica ülkesine gönderilmesi için işlemler başlatılır.
+Ancak geri gönderme işlemi gerçekleşinceye kadar ülkede kalışına izin verilir.
+Bu durum ilgiliye tebliğ edilir. İlgilinin, ilk iltica ülkesi olarak nitelenen
+ülke tarafından kabul edilmemesi hâlinde, başvuruya ilişkin işlemler devam
+ettirilir.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Güvenli üçüncü ülkeden gelenler*
+
+*MADDE 74 –* (1) Başvuru sahibinin, Sözleşmeye uygun korumayla sonuçlanabilecek
+bir uluslararası koruma başvurusu yaptığı veya başvurma imkânının olduğu
+güvenli üçüncü bir ülkeden geldiğinin ortaya çıkması durumunda başvuru kabul
+edilemez olarak değerlendirilir ve güvenli üçüncü ülkeye gönderilmesi için
+işlemler başlatılır. Ancak geri gönderme işlemi gerçekleşinceye kadar ülkede
+kalışına izin verilir. Bu durum ilgiliye tebliğ edilir. İlgilinin, güvenli
+üçüncü ülke olarak nitelenen ülke tarafından kabul edilmemesi hâlinde,
+başvuruya ilişkin işlemler devam ettirilir.
+
+(2) Aşağıdaki şartları taşıyan ülkeler güvenli üçüncü ülke olarak nitelendirilir:
+
+.. Kişilerin hayatının veya hürriyetinin, ırkı, dini, tabiiyeti, belli bir
+toplumsal gruba mensubiyeti veya siyasi düşünceleri nedeniyle tehdit altında
+olmaması
+.. Kişilerin işkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye
+tabi tutulacağı ülkelere geri gönderilmemesi ilkesinin uygulanıyor olması
+.. Kişinin mülteci statüsü talep etme ve mülteci olarak nitelendirilmesi
+durumunda Sözleşmeye uygun olarak koruma elde etme imkânının bulunması
+.. Kişinin ciddi zarar görme riskinin olmaması
+
+(3) Bir ülkenin başvuru sahibi için güvenli üçüncü ülke olup olmadığı, başvuru
+sahibinin ilgili üçüncü ülkeye gönderilmesini makul kılacak bu kişi ve ülke
+arasındaki bağlantılar da dâhil olmak üzere, her başvuru sahibi için ayrı
+olarak değerlendirilir.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Uluslararası koruma başvuru sahibi kimlik belgesi*
+
+*MADDE 76 –* (1) Mülakatı tamamlanan başvuru sahibine ve varsa birlikte geldiği
+aile üyelerine, uluslararası koruma talebinde bulunduğunu belirten ve yabancı
+kimlik numarasını içeren altı ay süreli Uluslararası Koruma Başvuru Sahibi
+Kimlik Belgesi düzenlenir. Başvurusu sonuçlandırılamayanların kimlik belgeleri
+altı aylık sürelerle uzatılır.
+
+(2) 72 nci ve 79 uncu maddeler kapsamında olanlar ile bunların aile üyelerine
+kimlik belgesi verilmez.
+
+(3) Kimlik belgesinin şekli ve içeriği Genel Müdürlükçe belirlenir.
+
+(4) Kimlik belgesi, hiçbir harca tabi olmayıp ikamet izni yerine geçer.
+====
+
+Başvuru sahibi kimlik belgesine sahip olan kişiler hakkında bir değerlendirme
+yapılacaktır. Bu değerlendirme sonucu kişinin başvurusu reddedilirse kişinin bu
+karara karşı 30 gün içerisinde idare mahkemesinde dava açma hakkı vardır.
+Başvuru kabul edilirse kişiye verilebilecek üç statü vardır: Mülteci, şartlı
+mülteci ya da ikincil koruma.
+
+Kişi mülteci olarak kabul edilirse 3 yıllık geçerlilik süresi olan bir belge
+verilecektir. Şartlı mülteci ya da ikincil korumadan faydalanacak kişi olarak
+kabul edilirse 1 yıllık geçerlilik süresi olan bir belge verilecektir. Bu belge
+aynı zamanda ikamet izni yerine geçer.
+
+Bu belge dışında mülteci ise pasaport yerine geçen bir seyahat belgesi
+düzenlenir. Şartlı mülteci ya da ikincil korumadan yararlanacak kişilere ise
+yabancıya mahsus damgalı pasaport verilir.
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Uluslararası koruma statüsünün sona ermesi*
+
+*MADDE 85 –* (1) Uluslararası koruma statüsü sahibi kişi;
+
+.. Vatandaşı olduğu ülkenin korumasından kendi isteğiyle tekrar yararlanırsa,
+.. Kaybettiği vatandaşlığını kendi isteğiyle tekrar kazanırsa,
+.. Yeni bir vatandaşlık kazanmışsa ve vatandaşlığını kazandığı ülkenin
+korumasından yararlanıyorsa,
+.. Terk ettiği veya zulüm korkusuyla dışında bulunduğu ülkeye kendi isteğiyle
+tekrar dönmüşse,
+.. Statü verilmesini sağlayan koşullar ortadan kalktığı için vatandaşı olduğu
+ülkenin korumasından yararlanabilecekse,
+.. Vatansız olup da, statü verilmesine yol açan koşullar ortadan kalktığı için
+önceden yaşadığı ikamet ülkesine dönebilecekse,
+
+uluslararası koruma statüsü sona erer.
+
+(2) Birinci fıkranın (e) ve (f) bentlerinin incelenmesinde, statü verilmesine
+neden olan şartların ortadan kalkıp kalkmadığı veya önemli ve kalıcı bir
+şekilde değişip değişmediği göz önünde bulundurulur.
+
+(3) İkincil koruma statüsü verilmesine neden olan şartlar ortadan kalktığında
+veya korumaya gerek bırakmayacak derecede değiştiğinde de statü sona erer.
+İkincil koruma statüsü verilmesini gerektiren şartlardaki değişikliklerin
+önemli ve kalıcı olup olmadığı göz önünde bulundurulur.
+
+(4) Birinci ve üçüncü fıkralarda belirtilen şartların ortaya çıkması hâlinde,
+statü yeniden değerlendirilebilir. Bu kişiye, statüsünün yeniden
+değerlendirildiği ve nedenleri yazılı olarak bildirildikten sonra, statüsünün
+devam etmesi gerektiğine ilişkin nedenlerini sözlü veya yazılı şekilde
+sunabilmesine fırsat verilir.
+
+(5) Maddi gerekçelerini ve hukuki dayanaklarını içeren sona erme kararı,
+ilgiliye veya yasal temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir
+avukat tarafından temsil edilmiyorsa kararın sonucu, itiraz usulleri ve
+süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Uluslararası koruma statüsünün iptali*
+
+*MADDE 86 –* (1) Uluslararası koruma statüsü verilen kişilerden;
+
+.. Sahte belge kullanma, hile, aldatma yoluyla veya beyan etmediği gerçeklerle
+statü verilmesine neden olanların,
+.. Statü verildikten sonra, 64 üncü madde çerçevesinde hariçte tutulması
+gerektiği anlaşılanların,
+
+statüsü iptal edilir.
+
+(2) Maddi gerekçelerini ve hukuki dayanaklarını içeren iptal kararı, ilgiliye
+veya yasal temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir avukat
+tarafından temsil edilmiyorsa kararın sonucu, itiraz usulleri ve süreleri
+hakkında kendisi veya yasal temsilcisi bilgilendirilir.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Hak ve yükümlülüklere ilişkin genel ilkeler*
+
+*MADDE 88 –* (1) Uluslararası koruma statüsü sahibi kişiler, karşılıklılık
+şartından muaftır.
+
+(2) Başvuru sahibine, başvurusu reddedilen veya uluslararası koruma statüsü
+sahibi kişilere sağlanan hak ve imkânlar, Türk vatandaşlarına sağlanan hak ve
+imkânlardan fazla olacak şekilde yorumlanamaz.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Yardım ve hizmetlere erişim*
+
+*MADDE 89 –* (1) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişi ve
+aile üyeleri, ilköğretim ve ortaöğretim hizmetlerinden faydalanır.
+
+(2) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişilerden ihtiyaç
+sahibi olanların, sosyal yardım ve hizmetlere erişimleri sağlanabilir.
+
+(3) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişilerden;
+
+.. Herhangi bir sağlık güvencesi olmayan ve ödeme gücü bulunmayanlar, 31/5/2006
+tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu
+hükümlerine tabidir. Genel sağlık sigortasından faydalanacak kişilerin
+primlerinin ödenmesi için Genel Müdürlük bütçesine ödenek konulur. Primleri
+Genel Müdürlük tarafından ödenenlerden ödeme güçlerine göre primin tamamı veya
+belli bir oranı talep edilir.
+.. Sağlık güvencesi veya ödeme gücünün bulunduğu veya başvurunun sadece tıbbi
+tedavi görmek amacıyla yapıldığı sonradan anlaşılanlar, genel sağlık
+sigortalılıklarının sona erdirilmesi için en geç on gün içinde Sosyal Güvenlik
+Kurumuna bildirilir ve yapılan tedavi ve ilaç masrafları ilgililerden geri
+alınır.
+
+(4) İş piyasasına erişimle ilgili olarak;
+
+.. Başvuru sahibi veya şartlı mülteci, uluslararası koruma başvurusu tarihinden
+altı ay sonra çalışma izni almak için başvurabilir.
+.. Mülteci veya ikincil koruma statüsü sahibi, statü almasından itibaren
+bağımlı veya bağımsız olarak çalışabilir. Yabancıların çalışamayacağı iş ve
+mesleklere ilişkin diğer mevzuatta yer alan hükümler saklıdır. Mülteci veya
+ikincil koruma statüsü sahibi kişiye verilecek kimlik belgesi, çalışma izni
+yerine de geçer ve bu durum kimlik belgesine yazılır.
+.. Mülteci ve ikincil koruma statüsü sahibinin iş piyasasına erişimi, iş
+piyasasındaki durum ve çalışma hayatındaki gelişmeler ile istihdama ilişkin
+sektörel ve ekonomik şartların gerekli kıldığı hâllerde, belirli bir süre için,
+tarım, sanayi veya hizmet sektörleri, belirli bir meslek, iş kolu veya mülki ve
+coğrafi alan itibarıyla sınırlandırılabilir. Ancak, Türkiye’de üç yıl ikamet
+eden veya Türk vatandaşıyla evli olan ya da Türk vatandaşı çocuğu olan mülteci
+ve ikincil koruma statüsü sahipleri için bu sınırlamalar uygulanmaz.
+.. Başvuru sahibi veya uluslararası koruma statüsü sahibi kişilerin çalışmasına
+ilişkin usul ve esaslar, Bakanlığın görüşü alınarak Çalışma ve Sosyal Güvenlik
+Bakanlığı tarafından belirlenir.
+
+(5) 72 nci ve 79 uncu maddelerde sayılanlar hariç olmak üzere, muhtaç olduğu
+tespit edilen başvuru sahibine, Maliye Bakanlığının uygun görüşü alınarak
+Bakanlığın belirleyeceği usul ve esaslar çerçevesinde harçlık verilebilir.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Yükümlülükler*
+
+*MADDE 90 –* (1) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişi,
+bu Kısımda yazılı yükümlülüklerine ek olarak;
+
+.. Çalışma durumuna ait güncel bilgileri otuz gün içinde bildirmekle,
+.. Gelirlerini, taşınır ve taşınmazlarını otuz gün içinde bildirmekle,
+.. Adres, kimlik ve medeni hâl değişikliklerini yirmi iş günü içinde
+bildirmekle,
+.. Kendisine sağlanan hizmet, yardım ve diğer imkânlardan haksız olarak
+yararlandığının tespit edilmesi hâlinde, bedellerini tamamen veya kısmen geri
+ödemekle,
+.. Genel Müdürlükçe kendisinden bu Kısım çerçevesinde istenilenleri yerine
+getirmekle,
+
+yükümlüdür.
+
+(2) Bu Kısımda yazılı yükümlülüklere uymayanlar ile başvuruları ve uluslararası
+koruma statüleriyle ilgili olumsuz karar verilenlere; eğitim ve temel sağlık
+hakları hariç, diğer haklardan faydalanmaları bakımından sınırlama
+getirilebilir. Sınırlamaya ilişkin değerlendirme bireysel yapılır. Karar,
+ilgili kişiye veya yasal temsilcisine ya da avukatına yazılı olarak tebliğ
+edilir.  İlgili kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu,
+itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi
+bilgilendirilir.
+====
+
+==== MÜLTECİ
+
+[caption=""]
+.Mültecilerin Hukuki Statüsüne Dair Sözleşme
+====
+*Madde 2 -* [.line-through]#1 Ocak 1951'den önce# meydana gelen olaylar
+sonucunda ve ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti veya
+siyasi düşünceleri yüzünden, zulme uğrayacağından haklı sebeplerle korktuğu
+için vatandaşı olduğu  ̧ülkenin dışında bulunan ve bu ülkenin korumasından
+yararlanamayan, ya da söz konusu korku nedeniyle, yararlanmak istemeyen; yahut
+tabiiyeti yoksa ve bu tür olaylar sonucu önceden yaşadığı ikamet ülkesinin
+dışında bulunan, oraya dönemeyen veya söz konusu korku nedeniyle dönmek
+istemeyen her şahsa uygulanacaktır.
+
+Birden fazla tabiiyeti olan bir kişi hakkındaki "vatandaşı olduğu ülke"
+ifadesi, tabiiyetini haiz olduğu ülkelerden her birini kasteder ve bir kişi,
+haklı bir sebebe dayalı bir korku olmaksızın, vatandaşı olduğu ülkelerden
+birinin korumasından yararlanmıyorsa, vatandaşı olduğu ülkenin korumasından
+mahrum sayılmayacaktır.
+====
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Mülteci*
+
+*MADDE 61 –* Avrupa ülkelerinde meydana gelen olaylar nedeniyle; ırkı, dini,
+tabiiyeti, belli bir toplumsal gruba mensubiyeti veya siyasi düşüncelerinden
+dolayı zulme uğrayacağından haklı sebeplerle korktuğu için vatandaşı olduğu
+ülkenin dışında bulunan ve bu ülkenin korumasından yararlanamayan ya da söz
+konusu korku nedeniyle yararlanmak istemeyen yabancıya veya bu tür olaylar
+sonucu önceden yaşadığı ikamet ülkesinin dışında bulunan, oraya dönemeyen veya
+söz konusu korku nedeniyle dönmek istemeyen vatansız kişiye statü belirleme
+işlemleri sonrasında mülteci statüsü verilir.
+====
+
+Devlet tarafından mültecilere _uluslarası koruma kimlik_ belgesi verilir. Bu
+kimlik belgesi *üç yıl* süreyle verilir ve hukuki anlamda ikamet izni yerine
+geçer. Ayrıca mülteciler düzenlenen _uluslararası seyahat belgesi_ ile seyahat
+edebilirler.
+
+==== ŞARTLI MÜLTECİ
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Şartlı mülteci*
+
+*MADDE 62 –* Avrupa ülkeleri dışında meydana gelen olaylar sebebiyle; ırkı,
+dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti veya siyasi
+düşüncelerinden dolayı zulme uğrayacağından haklı sebeplerle korktuğu için
+vatandaşı olduğu ülkenin dışında bulunan ve bu ülkenin korumasından
+yararlanamayan, ya da söz konusu korku nedeniyle yararlanmak istemeyen
+yabancıya veya bu tür olaylar sonucu önceden yaşadığı ikamet ülkesinin dışında
+bulunan, oraya dönemeyen veya söz konusu korku nedeniyle dönmek istemeyen
+vatansız kişiye statü belirleme işlemleri sonrasında şartlı mülteci statüsü
+verilir. Üçüncü ülkeye yerleştirilinceye kadar, şartlı mültecinin Türkiye’de
+kalmasına izin verilir.
+====
+
+TIP: Şartlı mültecilerin tek özelliği Avrupa ülkeleri dışından gelen kişiler
+olmalarıdır.
+
+NOTE: Devletin şartlı mülteri statüsünün verilmesi hususunda takdir hakkı
+yoktur. Madde 62'de şartları taşıyan kişilere statü verilir.
+
+Şartlı mülteci statüsü verilen kişilere *bir yıl* süreyle _uluslararası koruma
+kimlik_ belgesi verilir. Bu kimlik belgesi ikamet izni yerine de geçer. Bu
+kişilerin yurtdışına çıkışı için _yabancılara mahsus pasaport_ düzenlenir.
+
+Şartlı mültecilere, mültecilerden farklı olarak, Türkiye'de belirli bir şehirde
+yaşama ve bildirimde bulunma zorunluluğu yüklenebilir.
+
+==== İKİNCİL KORUMA STATÜSÜ
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*İkincil koruma*
+
+*MADDE 63 –* Mülteci veya şartlı mülteci olarak nitelendirilemeyen, ancak menşe
+ülkesine veya ikamet ülkesine geri gönderildiği takdirde;
+
+.. Ölüm cezasına mahkûm olacak veya ölüm cezası infaz edilecek,
+.. İşkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye maruz kalacak,
+.. Uluslararası veya ülke genelindeki silahlı çatışma durumlarında, ayrım
+gözetmeyen şiddet hareketleri nedeniyle şahsına yönelik ciddi tehditle
+karşılaşacak,
+
+olması nedeniyle menşe ülkesinin veya ikamet ülkesinin korumasından
+yararlanamayan veya söz konusu tehdit nedeniyle yararlanmak istemeyen yabancı
+ya da vatansız kişiye, statü belirleme işlemleri sonrasında ikincil koruma
+statüsü verilir.
+====
+
+=== GEÇİCİ KORUMA STATÜSÜ
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*Geçici koruma*
+
+*MADDE 91 –* Ülkesinden ayrılmaya zorlanmış, ayrıldığı ülkeye geri dönemeyen,
+acil ve geçici koruma bulmak amacıyla kitlesel olarak sınırlarımıza gelen veya
+sınırlarımızı geçen yabancılara geçici koruma sağlanabilir.
+
+Bu kişilerin Türkiye’ye kabulü, Türkiye’de kalışı, hak ve yükümlülükleri,
+Türkiye’den çıkışlarında yapılacak işlemler, kitlesel hareketlere karşı
+alınacak tedbirlerle ulusal ve uluslararası kurum ve kuruluşlar arasındaki iş
+birliği ve koordinasyon, merkez ve taşrada görev alacak kurum ve kuruluşların
+görev ve yetkilerinin belirlenmesi, Bakanlar Kurulu tarafından çıkarılacak
+yönetmelikle düzenlenir.
+====
+
+[caption=""]
+.Geçici Koruma Yönetmeliği
+====
+*GEÇİCİ MADDE 1 -* (1) 28/4/2011 tarihinden itibaren Suriye Arap
+Cumhuriyeti’nde meydana gelen olaylar sebebiyle geçici koruma amacıyla Suriye
+Arap Cumhuriyeti’nden kitlesel veya bireysel olarak sınırlarımıza gelen veya
+sınırlarımızı geçen Suriye Arap Cumhuriyeti vatandaşları ile vatansızlar ve
+mülteciler, uluslararası koruma başvurusunda bulunmuş olsalar dahi geçici
+koruma altına alınırlar. Geçici korumanın uygulandığı süre içinde, bireysel
+uluslararası koruma başvuruları işleme konulmaz.
+
+(2) Birinci fıkrada belirtilen yabancılardan 28/4/2011 tarihinden önce
+uluslararası koruma başvurusunda bulunanlar, talepleri halinde geçici koruma
+altına alınırlar.
+====
+
+Geçici koruma statüsü aşağıdaki hakları sağlamaktadır:
+
+* Açık sınır politikası ile ülke topraklarına kabul
+* Geri gönderilmeme hakkı
+* Temel ve acil ihtiyaçların karşılanması
+* Oturma imkanı (*ikamet izni yerine geçmez*)
+* Sağlık güvencesi
+* Anadilde eğitim hakkı
+* Çalışma izni
+* İdari mercilerin işlemlerine karşı itiraz hakkı
+* Avukat edinme hakkı
+
+[caption=""]
+.Geçici Koruma Yönetmeliği
+====
+*Geçici koruma kapsamına alınmayacak yabancılar*
+
+*MADDE 8 -* Aşağıdaki hallerde, yabancı geçici korumadan yararlandırılmaz,
+yararlandırılmışsa geçici koruması iptal edilir.
+
+.. Mültecilerin Hukuki Durumuna Dair 1967 Protokolüyle değişik 28/7/1951
+tarihli Mültecilerin Hukuki Durumuna Dair Sözleşmenin 1 inci maddesinin (F)
+fıkrasında belirtilen fiillerden suçlu olduğuna dair ciddi kanaat bulunanlar.
++
+.Mültecilerin Hukuki Durumuna Dair Sözleşme
+----
+MADDE 1
+
+F. Bu Sözleşme hükümleri:
+
+ a. Bunlara mütedair milletlerarası vesikalarda tarif edildiği manada barışa
+ karşı bir suç, bir harb suçu veya insanlığa karşı bir suç işlediği;
+
+ b. Mülteci sıfatıyla kabul edildiği memlekete ilticadan evvel iltica memleketi
+ dışında ağır bir genel suç işlediği;
+
+ c. Birleşmiş Milletlerin gaye ve prensiplerine aykırı fiillerden suçlu olduğu
+ hususunda;
+
+Ciddi kannat mevcut olan bir şahıs hakkında tatbik edilemez.
+----
+.. Türkiye dışında hangi saikle olursa olsun zalimce eylemler yaptığını
+düşündürecek nedenleri bulunanlar.
+.. Bu fıkranın (a) ve (b) bentlerinde belirtilen suç ya da fiillerin
+işlenmesine iştirak eden veya bu fiillerin işlenmesini tahrik edenler.
+.. Ülkesinde silahlı çatışmaya katılmış olduğu halde bu faaliyetlerini kalıcı
+olarak sonlandırmayanlar.
+.. Terör eylemlerinde bulunduğu veya planladığı ya da bu eylemlere iştirak
+ettiği tespit edilenler.
+.. Ciddi bir suçtan mahkûm olarak topluma karşı tehdit oluşturabileceği
+değerlendirilenler ile milli güvenlik, kamu düzeni veya kamu güvenliği
+açısından tehlike oluşturduğu değerlendirilenler.
+.. Türkiye’de işlenmesi hâlinde hapis cezası verilmesini gerektiren suç veya
+suçları daha önce işleyen ve bu suçun cezasını çekmemek için menşe veya ikamet
+ülkesini terk edenler.
+.. Uluslararası mahkemelerce hakkında insanlık suçu işlediğine dair karar
+verilmiş kişiler.
+.. 5237 sayılı Türk Ceza Kanunu'nun Devlet Sırlarına Karşı Suçlar ile Casusluk
+Suçlarından birini işleyenler
+====
+
+[caption=""]
+.Geçici Koruma Yönetmeliği
+====
+*Geçici koruma uygulamasının sona ermesi*
+
+*MADDE 11 -* Bakanlık, geçici korumanın sona erdirilmesi için Bakanlar
+Kuruluna teklifte bulunabilir. Geçici koruma, Bakanlar Kurulu kararıyla
+sonlandırılır.
+
+Bakanlar Kurulu, sonlandırma kararıyla birlikte;
+
+.. Geçici korumayı tamamen durdurarak geçici korunanların ülkelerine dönmesine,
+.. Geçici korunanlara, koşullarını taşıdıkları statünün toplu olarak
+verilmesine ya da uluslararası koruma başvurusunda bulunanların başvurularının
+bireysel olarak değerlendirilmesine,
+.. Geçici korunanların, Kanun kapsamında belirlenecek koşullarda Türkiye’de
+kalmalarına izin verilmesine,
+
+karar verebilir.
+====
+
+[caption=""]
+.Geçici Koruma Yönetmeliği
+====
+*Geçici korumanın bireysel olarak sona ermesi veya iptali*
+
+*MADDE 12 -* Geçici korunanların;
+
+.. Kendi isteğiyle Türkiye’den ayrılması,
+.. Üçüncü bir ülkenin korumasından faydalanması,
+.. Üçüncü bir ülkeye insani nedenler veya yeniden yerleştirme kapsamında kabul
+edilmesi ya da üçüncü bir ülkeye çıkış yapması,
+.. Ölmesi,
+
+hallerinde geçici koruma bireysel olarak sona erer.
+
+8 inci maddenin birinci fıkrası kapsamında yer alanların geçici korumanın
+kapsamı dışında tutulması gerektiğinin sonradan anlaşılması halinde geçici
+koruma, Genel Müdürlük veya valilikler tarafından iptal edilir.
+====
+
+==== İDARİ GÖZETİM
+
+Kişiler uluslararası koruma statüsüne başvurmalarına veya bu statüye
+alınmalarına rağmen idare, idari gözetim altına alarak kişinin hürriyet hakkını
+kısıtlayabilir.
+
+Başvuru sahiplerinin idari gözetim altına alınması istisnai bir işlemdir.
+Başvuru sahibi sadece aşağıdaki hâllerde idari gözetim altına alınabilir:
+
+.. Kimlik veya vatandaşlık bilgilerinin doğruluğuyla ilgili ciddi şüphe varsa,
+bu bilgilerinin tespiti amacıyla
+.. Sınır kapılarında usulüne aykırı surette ülkeye girmekten alıkonulması
+amacıyla
+.. İdari gözetim altına alınmaması durumunda başvurusuna temel oluşturan
+unsurların belirlenemeyecek olması hâlinde
+.. Kamu düzeni veya kamu güvenliği açısından ciddi tehlike oluşturması hâlinde
+
+İdari gözetimin gerekip gerekmediği bireysel olarak değerlendirilir. İkinci
+fıkrada belirtilen hâllerde; idari gözetim altına alınmadan önce, 71 inci
+maddede belirtilen ikamet zorunluluğu ve bildirim yükümlülüğünün yeterli olup
+olmayacağı öncelikle değerlendirilir. Valilik, idari gözetim yerine başka
+usuller belirleyebilir. Bu tedbirler yeterli olmadığı takdirde, idari gözetim
+uygulanır.
+
+IMPORTANT: Başvuru sahipleri, sadece uluslararası koruma başvurusunda
+bulunmalarından dolayı idari gözetim altına alınamaz.
+
+İdari gözetim kararı, idari gözetim altına alınma gerekçelerini ve gözetimin
+süresini içerecek şekilde idari gözetim altına alınan kişiye veya yasal
+temsilcisine ya da avukatına yazılı olarak tebliğ edilir. İdari gözetim altına
+alınan kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu ve itiraz
+usulleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
+
+*Başvuru sahibinin idari gözetim süresi otuz günü geçemez*. İdari gözetim altına
+alınan kişilerin işlemleri en kısa sürede tamamlanır. İdari gözetim, şartları
+ortadan kalktığı takdirde derhâl sonlandırılır.
+
+İdari gözetimin her aşamasında, kararı alan makam tarafından, idari gözetim
+sonlandırılarak, 71 inci maddede belirtilen yükümlülüklerin veya başka
+tedbirlerin yerine getirilmesi istenebilir.
+
+[caption=""]
+.6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu
+====
+*İkamet zorunluluğu ve bildirim yükümlülüğü*
+
+*MADDE 71 –* Başvuru sahibine, kendisine gösterilen kabul ve barınma
+merkezinde, belirli bir yerde veya ilde ikamet etme zorunluluğu ile istenilen
+şekil ve sürelerde bildirimde bulunma gibi idari yükümlülükler getirilebilir.
+
+Başvuru sahibi, adres kayıt sistemine kayıt yaptırmak ve ikamet adresini
+valiliğe bildirmekle yükümlüdür.
+====
+
+İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari
+gözetime karşı *sulh ceza hâkimine* başvurabilir. Başvuru idari gözetimi
+durdurmaz. Dilekçenin idareye verilmesi hâlinde, dilekçe yetkili sulh ceza
+hâkimine derhâl ulaştırılır. *Sulh ceza hâkimi incelemeyi beş gün içinde
+sonuçlandırır*. *Sulh ceza hâkiminin kararı kesindir*. İdari gözetim altına
+alınan kişi veya yasal temsilcisi ya da avukatı, idari gözetim şartlarının
+ortadan kalktığı veya değiştiği iddiasıyla yeniden sulh ceza hâkimine
+başvurabilir.
+
+CAUTION: Sulh ceza hakiminin kararına karşı yalnızca Anayasa Mahkemesi'ne
+bireysel başvuru yapılabilir.
+
+=== YABANCILARIN TÜRKİYE'YE GİRİŞİ
+
+==== PASAPORT
+
+Pasaport, prensip olarak kişiye vatandaşı olduğu ülke tarafından verilen ve
+ülkeden çıkışına izin veren belgedir. Yabancı bir kimse Türkiye'ye giriş yapmak
+isterse pasaporta veya pasaport yerine geçen bir belgeye sahip olmalıdır.
+
+===== PASAPORT YERİNE GEÇEN BELGELER
+
+. *Pasavan*: Ortak sınır bölgesi bulunan devletler arasında yapılan anlaşmalar
+ile o bölgedeki insanların geçişini kolaylaştıran belgeler düzenlenir.
+. *Nakil vasıtalarında kullanılan mürettebat hakkında verilen belgeler*:
+Yabancı ülkelerin yetkili makamlarından alınmış mürettebat olduğunu gösteren
+belgeler karşılıklılık şartı ile Türkiye'ye girişi sağlar.
+. *Kimlik*: Bazı ülkelerin vatandaşları sadece kimlik belgesi ile giriş
+yapabilir (örneğin KKTC).
+
+==== VİZE
+
+Türkiye'de 90 güne kadar kalacak olan yabancıların vize alması gerekir. Vize
+maksimum 5 yıllık süre ile verilir. Bir kişiye vize verildiğinde bu vizenin 6
+ay içinde kullanılması gerekir.
+
+Vize bir yabancıya 180 günlük bir dilimde maksimum 90 günlük Türkiye'de kalma
+imkanı sağlar. Bir yabancı 5 yıllık Türkiye vizesine sahip olsa da 180 gün
+içinde en fazla 90 gün ülkede kalabilir.
+
+NOTE: Bir kimseye TC tarafından vize verilmiş olması ülkeye giriş konusunda
+mutlak hak sağlamaz.
+
+Kanun vize başvurularının sonuçlandırılmasını bir süreye tabi kılmıştır. Her
+halde en fazla 90 gün içinde sonuçlandırılması gerekir.
+
+Bakanlar Kurulu pasaport ve vizeye ilişkin anlaşmalar yapma konusunda
+yetkilidir. Bazı ülkelerin vatandaşları bakımından tek taraflı veya karşılıklı
+vize mecburiyetini kaldırabilir, harçtan muaf tutabilir, vize sürelerini
+belirleyebilir veya vize konusunda ilave şartlar getirebilir.
+
+===== SINIR VİZESİ
+
+Vize almadan sınır kapılarına gelen yabancılara, süresi içinde Türkiye’den
+ayrılacaklarını belgelemeleri hâlinde, sınır kapılarında istisnai olarak vize
+verilebilir.
+
+Sınır vizesi, sınır kapılarının bağlı olduğu valiliklerce verilir. Valilik bu
+yetkisini sınırda görevli kolluk birimine devredebilir. Bakanlar Kurulunca
+farklı bir süre belirlenmediği sürece, bu vize Türkiye’de en fazla on beş gün
+kalma hakkı sağlar.
+
+Sınır vizesinin verilmesinde, insani nedenlere bağlı olarak sağlık sigortası
+şartı aranmayabilir.
+
+===== HAVALİMANI TRANSİT VİZESİ
+
+Türkiye’den transit geçecek yabancılara, havalimanı transit vizesi şartı
+getirilebilir. Havalimanı transit vizeleri, en fazla altı ay içinde kullanılmak
+üzere konsolosluklar tarafından verilir.
+
+Havalimanı transit vizesi istenecek yabancılar, Bakanlık ve Dışişleri
+Bakanlığınca müştereken belirlenir.
+
+===== VİZE MUAFİYETİ
+
+Aşağıda sayılan yabancılardan Türkiye’ye girişte vize şartı aranmaz:
+
+.. Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalarla ya da Bakanlar Kurulu
+kararıyla vizeden muaf tutulan ülkelerin vatandaşları
+.. Türkiye’ye giriş yapacağı tarih itibarıyla, geçerli ikamet veya çalışma izni
+bulunanlar
+.. 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 18 inci maddesine göre
+verilmiş ve geçerliliklerini yitirmemiş yabancılara mahsus damgalı pasaport
+sahipleri
+.. 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesi
+kapsamında olduğu anlaşılanlar
+
+Aşağıda sayılan yabancılardan Türkiye’ye girişte vize şartı aranmayabilir:
+
+.. Mücbir nedenlerle, Türk hava ve deniz limanlarını kullanmak zorunda kalan
+taşıtlardaki yabancılardan liman şehrine çıkacak kişiler
+.. Deniz limanlarına gelip, yetmiş iki saati geçmemek kaydıyla, liman şehrini
+veya civar illeri turizm amaçlı gezecek kişiler
+
+===== VİZE VERİLMEYECEK YABANCILAR
+
+Aşağıda belirtilen yabancılara vize verilmez:
+
+.. Talep ettikleri vize süresinden en az altmış gün daha uzun süreli pasaport
+ya da pasaport yerine geçen belgesi olmayanlar
+.. Türkiye’ye girişleri yasaklı olanlar
+.. Kamu düzeni veya kamu güvenliği açısından sakıncalı görülenler
+.. Kamu sağlığına tehdit olarak nitelendirilen hastalıklardan birini
+taşıyanlar
+.. Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalar uyarınca, suçluların geri
+verilmesine esas olan suç veya suçlardan sanık olanlar ya da hükümlü bulunanlar
+.. Kalacağı süreyi kapsayan geçerli sağlık sigortası bulunmayanlar
+.. Türkiye’ye giriş, Türkiye’den geçiş veya Türkiye’de kalış amacını haklı
+nedenlere dayandıramayanlar
+.. Kalacağı sürede, yeterli ve düzenli maddi imkâna sahip olmayanlar
+.. Vize ihlalinden veya önceki ikamet izninden doğan ya da 21/7/1953 tarihli ve
+6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre takip ve
+tahsil edilmesi gereken alacakları ödemeyi kabul etmeyenler veya 26/9/2004
+tarihli ve 5237 sayılı Türk Ceza Kanununa göre takip edilen borç ve cezalarını
+ödemeyi kabul etmeyenler
+
+Yukarıdaki maddeler kapsamında olmasına rağmen vize verilmesinde yarar
+görülenlere Bakanın onayıyla vize verilebilir.
+
+==== TÜRKİYE'YE GİRİŞLERİNE İZİN VERİLMEYECEK YABANCILAR
+
+Aşağıdaki yabancılar, Türkiye’ye girişlerine izin verilmeyerek geri çevrilir:
+
+.. Pasaportu, pasaport yerine geçen belgesi, vizesi veya ikamet ya da çalışma
+izni olmayanlar ile bu belgeleri veya izinleri hileli yollarla edindiği veya
+sahte olduğu anlaşılanlar
+.. Vize, vize muafiyeti veya ikamet izin süresinin bitiminden itibaren en az
+altmış gün süreli pasaport veya pasaport yerine geçen belgesi olmayanlar
+.. 15 inci maddenin ikinci fıkrası saklı kalmak kaydıyla, vize muafiyeti
+kapsamında olsalar dahi, 15 inci maddenin birinci fıkrasında sayılan yabancılar
+
+Bu maddeyle ilgili olarak yapılan işlemler, geri çevrilen yabancılara tebliğ
+edilir. Tebligatta, yabancıların karara karşı itiraz haklarını etkin şekilde
+nasıl kullanabilecekleri ve bu süreçteki diğer yasal hak ve yükümlülükleri de
+yer alır.
+
+==== TÜRKİYE'YE GİRİŞ YASAĞI
+
+Genel Müdürlük, gerektiğinde ilgili kamu kurum ve kuruluşlarının görüşlerini
+alarak, Türkiye dışında olup da kamu düzeni veya kamu güvenliği ya da kamu
+sağlığı açısından Türkiye’ye girmesinde sakınca görülen yabancıların ülkeye
+girişini yasaklayabilir.
+
+Türkiye’den sınır dışı edilen yabancıların Türkiye’ye girişi, Genel Müdürlük
+veya valilikler tarafından yasaklanır.
+
+Türkiye’ye giriş yasağının süresi en fazla beş yıldır. Ancak, kamu düzeni veya
+kamu güvenliği açısından ciddi tehdit bulunması hâlinde bu süre Genel
+Müdürlükçe en fazla on yıl daha artırılabilir.
+
+Vize veya ikamet izni süresi sona eren ve bu durumları yetkili makamlarca
+tespit edilmeden önce Türkiye dışına çıkmak için valiliklere başvuruda bulunup
+hakkında sınır dışı etme kararı alınan yabancıların Türkiye’ye giriş yasağı
+süresi bir yılı geçemez.
+
+56 ncımadde uyarınca Türkiye’yi terke davet edilenlerden, süresi içinde ülkeyi
+terk edenler hakkında giriş yasağı kararı alınmayabilir.
+
+Genel Müdürlük, giriş yasağını kaldırabilir veya giriş yasağı saklı kalmak
+kaydıyla yabancının belirli bir süre için Türkiye’ye girişine izin verebilir.
+
+Kamu düzeni veya kamu güvenliği sebebiyle bazı yabancıların ülkeye kabulü Genel
+Müdürlükçe ön izin şartına bağlanabilir.
+
+=== YABANCILARIN TÜRKİYE'DE İKAMETİ
+
+Türkiye’de, vizenin veya vize muafiyetinin tanıdığı süreden ya da doksan günden
+fazla kalacak yabancıların ikamet izni almaları zorunludur. İkamet izni, altı
+ay içinde kullanılmaya başlanmadığında geçerliliğini kaybeder.
+
+İkamet izni başvurusu, yabancının vatandaşı olduğu veya yasal olarak bulunduğu
+ülkedeki konsolosluklara yapılır.
+
+İkamet izni için başvuracak yabancılarda, talep ettikleri ikamet izni
+süresinden altmış gün daha uzun süreli pasaport ya da pasaport yerine geçen
+belgeye sahip olmaları şartı aranır.
+
+Başvuru için gerekli olan bilgi ve belgeler eksik ise, başvurunun
+değerlendirilmesi eksiklikler tamamlanıncaya kadar ertelenebilir. Eksik olan
+bilgi ve belgeler ilgiliye bildirilir.
+
+Başvurular, en geç doksan gün içinde sonuçlandırılır.
+
+İkamet izni başvurusunun reddine ilişkin işlemler ilgiliye tebliğ edilir.
+
+İkamet izni başvuruları, aşağıdaki hâllerde istisnai olarak valiliklere de
+yapılabilir:
+
+.. Adli veya idari makamların kararlarında veya taleplerinde
+.. Yabancının Türkiye’den ayrılmasının makul veya mümkün olmadığı durumlarda
+.. Uzun dönem ikamet izinlerinde
+.. Öğrenci ikamet izinlerinde
+.. İnsani ikamet izinlerinde
+.. İnsan ticareti mağduru ikamet izinlerinde
+.. Aile ikamet izninden kısa dönem ikamet iznine geçişlerde
+.. Türkiye’de ikamet izni bulunan anne veya babanın Türkiye’de doğan çocukları
+için yapacağı başvurularda
+.. Geçerli ikamet izninin verilmesine esas olan gerekçenin sona ermesi veya
+değişikliğe uğramasından dolayı yeni kalış amacına uygun ikamet izni almak
+üzere yapılacak başvurularda
+.. 20 nci maddenin ikinci fıkrası kapsamında yapılacak ikamet izni
+başvurularında
+.. Türkiye’de yükseköğrenimini tamamlayanların, kısa dönem ikamet iznine
+geçişlerinde
+
+Askeri Bölgeler ve Güvenlik Bölgeleri Kanunu'nda belirtilen birinci ve ikinci
+derecek askeri yasak bölgeleri ikamet bakımından özellik taşır. Birinci derece
+askeri yasak bölgelerinde yabancıların ikameti mümkün değildir, Genelkurmay
+Başkanlığı'nın izni ile sadece geçici olarak girebilirler. İkinci derece askeri
+yasak bölgesinde yabancıların ikamet etmesi mümkünse de bunun için de
+Genelkurmay Başkanlığı'nın izni gerekir. Yabancı gerçek veya tüzel kişi bu
+bölgelerden bir taşınmaz kiralayacaksa bu da Genelkurmay Başkanlığı'nın uygun
+görmesi üzerine İçişleri Bakanlığı'nın iznini gerektirir.
+
+Ayrıca Köy Kanunu'na göre yabancıların köylerde ikamet etmeleri de İçişleri
+Bakanlığı'nın iznine tabidir.
+
+==== İKAMET İZNİNDEN MUAFİYET
+
+Aşağıda sayılan yabancılar ikamet izninden muaf tutulurlar:
+
+.. Doksan güne kadar vizeyle veya vizeden muaf olarak gelenler, vize süresi
+veya vize muafiyeti süresince
+.. Vatansız Kişi Kimlik Belgesi sahibi olanlar
+.. Türkiye’de görevli diplomasi ve konsolosluk memurları
+.. Türkiye’de görevli diplomasi ve konsolosluk memurlarının ailelerinden
+Dışişleri Bakanlığınca bildirilenler
+.. Uluslararası kuruluşların Türkiye’deki temsilciliklerinde çalışan ve
+statüleri anlaşmalarla belirlenmiş olanlar
+.. Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalarla ikamet izninden muaf
+tutulanlar.
+.. 5901 sayılı Kanunun 28 inci maddesi kapsamında olanlar
+.. 69 uncu maddenin yedinci fıkrası ile 76 ncı ve 83 üncü maddelerin birinci
+fıkraları kapsamında belge sahibi olanlar
+
+(c), (d), (e) ve (f) bentlerinde belirtilen yabancılara, şekil ve içeriği
+Bakanlık ve Dışişleri Bakanlığınca birlikte belirlenen belge tanzim edilir. Bu
+yabancılar, ikamet izninden muafiyet sağlayan durumları sona erdikten sonra da
+Türkiye’de kalmaya devam edeceklerse, en geç on gün içinde ikamet izni almak
+üzere valiliklere başvurmakla yükümlüdür.
+
+==== İKAMET İZNİ TÜRLERİ
+
+===== KISA DÖNEM İKAMET İZNİ
+
+Aşağıda belirtilen yabancılara kısa dönem ikamet izni verilebilir:
+
+.. Bilimsel araştırma amacıyla gelecekler
+.. Türkiye’de taşınmaz malı bulunanlar
+.. Ticari bağlantı veya iş kuracaklar
+.. Hizmet içi eğitim programlarına katılacaklar
+.. Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalar ya da öğrenci değişim
+programları çerçevesinde eğitim veya benzeri amaçlarla gelecekler
+.. Turizm amaçlı kalacaklar
+.. Kamu sağlığına tehdit olarak nitelendirilen hastalıklardan birini taşımamak
+kaydıyla tedavi görecekler
+.. Adli veya idari makamların talep veya kararına bağlı olarak Türkiye’de
+kalması gerekenler
+.. Aile ikamet izninden kısa dönem ikamet iznine geçenler
+.. Türkçe öğrenme kurslarına katılacaklar
+.. Kamu kurumları aracılığıyla Türkiye’de eğitim, araştırma, staj ve kurslara
+katılacaklar
+.. Türkiye’de yükseköğrenimini tamamlayanlardan mezuniyet tarihinden itibaren
+altı ay içinde müracaat edenler
+
+Kısa dönem ikamet izni, her defasında en fazla birer yıllık sürelerle verilir.
+
+(j) bendi kapsamında verilen ikamet izinleri en fazla iki defa verilebilir.
+
+(l) bendi kapsamında verilen ikamet izinleri, bir defaya mahsus olmak üzere en
+fazla bir yıl süreli verilebilir.
+
+===== AİLE İKAMET İZNİ
+
+Türk vatandaşlarının, 5901 sayılı Kanunun 28 inci maddesi kapsamında olanların
+veya ikamet izinlerinden birine sahip olan yabancılar ile mültecilerin ve
+ikincil koruma statüsü sahiplerinin;
+
+.. Yabancı eşine,
+.. Kendisinin veya eşinin ergin olmayan yabancı çocuğuna,
+.. Kendisinin veya eşinin bağımlı yabancı çocuğuna,
+
+her defasında iki yılı aşmayacak şekilde aile ikamet izni verilebilir. Ancak,
+aile ikamet izninin süresi hiçbir şekilde destekleyicinin ikamet izni süresini
+aşamaz.
+
+Vatandaşı olduğu ülkenin hukukuna göre birden fazla eş ile evlilik hâlinde,
+eşlerden yalnızca birine aile ikamet izni verilir. Ancak, diğer eşlerinden olan
+çocuklara da aile ikamet izni verilebilir.
+
+Çocukların aile ikamet izninde, Türkiye dışında varsa ortak velayeti bulunan
+anne veya babanın muvafakati aranır.
+
+Aile ikamet izinleri, on sekiz yaşına kadar, öğrenci ikamet izni almadan ilk ve
+ortaöğretim kurumlarında eğitim hakkı sağlar.
+
+En az üç yıl aile ikamet izniyle Türkiye’de kalmış olanlardan on sekiz yaşını
+tamamlayanlar, talep etmeleri hâlinde bu izinlerini kısa dönem ikamet iznine
+dönüştürebilir.
+
+Boşanma hâlinde, Türk vatandaşıyla evli yabancıya, en az üç yıl aile ikamet
+izniyle kalmış olmak kaydıyla kısa dönem ikamet izni verilebilir.  Ancak
+yabancı eşin, aile içi şiddet gerekçesiyle mağdur olduğu ilgili mahkeme
+kararıyla sabit ise, üç yıllık süre şartı aranmaz.
+
+Destekleyicinin ölümü hâlinde, bu kişiye bağlı aile ikamet izniyle kalanlara,
+süre şartı aranmadan kısa dönem ikamet izni verilebilir.
+
+Aile ikamet izni taleplerinde, destekleyicide aşağıdaki şartlar aranır:
+
+.. Toplam geliri asgari ücretten az olmamak üzere, ailedeki fert başına asgari
+ücretin üçte birinden az olmayan aylık geliri bulunmak
+.. Ailenin nüfusuna göre, genel sağlık ve güvenlik standartlarına uygun barınma
+şartlarına sahip olmak ve tüm aile fertlerini kapsayan sağlık sigortası
+yaptırmış olmak
+.. Başvuru tarihi itibarıyla, beş yıl içinde aile düzenine karşı suçlardan
+herhangi birinden hüküm giymemiş olduğunu adli sicil kaydıyla belgelemek
+.. Türkiye’de en az bir yıldır ikamet izniyle kalıyor olmak
+.. Adres kayıt sisteminde kaydı bulunmak
+
+Bilimsel araştırma amaçlı ikamet izni ya da çalışma izni bulunanlar, 5901
+sayılı Kanunun 28 inci maddesi kapsamında olanlar veya Türk vatandaşlarıyla
+evli olan yabancılar hakkında, (d) bendi uygulanmaz.
+
+Türkiye’de, destekleyicinin yanında kalmak üzere aile ikamet izni talebinde
+bulunacak yabancılarda aşağıdaki şartlar aranır:
+
+.. Yabancılar Kanunu 34 üncü maddenin birinci fıkrası kapsamında olduğunu
+gösteren bilgi ve belgeleri ibraz etmek
+.. Yabancılar Kanunu 34 üncü maddenin birinci fıkrasında belirtilen kişilerle
+birlikte yaşadığını veya yaşama niyeti taşıdığını ortaya koymak
+.. Evliliği aile ikamet izni alabilmek amacıyla yapmamış olmak
+.. Eşlerden her biri için on sekiz yaşını doldurmuş olmak
+.. Yabancılar Kanunu 7 nci madde kapsamına girmemek
+
+Aşağıdaki hâllerde aile ikamet izni verilmez, verilmişse iptal edilir, süresi
+bitenler uzatılmaz:
+
+.. Yabancılar Kanunu 35 inci maddenin birinci ve üçüncü fıkralarında aranan
+şartların karşılanmaması veya ortadan kalkması
+.. Aile ikamet izni alma şartları ortadan kalktıktan sonra kısa dönem ikamet
+izni verilmemesi
+.. Hakkında geçerli sınır dışı etme veya Türkiye’ye giriş yasağı kararı
+bulunması
+.. Aile ikamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
+.. Son bir yıl içinde toplamda yüz seksen günden fazla süreyle yurt dışında
+kalınması
+
+Aile ikamet izni verilmeden veya uzatılmadan önce makul şüphe varsa, evliliğin
+sırf ikamet izni alabilme amacıyla yapılıp yapılmadığı valiliklerce
+araştırılır. Araştırma sonucunda, evliliğin bu amaçla yapıldığı tespit edilirse
+aile ikamet izni verilmez, verilmişse iptal edilir.
+
+Aile ikamet izni verildikten sonra da evliliğin anlaşmalı olup olmadığı
+konusunda valiliklerce denetim yapılabilir.
+
+Anlaşmalı evlilik yoluyla alınan ve sonradan iptal edilen ikamet izinleri, bu
+Kanunda öngörülen ikamet izin sürelerinin toplanmasında hesaba katılmaz.
+
+===== ÖĞRENCİ İKAMET İZNİ
+
+Türkiye’de bir yükseköğretim kurumunda ön lisans, lisans, yüksek lisans ya da
+doktora öğrenimi görecek yabancılara öğrenci ikamet izni verilir.
+
+Bakımı ve masrafları gerçek veya tüzel kişi tarafından üstlenilen ilk ve orta
+derecede öğrenim görecek yabancılara, velilerinin veya yasal temsilcilerinin
+muvafakatiyle öğrenimleri süresince birer yıllık sürelerle öğrenci ikamet izni
+verilebilir ve uzatılabilir.
+
+Öğrenci ikamet izni, öğrencinin anne ve babası ile diğer yakınlarına, ikamet
+izni alma konusunda hiçbir hak sağlamaz.
+
+Öğrenim süresi bir yıldan kısa ise öğrenci ikamet izni süresi öğrenim süresini
+aşamaz.
+
+Aşağıdaki hâllerde öğrenci ikamet izni verilmez, verilmişse iptal edilir,
+süresi uzatılmaz:
+
+.. Yabancılar Kanunu 39 uncu maddede aranan şartların karşılanmaması veya
+ortadan kalkması
+.. Öğrenimin sürdürülemeyeceği konusunda kanıtların ortaya çıkması
+.. Öğrenci ikamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
+.. Hakkında geçerli sınır dışı etme kararı veya Türkiye’ye giriş yasağı
+bulunması
+
+Türkiye’de öğrenim gören ön lisans, lisans, yüksek lisans ve doktora
+öğrencileri, çalışma izni almak kaydıyla çalışabilirler. Ancak, ön lisans ve
+lisans öğrencileri için çalışma hakkı, ilk yıldan sonra başlar ve haftada yirmi
+dört saatten fazla olamaz.
+
+===== UZUN DÖNEM İKAMET İZNİ
+
+Uzun dönem ikamet iznine geçişte aşağıdaki şartlar aranır:
+
+.. Kesintisiz en az sekiz yıl ikamet izniyle Türkiye’de kalmış olmak
+.. Son üç yıl içinde sosyal yardım almamış olmak
+.. Kendisi veya varsa ailesinin geçimini sağlayacak yeterli ve düzenli gelir
+kaynağına sahip olmak
+.. Geçerli sağlık sigortasına sahip olmak
+.. Kamu düzeni veya kamu güvenliği açısından tehdit oluşturmamak
+
+Göç Politikaları Kurulunun belirlediği şartlara sahip olması nedeniyle uzun
+dönem ikamet izni verilmesi uygun görülen yabancılar için (e) bendi dışındaki
+şartlar aranmaz.
+
+Uzun dönem ikamet izni bulunan yabancılar;
+
+.. Askerlik yapma yükümlülüğü,
+.. Seçme ve seçilme,
+.. Kamu görevlerine girme,
+.. Muaf olarak araç ithal etme,
+
+ve özel kanunlardaki düzenlemeler hariç, sosyal güvenliğe ilişkin kazanılmış
+hakları saklı kalmak ve bu hakların kullanımında ilgili mevzuat hükümlerine
+tabi olmak şartıyla, Türk vatandaşlarına tanınan haklardan yararlanırlar.
+
+Uzun dönem ikamet izinleri;
+
+.. Yabancının, kamu düzeni veya kamu güvenliği açısından ciddi tehdit
+oluşturması,
+.. Sağlık, eğitim ve ülkesindeki zorunlu kamu hizmeti dışında bir nedenle
+kesintisiz bir yıldan fazla süreyle Türkiye dışında bulunması,
+
+hâllerinde iptal edilir.
+
+===== İNSANİ İKAMET İZNİ
+
+Aşağıda belirtilen hâllerde, diğer ikamet izinlerinin verilmesindeki şartlar
+aranmadan, Bakanlığın onayı alınmak ve en fazla birer yıllık sürelerle olmak
+kaydıyla, valiliklerce insani ikamet izni verilebilir ve bu izinler
+uzatılabilir:
+
+.. Çocuğun yüksek yararı söz konusu olduğunda
+.. Haklarında sınır dışı etme veya Türkiye’ye giriş yasağı kararı alındığı
+hâlde, yabancıların Türkiye’den çıkışları yaptırılamadığında ya da Türkiye’den
+ayrılmaları makul veya mümkün görülmediğinde
+.. Yabancılar Kanunu 55 inci madde uyarınca yabancı hakkında sınır dışı etme
+kararı alınmadığında
+.. Yabancılar Kanunu 53 üncü, 72 nci ve 77 nci maddelere göre yapılan işlemlere
+karşı yargı yoluna başvurulduğunda
+.. Başvuru sahibinin ilk iltica ülkesi veya güvenli üçüncü ülkeye geri
+gönderilmesi işlemlerinin devamı süresince
+.. Acil nedenlerden dolayı veya ülke menfaatlerinin korunması ile kamu düzeni
+ve kamu güvenliği açısından Türkiye’ye girişine ve Türkiye’de kalmasına izin
+verilmesi gereken yabancıların, ikamet izni verilmesine engel teşkil eden
+durumları sebebiyle diğer ikamet izinlerinden birini alma imkânı bulunmadığında
+.. Olağanüstü durumlarda
+
+İnsani ikamet izni alan yabancılar, iznin veriliş tarihinden itibaren en geç
+yirmi iş günü içinde adres kayıt sistemine kayıt yaptırmak zorundadır.
+
+İnsani ikamet izni Bakanlığın onayı alınmak kaydıyla, iznin verilmesini zorunlu
+kılan şartlar ortadan kalktığında valiliklerce iptal edilir ve uzatılmaz.
+
+===== İNSAN TİCARETİ MAĞDURU İKAMET İZNİ
+
+İnsan ticareti mağduru olduğu veya olabileceği yönünde kuvvetli şüphe duyulan
+yabancılara, yaşadıklarının etkisinden kurtulabilmeleri ve yetkililerle iş
+birliği yapıp yapmayacaklarına karar verebilmeleri amacıyla valiliklerce otuz
+gün süreli ikamet izni verilir.
+
+Bu ikamet izinlerinde, diğer ikamet izinlerinin verilmesindeki şartlar aranmaz.
+
+İyileşme ve düşünme süresi tanımak amacıyla verilen ikamet izni, mağdurun
+güvenliği, sağlığı veya özel durumu nedeniyle en fazla altışar aylık sürelerle
+uzatılabilir. Ancak, bu süreler hiçbir şekilde toplam üç yılı geçemez
+
+İnsan ticareti mağduru olduğu veya olabileceği yönünde kuvvetli şüphe bulunan
+yabancıların, kendi girişimleriyle suçun failleriyle yeniden bağ kurduklarının
+belirlendiği durumlarda ikamet izinleri iptal edilir.
+
+==== İKAMETTE KESİNTİ
+
+Zorunlu kamu hizmeti, eğitim ve sağlık nedenleri hariç, bir yılda toplam altı
+ayı geçen veya son beş yıl içinde toplam bir yılı aşan Türkiye dışında kalışlar
+ikamette kesinti sayılır. İkamet süresinde kesintisi olanların ikamet izni
+başvurularında veya başka bir ikamet iznine geçişlerinde, önceki izin süreleri
+hesaba katılmaz.
+
+Kesintisiz ikamet izin sürelerinin hesaplanmasında, öğrenci ikamet izinlerinin
+yarısı, diğer ikamet izinlerinin ise tamamı sayılır.
+
+=== SINIR DIŞI ETME
+
+Yabancılar, sınır dışı etme kararıyla, menşe ülkesine veya transit gideceği
+ülkeye ya da üçüncü bir ülkeye sınır dışı edilebilir.
+
+Sınır dışı etme kararı, Genel Müdürlüğün talimatı üzerine veya resen
+valiliklerce alınır.
+
+Karar, gerekçeleriyle birlikte hakkında sınır dışı etme kararı alınan yabancıya
+veya yasal temsilcisine ya da avukatına tebliğ edilir. Hakkında sınır dışı etme
+kararı alınan yabancı, bir avukat tarafından temsil edilmiyorsa kendisi veya
+yasal temsilcisi, kararın sonucu, itiraz usulleri ve süreleri hakkında
+bilgilendirilir.
+
+Yabancı veya yasal temsilcisi ya da avukatı, sınır dışı etme kararına karşı,
+kararın tebliğinden itibaren on beş gün içinde idare mahkemesine başvurabilir.
+Mahkemeye başvuran kişi, sınır dışı etme kararını veren makama da başvurusunu
+bildirir.
+
+Mahkemeye yapılan başvurular on beş gün içinde sonuçlandırılır. Mahkemenin bu
+konuda vermiş olduğu karar kesindir.
+
+Yabancının rızası saklı kalmak kaydıyla, dava açma süresi içinde veya yargı
+yoluna başvurulması hâlinde yargılama sonuçlanıncaya kadar yabancı sınır dışı
+edilmez.
+
+Sınır dışı etme kararı alınanlara, sınır dışı etme kararında belirtilmek
+kaydıyla, Türkiye’yi terk edebilmeleri için on beş günden az olmamak üzere otuz
+güne kadar süre tanınır. Ancak, kaçma ve kaybolma riski bulunanlara, yasal
+giriş veya yasal çıkış kurallarını ihlal edenlere, sahte belge kullananlara,
+asılsız belgelerle ikamet izni almaya çalışanlara veya aldığı tespit
+edilenlere, kamu düzeni, kamu güvenliği veya kamu sağlığı açısından tehdit
+oluşturanlara bu süre tanınmaz.
+
+==== SINIR DIŞI ETME KARARI ALINACAKLAR
+
+Aşağıda sayılan yabancılar hakkında sınır dışı etme kararı alınır:
+
+.. 5237 sayılı Kanunun 59 uncu maddesi kapsamında sınır dışı edilmesi gerektiği
+değerlendirilenler
+.. Terör örgütü yöneticisi, üyesi, destekleyicisi veya çıkar amaçlı suç örgütü
+yöneticisi, üyesi veya destekleyicisi olanlar
+.. Türkiye’ye giriş, vize ve ikamet izinleri için yapılan işlemlerde gerçek
+dışı bilgi ve sahte belge kullananlar
+.. Türkiye’de bulunduğu süre zarfında geçimini meşru olmayan yollardan
+sağlayanlar
+.. Kamu düzeni veya kamu güvenliği ya da kamu sağlığı açısından tehdit
+oluşturanlar
+.. Vize veya vize muafiyeti süresini on günden fazla aşanlar veya vizesi iptal
+edilenler
+.. İkamet izinleri iptal edilenler
+.. İkamet izni bulunup da süresinin sona ermesinden itibaren kabul edilebilir
+gerekçesi olmadan ikamet izni süresini on günden fazla ihlal edenler
+.. Çalışma izni olmadan çalıştığı tespit edilenler
+.. Türkiye’ye yasal giriş veya Türkiye’den yasal çıkış hükümlerini ihlal
+edenler
+.. Hakkında Türkiye’ye giriş yasağı bulunmasına rağmen Türkiye’ye geldiği
+tespit edilenler
+.. Uluslararası koruma başvurusu reddedilen, uluslararası korumadan hariçte
+tutulan, başvurusu kabul edilemez olarak değerlendirilen, başvurusunu geri
+çeken, başvurusu geri çekilmiş sayılan, uluslararası koruma statüleri sona eren
+veya iptal edilenlerden haklarında verilen son karardan sonra bu Kanunun diğer
+hükümlerine göre Türkiye’de kalma hakkı bulunmayanlar
+.. İkamet izni uzatma başvuruları reddedilenlerden, on gün içinde Türkiye’den
+çıkış yapmayanlar
+
+Başvuru sahibi veya uluslararası koruma statüsü sahibi kişiler hakkında, sadece
+ülke güvenliği için tehlike oluşturduklarına dair ciddi emareler bulunduğunda
+veya kamu düzeni açısından tehlike oluşturan bir suçtan kesin hüküm giymeleri
+durumunda sınır dışı etme kararı alınabilir.
+
+==== SINIR DIŞI ETME KARARI ALINMAYACAKLAR
+
+Hiç kimse, işkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye tabi
+tutulacağı veya ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti
+veya siyasi fikirleri dolayısıyla hayatının veya hürriyetinin tehdit altında
+bulunacağı bir yere gönderilemez.
+
+Yabancılar Kanunu 54 üncü madde kapsamında olsalar dahi, aşağıdaki yabancılar
+hakkında sınır dışı etme kararı alınmaz:
+
+.. Sınır dışı edileceği ülkede ölüm cezasına, işkenceye, insanlık dışı ya da
+onur kırıcı ceza veya muameleye maruz kalacağı konusunda ciddi emare bulunanlar
+.. Ciddi sağlık sorunları, yaş ve hamilelik durumu nedeniyle seyahat etmesi
+riskli görülenler
+.. Hayati tehlike arz eden hastalıkları için tedavisi devam etmekte iken sınır
+dışı edileceği ülkede tedavi imkânı bulunmayanlar
+.. Mağdur destek sürecinden yararlanmakta olan insan ticareti mağdurları
+.. Tedavileri tamamlanıncaya kadar, psikolojik, fiziksel veya cinsel şiddet
+mağdurları
+
+Ülkeye giriş veya ülkede ikameti ihlal etmiş olmasına rağmen ülkeyi terk etmek
+için sınır kapılarına gelmiş kişi hakkında sınır dışı etme kararı
+alınamayacaktır.
+
+Uluslararası korumaya başvurmuş ve başvurusu reddedilmiş kişi dava hakkından
+feragat ederek ülkeden çıkmak istiyorsa sınır dışı etme kararı
+verilemeyecektir.
+
+Uluslararası korumaya başvurmuş ve başvurunun reddi üzerine kanun yoluna
+başvurmuş kişi hakkında sınır dışı etme kararı verilemeyecektir.
+
+==== ULUSLARARASI SÖZLEŞMELERDEKİ SINIRLAMALAR
+
+__Avrupa İkamet Sözleşmesi__nde taraf devlet vatandaşlarının sadece milli
+güvenliği tehdit etme, kamu düzenini veya genel ahlakı bozma sebepleri ile
+sınır dışı edilebileceği düzenlenmiştir.
+
+_Göçmen Kişilerin Ailelerinin Korunmasına İlişkin Sözleşme_ ile göçmen veya
+işçi ailelerinin topluca sınır dışı edilemeyeceği düzenlenmiştir.
+
+==== SINIR DIŞI ETMEK ÜZERE İDARİ GÖZETİM VE SÜRESİ
+
+Yabancılar Kanunu 54 üncü madde kapsamındaki yabancılar, kolluk tarafından
+yakalanmaları hâlinde, haklarında karar verilmek üzere derhâl valiliğe
+bildirilir. Bu kişilerden, sınır dışı etme kararı alınması gerektiği
+değerlendirilenler hakkında, sınır dışı etme kararı valilik tarafından alınır.
+Değerlendirme ve karar süresi kırk sekiz saati geçemez.
+
+Hakkında sınır dışı etme kararı alınanlardan; kaçma ve kaybolma riski bulunan,
+Türkiye’ye giriş veya çıkış kurallarını ihlal eden, sahte ya da asılsız belge
+kullanan, kabul edilebilir bir mazereti olmaksızın Türkiye’den çıkmaları için
+tanınan sürede çıkmayan, kamu düzeni, kamu güvenliği veya kamu sağlığı
+açısından tehdit oluşturanlar hakkında valilik tarafından idari gözetim kararı
+alınır. Hakkında idari gözetim kararı alınan yabancılar, yakalamayı yapan
+kolluk birimince geri gönderme merkezlerine kırk sekiz saat içinde götürülür.
+
+Geri gönderme merkezlerindeki idari gözetim süresi altı ayı geçemez. Ancak bu
+süre, sınır dışı etme işlemlerinin yabancının iş birliği yapmaması veya
+ülkesiyle ilgili doğru bilgi ya da belgeleri vermemesi nedeniyle
+tamamlanamaması hâlinde, en fazla altı ay daha uzatılabilir.
+
+İdari gözetimin devamında zaruret olup olmadığı, valilik tarafından her ay
+düzenli olarak değerlendirilir. Gerek görüldüğünde, otuz günlük süre
+beklenilmez. İdari gözetimin devamında zaruret görülmeyen yabancılar için idari
+gözetim derhâl sonlandırılır. Bu yabancılara, belli bir adreste ikamet etme,
+belirlenecek şekil ve sürelerde bildirimde bulunma gibi idari yükümlülükler
+getirilebilir.
+
+İdari gözetim kararı, idari gözetim süresinin uzatılması ve her ay düzenli
+olarak yapılan değerlendirmelerin sonuçları, gerekçesiyle birlikte yabancıya
+veya yasal temsilcisine ya da avukatına tebliğ edilir. Aynı zamanda, idari
+gözetim altına alınan kişi bir avukat tarafından temsil edilmiyorsa, kendisi
+veya yasal temsilcisi kararın sonucu, itiraz usulleri ve süreleri hakkında
+bilgilendirilir.
+
+İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari
+gözetim kararına karşı sulh ceza hâkimine başvurabilir. Başvuru idari gözetimi
+durdurmaz. Dilekçenin idareye verilmesi hâlinde, dilekçe yetkili sulh ceza
+hâkimine derhâl ulaştırılır. Sulh ceza hâkimi incelemeyi beş gün içinde
+sonuçlandırır. Sulh ceza hâkiminin kararı kesindir. İdari gözetim altına alınan
+kişi veya yasal temsilcisi ya da avukatı, idari gözetim şartlarının ortadan
+kalktığı veya değiştiği iddiasıyla yeniden sulh ceza hâkimine başvurabilir.
+
+İdari gözetim işlemine karşı yargı yoluna başvuranlardan, avukatlık ücretlerini
+karşılama imkânı bulunmayanlara, talepleri hâlinde 19/3/1969 tarihli ve 1136
+sayılı Avukatlık Kanunu hükümlerine göre avukatlık hizmeti sağlanır.
+
+=== SUÇLULARIN İADESİ
+
+*Suçlunun iadesi*, işlediği suç belirli bir devletin yargı yetkisinde olan
+kişinin o yargı yetkisine sahip ülkeye gönderilmesidir. Kişinin ya hakkındaki
+cezai soruşturmanın yapılabilmesi ya da hakkında verilmiş hükmün infazı
+amacıyla yargı yetkisine sahip ülkeye gönderilmesidir.
+
+IMPORTANT: Kişinin iadesi hangi fiilden dolayı isteniyorsa iade edildikten
+sonraki yargılama ya da infaz da ancak o fiilden dolayı olabilir.
+
+İade talebinin yapılacağı makam Adalet Bakanlığıdır. Kişinin iadesine karar
+verecek olan makam ise kişinin bulunduğu yer Ağır Ceza Mahkemesidir. Kişinin
+nerede bulunduğu belirsiz ise Ankara Ağır Ceza Mahkemelerinin yetkili olduğu
+kabul edilmiştir.
+
+Ağır Ceza Mahkemesi iadeye karar verirse iadenin uygulanabilmesi için
+Başbakan'ın onayı gerekir. İçişleri Bakanlığının da görüşü alınacaktır.
+
+==== İADE KARARININ ALINAMAYACAĞI HALLER
+
+* Fiil, Türk kanunlarına göre suç teşkil etmiyorsa iadeye tabi değildir.
+* Düşünce suçu, siyasi suçlar ve sadece askeri anlamda gerçekleşebilecek suçlar
+iadeye tabi değildir.
++
+TIP: Bir kimse bir devletin Başbakanı, Bakanları veya Cumhurbaşkanı'na yönelik
+öldürme kastıyla bir fiil gerçekleştirmiş ise bu siyasi suç kabul edilmeyecek
+ve iadeye tabi olacaktır.
+* Suç Türkiye Cumhuriyeti'nin güvenliğine karşı işlenmiş ya da devleti veya bir
+Türk vatandaşını zarara uğratacak bir fiil ise iadeye tabi değildir.
+* Fiil, Türkiye'nin yargı yetkisine giren bir suç teşkil etmekte ise iadeye
+tabi olmayacaktır.
+* Suç zamanaşımına ya da affa uğramış ise iadeye tabi değildir.
+* Suç, daha önce Türkiye'de yargılanmış ve beraat ya da mahkumiyet kararı ile
+sonuçlanmışsa kişinin iadesi söz konusu olmaz.
+* Kişinin gönderileceği ülkede, ölüm cezası veya insanlık onuru ile bağdaşmayan
+bir ceza ile cezalandırılacağı anlaşılmaktaysa kural olarak iade edilmez. Ancak
+böyle bir cezanın infaz edilmeyeceğine dair bir teminat verilirse iade
+yapılabilir.
+* İadesi talep edilen kimse 18 yaşını doldurmamış ise veya uzun zamanıdr
+Türkiye'de ve ailevi durumu incelendiğinde bu kişinin iadesi çok ciddi bir
+mağduriyet yaratacaksa diğer şartların varlığına rağmen iade yapılmayabilir.
+* Yargılama yapılmakta olan bir kimse söz konusuyken yargılandığı suçun
+cezasının üst sınırı 1 yıldan az ise iade yapılmaz.
+* Hakkında kesinleşmiş bir mahkumiyet kararı olan kişinin iadesi isteniyorsa
+aldığı cezanın en az 4 ay olması gerekir.
+
+=== YABANCILARIN HAK VE ÖZGÜRLÜKLERİ
+
+==== YABANCILARIN BASIN ÖZGÜRLÜĞÜ
+
+Basın Kanunu'na göre yabancıların Türkiye'de süreli yayın çıkarması mümkündür.
+Türkiye'de çıkarılacak bir süreli yayının sahibi bir yabancı gerçek kişi ya da
+tüzel kişi olabilir. Bu konuda bir sınırlama veya izin şartı getirilmemiştir.
+Ancak bu süreli yayının sahibinin savcılığa bir beyanda bulunması gerekir.
+
+Süreli yayınlarda ayrıca bir de sorumlu müdür vardır. Sorumlu müdürler de
+yabancı olabilir, bir sınırlama yoktur. Ancak sorumlu müdürün yabancı
+olabilmesi için mütekabiliyet şartı aranmaktadır. Yani söz konusu süreli
+yayının sahibinin kendi menşei ülkesinde de sorumlu müdürün Türk vatandaşı
+olabilecek olması aranmaktadır.
+
+NOTE: Herhangi bir hak ve özgürlük bakımından mütekabiliyetin aranabilmesi için
+kanunda açık hüküm bulunması gerekir.
+
+Yabancı bir ülkede çıkarılan yayınların Türkiye'de basılması ya da yabancı
+ülkede basılmış yayınların Türkiye'de dağıtılması bakımından da bir sınırlama
+yoktur. Ancak burada da savcılığa beyanda bulunulması gerekir.
+
+==== YABANCILARIN DERNEK/VAKIF KURMA VE ÜYE OLMA ÖZGÜRLÜĞÜ
+
+Dernekler Kanunu'na göre yabancılar herhangi bir izin almaksızın dernek
+kurabilir veya Türkiye'de kurulmuş olan bir derneğen üye olabilirler.
+
+Dernekler tüzüğünde gösterilen amaçla sınırlı olmak üzere uluslararası
+faaliyette bulunabilir, yurtdışında temsilcilik ve şube açabilir ve
+yurtdışındaki derneklere katılabilir.
+
+Yabancı derneklerin Türkiye'de faaliyette bulunabilmesi için Dışişleri
+Bakanlığı'nın görüşü alınarak İçişleri Bakanlığı'ndan izin alınması gerekir.
+
+Türkiye'de kurulan bir derneğin yurtdışından yardım alabilmesi de mümkündür
+ancak bunun için bir bildirimde bulunulması ve maddi bir yardım söz konusu ise
+banka aracılığıyla yapılması gerekir.
+
+Vakıflar Kanunu'na göre yabancılar Türkiye'de vakıf kurabilir veya bir vakfa
+üye olabilir. Fakat burada derneklerden farklı olarak mütekabiliyet şartı
+aranmaktadır.
+
+==== YABANCILARIN EĞİTİM GÖRME HAKKI
+
+Anayasa'da eğitim öğretim hakkından herkesin faydalanacağı düzenlenmiştir.
+Dolayısıyla yabancılar Türkiye'de istedikleri okula gidebilirler.
+
+==== YABANCILARIN OKUL AÇMASI
+
+Yabancı gerçek veya tüzel kişiler, Türkiye'de bir şirket kurar veya bir Türk
+şirkete ortak olurlarsa sadece ve sadece yabancı öğrencilerin gidebilecekleri
+bir *milletlerarası özel öğretim kurumu* kurabilirler.
+
+==== YABANCILARIN TAŞINMAZ EDİNMESİ
+
+Kanuni sınırlamalara uyulmak kaydıyla, uluslararası ikili ilişkiler yönünden ve
+ülke menfaatlerinin gerektirdiği hallerde Bakanlar Kurulu tarafından belirlenen
+ülkelerin vatandaşı olan yabancı uyruklu gerçek kişiler Türkiye’de taşınmaz ve
+sınırlı ayni hak edinebilirler. Yabancı uyruklu gerçek kişilerin edindikleri
+taşınmazlar ile bağımsız ve sürekli nitelikteki sınırlı ayni hakların toplam
+alanı, özel mülkiyete konu ilçe yüz ölçümünün yüzde onunu ve kişi başına ülke
+genelinde otuz hektarı geçemez. Bakanlar Kurulu kişi başına ülke genelinde
+edinilebilecek miktarı iki katına kadar artırmaya yetkilidir.
+
+[NOTE]
+====
+*Kanuni sınırlamaya örnekler:*
+
+* Yabancılar köy sınırları içinde taşınmaz edinemez.
+* Mukabele-i bilmisil
+====
+
+Yabancı ülkelerde kendi ülkelerinin kanunlarına göre kurulan tüzel kişiliğe
+sahip ticaret şirketleri ancak özel kanun hükümleri çerçevesinde taşınmaz ve
+sınırlı ayni hak edinebilirler. Bu ticaret şirketleri dışındakiler taşınmaz
+edinemez ve lehlerine sınırlı ayni hak tesis edilemez. Bu ticaret şirketleri
+ile yabancı uyruklu gerçek kişiler lehine taşınmaz rehni tesisinde bu maddede
+yer alan sınırlamalar uygulanmaz.
+
+Bakanlar Kurulu, ülke menfaatlerinin gerektiği hallerde yabancı uyruklu gerçek
+kişiler ile yabancı ülkelerde kendi ülkelerinin kanunlarına göre kurulan tüzel
+kişiliğe sahip ticaret şirketlerinin taşınmaz ve sınırlı ayni hak edinimlerini;
+ülke, kişi, coğrafi bölge, süre, sayı, oran, tür, nitelik, yüzölçüm ve miktar
+olarak belirleyebilir, sınırlandırabilir, kısmen veya tamamen durdurabilir veya
+yasaklayabilir.
+
+Yukarıdaki sınırlamalar dışında miras yoluyla edinilen taşınmazlar ve sınırlı
+ayni haklar, Maliye Bakanlığınca verilecek bir yılı geçmeyen süre içinde maliki
+tarafından tasfiye edilmediği takdirde tasfiye edilerek bedele çevrilir ve
+bedeli hak sahibine ödenir.
+
+=== YABANCILARIN TÜRKİYE'DE ÇALIŞMASI
+
+Türkiye'de çalışmak isteyen yabancılar Çalışma ve Sosyal Güvenlik Bakanlığı'na
+başvurarak çalışma izni ya da çalışma izninden muafiyet belgesi almak
+zorundadır.
+
+Uluslararası İşgücü Kanunu; Türkiye’de çalışmak için başvuruda bulunan veya
+çalışan, bir işveren yanında mesleki eğitim görmek üzere başvuruda bulunan veya
+görmekte olan, staj yapmak üzere başvuruda bulunan veya staj yapan yabancılar
+ile Türkiye’de geçici nitelikte hizmet sunumu amacıyla bulunan sınırötesi
+hizmet sunucusu yabancıları ve yabancı çalıştıran veya çalıştırmak üzere
+başvuruda bulunan gerçek ve tüzel kişileri kapsar.
+
+TIP: *Sınırötesi hizmet sunucusu*, Türkiye’de geçici nitelikte olmak üzere ve
+herhangi bir hizmet sunumu amacıyla bulunan ve ücretini Türkiye’deki ya da
+Türkiye dışındaki bir kaynaktan alan yabancıyı ifade eder.
+
+Uluslararası İşgücü Kanunu'na göre verilen çalışma izni veya çalışma izni
+muafiyeti, 6458 sayılı Kanunun 27 nci maddesi uyarınca ikamet izni yerine
+geçer. Ancak, 6458 sayılı Kanunda tanımlanan mülteci ya da ikincil koruma
+statüsü dışında yabancının herhangi bir nedenle ikamet izni olması yabancıya
+çalışma hakkı vermez.
+
+Yurt dışından yapılan başvuruya istinaden çalışma izni verilen yabancı, çalışma
+izninin geçerliliğinin başladığı tarihten itibaren altı ay içinde Türkiye’ye
+gelmek zorundadır. Bu süre içinde Türkiye’ye gelmeyen yabancının çalışma izni
+iptal edilir.
+
+Türkiye’nin taraf olduğu ikili veya çok taraflı sözleşmelerle sağlanan haklar
+saklı kalmak kaydıyla ve karşılıklılık ilkesi çerçevesinde çalışma izinleri; iş
+piyasasındaki durum ve çalışma hayatındaki gelişmeler, istihdama ilişkin
+sektörel ve ekonomik konjonktür koşullarının gerekli kıldığı hâllerde, belirli
+bir süre için tarım, sanayi veya hizmet sektörleri, belirli bir meslek, işkolu
+veya mülki ve coğrafi alan itibarıyla sınırlandırılabilir.
+
+==== ÇALIŞMA İZNİ BAŞVURUSU
+
+NOTE: Çalışma izni başvurusu ile çalışma izninden muafiyet belgesi başvurusu
+aynı usule tabidir.
+
+Çalışma izni başvuruları yurt içinde doğrudan Bakanlığa, yurt dışında
+yabancının vatandaşı olduğu veya yasal olarak bulunduğu ülkedeki Türkiye
+Cumhuriyeti büyükelçilikleri veya başkonsolosluklarına yapılır. Yurt dışında
+yapılan çalışma izni başvuruları Türkiye Cumhuriyeti büyükelçilikleri veya
+başkonsolosluklarınca Bakanlığa iletilir.
+
+TIP: Başvuru yurt dışında yapılmış ve başvuru sonucunda çalışma izni alınmış
+ise çalışma izninin başladığı tarihten itibaren 6 ay içinde kişinin Türkiye'ye
+gelmesi gerekir. Aksi takdirde çalışma izni iptal edilecektir.
+
+Çalışma izni başvuruları yetkili aracı kurum tarafından da yapılabilir.
+
+Çalışma izni uzatma başvurusu, çalışma izni süresinin dolmasına altmış gün
+kalmasından itibaren ve her durumda çalışma izni süresi dolmadan yapılır. Bu
+süre dolduktan sonra yapılan uzatma başvuruları reddedilir.
+
+Çalışma izni başvurusu uluslararası işgücü politikasına göre değerlendirilir.
+
+Bakanlıkça gerek görülen hâllerde, ilgili kamu kurum ve kuruluşları ile kamu
+kurumu niteliğindeki meslek kuruluşlarının görüşleri dikkate alınır.
+
+Bakanlık, Uluslararası İşgücü Politikası Danışma Kurulu kararları doğrultusunda
+çalışma izni başvurusunun değerlendirilmesinde ve çalışma izni puanlama
+sisteminin oluşturulmasında kullanılacak kriterleri belirler.
+
+Başvuruda eksik bilgi veya belgelerin olması hâlinde, bu eksiklikler
+tamamlanıncaya kadar başvurunun değerlendirilmesi ertelenir. Erteleme süresi,
+bilgi veya belge eksikliklerinin tamamlanmasını geciktiren mücbir bir sebebin
+varlığının resmî bir makamdan belgelendirildiği hâller dışında otuz günü
+aşamaz. Erteleme süresi sonunda eksiklikleri tamamlanmayan başvurular
+reddedilir.
+
+Usulüne uygun olarak yapılan başvuruların değerlendirilmesi, bilgi ve
+belgelerin tam olması kaydıyla otuz gün içinde tamamlanır.
+
+==== ÖN İZİN
+
+Mesleki yeterlilik gerektiren sağlık ve eğitim hizmetlerinde çalışacak
+yabancıların çalışma izni başvurularının değerlendirilmesinde ön izin alınması
+zorunludur.
+
+Sağlık hizmetlerinde Sağlık Bakanlığı, eğitim hizmetlerinde Millî Eğitim
+Bakanlığı bu hizmetlerde mesleki faaliyette bulunacak yabancılara ön izin
+vermeye yetkili olup ön izin alınması gereken meslekler anılan bakanlıkların
+görüşü alınarak Bakanlıkça belirlenir.
+
+Ön izin alan yabancıların çalışma izni başvurularının değerlendirilmesinde,
+Uluslararası İşgücü Kanunu'nun 9 uncu maddesinin birinci fıkrasının (d) bendi
+hükmü uygulanmaz.
+
+4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 34 üncü maddesi
+uyarınca çalışacak yabancı uyruklu öğretim elemanlarına çalışma izni,
+Yükseköğretim Kurulunun ilgili mevzuata göre vereceği ön izne istinaden
+Bakanlıkça verilir. Ön izne istinaden çalışacak yabancı öğretim elemanlarının
+çalışma izni başvurularının değerlendirilmesinde, Uluslararası İşgücü
+Kanunu'nun 7 nci maddesinin dördüncü, beşinci ve altıncı fıkraları ile (f), (g)
+ve (ğ) bentleri saklı kalmak üzere 9 uncu maddesinin birinci fıkrası
+uygulanmaz.
+
+Çalışma izni uzatma başvuruları da ilgili bakanlığın veya Yükseköğretim
+Kurulunun ön iznine tabidir.
+
+28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım
+Faaliyetlerinin Desteklenmesi Hakkında Kanun ve ilgili mevzuat kapsamında Ar-Ge
+Merkezi Belgesi olan firmalarda Ar-Ge personeli olarak çalışacak yabancıların
+çalışma izni başvuruları Bilim, Sanayi ve Teknoloji Bakanlığının olumlu görüşü
+olması hâlinde değerlendirilir.
+
+==== ÇALIŞMA İZNİ BAŞVURUSUNUN REDDİ
+
+Uluslararası İşgücü Kanunu'nun 7 nci maddesine göre yapılan değerlendirme
+neticesinde;
+
+.. Uluslararası işgücü politikasına uygun olmayan,
+.. Sahte veya yanıltıcı bilgi ve belgelerle yapılan,
+.. Yabancı istihdam edilmesine ilişkin gerekçesi yeterli görülmeyen,
+.. Diğer kanunlarda Türk vatandaşlarına hasredilen iş ve meslekler için
+yapılan,
+.. Gerekli nitelik ve uzmanlığı taşımadığı anlaşılan yabancılara ilişkin olan,
+.. Bakanlıkça belirlenen değerlendirme kriterlerini karşılamayan,
+.. 6458 sayılı Kanunun 7 nci, 15 inci ve 54 üncü maddeleri kapsamında olduğu
+İçişleri Bakanlığınca bildirilen yabancılara ilişkin olan,
+.. Kamu düzeni, kamu güvenliği veya kamu sağlığı açısından Türkiye’de
+çalışmasında sakınca görülen yabancılara ilişkin olan,
+.. Dışişleri Bakanlığının uygun görüşü olması durumu hariç, Türkiye
+Cumhuriyetinin tanımadığı veya diplomatik ilişkisinin bulunmadığı ülke
+vatandaşları için yapılan,
+.. Kanuni süresi içinde yapılmayan veya eksiklikleri tamamlanmayan,
+
+başvurular reddedilir.
+
+==== ÇALIŞMA İZNİ TÜRLERİ
+
+===== SÜRELİ ÇALIŞMA İZNİ
+
+Başvurunun olumlu değerlendirilmesi hâlinde yabancıya, iş veya hizmet
+sözleşmesinin süresini aşmamak koşuluyla, gerçek veya tüzel kişiye ya da kamu
+kurum veya kuruluşuna ait belirli bir işyerinde veya bunların aynı işkolundaki
+işyerlerinde belirli bir işte çalışmak şartıyla ilk başvuruda en çok bir yıl
+geçerli çalışma izni verilir.
+
+Bu çalışma izni için kişinin belirli bir işvereni ve işverenin de belirli bir
+işyeri veya belirli bir işkolu olması gerekir. Kişi yeni bir işverenle
+çalışmaya başlarsa tekrar çalışma izni almalıdır.
+
+Uluslararası İşgücü Kanunu'nun 7 nci maddesine göre yapılacak uzatma
+başvurusunun olumlu değerlendirilmesi hâlinde yabancıya aynı işverene bağlı
+olarak ilk uzatma başvurusunda en çok iki yıl, sonraki uzatma başvurularında
+ise en çok üç yıla kadar çalışma izni verilir. Ancak, farklı bir işveren
+yanında çalışmak üzere yapılan başvurular bu maddenin birinci fıkrası
+kapsamında değerlendirilir.
+
+===== SÜRESİZ ÇALIŞMA İZNİ
+
+Türkiye’de uzun dönem ikamet izni veya en az sekiz yıl kanuni çalışma izni olan
+yabancılar süresiz çalışma iznine başvurabilir. Ancak, yabancının başvuru
+şartlarını taşıması yabancıya mutlak hak sağlamaz.
+
+CAUTION: Kanuni çalışma ile kastedilen çalışma izni ile çalışma süresidir.
+Çalışma izninden muafiyet belgesi ile çalışılan süre kanuni çalışma süresi
+olarak sayılmayacaktır.
+
+Süresiz çalışma izni olan yabancı, uzun dönem ikamet izninin sağladığı tüm
+haklardan yararlanır. Süresiz çalışma izni olan yabancı, özel kanunlardaki
+düzenlemeler hariç, sosyal güvenliğe ilişkin kazanılmış hakları saklı kalmak ve
+bu hakların kullanımında ilgili mevzuat hükümlerine tabi olmak şartıyla, Türk
+vatandaşlarına tanınan haklardan yararlanır. Süresiz çalışma izni olan
+yabancının seçme, seçilme ve kamu görevlerine girme hakkı ile askerlik hizmeti
+yapma yükümlülüğü yoktur.
+
+===== BAĞIMSIZ ÇALIŞMA İZNİ
+
+Profesyonel meslek mensubu yabancılara, diğer kanunlarda belirtilen özel
+şartların sağlanması kaydıyla bağımsız çalışma izni verilebilir.
+
+6102 sayılı Türk Ticaret Kanununa göre kurulmuş olan;
+
+.. Limited şirketlerin şirket ortağı olan müdürü,
+.. Anonim şirketlerin şirket ortağı olan yönetim kurulu üyesi,
+.. Sermayesi paylara bölünmüş komandit şirketlerin yönetici olan komandite
+ortağı,
+
+olan yabancılar çalışma izni alarak çalışabilirler.
+
+Bağımsız çalışma izninin uluslararası işgücü politikası doğrultusunda
+değerlendirilmesinde, yabancının; eğitim düzeyi, mesleki deneyimi, bilim ve
+teknolojiye katkısı, Türkiye’deki faaliyetinin veya yatırımının ülke
+ekonomisine ve istihdama etkisi, yabancı şirket ortağı ise sermaye payı ile
+Uluslararası İşgücü Politikası Danışma Kurulu önerileri doğrultusunda
+Bakanlıkça belirlenecek diğer hususlar dikkate alınır.
+
+Bağımsız çalışma izni, bu maddede yer alan süre sınırlamalarına tabi olmaksızın
+süreli olarak düzenlenir.
+
+===== TURKUAZ KART
+
+Uluslararası işgücü politikası doğrultusunda; eğitim düzeyi, mesleki deneyimi,
+bilim ve teknolojiye katkısı, Türkiye’deki faaliyetinin veya yatırımının ülke
+ekonomisine ve istihdama etkisi ile Uluslararası İşgücü Politikası Danışma
+Kurulu önerileri ve Bakanlıkça belirlenen usul ve esaslara göre başvurusu uygun
+görülen yabancılara Turkuaz Kart verilir.
+
+Turkuaz Kart, ilk üç yılı geçiş süresi olmak kaydıyla verilir. Bakanlık, geçiş
+süresi içinde işveren veya yabancıdan yürütülen faaliyetlere ilişkin bilgi ve
+belge talep edebilir. Geçiş süresi içinde 15 inci madde uyarınca iptal
+edilmeyen Turkuaz Kartta yer alan geçiş süresi kaydı, yabancının başvurusu
+hâlinde kaldırılır ve süresiz Turkuaz Kart verilir. Bu başvuru, geçiş süresinin
+dolmasına yüz seksen gün kalmasından itibaren, her durumda geçiş süresi
+dolmadan yapılır. Bu süre dolduktan sonra geçiş süresi kaydının kaldırılmasına
+ilişkin yapılan başvuru reddedilir ve Turkuaz Kart geçersiz hale gelir.
+
+Turkuaz Kart sahibi yabancının, mevzuat hükümlerine göre eş ve bakmakla yükümlü
+olduğu çocuklarına Turkuaz Kart sahibi yakını olduğunu gösteren ve ikamet izni
+yerine geçen belge verilir.
+
+Turkuaz Kart sahibi yabancı Uluslararası İşgücü Kanunu'nda düzenlenen süresiz
+çalışma izninin sağladığı haklardan yararlanır.
+
+Turkuaz Kart uygulamasında; akademik alanda uluslararası kabul görmüş
+çalışmaları bulunanlar ile bilim, sanayi ve teknolojide ülkemiz bakımından
+stratejik kabul edilen bir alanda öne çıkmış olanlar ya da ihracat, istihdam
+veya yatırım kapasitesi olarak ulusal ekonomiye önemli katkı sağlayan ya da
+sağlaması öngörülenler nitelikli yabancı olarak değerlendirilir.
+
+Geçici koruma sağlanan yabancılara Turkuaz Kart verilmez.
+
+===== İSTİSNAİ ÇALIŞMA İZNİ
+
+Bakanlıkça belirlenen uluslararası işgücü politikasına uygun olarak;
+
+.. Eğitim düzeyi, ücreti, mesleki deneyimi, bilim ve teknolojiye katkısı ve
+benzeri özellikleri itibarıyla nitelikli işgücü olarak değerlendirilen,
+.. Bilim ve teknolojiye katkısı, yatırım veya ihracat düzeyi, sağlayacağı
+istihdamın büyüklüğü ve benzeri özellikleri itibarıyla nitelikli yatırımcı
+olarak değerlendirilen,
+.. Belirli bir süre için işvereni tarafından Türkiye’de gerçekleştirilen bir
+projede istihdam edilen,
+.. İçişleri Bakanlığı veya Dışişleri Bakanlığı tarafından Türk soylu olduğu
+bildirilen,
+.. Kuzey Kıbrıs Türk Cumhuriyeti vatandaşı,
+.. Avrupa Birliği üyesi ülke vatandaşı,
+.. 6458 sayılı Kanun uyarınca uluslararası koruma başvurusu sahibi, şartlı
+mülteci, geçici koruma sağlanan veya vatansız ya da mağdur destek sürecinden
+yararlanan insan ticareti mağduru,
+.. Bir Türk vatandaşı ile evli ve eşiyle Türkiye’de evlilik birliği içinde
+yaşayan,
+.. Yabancı devletlerin ve uluslararası kuruluşların Türkiye’deki
+temsilciliklerinde diplomatik dokunulmazlığı olmadan çalışan,
+.. Alanındaki başarısı ile uluslararası düzeyde temayüz etmiş olarak bilimsel,
+kültürel, sanatsal veya sportif amaçla Türkiye’ye gelen,
+.. Sınırötesi hizmet sunucusu,
+
+yabancılara Uluslararası İşgücü Kanunu'nun 7 nci, 9 uncu ve 10 uncu
+maddelerinin uygulanmasına ilişkin istisnalar tanınabilir.
+
+==== ÇALIŞMA İZNİNİN SÜRESİ VE UZATILMASI
+
+Çalışma izni ve çalışma izni muafiyeti, yabancının pasaport veya pasaport
+yerine geçen belgelerinin geçerlilik süresinden altmış gün daha kısa süreli ve
+her yabancı için ayrı verilir.
+
+Çalışma izni uzatma başvurusu, çalışma izni süresinin dolmasına altmış gün
+kalmasından itibaren ve her durumda çalışma izni süresi dolmadan yapılır. Bu
+süre dolduktan sonra yapılan uzatma başvuruları reddedilir.
+
+==== ÇALIŞMA İZNİ MUAFİYETİ
+
+Çalışma izni muafiyeti başvurusu, çalışma izni ile aynı usule tabidir.
+
+Türk Ticaret Kanunu'na göre kurulmuş anonim şirketlerin Türkiye’de ikamet
+etmeyen yönetim kurulu üyesi ve diğer şirketlerin yönetici sıfatı olmayan
+ortağı ile Türkiye’de gerçekleştirdiği faaliyetleri yüz seksen gün içinde
+doksan günü geçmeyen sınırötesi hizmet sunucusu, çalışma izni muafiyeti
+kapsamında değerlendirilir.
+
+IMPORTANT: Çalışma izni muafiyetiyle geçirilen süreler, kanuni çalışma izni
+veya ikamet izni sürelerinin hesabında dikkate alınmaz.
+
+==== YABANCI ÖĞRENCİLER
+
+Türkiye’de bir yükseköğretim kurumunda örgün öğretim programlarına kayıtlı
+yabancı öğrenciler, çalışma izni almak kaydıyla çalışabilirler.
+
+Yabancı öğrencilerden ön lisans ve lisans düzeyinde öğrenim görmekte olanlar,
+öğrenimlerinin ilk yılının tamamlanmasından sonra çalışma iznine başvurabilir
+ve 22/5/2003 tarihli ve 4857 sayılı İş Kanunu uyarınca kısmi süreli
+çalışabilirler. Örgün öğretim programlarına kayıtlı lisansüstü öğrenciler için
+bu sınırlamalar uygulanmaz.
+
+Yabancı öğrencilere verilen çalışma izinleri, geçerli öğrenci ikamet iznini ve
+bu ikamet izninin sağladığı hakları sona erdirmez.
+
+Türkiye’de yükseköğrenimini tamamlayan yabancının mezuniyet tarihinden itibaren
+bir yıl içinde çalışma izni başvurusu yapması hâlinde, başvuru Uluslararası
+İşgücü Politikası Danışma Kurulunca belirlenen esaslar doğrultusunda
+değerlendirilir.
+
+==== ULUSLARARASI KORUMA KAPSAMINDAKİ YABANCILAR
+
+6458 sayılı Kanun uyarınca uluslararası koruma talebinde bulunan ve henüz
+başvurusu hakkında son karar verilmemiş veya şartlı mülteci yabancılar;
+uluslararası koruma başvurusu tarihinden, geçici koruma sağlanan yabancılar ise
+geçici koruma kimlik belgesinin düzenlendiği tarihten altı ay sonra çalışma
+izni veya çalışma izni muafiyeti almak için başvurabilirler.
+
+Çalışma izni veya çalışma izni muafiyetine başvuru hakkı tanınan yabancılara
+çalışma izni veya çalışma izni muafiyeti verilmesinde İçişleri Bakanlığının
+olumlu görüşü aranır.
+
+Geçerli çalışma izni veya çalışma izni muafiyetine sahip olunması bu
+yabancılara Türkiye’de mutlak kalış hakkı sağlamaz.
+
+Başvuru sahibi veya şartlı mülteci, uluslararası koruma başvurusu tarihinden
+altı ay sonra çalışma izni almak için başvurabilir.
+
+Mülteci veya ikincil koruma statüsü sahibi kişiye verilecek kimlik belgesi,
+çalışma izni yerine de geçer ve bu durum kimlik belgesine yazılır.
+
+Mülteci veya ikincil koruma statüsü sahibi, statü almasından itibaren bağımlı
+veya bağımsız olarak çalışabilir. Yabancıların çalışamayacağı iş ve mesleklere
+ilişkin diğer mevzuatta yer alan hükümler saklıdır.
+
+Mülteci ve ikincil koruma statüsü sahibinin iş piyasasına erişimi, iş
+piyasasındaki durum ve çalışma hayatındaki gelişmeler ile istihdama ilişkin
+sektörel ve ekonomik şartların gerekli kıldığı hâllerde, belirli bir süre için,
+tarım, sanayi veya hizmet sektörleri, belirli bir meslek, iş kolu veya mülki ve
+coğrafi alan itibarıyla sınırlandırılabilir. Ancak, Türkiye’de üç yıl ikamet
+eden veya Türk vatandaşıyla evli olan ya da Türk vatandaşı çocuğu olan mülteci
+ve ikincil koruma statüsü sahipleri için bu sınırlamalar uygulanmaz.
+
+6458 sayılı Kanunun;
+
+.. 77 nci maddesi uyarınca uluslararası koruma başvurusunun geri çekilmesi veya
+geri çekilmiş sayılması, 85 inci maddesi uyarınca uluslararası koruma
+statüsünün sona ermesi veya 86 ncı maddesi uyarınca uluslararası koruma
+statüsünün iptali hâlinde İçişleri Bakanlığının bildirimi üzerine,
+.. 91 inci maddesi uyarınca sağlanan geçici korumanın Bakanlar Kurulu kararıyla
+sonlandırılması veya bireysel olarak sona ermesi ya da iptali hâlinde Bakanlar
+Kurulu kararı veya İçişleri Bakanlığının bildirimi üzerine,
+
+verilmiş olan çalışma izni veya çalışma izni muafiyetleri Bakanlıkça iptal
+edilir.
+
+==== GEÇİCİ KORUMA SAĞLANAN KİŞİLER
+
+Geçici koruma statüsü sahiplerinin kimlik belgesi ne ikamet ne de çalışma izni
+yerine geçer. Dolayısıyla bu kişiler Türkiye'de çalışabilmek için çalışma izni
+almalıdır.
+
+Geçici koruma kimlik belgelerinin düzenlenmesinden itibaren 6 ay sonra çalışma
+iznine başvurabilirler.
+
+Kanun koyucu geçici koruma statüsü sahiplerini istisnai çalışma izni
+verilebilecek yabancılar arasında da saymıştır.
+
+==== TÜRK SOYLU YABANCILAR
+
+Türk soylu yabancılar İçişleri Bakanlığı'nın kararı ile belirlenir ve
+kendilerine yabancılara özel kimlik belgesi verilerek özel bir kütüğe
+kaydedilirler.
+
+TIP: KKTC ile yapılan ikili anlaşma sonucu KKTC vatandaşları da çalışma izni
+bakımından Türk soylu yabancılarla aynı statüde kabul edilmiştir.
+
+Türk soylu yabancılar ve KKTC vatandaşlarının Türkiye'de çalışmaları için
+çalışma izni almaları şarttır. Ancak *yabancılara yasaklanmış meslekler bu
+kişilere yasak değildir.* Bu kişiler sadece silahlı kuvvetler ve kolluk mensubu
+olamaz.
+
+==== YABANCI MÜHENDİS VE MİMARLAR
+
+Öğrenimlerini Türkiye’de bir yükseköğretim kurumunun mühendislik ve mimarlık
+fakültelerinde veya yurt dışında ilgili ülke makamları ve Yükseköğretim Kurulu
+tarafından tanınmış bir yükseköğretim kurumunda tamamlayarak mühendis ve mimar
+unvanlarını almış olan yabancılar bu Kanuna göre proje bazlı ve geçici süre ile
+çalışma izni alarak mühendislik ve mimarlık mesleklerini icra edebilirler.
+
+=== YABANCI YATIRIMLAR
+
+*Doğrudan yabancı yatırım*, yabancı yatırımcı tarafından,
+
+. Yurt dışından getirilen;
+
+.. Türkiye Cumhuriyet Merkez Bankasınca alım satımı yapılan konvertibl para
+şeklinde nakit sermaye,
+.. Şirket menkul kıymetleri (Devlet tahvilleri hariç),
+.. Makine ve teçhizat,
+.. Sınaî ve fikrî mülkiyet hakları,
+
+. Yurt içinden sağlanan;
+
+.. Yeniden yatırımda kullanılan kâr, hâsılat, para alacağı veya malî değeri
+olan yatırımla ilgili diğer haklar,
+.. Doğal kaynakların aranması ve çıkarılmasına ilişkin haklar,
+
+gibi iktisadî kıymetler aracılığıyla;
+
+. Yeni şirket kurmayı veya şube açmayı,
+. Menkul kıymet borsaları dışında hisse edinimi veya menkul kıymet
+borsalarından en az % 10 hisse oranı ya da aynı oranda oy hakkı sağlayan
+edinimler yoluyla mevcut bir şirkete ortak olmayı,
+
+ifade eder.
+
+IMPORTANT: Türkiye'de bir ortaklık da kurulsa, Türkiye'de kurulu bir ortaklığın
+hissesi alınarak ortak da olunsa söz konusu ortaklık Türkiye kanunlarına göre
+kurulmuş olmalıdır.
+
+Uluslararası anlaşmalar ve özel kanun hükümleri tarafından aksi öngörülmedikçe;
+
+* Yabancı yatırımcılar tarafından Türkiye'de doğrudan yabancı yatırım yapılması
+serbesttir.
+* Yabancı yatırımcılar yerli yatırımcılarla eşit muameleye tabidirler.
+
+Doğrudan yabancı yatırımlar, yürürlükteki mevzuat gereğince; kamu yararı
+gerektirmedikçe ve karşılıkları ödenmedikçe kamulaştırılamaz veya
+devletleştirilemez.
+
+Yabancı yatırımcıların Türkiye'deki faaliyet ve işlemlerinden doğan net kâr,
+temettü, satış, tasfiye ve tazminat bedelleri, lisans, yönetim ve benzeri
+anlaşmalar karşılığında ödenecek meblağlar ile dış kredi ana para ve faiz
+ödemeleri, bankalar veya özel finans kurumları aracılığıyla yurt dışına
+serbestçe transfer edilebilir.
+
+Özel hukuka tabi olan yatırım sözleşmelerinden kaynaklanan uyuşmazlıkların
+çözümü ile yabancı yatırımcıların idare ile yaptıkları kamu hizmeti imtiyaz
+şartlaşma ve sözleşmelerinden kaynaklanan yatırım uyuşmazlıklarının
+çözümlenmesi için; görevli ve yetkili mahkemelerin yanı sıra, ilgili mevzuatta
+yer alan koşulların oluşması ve tarafların anlaşması kaydıyla, milli veya
+milletlerarası tahkim ya da diğer uyuşmazlık çözüm yollarına başvurulabilinir.
+
+==== TAŞINMAZ EDİNME
+
+Türk Vatandaşlığı Kanununun 28 inci maddesi kapsamındaki kişiler hariç olmak
+üzere yabancı uyruklu gerçek kişilerin, yabancı ülkelerin kanunlarına göre
+kurulmuş tüzel kişilerin ve uluslararası kuruluşların yüzde elli veya daha
+fazla oranda hissesine sahip oldukları veya yönetim hakkını haiz kişilerin
+çoğunluğunu atayabilme veya görevden alabilme yetkisine sahip oldukları
+Türkiye’de kurulu tüzel kişiliğe sahip şirketler, ana sözleşmelerinde
+belirtilen faaliyet konularını yürütmek üzere taşınmaz mülkiyeti veya sınırlı
+ayni hak edinebilir ve kullanabilirler.
+
+NOTE: Mavi kart sahiplerinin sahip oldukları hisse miktarı yabancı hisse
+oranının hesaplanmasında dikkate alınmaz.
+
+Yukarıda belirtilen şirketlerin Türkiye’de kurulu başka bir şirkete doğrudan
+veya dolaylı olarak ortak olması durumunda, yabancı yatırımcının ortak olunan
+şirketteki nihai ortaklık oranının yüzde elli veya daha fazla olması halinde;
+yabancı yatırımcıların, taşınmaz maliki yerli sermayeli şirketlerin
+hisselerinin yüzde elli veya daha fazlasını doğrudan veya dolaylı olarak
+edinmesi ve taşınmaz maliki mevcut yabancı sermayeli şirketlerde yabancı
+yatırımcıların ortaklık oranının hisse devri sonucunda yüzde elli veya daha
+fazlasına ulaşması durumunda da aynı esaslar geçerlidir.
+
+Yukarıdaki hükümler kapsamı dışında kalan yabancı sermayeli şirketler, yerli
+sermayeli şirketlerin tabi olduğu hükümler çerçevesinde taşınmaz mülkiyeti ve
+sınırlı ayni hak edinebilir ve kullanabilirler.
+
+== VATANDAŞLIK HUKUKU
+
+Vatandaşlık kişiye sıkı sıkıya bağlı bir haktır. Vatandaşlık vatandaşa ve
+devlete bir takım haklar verir. Vatandaşın devlete en önemli borcu devletin
+kanun ve nizamlarına uymaktır.
+
+=== VATANDAŞLIĞIN KAZANILMASI
+
+==== VATANDAŞLIĞIN DOĞUM İLE KAZANILMASI
+
+Doğumla kazanılan Türk vatandaşlığı, soy bağı veya doğum yeri esasına göre
+kendiliğinden kazanılır. Doğumla kazanılan vatandaşlık doğum anından itibaren
+hüküm ifade eder.
+
+Türkiye içinde veya dışında Türk vatandaşı ana veya babadan evlilik birliği
+içinde doğan çocuk Türk vatandaşıdır.
+
+Türk vatandaşı ana ve yabancı babadan evlilik birliği dışında doğan çocuk Türk
+vatandaşıdır.
+
+Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk ise
+soy bağı kurulmasını sağlayan usul ve esasların yerine getirilmesi halinde Türk
+vatandaşlığını kazanır.
+
+Soybağının kuruluşu, çocuğun doğum anındaki milli hukukuna, kurulamaması
+halinde çocuğun mutad meskeni hukukuna tabidir. Soybağı bu hukuklara göre
+kurulamıyorsa, ananın veya babanın, çocuğun doğumu anındaki milli hukuklarına,
+bunlara göre kurulamaması halinde ana ve babanın, çocuğun doğumu anındaki mutad
+mesken hukukuna, buna göre de kurulamıyorsa çocuğun doğum yeri hukukuna tabi
+olarak kurulur. Soybağı hangi hukuka göre kurulmışsa iptali de o hukuka
+tabidir.
+
+Türkiye'de doğan ve yabancı ana ve babasından dolayı herhangi bir ülkenin
+vatandaşlığını kazanamayan çocuk, doğumdan itibaren Türk vatandaşıdır.
+
+Türkiye'de bulunmuş çocuk aksi sabit olmadıkça Türkiye'de doğmuş sayılır.
+
+==== VATANDAŞLIĞIN SONRADAN KAZANILMASI
+
+Sonradan kazanılan Türk vatandaşlığı, *evlilik*, *yetkili makam kararı* veya
+*evlat edinme* ya da *seçme hakkının kullanılması* ile gerçekleşir.
+
+===== EVLİLİK
+
+Bir Türk vatandaşı ile evlenme doğrudan Türk vatandaşlığını kazandırmaz. Ancak
+bir Türk vatandaşı ile en az üç yıldan beri evli olan ve evliliği devam eden
+yabancılar Türk vatandaşlığını kazanmak üzere başvuruda bulunabilir. Başvuru
+sahiplerinde;
+
+.. Aile birliği içinde yaşama,
+.. Evlilik birliği ile bağdaşmayacak bir faaliyette bulunmama,
+.. Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali
+bulunmama,
+
+şartları aranır.
+
+Başvurudan sonra Türk vatandaşı eşin ölümü nedeniyle evliliğin sona ermesi
+halinde (a) bendindeki şart aranmaz.
+
+Evlenme ile Türk vatandaşlığını kazanan yabancılar evlenmenin butlanına karar
+verilmesi halinde evlenmede iyiniyetli iseler Türk vatandaşlığını muhafaza
+ederler.
+
+===== YETKİLİ MAKAM KARARI
+
+Başvurulacak makam Türkiye'de İçişleri Bakanlığı ile valilik ve kaymakamlıklar,
+yurtdışında ise diplomatik temsilciliklerdir. Kararı verecek olan makam ise
+İçişleri Bakanlığı'dır.
+
+Türk vatandaşlığını kazanmak isteyen yabancılarda;
+
+.. Kendi millî kanununa, vatansız ise Türk kanunlarına göre ergin ve ayırt etme
+gücüne sahip olmak,
+.. Başvuru tarihinden geriye doğru Türkiye'de kesintisiz beş yıl ikamet etmek,
++
+NOTE: 5 yıl içerisinde en fazla 12 ay yurtdışında bulunulabilir.
+.. Türkiye'de yerleşmeye karar verdiğini davranışları ile teyit etmek,
+.. Genel sağlık bakımından tehlike teşkil eden bir hastalığı bulunmamak,
+.. İyi ahlak sahibi olmak,
+.. Yeteri kadar Türkçe konuşabilmek,
+.. Türkiye'de kendisinin ve bakmakla yükümlü olduğu kimselerin geçimini
+sağlayacak gelire veya mesleğe sahip olmak,
+.. Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali
+bulunmamak,
+
+şartları aranır.
+
+WARNING: Aranan şartların var olması vatandaşlığın kazanılması için mutlak bir
+hak sağlamaz.
+
+Türk vatandaşlığının kazanılmasına ilişkin kararlar, karar tarihinden itibaren
+hüküm ifade eder.
+
+Yetkili makam kararı ile Türk vatandaşlığının kazanılması eşin vatandaşlığına
+tesir etmez. Ana veya babanın velayeti kendisinde bulunan çocukları, diğer eşin
+muvafakat etmesi halinde Türk vatandaşlığını kazanır. Muvafakat verilmemesi
+halinde ana veya babanın mutad meskeninin bulunduğu ülkedeki hakim kararına
+göre işlem yapılır. Türk vatandaşlığını birlikte kazanan ana ve babanın
+çocukları da Türk vatandaşlığını kazanır.
+
+Ana veya babanın Türk vatandaşlığını kazandığı tarihte kendileri ile birlikte
+işlem görmeyen çocukları, ergin olduktan sonra Türk vatandaşlığını kazanmak
+üzere başvurdukları takdirde haklarında Vatandaşlık Kanunu 11 inci madde
+hükümleri uygulanır.
+
+===== EVLAT EDİNME
+
+Bir Türk vatandaşı tarafından evlat edinilen ergin olmayan kişi, millî güvenlik
+ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmamak şartıyla,
+karar tarihinden itibaren Türk vatandaşlığını kazanabilir.
+
+===== SEÇME HAKKI
+
+Vatandaşlık Kanunu 27 nci madde uyarınca ana veya babalarına bağlı olarak Türk
+vatandaşlığını kaybeden çocuklar ergin olmalarından itibaren üç yıl içinde
+seçme hakkını kullanmak suretiyle Türk vatandaşlığını kazanabilirler.
+
+Seçme hakkı ile Türk vatandaşlığının kazanılması, bu hakkın kullanılmasına dair
+şartların tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.
+
+Seçme hakkını kullanarak Türk vatandaşlığını kazanan kişilerin eşleri ve
+çocukları hakkında VK 20 nci madde hükümleri uygulanır.
+
+===== İSTİSNAİ HALLER
+
+Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali
+bulunmamak şartıyla Bakanlığın teklifi, Bakanlar Kurulunun kararı ile aşağıda
+belirtilen yabancılar Türk vatandaşlığını kazanabilirler.
+
+.. Türkiye'ye sanayi tesisleri getiren veya bilimsel, teknolojik, ekonomik,
+sosyal, sportif, kültürel, sanatsal alanlarda olağanüstü hizmeti geçen ya da
+geçeceği düşünülen ve ilgili bakanlıklarca haklarında gerekçeli teklifte
+bulunulan kişiler.
+.. 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununun
+31 inci maddesinin birinci fıkrasının (j) bendi uyarınca ikamet izni alanlar
+ile Turkuaz Kart sahibi yabancılar ve bunların yabancı eşi, kendisinin ve
+eşinin ergin olmayan veya bağımlı yabancı çocuğu.
+.. Vatandaşlığa alınması zaruri görülen kişiler.
+.. Göçmen olarak kabul edilen kişiler.
+
+==== VATANDAŞLIĞIN YENİDEN KAZANILMASI
+
+Türk vatandaşlığından kendi isteğiyle çıkmış veya iradesi dışında çıkarılmış
+kişi için Türk vatandaşlığı yeniden kazanılabilir.
+
+===== İKAMET ŞARTI ARANMAKSIZIN YENİDEN KAZANMA
+
+Millî güvenlik bakımından engel teşkil edecek bir hali bulunmamak şartıyla
+aşağıda belirtilen kişiler Türkiye'de ikamet etme süresine bakılmaksızın, Türk
+vatandaşlığını Bakanlık kararıyla yeniden kazanabilirler.
+
+.. Çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler.
+.. Ana veya babalarına bağlı olarak Türk vatandaşlığını kaybedenlerden
+Vatandaşlık Kanunu 21 inci maddede öngörülen süre içerisinde seçme hakkını
+kullanmayanlar.
+
+NOTE: Ana ve babalarına bağlı olarak Türk vatandaşlığını kaybeden kişi 3 yıl
+içerisinde VK 21'deki seçme hakkını kullanırsa vatandaşlığı kazanır. İdarenin
+takdir hakkı yoktur.
+
+===== İKAMET ŞARTINA BAĞLI OLARAK YENİDEN KAZANMA
+
+Vatandaşlık Kanunu 29 uncu madde uyarınca Türk vatandaşlığı kaybettirilenler
+Bakanlar Kurulu kararıyla, Vatandaşlık Kanunu 34 üncü madde uyarınca Türk
+vatandaşlığını kaybedenler Bakanlık kararıyla, millî güvenlik bakımından engel
+teşkil edecek bir halinin bulunmaması ve Türkiye'de üç yıl ikamet etmek
+şartıyla Türk vatandaşlığını yeniden kazanabilirler.
+
+=== VATANDAŞLIĞIN KAYBI
+
+Türk vatandaşlığı, yetkili makam kararı veya seçme hakkının kullanılması ile
+kaybedilir.
+
+==== YETKİLİ MAKAM KARARI
+
+Yetkili makam kararı ile Türk vatandaşlığının kaybı, çıkma veya kaybettirme ya
+da vatandaşlığa alınmanın iptali ile gerçekleşir.
+
+===== TÜRK VATANDAŞLIĞINDAN ÇIKMA
+
+Türk vatandaşlığından çıkmak için izin isteyen kişilere aşağıdaki şartları
+taşımaları halinde Bakanlıkça çıkma izni veya çıkma belgesi verilebilir.
+
+.. Ergin ve ayırt etme gücüne sahip olmak.
+.. Yabancı bir devlet vatandaşlığını kazanmış olmak veya kazanacağına ilişkin
+inandırıcı belirtiler bulunmak.
+.. Herhangi bir suç veya askerlik hizmeti nedeniyle aranan kişilerden olmamak.
+.. Hakkında herhangi bir mali ve cezai tahdit bulunmamak.
+
+Yabancı bir devlet vatandaşlığını kazanmak üzere Türk vatandaşlığından çıkmak
+için izin isteyenlerden talepleri uygun görülenlere Bakanlıkça, Türk
+vatandaşlığından çıkma izin belgesi; verilen izin sonucunda veya önceden
+yabancı bir devlet vatandaşlığını kazandığını belgeleyenlere ise Türk
+vatandaşlığından çıkma belgesi verilir.
+
+Çıkma izin belgesi, karar tarihinden itibaren iki yıl geçerlidir. İzin
+belgesini alanlar bu süre içerisinde yurt içinde ikamet edilen yer valiliğine,
+yurt dışında ise dış temsilciliklere yabancı devlet vatandaşlığını
+kazandıklarına dair bilgi ve belgeleri vermek zorundadır. Süresi içinde yabancı
+devlet vatandaşlığının kazanılamaması durumunda çıkma izin belgesi geçersiz
+hale gelir.
+
+Çıkma belgesinin ilgiliye imza karşılığı teslimi ile Türk vatandaşlığı
+kaybedilir. Türk vatandaşlığını kaybeden kişilerin nüfus aile kütüklerindeki
+kayıtları kapatılır ve kayıp tarihinden itibaren yabancı muamelesine tabi
+tutulurlar.
+
+Eşlerden birinin çıkma izni almak suretiyle Türk vatandaşlığını kaybetmesi
+diğer eşin vatandaşlığına tesir etmez. Türk vatandaşlığını kaybeden ana ya da
+babanın talebinin bulunması ve diğer eşin de muvafakat etmesi halinde çocukları
+da kendileri ile birlikte Türk vatandaşlığını kaybederler. Muvafakat
+verilmemesi halinde hakim kararına göre işlem yapılır. Çıkma izni almak
+suretiyle Türk vatandaşlığını birlikte kaybeden ana ve babanın çocukları da
+Türk vatandaşlığını kaybeder.
+
+===== VATANDAŞLIĞI KAYBETTİRME
+
+Aşağıda belirtilen eylemlerde bulundukları resmi makamlarca tespit edilen
+kişilerin Türk vatandaşlığı Bakanlığın teklifi ve Bakanlar Kurulu kararı ile
+kaybettirilebilir.
+
+.. Yabancı bir devletin, Türkiye'nin menfaatlerine uymayan herhangi bir
+hizmetinde bulunup da bu görevi bırakmaları kendilerine yurt dışında dış
+temsilcilikler, yurt içinde ise mülki idare amirleri tarafından bildirilmesine
+rağmen, üç aydan az olmamak üzere verilecek uygun bir süre içerisinde kendi
+istekleri ile bu görevi bırakmayanlar.
+.. Türkiye ile savaş halinde bulunan bir devletin her türlü hizmetinde Bakanlar
+Kurulunun izni olmaksızın kendi istekleriyle çalışmaya devam edenler.
+.. İzin almaksızın yabancı bir devlet hizmetinde gönüllü olarak askerlik yapanlar.
+
+26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 302 nci, 309 uncu, 310
+uncu, 311 inci, 312 nci, 313 üncü, 314 üncü ve 315 inci maddelerinde yazılı
+suçlar nedeniyle hakkında soruşturma veya kovuşturma yürütülen ve yabancı
+ülkede bulunması nedeniyle kendisine ulaşılamayan vatandaşlar, bu durumun
+soruşturma aşamasında Cumhuriyet savcısı veya kovuşturma aşamasında mahkeme
+tarafından öğrenilmesinden itibaren bir ay içinde vatandaşlıklarının
+kaybettirilmesi amacıyla Bakanlığa bildirilir.  Bakanlıkça Resmî Gazetede
+yapılan yurda dön ilanına rağmen üç ay içinde yurda dönmemeleri halinde, bu
+kişilerin Türk vatandaşlıkları Bakanlığın teklifi ve Bakanlar Kurulu kararıyla
+kaybettirilebilir.
+
+Türk vatandaşlığının kaybettirilmesi Bakanlar Kurulu kararının Resmi Gazetede
+yayımlandığı tarihten itibaren hüküm ifade eder.
+
+Kaybettirme kararları şahsidir, ilgilinin eş ve çocuklarına tesir etmez.
+
+===== VATANDAŞLIĞIN İPTALİ
+
+Türk vatandaşlığını kazanma kararı; ilgilinin yalan beyanı veya vatandaşlığı
+kazanmaya esas teşkil eden önemli hususları gizlemesi sonucunda vuku bulmuş ise
+kararı veren makam tarafından iptal edilir.
+
+İptal kararı, karar tarihinden itibaren hüküm ifade eder. İptal kararı ilgili
+kişiye bağlı olarak Türk vatandaşlığını kazanan eş ve çocuklar hakkında da
+uygulanır.
+
+Vatandaşlığı iptal edilenler hakkında 15/7/1950 tarihli ve 5683 sayılı
+Yabancıların Türkiye'de İkamet ve Seyahatleri Hakkında Kanun hükümleri
+uygulanır. Bunlardan mallarının tasfiyesi gerekli görülen hallerde bu husus
+iptal kararında belirtilir. Bu kişiler en geç bir yıl içinde Türkiye'deki
+mallarını tasfiye etmek zorundadır. Aksi halde, malları Hazinece satılarak
+bedelleri nam ve hesaplarına kamu haznedarlığı sistemine dahil bir kamu
+bankasına yatırılır.
+
+Bu kişiler iptal kararı aleyhine yargı yoluna başvurdukları takdirde malların
+tasfiyesi dava sonuna bırakılır.
+
+==== VATANDAŞLIĞIN SEÇME HAKKI İLE KAYBI
+
+Aşağıda durumları belirtilenler, ergin olmalarından itibaren üç yıl
+içinde Türk vatandaşlığından ayrılabilirler.
+
+.. Ana ya da babadan dolayı soy bağı nedeniyle doğumla Türk vatandaşı
+olanlardan yabancı ana veya babanın vatandaşlığını doğumla veya sonradan
+kazananlar.
+.. Ana ya da babadan dolayı soy bağı nedeniyle Türk vatandaşı olanlardan doğum
+yeri esasına göre yabancı bir devlet vatandaşlığını kazananlar.
+.. Evlat edinilme yoluyla Türk vatandaşlığını kazananlar.
+.. Doğum yeri esasına göre Türk vatandaşı oldukları halde, sonradan yabancı ana
+veya babasının vatandaşlığını kazananlar.
+.. Herhangi bir şekilde Türk vatandaşlığını kazanmış ana veya babaya bağlı
+olarak Türk vatandaşlığını kazananlar.
+
+Yukarıdaki hükümler gereğince vatandaşlığın kaybı ilgiliyi vatansız kılacak ise
+seçme hakkı kullanılamaz.
+
+NOTE: Devlet, bu 3 yıllık süre içerisinde hakkın kullanılması halinde ayrılmayı
+engelleyemez. 3 yıllık süre geçtikten sonra ancak kişinin aranması,
+kovuşturulması vs. gibi durumlarda ayrılma engellenebilir.
+
+Seçme hakkı ile Türk vatandaşlığının kaybı, bu hakkın kullanılmasına dair
+şartların varlığının tespitine ilişkin karar tarihinden itibaren hüküm ifade
+eder.
+
+Seçme hakkını kullanarak Türk vatandaşlığından ayrılan kişilerin eşleri ve
+çocukları hakkında 27 nci madde hükümleri uygulanır.
+
+=== VATANDAŞLIĞIN İSPATI
+
+Türk vatandaşlığının ispatı herhangi bir şekle tabi değildir.
+
+Aşağıdaki resmi kayıt ve belgeler, aksi sabit oluncaya kadar ilgilinin Türk
+vatandaşı olduğuna karine teşkil eder.
+
+.. Nüfus kayıtları.
+.. Nüfus cüzdanları.
+.. Pasaport veya pasaport yerine geçen belgeler.
+
+Bir kişinin Türk vatandaşı olup olmadığı konusunda herhangi bir tereddüde
+düşüldüğü takdirde bu husus Bakanlıktan sorulur.
