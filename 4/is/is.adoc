@@ -2299,3 +2299,419 @@ uyulmasını sağlamak için güç kullanmaksızın ve tehditte bulunmaksızın 
 üyelerinin grev kararına uyup uymadıklarını denetlemek amacıyla, işyerinin
 giriş ve çıkış yerlerine, kendi üyeleri arasından en çok dörder grev gözcüsü
 koyabilir.
+
+==== KANUN DIŞI GREVE KATILMA
+
+Kanun dışı grev yapılması halinde işveren, grevin yapılması kararına katılan,
+grevin yapılmasını teşvik eden, greve katılan veya katılmaya ya da devama
+teşvik eden işçilerin iş sözleşmelerini haklı nedenle feshedebilir.
+
+Kanun dışı bir grev yapılması halinde bu grev nedeniyle işverenin uğradığı
+zararlar, greve karar veren işçi kuruluşu veya kanun dışı grev herhangi bir
+işçi kuruluşunca kararlaştırılmaksızın yapılmışsa, bu greve katılan işçiler
+tarafından karşılanır.
+
+=== GREVİN SONA ERMESİ
+
+Kanuni bir grevi sona erdiren en önemli hal toplu iş sözleşmesinin
+yapılmasıdır.
+
+Taraflar tahkime gitmek hususunda anlaşırlarsa da grev sona erecektir.
+
+Kanuni bir grev veya lokavtı sona erdirme kararı, kararı alan tarafça ertesi iş
+günü sonuna kadar yazı ile karşı tarafa ve görevli makama bildirilir.
+
+Grevin veya lokavtın sona erdiği, görevli makam tarafından işyerinde ilan
+edilir. Kanuni grev ve lokavt, ilanın yapılması ile sona erer.
+
+Grevin uygulanmasına son verilmesi lokavtın, lokavtın uygulanmasına son
+verilmesi grevin kaldırılmasını gerektirmez.
+
+Grevi uygulayan işçi sendikasının herhangi bir nedenle kapatılması,
+feshedilmesi veya infisah etmesi hallerinde grev ve alınmış bir karar varsa
+lokavt kendiliğinden sona erer ve yetki belgesi hükümsüz olur.
+
+Grevi uygulayan sendikanın, yetki tespiti için başvurduğu tarihte işyerindeki
+üyesi işçilerin dörtte üçünün sendika üyeliğinden ayrıldıklarının tespiti
+halinde, ilgililerden her biri grevin sona erdirilmesi için mahkemeye
+başvurabilir.
+
+== SOSYAL SİGORTA
+
+*Sigortalı*, kısa veya uzun vadeli sigorta kolları bakımından adına prim
+ödenmesi gereken veya kendi adına prim ödemesi gereken kişidir.
+
+=== STATÜLER
+
+* *4-A*
+
+. İş sözleşmesi uyarınca bir ya da daha fazla işveren tarafından çalıştırılan
+işçiler
+. İşçi sendikaları ve konfederasyonları ile sendika şubelerinin başkanlıklarına
+ve yönetim kuruluna seçilenler
+. Bir ya da daha fazla işveren tarafından çalıştırılan güzel sanat kolları
+çalışanları
+. Düşünürler, yazarlar
+. Mütekabiliyet esasına dayalı olarak uluslararası sosyal güvenlik sözleşmesi
+yapılmış ülke uyruğunda olanlar hariç olmak üzere yabancı uyruklu kişilerden iş
+sözleşmesiyle çalışanlar
+. Genelevde çalışan kadınlar
+. Çiftçi Mallarının Korunması Hakkında Kanun uyarınca çalıştırılan koruma
+bekçileri
+. Ev hizmetlerinde çalışan ve çalışma saatine göre hesaplanan çalışma gün ve
+sayısı 10 gün ve daha fazla olan kişiler
+
+* *4-B*
+
+. Ticari kazanç veya serbest meslek kazancı nedeniyle gerçek veya basit usulde
+gelir vergisi mükellefi olanlar
+. Gelir vergisinden muaf olup da esnaf ve sanatkar siciline kayıt olanlar
+. Şirket ortakları
+. Tarımsal faaliyette bulunanlar
+. Köy ve mahalle muhtarları
+
+* *4-C*: Kamu kurum ve kuruluşlarında çalışanlar
+
+=== BİLDİRİM
+
+Bir işveren bir işyeri kurmuşsa, kural olarak bu işyerini en geç sigortalı
+çalıştırmaya başladığı tarihe kadar kaydettirmesi gerekir.
+
+TIP: İşyeri miras yoluyla intikal etmişse 3 aylık bir süre öngörülmüştür.
+
+4-A'lılar çalıştırılmaya başlanmadan önce kuruma bildirilmelidir. Dolayısıyla
+işverenin işçiyi çalıştırmaya başlamadan en geç bir gün önce bildirmesi
+gerekir. Bunun üç istisnası vardır:
+
+. İnşaat, balıkçılık ve tarım işyerlerinde işe başlatılacak sigortalılar için
+çalışmaya başlatıldığı gün de sigorta bildirimi yapılabilir.
+. Yabancı ülkeye sefer yapan ulaşım araçlarına sefer esnasında alınarak
+çalıştırılan kişilerin çalışmaya başladıkları tarihten itibaren 1 ay içerisinde
+bildirilmesi gerekir.
+. Sosyal güvenlik kurumuna ilk defa işyeri bildirimi yapılacak işyerlerinde
+tescil tarihinden itibaren 1 ay boyunca işe başlatılan işçiler bu sürenin
+sonunda bildirilebilir.
+
+Çalışmaya başlanılan tarihten itibaren bir ay içerisinde işçi de kendi
+sigortalılık bildirimini yapabilir. Sigortalının kendisini bildirmesi bir
+yükümlülük değil, haktır. İşveren bakımından ise bu bir yükümlülüktür.
+
+Sigortalılığın sona ermesinin de bildirilmesi gerekir. Bunun süresi iş
+sözleşmesinin sona erdiği tarihten itibaren 10 gündür.
+
+Sigortalıların kuruma bildirilmemeleri durumunda bir dava açarak
+çalışmışlıklarını kanıtlama imkanı vardır. Hizmet tespit davası ya da sigortalı
+hizmetlerin hükmen tespiti davası açılır. Bu davanın açılması için aşağıdaki
+koşulların varlığı gerekir:
+
+.. Fiili çalışma söz konusu olmalıdır.
+.. Sigortalının çalışmasının bildirilmemiş olması gerekir.
+.. 5 yıllık hak düşürücü sürenin geçirilmemiş olması gerekir. Hak düşürücü
+sürenin başlangıcı iş ilişkisinin bitimi değil yılın son günüdür. Örneğin iş
+ilişkisi 1 Mart 2017'de bitmişse süre 31 Aralık 2017'den itibaren işlemeye
+başlar.
+
+=== PRİM
+
+Prim, prime esas kazanç denilen bir tutar üzerinden alınır. Yasanın öngördüğü
+esaslar çerçevesinde belirlenen prime esas kazanç tutarı işçinin prim matrahını
+oluşturur. Prim oranları bu tutar üzerinden hesaplanarak her ay belirlenir.
+Prime esas kazancın alt sınırı brüt asgari ücrettir, üst sınırı ise bunun 7.5
+katıdır.
+
+Her ay sigortalının prime esas kazancı üzerinden altı tür prim ödenir:
+
+. *Kısa vadeli sigorta fonları primi:* Oranı, prime esas kazancın %2'sidir.
+Tamamen işveren tarafından ödenir.
+. *Uzun vadeli sigorta primi:* Oranı, prime esas kazancın %20'sidir.
+. *Genel sağlık sigortası primi:* Oranı, prime esas kazancın %12.5'i dir.
+. *İşsizlik sigortası primi:* Oranı, prime esas kazancın %4'üdür. %1 işçi,
+%1 devlet, %2 işveren tarafından ödenir.
+. *Sosyal güvenlik destek primi:* Oranı, prime esas kazancın %32'sidir. Bunun
+%30'u sabit, %2'si iş kazası ve meslek hastalığı içindir.
+
+IMPORTANT: Prim ödeme yükümlüsü işverendir. Yukarıdaki primler arasında
+işçinin cebinden çıkan pay da vardır ama bu durumda dahi ödemeyi işçi yapmaz.
+İşveren, işçinin bordrosunu düzenlerken kesinti yapılacak sigorta prim
+oranlarını da keser ve kendisi öder.
+
+=== SOSYAL SİGORTA TÜRLERİ
+
+==== İŞ KAZASI VE MESLEK HASTALIĞI
+
+===== İŞ KAZASI
+
+*İş kazası*, sigortalının işverenin otoritesi altında bulunduğu bir sırada
+gördüğü iş veya işin bir gereği dolayısıyla aniden ve dıştan meydana gelen bir
+etkenle sigortalıyı bedenen ya da ruhen zarara uğratan olaydır.
+
+NOTE: İş kazası ve meslek hastalığı hükümleri 4-A ve 4-B'lilere uygulanır.
+4-C'liler iş kazası ve meslek hastalığı hükümlerine tabi değildir. 4-C'liler
+vazife malüllüğü adı verilen başka bir sosyal güvenceden yararlanır.
+
+Sigortalının işyerinde bulunduğu sırada uğradığı kazalar iş kazasıdır.
+Sigortalının bu sırada çalışıyor olması şart değildir.
+
+İşveren tarafından yürütülmekte olan iş nedeniyle meydana gelen kazalar da iş
+kazasıdır. İşyeri sınırları içerisinde gerçekleşmesi şart değildir.
+
+Bir işverene bağlı olarak çalışan sigortalının görevli olarak işyeri dışında
+başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda
+meydana gelen kazalar da iş kazasıdır.
+
+4-A kapsamında emziren kadın sigortalının çocuğuna süt vermek için ayrılan
+zamanlarda (çocuk 1 yaşına gelene kadar günde 1.5 saat) bir kaza meydana
+gelirse bu da iş kazası sayılacaktır.
+
+Sigortalının işveren hesabına bir taşıtla işin yapıldığı yere girişleri ve
+çıkışlarında meydana gelen kazalar da iş kazasıdır. Bu durumda sigortalının
+aracın içinde olması gerekir.
+
+===== MESLEK HASTALIĞI
+
+Sigortalının çalıştığı veya yaptığı işin niteliğinden dolayı tekrarlanan bir
+sebeple veya işin yürürlük şartları ile uğradığı geçici veya sürekli hastalık,
+bedensel veya ruhsal engellilik hallerine *meslek hastalığı* denir.
+
+CAUTION: Meslek hastalığının iş kazasından farkı mutlaka yapılan işle ilgili
+olma zorunluluğudur.
+
+Hastalığın yönetmelikte yer alması ve belirli sürede meydana gelmesi gerekir.
+Ancak, meslek hastalığı listesinde yer almasa bile mesleğin gereklerinden
+kaynaklanan bir hastalığın kanıtlanmasıyla da meslek hastalığı hükümlerinin
+işletilmesi mümkündür.
+
+Hastalığın kurul sağlık raporu ile saptanması şarttır.
+
+===== BİLDİRİM
+
+İş kazası meydana geldiğinde ya da meslek hastalığının ortaya çıktığı tespit
+edildiğinde öncelikli olarak kolluk kuvvetlerine bildirimde bulunulur ve SGK'ya
+3 gün içerisinde bildirilir.
+
+===== YAPILACAK YARDIMLAR
+
+* *Sigortalı hayatta kalırsa kendisine*
+
+. _Geçici iş göremezlik ödeneği_
+. _Sürekli iş göremezlik ödeneği_
+
+* *Sigortalı ölürse hak sahiplerine*
+
+. _Eş, çocuklar, anne ve babaya ölüm geliri_
+. _Kız çocuklarına evlenme ödeneği_
+. _Cenaze ödeneği_
+
+===== SGK'NIN RÜCU HAKKI
+
+SGK, sigortalıya veya hak sahiplerine yaptığı yardımları iş kazasının veya
+meslek hastalığının meydana gelmesinde kusuru olan kişilere rücu edebilir.
+
+İş kazası ve meslek hastalığı, *işverenin kastı* veya *sigortalıların sağlığını
+koruma ve iş güvenliği mevzuatına aykırı bir hareketi* sonucu meydana gelmişse,
+Kurumca sigortalıya veya hak sahiplerine kanun gereğince yapılan veya ileride
+yapılması gereken ödemeler ile bağlanan gelirin başladığı tarihteki ilk peşin
+sermaye değeri toplamı, sigortalı veya hak sahiplerinin işverenden
+isteyebilecekleri tutarlarla sınırlı olmak üzere, Kurumca *işverene
+ödettirilir.* İşverenin sorumluluğunun tespitinde kaçınılmazlık ilkesi dikkate
+alınır.
+
+İş kazasının, kanunda belirtilen sürede işveren tarafından Kuruma
+bildirilmemesi halinde, bildirim tarihine kadar geçen süre için sigortalıya
+ödenecek geçici iş göremezlik ödeneği, Kurumca işverenden tahsil edilir.
+
+Çalışma mevzuatında sağlık raporu alınması gerektiği belirtilen işlerde, böyle
+bir rapora dayanılmaksızın veya eldeki rapora aykırı olarak bünyece elverişli
+olmadığı işte çalıştırılan sigortalının, bu işe girmeden önce var olduğu tespit
+edilen veya bünyece elverişli olmadığı işte çalıştırılması sonucu meydana gelen
+hastalığı nedeniyle, Kurumca sigortalıya ödenen geçici iş göremezlik ödeneği
+işverene ödettirilir.
+
+İş kazası, meslek hastalığı ve hastalık, *üçüncü bir kişinin kusuru nedeniyle
+meydana gelmişse*, sigortalıya ve hak sahiplerine yapılan veya ileride
+yapılması gereken ödemeler ile bağlanan gelirin başladığı tarihteki ilk peşin
+sermaye değerinin *yarısı*, zarara sebep olan üçüncü kişilere ve şayet kusuru
+varsa bunları çalıştıranlara rücu edilir.
+
+Sigortalı çalıştırmaya başlandığının süresi içnde sigortalı işe giriş
+bildirgesi ile Kuruma bildirilmemesi halinde, bildirgenin sonradan verildiği
+veya sigortalı çalıştırıldığının Kurumca tespit edildiği tarihten önce meydana
+gelen iş kazası ve meslek hastalığı sonucu ilgililerin gelir ve ödenekleri
+Kurumca ödenir. Bu durumda, Kurumca yapılan ve ileride yapılması gereken her
+türlü masrafların tutarı ile gelir bağlanırsa bu gelirin başladığı tarihteki
+ilk peşin sermaye değeri tutarı, işverenin kusuru aranmaksızın işverene
+ödettirilir.
+
+==== HASTALIK SİGORTASI
+
+Hastalık sigortası sonucunda yalnızca geçici iş göremezlik ödeneği yardımı
+yapılır. Bunun şartları:
+
+. Hastalık meydana gelmelidir. 4-A ve 4-B'lilerin iş kazası ve meslek hastalığı
+dışında kalan ve iş göremezliğe neden olan rahatsızları hastalık sayılır.
+. Hastalık nedeniyle oluşan geçici iş göremezlik durumunun iki günden fazla
+sürmesi gerekir.
++
+NOTE: İş kazası ve meslek hastalığı sigortası kapsamında verilen iş göremezlik
+ödeneği ilk günden başlar. Kazanın meydana geldiği gün için dahi geçici iş
+göremezlik ödeneği ödenir. Hastalıkta ise ödeme üçüncü günden başlar.
+. Hastalık sebebiyle ortaya çıkan geçici iş göremezlik tarihinden önceki bir
+yıl içerisinde 90 günlük kısa vadeli sigorta primlerinin bildirilmiş olması
+gerekir.
+. Kuruma başvurmak gerekir.
+
+==== ANALIK SİGORTASI
+
+Analık sigortası kapsamında yapılacak iki yardım vardır:
+
+. Geçici iş göremezlik ödeneği
+. Emzirme ödeneği
+
+Analık sigortası kapsamında yardımdan yararlanma hakkına sahip dört kişi
+vardır:
+
+. Anne olan sigortalı
+. Sigortalı erkeğin sigortalı olmayan eşi
+. Kendi çalışmalarından dolayı gelir ya da aylık almakta olan kadın
+. Kendi çalışmalarından dolayı gelir ya da aylık almakta olan erkeğin sigortalı
+olmayan eşi
+
+Gebeliğin başladığı tarihten itibaren analık başlar ve doğumdan sonraki izin
+süresinin sonuna kadar devam eder. Doğumdan sonra izin süresi tekil
+gebeliklerde 8 hafta, çoğul gebeliklerde 10 haftadır.
+
+Geçici iş göremezlik ödeneği için aranan şartlar:
+
+. Bu yardım sadece sigortalı kadın için geçerlidir. Zira bu yardımın sebebi
+analık sebebiyle kadının çalışma hayatından uzaklaşmasıdır.
+. Doğumun gerçekleştiği tarihten itibaren geriye doğru bir yıllık süre
+içerisinde 90 günlük kısa vadeli sigorta kolları priminin bildirilmiş olması
+gerekir.
+. Kuruma başvurmak gerekir.
+
+Emzirme ödeneği için aranan şartlar:
+
+. Doğumun gerçekleştiği tarihten itibaren geriye doğru bir yıllık süre
+içerisinde 120 günlük kısa vadeli sigorta kolları priminin bildirilmiş olması
+gerekir.
+. Kuruma başvurmak gerekir.
+
+NOTE: Sigortalılık niteliğinin yitirildiği tarihten itibaren 300 gün içinde
+doğum meydana gelmiş ve doğumdan itibaren geriye doğru 15 aylık zaman dilimi
+içerisinde 120 günlük kısa vadeli sigorta primi bildirilmiş ise bu kişiler de
+analık hükümlerinden yararlanabilir.
+
+==== MALÜLLÜK SİGORTASI
+
+Malüllük, çalışma gücünün sürekli olarak kısmen veya tamamen kaybedilmesine
+sebep olan sağlık sorunudur. Kişinin mamül olduğu ve diğer koşulları sağladığı
+tespit edilirse mamül aylığı bağlanır.
+
+Mamül sayılabilmek için sigortalının çalışma gücünü %60 oranında kaybetmesi
+gerekir. Bu %60 kayıp çalışmaya başladıktan sonra meydana gelmiş olmalıdır.
+Fiili olarak çalışıyor olmak şart değildir ama sigorta kaybı yapıldıktan sonra
+ortaya çıkmış olmalıdır. İşe başlamadan önce bir miktar kayıp varken çalışmaya
+başladıktan sonra %60 oranına çıkarsa da kişi mamül sayılır.
+
+Sigortalılık süresi en az 10 yıl olmalıdır. 1800 günlük malüllük, yaşlılık ve
+ölüm sigorta priminin bildirilmiş olması gerekir.
+
+NOTE: Sürekli başka birinin bakımına muhtaç bir şekilde mamül olunursa 10
+yıllık sigortalılık şartı aranmaz.
+
+Kuruma yazılı olarak başvurulması gerekir.
+
+Malüllük aylığı alanlar ve bakmakla yükümlü olduğu kişiler prim ödeme koşulu
+aranmaksızın genel sağlık sigortalısı sayılır.
+
+Malüllük aylığı almak için işten ayrılmak gerekir.
+
+==== ÖLÜM SİGORTASI
+
+Bu sigorta kapsamında dört yardım vardır:
+
+. *Ölüm aylığı:* Ölüm aylığı alan kişiler, bu süre boyunca genel sağlık
+sigortası kapsamında sağlık hizmetlerinden de yararlanır. Şartları:
+
+.. Ölümün gerçekleşmesi
+.. En az 10 yıl sigortalılık ve 1800 gün uzun vadeli sigorta priminin
+bildirilmiş olması
++
+NOTE: 4-A'lılar bakımından 5 yıl sigortalılık ve 900 gün prim yeterlidir.
++
+IMPORTANT: Bütün bu primlerin sadece bildirilmiş olması aranmaktadır. Bu
+primlerin ödenmesi işverenin yükümlülüğüdür. Ödenmemiş olması işçinin hak
+kaybına sebep olmaz.
+. *Ölüm toptan ödemesi:* Ölümün gerçekleştiği tarihte kanunun ölüm aylığı
+bağlanabilmesi için atanan şartlar yoksa daha önce ödenen primler, geride
+kalanlara verilir.
+. *Evlenme ödeneği*
+. *Cenaze ödeneği*
+
+==== İŞSİZLİK SİGORTASI
+
+Yapılacak yardımlar:
+
+* *İşsizlik ödeneği:* Üç şartı vardır:
+
+. İşsizlik ödeneği alınamayacak bir hal olmamalıdır.
+
+.. İstifa
+.. İkale
+.. Ahlak ve iyiniyet kurallarına uymayan bir davranış sebebiyle işten çıkarma
+
+. Son 2 yıl içerisinde en az 600 günlük işsizlik primi bildirilmiş olmalı ve
+bunun 120 günlük kısmı iş ilişkisinin bitiminden geriye doğru kesintisiz
+olmalıdır.
+. İş ilişkisinin sona erdiği tarihten itibaren 30 gün içinde İŞ-KUR'a müracaat
+edilmelidir. Bu bir hak düşürücü süre değildir. Geç kalınan süre kadar
+kazanılan ödenekten indirilir.
+* *Sağlık güvencesinin sürdürülmesi*
+* *Yeni bir iş bulunmasına yardımcı olunması*
+* *Aktif iş gücü hizmetleri kapsamında kurslar*
+
+==== İSTEĞE BAĞLI SİGORTA
+
+İsteğe bağlı sigorta, sosyal güvenlik sistemine dahil olmayan kişilerin kendi
+primlerini ödemek suretiyle çalışmadan emekli olmalarını sağlayan özel bir
+sigorta türüdür. Bu kişilerin prime esas kazancı olmadığından alt ve üst sınır
+arasında bir tercihte bulunarak ödeme yaparlar. Prim oranı %32'dir.
+
+Şartları:
+
+. Türkiye'de ikamet
+. Zorunlu sigortalı olmayı gerektirecek şekilde çalışmamak ya da kısmi süreli
+iş sözleşmesi sebebiyle bir ay içinde bildirilmeyen primleri bulunmak
+. Kendi sigortalılığı sebebiyle aylık alınmıyor olması
+. 18 yaşını doldurmuş olmak
+. Kuruma müracaat
+
+İsteğe bağlı sigorta primi ödenen süre 4-B kapsamında değerlendirilir. Emekli
+olmak için 9000 gün prim şartı aranmaktadır. Kısmi süreli çalışanlar için ise
+4-A gibi sonuç doğar.
+
+=== HİZMET BORÇLANMASI
+
+Hizmet borçlanması, sigortalılıkta geçmeyen bazı sürelerin daha sonra primi
+ödenmek suretiyle sigortalı hizmetten sayılmasına olanak veren bir sosyal
+sigorta işlemidir.
+
+Hizmet borçlanması yapılabilmesi için kanunun borçlanmaya izin verdiği bir
+sürenin söz konusu olması gerekir:
+
+. Kanun gereği verilen ücretsiz doğum veya analık izni süreleri
+. Askerlikte geçen süre
+. Grev ve lokavtta geçen süreler
+
+Hizmet borçlanması yapılabilmesi için mutlaka talepte bulunmak gerekir. Talepte
+bulunan sigortalının kendisi olmak zorunda değildir. Sigortalı öldüyse, geride
+kalan hak sahipleri de başvurabilir.
+
+Herhangi bir süre söz konusu değildir.
+
+%32'lik oran üzerinden hesaplanır. Primin ödenmesi için bir aylık süre vardır.
+Bir ay içinde ödeme yapılmazsa borçlanma talebi düşer. Talep düştüyse yeniden
+başvurulabilir.
+
+Hizmet borçlanması yapılan süre, ilk defa sigorta başlangıcının öncesindeyse
+sigorta başlangıç tarihini geri götürür. Ödenen prim kadar ödeme günü sayısı da artar.
