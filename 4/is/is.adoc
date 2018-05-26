@@ -2043,3 +2043,259 @@ Toplu iş sözleşmesine taraf olan sendikanın tüzel kişiliğinin sona ermesi
 faaliyetinin durdurulması, işçi sendikasının yetkiyi kaybetmesi ve toplu iş
 sözleşmesinin uygulandığı işyerlerinde işverenin veya işyerinin girdiği
 işkolunun değişmesi toplu iş sözleşmesini sona erdirmez.
+
+== İŞ UYUŞMAZLIKLARI
+
+İş uyuşmazlıkları, işçiler veya işçi sendikaları ile işverenler veya işveren
+sendikaları arasında işçilerin ve işverenlerin karşılıklı olarak ekonomik veya
+sosyal durumlarının, çalışma şartlarının teslim edilmesi, uygulanması,
+yorumlanması, değiştirilmesi ya da daha iyi hale getirilmesine yönelik olarak
+ortaya çıkan uyuşmazlıklardır.
+
+İş uyuşmazlıkları ikiye ayrılır:
+
+. *Hak veya menfaat uyuşmazlıkları*
+
+.. _Hak uyuşmazlığı:_ İş mevzuatı, toplu iş sözleşmesi veya iş sözleşmesindeki
+hakların hiç ya da gereği gibi yerine getirilmemesi halinde ortaya çıkan
+uyuşmazlıklardır. *Burada tarafların üzerinde anlaştıkları bir hak ihlal
+edilmektedir.*
+.. _Menfaat uyuşmazlığı:_ Daha önce mevcut olmayan bir hakkın tanınmasına
+yönelik uyuşmazlıklardır.
+. *Bireysel veya toplu iş uyuşmazlıkları*
+
+.. _Bireysel hak uyuşmazlığı_
+.. _Bireysel menfaat uyuşmazlığı_
+.. _Toplu hak uyuşmazlığı:_ Toplu iş sözleşmesinin yorumu veya uygulanması ile
+ilgili uyuşmazlıklardır.
++
+_Uygulanmakta olan bir toplu iş sözleşmesinin yorumundan doğan uyuşmazlıklarda
+sözleşmenin taraflarınca dava açılabilir. Mahkeme en geç iki ay içinde karar
+verir. Karar hakkında istinaf yoluna başvurulması halinde bölge adliye
+mahkemesi, uyuşmazlığı iki ay içinde kesin olarak karara bağlar._
++
+_Toplu iş sözleşmesine dayanan eda davalarında, temerrüt tarihinden itibaren
+işletme kredilerine uygulanan en yüksek faiz oranı uygulanır._
+.. _Toplu menfaat uyuşmazlığı:_ Toplu iş sözleşmesi yapılırken ortaya çıkan
+uyuşmazlıklardır. Taraflar toplu iş sözleşmesi görüşmelerinde uzlaşamazlarsa
+öncelikli olarak işletilmesi gereken barışçıl çözüm yolu arabuluculuktur.
+
+=== ARABULUCULUK
+
+Toplu iş sözleşmesi görüşmelerinde _uyuşmazlık yazısını alan görevli makam
+*altı iş günü içinde* taraflardan en az birinin katılımı ile veya katılım
+olmazsa re'sen bir arabulucu görevlendirir._
+
+Taraflar bir arabulucu üzerinde anlaşırlarsa, belirlenen kişi görevli makam
+tarafından arabulucu olarak görevlendirilir.
+
+*Arabulucunun görevi kendisine yapılacak bildirimden itibaren on beş gün sürer.
+Bu süre tarafların anlaşması ile en çok altı iş günü uzatılabilir ve görevli
+makama bildirilir.*
+
+Arabuluculuk süresinin sonunda anlaşma sağlanamamışsa, arabulucu üç iş günü
+içinde uyuşmazlığı belirleyen bir tutanak düzenler ve uyuşmazlığın sona
+erdirilmesi için gerekli gördüğü önerileri de ekleyerek görevli makama tevdi
+eder. Görevli makam, tutanağı en geç üç iş günü içinde taraflara tebliğ eder.
+
+=== GREV
+
+İşçilerin, topluca çalışmamak suretiyle işyerinde faaliyeti durdurmak veya işin
+niteliğine göre önemli ölçüde aksatmak amacıyla, aralarında anlaşarak veya bir
+kuruluşun aynı amaçla topluca çalışmamaları için verdiği karara uyarak işi
+bırakmalarına *grev* denir.
+
+Toplu iş sözleşmesinin yapılması sırasında uyuşmazlık çıkması halinde,
+işçilerin ekonomik ve sosyal durumları ile çalışma şartlarını korumak veya
+geliştirmek amacıyla, kanun hükümlerine uygun olarak yapılan greve *kanuni
+grev* denir.
+
+_Grev kararı, uyuşmazlık tutanağının tebliği tarihinden itibaren *altmış gün
+içinde* alınabilir ve bu süre içerisinde *altı iş günü önceden* karşı tarafa
+bildirilecek tarihte uygulamaya konulabilir. Bu süre içerisinde grev kararının
+alınmaması veya uygulanacağı tarihin karşı tarafa bildirilmemesi halinde toplu
+iş sözleşmesi yapma yetkisi düşer._
+
+_Uyuşmazlığın tarafı olan işveren sendikası veya sendika üyesi olmayan
+işveren, grev kararının kendisine tebliğinden itibaren altmış gün içinde
+*lokavt* kararı alabilir ve bu süre içerisinde altı iş günü önceden karşı
+tarafa bildirilecek tarihte uygulamaya koyabilir._
+
+Bildirilen tarihte başlamayan grev hakkı veya lokavt düşer. Süresi içinde grev
+kararı uygulamaya konulmamışsa ve alınmış bir lokavt kararı da yoksa veya
+lokavt da süresi içinde uygulamaya konulmamışsa yetki belgesinin hükmü kalmaz.
+
+Grev ve lokavt kararlarının uygulanacağı tarih, kararı alan tarafça karşı
+tarafa tebliğ edilmek üzere notere bir örneği de görevli makama tevdi edilir.
+
+*Kanuni grev kararı alınan bir uyuşmazlıkta Çalışma ve Sosyal Güvenlik Bakanı
+uyuşmazlığın çözümü için bizzat arabuluculuk yapabileceği gibi bir kişiyi de
+arabulucu olarak görevlendirebilir.*
+
+Kanuni grevden söz edilebilmesi için dört unsur gerekir:
+
+. *Mesleki amaç:* Toplu iş sözleşmeleri sırasında taraflar arasında ortaya
+çıkan bir uyuşmazlığa dayanmayan grev kanuni değildir. Mevzuatımızda hakkın
+yerine getirilmemesi sebebiyle greve gidebilmek mümkün değildir.
+. *Kanunda belirlenen usule uygun olması:* Öncelikle barışçıl çözüm yollarının
+denenmiş olması ve bir sonuca varılamamış olması gerekir. Grev kararını alma
+yetkisi sadece işçi sendikasına tanınmıştır. Konfederasyon vs. grev kararı
+alamaz.
+. *Grevin yasaklanmamış olması:* Bakanlar Kurulu, *genel hayatı önemli ölçüde
+etkileyen doğa olaylarının gerçekleştiği yerlerde* bu durumun devamı süresince
+yürürlükte kalmak kaydıyla gerekli gördüğü işyerlerinde grev ve lokavtı
+yasaklayabilir. Yasağın kalkmasından itibaren altmış gün içinde altı iş günü
+önce karşı tarafa bildirilmek kaydıyla grev ve lokavt uygulamasına devam
+edilir.
++
+Başladığı yolculuğu yurt içindeki varış yerlerinde bitirmemiş deniz, hava,
+demir ve kara ulaştırma araçlarında grev ve lokavt yapılamaz.
++
+****
+Aşağıdaki işlerde veya işyerlerinde grev ve lokavt yapılamaz:
+
+.. Can ve mal kurtarma işlerinde
+.. Cenaze işlerinde ve mezarlıklarda
+.. Şehir şebeke suyu, elektrik, doğal gaz, petrol üretimi, tasfiyesi ve
+dağıtımı işlerinde
+.. Milli Savunma Bakanlığı ile Jandarma Genel Komutanlığı ve Sahil Güvenlik
+Komutanlığınca doğrudan işletilen işyerlerinde
+.. Kamu kuruluşlarınca yürütülen itfaiye ve hastanelerde
+****
+. *Grev engellerinin söz konusu olmaması*
+
+.. _Grev oylaması:_ Grev kararının *işyerinde ilan edildiği tarihte o işyerinde
+çalışan işçilerin en az dörtte birinin* ilan tarihinden itibaren *altı iş günü
+içinde* işyerinin bağlı bulunduğu görevli makama yazılı başvurusu üzerine,
+görevli makamca talebin yapılmasından başlayarak altı iş günü içinde grev
+oylaması yapılır.
++
+Oylamaya ilişkin itiraz, oylama gününden başlayarak üç iş günü içinde mahkemeye
+yapılır. İtiraz, mahkemece üç iş günü içinde kesin olarak karara bağlanır.
++
+Oylamada grev ilanının yapıldığı tarihte işyerinde çalışan *işçilerden oylamaya
+katılanların salt çoğunluğu* grevin yapılmaması yönünde karar verirse, bu
+uyuşmazlıkta alınan grev kararı uygulanamaz.
+.. _Grevin ertelenmesi:_ Karar verilmiş veya başlanmış olan kanuni bir grev
+veya lokavt; genel sağlığı veya milli güvenliği, büyükşehir belediyelerinin
+şehir içi toplu taşıma hizmetlerini, bankacılık hizmetlerinde ekonomik veya
+finansal istikrarı bozucu nitelikte ise Bakanlar Kurulu bu uyuşmazlıkta grev ve
+lokavtı *altmış gün süre ile* erteleyebilir. Erteleme süresi, kararın yayımı
+tarihinde başlar.
++
+Erteleme kararının yürürlüğe girmesi üzerine, Çalışma ve Sosyal Güvenlik Bakanı
+veya onun belirlediği arabulucu, uyuşmazlığın çözümü için ertleme süresince her
+türlü çabayı gösterir. Erteleme süresi içinde taraflar aralarında anlaşarak
+uyuşmazlığı özel hakeme de götürebilir.
++
+Erteleme süresinin sonunda anlaşma sağlanamazsa, altı iş günü içinde
+taraflardan birinin başvurusu üzerine uyuşmazlık Yüksek Hakem Kurulunca
+çözülür. Aksi takdirde işçi sendikasının yetkisi düşer.
+.. _Grevin mahkeme kararıyla durdurulması:_ Taraflardan birinin veya Çalışma ve
+Sosyal Güvenlik Bakanının başvurusu üzerine mahkemece, grev hakkı veya lokavtın
+iyi niyet kurallarına aykırı şekilde toplum zararına veya milli servete zarar
+verecek şekilde kullanıldığının tespit edilmesi halinde, uygulanmakta olan grev
+veya lokavtın durdurulmasına karar verilir.
++
+Taraflardan her biri, karar verilen veya uygulanmakta olan bir grev veya
+lokavtın kanun dışı olup olmadığının tespitini mahkemeden her zaman talep
+edebilir. Mahkeme bir ay içinde karar verir. Karar hakkında istinaf yoluna
+başvurulması halinde bölge adliye mahkemesi bir ay içinde kesin olarak karar
+verir. Verilecek karar, tarafları, işçi ve işveren sendikasının üyelerini
+bağlar ve ceza davaları için kesin delil teşkil eder.
++
+Hakim *tedbir olarak* dava konusu grev veya lokavtın durdurulmasına karar
+verebilir.
+
+=== GREVİN HUKUKİ SONUÇLARI
+
+==== GREVİN İŞ SÖZLEŞMESİ ÜZERİNDEKİ ETKİSİ
+
+Kanuni bir grev kararının alınmasına katılma, teşvik etme, greve katılma veya
+greve katılmaya teşvik etme nedeniyle bir işçinin iş sözleşmesi feshedilemez.
+
+Kanuni greve katılan, greve katılmayan veya katılmaktan vazgeçip de grev
+nedeniyle çalıştırılamayan ve kanuni lokavta maruz kalan işçilerin iş
+sözleşmeleri grev ve lokavt süresince askıda kalır.
+
+İşveren, grev ve lokavt nedeniyle iş sözleşmeleri askıda kalan işçilerin grev
+veya lokavtın başlamasından önce işleyen ücretlerini ve eklerini doğrudan
+olağan ödeme gününde ödemek zorundadır. *Ödemeyi yapacak personel de bunun için
+çalışmakla yükümlüdür.*
+
+Grev veya lokavt süresince iş sözleşmeleri askıda kalan işçilere bu dönem için
+işverence ücret ve sosyal yardımlar ödenemez, bu süre *kıdem tazminatı
+hesabında dikkate alınmaz.* Toplu iş sözleşmelerine ve iş sözleşmelerine
+bunların aksine hüküm konulamaz.
+
+==== İŞYERİNDEN AYRILMA ZORUNLULUĞU
+
+İşçiler greve katılıp katılmamakta serbesttir. Greve katılan işçiler ile
+lokavta maruz kalan işçiler işyerinden ayrılmak zorundadır. Greve katılmayan
+veya katılmaktan vazgeçenlerin işyerinde çalışmaları hiçbir şekilde
+engellenemez. Ancak, işveren bu işçileri çalıştırıp çalıştırmamakta serbesttir.
+
+Greve katılan veya lokavta maruz kalan işçilerin işyerine giriş çıkışları
+engellemeleri yasaktır.
+
+Grev başlamadan önce üretilen ürünlerin satılmasına ve işyeri dışına
+çıkarılmasına engel olunamaz.
+
+Greve katılmayıp çalışan işçilerin ürettiği ürünlerin satılmasına ve işyeri
+dışına çıkarılmasına, işyeri için gerekli maddelerin, araç ve gereçlerin
+işyerine sokulmasına engel olunamaz.
+
+==== BAŞKA İŞÇİ ÇALIŞTIRMA VE BAŞKA İŞVEREN YANINDA ÇALIŞMA YASAĞI
+
+Kanuni bir grev ve lokavt dolayısıyla iş sözleşmeleri askıda kalan işçiler,
+grev veya lokavt süresince *başka bir işverenin yanında çalışamaz*. Aksi halde
+işçinin iş sözleşmesi işverence haklı nedenle feshedilebilir.
+
+NOTE: Kısmi süreli iş sözleşmesi ile çalışan işçiler, kanuni haftalık çalışma
+süresini tamamlayacak süreyi aşmamak üzere başka bir işverenin işyerinde
+çalışabilir.
+
+İşveren, kanuni bir grev ya da lokavt süresince iş sözleşmeleri askıda kalan
+işçilerin yerine, sürekli ya da geçici olarak başka işçi alamaz veya
+başkalarını çalıştıramaz. Ancak greve katılamayacak ve lokavta maruz
+bırakılamayacak işçilerden, ölen, kendi isteği ile ayrılan veya iş sözleşmesi
+işveren tarafından haklı sebeple feshedilenlerin yerine yeni işçi alınabilir.
+İşverenin bu yasağa aykırı hareketi, taraf sendikanın yazılı başvurusu halinde
+görevli makamca denetlenir.
+
+Greve katılmayan veya katılmaktan vazgeçen işçiler, ancak kendi işlerinde
+çalışabilir. Bu işçilere, greve katılan işçilerin işleri yaptırılamaz.
+
+==== GREVE KATILAMAYACAK İŞÇİLER
+
+Hiçbir surette üretim veya satışa yönelik olmamak kaydıyla niteliği bakımından
+sürekli olmasında teknik zorunluluk bulunan işlerde faaliyetin devamlılığını
+veya işyeri güvenliğini, makine ve demirbaş eşyalarının, gereçlerinin,
+hammadde, yarı mamul ve mamul maddelerin bozulmamasını ya da hayvan ve
+bitkilerin korunmasını sağlayacak sayıda işçi, kanuni grev ve lokavt sırasında
+çalışmak, işveren de bunları çalıştırmak zorundadır.
+
+İşveren, grev ve lokavt nedeniyle iş sözleşmeleri askıda kalan işçilerin grev
+veya lokavtın başlamasından önce işleyen ücretlerini ve eklerini olağan ödeme
+gününde ödemek zorundadır. Ödemeyi yapacak personel de bunun için çalışmakla
+yükümlüdür.
+
+NOTE: Özel güvenlik görevlileri de kendi kanunlarından kaynaklanan hükümdem
+dolayı greve katılamazlar.
+
+==== İŞYERİNDE MEYDANA GELEN ZARAR
+
+Grev esnasında greve karar veren sendikanın kusurlu hareketi sonucu grev
+uygulanan işyerinde neden olunan maddi zarardan sendika sorumludur.
+
+Yetkili işçi sendikasının kararı olmadan işçi ya da yöneticilerin bireysel
+eylemlerinden kaynaklanan zararlardan kusuru olan yönetici ya da işçi
+sorumludur.
+
+==== GREVE KATILIMIN DENETLENMESİ
+
+İşyerinde grev ilan etmiş olan işçi sendikası, kanuni bir grev kararına
+uyulmasını sağlamak için güç kullanmaksızın ve tehditte bulunmaksızın kendi
+üyelerinin grev kararına uyup uymadıklarını denetlemek amacıyla, işyerinin
+giriş ve çıkış yerlerine, kendi üyeleri arasından en çok dörder grev gözcüsü
+koyabilir.
