@@ -183,11 +183,24 @@ diğer hakları saklıdır.
 
 === BELİRLİ SÜRELİ İŞ SÖZLEŞMESİ
 
+Belirli süreli işlerde veya belli bir işin tamamlanması veya belirli bir
+olgunun ortaya çıkması gibi objektif koşullara bağlı olarak işveren ile işçi
+arasında yazılı şekilde yapılan iş sözleşmesi belirli süreli iş sözleşmesidir.
+
+Objektif koşul aşağıdakilerden biri olabilir:
+
+* Belirli süreli iş (Örn. sergi, konferans)
+* Belirli bir işin tamamlanması (Örn. inşaatın bitirilmesi, projenin bitirilmesi)
+* Belirli bir olgunun ortaya çıkması (Örn. hastalık, hamilelik, askerlik gibi bir
+nedenle izini olan ve iş sözleşmesi askıya alınan işçinin yerine başka bir
+işçiyle belirli süreli sözleşme yapılması)
+
+Zaman içinde mal ve hizmet üretiminin devam ettiği, faaliyetinin sürekliliği
+esas olan işlerde objektif nedenler ortaya çıkmadıkça kural olarak belirli
+süreli iş sözleşmesiyle işçi çalıştırmak mümkün değildir.
+
 İş ilişkisinin bir süreye bağlı olarak yapılmadığı halde sözleşme belirsiz
-süreli sayılır. Belirli süreli işlerde veya belli bir işin tamamlanması veya
-belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak işveren
-ile işçi arasında yazılı şekilde yapılan iş sözleşmesi belirli süreli iş
-sözleşmesidir.
+süreli sayılır.
 
 Belirli süreli iş sözleşmesi, esaslı bir neden olmadıkça, birden fazla üst üste
 (zincirleme) yapılamaz. Aksi halde iş sözleşmesi başlangıçtan itibaren belirsiz
@@ -312,9 +325,8 @@ yapılmak suretiyle kurulabilir.
 verilen özel istihdam bürosunun bir işverenle geçici işçi sağlama sözleşmesi
 yaparak bir işçisini geçici olarak bu işverene devri ile;
 
-.. Kanunun 13 üncü maddesinin beşinci fıkrası ile 74 üncü maddesinde belirtilen
-hâllerde, işçinin askerlik hizmeti hâlinde ve iş sözleşmesinin askıda kaldığı
-diğer hâllerde,
+.. Analık izni, ebeveyn izni, işçinin askerlik hizmeti ve iş sözleşmesinin
+askıda kaldığı diğer hâllerde,
 .. Mevsimlik tarım işlerinde,
 .. Ev hizmetlerinde,
 .. İşletmenin günlük işlerinden sayılmayan ve aralıklı olarak gördürülen
@@ -334,23 +346,22 @@ sayılan hâllerde ise en fazla dört ay süreyle kurulabilir. Yapılan bu sözl
 yenilenebilir. Geçici işçi çalıştıran işveren, belirtilen sürenin sonunda aynı
 iş için altı ay geçmedikçe yeniden geçici işçi çalıştıramaz.
 
-Kanunun 29 uncu maddesi kapsamında toplu işçi çıkarılan işyerlerinde sekiz ay
-süresince, kamu kurum ve kuruluşlarında ve yer altında maden çıkarılan
-işyerlerinde geçici iş ilişkisi kurulamaz.
+Toplu işçi çıkarılan işyerlerinde sekiz ay süresince, kamu kurum ve
+kuruluşlarında ve yer altında maden çıkarılan işyerlerinde geçici iş ilişkisi
+kurulamaz.
 
-Geçici işçi çalıştıran işveren, grev ve lokavtın uygulanması sırasında
-18/10/2012 tarihli ve 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanununun
-65 inci maddesi hükümleri saklı kalmak kaydıyla geçici iş ilişkisiyle işçi
-çalıştıramaz.
+Geçici işçi çalıştıran işveren, grev ve lokavtın uygulanması sırasında Toplu İş
+Sözleşmesi Kanununun 65 inci maddesi hükümleri uyarınca greve katılamayacak
+işçiler hariç olmak üzere geçici iş ilişkisiyle işçi çalıştıramaz.
 
 (f) bendi kapsamında geçici iş ilişkisi ile çalıştırılan işçi sayısı, işyerinde
 çalıştırılan işçi sayısının dörtte birini geçemez. Ancak, on ve daha az işçi
 çalıştırılan işyerlerinde beş işçiye kadar geçici iş ilişkisi kurulabilir. İşçi
 sayısının tespitinde, kısmi süreli iş sözleşmesine göre çalışanlar, çalışma
 süreleri dikkate alınarak tam süreli çalışmaya dönüştürülür. Geçici işçi
-sağlama sözleşmesi ile çalışan işçi, 30 uncu maddenin uygulanmasında özel
-istihdam bürosu ve geçici işçi çalıştıran işverenin işçi sayısına dâhil
-edilmez.
+sağlama sözleşmesi ile çalışan işçi, engelli ve eski hükümlü çalıştırma
+zorunluluğu bakımından özel istihdam bürosu ve geçici işçi çalıştıran işverenin
+işçi sayısına dâhil edilmez.
 
 Geçici işçi çalıştıran işveren, iş sözleşmesi feshedilen işçisini fesih
 tarihinden itibaren altı ay geçmeden geçici iş ilişkisi kapsamında
@@ -1111,6 +1122,9 @@ azaltılması yahut çıkarmanın işçiler açısından olumsuz etkilerinin en 
 indirilmesi konuları ele alınır. Görüşmelerin sonunda, toplantının yapıldığını
 gösteren bir belge düzenlenir.
 
+CAUTION: Toplu işten çıkarma için sendikanın rızasının alınması söz konusu
+değildir.
+
 Fesih bildirimleri, işverenin toplu işçi çıkarma isteğini bölge müdürlüğüne
 bildirmesinden otuz gün sonra hüküm doğurur. İhbar süreleri bu 30 günün
 bitmesinden sonra işlemeye başlar. Bu hükme uyulmaması feshi geçersiz kılacağı
@@ -1233,6 +1247,10 @@ Taraflar aralarında anlaşarak çalışma koşullarını her zaman değiştireb
 koşullarında esaslı bir değişikliği ancak durumu işçiye yazılı olarak bildirmek
 suretiyle yapabilir. Bu şekle uygun olarak yapılmayan ve işçi tarafından altı
 işgünü içinde yazılı olarak kabul edilmeyen değişiklikler işçiyi bağlamaz.
+
+TIP: *İşyeri uygulaması*, işveren tarafından yasal veya akdi bir zorunluluk
+bulunmaksızın bir menfaatin tek taraflı olarak devamlı şekilde (en az 3 defa)
+ve aynı koşullarla sağlanmasıdır.
 
 İşçi değişiklik önerisini bu süre içinde kabul etmezse, işveren değişikliğin
 geçerli bir nedene dayandığını veya fesih için başka bir geçerli nedenin
@@ -1400,6 +1418,15 @@ isteyebilir.
 
 Belirli süreli sözleşmelerde ise, sözleşme süresine uyulmaması durumunda, bu
 sürelere uyulmuş olsaydı kazanabileceği miktarı, tazminat olarak isteyebilir.
+
+CAUTION: Belirli süreli iş sözleşmesi kanunun aradığı objektif nedenler olmadan
+yapılmışsa belirsiz süreli iş sözleşmesi olarak kabul edilir. Yargıtay'a göre
+belirli süreli iş sözleşmesinin söz konusu olduğu bir davada, uyuşmazlık konusu
+olmasa bile kanunda aranan bu objektif koşullar incelenmelidir. Yapılan
+inceleme sonucunda objektif koşulları taşımadığı gerekçesiyle sözleşme belirsiz
+süreli iş sözleşmesi olarak kabul edilecekse bakiye alacak istenemez. Doktrin
+Yargıtay'ın bu kararını eleştirerek, işçinin lehine olacaksa bakiye alacağın
+istenebilmesi gerektiğini savunmaktadır.
 
 Belirli süreli hizmet sözleşmesinde işçinin hizmet sözleşmesinin sona ermesi
 yüzünden tasarruf ettiği miktar ile başka bir işten elde ettiği veya bilerek
@@ -2028,7 +2055,12 @@ Toplu iş sözleşmesinde iş sözleşmelerine aykırı hükümlerin bulunması 
 ise iş sözleşmesinin işçi yararına olan hükümleri geçerlidir.
 
 Sona eren toplu iş sözleşmesinin iş sözleşmesine ilişkin hükümleri yenisi
-yürürlüğe girinceye kadar iş sözleşmesi hükmü olarak devam eder.
+yürürlüğe girinceye kadar iş sözleşmesi hükmü olarak devam eder. Buna toplu iş
+sözleşmesinin *art etkisi* denir. Ancak, art etkinin söz konusu olabilmesi için
+iş sözleşmesinin toplu iş sözleşmesinin yürürlükte olduğu zaman dilimi
+içerisinde yapılmış olması gerekir. *Sona eren toplu iş sözleşmelerinin art
+etkisi, toplu iş sözleşmesi sona erdikten sonra yapılan iş sözleşmelerini
+etkilemez.*
 
 === TOPLU İŞ SÖZLEŞMESİNDEN YARARLANMA
 
@@ -2758,6 +2790,7 @@ sürenin söz konusu olması gerekir:
 . Kanun gereği verilen ücretsiz doğum veya analık izni süreleri
 . Askerlikte geçen süre
 . Grev ve lokavtta geçen süreler
+. Sigortalı olmaksızın avukatlık stajı yapılan süre
 
 Hizmet borçlanması yapılabilmesi için mutlaka talepte bulunmak gerekir. Talepte
 bulunan sigortalının kendisi olmak zorunda değildir. Sigortalı öldüyse, geride
@@ -2771,3 +2804,16 @@ başvurulabilir.
 
 Hizmet borçlanması yapılan süre, ilk defa sigorta başlangıcının öncesindeyse
 sigorta başlangıç tarihini geri götürür. Ödenen prim kadar ödeme günü sayısı da artar.
+
+=== SİGORTALILIĞIN HÜKMEN TESPİTİ DAVASI
+
+İşvereni tarafından kuruma bildirilmeyen veya eksik bildirilen sigortalılara
+haklarını korumak için sigortalılığın hükmen tespiti davası açma hakkı
+tanınmıştır.
+
+Aylık prim ve hizmet belgesi veya muhtasar ve prim hizmet beyannamesi işveren
+tarafından verilmeyen veya çalıştıkları Kurumca tespit edilemeyen sigortalılar,
+çalıştıklarını hizmetlerinin geçtiği yılın sonundan başlayarak beş yıl
+içerisinde iş mahkemesine başvurarak, alacakları ilâm ile ispatlayabilirlerse,
+bunların mahkeme kararında belirtilen aylık kazanç toplamları ile prim ödeme
+gün sayıları dikkate alınır.
