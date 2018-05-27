@@ -1707,6 +1707,26 @@ ile ilgili kararını Resmi Gazete'de yayımlar. Bu tespite karşı ilgililer,
 kararın yayımından itibaren *on beş gün içinde* dava açabilir. Mahkeme iki ay
 içinde karar verir.
 
+=== SENDİKANIN KURULUŞU
+
+*Sendikanın kurulması herhangi bir izne veya onaya tabi değildir.* Sendika,
+kurucularının sendika merkezinin bulunacağı ilin valiliğine dilekçelerine ekli
+olarak kuruluş tüzüğünü vermeleriyle tüzel kişilik kazanır.
+
+Tüzüğün ya da diğer gerekli belgelerin içerdikleri bilgilerin kanuna
+aykırılığının tespit edilmesi ya da kanunda öngörülen kuruluş şartlarının
+sağlanmadığının anlaşılması halinde ilgili valilik kanuna aykırılık veya
+eksikliklerin bir ay içinde giderilmesini ister. Bu süre içinde kanuna
+aykırılığın veya eksikliklerin giderilmemesi halinde, Bakanlığın veya ilgili
+valiliğin başvurusu üzerine mahkeme, gerekli gördüğü takdirde kurucuları da
+dinleyerek üç iş günü içinde sendikanın faaliyetinin durdurulmasına karar
+verebilir. Mahkeme kanuna aykırılığın veya eksikliğin giderilmesi için altmış
+günü aşmayan bir süre verir.
+
+Tüzük ve belgelerin kanuna uygun hale getirilmesi üzerine mahkeme durdurma
+kararını kaldırır. Verilen süre sonunda tüzük ve belgelerin kanuna uygun hale
+getirilmemesi halinde ise mahkeme kuruluşun kapatılmasına karar verir.
+
 === SENDİKADA KURUCULUK ŞARTLARI
 
 Fiil ehliyetine sahip ve fiilen çalışan gerçek veya tüzel kişiler sendika kurma
@@ -1722,6 +1742,18 @@ gerekir.
 
 Sendika kurucularının kanunda sayılan suçlardan mahkum edilmemiş olması
 gerekir.
+
+Özetle sendika kurucusu olmak için;
+
+. İşçi olmak gerekir.
++
+İş sözleşmesine tabi işçiler ile adi ortaklık, vekalet, eser, taşıma, yayın
+gibi iş görme esasına dayalı sözleşmelere göre çalışan kişiler işçidir.
+. İşçinin fiilen çalışıyor olması gerekir.
+. İşçinin fiil ehliyetine sahip olması gerekir.
+. İşçinin kanunda sayılan suçlardan mahkum olmaması gerekir.
+
+NOTE: Yeni yasa ile vatandaşlık ve okur-yazarlık şartı kaldırılmıştır.
 
 === SENDİKAYA ÜYE OLMAK
 
@@ -1741,10 +1773,17 @@ gün içinde dava açabilir. Mahkemenin kararı kesindir. *Mahkemenin davacı le
 karar vermesi halinde üyelik, red kararının alındığı tarihte kazanılmış
 sayılır*.
 
+=== ÜYELİK AİDATI
+
 Üyelik aidatının miktarı kuruluşların tüzüklerinde belirtilen usul ve esaslara
 göre genel kurul tarafından belirlenir. Üyelik ve dayanışma aidatları, yetkili
 işçi sendikasının işverene yazılı başvurusu üzerine, işçinin ücretinden
 kesilmek suretiyle ilgili sendikaya ödenir.
+
+Ödenmesi gereken aidatı kesmeyen veya kesmesine rağmen bir ay içinde ilgili
+işçi sendikasına ödemeyen işveren, bildirim şartı aranmaksızın aidat miktarını
+bankalarca işletme kredilerine uygulanan en yüksek faiziyle birlikte ödemekle
+yükümlüdür.
 
 === ÜYELİĞİN SONA ERMESİ
 
@@ -1848,6 +1887,23 @@ veya farklı işleme tabi tutulamaz.
 
 İşveren yukarıdaki hükümlere aykırı hareket ettiği takdirde işçinin bir yıllık
 ücretinden az olmamak kaydıyla sendikal tazminata hükmedilir.
+
+Sendikal bir nedenle iş sözleşmesinin feshi halinde işçi, işe iade hükümlerine
+göre dava açma hakkına sahiptir. İş sözleşmesinin sendikal nedenle
+feshedildiğinin tespit edilmesi halinde, işverenin işe başlatması veya
+başlatmaması şartına bağlı olmaksızın sendikal tazminata karar verilir. Ancak
+işçinin işe başlatılmaması halinde, İş Kanunu 21'de belirtilen en az 4 ve en
+çok 8 aylık tazminat ödenmez.
+
+İş sözleşmesinin sendikal nedenle feshedildiği iddiası ile açılacak davada,
+feshin nedenini ispat yükümlülüğü işverene aittir. Feshin işverenin ileri
+sürdüğü nedene dayanmadığını iddia eden işçi, feshin sendikal nedene
+dayandığını ispatla yükümlüdür.
+
+Fesih dışında işverenin sendikal ayrımcılık yaptığı iddiasını işçi ispat
+etmekle yükümlüdür. Ancak işçi sendikal ayrımcılık yapıldığını güçlü biçimde
+gösteren bir durumu ortaya koyduğunda, işveren davranışının nedenini ispat
+etmekle yükümlü olur.
 
 == TOPLU İŞ SÖZLEŞMELERİ
 
