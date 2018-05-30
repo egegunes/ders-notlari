@@ -778,6 +778,16 @@ kararın tebliğini izleyen günden itibaren *7 gün içinde* bir defaya mahsus 
 itibaren yedi gün içinde karar vermek zorundadır. *İtiraz üzerine verilen
 kararlar kesindir*.
 
+NOTE: Danıştay'ın istikrarlı uygulaması uyarınca, iptal kararı verilse ne sonuç
+doğuracak idiyse, yürütmeyi durdurma kararı da kişiyi geçici olarak o haldeki
+duruma ulaştırıp, orada dondurur. Zira yürütmeyi durdurma işlemin doğuracağı
+telafisi güç zararlara engel olmak içindir.
+
+TIP: Yürütmeyi durdurma kararı, kişiye belirli bir statüye girmek bakımından
+imkan sağlamışsa, yürütmeyi durdurmanın kaldırılması bu statüyü etkilemez.
+Ancak, kişi statüye yürütmeyi durdurma kararı ile girmişse, yürütmeyi
+durdurmanın kaldırılması ile statüden çıkar.
+
 İlk derece mahkemesince iptal davasının reddi halinde kanun yoluna başvurulmuşsa
 burada da yürütmenin durdurulması talep edilebilir. Kanun yolunda dosya önüne
 gelen mahkemenin yürütmenin durdurulmasına karar verebilmesi için İYUK 27'de
@@ -1040,6 +1050,13 @@ işlemler iptal edildiğinde eski hükümlerinin tekrar devreye girmesi Danışt
 tarafından kabul edilmektedir*. İmar planı iptal edildiğinde ise o alan plansız
 bir alana dönüşür ve Plansız Alanlar Yönetmeliği hükümlerine tabi olur.
 
+TIP: Danıştay'ın genel uygulamasına göre bir imar planı iptal edildiğinde inşaatlar
+durur. Ancak inşaatların durması, inşaatların hukuka aykırı hale gelmesi
+anlamına gelmez. Zira bu inşaatlar yapılırken yürürlükte olan imar planına
+yapılmıştır. Danıştay bu durumda inşaatın devamına izin verilmeyeceğini ve yeni
+bir imar planı yapılmasının bekleneceğini söylemektedir. Yeni imar planına göre
+inşaatın muhafazası mümkün değilse bitmiş kısım kamulaştırılıp yıkılacaktır.
+
 Bazı iptal kararları kendiliğinden sonuç doğurur, idarenin herhangi bir işlem
 yapmasına gerek kalmaz. Bazı iptal kararının sonucunda ise idare, işlemdeki
 sakatlık sebebini ortadan kaldırmak suretiyle aynı işlemi yeniden tesis
@@ -1297,10 +1314,26 @@ Davanın reddine ilişkin kararlara karşı temyiz ya da istinaf yoluna
 başvurulması halinde, dava konusu işlem hakkında yürütmenin durdurulması kararı
 verilebilmesi 27 nci maddede öngörülen koşulun varlığına bağlıdır.
 
-Temyiz ve istinaf incelemesi sırasında yürütmenin durdurulması
-istemleri hakkında verilen kararlar kesindir.
+Temyiz ve istinaf incelemesi sırasında yürütmenin durdurulması istemleri
+hakkında verilen kararlar kesindir.
+
+IMPORTANT: Bölge idare mahkemelerince istinaf aşamasında verilmiş yürütmenin
+durdurulması kararlarına karşı başka bir yargı merciine başvurulamaz.
 
 Kararın bozulması, kararın yürütülmesini kendiliğinden durdurur.
+
+[CAUTION]
+====
+İşlem, idare mahkemesi tarafından iptal kararı verilerek hukuk aleminden
+kaldırıldıktan sonra Danıştay bu iptal kararını bozarsa, buradaki bozma işlemin
+yürütmesini durdurmaz tam tersine işlemi yürürlüğe sokar. Bu nedenle "_Kararın
+bozulması, kararın yürütülmesini kendiliğinden durdurur._" hükmü (İYUK 52/5)
+uygulama alanı bulmaz.
+
+İlk derece mahkemesi iptal talebini reddetmişse işlem hala yürürlüktedir.
+Danıştay iptal talebinin reddi kararını bozarsa İYUK 52/5 devreye girer ve
+bozma kararı, işlemin yürütülmesini kendiliğinden durdurur.
+====
 
 === KANUN YARARINA TEMYİZ
 
