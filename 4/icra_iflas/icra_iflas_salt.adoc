@@ -2103,9 +2103,7 @@ zamanaşımı uygulanacak, diğer bir görüşe göre ise HMK ihtiyati tedbire d
 . Donatma iştiraki
 . Kanunda sayılan şartlarda komandit ve kollektif şirket ortakları
 
-=== TAKİPLİ İFLAS
-
-==== ADİ TAKİPLİ İFLAS
+=== ADİ TAKİPLİ İFLAS
 
 Adi takipli iflas, genel haciz yoluyla takipteki gibi bir takip talebi ile
 başlar.
@@ -2125,7 +2123,11 @@ bulunduğu yerdeki icra dairesidir.
 Borçlu ile alacaklı yetkili icra dairesini yazılı anlaşma ile tayin etmişlerse,
 o yerin icra dairesi de iflas takibi için yetkili sayılır.
 
-Takip talebinde, hangi takip talebinin seçildiği belirtilmelidir.
+Takip talebinde, hangi takip yolunun seçildiği belirtilmelidir.
+
+İcra dairesi takip talebini aldıktan sonra sadece kanunda düzenlenen şekil
+kuralları karşılanıyor mu diye inceleme yapar. İncelemeden sonra *3 gün* içinde
+borçluya ödeme emri gönderilir ve *7 gün içinde öde* ya da itiraz et denir.
 
 Borçluya ödeme emri gönderildikten sonra borçlunun yapabileceği üç şey vardır:
 
@@ -2133,6 +2135,338 @@ Borçluya ödeme emri gönderildikten sonra borçlunun yapabileceği üç şey v
 . İtiraz ederse, takip durur.
 . Susarsa, ödeme emri kesinleşir.
 
+=== İFLAS DAVASI
+
 Ödeme emri kesinleştikten sonra alacaklı *iflas davası* açacaktır. İflas
 davaları için yetki sözleşmesi yapılamaz ve iflas davası mutlaka *boçlunun
 muamele merkezinin bulunduğu yer ticaret mahkemesinde açılır*.
+
+Kanun koyucu iflas davasının açılması için ödeme emrinin tebliğinden itibaren 1
+yıllık süre öngörmüştür.
+
+İflas davasına bakan mahkeme, her şeyden önce muhafaza tedbiri alacaktır. Bu
+tedbirlere mahkeme re'sen başvurabileceği gibi talep üzerine de başvurabilir.
+Alacaklı talep etmiş olsa bile tedbirin yerindeliği mahkeme tarafından
+incelenir. Muhaza tedbirleri aşağıdakilerden biri veya birkaçı olabilir:
+
+. *Defter tutma:* Alacaklıdan teminat aranmaz.
+. *Taşınmazın devrinin engellenmesi:* Alacaklıdan teminat aranır.
+. *Depoların mühürlenmesi:* Alacaklıdan teminat aranır.
+
+CAUTION: Borçlu ödeme emrine itiraz etmemişse mahkeme alacaklının tedbir talebiyle
+bağlıdır. Tedbirin yerinde olup olmadığını incelemeden muhafaza tedbirine karar
+verecektir. Tedbirler için alacaklıdan teminat da aranmaz.
+
+Borçlu ödeme emrine itiraz etmişse, mahkeme bu itirazı inceleyecektir. İtiraz
+haklı görülürse dava reddedilir, aksi takdirde *alacaklılara ilan yapılarak 15
+gün süre içinde borçlunun ifasını gerektirecek bir durum olmadığını ileri
+sürerek davaya müdahale etmeleri istenir.* 15 gün içinde müdahale edilirse
+mahkeme müdahalenin haklılığını inceleyecektir.
+
+Kimse müdahalede bulunmamış veya müdahale haksız bulunmuş ise *depo kararı*
+aşamasına geçilir. Depo kararı ile borçluya 7 gün süre verilerek bu süre içinde
+borcunu ödemesi ya da mahkeme veznesine depo etmesi söylenir ve ödemediği veya
+depo etmediği takdirde ilk oturumda başka hiçbir şeye bakılmaksızın iflasına
+karar verilir.
+
+TIP: Depo kararı bir ara karardır ve dolayısıyla tali yollara başvurulması
+mümkün değildir.
+
+İflas kararının verilebilmesi için giderlerin alacaklı tarafından peşin olarak
+yatırılması gerekir.
+
+Borçlunun iflasına karar verildiğinde borçlu sıfatına değişerek *müflis* olur.
+İflas kararına kararın verildiği tarih, gün, ay, yıl, saat ve dakika
+belirtilerek yazılır. Borçlunun iflas kararının verildiği andaki malvarlığı
+*iflas masasını* oluşturur.
+
+=== DOĞRUDAN İFLAS (TAKİPSİZ İFLAS)
+
+==== ALACAKLININ TALEBİ İLE
+
+Aşağıdaki hallerde alacaklı takibe gerek olmadan iflasa tabi borçlunun iflasını
+isteyebilir:
+
+. Borçlunun malum yerleşim yeri yoksa
+. Taahhütlerinden kurtulmak amacıyla kaçarsa
+. Alacaklıların haklarını ihlal eden hileli işlemlerde bulunur veya teşebbüs
+ederse
+. Haciz yoluyla takip sırasında mallarını saklarsa
+. Ödemelerini tatil eylemiş bulunursa
++
+NOTE: Yargıtay'a göre ödemelerin tatil durumunda olması için iki kriter vardır:
+Tatil olma durumu *genel* olacak ve *sürekli* olacak. Borçlunun bir ya da
+birkaç borcunu ödeyememesi ödemelerin tatil durumunda olduğu anlamına gelmez.
+Yargıtay'ın kabulü, 6 ay süreli bir ödeme aracı yoksunluğunun ödemelerin tatili
+için yeterli olduğudur.
+. Diğer doğrudan doğruya iflas sebepler mevcutsa ve konkordato tasdik
+edilmemişse
+. Borçlu tebliğ edilen icra emrinin gereklerini yerine getirmezse
+
+==== BORÇLUNUN TALEBİ İLE
+
+İflasa tabi bir borçlu, *aciz halinde* bulunduğunu bildirerek yetkili
+mahkemeden iflasını isteyebilir. Borçlu, bu halde bütün aktif ve pasifi ile
+alacaklılarının isim ve adreslerini gösteren mal beyanını iflas talebine
+eklemek zorundadır. Bu belge mahkemeye ibraz edilmedikçe iflasa karar
+verilemez.
+
+İflasa tabi bir borçlu aleyhine alacaklılardan birinin haciz yolu iile
+takibi neticesinde yapılan haciz, borçlunun malvarlığının yarısının
+elinden çıkmasına sebep olmuşsa ve kalan kısım da muaccel ve vadesi bir
+sene içinde gelecek diğer borçlarını ödemeye yetmiyorsa borçlu *derhal
+aczini bildirerek iflasını istemeye mecburdur*.
+
+NOTE: Sermaye şirketleri bakımından *borca batıklık* tespiti yapılırsa da
+takibe hacet kalmaksızın iflasına karar verilir.
+
+=== İFLASIN BORÇLU BAKIMINDAN SONUÇLARI
+
+İflas kararı inşai bir karardır. İflas kararı ile birlikte borçlunun sıfatı
+değişir ve *müflis* olur.
+
+Müflis sıfatının kazanılmasının iki temel sonucu vardır:
+
+. *İflas masası oluşur.* İflasın açılmasıyla birlikte borçlunun
+*haczedilebilen* bütün malları iflas masasını oluşturur. İflastan sonra
+kazanılan ve *emeğin karşılığı olmayan* mallar da iflas masasına girer.
+. *Müflisin tasarruf yetkisi sınırlanır.* Borçlunun malvarlığının idaresi
+*iflas idaresine* geçer.
+
+Borçlu hakkında iflas açıldığı anda borçlunun mevcut borçları *iflas
+alacağıdır*. İflas idaresi tarafından yapılan işlemlerin giderleri ise *masa
+alacağıdır*.
+
+.Rehinli malların durumu
+****
+Rehinli mallar da iflas masasına girecektir ama rehin hakkı sahibinin hakkı
+saklı kalacaktır.
+
+Rehin hakkı sahibi rehnin paraya çevrilmesi yoluyla takip başlatmış olabilir.
+Takip başlatıldıktan sonra iflas açılmışsa rehinli hak sahibinin iki seçeneği
+vardır:
+
+. Takibe devam edebilir.
+. Takipten vazgeçerek iflas idaresine başvurur ve rehinli malın paraya
+çevrilerek alacağının ödenmesini talep edebilir. Dolayısıyla *rehinli mallar,
+iflas masasına giren diğer mallara göre daha farklı muameleye tabi tutulur ve
+ilk fırsatta satılır*.
+
+Rehin hakkı sahibi takip başlatmamış olabilir. Bu durumda yine iki seçeneği
+vardır:
+
+. *İflas idaresi aleyhine* takip başlatabilir.
+. Yine iflas idaresinden talepte bulunabilir.
+****
+
+CAUTION: İflastan önce borçlunun mallarına haciz koydurmuş olan alacaklının
+hakkı saklı kalmaz ve bu mallar iflas masasına dahil olur. Bunun tek istisnası
+hacizli malın paraya çevrilmiş olmasıdır. Mal paraya çevrilmişse bu para haciz
+koyduran alacaklıya ödenir.
+
+İflas masasına dahil olan bazı mallar sonradan çıkartılabilir:
+
+* *Borçluya tahsil amacıyla devredilmiş senetler*
+* *Başkasına ait mallar*
+* *Mesafeli satışlarda karşılığı borçlu tarafından ödenmemiş mallar*
+
+Borçlu iflas ile kendi başına malvarlığını azaltıcı işlem yapamaz.
+Borçlandırıcı işlem yapabilir ancak iflas idaresinin icazeti olmadan tasarruf
+işlemi geçerli olmaz.
+
+[NOTE]
+====
+Borçlu tarafından düzenlenen poliçe veya bono aşağıdaki şartların varlığı
+halinde borçlunun iflastan sonra tek başına malvarlığını azaltıcı işlem
+yapamayacağı kuralının istisnasını oluşturur:
+
+. Düzenleme tarihi iflasın açılmasından önce olmalıdır.
+. Senedin karşılığı ilandan önce ödenmelidir.
+. Vadesinde ödenmiş olmalıdır.
+. Üçüncü kişi iyi niyetli olmalıdır.
+====
+
+İflasın ilanından sonra borçluya ödeme yapan üçüncü kişi borcundan kurtulmaz.
+Ancak, iflasından ilanından önce ödeme yapmış iyi niyetli üçüncü kişi borcundan
+kurtulur.
+
+İflasın açılmasıyla birlikte borçluya karşı açılmış diğer takipler durur. Bunun
+istisnası rehnin paraya çevrilmmesi yoluyla takiptir. Müflisin başlattığı
+takipler ise iflas idaresinin takdirine bağlı olarak devam edebilir.
+
+Müflisin açmış olduğu davalar ve müflise karşı açılmış davalar bakımından da
+iflas idaresi takdir hakkını kullanacaktır. Alacaklılardan biri dava yetkisini
+talep ederse dava takip yetkisi ona devredilebilir. Davayı kazanırsa önce
+alacaklı alacağını alır ve kalanını iflas masasına bırakır. Hiçbir alacaklı
+istemezse borçlunun davayı takip yetkisi tekrar doğar.
+
+Bazı davaların her halükarda devam edeceği kabul edilmektedir:
+
+. *Acele davalar:* Davanın acele olup olmadığı Yargıtay'ın belirlediği bir
+şeydir. Acele davalar iflas idaresine karşı devam eder.
+
+.. _İşçi alacaklarından doğan davalar_
+.. _Nafaka davaları_
+.. _Zilyetliğin korunmasına ilişkin davalar_
+.. _Ortaklığın giderilmesine ilişkin davalar_
+
+. *Kişisel duruma ve evliliğe ilişkin davalar:* Bu tür davalara iflas idaresi
+değil, müflis devam eder.
+. *Şeref ve haysiyete ilişkin tazminat davaları*
+. *Rehnin paraya çevrilmesine ilişkin davalar*
+
+=== İFLASIN ALACAKLILAR BAKIMINDAN SONUÇLARI
+
+Kural olarak *iflas, bütün alacakları eşit duruma getirir*. Yani iflasla
+birlikte müeccel borçlar muaccel hale gelir. Bunun istisnası ise taşınmaz rehni
+ile teminat altına alınmış alacaklardır. Taşınmaz rehni ile teminat altına
+alınmış alacaklar iflasla birlikte muaccel hale gelmez.
+
+İflasın açılmasının *zamanaşımına bir etkisi olmaz*. Zamanaşımı, alacak iflas
+masasına yazdırıldığında kesilir.
+
+İflasın açılması *faizin işlemesini kesmez*. İflas masasına iflasın açılması
+anına kadar işlemiş faizler yazdırılır. Alacaklı öncelikle anapara + iflasın
+açılmasına kadar işlemiş olan faizi alacaktır. Tasfiyeden sonra para kalırsa
+iflasın açılmasından sonraki işlemiş faizler (*bakiye alacak*) ödenecektir.
+
+Konusu *para olmayan alacaklar*, iflasın açılması ile para alacağına dönüşür.
+Bu alacakların paraya çevirilmesi alacaklı tarafından yapılır. *İflas idaresi
+isterse konusu para olmayan alacağı ifa edebilir.*
+
+=== İFLASIN SÖZLEŞMELER BAKIMINDAN SONUÇLARI
+
+==== SATICININ İFLASI
+
+Satış sözleşmesi yapıldıktan sonra satıcı iflas ederse;
+
+* *Alıcı borcunu ifa etmiş ama satıcı ifa etmemiş ise:* Alıcı alacağını paraya
+çevirerek iflas masasına yazdırır ve iflas idaresinden talep eder. Bu bir iflas
+alacağıdır. İflas idaresi isterse sözleşmenin tarafı olabilir ve müflis
+satıcının borcunu ifa edebilir. Bu durumda söz konusu alacak masa alacağına
+dönüşür.
+* *Alıcı borcunu ifa etmemiş ama satıcı ifa etmiş ise:* Müflisin alacakları
+ifasın açılması ile muaccel hale gelmez. Alıcı borcunu vadesi geldiğinde iflas
+idaresine öder.
+* *Alıcı da satıcı borcunu ifa etmemiş ise:* Alıcı borcunu yerine getirmek için
+iflas idaresinden belirli bir süre içinde teminat göstermesini isteyebilir.
+İflas idaresi bu süre içerisinde teminat göstermezse alıcı sözleşmeden
+dönebilir.
+
+==== ALICININ İFLASI
+
+* *Alıcı borcunu ifa etmiş ama satıcı ifa etmemiş ise:* Satıcının borcu muaccel
+olduğunda iflas idaresi bunu talep eder ve paraya çevirir.
+* *Alıcı borcunu ifa etmemiş ama satıcı ifa etmiş ise:* Alıcının borcu muaccel
+hale gelir. Bu bir iflas alacağıdır.
+* *Alıcı da satıcı borcunu ifa etmemiş ise:* Satıcı borcunu ödemek için belirli
+süre içerisinde teminat gösterilmesini isteyebilir. İflas idaresi bu süre
+içerisinde teminat gösterilmezse satıcı sözleşmeden dönebilir.
+
+=== İFLASIN TASFİYESİ
+
+İflas kararı verildikten sonra ticaret mahkemesi bu kararı *iflas dairesine*
+gönderir. İflas dairesi öncelikle gerekli yerlere (ticaret siciline, odalara
+vs.) bildirim yapar. Ardından borçlunun mallarının defteri tutulacaktır. Defter
+tutmanın amacı tasfiye türünü belirlemektir.
+
+İflas dairesi ayrıca muhafaza tedbirlerini almaya da yetkilidir:
+
+_İflas dairesi; müflisin mağazalarını, eşya depolarını,
+fabrikalarını, imalathanelerini ve üretime yönelik sair yerlerini, perakende
+satış dükkanlarını, masa hakkında faydalı olacağı anlaşılırsa ilk
+alacaklılar toplantısına kadar kontrolü altında idare eder; aksi takdirde bu
+yerleri kapatıp mühürler._
+
+_Daire, paraları, kıymetli evrakı, ticari ve ev idaresine ait defterleri
+ve sair herhangi önemli evrakı muhafaza altına alır. Başka malları defter
+tutuluncaya kadar mühürler. Daire müflisin kullandığı yerler haricinde bulunan
+eşyayı da muhafaza altına alır._
+
+Defter tutulduktan sonra tasfiye türü 2 ay içinde belirlenir.
+
+TIP: Eskiden bu 3 aydı ama 7101 sayılı kanunla 2 ay yapıldı.
+
+İflas dairesinin tasfiyenin türü bakımından üç seçeneği vardır:
+
+. *Tasfiyenin tatili:* Borçlunun *hiç malı yoksa* tasfiye tatil edilir ve bu
+durum ilan edilir. Bu ilandan itibaren *30 gün içerisinde* bir alacaklı çıkıp
+tasfiye giderlerini yatırırsa adi tasfiye yapılır.
+. *Basit tasfiye:* Borçlunun tespit edilen malları adi tasfiye giderlerini
+karşılamıyorsa basit tasfiye yapılır. Basit tasfiyede iflas idaresi yoktur,
+bütün süreci iflas dairesi yürütür. Burada da ilan yapılır ve ilandan itibaren
+*30 gün içerisinde* adi tasfiyenin giderlerini yatıran olursa adi tasfiye
+yapılır.
++
+Yukarıdaki durum dışında adi tasfiyeye başlanıp 6 ay içinde bitirilemezse de
+basit tasfiye uygulanır.
+. *Adi tasfiye*
+
+=== ADİ TASFİYE
+
+Öncelikle adi tasfiye ilan edilir. İlanda aşağıdaki hususlar bildirilir:
+
+. Alacaklılar ve üçüncü kişilere alacaklarını ve istihkak iddialarını iflas
+dairesine bildirmeleri için 1 aylık süre verilir. Bu bir aylık süre içerisinde
+alacağını kaydettirmeyen alacaklılar, daha sonra kaydettirmek isterlerse sıra
+cetvelinin düzenlenip ilan edilmesi giderlerine katlanmak zorunda kalacaktır.
+. Üçüncü kişilere iflas masasına dahil malların teslimi için 1 aylık süre
+verilir.
+. Birinci alacaklılar toplantısının tarihi ve yeri bildirilir. Toplantı ilandan
+itibaren 10 gün içinde yapılır.
+
+==== BİRİNCİ ALACAKLILAR TOPLANTISI
+
+Alacağını kaydettiren her kişi birinci alacaklılar toplantısına katılabilir.
+
+Birinci alacaklılar toplantısında öncelikle toplantıyı yönetmek üzere bir iflas
+bürosu oluşturulur. İflas bürosu, iflas dairesi müdürü ile alacaklı olduğu
+iddiası daha kuvvetli olan alacaklılardan oluşur.
+
+Toplantı yeter sayısı, *alacak tutarının dörtte biridir*. Ancak, toplantıya
+katılan sayısı *5'ten az ise*, toplantı yeter sayısı *alacak tutarının
+yarısıdır*.
+
+Karar yeter sayısı ise katılanların çoğunluğudur. Burada da alacak çoğunluğu
+aranır.
+
+Toplantı yapılamaz veya karar alınamazsa iflas dairesi süreci ikinci
+alacaklılar toplantısına kadar idare eder.
+
+Birinci alacaklılar toplantısının temel iki görevi vardır:
+
+. *Acele karar almak*
+. *İflas idaresine aday göstermek:* İflas idaresi adayları birinci alacaklılar
+tarafından 6 tane gösterilir ve icra mahkemesi tarafından 3 kişi seçilir.
+
+Birinci alacaklılar toplantısında alınan kararlara karşı *7 gün içinde* şikayet
+yoluna başvurulabilir.
+
+==== İFLAS İDARESİ
+
+Birinci alacaklılar toplantısı tarafından belirlenen 6 adaydan 3'ü icra
+mahkemesi tarafından seçilerek iflas idaresi oluşturulur. İflas idaresine
+herkes seçilebilir, alacaklı olmak koşulu yoktur.
+
+Üçüncü şahıslar tarafından istihkak iddiasında bulunulan eşyanın kendilerine
+verilip verilmeyeceğini iflas idaresi kararlaştırır.
+
+İflas idaresi; istihkak iddasını reddederse, üçüncü şahsa icra mahkemesinde
+istihkak davası açması için yedi günlük bir süre verir ve tebliğ eder. Bu
+süreyi geçiren üçüncü kişi, masaya karşı istihkak iddasından vazgeçmiş sayılır.
+
+İcra mahkemesi, gerekli görürse istihkak davacısından masanın muhtemel zararına
+karşı teminat isteyebilir.
+
+İdare, alacak ve istihkak iddialarının kaydı için belirlenen süre bittikten
+sonra alacak iddialarını denetler. Her alacak için müflisin beyanına
+başvurulmak zorundadır ama idare müflisin beyanı ile bağlı değildir.
+
+Alacakların denetleme süresi 2 aydır (eskiden 3 aydı ama 7101 sayılı kanunla
+değişti) ve bir kereliğine 2 ay daha uzatılabilir.
+
+Alacakların denetlenmesi ile birlikte bir sıra cetveli hazırlanır ve alacaklar
+kaydedilir. Ardından sıra cetveli ilan edilir.
+
+Sıra cetvelinin ilanı ile birlikte ilandan itibaren en az 20 gün sonra yapılmak
+üzere ikinci alacaklılar toplantısının tarihi ve yeri de ilan edilir.
