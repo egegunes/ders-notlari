@@ -892,9 +892,6 @@ gerekenin çok üstünde olduğu için o evin satılıp, ev alınacak bir miktar
 paranın borçluya verilmesi gerekir.
 . Öğrenci bursları.
 
-Medeni Kanunun 807 nci maddesi hükmü saklıdır. 2, 3, 4, 5, 7 ve 12 numaralı
-bendlerdeki istisna, borcun bu eşya bedelinden doğmaması haline munhasırdır.
-
 (2), (4), (7) ve (12) numaralı bentlerde sayılan malların kıymetinin fazla
 olması durumunda, bedelinden haline münasip bir kısmı, ihtiyacını
 karşılayabilmesi amacıyla borçluya bırakılmak üzere haczedilerek satılır.
@@ -2139,8 +2136,9 @@ yapmadıysa, kararı veren mahkemeden
 *Borçlunun itiraz edebilmesi için ihtiyati haciz yargılamasında dinlenilmemiş
 olması gerekir.*
 
-İtiraz, kararı veren mahkemeye, haczin icrası veya haciz tutanağının
-tebliğinden itibaren yedi gün içinde yapılır.
+İtiraz, kararı veren mahkemeye, haczin borçlunun huzurunda yapılan hallerde
+haczin tatbiki, aksi halde haciz tutanağının tebliğinden itibaren yedi gün
+içinde yapılır.
 
 Borçlu;
 
@@ -2153,7 +2151,8 @@ Borçlu;
 . Sebeplere itiraz edebilir.
 . Teminata itiraz edebilir.
 
-*İtiraz üzerine verilen karara karşı istinaf yolu açıktır.*
+*İtiraz üzerine verilen karara karşı istinaf yolu açıktır.* Ancak istinafa
+başvurulmuş olması ihtiyati haciz kararının icrasını durdurmaz.
 
 ==== TEMİNAT
 
@@ -2572,8 +2571,17 @@ Bir davanın veya takibin devam ettiği müddet hesaba katılmaz.
 * *Üçüncü sıra:* Özel kanunlarda imtiyazlı olduğu belirtilen alacaklar
 * *Dördüncü sıra:* İmtiyazlı olmayan diğer bütün alacaklar
 
-Sıra cetveli ilan edilir. Sıra cetveline karşı koyabilmek için itiraz ya da
-şikayet yoluna başvurulur.
+Sıra cetveli ilan edilir. Sıra cetveline itiraz edenler, cetvelin ilanından
+itibaren *on beş gün* içinde iflasa karar verilen yerdeki ticaret mahkemesinde
+dava açmaya mecburdurlar. İtiraz eden, talebinin haksız olarak ret veya tenzil
+edildiğini iddia ederse dava masaya karşı açılır. İtiraz eden başkasının kabul
+edilen alacağına veya ona verilen sıraya itiraz ediyorsa davasını o alacaklı
+aleyhine açar.
+
+Bir alacağın terkini hakkında açılan dava kazanılırsa, bu alacağı tahsis edilen
+hisse dava masrafları da dahil olduğu halde sıraya bakılmaksızın alacağı
+nispetinde itiraz edene verilir ve artanı da diğer alacaklılara sıra cetveline
+göre dağıtılır.
 
 Sıra cetvelinin esasına veya başka bir alacaklının sırasın karşı koymak için
 itiraz yoluna, alacaklı kendi sırasına karşı koymak için şikayet yoluna
