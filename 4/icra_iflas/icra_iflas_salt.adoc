@@ -218,6 +218,10 @@ hakkına sahiptir. Yabancı para borcunu dilerse vade tarihindeki dilerse fiili
 Takip talebi icra dairesine yazılı veya sözlü olarak ya da elektronik ortamda
 yapılır.
 
+Para veya teminat borcu için takip hususunda HMK'nın yetkiye dair hükümleri
+kıyas yolu ile tatbik olunur. Takibe esas olan akdin yapıldığı icra dairesi de
+takibe yetkilidir.
+
 Talepte şunlar gösterilir:
 
 . Alacaklının ve varsa kanuni temsilcisinin ve vekilinin adı, soyadı; alacaklı
@@ -249,6 +253,10 @@ Yabancı para alacaklısı takip yaparken takip talebinde alacağını Türk par
 kuru esas alınarak yapılır. Buna rağmen alacaklının para alacağını fiili ödeme
 tarihindeki kur üzerinden ya da vade tarihindeki kur üzerinde talep etmesi de
 mümkündür. Ancak bunun takip talebinde özellikle belirtilmiş olması gerekir.
+
+NOTE: Yabancı para üzerinden takip yapıldığına ilişkin şikayet süreye tabi
+değildir, Yargıtay içtihatlarına göre kamu düzenine ilişkin olduğundan süresiz
+şikayet edilebilir.
 
 Takip masrafları *borçluya* aittir. Takip talebinde bulunan alacaklıdan *maktu
 başvurma harcı*, *nispi peşin harç*, *ödeme emrinin tebliği için gerekli
@@ -421,7 +429,8 @@ olması aranırken, borçlunun tazminat ile sorumlu olması için haksız çıkm
 yeterlidir.
 
 NOTE: %20 tazminatın alacaklı veya borçlu aleyhine hükmedilebilmesi için talep
-zorunludur. Talep olmadan mahkeme kendiliğinden böyle bir tazminata hükmedemez.
+zorunludur. *Talep olmadan mahkeme kendiliğinden böyle bir tazminata
+hükmedemez*.
 
 Borçlu aleyhine hükmedilen tazminata *inkar tazminatı*, alacaklı aleyhine
 hükmedilen tazminata *kötüniyet tazminatı* denir.
@@ -1366,7 +1375,7 @@ verilirse,
 . 113 üncü maddenin ikinci fıkrasında gösterilen haller bulunursa,
 . Mahcuz malın tahmin edilen değeri 3.230 lirayı geçmezse.
 
-== TAŞINMAZ MALLARIN SATILMASI
+=== TAŞINMAZ MALLARIN SATIŞI
 
 Taşınmazlar, satış talebinden itibaren 3 ay içinde icra dairesi tarafından açık
 artırma ile satılır. 3 aylık bu süre düzenleyici süredir.
@@ -1397,7 +1406,7 @@ yazdırabilir. Bu istihkak prosedürü içinde çözülecektir.
 Bir kişinin artırmaya katılıp pey ileri sürebilmesi için, taşınmazın değerinin
 %20'si oranında teminat göstermesi gerekmektedir.
 
-=== KIYMET TAKDİRİ
+==== KIYMET TAKDİRİ
 
 Kıymet takdirinin tebliğ edildiği ilgililer, raporun tebliğinden itibaren *yedi
 gün içinde* raporu düzenleten icra dairesinin bulunduğu icra mahkemesinde
@@ -1416,7 +1425,7 @@ Kıymet takdirine ilişkin şikayet yetkisiz icra mahkemesine yapılırsa, icra
 mahkemesi evrak üzerinde inceleme yaparak başvuru tarihinden itibaren en geç on
 gün içinde yetkisizlik kararı verir. Mahkemenin verdiği bu karar kesindir.
 
-=== İHALE
+==== İHALE
 
 Birinci ve ikinci ihale icra memuru tarafından, ilanda belirlenen yer, gün ve
 saatte, elektronik ortamda verilen en yüksek teklif üzerinden başlatılır.
@@ -1429,13 +1438,17 @@ satış isteyenin alacağına rüçhanı olan diğer alacaklar o malla temin edi
 bu suretle rüçhanı olan alacakların toplamından fazla olması ve bundan başka
 paraya çevirme ve paraların paylaştırılması masraflarını aşması gerekir.
 
+NOTE: Satışı bizzat alacağı ipotek ile teminat altına alınmış alacaklı istemiş
+ise, bir kimse kendine karşı rüçhanlı olamayacağı için, satışı isteyen
+alacaklının alacağının karşılanması gerekmez.
+
 Birinci ihalede alıcı çıkmaz veya aranan miktara ulaşılmazsa satış icra memuru
 tarafından geri bırakılır.
 
 İkinci ihalede alıcı çıkmazsa veya aranan miktara ulaşılmazsa satış talebi
 düşer.
 
-=== ÖDEME USULÜ
+==== ÖDEME USULÜ
 
 Satış bedeli peşin ödenir. Anca icra memuru alıcıya on günü geçmemek üzere bir
 süre verebilir.
@@ -1475,7 +1488,7 @@ TIP: Ancak birinci artırma sonunda ihale yapılmış ve alıcı ödememişse
 yukarıdaki usul işletilip yeniden artırma yapılabilir. Aynı taşınmaz için üç
 kere artırma yapılamaz.
 
-=== İHALENİN FESHİ
+==== İHALENİN FESHİ
 
 İcra dairesi tarafından taşınmaz kendisine ihale edilen alıcı o taşınmazın
 mülkiyetini iktisap etmiş olur. İhale kesinleşinceye kadar taşınmazın ne
@@ -1525,7 +1538,7 @@ Mahkeme ihalenin feshi talebini kabul ederse:
 . İhale bedeli alıcıya iade edilir.
 . _İhalenin feshi süresince icra dairesi ihale bedelini nemalandırır._
 
-=== TAŞINMAZIN TESCİLİ
+==== TAŞINMAZIN TESCİLİ
 
 Taşınmaz alıcıya ihale edilip bedeli alındıktan sonra alıcı namına tescil
 edilmesi için tapuya müzekkere yazılır.
@@ -1535,6 +1548,41 @@ bir belge ile belgelenmiş bir akte dayanmayarak başkaları tarafından işgal
 edilmekte ise onbeş gün içinde tahliyesi için borçluya veya işgal edene bir
 tehliye emri tebliğ edilir. Bu müddet içinde tahliye edilmezse zorla çıkarılıp
 taşınmaz alıcıya teslim olunur.
+
+<<<
+
+=== HAZIRLIK AŞAMALARININ KARŞILAŞTIRILMASI
+
+[%header,cols=2*]
+|===
+| *Taşınmazların paraya çevrilmesinde hazırlık*
+| *Taşınırların paraya çevrilmesinde hazırlık*
+
+| Mükellefiyetler listesi hazırlanır.
+| Mükellefiyetler listesi hazırlanmaz.
+
+| Açık artırma ilanı artırma tarihinden en az 1 ay önce yapılır.
+| Açık artırma ilanı için süre şartı yoktur.
+
+| İlanda artırma şartnamesi ayrıntılı olarak yer alır.
+| İlanda artırma şartnamesi ayrıntılı olarak yer almaz.
+
+| Açık artırma ilanının birer sureti, borçlu, alacaklı ve ilgililere ayrıca
+tebliğ edilir.
+| Açık artırma ilanının borçlu, alacaklı ve ilgililere tebliği icra müdürünün
+takdirindedir, zorunlu değildir.
+
+| Satış isteme süresi kesin hacizden itibaren 1 yıldır.
+| Satış isteme süresi kesin hacizden itibaren 6 aydır.
+
+| Satış talebinden itibaren 3 ay içinde satış yapılır.
+| Satış talebinden itibaren 2 ay içinde satış yapılır.
+
+| Yalnız artırma yoluyla satış mümkündür. İflas yoluyla takipte alacaklıların
+anlaşması ile pazarlık yoluyla satış yapılabilir.
+| Artırma yoluyla veya İİK 119'daki şartlar mevcutsa pazarlık yoluyla satış
+yapılabilir.
+|===
 
 == PARALARIN PAYLAŞTIRILMASI
 
@@ -1660,6 +1708,10 @@ Elinde kambiyo senedi olan bir alacaklı;
 . Genel haciz yoluyla takip yapabilir.
 . (Elinde bir ilam varsa) ilamlı takip yapabilir.
 . Tacir ise iflas yoluyla takip yapabilir.
+
+IMPORTANT: Alacağı çek, poliçe veya bonoya dayanan alacaklı, alacak rehinle
+temin edilmiş olsa bile kambiyo senetlerine özgü haciz yoluyla takibe
+başvurabilir.
 
 Takibin başlatılacağı icra dairesi, İcra Kanunun yollamasıyla HMK'daki yetkiye
 kurallara göre belirlenir.
@@ -1875,6 +1927,11 @@ hapsine mahkum edilir.
 şahıslardan olsa bile, alacaklı yalnız rehnin paraya çevrilmesi yoluyla takip
 yapabilir.*
 
+TIP: Doktrinde bir görüşe göre önce rehne başvuru kuralı emredici nitelikte
+değildir ve tarafların anlaşmasıyla bertaraf edilebilir. Diğer bir görüş ise
+emredici nitelikte olduğunu kabul etmektedir. Yargıtay'ın yerleşik bir görüşü
+yoktur.
+
 Ancak rehnin tutarı borcu ödemeye yetmezse alacaklı kalan alacağını iflas veya
 haciz yoluyla takip edebilir.
 
@@ -1933,6 +1990,8 @@ TIP: Doğmuş bir alacak varsa *anapara ipoteği*, doğmamış bir alacak varsa
 tablosu kayıtsız şartsız para borcu ikrarı içeriyordur. Dolayısıyla
 anapara ipoteğinde ilamlı icraya, limit ipoteğinde ilamsız icraya gidilir.
 
+Anapara ipoteği, takip masrafları ile faizi de kapsar.
+
 İcra memuru, borçluya ve varsa taşınmaz sahibi üçüncü şahsa aşağıdaki
 kayıtlara uygun olmak üzere birer ödeme emri gönderir:
 
@@ -1941,7 +2000,26 @@ kayıtlara uygun olmak üzere birer ödeme emri gönderir:
 alacaklının taşınmazın satışını isteyebileceği bildirilir.
 
 Borçlu veya üçüncü şahıs ödeme emrinin tebliğinden itibaren yedi gün içinde
-itirazda bulunabilirler. *Ancak, rehin hakkı itiraz konusu yapılamaz.*
+itirazda bulunabilirler. *Ancak, ipotek hakkı itiraz konusu yapılamaz.* MK 992
+uyarınca tapuda yer alan kayıtlar, ipotek hakkı sahibi alacaklı lehine karine
+oluşturur. Tescil edilmiş bir ipotek hakkının varlığına karşı ancak, MK 992/2
+uyarınca *ipoteğin iptali* (resmi senedin sahteliği) davası açılabilir.
+İpoteğin iptali için açılacak bu davada menfi tespit davalarına ilişkin İİK 72
+hükmü kıyasen uygulanır.
+
+.İİK 72 - Menfi tespit ve istirdat davaları
+****
+İcra takibinden önce açılan menfi tespit davasına bakan mahkeme, talep
+üzerine alacağın yüzde on beşinden aşağı olmamak üzere gösterilecek
+teminat karşılığında, icra takibinin durdurulması hakkında ihtiyati tedbir
+kararı verebilir.
+
+İcra takibinden sonra açılan menfi tespit davasında ihtiyati tedbir yolu ile
+takibin durdurulmasına karar verilemez. Ancak, borçlu gecikmeden doğan
+zararları karşılamak ve alacağın yüzde on beşinden aşağı olmamak üzere
+göstereceği teminat karşılığında, mahkemeden ihtiyati tedbir yoluyla icra
+veznesindeki paranın alacaklıya verilmemesini isteyebilir.
+****
 
 === SATIŞ TALEBİ
 
@@ -1998,17 +2076,17 @@ verir.
 muaccel olduğunu yaklaşık olarak ispat edecektir. Vadesi gelmemiş ise ihtiyati
 haciz sebeplerinin varlığını yaklaşık olarak ispat edecektir.
 
-*Mahkeme iki tarafı dinleyip dinlememekte serbesttir.*
-
-İhtiyati haciz talebinin reddine karşı istinaf yolu açık fakat temyiz yolu
-kapalıdır.
-
 İhtiyati haciz talebi kabul edilirse alacaklının alacağını dayandırdığı hususa
 göre teminat alınır:
 
 * Alacaklı ilama dayanıyorsa teminat aranmaz.
 * İlam niteliğinde belgeye dayanıyorsa teminat aranması hakimin takdiridir.
 * Başka bir belgeye dayanıyorsa alacaklı teminat göstermek zorundadır.
+
+*Mahkeme iki tarafı dinleyip dinlememekte serbesttir.*
+
+İhtiyati haciz talebinin reddine karşı istinaf yolu açık fakat temyiz yolu
+kapalıdır.
 
 === TAMAMLAYICI MERASİM
 
@@ -2470,3 +2548,277 @@ kaydedilir. Ardından sıra cetveli ilan edilir.
 
 Sıra cetvelinin ilanı ile birlikte ilandan itibaren en az 20 gün sonra yapılmak
 üzere ikinci alacaklılar toplantısının tarihi ve yeri de ilan edilir.
+
+==== SIRA CETVELİ
+
+Alacaklar, sıra cetvelinde aşağıdaki esaslara göre sıralanır:
+
+* *Birinci sıra*
+
+.. İşçilerin, iş ilişkisine dayanan ve iflasın açılmasından önceki bir yıl
+içinde tahakkuk etmiş ihbar ve kıdem tazminatları dahil alacakları ile iflas
+nedeniyle iş ilişkisinin sona ermesi üzerine hak etmiş oldukları ihbar ve
+kıdem tazminatları
+.. İşverenlerin, işçiler için yardım sandıkları veya sair yardım teşkilatı
+kurulması veya bunların yaşatılması maksadıyla meydana gelmiş ve tüzel kişilik
+kazanmış bulunan tesislere veya derneklere olan borçları
+.. İflasın açılmasından önceki son bir yıl içinde tahakkuk etmiş olan ve nakden
+ifası gereken aile hukukundan doğan her türlü nafaka alacakları
+* *İkinci sıra:* Velayet ve vesayet nedeniyle malları borçlunun idaresine
+bırakılan kimselerin bu ilişki nedeniyle doğmuş olan tüm alacakları; Ancak bu
+alacaklar, iflas, vesayet veya velayetin devam ettiği müddet ya da bunların
+bitmesini takip eden yıl içinde açılırsa imtiyazlı alacak olarak kabul olunur.
+Bir davanın veya takibin devam ettiği müddet hesaba katılmaz.
+* *Üçüncü sıra:* Özel kanunlarda imtiyazlı olduğu belirtilen alacaklar
+* *Dördüncü sıra:* İmtiyazlı olmayan diğer bütün alacaklar
+
+Sıra cetveli ilan edilir. Sıra cetveline karşı koyabilmek için itiraz ya da
+şikayet yoluna başvurulur.
+
+Sıra cetvelinin esasına veya başka bir alacaklının sırasın karşı koymak için
+itiraz yoluna, alacaklı kendi sırasına karşı koymak için şikayet yoluna
+başvuracaktır.
+
+İflas idaresinin hazırladığı sıra cetvelinde olmayan alacaklı iflas idaresine
+karşı *kayıt kabul davası* açacaktır. Sıra cetvelinde olmaması gereken bir
+kişinin bulunması halinde ise *kayıttan silme davası* açılır.
+
+NOTE: Kayıt kabul davasında mahkeme öncelikle davacının ikinci alacaklılar
+toplantısına katılıp katılamayacağın belirleyecektir.
+
+==== İKİNCİ ALACAKLILAR TOPLANTISI
+
+İkinci alacaklılar toplantısına sadece sıra cetvelinde yer alan alacaklılar ve
+kayıt kabul davası açılması üzerine mahkemenin izin verdiği kişiler
+katılabilir.
+
+İkinci alacaklılar toplantısının temel görevleri:
+
+. *Davalar:* Müflisin taraf olduğu davalar ikinci alacaklılar toplantısına
+kadar durur. Bu davalara devam edilip edilmeyeceği ikinci alacaklılar
+toplantısında belirlenir.
+. *Satış usulü:* Masa mallarının hangi usulle paraya çevrileceği belirlenir.
+
+==== PAYLAŞTIRMA
+
+İkinci alacaklılar toplantısından sonra bir pay cetveli düzenlenir ve hangi
+alacaklının ne kadar alacağı belirlenir. Ardından mallar satılır ve elde edilen
+para pay cetveline göre dağıtılır.
+
+==== İFLASIN KAPANMASI
+
+İflası kapatacak merci, asliye ticaret mahkemesidir.
+
+İflas idaresi tasfiye sonunda bir rapor hazırlayacaktır. Ticaret mahkemesi de
+bu rapora göre tasfiyenin hukuka uygun olup olmadığını inceleyecektir. Herhangi
+bir hukuka aykırılık tespit etmezse de iflası kapatacaktır.
+
+İflasın kapatılmasıyla iflasın açılmasının sonuçları ortadan kalkar. Ancak
+müflis sıfatı sona ermez. Müflis sıfatından kurtulmak için borçlu bütün
+alacaklıların alacaklarını ödemeli ve mahkemede talepte bulunmalıdır.
+
+== KONKORDATO
+
+Konkordato üçe ayrılır:
+
+. *Vade konkordatosu:* Borçlu alacaklılardan borcunu ödeyebilmek için süre ister.
+. *Tenzilat konkordatosu:* Borçlu alacaklılardan borcunu zamanında ödemek
+karşılığında indirim ister.
+. *Karma konkordato:* Borçlu hem süre hem indirim ister.
+
+=== KONKORDATO TALEBİ
+
+Borçlarını, *vadesi geldiği halde ödeyemeyen veya vadesinde ödeyememe tehlikesi
+altında bulunan herhangi bir borçlu*, vade verilmek veya tenzilat yapılmak
+suretiyle borçlarını ödeyebilmek veya muhtemel bir iflastan kurtulmak için
+konkordato talep edebilir.
+
+*İflas talebinde bulunabilecek her alacaklı*, gerekçeli bir dilekçeyle, borçlu
+hakkında konkordato işlemlerinin başlatılmasını talep edebilir.
+
+Yetkili mahkeme borçlu iflasa tabi ise muamele merkezinin bulunduğu yer ticaret
+mahkemesi, iflasa tabi değil ise yerleşim yerindeki asliye ticaret
+mahkemesidir.
+
+Borçlu konkordato talebine aşağıdaki belgeleri ekler:
+
+.. Borçlunun borçlarını hangi oranda veya vadede ödeyeceğini, bu kapsamda
+alacaklıların alacaklarından hangi oranda vazgeçmiş olacaklarını, ödemelerin
+yapılması için borçlunun mevcut mallarını satıp satmayacağını, borçlunun
+faaliyetine devam edebilmesi ve alacaklılara ödemelerini yapabilmesi
+için gerekli mali kaynağın sermaye artırımı veye kredi temini yoluyla ya
+da başka bir yöntem kullanarak sağlanacağını gösteren *konkordato ön
+projesi*
+.. Borçlunun malvarlığının durumunu gösterir belgeler
+.. Alacaklıları, alacak miktarlarını ve alacaklıların imtiyaz durumunu gösteren
+liste
+.. Konkordata ön prjesinde yer alan teklife göre alacaklıların eline
+geçmesi öngörülen miktar ile borçlunun iflası halinde alacaklıların eline
+geçebilecek muhtemel mikarı karşılaştırmalı olarak gösteren tablo
+
+=== GEÇİCİ MÜHLET
+
+Yukarıdaki belgeler ile konkordato talebi mahkemeye iletildiğinde mahkeme
+sadece belgelerin eksiksiz olarak sunulup sunulmadığını inceleyecektir.
+Belgeler eksiksiz ise *geçici mühlet* kararını verecektir.
+
+Mahkeme geçici mühlet kararıyla birlikte konkordatonun başarıya
+ulaşmasının mümkün olup olmadığının yakından incelenmesi amacıyla bir
+*geçici konkordato komiseri* görevlendirir.
+
+Geçici mühlet 3 aydır. Mahkeme bu üç aylık süre dolmadan borçlunun veya
+geçici komiserin yapacağı talep üzerine geçici mühleti en fazla iki ay
+daha uzatabilir, uzatmayı borçlu talep etmişse geçici komiserin de görüşü
+alınır. Geçici mühletin toplam süresi beş ayı geçemez.
+
+*Geçici mühlet, kesin mühletin sonuçlarını doğurur.*
+
+Geçici mühlet kararı, mahkemece ilan edilir. İlanda alacaklıların, ilandan
+itibaren *7 günlük süre içinde* dilekçeyle itiraz ederek konkordato mühleti
+verilmesi gerektiren bir hal bulunmadığını delilleriyle birlikte
+ileri sürebilecekleri ve bu çerçevede mahkemeden konkordato talebinin
+reddini isteyebilecekleri belirtilir.
+
+=== KESİN MÜHLET
+
+Mahkeme, kesin mühlet hakkındaki kararını geçici mühlet içinde verir.
+
+Kesin mühlet hakkında bir karar verilebilmesi için, mahkeme borçluyu ve varsa
+konkordato talep eden alacaklıyı duruşmaya davet eder.
+
+Geçici komiser, duruşmadan önce yazılı raporunu sunar ve mahkemece gerekli
+görülürse, beyanı alınmak üzere duruşmada hazır bulunur.
+
+Konkordatonun başarıya ulaşmasının mümkün olduğunun anlaşılması halinde
+borçluya *bir yıllık kesin mühlet* verilir. Bu kararla birlikte mahkeme,
+yeni bir görevlendirme yapılmasını gerektiren bir durum olmadığı takdirde
+geçici komiserin görevine devam etmesine karar verir.
+
+Kesin mühlet talebinin kabulü ile mühletin kaldırılması talebinin reddine
+ilişkin kararlara karşı kanun yoluna başvurulamaz.
+
+Kesin mühlet kararı ile birlikte borçlu aleyhine takipler durur, ihtiyati
+tedbir ve ihtiyati hacizler uygulanmaz.
+
+NOTE: Rehinli alacaklar ve sıra cetvelinde birinci sırada yer alan alacaklar
+için takipler durmaz.
+
+Borçlu, tarafı olduğu ve konkordatonun amacına ulaşmasını engelleyen sürekli
+borç ilişkilerini, komiserin uygun görüşü ve mahkemenin onayıyla herhangi bir
+zamanda sona erecek şekilde feshedebilir. Bu çerçevede ödenmesi gereken
+tazminat, konkordato projesine tabi olur. Hizmet sözleşmelerinin feshine
+ilişkin özel hükümler saklıdır.
+
+Borçlu, komiserin nezareti altında işlerine devam edebilir. Şu kadar ki, mühlet
+kararı verirken veya mühlet içinde mahkeme, bazı işlemlerin geçerli olarak
+ancak komiserin izni ile yapılmasına veya borçlunun yerine komiserin işletmenin
+faaliyetini devam ettirmesine karar verebilir.
+
+Borçlu, mahkemenin izni dışında mühlet kararından itibaren rehin tesis edemez, kefil
+olamaz, taşınmaz ve işletmenin devamlı tesisatını kısmen dahi olsa devredemez, takyit edemez ve
+ivazsız tasarruflarda bulunamaz. Aksi hâlde yapılan işlemler hükümsüzdür. Mahkeme bu işlemler
+hakkında karar vermeden önce komiserin ve alacaklılar kurulunun görüşünü almak zorundadır.
+
+Güçlük arz eden özel durumlarda kesin mühlet, komiserin bu durumu
+açıklayan gerekçeli raporu ve talebi üzerine mahkemece altı aya kadar
+uzatılabilir. Uzatma talebi kesin mühletin sona ermesinden önce yapılır
+ve uzatma kararı vermeden önce varsa alacaklılar kurulunun da görüşü
+alınır.
+
+=== KOMİSER
+
+Dosyayı teslim alan komiser kesin mühlet içinde, konkordatonun tasdikine
+yönelik işlemleri tamamlayarak dosyayı rapotuyla birlikte mahkemeye iade
+eder.
+
+Komiserin görevi şunlardır:
+
+.. Konkordato projesinin tamamlanmasına katkıda bulunmak
+.. Borçlunun faaliyetlerine nezaret etmek
+.. Mahkemenin istediği konularda ve uygun göreceği sürelerde ara raporlar
+sunmak
+.. Alacaklılar kurulunu konkordatonun seyri hakkında düzenli aralıklarla
+bilgilendirmek
+.. Talepte bulunan diğer alacaklılara konkordatonun seyri ve borçlunun güncel
+mali durumu hakkında bilgi vermek
+
+Komiserin konkordatoya ilişkin işlemleri ile ilgili şikayetler, asliye
+ticaret mahkemesi tarafından kesin olarak karara bağlanır.
+
+=== ALACAKLILAR TOPLANTISI
+
+Konkordato projesinin hazırlanması, alacakların bildirilmesi ve tahkiki
+tamamlandıktan sonra komiser, yapacağı yeni bir ilânla alacaklıları, konkordato
+projesini müzakere etmek üzere toplanmaya davet eder. Toplantı günü ilândan en
+az on beş gün sonra olmak zorundadır.
+
+Komiser alacaklılar toplantısına başkanlık eder ve borçlunun durumu hakkında
+bir rapor verir.
+
+Borçlu gerekli açıklamaları yapmak üzere toplantıda hazır bulunmaya mecburdur.
+
+Konkordato projesi;
+
+.. Kaydedilmiş olan alacaklıların ve alacakların yarısını veya
+.. Kaydedilmiş olan alacaklıların dörtte birini ve alacakların üçte ikisini,
+
+aşan bir çoğunluk tarafından imza edilmiş ise kabul edilmiş sayılır.
+
+Oylamada sadece konkordato projesinden etkilenen alacaklılar oy kullanabilir.
+Sıra cetvelinin birinci sırasında yazılı imtiyazlı alacakların alacaklıları ve
+borçlunun eşi ve çocuğu ile kendisinin ve evlilik bağı ortadan kalkmış olsa
+dahi eşinin anası, babası ve kardeşi alacak ve alacaklı çoğunluğunun hesabında
+dikkate alınmaz.
+
+Konkordato projesinin müzakereleri sonucunda oluşturulan konkordato tutanağı,
+kabul ve ret oylarını içerecek şekilde derhâl imza olunur. Toplantının bitimini
+takip eden yedi gün içinde gerçekleşen iltihaklar da kabul olunur.
+
+Komiser, iltihak süresinin bitmesinden itibaren en geç yedi gün içinde
+konkordatoya ilişkin bütün belgeleri, konkordato projesinin kabul edilip
+edilmediğine ve tasdikinin uygun olup olmadığına dair gerekçeli raporunu
+mahkemeye tevdi eder.
+
+=== TASDİK
+
+Toplantıda ve iltihak süresi içinde verilen oylarla kabul edilen konkordato
+projesinin tasdiki aşağıdaki şartların gerçekleşmesine bağlıdır:
+
+.. Adi konkordatoda teklif edilen tutarın, borçlunun iflâsı hâlinde
+alacaklıların eline geçebilecek muhtemel miktardan fazla olacağının
+anlaşılması; malvarlığının terki suretiyle konkordatoda paraya çevirme hâlinde
+elde edilen hasılat veya üçüncü kişi tarafından teklif edilen tutarın iflâs
+yoluyla tasfiye hâlinde elde edilebilecek bedelden fazla olacağının
+anlaşılması.
+.. Teklif edilen tutarın borçlunun kaynakları ile orantılı olması (bu kapsamda
+mahkeme, borçlunun beklenen haklarının dikkate alınıp alınmayacağını ve
+alınacaksa ne oranda dikkate alınacağını da takdir eder).
+.. Konkordato projesinin 302 nci maddede öngörülen çoğunlukla kabul edilmiş
+bulunması.
+.. 206 ncı maddenin birinci sırasındaki imtiazlı alacaklıların alacaklarının
+tam olarak ödenmesinin ve mühlet içinde komiserin izniyle akdedilmiş borçların
+ifasının, alacaklı bundan açıkça vazgeçmedikçe yeterli teminata bağlanmış
+olması
+.. Konkordatonun tasdikinin gerektirdiği yargılama giderleri ile konkordatonun
+tasdiki durumunda alacaklılara ödenmesi kararlaştırılan para üzerinden alınması
+gereken harcın, tasdik kararından önce, borçlu tarafından mahkeme veznesine
+depo edilmiş olması.
+
+Mahkeme konkordato projesini yetersiz bulursa kendiliğinden veya talep üzerine
+gerekli gördüğü düzeltmenin yapılmasını isteyebilir.
+
+Konkordatonun tasdiki kararında alacaklıların hangi ölçüde alacaklarından
+vazgeçtiği ve borçlunun borçlarını hangi takvim çerçevesinde ödeyeceği
+belirtilir.
+
+Kararda, tasdik edilen konkordatonun yerine getirilmesini sağlamak için gerekli
+gözetim, yönetim ve tasfiye tedbirlerini almakla görevli bir kayyım tayin
+edilebilir. Bu takdirde kayyım, borçlunun işletmesinin durumu ve proje uyarınca
+borçlarını ödeme kabiliyetini muhafaza edip etmediği konusunda iki ayda bir
+tasdik kararını veren mahkemeye rapor verir; alacaklılar bu raporu
+inceleyebilirler.
+
+Konkordato tasdik edilmezse mahkeme konkordato talebinin reddine karar verir ve
+bu karar ilân edilerek ilgili yerlere bildirilir. Borçlunun iflâsa tabi
+şahıslardan olması ve doğrudan doğruya iflâs sebeplerinden birinin mevcut
+olması hâlinde mahkeme, borçlunun iflâsına resen karar verir.
